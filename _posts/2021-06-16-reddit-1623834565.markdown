@@ -1,7 +1,0 @@
---- 
-layout: post 
-title:  new post! 
-date:2021-06-16 1623834565 
-categories: reddit 
---- 
-https://i.redd.it/lupusg5bgl571.jpg
