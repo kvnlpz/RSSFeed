@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Luke Dashjr: “It may not be safe to use Bitcoin if full nodes do not enforce Taproot” 
+date: 2021-06-16 1623870829 
+categories: reddit 
+--- 
+https://redd.it/o1cui4
