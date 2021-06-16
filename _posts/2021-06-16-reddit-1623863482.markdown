@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Dogecoin 
-date: 2021-06-16 1623863482 
-categories: reddit 
---- 
-https://redd.it/o19w68

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hi! I have a problem and I would like to ask you for your help on how to solve it if possible. 
-date: 2021-06-16 1623866816 
-categories: reddit 
---- 
-https://redd.it/o1b8np

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daedalus wallet stuck at 99.8% synced 
-date: 2021-06-16 1623858602 
-categories: reddit 
---- 
-https://redd.it/o1800n

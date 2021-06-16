@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin graph: perfectly mirrored 
-date: 2021-06-16 1623870183 
-categories: reddit 
---- 
-https://redd.it/o1cl6n

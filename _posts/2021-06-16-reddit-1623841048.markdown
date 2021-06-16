@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New coin / Opinion 
-date: 2021-06-16 1623841048 
-categories: reddit 
---- 
-https://redd.it/o125bm

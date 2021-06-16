@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So I just entered a lottery through Algo. It gives me the opportunity to earn some tokens for free(sort of, I have to pause my staking rewards during the lottery) 
-date: 2021-06-16 1623867199 
-categories: reddit 
---- 
-https://redd.it/o1be63

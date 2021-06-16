@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Alex Gluchowski: zkSync -- The First EVM-Compatible zkRollup Protocol, Epicenter Episode #396 
-date: 2021-06-16 1623857256 
-categories: reddit 
---- 
-https://redd.it/o17i1z

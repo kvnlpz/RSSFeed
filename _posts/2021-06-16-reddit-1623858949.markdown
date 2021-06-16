@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Podcast - Lex Fridman and Charles Hoskinson on Cardano, Ethereum and more! 
-date: 2021-06-16 1623858949 
-categories: reddit 
---- 
-https://redd.it/o184rs

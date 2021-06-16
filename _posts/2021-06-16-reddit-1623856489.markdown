@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bid/ask question 
-date: 2021-06-16 1623856489 
-categories: reddit 
---- 
-https://redd.it/o177sd

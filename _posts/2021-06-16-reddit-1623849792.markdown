@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Critical optinions of dPoS protocols on CC 
-date: 2021-06-16 1623849792 
-categories: reddit 
---- 
-https://redd.it/o14rnj

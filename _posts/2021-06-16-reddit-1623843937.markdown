@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moons proposal - count the bought Moons in polls 
-date: 2021-06-16 1623843937 
-categories: reddit 
---- 
-https://redd.it/o12xxy

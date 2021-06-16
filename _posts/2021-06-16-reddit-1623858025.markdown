@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So I brought a ledger connected it to yoroi and took my ada of the exchange however I have had no passphase from yoroi is this because its actually sorted on my ledger maybe a stupid question but thought I better check 
-date: 2021-06-16 1623858025 
-categories: reddit 
---- 
-https://redd.it/o17sda

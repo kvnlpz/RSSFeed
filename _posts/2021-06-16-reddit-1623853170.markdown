@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: GME 
-date: 2021-06-16 1623853170 
-categories: reddit 
---- 
-https://redd.it/o15zh2

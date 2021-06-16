@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: r/Stocks Daily Discussion Wednesday - Jun 16, 2021 
-date: 2021-06-16 1623835836 
-categories: reddit 
---- 
-/r/stocks/comments/o10vqy/rstocks_daily_discussion_wednesday_jun_16_2021/

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Message to anyone using CeFi interest accounts like Nexo, BlockFi, Celcius etc, you might want to reconsider. 
-date: 2021-06-16 1623858793 
-categories: reddit 
---- 
-https://redd.it/o182kz

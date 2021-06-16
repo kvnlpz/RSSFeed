@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Price Difference In Uphold Transactions of Doge? Does anyone else notice discrepancies? Price Point shows .308126 when I go to purchase it is more. This happens all the time 
-date: 2021-06-16 1623856378 
-categories: reddit 
---- 
-https://redd.it/o176bm

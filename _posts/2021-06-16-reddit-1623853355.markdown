@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: False Trust notification? 
-date: 2021-06-16 1623853355 
-categories: reddit 
---- 
-https://redd.it/o161vl

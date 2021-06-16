@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PMCC tesla 
-date: 2021-06-16 1623855376 
-categories: reddit 
---- 
-https://redd.it/o16swd

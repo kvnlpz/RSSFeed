@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit coin 
-date: 2021-06-16 1623841791 
-categories: reddit 
---- 
-https://redd.it/o12cmp

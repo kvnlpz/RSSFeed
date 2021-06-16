@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can I delegate to multiple pools in Daedalus? 
-date: 2021-06-16 1623857887 
-categories: reddit 
---- 
-https://redd.it/o17qkh

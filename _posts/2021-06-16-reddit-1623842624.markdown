@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5: How exactly does staking ADA benefit the network? Why is it absolutely necessary to lock up your ADA in order to earn? 
-date: 2021-06-16 1623842624 
-categories: reddit 
---- 
-https://redd.it/o12kqu

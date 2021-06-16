@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FinTech 3.0 Re-Architecting Financial Market Infrastructure & DeFi 
-date: 2021-06-16 1623845313 
-categories: reddit 
---- 
-https://redd.it/o13ccp

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My first stock buy.. 
-date: 2021-06-16 1623862061 
-categories: reddit 
---- 
-https://redd.it/o19ba7

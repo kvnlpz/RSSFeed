@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: HELP! ADA Stake is displayed in BTC??? 
-date: 2021-06-16 1623844780 
-categories: reddit 
---- 
-https://redd.it/o136ht
