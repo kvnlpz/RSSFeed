@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title:  new post! 
+date:2021-06-16 1623834939 
+categories: reddit 
+--- 
+https://www.aljazeera.com/economy/2021/6/15/berners-lee-who-wrote-world-wide-web-to-auction-off-code-as-nft
