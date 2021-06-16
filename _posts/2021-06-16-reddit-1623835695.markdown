@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title:  new post! 
+date:2021-06-16 1623835695 
+categories: reddit 
+--- 
+https://redd.it/o10umc
