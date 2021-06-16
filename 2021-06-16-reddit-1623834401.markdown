@@ -1,7 +1,0 @@
---- 
-layout: post 
-title:  new post! 
-date:2021-06-16 1623834401 
-categories: reddit 
---- 
-https://i.redd.it/dpcpxn8tfl571.jpg

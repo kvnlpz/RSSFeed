@@ -1,7 +1,0 @@
---- 
-layout: post 
-title:  new post! 
-date:2021-06-16 1623834423 
-categories: reddit 
---- 
-https://www.irishtimes.com/business/technology/google-uses-double-irish-to-shift-75-4bn-in-profits-out-of-ireland-1.4540519
