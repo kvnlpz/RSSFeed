@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FreakTrader 
-date: 2021-06-21 1624325876 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407150811591892992
