@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KFitzTrades 
-date: 2021-06-22 1624371410 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407341793084071938
