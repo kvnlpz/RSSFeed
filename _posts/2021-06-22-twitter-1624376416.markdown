@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JeffSchmiedlin 
+date: 2021-06-22 1624376416 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407362787093975043
