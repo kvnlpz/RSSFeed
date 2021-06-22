@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dexdriahapa 
-date: 2021-06-22 1624375165 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407357447644217347
