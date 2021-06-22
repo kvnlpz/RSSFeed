@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PabloS07412557 
-date: 2021-06-21 1624324984 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407147057316466689
