@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @josephspinney 
-date: 2021-06-22 1624365798 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407318252699652100
