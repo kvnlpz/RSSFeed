@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brako_patrick 
-date: 2021-06-21 1624327216 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407156428054294531
