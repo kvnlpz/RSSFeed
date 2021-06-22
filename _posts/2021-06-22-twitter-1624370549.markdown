@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NinjaDegenerez 
-date: 2021-06-22 1624370549 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407338182841077781
