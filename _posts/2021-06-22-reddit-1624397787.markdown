@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transaction unconfirmed 7 hours later 
-date: 2021-06-22 1624397787 
-categories: reddit 
---- 
-https://redd.it/o5xxpl
