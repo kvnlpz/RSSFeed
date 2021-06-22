@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZoeyJTDearing 
-date: 2021-06-22 1624370330 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407337234974531591
