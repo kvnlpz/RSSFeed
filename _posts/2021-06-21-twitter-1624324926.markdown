@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Ulysses2112 
-date: 2021-06-21 1624324926 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407146794690043909
