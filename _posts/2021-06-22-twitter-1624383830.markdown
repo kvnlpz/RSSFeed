@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jrj 
-date: 2021-06-22 1624383830 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407393887363256320
