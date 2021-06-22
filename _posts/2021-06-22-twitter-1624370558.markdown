@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markflowchatter 
-date: 2021-06-22 1624370558 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407338219423809541
