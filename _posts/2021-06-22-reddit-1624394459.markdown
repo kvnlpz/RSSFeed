@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I'm recieving a bitcoin payment with an $0.11 fee; will this transaction EVER confirm? Because it seems highly unlikely 
+date: 2021-06-22 1624394459 
+categories: reddit 
+--- 
+https://redd.it/o5wr2e
