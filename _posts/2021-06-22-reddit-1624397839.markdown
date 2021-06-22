@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a free and automated tool/portfolio for tracking gains and losses? 
-date: 2021-06-22 1624397839 
-categories: reddit 
---- 
-https://redd.it/o5xy88
