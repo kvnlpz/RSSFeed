@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gentryzb 
-date: 2021-06-22 1624364361 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407312225380061186
