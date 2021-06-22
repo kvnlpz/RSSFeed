@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When the bubble breaks 
-date: 2021-06-22 1624390027 
-categories: reddit 
---- 
-https://redd.it/o5v3et
