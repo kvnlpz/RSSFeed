@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bpmoriarty 
-date: 2021-06-22 1624391907 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407427762147762179
