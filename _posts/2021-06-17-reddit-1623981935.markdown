@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA: be careful when transferring to NEXO wallet. Certain cryptos require a specific memo code to be given. (EOS) 
-date: 2021-06-17 1623981935 
-categories: reddit 
---- 
-https://redd.it/o2dyx0

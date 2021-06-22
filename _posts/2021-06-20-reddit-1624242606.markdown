@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why does everything follow BTC? 
-date: 2021-06-20 1624242606 
-categories: reddit 
---- 
-https://redd.it/o4kzei

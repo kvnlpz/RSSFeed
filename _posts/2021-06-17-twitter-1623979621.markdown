@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Davannoy 
-date: 2021-06-17 1623979621 
-categories: twitter 
---- 
-https://twitter.com/o/status/1405698516731809794

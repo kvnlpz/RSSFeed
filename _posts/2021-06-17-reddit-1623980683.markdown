@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Math supported algorand argument 
-date: 2021-06-17 1623980683 
-categories: reddit 
---- 
-https://redd.it/o2dkrw

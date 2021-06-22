@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WarrenMuffett 
-date: 2021-06-20 1624239508 
-categories: twitter 
---- 
-https://twitter.com/o/status/1406788555389739008

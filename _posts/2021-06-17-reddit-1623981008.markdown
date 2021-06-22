@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there any formula in alt coin market price that link with Bitcoin because almost all coin price moving like bitcoin moves? 
-date: 2021-06-17 1623981008 
-categories: reddit 
---- 
-https://redd.it/o2doex

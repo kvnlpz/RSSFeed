@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What % of your portfolio is in ETH? 
-date: 2021-06-17 1623981793 
-categories: reddit 
---- 
-https://redd.it/o2dx8y
