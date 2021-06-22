@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GreenDayJay 
-date: 2021-06-22 1624392825 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407431613496057857
