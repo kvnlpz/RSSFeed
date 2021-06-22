@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kr_neelansh 
-date: 2021-06-22 1624373282 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407349644972154889
