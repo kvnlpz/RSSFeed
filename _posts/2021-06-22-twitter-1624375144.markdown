@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EliasSenpai94 
-date: 2021-06-22 1624375144 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407357392719810560
