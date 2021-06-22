@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pacmanstocks 
-date: 2021-06-21 1624326126 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407151857282306051
