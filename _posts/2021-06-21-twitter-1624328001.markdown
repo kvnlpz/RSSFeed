@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DKTNews 
+date: 2021-06-21 1624328001 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407159723489648642
