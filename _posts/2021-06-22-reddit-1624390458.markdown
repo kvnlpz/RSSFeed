@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Introducing Monero Punks Collective - a new workgroup dedicated to technical discussions and collaboration of tools and services 
-date: 2021-06-22 1624390458 
-categories: reddit 
---- 
-https://redd.it/o5v99t
