@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @GeeSpiff 
+date: 2021-06-22 1624370241 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407336817117040653
