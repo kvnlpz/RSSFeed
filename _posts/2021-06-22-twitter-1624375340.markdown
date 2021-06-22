@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GanrudeTom 
-date: 2021-06-22 1624375340 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407358275994230795
