@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LAC2285 
-date: 2021-06-22 1624363948 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407310494696808448
