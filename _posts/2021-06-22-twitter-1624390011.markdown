@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrandonRiso 
-date: 2021-06-22 1624390011 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407419809822875653
