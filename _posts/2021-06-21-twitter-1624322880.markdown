@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JailedFlynt 
-date: 2021-06-21 1624322880 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407138243859070977
