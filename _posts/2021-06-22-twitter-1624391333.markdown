@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JackpotVoid 
-date: 2021-06-22 1624391333 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407425357121085441
