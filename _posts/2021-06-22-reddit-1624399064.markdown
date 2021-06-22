@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinMarketCap excel API! Keep track of your coin prices! 
-date: 2021-06-22 1624399064 
-categories: reddit 
---- 
-https://redd.it/o5ydwn
