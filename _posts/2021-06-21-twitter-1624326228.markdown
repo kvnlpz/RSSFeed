@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nebwolrab 
-date: 2021-06-21 1624326228 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407152284929335296
