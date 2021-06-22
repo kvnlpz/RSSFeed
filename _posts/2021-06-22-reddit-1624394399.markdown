@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Portfolio rebalancing 
-date: 2021-06-22 1624394399 
-categories: reddit 
---- 
-https://redd.it/o5wq7u
