@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SherryGao14 
-date: 2021-06-22 1624385581 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407401230096347139
