@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thePalenimbus 
-date: 2021-06-21 1624323349 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407140196320169989
