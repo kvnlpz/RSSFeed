@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jushere4fintwit 
-date: 2021-06-22 1624362848 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407305881595920388
