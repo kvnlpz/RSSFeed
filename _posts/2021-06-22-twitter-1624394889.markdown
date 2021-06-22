@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConwayYen 
-date: 2021-06-22 1624394889 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407440273236533249
