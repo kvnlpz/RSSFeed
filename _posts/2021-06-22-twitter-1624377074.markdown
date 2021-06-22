@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Antdb8 
-date: 2021-06-22 1624377074 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407365540549627908
