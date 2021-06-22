@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @collide_z 
-date: 2021-06-22 1624362229 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407303287464943624
