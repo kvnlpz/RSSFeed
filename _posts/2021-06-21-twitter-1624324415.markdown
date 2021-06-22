@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HoYtsFiNeStaPe 
-date: 2021-06-21 1624324415 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407144681063038983
