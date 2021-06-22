@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jgborger14 
-date: 2021-06-22 1624391947 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407427929865396224
