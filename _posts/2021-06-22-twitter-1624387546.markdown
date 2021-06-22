@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bthestory87 
-date: 2021-06-22 1624387546 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407409471819767811
