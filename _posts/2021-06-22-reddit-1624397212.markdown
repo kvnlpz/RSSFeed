@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: vote up Bitcoin! 
-date: 2021-06-22 1624397212 
-categories: reddit 
---- 
-https://redd.it/o5xq8h
