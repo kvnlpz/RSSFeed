@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mishka339 
-date: 2021-06-22 1624362572 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407304723053506568
