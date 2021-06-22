@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mwschal 
-date: 2021-06-21 1624323275 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407139899321556994
