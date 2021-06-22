@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tweetthisvicki 
-date: 2021-06-21 1624327016 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407155593194971137
