@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @michaelcoleufc2 
-date: 2021-06-22 1624370599 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407338392556343309
