@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BobTendle 
+date: 2021-06-22 1624364507 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407312838880813056
