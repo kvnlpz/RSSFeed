@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The dip 
-date: 2021-06-22 1624390760 
-categories: reddit 
---- 
-https://redd.it/o5vd9u
