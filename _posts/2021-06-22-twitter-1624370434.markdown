@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @realpaulchaffee 
-date: 2021-06-22 1624370434 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407337685602164738
