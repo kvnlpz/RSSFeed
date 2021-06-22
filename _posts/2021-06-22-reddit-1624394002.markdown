@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Paper Wallets 
-date: 2021-06-22 1624394002 
-categories: reddit 
---- 
-https://redd.it/o5wl2c
