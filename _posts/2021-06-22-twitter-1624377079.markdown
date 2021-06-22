@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Aika81218082 
-date: 2021-06-22 1624377079 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407365570131988482
