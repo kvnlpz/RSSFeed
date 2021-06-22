@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ericallred4 
-date: 2021-06-21 1624326301 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407152591297933325
