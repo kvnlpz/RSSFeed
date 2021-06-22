@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eljefe10231 
-date: 2021-06-22 1624364111 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407311180436328450
