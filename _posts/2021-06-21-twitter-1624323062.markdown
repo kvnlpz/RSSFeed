@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EveryoneAlt 
-date: 2021-06-21 1624323062 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407139005615927305
