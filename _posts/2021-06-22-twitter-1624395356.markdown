@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThawneM 
-date: 2021-06-22 1624395356 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407442228004458508
