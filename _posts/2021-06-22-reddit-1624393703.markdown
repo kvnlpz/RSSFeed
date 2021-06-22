@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: De Coupling Nonsense 
+date: 2021-06-22 1624393703 
+categories: reddit 
+--- 
+https://redd.it/o5wh76
