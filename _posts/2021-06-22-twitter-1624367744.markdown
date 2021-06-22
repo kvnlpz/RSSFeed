@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joeyturman 
-date: 2021-06-22 1624367744 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407326417377845249
