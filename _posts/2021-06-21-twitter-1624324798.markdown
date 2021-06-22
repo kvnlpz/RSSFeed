@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MakeSmartTrades 
-date: 2021-06-21 1624324798 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407146269626224641
