@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Christi76333835 
-date: 2021-06-22 1624368468 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407329452644876290
