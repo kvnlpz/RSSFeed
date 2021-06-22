@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidCa04902593 
-date: 2021-06-22 1624368774 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407330735321665539
