@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnnaE82 
-date: 2021-06-22 1624365267 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407316026438524933
