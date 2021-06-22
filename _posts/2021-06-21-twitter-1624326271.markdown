@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ezekielpeppers3 
-date: 2021-06-21 1624326271 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407152467373170692
