@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bio_econ 
-date: 2021-06-22 1624363400 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407308197745025029
