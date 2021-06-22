@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jarrad_fiorito 
-date: 2021-06-22 1624390302 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407420554097872900
