@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mono_trader 
-date: 2021-06-22 1624380647 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407380536868413450
