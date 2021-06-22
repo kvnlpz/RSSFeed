@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nj_agent 
-date: 2021-06-22 1624370407 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407337585937113101
