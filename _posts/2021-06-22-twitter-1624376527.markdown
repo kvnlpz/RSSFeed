@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1000songs 
-date: 2021-06-22 1624376527 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407363254792380418
