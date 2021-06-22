@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jmartinez01n 
-date: 2021-06-22 1624365216 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407315814974431236
