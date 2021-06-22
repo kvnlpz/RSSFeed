@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible to calculate the value of an at the money option at expiration? 
-date: 2021-06-22 1624391345 
-categories: reddit 
---- 
-https://redd.it/o5vlau
