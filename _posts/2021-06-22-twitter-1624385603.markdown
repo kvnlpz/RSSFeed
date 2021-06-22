@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LazyPapi26 
-date: 2021-06-22 1624385603 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407401322467545089
