@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @SanderKvalheim 
+date: 2021-06-22 1624383555 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407392731677200386
