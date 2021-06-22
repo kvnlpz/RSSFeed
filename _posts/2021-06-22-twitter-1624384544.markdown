@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Elocorns 
+date: 2021-06-22 1624384544 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407396882717065218
