@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Need help 
-date: 2021-06-22 1624387372 
-categories: reddit 
---- 
-https://redd.it/o5u440
