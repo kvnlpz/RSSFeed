@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Matt Hamilton, Director of Developer Relations at RippleX, dispels some of the misinformation about XRP and the XRP Ledger 
-date: 2021-06-22 1624394568 
-categories: reddit 
---- 
-https://redd.it/o5wsir
