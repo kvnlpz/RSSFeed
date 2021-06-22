@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MaryMarch2021 
-date: 2021-06-21 1624323885 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407142443473063937
