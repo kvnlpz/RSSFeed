@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Junior_Parlays 
-date: 2021-06-22 1624367822 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407326743866888196
