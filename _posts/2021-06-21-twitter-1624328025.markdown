@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @midnitecoder 
-date: 2021-06-21 1624328025 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407159823267946500
