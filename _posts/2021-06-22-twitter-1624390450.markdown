@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Steven1__994___ 
-date: 2021-06-22 1624390450 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407420953580261380
