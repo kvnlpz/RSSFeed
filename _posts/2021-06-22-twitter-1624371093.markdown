@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bushidoshi 
-date: 2021-06-22 1624371093 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407340463355535367
