@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cdsfrog 
-date: 2021-06-22 1624375389 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407358484060917760
