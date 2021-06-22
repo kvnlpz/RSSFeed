@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Meet Gajesh Naik, the 13-Year-Old Who Developed a DeFi Protocol; a $7M Money Manager 
-date: 2021-06-22 1624396448 
-categories: reddit 
---- 
-https://redd.it/o5xgfi
