@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tykeamusprime 
-date: 2021-06-22 1624370667 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407338678360416272
