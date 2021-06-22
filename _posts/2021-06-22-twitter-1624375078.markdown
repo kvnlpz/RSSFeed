@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NewnanRob 
-date: 2021-06-22 1624375078 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407357165011099648
