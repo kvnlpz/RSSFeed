@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rack helium miner coming tomorrow 
-date: 2021-06-22 1624389924 
-categories: reddit 
---- 
-https://redd.it/o5v25s
