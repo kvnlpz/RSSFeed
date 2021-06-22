@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MikailVM 
+date: 2021-06-22 1624380630 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407380461710569473
