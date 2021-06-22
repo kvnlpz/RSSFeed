@@ -1,5 +1,0 @@
---- 
-layout: post title:  new post! 
-date:2021-06-16 1623831954 
-categories: reddit 
---- Gas fees are down. Time to trade.
