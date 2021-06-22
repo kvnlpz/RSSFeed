@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rob1zm 
-date: 2021-06-22 1624369241 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407332695387082759
