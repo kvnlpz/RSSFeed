@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @billypughcap 
-date: 2021-06-22 1624364921 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407314575750402051
