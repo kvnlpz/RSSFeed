@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AaronKlein10X 
-date: 2021-06-22 1624362658 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407305085520998406
