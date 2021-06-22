@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kieron_jarvis 
-date: 2021-06-22 1624375169 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407357454288097289
