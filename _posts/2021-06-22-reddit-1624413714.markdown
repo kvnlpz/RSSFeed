@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A deep look into the buying structure of Saylor’s btc purchases. 
-date: 2021-06-22 1624413714 
-categories: reddit 
---- 
-https://redd.it/o632hc
