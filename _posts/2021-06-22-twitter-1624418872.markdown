@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cript0knight 
-date: 2021-06-22 1624418872 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407540852071743489
