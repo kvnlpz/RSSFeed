@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Break My Contract, Steal My Money - A Solidity Riddle 
+date: 2021-06-23 1624464081 
+categories: reddit 
+--- 
+https://redd.it/o6fshx
