@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sid52102483 
-date: 2021-06-22 1624411328 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407509221734768644
