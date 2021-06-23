@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @javiermendonca 
-date: 2021-06-23 1624435718 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407611521425887232
