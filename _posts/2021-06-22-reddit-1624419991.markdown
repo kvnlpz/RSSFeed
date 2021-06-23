@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Great job 
-date: 2021-06-22 1624419991 
-categories: reddit 
---- 
-https://redd.it/o64ul0
