@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Key Points from Interview with IOHK CTO 
+date: 2021-06-22 1624428146 
+categories: reddit 
+--- 
+https://redd.it/o66ud5
