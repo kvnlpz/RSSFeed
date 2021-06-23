@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Sent LN transaction from Strike to Phoenix, high fees? 
+date: 2021-06-23 1624465669 
+categories: reddit 
+--- 
+https://redd.it/o6gbjj
