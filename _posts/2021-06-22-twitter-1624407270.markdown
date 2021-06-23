@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Matthew46H 
-date: 2021-06-22 1624407270 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407492199290376192
