@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JonathanCHowe 
-date: 2021-06-23 1624480033 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407797356280651778
