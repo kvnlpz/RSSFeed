@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @The_Real_KMitch 
-date: 2021-06-22 1624395971 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407444810651344906
