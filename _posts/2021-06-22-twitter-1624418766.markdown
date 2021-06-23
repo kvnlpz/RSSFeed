@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brady_trades 
-date: 2021-06-22 1624418766 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407540420251320326
