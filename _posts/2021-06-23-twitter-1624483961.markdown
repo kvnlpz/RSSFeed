@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markosp 
-date: 2021-06-23 1624483961 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407813679333117955
