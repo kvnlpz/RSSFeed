@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stecydevilers 
-date: 2021-06-23 1624477803 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407787323421597698
