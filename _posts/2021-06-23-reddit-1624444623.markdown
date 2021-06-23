@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Called the bottom, but my order didn't fill... Anyone know why? 
-date: 2021-06-23 1624444623 
-categories: reddit 
---- 
-https://redd.it/o6a7b1
