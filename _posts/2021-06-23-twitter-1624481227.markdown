@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @talley_trey 
-date: 2021-06-23 1624481227 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407802400375726086
