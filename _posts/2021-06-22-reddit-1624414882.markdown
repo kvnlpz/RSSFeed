@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Conspiracy Time 
-date: 2021-06-22 1624414882 
-categories: reddit 
---- 
-https://redd.it/o61gex
