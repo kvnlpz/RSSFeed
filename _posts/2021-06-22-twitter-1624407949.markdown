@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Blue71061836 
-date: 2021-06-22 1624407949 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407495049437356032
