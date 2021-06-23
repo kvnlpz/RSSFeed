@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @proof_of_lake 
-date: 2021-06-22 1624411190 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407508641259921411
