@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MommaCrys3 
-date: 2021-06-23 1624473486 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407769932591517698
