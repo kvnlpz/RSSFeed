@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @naveen0210 
-date: 2021-06-23 1624469044 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407751299290992642
