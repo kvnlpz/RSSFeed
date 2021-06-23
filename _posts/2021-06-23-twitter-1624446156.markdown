@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @colbythecooper 
-date: 2021-06-23 1624446156 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407655301025775619
