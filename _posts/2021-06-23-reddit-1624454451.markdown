@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Be Bitcoin my friend 
-date: 2021-06-23 1624454451 
-categories: reddit 
---- 
-https://redd.it/o6cod3
