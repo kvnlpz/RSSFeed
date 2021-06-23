@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JacobLepley 
-date: 2021-06-22 1624417568 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407535381432700936
