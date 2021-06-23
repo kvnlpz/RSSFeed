@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CanDeger 
-date: 2021-06-23 1624480468 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407799215284273154
