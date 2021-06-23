@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Skate_a_book 
-date: 2021-06-23 1624477611 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407786927814692868
