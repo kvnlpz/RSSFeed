@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jimcollins 
-date: 2021-06-22 1624418818 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407540598865805318
