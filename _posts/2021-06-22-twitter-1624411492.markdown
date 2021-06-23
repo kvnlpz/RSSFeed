@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tradefalcon1 
-date: 2021-06-22 1624411492 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407509910733086727
