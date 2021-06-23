@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DigbyNew 
-date: 2021-06-23 1624476669 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782510705119234
