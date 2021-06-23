@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about PoS value derivation 
-date: 2021-06-22 1624421390 
-categories: reddit 
---- 
-https://redd.it/o657o0
