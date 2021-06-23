@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Migrating Tezos to ledger 
-date: 2021-06-22 1624417926 
-categories: reddit 
---- 
-https://redd.it/o64ar5
