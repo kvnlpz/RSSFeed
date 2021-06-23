@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AGraxiano 
-date: 2021-06-22 1624418774 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407540435912851457
