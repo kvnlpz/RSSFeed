@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jazziyoungcat 
-date: 2021-06-22 1624407746 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407494196471107585
