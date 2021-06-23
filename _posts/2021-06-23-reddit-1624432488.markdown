@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Polkadot DeFi hub Acala's Karura network wins first Kusama auction 
-date: 2021-06-23 1624432488 
-categories: reddit 
---- 
-https://redd.it/o67rwf
