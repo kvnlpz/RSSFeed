@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pittore187 
-date: 2021-06-22 1624410615 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407506232106274816
