@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LookAtTheVolume 
-date: 2021-06-22 1624417275 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407534166867066880
