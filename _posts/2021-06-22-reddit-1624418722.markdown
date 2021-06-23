@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Spotted at my local store 
-date: 2021-06-22 1624418722 
-categories: reddit 
---- 
-https://redd.it/o64ih1
