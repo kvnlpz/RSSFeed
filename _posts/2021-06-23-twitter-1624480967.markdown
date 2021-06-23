@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Frankalexvalent 
-date: 2021-06-23 1624480967 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407801310305456129
