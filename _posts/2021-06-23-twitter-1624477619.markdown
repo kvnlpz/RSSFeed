@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Not_A_Honeypot 
-date: 2021-06-23 1624477619 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407786932051091458
