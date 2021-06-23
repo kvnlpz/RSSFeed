@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markgoodw_in 
-date: 2021-06-22 1624419263 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407542502769545226
