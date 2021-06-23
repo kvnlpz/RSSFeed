@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Decentralize the World with Cartesi 
-date: 2021-06-23 1624457959 
-categories: reddit 
---- 
-https://redd.it/o6dqj9
