@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HollyKinnamon 
-date: 2021-06-23 1624476909 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782908144885765
