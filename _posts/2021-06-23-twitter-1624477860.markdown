@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bmovers 
+date: 2021-06-23 1624477860 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407787552476700672
