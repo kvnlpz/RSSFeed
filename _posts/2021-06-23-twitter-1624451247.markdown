@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zanderwestcoast 
-date: 2021-06-23 1624451247 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407676466716835840
