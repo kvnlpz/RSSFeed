@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @making_sales 
-date: 2021-06-23 1624450778 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407674676411830272
