@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MadsenSouth 
-date: 2021-06-22 1624411196 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407508668740997122
