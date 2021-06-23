@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @2it3r 
-date: 2021-06-23 1624481658 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407804204920426498
