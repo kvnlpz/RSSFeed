@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @doomscrolled 
-date: 2021-06-22 1624417564 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407535377850769413
