@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PrawnPewis 
-date: 2021-06-23 1624451459 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407677405871939584
