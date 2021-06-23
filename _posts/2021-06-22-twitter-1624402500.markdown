@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nm_ex3 
-date: 2021-06-22 1624402500 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407472194163146753
