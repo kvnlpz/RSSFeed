@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: At @swiftcommunity’s Smarter Securities event, Chainlink Co-founder @SergeyNazarov & SWIFT Capital Markets Strategy Director Matthieu de Heering explored how enterprises can use #Chainlink to connect to multiple blockchains from existing backend systems. 
+date: 2021-06-23 1624464835 
+categories: reddit 
+--- 
+https://redd.it/o6g1h9
