@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @210Alih 
-date: 2021-06-22 1624423432 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407559986713010177
