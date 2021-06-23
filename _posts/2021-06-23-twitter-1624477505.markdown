@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BIKapital 
-date: 2021-06-23 1624477505 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407786643172610053
