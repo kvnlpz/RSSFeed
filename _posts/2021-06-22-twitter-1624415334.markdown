@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @flowrmeadow 
-date: 2021-06-22 1624415334 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407526024364138499
