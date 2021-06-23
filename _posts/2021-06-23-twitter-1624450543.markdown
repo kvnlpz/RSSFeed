@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NEtternavn 
-date: 2021-06-23 1624450543 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407673649834962945
