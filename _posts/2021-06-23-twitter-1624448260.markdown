@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gabestonks 
-date: 2021-06-23 1624448260 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407664125791117321
