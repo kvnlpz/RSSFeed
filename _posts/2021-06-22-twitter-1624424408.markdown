@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @dimattiamusic 
+date: 2021-06-22 1624424408 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407564083453476864
