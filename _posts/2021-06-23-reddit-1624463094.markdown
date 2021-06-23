@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it a sad day or happy day when doge is up +20% and it’s only up to .24? 
-date: 2021-06-23 1624463094 
-categories: reddit 
---- 
-https://redd.it/o6fg7m
