@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $GOEV. Why is it up on low volume? 
-date: 2021-06-23 1624463615 
-categories: reddit 
---- 
-https://redd.it/o6fmma
