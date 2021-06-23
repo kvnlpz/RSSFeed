@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @runako 
-date: 2021-06-22 1624408599 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407497776414535682
