@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jadam2122 
-date: 2021-06-23 1624450817 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407674851372978177
