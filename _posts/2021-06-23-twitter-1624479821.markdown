@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bullishbearfoh 
-date: 2021-06-23 1624479821 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407796502089539587
