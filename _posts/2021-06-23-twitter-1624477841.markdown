@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeArmongus 
-date: 2021-06-23 1624477841 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407787455055417345
