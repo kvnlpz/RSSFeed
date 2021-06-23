@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Soilfloweroil 
-date: 2021-06-22 1624413487 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407518275710357506
