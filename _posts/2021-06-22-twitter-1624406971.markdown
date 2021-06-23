@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WorldOfJoe90 
-date: 2021-06-22 1624406971 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407490944744804352
