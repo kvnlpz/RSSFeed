@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ShayKalaora 
-date: 2021-06-23 1624451240 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407676372684771332
