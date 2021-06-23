@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Logic_AD 
-date: 2021-06-23 1624477100 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407783304187809792
