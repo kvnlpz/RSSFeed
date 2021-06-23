@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Carrie_Kelly17 
-date: 2021-06-23 1624477884 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407787586169540615
