@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CafeMacondo 
-date: 2021-06-22 1624410639 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407506333390225409
