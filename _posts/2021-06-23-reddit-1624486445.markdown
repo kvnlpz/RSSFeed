@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A community for Monero Creators 
-date: 2021-06-23 1624486445 
-categories: reddit 
---- 
-https://redd.it/o6nbjx
