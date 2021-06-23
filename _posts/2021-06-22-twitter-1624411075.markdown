@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @s_carlitto 
-date: 2021-06-22 1624411075 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407508161674633220
