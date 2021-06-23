@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Be careful with leverage! How One Ether Options Trader Lost $3M in a Trade Gone Bad 
-date: 2021-06-23 1624467330 
-categories: reddit 
---- 
-https://redd.it/o6gxf4
