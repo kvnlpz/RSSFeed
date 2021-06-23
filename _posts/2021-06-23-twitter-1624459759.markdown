@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Byron36833383 
-date: 2021-06-23 1624459759 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407712245380005888
