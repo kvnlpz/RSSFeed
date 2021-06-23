@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Onamiss23893191 
-date: 2021-06-23 1624477661 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407787008064475139
