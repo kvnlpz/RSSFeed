@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeremyj0916 
-date: 2021-06-22 1624402504 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407472205223677958
