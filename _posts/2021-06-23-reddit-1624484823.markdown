@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Introducing CryptoSnoos—a very Reddit take on NFTs 
-date: 2021-06-23 1624484823 
-categories: reddit 
---- 
-https://redd.it/o6ms0b
