@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MarMelchiorsen 
-date: 2021-06-23 1624459841 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407712698427756544
