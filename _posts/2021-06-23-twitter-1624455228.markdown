@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tarunchitra 
-date: 2021-06-23 1624455228 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407693350661132291
