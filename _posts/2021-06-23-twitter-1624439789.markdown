@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GoldenK19325254 
-date: 2021-06-23 1624439789 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407628594092838913
