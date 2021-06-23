@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SkinnerLiber8ed 
-date: 2021-06-23 1624477426 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407786441338404866
