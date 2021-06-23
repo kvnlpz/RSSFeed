@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kakashtreaux 
-date: 2021-06-22 1624422782 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407557261334138882
