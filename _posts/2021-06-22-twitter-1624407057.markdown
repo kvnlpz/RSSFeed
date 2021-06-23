@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Anna55954662 
-date: 2021-06-22 1624407057 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407491308856479746
