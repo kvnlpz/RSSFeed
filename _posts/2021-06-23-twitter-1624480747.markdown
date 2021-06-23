@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TampaWatcher 
-date: 2021-06-23 1624480747 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407800374560444419
