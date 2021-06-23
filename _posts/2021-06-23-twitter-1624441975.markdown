@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @betweenplays1 
-date: 2021-06-23 1624441975 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407637765819355143
