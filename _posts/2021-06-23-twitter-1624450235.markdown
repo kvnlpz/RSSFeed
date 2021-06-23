@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kryptokroit 
-date: 2021-06-23 1624450235 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407672375777316871
