@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @likmyrik 
-date: 2021-06-23 1624480529 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407799457320558592
