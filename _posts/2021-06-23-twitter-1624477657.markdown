@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Shewa_gold 
-date: 2021-06-23 1624477657 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407787007275900929
