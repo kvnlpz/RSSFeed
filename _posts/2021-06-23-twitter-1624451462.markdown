@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @golfermike49 
-date: 2021-06-23 1624451462 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407677480052293634
