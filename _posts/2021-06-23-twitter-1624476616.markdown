@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AmirHussainPTI 
-date: 2021-06-23 1624476616 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782387224809477
