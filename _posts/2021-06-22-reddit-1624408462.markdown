@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nasdaq appears to be hiding information from the public eye. This time you can’t see the intervals relating to the trade that took place on TSLA @ 5:18 PM for $665.36 AH high. Cant go past 5 pages of trades on each 30 minute time block.... 
-date: 2021-06-22 1624408462 
-categories: reddit 
---- 
-https://redd.it/o61etl
