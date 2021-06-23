@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RoseLeoMusk 
-date: 2021-06-23 1624485864 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407821823333462016
