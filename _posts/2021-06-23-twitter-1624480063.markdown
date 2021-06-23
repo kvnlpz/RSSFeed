@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @olystubbies44 
-date: 2021-06-23 1624480063 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407797488816431117
