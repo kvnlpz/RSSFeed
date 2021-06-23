@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-06-23 1624469258 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407752196767174658
