@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KemonomichiNL 
-date: 2021-06-23 1624476230 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407781406000832514
