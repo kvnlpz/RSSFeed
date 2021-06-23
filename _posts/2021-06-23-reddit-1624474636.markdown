@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New Project Timeline for ErgoDex, DEX ontop both Ergo and Cardano 
-date: 2021-06-23 1624474636 
-categories: reddit 
---- 
-https://redd.it/o6jf3v
