@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheMarathon8320 
-date: 2021-06-22 1624408568 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407497645212397570
