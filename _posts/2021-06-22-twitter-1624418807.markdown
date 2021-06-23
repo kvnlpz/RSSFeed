@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnonymousN_BTC 
-date: 2021-06-22 1624418807 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407540580100579329
