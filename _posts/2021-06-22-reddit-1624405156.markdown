@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Questions About Tiered Staking from the Whitepaper 2.0 
-date: 2021-06-22 1624405156 
-categories: reddit 
---- 
-https://redd.it/o60e6d
