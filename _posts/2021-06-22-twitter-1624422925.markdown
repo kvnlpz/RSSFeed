@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SkyRole_Academy 
-date: 2021-06-22 1624422925 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407557861463449602
