@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SladeTrade74 
-date: 2021-06-23 1624451708 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407678589269540865
