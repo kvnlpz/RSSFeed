@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaddyGameStop 
-date: 2021-06-23 1624480153 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407797881063493635
