@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mho_9999 
-date: 2021-06-23 1624483973 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407813817233465353
