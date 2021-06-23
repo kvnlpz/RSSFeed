@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RXrigo 
-date: 2021-06-23 1624459010 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407709207965560846
