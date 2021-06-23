@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BertandBen 
-date: 2021-06-22 1624400712 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407464693531299847
