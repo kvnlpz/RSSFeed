@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jazztronix 
-date: 2021-06-22 1624409506 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407501580719431681
