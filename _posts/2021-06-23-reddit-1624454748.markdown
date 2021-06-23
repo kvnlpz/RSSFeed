@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $Nio - Yoloing 
-date: 2021-06-23 1624454748 
-categories: reddit 
---- 
-https://redd.it/o6crtm
