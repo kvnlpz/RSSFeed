@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeHsieh24 
-date: 2021-06-22 1624421169 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407550497091846146
