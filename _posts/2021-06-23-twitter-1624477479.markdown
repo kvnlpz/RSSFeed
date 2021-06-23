@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @dartgunintel 
+date: 2021-06-23 1624477479 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407786563925381126
