@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @911Station 
-date: 2021-06-22 1624395612 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407443304665522177
