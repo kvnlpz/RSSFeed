@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @j040p0rtug4l 
-date: 2021-06-22 1624418916 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407541046855311360
