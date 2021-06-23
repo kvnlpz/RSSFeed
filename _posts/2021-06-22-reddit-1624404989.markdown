@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: THC - 100x YOLO 
-date: 2021-06-22 1624404989 
-categories: reddit 
---- 
-https://redd.it/o60c98
