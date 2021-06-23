@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @carlosortigoza1 
-date: 2021-06-23 1624475943 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407780235043557378
