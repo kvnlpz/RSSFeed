@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HDPbilly 
-date: 2021-06-23 1624432162 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407596604991758338
