@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @catapultcap 
-date: 2021-06-23 1624459199 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407710007370604548
