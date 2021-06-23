@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crazy market 
-date: 2021-06-22 1624416665 
-categories: reddit 
---- 
-https://redd.it/o63ydm
