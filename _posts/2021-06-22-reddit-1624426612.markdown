@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How Ethereum Uncle Block Mechanism could raise the chance of an Eclipse attack 
-date: 2021-06-22 1624426612 
-categories: reddit 
---- 
-https://redd.it/o66hix
