@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @avi_eisen 
-date: 2021-06-23 1624473403 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407769570962771974
