@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @coloradotravis 
+date: 2021-06-22 1624424498 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407564460911316992
