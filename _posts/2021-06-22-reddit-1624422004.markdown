@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Expiry on Friday. What's your take? 
-date: 2021-06-22 1624422004 
-categories: reddit 
---- 
-https://redd.it/o65dg4
