@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why do people mine ethereum instead of bitcoin now? 
-date: 2021-06-23 1624432247 
-categories: reddit 
---- 
-https://redd.it/o67pzu
