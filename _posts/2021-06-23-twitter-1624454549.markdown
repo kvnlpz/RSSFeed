@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @psth_way 
-date: 2021-06-23 1624454549 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407690502061891585
