@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MiliVanili2020 
-date: 2021-06-23 1624459955 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407713153987747844
