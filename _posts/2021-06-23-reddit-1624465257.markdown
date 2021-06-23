@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rarible currently supports the ERC-1155 and ERC-721 token standards. Both are almost exclusively utilized in NFT markets, whereas the more widespread ERC-20 standard is used in Ethereum’s developing decentralized finance (DeFi) marketplaces. 
-date: 2021-06-23 1624465257 
-categories: reddit 
---- 
-https://redd.it/o6g6je
