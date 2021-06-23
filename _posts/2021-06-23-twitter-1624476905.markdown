@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anomalmat4lyfe 
-date: 2021-06-23 1624476905 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782906282532870
