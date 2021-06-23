@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Another thing Monero is perfect for. 
-date: 2021-06-23 1624486593 
-categories: reddit 
---- 
-https://redd.it/o6nd1c
