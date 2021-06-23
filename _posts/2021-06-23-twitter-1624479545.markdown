@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Suzannah_Baron 
-date: 2021-06-23 1624479545 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407795344897871877
