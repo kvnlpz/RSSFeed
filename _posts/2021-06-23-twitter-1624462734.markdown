@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MiggyArr 
-date: 2021-06-23 1624462734 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407724834730110980
