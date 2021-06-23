@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JesseGuenet 
-date: 2021-06-22 1624395580 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407443170502324228
