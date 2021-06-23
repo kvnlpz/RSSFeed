@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaveTrades88 
-date: 2021-06-22 1624411623 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407510455031980034
