@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Covered Call vs. PMCC vs. Synthetic Long Stock w/ Covered Call 
-date: 2021-06-22 1624416217 
-categories: reddit 
---- 
-https://redd.it/o63ty4
