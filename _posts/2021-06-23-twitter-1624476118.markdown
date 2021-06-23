@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hoosier_Sooner 
-date: 2021-06-23 1624476118 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407780970451935237
