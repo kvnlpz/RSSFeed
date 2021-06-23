@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marketjetnews 
-date: 2021-06-23 1624451573 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407678017929945092
