@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EvBud 
-date: 2021-06-22 1624423120 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407558669848305667
