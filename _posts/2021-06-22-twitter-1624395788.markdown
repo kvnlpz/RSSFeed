@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JJWickman1 
-date: 2021-06-22 1624395788 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407444040824475648
