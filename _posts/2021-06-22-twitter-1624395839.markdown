@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jiffoda 
-date: 2021-06-22 1624395839 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407444257456025604
