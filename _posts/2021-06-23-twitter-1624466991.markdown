@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CynicalScared 
-date: 2021-06-23 1624466991 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407742689446072323
