@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chest_rockwel 
-date: 2021-06-22 1624422995 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407558158613024771
