@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @krak94246141 
-date: 2021-06-23 1624460750 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407716491525492738
