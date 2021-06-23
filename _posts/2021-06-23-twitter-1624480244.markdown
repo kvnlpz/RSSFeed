@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StrattiaMX 
-date: 2021-06-23 1624480244 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407798259020599301
