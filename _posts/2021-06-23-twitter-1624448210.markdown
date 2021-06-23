@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dailyhacks17 
-date: 2021-06-23 1624448210 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407663899546095622
