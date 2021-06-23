@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Killoa925 
-date: 2021-06-23 1624477723 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407787112125153280
