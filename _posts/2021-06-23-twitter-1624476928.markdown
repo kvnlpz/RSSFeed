@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ManDearSir 
-date: 2021-06-23 1624476928 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782977745137668
