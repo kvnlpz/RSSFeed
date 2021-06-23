@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tahukann 
-date: 2021-06-23 1624477066 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407783211862736903
