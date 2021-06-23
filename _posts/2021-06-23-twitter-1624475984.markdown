@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @abingos2 
-date: 2021-06-23 1624475984 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407780407647428608
