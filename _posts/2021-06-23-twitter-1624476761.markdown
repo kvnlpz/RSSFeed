@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MegaBasedChad 
-date: 2021-06-23 1624476761 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782660420800515
