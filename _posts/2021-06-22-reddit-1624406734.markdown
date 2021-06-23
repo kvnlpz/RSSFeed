@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mentorship 
-date: 2021-06-22 1624406734 
-categories: reddit 
---- 
-https://redd.it/o60w2x
