@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gregdsports 
-date: 2021-06-23 1624481112 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407801862997303300
