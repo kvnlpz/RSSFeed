@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @washurpekpek 
-date: 2021-06-23 1624456650 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407699314886037504
