@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @somebestdeals 
-date: 2021-06-22 1624418287 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407538410919632898
