@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Oj0 
-date: 2021-06-22 1624409957 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407503469540425730
