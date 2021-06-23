@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CharlieLucatero 
-date: 2021-06-23 1624460060 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407713618427142151
