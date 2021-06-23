@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @o_chrz 
-date: 2021-06-23 1624476417 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782089219469312
