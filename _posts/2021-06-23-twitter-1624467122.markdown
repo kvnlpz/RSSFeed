@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Anthony84645566 
-date: 2021-06-23 1624467122 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407743236383428612
