@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @josiah03104564 
-date: 2021-06-22 1624407223 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407491993803108354
