@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bank of Israel to Use Ethereum Tech for Digital Shekel 
-date: 2021-06-23 1624438700 
-categories: reddit 
---- 
-https://redd.it/o68z9z
