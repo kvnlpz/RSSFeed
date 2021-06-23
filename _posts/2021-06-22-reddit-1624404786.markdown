@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hardware Wallet Scam 
-date: 2021-06-22 1624404786 
-categories: reddit 
---- 
-https://redd.it/o609v2
