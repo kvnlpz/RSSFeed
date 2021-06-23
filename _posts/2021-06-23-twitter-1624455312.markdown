@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dr00shie 
-date: 2021-06-23 1624455312 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407693702051418116
