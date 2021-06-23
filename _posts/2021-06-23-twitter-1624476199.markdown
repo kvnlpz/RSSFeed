@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YBZ59 
-date: 2021-06-23 1624476199 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407781305631318018
