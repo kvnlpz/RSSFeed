@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @estreetpicks 
-date: 2021-06-23 1624476021 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407780542343434242
