@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_rey_j 
-date: 2021-06-23 1624477761 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407787216743637002
