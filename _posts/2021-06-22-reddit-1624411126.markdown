@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit Venture Fund 
-date: 2021-06-22 1624411126 
-categories: reddit 
---- 
-https://redd.it/o629c9
