@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Form RKT 
-date: 2021-06-23 1624446934 
-categories: reddit 
---- 
-https://redd.it/o6aojz
