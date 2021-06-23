@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AliMuftuoglu3 
-date: 2021-06-23 1624474005 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407772107786883075
