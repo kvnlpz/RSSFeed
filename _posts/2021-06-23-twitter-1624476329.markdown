@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sd61923 
-date: 2021-06-23 1624476329 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407781790199074821
