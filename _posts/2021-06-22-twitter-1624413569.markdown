@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OnlyGreenTrades 
-date: 2021-06-22 1624413569 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407518621509767170
