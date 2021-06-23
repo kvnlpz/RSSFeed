@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sk_yy7 
-date: 2021-06-23 1624450596 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407673834749280256
