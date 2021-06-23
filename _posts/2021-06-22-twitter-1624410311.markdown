@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Benshooter 
-date: 2021-06-22 1624410311 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407504885994512386
