@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Algo Optimizer is the latest recipient of Algorand Foundation Development Award 
-date: 2021-06-22 1624406492 
-categories: reddit 
---- 
-https://redd.it/o60tb7
