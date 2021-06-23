@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If I make an ERC-20 token, how do I make it possible for 10% of every transaction to be sent somewhere? 
+date: 2021-06-23 1624466069 
+categories: reddit 
+--- 
+https://redd.it/o6ggbl
