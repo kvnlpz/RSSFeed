@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theoffszzn 
-date: 2021-06-23 1624477649 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407786982202298375
