@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dontoverfit 
-date: 2021-06-22 1624406866 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407490508126044165
