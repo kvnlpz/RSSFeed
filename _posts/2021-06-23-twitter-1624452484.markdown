@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nostalgiavalue1 
-date: 2021-06-23 1624452484 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407681841990180867
