@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DieHardTrading 
-date: 2021-06-23 1624477074 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407783240950173697
