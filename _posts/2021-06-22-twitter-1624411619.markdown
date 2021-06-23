@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ST6969696969 
-date: 2021-06-22 1624411619 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407510442235338754
