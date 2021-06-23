@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a possibility that Bitcoin mining can be used for our benefit? 
-date: 2021-06-23 1624438656 
-categories: reddit 
---- 
-https://redd.it/o68yza
