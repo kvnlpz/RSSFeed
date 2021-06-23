@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @autodidactunk 
-date: 2021-06-23 1624476462 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782173512540163
