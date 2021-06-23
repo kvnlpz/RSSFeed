@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ecomgatsby 
-date: 2021-06-23 1624459947 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407713145880158213
