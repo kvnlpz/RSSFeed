@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Newbie Question? 
-date: 2021-06-23 1624464912 
-categories: reddit 
---- 
-https://redd.it/o6g2eb
