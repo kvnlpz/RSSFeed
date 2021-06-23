@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Unofficial ARMV7 Monero binaries 
-date: 2021-06-23 1624472151 
-categories: reddit 
---- 
-https://redd.it/o6ggvp
