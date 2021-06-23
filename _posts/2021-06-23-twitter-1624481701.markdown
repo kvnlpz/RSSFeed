@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @AGayPhish 
+date: 2021-06-23 1624481701 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407804387532034050
