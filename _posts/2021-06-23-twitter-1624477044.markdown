@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sheloveswillly 
-date: 2021-06-23 1624477044 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407783175548399620
