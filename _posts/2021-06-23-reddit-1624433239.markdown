@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Safely using a hardware wallet 
+date: 2021-06-23 1624433239 
+categories: reddit 
+--- 
+https://redd.it/o67xlv
