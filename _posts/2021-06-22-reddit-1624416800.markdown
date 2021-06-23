@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: vote up LiteCoin! 
-date: 2021-06-22 1624416800 
-categories: reddit 
---- 
-https://redd.it/o63zo3
