@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dogecoin Devs and Elon Musk Push Fee-Reduction Proposal 
-date: 2021-06-23 1624465599 
-categories: reddit 
---- 
-https://redd.it/o6gao2
