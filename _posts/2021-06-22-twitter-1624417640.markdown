@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @6970stang 
-date: 2021-06-22 1624417640 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407535696538222592
