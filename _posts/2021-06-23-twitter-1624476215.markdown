@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @elikh_oleg 
-date: 2021-06-23 1624476215 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407781367593771012
