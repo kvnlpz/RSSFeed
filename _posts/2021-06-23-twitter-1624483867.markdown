@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Rocky1Red 
-date: 2021-06-23 1624483867 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407813461267079168
