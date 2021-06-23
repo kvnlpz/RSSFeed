@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dr_nasser7777 
-date: 2021-06-23 1624490236 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407840185488916482
