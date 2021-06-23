@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayDaTruth_ 
-date: 2021-06-23 1624481180 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407802174608904199
