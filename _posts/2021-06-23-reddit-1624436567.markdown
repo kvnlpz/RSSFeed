@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Goldman Sachs reportedly started trading on JPMorgan’s repo blockchain 
-date: 2021-06-23 1624436567 
-categories: reddit 
---- 
-https://redd.it/o68l2y
