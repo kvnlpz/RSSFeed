@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NizTrader 
-date: 2021-06-22 1624423112 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407558637136990208
