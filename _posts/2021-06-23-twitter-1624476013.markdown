@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @William3890 
-date: 2021-06-23 1624476013 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407780493207248900
