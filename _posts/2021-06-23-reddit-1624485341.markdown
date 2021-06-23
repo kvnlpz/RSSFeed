@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A 7min summary of Ethereum made for beginners, hope it helps 👍 
-date: 2021-06-23 1624485341 
-categories: reddit 
---- 
-https://redd.it/o6myh8
