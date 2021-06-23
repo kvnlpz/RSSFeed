@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TorgBot 
-date: 2021-06-23 1624475706 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407779242851635200
