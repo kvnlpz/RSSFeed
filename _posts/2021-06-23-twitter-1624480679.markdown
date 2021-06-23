@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FromOntario1 
-date: 2021-06-23 1624480679 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407800083928715265
