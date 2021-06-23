@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm working on an auto trading algorithm to buy the most talked about coins in /r/cryptocurrency 
-date: 2021-06-23 1624474262 
-categories: reddit 
---- 
-https://redd.it/o6hu7e
