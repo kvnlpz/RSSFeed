@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Fortune500exec 
+date: 2021-06-23 1624433438 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407601958777655302
