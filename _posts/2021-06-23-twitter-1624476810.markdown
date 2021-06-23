@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ReasonSupreme 
-date: 2021-06-23 1624476810 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782756931686403
