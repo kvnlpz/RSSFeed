@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eliaseen1 
-date: 2021-06-22 1624411036 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407507983311917058
