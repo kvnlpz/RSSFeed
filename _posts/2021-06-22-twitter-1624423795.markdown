@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DradeBelmont 
+date: 2021-06-22 1624423795 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407561512038842368
