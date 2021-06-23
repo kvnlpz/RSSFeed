@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @warrenbachman1 
-date: 2021-06-22 1624413717 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407519241356652557
