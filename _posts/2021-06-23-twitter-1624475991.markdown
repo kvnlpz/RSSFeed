@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kellymorris1993 
-date: 2021-06-23 1624475991 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407780427700621316
