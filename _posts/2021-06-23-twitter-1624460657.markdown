@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaay_mun 
-date: 2021-06-23 1624460657 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407716059365380098
