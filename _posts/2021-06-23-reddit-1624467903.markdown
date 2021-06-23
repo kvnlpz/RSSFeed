@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: UNISWAP: Impermanent Loss and Risk Profile of a Liquidity Provider 
-date: 2021-06-23 1624467903 
-categories: reddit 
---- 
-https://redd.it/o6h5cy
