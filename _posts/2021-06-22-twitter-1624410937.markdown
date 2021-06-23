@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SheepOfWallStrt 
-date: 2021-06-22 1624410937 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407507580478439431
