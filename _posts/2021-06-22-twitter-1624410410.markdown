@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeancarlosg27 
-date: 2021-06-22 1624410410 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407505371204292610
