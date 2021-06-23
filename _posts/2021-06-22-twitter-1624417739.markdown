@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KeithBurgessFCF 
-date: 2021-06-22 1624417739 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407536109886664710
