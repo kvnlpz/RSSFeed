@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_mirik 
-date: 2021-06-22 1624408853 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407498841046372357
