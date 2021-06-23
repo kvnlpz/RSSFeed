@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hey_nicnic 
-date: 2021-06-23 1624475998 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407780467298942977
