@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vsalin4 
-date: 2021-06-23 1624485849 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407821783093239814
