@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GageHatten 
-date: 2021-06-23 1624460863 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407716985731956741
