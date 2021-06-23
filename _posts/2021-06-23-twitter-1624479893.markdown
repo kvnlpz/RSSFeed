@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AdamAtlas8 
-date: 2021-06-23 1624479893 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407796689155629058
