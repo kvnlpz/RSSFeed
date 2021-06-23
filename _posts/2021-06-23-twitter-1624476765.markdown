@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @longlivetsegai 
-date: 2021-06-23 1624476765 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407782662975205383
