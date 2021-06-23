@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chtucker18 
-date: 2021-06-23 1624487961 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407830644399476743
