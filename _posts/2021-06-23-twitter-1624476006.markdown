@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @satwiseBTC 
-date: 2021-06-23 1624476006 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407780474806837251
