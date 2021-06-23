@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @investor__2 
-date: 2021-06-22 1624396241 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407445940613550085
