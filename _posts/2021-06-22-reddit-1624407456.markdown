@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Timing? 
-date: 2021-06-22 1624407456 
-categories: reddit 
---- 
-https://redd.it/o608hx
