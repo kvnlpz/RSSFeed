@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: $ROP is not a joke... it's BDE 
+date: 2021-06-23 1624481835 
+categories: reddit 
+--- 
+https://redd.it/o6ltn2
