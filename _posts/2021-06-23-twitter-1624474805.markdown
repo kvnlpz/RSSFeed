@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EuPatrunjel 
-date: 2021-06-23 1624474805 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407775464802770945
