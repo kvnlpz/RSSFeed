@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LeoCheMingChang 
-date: 2021-06-22 1624411181 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407508605612396546
