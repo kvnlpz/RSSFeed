@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheStalwart 
-date: 2021-06-22 1624402311 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407471402928717827
