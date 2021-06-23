@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JJ_McQuade_ 
-date: 2021-06-23 1624480550 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407799557434523649
