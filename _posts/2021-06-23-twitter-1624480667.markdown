@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @operationzoom 
-date: 2021-06-23 1624480667 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407800049040515074
