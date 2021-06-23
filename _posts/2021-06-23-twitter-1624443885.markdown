@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PierreVerhaegen 
-date: 2021-06-23 1624443885 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407645774008160256
