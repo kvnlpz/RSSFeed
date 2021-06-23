@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TERA blockchain revolution on POW 
-date: 2021-06-23 1624443858 
-categories: reddit 
---- 
-https://redd.it/o6a1nl
