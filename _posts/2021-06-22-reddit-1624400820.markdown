@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It is impossible to use Monero for small purchases 
-date: 2021-06-22 1624400820 
-categories: reddit 
---- 
-https://redd.it/o5yzke
