@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If global hash rate keep dropping such as the China Miner Exodus, doesn’t that open the network up for a double spend attack? 
-date: 2021-06-22 1624418014 
-categories: reddit 
---- 
-https://redd.it/o64blk
