@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BolarPunia 
-date: 2021-06-22 1624423173 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407558901197803523
