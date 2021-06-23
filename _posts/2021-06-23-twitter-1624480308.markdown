@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @faufreluches 
-date: 2021-06-23 1624480308 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407798520606756864
