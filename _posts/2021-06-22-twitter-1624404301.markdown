@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @23Stocks 
-date: 2021-06-22 1624404301 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407479747593052163
