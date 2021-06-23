@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ccattrj 
-date: 2021-06-22 1624411511 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407509987384045569
