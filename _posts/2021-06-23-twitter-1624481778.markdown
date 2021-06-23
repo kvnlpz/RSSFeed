@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptom0nk3y1 
-date: 2021-06-23 1624481778 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407804711638425601
