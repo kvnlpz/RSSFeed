@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TommyTwoClubs 
-date: 2021-06-22 1624423084 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407558528575934465
