@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An Introduction to BitCanna - AMA Recap 6/10 
-date: 2021-06-23 1624492369 
-categories: reddit 
---- 
-https://redd.it/o6p2q9
