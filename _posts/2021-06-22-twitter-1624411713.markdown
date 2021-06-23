@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Dr_NYSE 
-date: 2021-06-22 1624411713 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407510823434698755
