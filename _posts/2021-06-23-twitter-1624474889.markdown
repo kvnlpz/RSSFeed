@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IrascibleInvest 
-date: 2021-06-23 1624474889 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407775816986071042
