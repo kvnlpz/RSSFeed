@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StunLikes 
-date: 2021-06-22 1624418865 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407540832337547270
