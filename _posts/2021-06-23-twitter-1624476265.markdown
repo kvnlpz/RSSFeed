@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @XellirkST 
-date: 2021-06-23 1624476265 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407781567511076869
