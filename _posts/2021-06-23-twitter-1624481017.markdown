@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RegnatP 
-date: 2021-06-23 1624481017 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407801519924187136
