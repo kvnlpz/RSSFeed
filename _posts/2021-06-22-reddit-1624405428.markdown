@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Exchange Platform 
-date: 2021-06-22 1624405428 
-categories: reddit 
---- 
-https://redd.it/o60hbc
