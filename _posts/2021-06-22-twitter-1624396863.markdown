@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @htfromgibberia 
-date: 2021-06-22 1624396863 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407448548648570881
