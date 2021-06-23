@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @daretothink53 
-date: 2021-06-23 1624488211 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407831686948311047
