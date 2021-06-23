@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @unanadie_mx 
-date: 2021-06-23 1624488186 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407831588486975501
