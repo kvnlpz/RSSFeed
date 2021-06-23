@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DaoChess pits governance systems against each other in real-time games of Chess, testing mechanisms and coordination 
-date: 2021-06-22 1624402019 
-categories: reddit 
---- 
-https://redd.it/o5zdmr
