@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chrome and Ledger Connection failed 
-date: 2021-06-22 1624422196 
-categories: reddit 
---- 
-https://redd.it/o65fb4
