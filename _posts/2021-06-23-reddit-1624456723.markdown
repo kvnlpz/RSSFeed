@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: GPU was throwing all kinds of errors at the OS, it took over a week before we figured it was not the GPU 
+date: 2021-06-23 1624456723 
+categories: reddit 
+--- 
+https://redd.it/o6dco7
