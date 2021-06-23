@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PsyGuy1313 
-date: 2021-06-23 1624474800 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407775441444802561
