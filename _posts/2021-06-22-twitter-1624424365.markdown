@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @hodl_gorilla 
+date: 2021-06-22 1624424365 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407563891639345155
