@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit police 
-date: 2021-06-22 1624414826 
-categories: reddit 
---- 
-https://redd.it/o63f09
