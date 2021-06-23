@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RBB_III 
-date: 2021-06-23 1624480734 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407800329928855554
