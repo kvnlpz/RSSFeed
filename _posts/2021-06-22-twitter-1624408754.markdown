@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wjnolan001 
-date: 2021-06-22 1624408754 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407498425810231297
