@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is my understanding correct that in Eth PoS, you are either a validator (in which case you need 32 eth) or just normal eth holder (you don’t get to participate in staking/validation)? 
+date: 2021-06-23 1624475492 
+categories: reddit 
+--- 
+https://redd.it/o6jp8s
