@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monero doesn't discriminate (made this myself for Pride Month) 
-date: 2021-06-23 1624475627 
-categories: reddit 
---- 
-https://redd.it/o6jqtl
