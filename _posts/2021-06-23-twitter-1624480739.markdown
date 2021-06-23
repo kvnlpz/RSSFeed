@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @CanucksBob 
+date: 2021-06-23 1624480739 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407800354218020865
