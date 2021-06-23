@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphacharts365 
-date: 2021-06-22 1624409938 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407503389685129221
