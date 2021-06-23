@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @heibtc 
-date: 2021-06-22 1624428372 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407580709896605697
