@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @olgahomework 
-date: 2021-06-23 1624480911 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407800700176932866
