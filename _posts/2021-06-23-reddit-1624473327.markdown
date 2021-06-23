@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 0.5 BAT despite using Brave for over a month 
-date: 2021-06-23 1624473327 
-categories: reddit 
---- 
-https://redd.it/o6j0zy
