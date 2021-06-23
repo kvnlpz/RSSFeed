@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @defiantgti 
-date: 2021-06-23 1624456072 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407696891396071424
