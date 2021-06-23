@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradingMerzie 
-date: 2021-06-23 1624485976 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407822319037390851
