@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xLachrymarum 
-date: 2021-06-23 1624480533 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407799467059814400
