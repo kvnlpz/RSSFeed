@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $ALF 
-date: 2021-06-23 1624469481 
-categories: reddit 
---- 
-https://redd.it/o6hplk
