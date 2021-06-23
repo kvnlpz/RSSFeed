@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Switching Debit Call Spread to Credit Call Spread 
-date: 2021-06-23 1624478921 
-categories: reddit 
---- 
-https://redd.it/o6kvvn
