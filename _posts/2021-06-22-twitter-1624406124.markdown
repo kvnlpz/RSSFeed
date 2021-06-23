@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @su32619052 
-date: 2021-06-22 1624406124 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407487396401324034
