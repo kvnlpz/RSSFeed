@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Birdman1701 
-date: 2021-06-22 1624426638 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407573434620518404
