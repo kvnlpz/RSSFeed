@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @aanpakkuh 
-date: 2021-06-22 1624423377 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407559760195502082
