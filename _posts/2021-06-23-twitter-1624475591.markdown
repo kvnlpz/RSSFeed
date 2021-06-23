@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MaxEricThiel 
-date: 2021-06-23 1624475591 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407778757977559042
