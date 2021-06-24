@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KellerTrading 
-date: 2021-06-23 1624496834 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407867860412776449
