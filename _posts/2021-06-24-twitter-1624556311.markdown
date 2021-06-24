@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tenmike 
+date: 2021-06-24 1624556311 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408117322745790465
