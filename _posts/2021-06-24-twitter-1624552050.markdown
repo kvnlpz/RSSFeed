@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nick_novice 
-date: 2021-06-24 1624552050 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408099451395264524
