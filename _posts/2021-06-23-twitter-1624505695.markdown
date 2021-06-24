@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndreiCatalinS 
-date: 2021-06-23 1624505695 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407905013075152896
