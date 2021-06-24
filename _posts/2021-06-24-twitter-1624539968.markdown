@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ARDENTAU_ 
-date: 2021-06-24 1624539968 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408048775453683713
