@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DasaniThomass 
-date: 2021-06-24 1624546250 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408075123043753987
