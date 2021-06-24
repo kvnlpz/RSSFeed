@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @laura_jazo 
-date: 2021-06-23 1624498705 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407875699378036738
