@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624564247 
+categories: webull 
+--- 
+$MSFT Bull trap	2021-06-24T19:48:13.604+0000
+positive sentiment: False
