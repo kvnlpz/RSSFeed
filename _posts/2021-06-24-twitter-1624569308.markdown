@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @686Prism 
-date: 2021-06-24 1624569308 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408171836022611969
