@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance is introducing staking for Klaytn (KLAY) on launchpool 
-date: 2021-06-24 1624543656 
-categories: reddit 
---- 
-https://redd.it/o71lkx
