@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nubient 
-date: 2021-06-24 1624540551 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408051221370396680
