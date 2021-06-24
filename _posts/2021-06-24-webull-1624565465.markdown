@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624565465 
+categories: webull 
+--- 
+$NNDM great day imo	2021-06-24T20:07:09.455+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.423, 'pos': 0.577, 'compound': 0.6249}
