@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ad3rayo 
-date: 2021-06-24 1624523077 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407977928814698496
