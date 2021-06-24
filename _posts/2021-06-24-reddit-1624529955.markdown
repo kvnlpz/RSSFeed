@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Would it be possible to run Lightning on top of Liquid? 
-date: 2021-06-24 1624529955 
-categories: reddit 
---- 
-https://redd.it/o6y1vx
