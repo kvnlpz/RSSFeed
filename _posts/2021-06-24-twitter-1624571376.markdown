@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tasha_tak 
-date: 2021-06-24 1624571376 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408180512355622912
