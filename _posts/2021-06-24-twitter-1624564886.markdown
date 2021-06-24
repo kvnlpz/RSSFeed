@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @truthbus 
-date: 2021-06-24 1624564886 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408153291918176256
