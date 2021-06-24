@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NewGuyUserName1 
-date: 2021-06-23 1624509115 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407919371347906561
