@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tamizhanblaze 
-date: 2021-06-24 1624545284 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408071069517287427
