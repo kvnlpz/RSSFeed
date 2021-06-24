@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @gstrades 
+date: 2021-06-24 1624563729 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408148422234980352
