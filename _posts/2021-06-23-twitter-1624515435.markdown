@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SankalpaChandan 
-date: 2021-06-23 1624515435 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407945876870361096
