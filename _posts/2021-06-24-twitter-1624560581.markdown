@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @joe_in_dc 
+date: 2021-06-24 1624560581 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408135231929040896
