@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @greg_hillhouse 
-date: 2021-06-24 1624546595 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408076423726649348
