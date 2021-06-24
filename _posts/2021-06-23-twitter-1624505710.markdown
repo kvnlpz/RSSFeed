@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @asimsart 
-date: 2021-06-23 1624505710 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407905089935773697
