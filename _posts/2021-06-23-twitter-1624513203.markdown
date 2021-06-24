@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @beckham_tiffany 
-date: 2021-06-23 1624513203 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407936515339137024
