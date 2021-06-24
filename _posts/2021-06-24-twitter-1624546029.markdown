@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @findcustosOTC 
-date: 2021-06-24 1624546029 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408074195913871363
