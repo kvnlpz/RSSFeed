@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a way to automatically copy & paste how whales buy and sell BTC? 
-date: 2021-06-24 1624541690 
-categories: reddit 
---- 
-https://redd.it/o70zox
