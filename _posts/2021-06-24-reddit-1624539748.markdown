@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Qtum partners with Gate.IO to lock 3 million tokens to move tokens between Ethereum and Qtum 
-date: 2021-06-24 1624539748 
-categories: reddit 
---- 
-https://redd.it/o70f9r
