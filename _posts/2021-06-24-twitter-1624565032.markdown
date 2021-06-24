@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wajeeh0s 
-date: 2021-06-24 1624565032 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408153901841403910
