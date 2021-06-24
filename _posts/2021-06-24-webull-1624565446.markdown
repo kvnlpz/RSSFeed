@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624565446 
-categories: webull 
---- 
-$GME  Lol	2021-06-24T19:56:16.579+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}
