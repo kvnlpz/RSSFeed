@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CMDobre 
-date: 2021-06-24 1624544456 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408067601561833481
