@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624564225 
+categories: webull 
+--- 
+$ATOS Thaanks. *** dam phone	2021-06-24T19:34:41.385+0000
+positive sentiment: False
