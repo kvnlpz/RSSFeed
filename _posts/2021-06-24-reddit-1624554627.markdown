@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "Digital Euro: Attack on cryptocurrency" - German article about the digital euro involving wallets given out by banks, limits on fundings and the refusal to use the Blockchain technology 
-date: 2021-06-24 1624554627 
-categories: reddit 
---- 
-https://redd.it/o75a9w
