@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DRnotaDR 
-date: 2021-06-24 1624565321 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408155116310515716
