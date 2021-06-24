@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BenjaminGCox 
-date: 2021-06-24 1624547179 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408078900614156290
