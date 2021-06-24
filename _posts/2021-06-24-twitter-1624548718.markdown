@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnP35StG58G17 
-date: 2021-06-24 1624548718 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408085475580067840
