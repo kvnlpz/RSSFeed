@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bank of Israel Testing Ethereum Tech in Digital Shekel Trial 
-date: 2021-06-23 1624510696 
-categories: reddit 
---- 
-https://redd.it/o6tyni
