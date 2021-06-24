@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @myUMIsays27 
-date: 2021-06-23 1624512187 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407932255490785280
