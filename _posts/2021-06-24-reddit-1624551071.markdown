@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Network Status Update Thursday, June 24, 2021 
-date: 2021-06-24 1624551071 
-categories: reddit 
---- 
-https://redd.it/o74287
