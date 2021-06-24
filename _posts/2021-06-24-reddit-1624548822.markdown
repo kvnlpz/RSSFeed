@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are there any cryptos or projects working on making it EASIER to send/hold crypto vs long complex addresses? 
-date: 2021-06-24 1624548822 
-categories: reddit 
---- 
-https://redd.it/o73au3
