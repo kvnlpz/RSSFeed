@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ani1225 
-date: 2021-06-24 1624565043 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408153947689263106
