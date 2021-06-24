@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AWS Stake Pool using ECS 
-date: 2021-06-24 1624559983 
-categories: reddit 
---- 
-https://redd.it/o774fv
