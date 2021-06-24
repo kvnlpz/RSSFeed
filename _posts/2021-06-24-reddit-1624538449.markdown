@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question: How will there be block rewards for staking in the future when there is a max supply of 45.000.000.000? 
-date: 2021-06-24 1624538449 
-categories: reddit 
---- 
-https://redd.it/o702ge
