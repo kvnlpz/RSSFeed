@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @aaron_mcdd 
-date: 2021-06-23 1624498647 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407875464518115330
