@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GioLovesYou 
-date: 2021-06-23 1624509092 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407919273368907778
