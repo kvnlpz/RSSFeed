@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I built a bot which discovers promising new Ethereum DeFi and NFT projects 
-date: 2021-06-24 1624543679 
-categories: reddit 
---- 
-https://redd.it/o71lvg
