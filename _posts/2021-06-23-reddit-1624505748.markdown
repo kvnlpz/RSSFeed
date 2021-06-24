@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Discussion re Bitcoin price drop 
-date: 2021-06-23 1624505748 
-categories: reddit 
---- 
-https://redd.it/o6sqbe
