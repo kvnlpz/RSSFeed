@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FowlFinancial 
-date: 2021-06-24 1624548702 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408085409687650309
