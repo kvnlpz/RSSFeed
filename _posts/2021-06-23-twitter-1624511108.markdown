@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @costezcorp 
-date: 2021-06-23 1624511108 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407927727819264000
