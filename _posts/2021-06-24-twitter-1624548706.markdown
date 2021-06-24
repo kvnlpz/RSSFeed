@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jamalaghaie 
-date: 2021-06-24 1624548706 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408085413114396677
