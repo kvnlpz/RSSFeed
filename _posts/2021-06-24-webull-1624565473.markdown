@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624565473 
+categories: webull 
+--- 
+$PENN damn it Lol i didn’t even look at the flow and i averaged down on my losing position in the last 10 minutes. probably taking a fat L tomorrow	2021-06-24T20:07:43.881+0000
+sentiment scores: {'neg': 0.17, 'neu': 0.74, 'pos': 0.09, 'compound': -0.3612}
