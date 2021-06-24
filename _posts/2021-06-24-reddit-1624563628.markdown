@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pro Tip: do NOT use a portfolio tracker that tells you the dollar value of your crypto holdings in real time. Makes sitting through a major drawdown WAY easier, and removes a lot of the emotionality that makes for bad investing 
-date: 2021-06-24 1624563628 
-categories: reddit 
---- 
-https://redd.it/o78ccs
