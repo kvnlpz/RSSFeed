@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @moos3knuckl3 
-date: 2021-06-24 1624557456 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408122127996395521
