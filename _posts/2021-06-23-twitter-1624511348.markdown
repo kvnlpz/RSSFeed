@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RobertD51522656 
-date: 2021-06-23 1624511348 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407928736989597698
