@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yodatrixx 
-date: 2021-06-24 1624527096 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407994787521863685
