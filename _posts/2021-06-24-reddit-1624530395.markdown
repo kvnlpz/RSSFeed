@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Price | BTC Price Index 
-date: 2021-06-24 1624530395 
-categories: reddit 
---- 
-https://redd.it/o6y5d3
