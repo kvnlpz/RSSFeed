@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rchillect 
-date: 2021-06-24 1624556854 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408119602970779654
