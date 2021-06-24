@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A crypto "training wallet" for my kids 
-date: 2021-06-24 1624544363 
-categories: reddit 
---- 
-https://redd.it/o71tlw
