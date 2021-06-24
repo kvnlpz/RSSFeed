@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624564967 
-categories: webull 
---- 
-$AMC  60+ tonight?	2021-06-24T19:43:35.382+0000
-positive sentiment: False
