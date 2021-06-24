@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Transaction not confirming, but fee has been high enough for it to be confirmed in several of the last blocks 
+date: 2021-06-24 1624578144 
+categories: reddit 
+--- 
+https://redd.it/o7btwv
