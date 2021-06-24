@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @itsGMani 
-date: 2021-06-24 1624557690 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408123107769045004
