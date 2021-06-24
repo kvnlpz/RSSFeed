@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $PLTR GREAT NEWS! Palantir today announced a partnership with DataRobot to “Bring Speed and Agility to Demand Forecasting Models” 
-date: 2021-06-24 1624533661 
-categories: reddit 
---- 
-https://redd.it/o6yv5k
