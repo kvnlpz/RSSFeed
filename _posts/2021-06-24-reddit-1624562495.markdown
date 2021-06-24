@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Supersonic Finance Will Integrate Chainlink VRF to Secure and Ensure the integrity of randomness on it’s IDO Platform 
-date: 2021-06-24 1624562495 
-categories: reddit 
---- 
-https://redd.it/o77yh3
