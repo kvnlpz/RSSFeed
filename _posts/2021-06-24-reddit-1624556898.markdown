@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What 3 things need to happen for zcash to achieve mass adoption? 
-date: 2021-06-24 1624556898 
-categories: reddit 
---- 
-https://redd.it/o762gu
