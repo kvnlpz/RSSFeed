@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoKrush 
-date: 2021-06-24 1624571425 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408180718325403653
