@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Very dumb question about options market makers 
-date: 2021-06-24 1624567466 
-categories: reddit 
---- 
-https://redd.it/o79mam
