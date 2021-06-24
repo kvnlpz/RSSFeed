@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624564980 
+categories: webull 
+--- 
+$AMZN Will this be the same tomorrow sliding or start moving up?	2021-06-24T19:50:14.615+0000
+positive sentiment: False
