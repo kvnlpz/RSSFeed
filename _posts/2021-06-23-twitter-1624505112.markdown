@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrJimBusiness4 
-date: 2021-06-23 1624505112 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407902580886343687
