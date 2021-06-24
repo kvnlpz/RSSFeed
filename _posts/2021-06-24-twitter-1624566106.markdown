@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @canadiancutie45 
-date: 2021-06-24 1624566106 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408158405450211331
