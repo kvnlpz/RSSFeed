@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase unveils 'Solidify' tool to auto-audit smart contracts and DeFi clones 
-date: 2021-06-23 1624513906 
-categories: reddit 
---- 
-https://redd.it/o6upv8
