@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is the transaction not showing? 
-date: 2021-06-24 1624536065 
-categories: reddit 
---- 
-https://redd.it/o6zg0e
