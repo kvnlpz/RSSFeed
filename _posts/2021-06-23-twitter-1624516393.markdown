@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gess_ok 
-date: 2021-06-23 1624516393 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407949897307803648
