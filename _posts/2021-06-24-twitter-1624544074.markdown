@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RyanTrader02 
-date: 2021-06-24 1624544074 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408065998817677320
