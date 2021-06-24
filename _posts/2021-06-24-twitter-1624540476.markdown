@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shabbamaddapot 
-date: 2021-06-24 1624540476 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408050907271553032
