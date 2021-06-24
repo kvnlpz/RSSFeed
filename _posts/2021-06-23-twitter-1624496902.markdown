@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gsdpctech 
-date: 2021-06-23 1624496902 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407868146887716868
