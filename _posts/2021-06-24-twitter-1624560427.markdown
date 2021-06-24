@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @j5cheung 
-date: 2021-06-24 1624560427 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408134588078067713
