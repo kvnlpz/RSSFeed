@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Uniswap V3 LP Tokens as Perpetual Put and Call Options 
-date: 2021-06-24 1624531049 
-categories: reddit 
---- 
-https://redd.it/o6d8w5
