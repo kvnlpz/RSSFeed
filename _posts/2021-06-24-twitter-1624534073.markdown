@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maggiereads 
-date: 2021-06-24 1624534073 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408024050698440709
