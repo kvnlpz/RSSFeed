@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BBEUncleKenRock 
-date: 2021-06-24 1624543841 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408065021175734285
