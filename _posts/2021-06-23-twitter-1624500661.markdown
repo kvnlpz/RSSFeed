@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Elizabe19214542 
-date: 2021-06-23 1624500661 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407883909245771777
