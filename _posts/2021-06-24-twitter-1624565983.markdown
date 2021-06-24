@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DividedChamp 
-date: 2021-06-24 1624565983 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408157892432310273
