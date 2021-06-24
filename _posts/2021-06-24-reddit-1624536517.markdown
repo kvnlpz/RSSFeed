@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Project Catalyst - Voting Pin 
-date: 2021-06-24 1624536517 
-categories: reddit 
---- 
-https://redd.it/o6zk7x
