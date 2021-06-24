@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LuyandaDhlamini 
-date: 2021-06-24 1624531171 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408011878404665348
