@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MSI Silently Launches The NVIDIA CMP 50HX MINER Cryptocurrency Mining Graphics Card, Features A Custom PCB & A Hash Rate Of 45 MH/s 
-date: 2021-06-24 1624542122 
-categories: reddit 
---- 
-https://redd.it/o7149e
