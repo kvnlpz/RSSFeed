@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @low_lqdt 
-date: 2021-06-23 1624506065 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407906574753058816
