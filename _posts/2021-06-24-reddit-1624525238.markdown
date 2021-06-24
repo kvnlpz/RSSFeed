@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CypherpunkPay: a new lightweight alternative to BTCPay Server 
-date: 2021-06-24 1624525238 
-categories: reddit 
---- 
-https://redd.it/o6x2o7
