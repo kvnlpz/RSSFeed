@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LeviathanCapit1 
-date: 2021-06-23 1624516164 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407948933461127169
