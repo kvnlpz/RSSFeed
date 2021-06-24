@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crex24 stole 2055usdt from my account. I sent 50,000 dacxi to crex24 and sold it for 2055usdt. Now since 21 June the funds is all gone. Crex24 says I sent my dacxi to wrong wallet. Pls see hash id to for yourself: 0x4db845971077e458145d5fc0070e915701515b8a307b6941ef8390e2c57adb61. Help me guys. 
-date: 2021-06-24 1624525686 
-categories: reddit 
---- 
-https://redd.it/o6x69p
