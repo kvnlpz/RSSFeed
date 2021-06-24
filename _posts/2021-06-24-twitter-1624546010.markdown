@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @leadlagreport 
-date: 2021-06-24 1624546010 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408074118113775616
