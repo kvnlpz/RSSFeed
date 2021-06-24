@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How is bitcoin as a legal tender and its price volatility reconciled? 
-date: 2021-06-24 1624559613 
-categories: reddit 
---- 
-https://redd.it/o76zyn
