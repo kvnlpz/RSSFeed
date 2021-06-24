@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ATestingWorld 
-date: 2021-06-23 1624497759 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407871741129527297
