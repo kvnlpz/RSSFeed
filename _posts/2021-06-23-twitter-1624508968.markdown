@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChrisRi80029765 
-date: 2021-06-23 1624508968 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407918753422221312
