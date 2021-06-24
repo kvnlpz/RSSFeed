@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BERTRAND791 
-date: 2021-06-24 1624520691 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407967921662533633
