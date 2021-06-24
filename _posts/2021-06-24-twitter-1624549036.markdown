@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @st33lo2swazy 
-date: 2021-06-24 1624549036 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408086810006327299
