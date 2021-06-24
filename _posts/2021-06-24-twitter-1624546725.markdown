@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HimmenyDStocks 
-date: 2021-06-24 1624546725 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408077117884076035
