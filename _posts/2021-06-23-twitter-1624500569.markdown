@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @B1GWordNerd 
-date: 2021-06-23 1624500569 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407883524988940291
