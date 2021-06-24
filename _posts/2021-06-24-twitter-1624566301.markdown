@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @froggytrades 
-date: 2021-06-24 1624566301 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408159226669711362
