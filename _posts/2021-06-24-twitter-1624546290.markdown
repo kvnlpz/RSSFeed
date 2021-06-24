@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnatolianEmre 
-date: 2021-06-24 1624546290 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408075282553188362
