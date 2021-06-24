@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @christi57917043 
-date: 2021-06-24 1624539826 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408048179577298948
