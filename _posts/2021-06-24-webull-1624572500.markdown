@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624572500 
+categories: webull 
+--- 
+$MRIN	2021-06-24T22:02:29.053+0000
+sentiment scores: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
