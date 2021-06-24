@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JaniceB1818 
-date: 2021-06-23 1624505583 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407904554490994688
