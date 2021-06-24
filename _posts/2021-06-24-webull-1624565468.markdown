@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624565468 
+categories: webull 
+--- 
+$WISH Ive been trying all week to buy at 13 but i always end up buying 14 lol also have Those 45 calls	2021-06-24T20:07:14.167+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.5719}
