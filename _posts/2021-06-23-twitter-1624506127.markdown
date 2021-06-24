@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @robin1120 
-date: 2021-06-23 1624506127 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407906838537031689
