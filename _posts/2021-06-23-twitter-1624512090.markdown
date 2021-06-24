@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @claudiocagliani 
-date: 2021-06-23 1624512090 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407931848928419840
