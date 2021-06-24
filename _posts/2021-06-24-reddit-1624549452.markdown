@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Good news! Coinbase Launches 'Solidify' To Detect Security Risks In Ethereum Smart Contracts 
-date: 2021-06-24 1624549452 
-categories: reddit 
---- 
-https://redd.it/o73iaz
