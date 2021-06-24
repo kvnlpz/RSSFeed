@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624565476 
+categories: webull 
+--- 
+$ATOS These shorts domt get it. they bring it down and give other shorts false hope. then either later tonight or tomorrow morning boom another 10percent day.  You cannot stop this train	2021-06-24T20:08:54.175+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.5842}
