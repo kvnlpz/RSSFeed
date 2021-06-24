@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Brian7384 
-date: 2021-06-24 1624549382 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408088256147865603
