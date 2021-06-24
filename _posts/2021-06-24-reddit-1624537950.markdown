@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Coinbase has unveiled Solidify, a new tool that can automatically audit smart contracts built on Ethereum that use Solidity 
+date: 2021-06-24 1624537950 
+categories: reddit 
+--- 
+https://redd.it/o6zxoe
