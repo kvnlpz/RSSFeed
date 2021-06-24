@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624564252 
+categories: webull 
+--- 
+$SWBI Triple top! Getting into 7/16 25p and will buy  Calls again wheb it hits 26	2021-06-24T19:50:03.680+0000
+positive sentiment: True
