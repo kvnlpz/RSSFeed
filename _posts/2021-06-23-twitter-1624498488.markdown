@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Scratch_Capital 
-date: 2021-06-23 1624498488 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407874795522465792
