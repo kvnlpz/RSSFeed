@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rossisbossof 
-date: 2021-06-23 1624505544 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407904381404651520
