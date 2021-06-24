@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @emerarudosplash 
-date: 2021-06-24 1624546286 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408075275586375680
