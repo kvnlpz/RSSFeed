@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Crypto_Chosen 
-date: 2021-06-24 1624533112 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408020021457178624
