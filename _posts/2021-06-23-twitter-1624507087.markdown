@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnHumeRoss1 
-date: 2021-06-23 1624507087 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407910861889433607
