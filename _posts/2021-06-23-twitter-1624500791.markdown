@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @adrianaq73 
-date: 2021-06-23 1624500791 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407884455138762761
