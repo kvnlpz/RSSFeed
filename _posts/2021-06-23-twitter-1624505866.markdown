@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Josh_Woodham 
-date: 2021-06-23 1624505866 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407905740958932992
