@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624564141 
-categories: webull 
---- 
-$ARTW Hoping this runs AH acting funny  	2021-06-24T19:32:57.211+0000
-positive sentiment: True
