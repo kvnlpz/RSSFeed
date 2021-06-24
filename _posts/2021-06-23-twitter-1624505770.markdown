@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @rawcrypto 
+date: 2021-06-23 1624505770 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1407905341438926849
