@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AAVE Beginner 
-date: 2021-06-24 1624565461 
-categories: reddit 
---- 
-https://redd.it/o78yl8
