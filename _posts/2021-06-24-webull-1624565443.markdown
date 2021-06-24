@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624565443 
-categories: webull 
---- 
-$SLNO There it is  I knew they had some saved in there. 100k 1 min.	2021-06-24T19:56:03.649+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.4215}
