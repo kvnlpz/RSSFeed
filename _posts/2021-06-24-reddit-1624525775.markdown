@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about staking ADA 
-date: 2021-06-24 1624525775 
-categories: reddit 
---- 
-https://redd.it/o6x6u9
