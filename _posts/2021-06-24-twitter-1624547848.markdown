@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @processtrading3 
-date: 2021-06-24 1624547848 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408081783241932807
