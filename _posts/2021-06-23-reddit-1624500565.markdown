@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trying to send from Coinbase pro to cosmostation 
-date: 2021-06-23 1624500565 
-categories: reddit 
---- 
-https://redd.it/o6rcbs
