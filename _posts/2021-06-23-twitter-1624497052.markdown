@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sw33tY4ms_ahoy 
-date: 2021-06-23 1624497052 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407868775152730112
