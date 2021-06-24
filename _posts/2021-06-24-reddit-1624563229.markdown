@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Minimum Hybrid Contract (MHC) 
-date: 2021-06-24 1624563229 
-categories: reddit 
---- 
-https://redd.it/o787h4
