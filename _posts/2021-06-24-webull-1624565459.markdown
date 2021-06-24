@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624565459 
-categories: webull 
---- 
-$AMC Investigations going on at all major hedgefunds involved in shorting AMC and GME	2021-06-24T20:01:46.934+0000
-sentiment scores: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
