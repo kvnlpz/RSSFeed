@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin transaction speed - when will it catch up with that of Visa/Mastercard? Are we there yet? 
-date: 2021-06-24 1624561412 
-categories: reddit 
---- 
-https://redd.it/o77llm
