@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OChimagoziem 
-date: 2021-06-23 1624496586 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407866817733959681
