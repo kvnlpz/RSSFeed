@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hey folks, I found this dApp casino that accepts $XRP and is fully decentralised with on-chain bets. All of its transactions are recorded on a public ledger which can then be audited for fairness and hence is transparent. It has a $2K ongoing leaderboard promotion and a $50 sign-up bonus. 
-date: 2021-06-24 1624529605 
-categories: reddit 
---- 
-https://redd.it/o6xzdp
