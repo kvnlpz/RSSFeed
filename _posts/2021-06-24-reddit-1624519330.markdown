@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This site is great and very honest 
-date: 2021-06-24 1624519330 
-categories: reddit 
---- 
-https://redd.it/o6vv6s
