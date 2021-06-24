@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Unpopular opinion 
-date: 2021-06-24 1624547385 
-categories: reddit 
---- 
-https://redd.it/o72tcn
