@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mindbeacon (MBCN) 
-date: 2021-06-24 1624555401 
-categories: reddit 
---- 
-https://redd.it/o75k03
