@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xElm0 
-date: 2021-06-23 1624498507 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407874846680403975
