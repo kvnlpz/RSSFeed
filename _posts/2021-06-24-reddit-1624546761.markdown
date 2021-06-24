@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [NEW] Release 🚀Lisk Service 0.4.0-rc.1 
-date: 2021-06-24 1624546761 
-categories: reddit 
---- 
-https://redd.it/o72lib
