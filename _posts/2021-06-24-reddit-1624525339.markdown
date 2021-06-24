@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thoughts on POW 
-date: 2021-06-24 1624525339 
-categories: reddit 
---- 
-https://redd.it/o6x3m7
