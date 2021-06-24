@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DeadCaitBounce 
-date: 2021-06-24 1624548584 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408084915141451777
