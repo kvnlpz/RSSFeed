@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Generate a valid 24 word BIP39 seed using dice and running a few lines of Python (OFFLINE) 
-date: 2021-06-24 1624534594 
-categories: reddit 
---- 
-https://redd.it/o6z362
