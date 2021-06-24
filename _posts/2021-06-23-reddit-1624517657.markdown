@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain something to me? 
-date: 2021-06-23 1624517657 
-categories: reddit 
---- 
-https://redd.it/o6viix
