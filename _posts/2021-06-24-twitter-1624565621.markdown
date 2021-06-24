@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tigscdc 
-date: 2021-06-24 1624565621 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408156368477949955
