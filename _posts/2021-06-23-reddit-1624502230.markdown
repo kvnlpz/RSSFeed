@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sooo what concretely happened on Ropsten? 
-date: 2021-06-23 1624502230 
-categories: reddit 
---- 
-https://redd.it/o6rsun
