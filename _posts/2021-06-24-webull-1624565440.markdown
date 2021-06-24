@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624565440 
+categories: webull 
+--- 
+$GERN This turd is barcoding back to hell.	2021-06-24T19:55:53.975+0000
+sentiment scores: {'neg': 0.397, 'neu': 0.603, 'pos': 0.0, 'compound': -0.6808}
