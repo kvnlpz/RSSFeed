@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KeepBelievin_23 
-date: 2021-06-24 1624565583 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408156207118958599
