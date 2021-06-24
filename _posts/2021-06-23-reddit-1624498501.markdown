@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Delta Inversion in a PMCC 
-date: 2021-06-23 1624498501 
-categories: reddit 
---- 
-https://redd.it/o6qrwy
