@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kenballer 
-date: 2021-06-23 1624512783 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407934753785798657
