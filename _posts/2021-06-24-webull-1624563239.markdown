@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624563239 
-categories: webull 
---- 
-$SPY 420 tm?	2021-06-24T19:25:52.359+0000
