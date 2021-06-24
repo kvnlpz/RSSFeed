@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PPDeLta 
-date: 2021-06-24 1624549206 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408087525361700870
