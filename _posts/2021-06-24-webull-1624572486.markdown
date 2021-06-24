@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624572486 
+categories: webull 
+--- 
+$DOGEUSD whoever got in at .16 got blessed today wow	2021-06-24T21:55:09.977+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.51, 'pos': 0.49, 'compound': 0.8271}
