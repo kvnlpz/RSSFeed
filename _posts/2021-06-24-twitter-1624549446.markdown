@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jayjianz 
-date: 2021-06-24 1624549446 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408088531335999491
