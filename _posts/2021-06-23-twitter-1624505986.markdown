@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FrancesCrapola 
-date: 2021-06-23 1624505986 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407906246515060743
