@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624572497 
+categories: webull 
+--- 
+$MRIN For the past 2 days, this stock has taken 6 hours to cool down before it ramps up again... Be patient. It's only been 2 hours...	2021-06-24T22:00:44.833+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}
