@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I don't think multi-currency wallets should be on getmonero.org 
-date: 2021-06-24 1624547959 
-categories: reddit 
---- 
-https://redd.it/o73070
