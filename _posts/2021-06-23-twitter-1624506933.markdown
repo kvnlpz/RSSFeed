@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @haruto_ohfosho 
-date: 2021-06-23 1624506933 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407910216180568065
