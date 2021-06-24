@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Exercising Calls 
-date: 2021-06-24 1624548745 
-categories: reddit 
---- 
-https://redd.it/o739ul
