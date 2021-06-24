@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @AlTrades 
+date: 2021-06-24 1624544240 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408066679549034512
