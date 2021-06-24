@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “Here is my deceptive title 
-date: 2021-06-24 1624542385 
-categories: reddit 
---- 
-https://redd.it/o71776
