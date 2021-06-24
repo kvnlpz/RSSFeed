@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking outside of Coinbase 
-date: 2021-06-24 1624546648 
-categories: reddit 
---- 
-https://redd.it/o72k63
