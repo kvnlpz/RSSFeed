@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bran_GoldenOreo 
-date: 2021-06-24 1624546621 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408076681831649280
