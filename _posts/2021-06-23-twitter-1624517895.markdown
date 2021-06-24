@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @therichpenguins 
-date: 2021-06-23 1624517895 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407956197668499456
