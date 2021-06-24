@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rohit_nakhwa 
-date: 2021-06-23 1624505541 
-categories: twitter 
---- 
-https://twitter.com/o/status/1407904377331871749
