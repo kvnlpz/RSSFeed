@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muchfree 
-date: 2021-06-24 1624548741 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408085564406988811
