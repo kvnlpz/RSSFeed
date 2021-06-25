@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Predicting the market is hard enough. Technical analysis gets you so far. Some facts are well established. Ultimately it’s the research you do that matters. 
-date: 2021-06-24 1624577933 
-categories: reddit 
---- 
-https://redd.it/o7brnl
