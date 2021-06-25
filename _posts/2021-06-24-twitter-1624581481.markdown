@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-06-24 1624581481 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408222893587140611
