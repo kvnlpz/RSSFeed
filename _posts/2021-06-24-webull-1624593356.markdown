@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624593356 
-categories: webull 
---- 
-$DOGEUSD  May as well ride this wave to the top. .285 is awesome, but is it enough? maybe 1$ is?	2021-06-25T02:48:03.874+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.744, 'pos': 0.256, 'compound': 0.594}
