@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is there a difference if I use the signed psbt file or the final transaction psbt file to broadcast my transaction? I believe I’ve done both and they both sent my transaction. 
+date: 2021-06-25 1624647170 
+categories: reddit 
+--- 
+https://redd.it/o7tzdl
