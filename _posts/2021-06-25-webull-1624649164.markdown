@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-25 1624649164 
+categories: webull 
+--- 
+$WISH Im so glad price is still here.  I want to put more 10K in this dont go up without me lol ladder attack me ill buy more	2021-06-25T19:06:43.790+0000
+sentiment scores: {'neg': 0.233, 'neu': 0.621, 'pos': 0.146, 'compound': -0.4706}
