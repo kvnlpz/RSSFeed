@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I've figured out a way of predicting (guesstimating) the Moon to Karma Ratio. Of course its on a spreadsheet. 
-date: 2021-06-24 1624603294 
-categories: reddit 
---- 
-https://redd.it/o7i7vb
