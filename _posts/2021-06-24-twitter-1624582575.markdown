@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RisersCrypto 
-date: 2021-06-24 1624582575 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408227481564467204
