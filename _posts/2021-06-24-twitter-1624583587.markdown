@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptogeordie 
-date: 2021-06-24 1624583587 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408231544167223300
