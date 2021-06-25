@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TornadoFlipN 
-date: 2021-06-24 1624583687 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408232107080667137
