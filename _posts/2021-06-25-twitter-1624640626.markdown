@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-06-25 1624640626 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408470967928737799
