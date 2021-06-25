@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624593377 
-categories: webull 
---- 
-$DOGEUSD   = number 1 crypto . 1$ soon.	2021-06-25T03:12:16.962+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.0772}
