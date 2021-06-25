@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624593383 
+categories: webull 
+--- 
+$DOGEUSD  Doge coin is getting picked up by Dubai one of the wealthiest countries. Doge coin because of it's overall stability will be more likely getting picked up by other countries now in domino fa	2021-06-25T03:27:34.449+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.4939}
