@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proof of Stake is a Precondition to Blockchain Adoption 
-date: 2021-06-24 1624576330 
-categories: reddit 
---- 
-https://redd.it/o7b9e8
