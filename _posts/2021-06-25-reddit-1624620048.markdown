@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ethereum's much-awaited EIP-1559 gets deployed on Ropsen testnet | CryptoSlate 
+date: 2021-06-25 1624620048 
+categories: reddit 
+--- 
+https://redd.it/o7loz3
