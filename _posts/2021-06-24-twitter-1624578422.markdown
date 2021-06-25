@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FL8DY 
-date: 2021-06-24 1624578422 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408210066428370945
