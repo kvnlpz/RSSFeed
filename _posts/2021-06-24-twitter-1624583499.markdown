@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MrBellows 
+date: 2021-06-24 1624583499 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408231183813652481
