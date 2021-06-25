@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “I’m totally screwed.” WD My Book Live users wake up to find their data deleted 
-date: 2021-06-24 1624595966 
-categories: reddit 
---- 
-https://redd.it/o7gjcg
