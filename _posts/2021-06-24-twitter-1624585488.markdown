@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RLTradez 
-date: 2021-06-24 1624585488 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408239681406394368
