@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can I explore the data of a block from 6 months ago on erc? 
-date: 2021-06-25 1624614420 
-categories: reddit 
---- 
-https://redd.it/o7khiz
