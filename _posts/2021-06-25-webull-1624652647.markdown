@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624652647 
-categories: webull 
---- 
-$BABA Gigantic 5M print at close 	2021-06-25T20:12:21.185+0000
-sentiment scores: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
