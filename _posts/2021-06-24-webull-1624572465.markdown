@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624572465 
-categories: webull 
---- 
-$DOGEUSD .26 wow 	2021-06-24T21:42:24.122+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.5859}
