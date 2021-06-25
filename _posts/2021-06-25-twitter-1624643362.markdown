@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ontheslabs 
+date: 2021-06-25 1624643362 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408482335662624768
