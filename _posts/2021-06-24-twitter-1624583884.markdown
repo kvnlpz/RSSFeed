@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MyComputer2Much 
-date: 2021-06-24 1624583884 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408232973929877507
