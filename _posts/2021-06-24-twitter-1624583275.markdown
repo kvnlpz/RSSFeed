@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SamirKayande 
-date: 2021-06-24 1624583275 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408230417493233664
