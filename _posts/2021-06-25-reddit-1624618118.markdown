@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Understanding how EIP 1559, Eth2 and L2 Scaling affects ETH tokenomics + demand 
+date: 2021-06-25 1624618118 
+categories: reddit 
+--- 
+https://redd.it/o7l96s
