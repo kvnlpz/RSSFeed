@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's stopping large wealthy institutions from building large crypto-mining powerhouse datacenters with specialized hardware and greater power efficiency? 
-date: 2021-06-24 1624590952 
-categories: reddit 
---- 
-https://redd.it/o7fa4t
