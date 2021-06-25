@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @judyzhu80378942 
-date: 2021-06-24 1624583629 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408231789164777472
