@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I have 2 weird tokens in my software called TADP and MNEB with Tokens in them. However, there is no associated USD value to it. Also, cant seem to be able to swap them. Is anyone of you having the same/similar tokens in your wallet? What is the use of these tokens and what can I do with it? 
-date: 2021-06-25 1624617755 
-categories: reddit 
---- 
-https://redd.it/o7l6dz
