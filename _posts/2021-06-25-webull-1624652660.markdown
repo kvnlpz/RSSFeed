@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624652660 
-categories: webull 
---- 
-$AMC What we all like to see is 80 to 100% jump AH hour before close and massive volumes on Moday with premarket and see suspended few times on Monday and we know that will be the days!! and from that	2021-06-25T20:15:32.214+0000
-sentiment scores: {'neg': 0.082, 'neu': 0.863, 'pos': 0.055, 'compound': -0.2924}
