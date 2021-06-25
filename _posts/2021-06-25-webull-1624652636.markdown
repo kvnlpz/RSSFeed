@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624652636 
-categories: webull 
---- 
-$UEC  ok	2021-06-25T20:10:12.165+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}
