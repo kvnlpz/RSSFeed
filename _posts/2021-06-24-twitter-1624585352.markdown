@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kingmollywater 
-date: 2021-06-24 1624585352 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408239114848198656
