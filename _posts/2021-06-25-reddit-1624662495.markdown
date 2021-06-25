@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: stellar/stellar-protocol CAP-38 (Automated Market Makers) is now accepted. 
+date: 2021-06-25 1624662495 
+categories: reddit 
+--- 
+https://redd.it/o7ytis
