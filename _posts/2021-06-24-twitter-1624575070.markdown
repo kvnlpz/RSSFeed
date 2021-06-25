@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alaa69136 
-date: 2021-06-24 1624575070 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408195991275143171
