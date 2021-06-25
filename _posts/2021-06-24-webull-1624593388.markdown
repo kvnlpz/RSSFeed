@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624593388 
+categories: webull 
+--- 
+$DOGEUSD if you still think this will go to .16 seek help	2021-06-25T03:30:43.489+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.803, 'pos': 0.197, 'compound': 0.4019}
