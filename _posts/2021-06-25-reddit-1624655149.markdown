@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why blockchains can't scale - An infographic series in layman's terms 
+date: 2021-06-25 1624655149 
+categories: reddit 
+--- 
+https://redd.it/o7wk3y
