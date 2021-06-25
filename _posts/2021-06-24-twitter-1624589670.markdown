@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rolldat777 
-date: 2021-06-24 1624589670 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408257242793582596
