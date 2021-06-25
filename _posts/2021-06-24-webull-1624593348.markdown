@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624593348 
+categories: webull 
+--- 
+$ETHUSD hate to be the guy that told you so but I did ... 	2021-06-25T02:41:11.538+0000
+sentiment scores: {'neg': 0.164, 'neu': 0.836, 'pos': 0.0, 'compound': -0.3291}
