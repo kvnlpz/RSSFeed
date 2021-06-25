@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vamosconramos2 
-date: 2021-06-24 1624601003 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408304774806654978
