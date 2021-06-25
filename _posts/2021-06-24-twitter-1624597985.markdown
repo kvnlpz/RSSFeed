@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Eller 
-date: 2021-06-24 1624597985 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408292115973554176
