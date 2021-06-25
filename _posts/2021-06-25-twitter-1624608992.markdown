@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @commmonfi 
-date: 2021-06-25 1624608992 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408338285710086147

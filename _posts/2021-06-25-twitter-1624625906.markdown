@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mebsites 
-date: 2021-06-25 1624625906 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408409226943164417

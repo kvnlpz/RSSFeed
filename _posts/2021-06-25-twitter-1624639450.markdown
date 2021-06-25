@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @oj010209 
-date: 2021-06-25 1624639450 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408466034571444237

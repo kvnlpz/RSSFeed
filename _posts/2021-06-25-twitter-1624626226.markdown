@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeBellafiore 
-date: 2021-06-25 1624626226 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408410569317756930

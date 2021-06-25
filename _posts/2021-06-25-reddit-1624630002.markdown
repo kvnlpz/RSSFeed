@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bunicorn Will Integrate Chainlink VRF to Secure VBUNI NFT Collectibles’ Randomness 
-date: 2021-06-25 1624630002 
-categories: reddit 
---- 
-https://redd.it/o7odyu

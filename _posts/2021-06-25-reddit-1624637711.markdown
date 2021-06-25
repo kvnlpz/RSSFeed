@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase cuts APY of staked coins algo and Ethereum 
-date: 2021-06-25 1624637711 
-categories: reddit 
---- 
-https://redd.it/o7qw0x

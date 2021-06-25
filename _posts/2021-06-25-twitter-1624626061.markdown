@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @magickalascens1 
-date: 2021-06-25 1624626061 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408409877295222785

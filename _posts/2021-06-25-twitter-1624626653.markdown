@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @caged_ape 
-date: 2021-06-25 1624626653 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408412349933961229

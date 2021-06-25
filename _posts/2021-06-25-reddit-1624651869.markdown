@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SPCE diagonal puts 
-date: 2021-06-25 1624651869 
-categories: reddit 
---- 
-https://redd.it/o7tyc7

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nexo’s New Feature Gives Borrowing Clients Full Control Over Their Collateral 
-date: 2021-06-25 1624644904 
-categories: reddit 
---- 
-https://redd.it/o7t9bu

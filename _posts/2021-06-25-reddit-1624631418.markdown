@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nice ethereum 
-date: 2021-06-25 1624631418 
-categories: reddit 
---- 
-https://redd.it/o7ou8l

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking ETH on with a Raspberry pi. Best to set up staking now or after EIP-1559? 
-date: 2021-06-25 1624645632 
-categories: reddit 
---- 
-https://redd.it/o7thpv

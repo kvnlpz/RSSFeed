@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OwenSherlock13 
-date: 2021-06-25 1624606916 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408329577664061442

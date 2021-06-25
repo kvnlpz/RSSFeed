@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HolyCity_Trader 
-date: 2021-06-25 1624636421 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408453327508152320

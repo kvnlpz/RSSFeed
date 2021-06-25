@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @canttunafish 
-date: 2021-06-25 1624643818 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408484150118584320

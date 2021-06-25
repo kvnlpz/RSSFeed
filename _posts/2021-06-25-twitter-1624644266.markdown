@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CoreyCicero 
-date: 2021-06-25 1624644266 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408486234889011207

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Comparing Ethereum Gas Estimators: How Blocknative Gas Platform Stacks Up 
-date: 2021-06-25 1624646417 
-categories: reddit 
---- 
-https://redd.it/o7tqh7

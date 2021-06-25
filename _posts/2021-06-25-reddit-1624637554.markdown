@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin vs. Privacy Coins 
-date: 2021-06-25 1624637554 
-categories: reddit 
---- 
-https://redd.it/o7qu5z

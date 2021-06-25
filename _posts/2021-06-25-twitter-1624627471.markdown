@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoWithKiki 
-date: 2021-06-25 1624627471 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408415790949355524

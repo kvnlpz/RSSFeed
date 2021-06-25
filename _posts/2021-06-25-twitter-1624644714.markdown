@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MonocleMan1 
-date: 2021-06-25 1624644714 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408488112804794368

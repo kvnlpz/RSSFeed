@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Identifying bots on WSB 
-date: 2021-06-25 1624644332 
-categories: reddit 
---- 
-https://redd.it/o7t2nt

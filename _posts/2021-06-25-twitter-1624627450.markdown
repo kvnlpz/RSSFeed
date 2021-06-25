@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SamuelShadrach4 
-date: 2021-06-25 1624627450 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408415702071996423

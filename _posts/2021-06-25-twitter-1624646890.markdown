@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @andrezzini 
-date: 2021-06-25 1624646890 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408497241678041090

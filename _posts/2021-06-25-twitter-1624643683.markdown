@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @neonationstate 
-date: 2021-06-25 1624643683 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408483790708776966

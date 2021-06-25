@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Don't Get Your Holding Period Reset When Wheeling! The Tax Implications of Covered Calls 
-date: 2021-06-25 1624643864 
-categories: reddit 
---- 
-https://redd.it/o7sx0n

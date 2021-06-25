@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EPZM YOLO 
-date: 2021-06-25 1624646890 
-categories: reddit 
---- 
-https://redd.it/o7tw4n

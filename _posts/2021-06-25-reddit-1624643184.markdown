@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which is the relationship between BTC and ETH? 
-date: 2021-06-25 1624643184 
-categories: reddit 
---- 
-https://redd.it/o7sp3n

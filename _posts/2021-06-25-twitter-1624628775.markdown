@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zigaries 
-date: 2021-06-25 1624628775 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408421260309274625

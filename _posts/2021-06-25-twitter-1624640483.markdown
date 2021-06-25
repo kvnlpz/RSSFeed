@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GaliaskarA 
-date: 2021-06-25 1624640483 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408470365706260490

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NothingBurger16 
-date: 2021-06-25 1624644944 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408489077045960722

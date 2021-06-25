@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: El Salvador update on BTC 
-date: 2021-06-25 1624628289 
-categories: reddit 
---- 
-https://redd.it/o7nv9u

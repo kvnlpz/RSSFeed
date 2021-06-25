@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Arthur_W_Shelby 
-date: 2021-06-25 1624627446 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408415685680713734

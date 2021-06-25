@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: E-Trade options priced differently. What am I missing here 
-date: 2021-06-25 1624625174 
-categories: reddit 
---- 
-https://redd.it/o7mzpg

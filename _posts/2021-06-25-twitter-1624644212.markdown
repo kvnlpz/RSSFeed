@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CBoswell78 
-date: 2021-06-25 1624644212 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408486005817196545

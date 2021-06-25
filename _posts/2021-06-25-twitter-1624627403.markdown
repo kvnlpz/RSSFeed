@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thecrytoD0G 
-date: 2021-06-25 1624627403 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408415505246048256

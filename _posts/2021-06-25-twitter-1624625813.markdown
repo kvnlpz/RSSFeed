@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @initrobot 
-date: 2021-06-25 1624625813 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408408836151644165

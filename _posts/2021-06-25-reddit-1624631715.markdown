@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: View DAI on polygon network in Metamask 
-date: 2021-06-25 1624631715 
-categories: reddit 
---- 
-https://redd.it/o7oxj2

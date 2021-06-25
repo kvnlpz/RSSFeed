@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Now that we have decentralized finances, is there any way to create a decentralized internet? 
-date: 2021-06-25 1624634454 
-categories: reddit 
---- 
-https://redd.it/o7pt59

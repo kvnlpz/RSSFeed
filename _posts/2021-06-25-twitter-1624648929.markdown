@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Barabbas000 
-date: 2021-06-25 1624648929 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408505794245500929

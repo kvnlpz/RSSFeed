@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624649201 
-categories: webull 
---- 
-$GME Zzzzzz, thanks for the discount hedges, bought 35 more today, cost basis still under 100, i believe in RC and Gamestop, i belive that good will win	2021-06-25T19:24:52.179+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.8625}

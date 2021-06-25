@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Backtested some dumb but working Crypto algotrading strategies 
-date: 2021-06-25 1624643323 
-categories: reddit 
---- 
-https://redd.it/o7sqt2

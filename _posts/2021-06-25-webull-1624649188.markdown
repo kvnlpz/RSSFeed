@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624649188 
-categories: webull 
---- 
-$PENN Wtf i’m so damn salty right now 	2021-06-25T19:18:12.662+0000
-sentiment scores: {'neg': 0.531, 'neu': 0.469, 'pos': 0.0, 'compound': -0.7778}

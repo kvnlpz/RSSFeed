@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CrypTesla 
-date: 2021-06-25 1624628848 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408421567080583175

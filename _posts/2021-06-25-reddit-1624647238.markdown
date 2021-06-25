@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 🔥 Hot out of the Oven: “The Baking Sheet - Issue #54” This Week in the Tezos Ecosystem 
-date: 2021-06-25 1624647238 
-categories: reddit 
---- 
-https://redd.it/o7u056

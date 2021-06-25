@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderSeanH 
-date: 2021-06-25 1624642581 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408479163820953607

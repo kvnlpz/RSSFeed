@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CAVOK12 
-date: 2021-06-25 1624619570 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408382647160639489

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: More Than 85,000 Ethereum Burned On Ropsten Testnet Through EIP-1559 
-date: 2021-06-25 1624623819 
-categories: reddit 
---- 
-https://redd.it/o7mmn5
