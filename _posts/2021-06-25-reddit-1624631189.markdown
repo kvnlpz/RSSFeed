@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Will EUTXO even allow building defi apps like on the ethereum blockchain? Whats the advantage of EUTXO? 
+date: 2021-06-25 1624631189 
+categories: reddit 
+--- 
+https://redd.it/o7orlg
