@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IjraurangzebZeb 
-date: 2021-06-24 1624595897 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408283361907511298
