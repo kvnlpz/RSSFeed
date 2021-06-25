@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: FarmHero Integrates Chainlink VRF to Secure Fair Distribution of Rare NFTs 
+date: 2021-06-25 1624630040 
+categories: reddit 
+--- 
+https://redd.it/o7oeb9
