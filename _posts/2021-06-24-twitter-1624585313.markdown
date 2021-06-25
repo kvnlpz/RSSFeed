@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tomlistusa 
+date: 2021-06-24 1624585313 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408238967913394176
