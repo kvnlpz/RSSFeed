@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I created a sentiment analysis algorithm and then scraped the Internet for cryptocurrency related articles, posts, etc. TLDR: I was able to find price-to-sentiment correlations at mass volume scale. It’s a working progress, but the results are promising for a leading indicator. Check it out: 
-date: 2021-06-24 1624596473 
-categories: reddit 
---- 
-https://redd.it/o7gnw4
