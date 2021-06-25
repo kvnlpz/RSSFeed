@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DegenSpartan 
-date: 2021-06-24 1624589126 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408254962207903747
