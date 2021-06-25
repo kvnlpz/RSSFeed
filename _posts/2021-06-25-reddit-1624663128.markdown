@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: stellar/stellar-protocol Stellar’s Core Advancement Proposal 38 has been accepted by the team. This brings Automated Market Makers, like UniSwap’s liquidity pools, to the network in an upcoming protocol update. 
+date: 2021-06-25 1624663128 
+categories: reddit 
+--- 
+https://redd.it/o7yzxb
