@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @trading_volume 
+date: 2021-06-25 1624627254 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408414878566649856
