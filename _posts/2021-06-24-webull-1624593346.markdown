@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624593346 
-categories: webull 
---- 
-$SOS I’ll be honest. I dont want  $AMC to move over. I love to see what they are doing… make the hedgys Eat my expired chimychangas.SOS is good and proven to fly no matter what. We just want serious i	2021-06-25T02:41:05.331+0000
-sentiment scores: {'neg': 0.128, 'neu': 0.624, 'pos': 0.248, 'compound': 0.8204}
