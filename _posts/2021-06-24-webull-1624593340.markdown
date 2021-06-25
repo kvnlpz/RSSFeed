@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624593340 
+categories: webull 
+--- 
+$DOGEUSD damn Im lost with words 	2021-06-25T02:34:13.707+0000
+sentiment scores: {'neg': 0.556, 'neu': 0.444, 'pos': 0.0, 'compound': -0.6124}
