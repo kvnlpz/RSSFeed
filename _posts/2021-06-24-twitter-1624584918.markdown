@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @azeroz 
-date: 2021-06-24 1624584918 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408237312530657281
