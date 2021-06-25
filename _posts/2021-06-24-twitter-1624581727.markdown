@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eltotsire 
-date: 2021-06-24 1624581727 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408223928498151429
