@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BONSAIKUDZU 
-date: 2021-06-24 1624590630 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408261268704743430
