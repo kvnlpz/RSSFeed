@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshanMangroo 
-date: 2021-06-24 1624589067 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408254714958000128
