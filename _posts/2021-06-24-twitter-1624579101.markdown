@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BozWirth 
-date: 2021-06-24 1624579101 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408212892005109766
