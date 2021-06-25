@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Trying to understand BID and ASK on level. 
+date: 2021-06-25 1624650428 
+categories: reddit 
+--- 
+https://redd.it/o7v11w
