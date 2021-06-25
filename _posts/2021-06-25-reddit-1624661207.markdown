@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-1559 Update, which would reduce Ethereum fees, is already on the testnet - Crypto DeFinance 
+date: 2021-06-25 1624661207 
+categories: reddit 
+--- 
+https://redd.it/o7yg31
