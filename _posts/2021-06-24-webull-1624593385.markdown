@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624593385 
+categories: webull 
+--- 
+$AMC They keep deleting this off my stuff look at this	2021-06-25T03:30:37.506+0000
+sentiment scores: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
