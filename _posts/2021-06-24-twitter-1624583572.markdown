@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GerardoRitchey 
-date: 2021-06-24 1624583572 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408231505265057792
