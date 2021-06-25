@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Could someone explain the Coinbase Pro Depth chart? How do I interpret this data? 
+date: 2021-06-25 1624639664 
+categories: reddit 
+--- 
+https://redd.it/o7rjem
