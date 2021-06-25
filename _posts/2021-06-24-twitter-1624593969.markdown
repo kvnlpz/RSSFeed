@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sorrellsbeth 
-date: 2021-06-24 1624593969 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408275272617631744
