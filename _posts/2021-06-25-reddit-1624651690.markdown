@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The two sides of option volatility (inspired by EH 07/16/2021 30.00 P, still at 0.85 with stock at 38) 
+date: 2021-06-25 1624651690 
+categories: reddit 
+--- 
+https://redd.it/o7vg58
