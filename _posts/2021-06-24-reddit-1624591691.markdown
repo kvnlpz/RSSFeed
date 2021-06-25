@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why IV is zero on some deep ITM calls? 
-date: 2021-06-24 1624591691 
-categories: reddit 
---- 
-https://redd.it/o7fh95
