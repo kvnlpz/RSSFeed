@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624572483 
-categories: webull 
---- 
-$DOGEUSD price rn 	2021-06-24T21:53:10.901+0000
-sentiment scores: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
