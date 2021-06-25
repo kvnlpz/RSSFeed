@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BabyCatAZ 
-date: 2021-06-24 1624593870 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408274853019459584
