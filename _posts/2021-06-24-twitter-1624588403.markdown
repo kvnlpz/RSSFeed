@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tropic_vacation 
-date: 2021-06-24 1624588403 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408251927373172742
