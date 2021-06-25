@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0vereasy1 
-date: 2021-06-24 1624581933 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408224791002222592
