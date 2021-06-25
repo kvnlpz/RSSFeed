@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should I travel with my hardware wallet as a digital nomad or leave it in my parent's house? 
-date: 2021-06-24 1624579064 
-categories: reddit 
---- 
-https://redd.it/o7c3t2
