@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @johnnygerland 
+date: 2021-06-25 1624632169 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408435495952998401
