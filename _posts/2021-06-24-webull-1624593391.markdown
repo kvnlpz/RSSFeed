@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624593391 
-categories: webull 
---- 
-$BTCUSD lets pray this is the new floor	2021-06-25T03:48:45.352+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.3182}
