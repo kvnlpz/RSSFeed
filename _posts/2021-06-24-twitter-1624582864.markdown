@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nut_spac 
-date: 2021-06-24 1624582864 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408228693558935555
