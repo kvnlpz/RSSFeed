@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mightyduck19 
-date: 2021-06-24 1624578665 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408211084842991620
