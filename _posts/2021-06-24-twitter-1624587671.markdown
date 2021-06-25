@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Michael47895788 
-date: 2021-06-24 1624587671 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408248858233217027
