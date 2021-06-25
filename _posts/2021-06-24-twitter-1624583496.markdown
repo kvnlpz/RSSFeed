@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LaPlumeDeDiable 
-date: 2021-06-24 1624583496 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408231168080744449
