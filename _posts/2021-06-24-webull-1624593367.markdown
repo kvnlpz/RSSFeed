@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-24 1624593367 
+categories: webull 
+--- 
+$DOGEUSD im sure whoever sold thinking it would go to 0.10 cents is like this all day 	2021-06-25T02:56:33.056+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.5859}
