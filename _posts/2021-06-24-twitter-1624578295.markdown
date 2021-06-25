@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hunter_E_A 
-date: 2021-06-24 1624578295 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408209531482501121
