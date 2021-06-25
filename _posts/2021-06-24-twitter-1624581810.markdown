@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Alexis889022 
-date: 2021-06-24 1624581810 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408224273999839235
