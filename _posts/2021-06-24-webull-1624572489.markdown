@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624572489 
-categories: webull 
---- 
-$WISH Wouldnt be surprised if we test 20 tomorrow.... Jokes on all the people that called this a pump and dump! And the only place im taking my profits from here is  $INDI period.... that’s next lol	2021-06-24T21:56:45.648+0000
-sentiment scores: {'neg': 0.099, 'neu': 0.717, 'pos': 0.185, 'compound': 0.5756}
