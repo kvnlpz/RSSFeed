@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-25 1624652638 
+categories: webull 
+--- 
+$ETHUSD Yall shittin bricks. once the funds tun out no one else is buyin 	2021-06-25T20:10:42.615+0000
+sentiment scores: {'neg': 0.145, 'neu': 0.855, 'pos': 0.0, 'compound': -0.296}
