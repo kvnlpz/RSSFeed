@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-24 1624593359 
-categories: webull 
---- 
-$ETHUSD dry paint 	2021-06-25T02:48:31.444+0000
-sentiment scores: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
