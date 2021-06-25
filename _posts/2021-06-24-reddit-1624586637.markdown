@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin has finally closed three consecutive daily green candles since 11/04 
-date: 2021-06-24 1624586637 
-categories: reddit 
---- 
-https://redd.it/o7e3i2
