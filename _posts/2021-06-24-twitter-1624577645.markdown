@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kavourias 
-date: 2021-06-24 1624577645 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408206804354469896
