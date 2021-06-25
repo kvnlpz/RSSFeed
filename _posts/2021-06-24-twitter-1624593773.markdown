@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sp500trader 
-date: 2021-06-24 1624593773 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408274450261450753
