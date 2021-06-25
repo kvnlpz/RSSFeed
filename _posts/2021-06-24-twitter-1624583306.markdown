@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ECCarolan 
-date: 2021-06-24 1624583306 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408230540470210562
