@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Working on a project to categorise all the staking options for BTC. 
-date: 2021-06-25 1624666186 
-categories: reddit 
---- 
-https://redd.it/o7ztki
