@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624654968 
-categories: webull 
---- 
-$SPCE Anyone telling you to sell has a position that benefits from you doing so. Otherwise why would they say some dumbbbbb a*** comment when this is the news of news	2021-06-25T20:51:03.958+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.918, 'pos': 0.082, 'compound': 0.3818}
