@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why isn’t YouTube tokenizing ? 
-date: 2021-06-26 1624723772 
-categories: reddit 
---- 
-https://redd.it/o8dper
