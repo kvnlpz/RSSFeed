@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: http: Bitcoin/ https: Monero; oversimplification for telling people about it? 
-date: 2021-06-25 1624684264 
-categories: reddit 
---- 
-https://redd.it/o844v2
