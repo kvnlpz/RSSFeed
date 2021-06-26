@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sheva177777 
-date: 2021-06-25 1624664635 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408571667098619906
