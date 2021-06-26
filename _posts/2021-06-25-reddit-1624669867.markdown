@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happens when all the btc will be mined? Considering a time when btc will become reserve currency. What will miners get in return for their use of resources to confirm transactions and to secure network? 
-date: 2021-06-25 1624669867 
-categories: reddit 
---- 
-https://redd.it/o80sgv
