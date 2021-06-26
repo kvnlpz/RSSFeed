@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Trader007M 
-date: 2021-06-25 1624683293 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408649927287259145
