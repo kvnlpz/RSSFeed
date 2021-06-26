@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kev98don 
-date: 2021-06-25 1624657842 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408543176315617285
