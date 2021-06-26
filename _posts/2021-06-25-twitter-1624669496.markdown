@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Baba10x 
-date: 2021-06-25 1624669496 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408592046244327424
