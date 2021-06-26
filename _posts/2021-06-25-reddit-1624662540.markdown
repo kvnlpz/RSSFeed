@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase Pro “Pending Deposits” help needed 
-date: 2021-06-25 1624662540 
-categories: reddit 
---- 
-https://redd.it/o7yu0w
