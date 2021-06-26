@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Withdrawing and depositing usdt using the wrong network (BEP20) 
-date: 2021-06-25 1624689524 
-categories: reddit 
---- 
-https://redd.it/o85ikb
