@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @econo_praxis 
-date: 2021-06-25 1624665184 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408573968748101632
