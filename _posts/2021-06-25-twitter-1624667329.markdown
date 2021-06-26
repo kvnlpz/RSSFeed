@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fast_hand_Luke 
-date: 2021-06-25 1624667329 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408582822516989954
