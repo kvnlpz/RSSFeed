@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vulnerabilities of the IOTA Foundation 
-date: 2021-06-26 1624708968 
-categories: reddit 
---- 
-https://redd.it/o89hkb
