@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BlackGrinate 
-date: 2021-06-25 1624686055 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408661507924271104
