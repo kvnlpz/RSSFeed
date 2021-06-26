@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain this spread? 
-date: 2021-06-25 1624672742 
-categories: reddit 
---- 
-https://redd.it/o81ik6
