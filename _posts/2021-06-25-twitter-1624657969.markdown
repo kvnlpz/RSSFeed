@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThyLifeOfBryan 
-date: 2021-06-25 1624657969 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408543710585913346
