@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Yoroi error received from server while getting reward history 
+date: 2021-06-26 1624694219 
+categories: reddit 
+--- 
+https://redd.it/o86fxq
