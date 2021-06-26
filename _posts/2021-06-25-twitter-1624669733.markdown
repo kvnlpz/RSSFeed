@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @unsettledSky 
-date: 2021-06-25 1624669733 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408593049614262274
