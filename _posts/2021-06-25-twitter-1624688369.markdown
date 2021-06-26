@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DonaldSlayton1 
-date: 2021-06-25 1624688369 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408671217150742540
