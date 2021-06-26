@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @matthewesp 
-date: 2021-06-25 1624674467 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408612883831865347
