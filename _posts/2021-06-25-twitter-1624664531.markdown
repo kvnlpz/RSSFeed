@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fnmaniac 
-date: 2021-06-25 1624664531 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408571230748221440
