@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xpawgchamp 
-date: 2021-06-25 1624674459 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408612873203556360
