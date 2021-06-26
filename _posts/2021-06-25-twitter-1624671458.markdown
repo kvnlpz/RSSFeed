@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jmccart10 
-date: 2021-06-25 1624671458 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408600285476311047
