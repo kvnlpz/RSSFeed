@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Setting up a node 
-date: 2021-06-25 1624688237 
-categories: reddit 
---- 
-https://redd.it/o858pm
