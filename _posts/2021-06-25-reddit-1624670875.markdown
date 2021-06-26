@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: One of Europe’s largest investment banks issues security token on Tezos 
-date: 2021-06-25 1624670875 
-categories: reddit 
---- 
-https://redd.it/o811oc
