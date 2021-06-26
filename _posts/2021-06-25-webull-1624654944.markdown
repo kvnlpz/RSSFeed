@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624654944 
-categories: webull 
---- 
-$WISH Price has to stay below 15 for option sellers and above 13. Thats just how it is now next week expecting 20 dollar a share and expect to close under 20 over 18 next Friday	2021-06-25T20:40:56.057+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.296}
