@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Some ways to carry your seed phrases securely with you. 
-date: 2021-06-25 1624681239 
-categories: reddit 
---- 
-https://redd.it/o83ngz
