@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @notseriousknown 
-date: 2021-06-25 1624664095 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408569403877302273
