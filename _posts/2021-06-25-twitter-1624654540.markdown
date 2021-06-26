@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThadSwiatek 
-date: 2021-06-25 1624654540 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408529324941234183
