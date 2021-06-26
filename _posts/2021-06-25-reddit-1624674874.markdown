@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Latest Week in Ethereum News! Ropsten testnet upgraded to London, 5% of ETH supply staked for Beacon chain, Reddit auctioning 3 CryptoSnoos NFTs 
-date: 2021-06-25 1624674874 
-categories: reddit 
---- 
-https://redd.it/o822aq
