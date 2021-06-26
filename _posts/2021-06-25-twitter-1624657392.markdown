@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Absalom30436067 
-date: 2021-06-25 1624657392 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408541289952460804
