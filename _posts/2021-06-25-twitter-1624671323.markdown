@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jonnehwalker 
-date: 2021-06-25 1624671323 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408599717676650507
