@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @petedian 
-date: 2021-06-25 1624656912 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408538526933729309
