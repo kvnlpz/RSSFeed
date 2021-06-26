@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tristanroxburgh 
-date: 2021-06-25 1624665111 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408573663813668864
