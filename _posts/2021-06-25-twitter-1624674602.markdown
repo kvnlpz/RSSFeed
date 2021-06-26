@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @crlhntr 
-date: 2021-06-25 1624674602 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408613471684603904
