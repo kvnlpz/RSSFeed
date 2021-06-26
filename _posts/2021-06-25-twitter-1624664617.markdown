@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bengauv 
-date: 2021-06-25 1624664617 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408571593098412036
