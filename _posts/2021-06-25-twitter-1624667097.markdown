@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @elite_investor 
-date: 2021-06-25 1624667097 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408581995039428608
