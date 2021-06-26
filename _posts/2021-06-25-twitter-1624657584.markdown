@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ArunCherian12 
-date: 2021-06-25 1624657584 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408542094541664257
