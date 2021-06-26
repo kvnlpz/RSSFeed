@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Read the F’ing manual 
-date: 2021-06-25 1624672954 
-categories: reddit 
---- 
-https://redd.it/o81kmm
