@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptokid84 
-date: 2021-06-25 1624664642 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408571695967973379
