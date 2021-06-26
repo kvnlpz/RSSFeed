@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rtanderson23 
-date: 2021-06-25 1624664322 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408570355149574149
