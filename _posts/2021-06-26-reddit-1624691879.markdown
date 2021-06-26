@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cryptomist article about a small pools 
-date: 2021-06-26 1624691879 
-categories: reddit 
---- 
-https://redd.it/o85zy9
