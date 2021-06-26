@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can anyone simply explain Cardano? 
-date: 2021-06-26 1624694633 
-categories: reddit 
---- 
-https://redd.it/o86j2x
