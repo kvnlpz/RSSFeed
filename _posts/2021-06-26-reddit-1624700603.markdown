@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This Token Could Bridge the Incentive Gap Between Ethereum Miners and Ethereum Users 
-date: 2021-06-26 1624700603 
-categories: reddit 
---- 
-https://redd.it/o87psp
