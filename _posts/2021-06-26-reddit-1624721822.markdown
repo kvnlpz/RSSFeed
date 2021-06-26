@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How are the number of non-signers in a ring determined? 
+date: 2021-06-26 1624721822 
+categories: reddit 
+--- 
+https://redd.it/o89b4f
