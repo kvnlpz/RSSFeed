@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FridayOrange 
-date: 2021-06-25 1624664214 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408569902709886978
