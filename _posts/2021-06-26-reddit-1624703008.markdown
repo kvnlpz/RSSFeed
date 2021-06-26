@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should I pay Stake Pool fee every 5 days? 
-date: 2021-06-26 1624703008 
-categories: reddit 
---- 
-https://redd.it/o886zh
