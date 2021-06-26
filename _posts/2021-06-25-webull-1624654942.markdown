@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624654942 
-categories: webull 
---- 
-$GROM  Can this just consolidate til Monday open please. Don't take off without me. lol	2021-06-25T20:38:13.340+0000
-sentiment scores: {'neg': 0.132, 'neu': 0.737, 'pos': 0.13, 'compound': -0.0083}
