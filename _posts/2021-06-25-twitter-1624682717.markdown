@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Diligent_gforce 
-date: 2021-06-25 1624682717 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408647508536922115
