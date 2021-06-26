@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @sretler 
+date: 2021-06-26 1624722199 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408813107242225664
