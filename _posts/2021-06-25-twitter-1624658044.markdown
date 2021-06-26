@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mb_583 
-date: 2021-06-25 1624658044 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408544022751330306
