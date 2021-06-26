@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is the Market cap / TVL ratio a universal metric? 
-date: 2021-06-26 1624712332 
-categories: reddit 
---- 
-https://redd.it/o8aati
