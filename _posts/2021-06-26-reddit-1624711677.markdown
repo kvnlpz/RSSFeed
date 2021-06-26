@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PSA: The network burns XLM per transaction now that inflation is disabled. The current fee pool is 1,879,464 XLM, all of which will never go back into circulation 
+date: 2021-06-26 1624711677 
+categories: reddit 
+--- 
+https://redd.it/o8a55c
