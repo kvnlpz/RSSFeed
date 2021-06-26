@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Case for leveraged ETFs: A simulation-based analysis 
-date: 2021-06-26 1624721214 
-categories: reddit 
---- 
-https://redd.it/o8cwpw
