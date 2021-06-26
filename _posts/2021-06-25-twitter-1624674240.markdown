@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @John_galt1111 
-date: 2021-06-25 1624674240 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408611942785224707
