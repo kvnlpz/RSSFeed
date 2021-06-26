@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NickMastro26 
-date: 2021-06-25 1624663098 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408565219731857413
