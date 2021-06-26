@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where can I stak XLM with a nice percentage ? 
-date: 2021-06-26 1624716908 
-categories: reddit 
---- 
-https://redd.it/o8bl9o
