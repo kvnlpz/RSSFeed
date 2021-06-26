@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why ETH price is dropping? 
-date: 2021-06-26 1624693578 
-categories: reddit 
---- 
-https://redd.it/o86bmg
