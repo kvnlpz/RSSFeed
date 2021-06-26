@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gabejones12 
-date: 2021-06-25 1624656654 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408538042307076105
