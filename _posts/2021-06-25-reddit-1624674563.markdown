@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How I recovered my lost Bitcoin passphrase 
+date: 2021-06-25 1624674563 
+categories: reddit 
+--- 
+https://redd.it/o81zbz
