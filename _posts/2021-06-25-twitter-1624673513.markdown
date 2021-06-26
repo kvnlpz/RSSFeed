@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mdorough303 
-date: 2021-06-25 1624673513 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408608902946512904
