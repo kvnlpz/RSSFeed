@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @AdamSinger 
+date: 2021-06-26 1624718561 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408797850796974082
