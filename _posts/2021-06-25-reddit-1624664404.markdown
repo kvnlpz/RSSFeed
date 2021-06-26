@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: dxFeed Will Make BTC and ETH Implied Volatility Data Available On-Chain 
-date: 2021-06-25 1624664404 
-categories: reddit 
---- 
-https://redd.it/o7zc8v
