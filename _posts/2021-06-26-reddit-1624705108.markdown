@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Isn't it a security risk for Bitcoin account safety that Samsung Galaxy phones' clipboard "history" is not easy to disable? 
-date: 2021-06-26 1624705108 
-categories: reddit 
---- 
-https://redd.it/o88mbi
