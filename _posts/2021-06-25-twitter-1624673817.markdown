@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xyz_nihilo 
-date: 2021-06-25 1624673817 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408610180934168580
