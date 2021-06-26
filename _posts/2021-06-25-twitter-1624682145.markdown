@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stonksandsnacks 
-date: 2021-06-25 1624682145 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408645109483073541
