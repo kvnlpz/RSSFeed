@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EXMO to delist Monero 
-date: 2021-06-26 1624697086 
-categories: reddit 
---- 
-https://redd.it/o870m7
