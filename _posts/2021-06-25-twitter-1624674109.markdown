@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jonodruary 
-date: 2021-06-25 1624674109 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408611406698606592
