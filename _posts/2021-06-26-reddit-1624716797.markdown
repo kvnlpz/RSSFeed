@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Latest real time price trend chart of Cosmos ($ATOM) 
-date: 2021-06-26 1624716797 
-categories: reddit 
---- 
-https://redd.it/o89nw7
