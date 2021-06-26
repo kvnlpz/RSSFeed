@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: main differences (in terms of main concept, objective, uses) between eth, cardano, tezos, polkadot, polygon, algorand, elrond, eos, tron, stellar, cosmos, solana; 
-date: 2021-06-25 1624679285 
-categories: reddit 
---- 
-https://redd.it/o83656
