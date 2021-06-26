@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to Setup a UTXO database ? 
-date: 2021-06-26 1624690801 
-categories: reddit 
---- 
-https://redd.it/o85rui
