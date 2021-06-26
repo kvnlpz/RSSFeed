@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fresh start 
-date: 2021-06-26 1624692887 
-categories: reddit 
---- 
-https://redd.it/o866ws
