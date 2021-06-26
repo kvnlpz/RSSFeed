@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @fly_rusty 
+date: 2021-06-25 1624682323 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408645857247784963
