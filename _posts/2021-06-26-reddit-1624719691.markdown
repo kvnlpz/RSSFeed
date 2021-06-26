@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: This former EOS dApp casino has on-chain bets, non-custodial accounts and doesn't require a KYC. It has all of its bets recorded onchain that can be audited for fairness and hence is provably fair. It has integrated ChainLink's VRF oracles to ensure that the outcome generated is random and unbiased 
+date: 2021-06-26 1624719691 
+categories: reddit 
+--- 
+https://redd.it/o8apz8
