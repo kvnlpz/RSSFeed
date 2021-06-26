@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @John_2215 
-date: 2021-06-25 1624674178 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408611693706375172
