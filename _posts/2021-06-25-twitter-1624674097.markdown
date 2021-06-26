@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bonecondor 
-date: 2021-06-25 1624674097 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408611354248949764
