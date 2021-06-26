@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @beh0211 
-date: 2021-06-25 1624673695 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408609669078163460
