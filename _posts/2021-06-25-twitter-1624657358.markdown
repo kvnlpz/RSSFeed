@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @warandnoise 
-date: 2021-06-25 1624657358 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408541145794158592
