@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JiangInvest 
-date: 2021-06-25 1624674140 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408611521010208768
