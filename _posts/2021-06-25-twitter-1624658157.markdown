@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ActiontraderSeb 
-date: 2021-06-25 1624658157 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408544499068923904
