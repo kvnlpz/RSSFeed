@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is the best way to keep your Bitcoin safe? 
-date: 2021-06-26 1624712962 
-categories: reddit 
---- 
-https://redd.it/o8aha4
