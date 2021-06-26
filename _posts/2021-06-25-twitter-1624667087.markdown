@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alexoncryptoi 
-date: 2021-06-25 1624667087 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408581954442862600
