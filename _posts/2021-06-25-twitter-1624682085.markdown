@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sarah_Katilyn 
-date: 2021-06-25 1624682085 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408644857053302786
