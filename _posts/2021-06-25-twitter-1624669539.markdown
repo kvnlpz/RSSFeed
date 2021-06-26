@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xUsamaro 
-date: 2021-06-25 1624669539 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408592234941923330
