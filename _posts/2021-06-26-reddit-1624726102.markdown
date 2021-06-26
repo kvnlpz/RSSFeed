@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What about doing our own share count with developer APIs 
-date: 2021-06-26 1624726102 
-categories: reddit 
---- 
-https://redd.it/o8ef80
