@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EXCITING NEWS! We want to make NFTs accessible to everyone! From July 1, you'll be able to mint NFTs using our separate service called Artamint. For the first two weeks, you'll only pay the transaction costs(~0.5ADA), and then only 1ADA more to cover server maintenance costs! 
-date: 2021-06-26 1624696282 
-categories: reddit 
---- 
-https://redd.it/o86uzw
