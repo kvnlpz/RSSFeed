@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stebottaiolii 
-date: 2021-06-25 1624657490 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408541701191446529
