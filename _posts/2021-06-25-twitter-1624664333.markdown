@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thomaricard 
-date: 2021-06-25 1624664333 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408570386015559681
