@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monero only or Monero & Bitcoin 
-date: 2021-06-26 1624707602 
-categories: reddit 
---- 
-https://redd.it/o89608
