@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: And another good News 
-date: 2021-06-25 1624670485 
-categories: reddit 
---- 
-https://redd.it/o80y2t
