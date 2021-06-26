@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @3rdEyeApe 
-date: 2021-06-25 1624674265 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408612057285632003
