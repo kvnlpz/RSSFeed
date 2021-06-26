@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wanmillion1 
-date: 2021-06-25 1624657116 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408539260886597637
