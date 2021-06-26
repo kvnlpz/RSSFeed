@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5 - Why hasn't anyone been able to figure out who is the creator of Bitcoin/Blockchain? 
-date: 2021-06-26 1624696777 
-categories: reddit 
---- 
-https://redd.it/o86yeq
