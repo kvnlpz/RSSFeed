@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624654952 
-categories: webull 
---- 
-$TRCH Wow I thought we got rid of most of the losers.    I guess they're being big babies cause we're holding.	2021-06-25T20:42:51.008+0000
-sentiment scores: {'neg': 0.15, 'neu': 0.695, 'pos': 0.155, 'compound': 0.0352}
