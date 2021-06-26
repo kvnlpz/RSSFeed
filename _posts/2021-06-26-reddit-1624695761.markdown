@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [HELP] Ledger Live - Nano S Ledger 
-date: 2021-06-26 1624695761 
-categories: reddit 
---- 
-https://redd.it/o86r40
