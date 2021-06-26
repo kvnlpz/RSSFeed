@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I've just noticed Remitano exchange has recently released there new 'Remitano Network Coin' which is mineable in app and desktop. I haven't found it on coin gecko nor any information or posts anywhere... Thoughts? 
-date: 2021-06-26 1624701120 
-categories: reddit 
---- 
-https://redd.it/o87tiu
