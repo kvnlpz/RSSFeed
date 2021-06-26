@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-25 1624654936 
-categories: webull 
---- 
-$RSLS  Wow out of no where.	2021-06-25T20:33:11.079+0000
-sentiment scores: {'neg': 0.22, 'neu': 0.4, 'pos': 0.38, 'compound': 0.3818}
