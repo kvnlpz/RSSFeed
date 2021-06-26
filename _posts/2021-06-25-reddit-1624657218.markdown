@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Physical Bitcoin 
-date: 2021-06-25 1624657218 
-categories: reddit 
---- 
-https://redd.it/o7x81q
