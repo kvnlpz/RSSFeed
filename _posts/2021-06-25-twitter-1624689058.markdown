@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @fogmoth 
+date: 2021-06-25 1624689058 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1408674106686377985
