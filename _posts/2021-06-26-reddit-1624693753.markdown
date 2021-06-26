@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: At which price points do you intend to sell your Atom. 
-date: 2021-06-26 1624693753 
-categories: reddit 
---- 
-https://redd.it/o86ctf
