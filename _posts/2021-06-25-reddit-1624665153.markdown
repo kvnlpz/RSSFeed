@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We are almost there. 
-date: 2021-06-25 1624665153 
-categories: reddit 
---- 
-https://redd.it/o7zjh8
