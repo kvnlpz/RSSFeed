@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-1559 and ETH 2.0 Are Scary: Andre Cronje 
+date: 2021-06-26 1624698727 
+categories: reddit 
+--- 
+https://redd.it/o87cdf
