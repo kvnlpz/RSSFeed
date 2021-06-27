@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @robbinhood692 
-date: 2021-06-26 1624720524 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408806081879412738
