@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Corda Developer Explains XRP And The New Financial System 
-date: 2021-06-26 1624747778 
-categories: reddit 
---- 
-https://redd.it/o8kw63
