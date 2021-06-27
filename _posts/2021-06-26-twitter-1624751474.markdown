@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @j00az 
-date: 2021-06-26 1624751474 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408935895084920832
