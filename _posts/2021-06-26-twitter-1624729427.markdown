@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnaHernez 
-date: 2021-06-26 1624729427 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408843422186848269
