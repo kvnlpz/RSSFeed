@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sus_trader 
-date: 2021-06-26 1624734432 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408864417069080579
