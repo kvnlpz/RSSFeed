@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I think the list of flairs is a big mess 
-date: 2021-06-26 1624774710 
-categories: reddit 
---- 
-https://redd.it/o8rgpu
