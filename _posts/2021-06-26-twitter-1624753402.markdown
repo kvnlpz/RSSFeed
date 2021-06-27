@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @memeconomy3 
-date: 2021-06-26 1624753402 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408943980667154437
