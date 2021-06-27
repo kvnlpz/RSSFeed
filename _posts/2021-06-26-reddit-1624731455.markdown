@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Kraken App 
-date: 2021-06-26 1624731455 
-categories: reddit 
---- 
-https://redd.it/o8g2hl
