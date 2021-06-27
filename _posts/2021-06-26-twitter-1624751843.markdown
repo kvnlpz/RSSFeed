@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodalexander 
-date: 2021-06-26 1624751843 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408937420016558081
