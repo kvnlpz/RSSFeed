@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mike47367247 
-date: 2021-06-26 1624753399 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408943970646962182
