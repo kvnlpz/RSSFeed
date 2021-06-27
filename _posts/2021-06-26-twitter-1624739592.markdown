@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Diamond_Stock 
-date: 2021-06-26 1624739592 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408886061518970887
