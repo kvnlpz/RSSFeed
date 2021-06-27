@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @work_of_art_ag 
-date: 2021-06-26 1624763585 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408986672897794050
