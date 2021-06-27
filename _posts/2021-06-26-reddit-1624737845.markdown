@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DipBot Week 1: Sniping the Dips | +6.57% gain (5R)(86% winrate) 
-date: 2021-06-26 1624737845 
-categories: reddit 
---- 
-https://redd.it/o8hzyc
