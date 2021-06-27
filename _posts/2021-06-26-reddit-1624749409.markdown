@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a way to stake ETH and still be in control of your coins? 
-date: 2021-06-26 1624749409 
-categories: reddit 
---- 
-https://redd.it/o8lci9
