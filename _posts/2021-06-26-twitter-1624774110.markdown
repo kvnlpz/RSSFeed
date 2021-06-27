@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jw_redacted_ 
-date: 2021-06-26 1624774110 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409030837060849673
