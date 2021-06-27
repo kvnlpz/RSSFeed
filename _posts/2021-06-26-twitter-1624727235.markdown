@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PleaXureS_PXS 
-date: 2021-06-26 1624727235 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408834231870971904
