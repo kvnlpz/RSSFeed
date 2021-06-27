@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For anyone knowledgeable in option trading, how is this possible? Is this all due to implied volatility? 
-date: 2021-06-26 1624740620 
-categories: reddit 
---- 
-https://redd.it/o8iss2
