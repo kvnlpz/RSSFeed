@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @STW28993215 
-date: 2021-06-26 1624749456 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408927434255192065
