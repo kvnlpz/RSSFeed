@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kg8602 
-date: 2021-06-26 1624733735 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408861496436797447
