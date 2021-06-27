@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Singularitybook 
-date: 2021-06-26 1624750587 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408932177761419265
