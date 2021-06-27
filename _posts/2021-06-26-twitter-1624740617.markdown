@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CarlosR4247 
-date: 2021-06-26 1624740617 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408890359845994496
