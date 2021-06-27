@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ColeStashTrades 
-date: 2021-06-26 1624740381 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408889369612652549
