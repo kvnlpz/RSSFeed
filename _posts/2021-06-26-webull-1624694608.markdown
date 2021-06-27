@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-26 1624694608 
-categories: webull 
---- 
-$SOS This how those that sell calls and do options are enjoying their weekend! Cheers!  $AMC  $GME	2021-06-26T03:54:10.878+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.679, 'pos': 0.321, 'compound': 0.7955}
