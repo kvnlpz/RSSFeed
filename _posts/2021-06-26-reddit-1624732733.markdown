@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I created a model of an Ethereum Coin! 
-date: 2021-06-26 1624732733 
-categories: reddit 
---- 
-https://redd.it/o8ggpz
