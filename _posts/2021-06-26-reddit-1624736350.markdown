@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH Prediction "tournament" 
-date: 2021-06-26 1624736350 
-categories: reddit 
---- 
-https://redd.it/o8hjq2
