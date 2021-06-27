@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-06-26 1624716410 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408788826370236426
