@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @josh_wb82 
-date: 2021-06-26 1624734206 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408863467650490368
