@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Max profit by proof 
-date: 2021-06-26 1624764420 
-categories: reddit 
---- 
-https://redd.it/o8p6ac
