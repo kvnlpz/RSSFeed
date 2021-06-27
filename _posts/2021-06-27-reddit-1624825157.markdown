@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin, daily hash rate, future energy consumption and the lightning network 
+date: 2021-06-27 1624825157 
+categories: reddit 
+--- 
+https://redd.it/o94rwy
