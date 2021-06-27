@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: creating a 3 of 4 multisig with diffrent devices 
+date: 2021-06-26 1624774754 
+categories: reddit 
+--- 
+https://redd.it/o8rh0s
