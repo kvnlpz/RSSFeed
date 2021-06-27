@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-26 1624694619 
-categories: webull 
---- 
-$ETHUSD  Maybe it's time I change my name and profile pic?	2021-06-26T04:22:15.878+0000
-sentiment scores: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
