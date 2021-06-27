@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thevanillakiss 
-date: 2021-06-26 1624753912 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408946121548906499
