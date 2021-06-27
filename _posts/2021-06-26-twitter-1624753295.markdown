@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-06-26 1624753295 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408943535869603842
