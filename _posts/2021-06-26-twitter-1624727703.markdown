@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stakeandstack 
-date: 2021-06-26 1624727703 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408836179152322564
