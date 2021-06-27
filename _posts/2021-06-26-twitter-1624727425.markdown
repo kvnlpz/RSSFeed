@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheHitchcock100 
-date: 2021-06-26 1624727425 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408835026205261837
