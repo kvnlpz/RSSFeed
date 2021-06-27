@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheDrainMan2 
-date: 2021-06-26 1624752582 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408940542822600705
