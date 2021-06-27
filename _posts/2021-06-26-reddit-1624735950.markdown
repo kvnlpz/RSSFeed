@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A time lapse of last weeks top mentioned WSB tickers with sentiment 
-date: 2021-06-26 1624735950 
-categories: reddit 
---- 
-https://redd.it/o8hegn
