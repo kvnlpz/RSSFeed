@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CarolSciurus 
-date: 2021-06-26 1624761096 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408976255609868288
