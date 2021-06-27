@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZeusHercInvest 
-date: 2021-06-26 1624721006 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408808103181697032
