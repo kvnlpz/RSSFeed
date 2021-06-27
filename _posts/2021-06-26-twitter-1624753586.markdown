@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Greg_Rozman 
-date: 2021-06-26 1624753586 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408944753614356481
