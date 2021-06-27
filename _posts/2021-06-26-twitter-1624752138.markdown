@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WookieeIndex 
-date: 2021-06-26 1624752138 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408938682535534592
