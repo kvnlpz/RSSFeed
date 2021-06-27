@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @traderstewie 
-date: 2021-06-26 1624751913 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408937739081289733
