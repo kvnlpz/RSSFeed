@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @drillahfn 
-date: 2021-06-26 1624772159 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409022658197569538
