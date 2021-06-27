@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Weekly Wrap: This Week In Chainlink June 21 - June 27 
-date: 2021-06-26 1624774216 
-categories: reddit 
---- 
-https://redd.it/o8rcdk
