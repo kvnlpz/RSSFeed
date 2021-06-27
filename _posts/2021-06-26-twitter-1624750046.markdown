@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SactwnAustin916 
-date: 2021-06-26 1624750046 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408929909678825474
