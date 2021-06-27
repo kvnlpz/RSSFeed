@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hey Reddit! Because of this community I was able to join TCGCoin as a dev. We're launching a trading card platform and a massive upcoming Metaverse for virtual real estate. 
-date: 2021-06-26 1624767416 
-categories: reddit 
---- 
-https://redd.it/o8pvxg
