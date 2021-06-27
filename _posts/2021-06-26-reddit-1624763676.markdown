@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Using 95% of buying power with leverage 
-date: 2021-06-26 1624763676 
-categories: reddit 
---- 
-https://redd.it/o8m42r
