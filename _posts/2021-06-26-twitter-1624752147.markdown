@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LizSimmie 
-date: 2021-06-26 1624752147 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408938720401756165
