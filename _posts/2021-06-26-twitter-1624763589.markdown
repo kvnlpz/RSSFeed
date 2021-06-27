@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SpottingTrade 
-date: 2021-06-26 1624763589 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408986684134506497
