@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there any rebuttal to Taleb's recent paper that I can read? 
-date: 2021-06-27 1624781414 
-categories: reddit 
---- 
-https://redd.it/o8sths
