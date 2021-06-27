@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @johnnykowal 
-date: 2021-06-26 1624730461 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408847761185796098
