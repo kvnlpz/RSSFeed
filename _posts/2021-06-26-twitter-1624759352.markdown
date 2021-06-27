@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @treysumner 
-date: 2021-06-26 1624759352 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408968938885730304
