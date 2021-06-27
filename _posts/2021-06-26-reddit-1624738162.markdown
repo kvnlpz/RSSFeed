@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking procedure using hardware wallets 
-date: 2021-06-26 1624738162 
-categories: reddit 
---- 
-https://redd.it/o8i36g
