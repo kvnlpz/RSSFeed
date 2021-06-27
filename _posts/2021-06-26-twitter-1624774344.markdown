@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RachelFintwit 
-date: 2021-06-26 1624774344 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409031821954883584
