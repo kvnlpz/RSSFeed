@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-26 1624694642 
-categories: webull 
---- 
-$AMC  $GME my fav	2021-06-26T05:42:58.444+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.4588}
