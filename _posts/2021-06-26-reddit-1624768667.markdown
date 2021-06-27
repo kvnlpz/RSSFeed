@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about staking and ledgers 
-date: 2021-06-26 1624768667 
-categories: reddit 
---- 
-https://redd.it/o8q6ak
