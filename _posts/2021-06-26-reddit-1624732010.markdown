@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If a US based token was on Counterparty, but converted to Eth and now says I missed the swap window, is that securities fraud by the dev? 
-date: 2021-06-26 1624732010 
-categories: reddit 
---- 
-https://redd.it/o8g8o0
