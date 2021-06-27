@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndrewReick 
-date: 2021-06-26 1624698873 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408715273562120195
