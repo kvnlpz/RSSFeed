@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @diarpie 
-date: 2021-06-26 1624727645 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408835949065388038
