@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @orbitroute 
-date: 2021-06-26 1624754188 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408947282402217988
