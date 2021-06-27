@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrZackmorris45 
-date: 2021-06-26 1624721059 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408808328327798789
