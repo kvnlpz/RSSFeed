@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @drmarioaficion 
-date: 2021-06-26 1624710223 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408762878455336966
