@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Physical bitcoin design origin?? 
-date: 2021-06-26 1624752132 
-categories: reddit 
---- 
-https://redd.it/o8jn36
