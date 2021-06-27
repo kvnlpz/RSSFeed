@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DJJohns25872905 
-date: 2021-06-26 1624751572 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408936309134082059
