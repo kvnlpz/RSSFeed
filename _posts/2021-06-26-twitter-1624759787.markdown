@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @arb_edin 
-date: 2021-06-26 1624759787 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408970765156896768
