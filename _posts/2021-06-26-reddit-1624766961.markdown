@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are share-borrowing fees dynamic? 
-date: 2021-06-26 1624766961 
-categories: reddit 
---- 
-https://redd.it/o8ps3m
