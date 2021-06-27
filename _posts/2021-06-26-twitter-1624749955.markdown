@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zeltser22 
-date: 2021-06-26 1624749955 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408929525589815298
