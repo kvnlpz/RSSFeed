@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheCryoKGuy 
-date: 2021-06-26 1624742575 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408898570682576899
