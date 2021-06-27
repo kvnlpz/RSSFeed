@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @apaulogy 
-date: 2021-06-26 1624728037 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408837594746560514
