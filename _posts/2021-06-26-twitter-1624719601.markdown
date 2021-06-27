@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gboylives4ever 
-date: 2021-06-26 1624719601 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408802212843692035
