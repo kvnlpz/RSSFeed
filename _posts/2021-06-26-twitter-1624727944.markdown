@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @turtles_Roll 
-date: 2021-06-26 1624727944 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408837203040559104
