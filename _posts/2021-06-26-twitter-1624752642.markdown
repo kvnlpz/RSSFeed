@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ratzchow8 
-date: 2021-06-26 1624752642 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408940794677927939
