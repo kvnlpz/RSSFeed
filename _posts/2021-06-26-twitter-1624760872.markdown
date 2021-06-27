@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AllisonReichel 
-date: 2021-06-26 1624760872 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408975305004490752
