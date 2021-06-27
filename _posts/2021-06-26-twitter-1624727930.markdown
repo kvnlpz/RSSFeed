@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TessaLamping 
-date: 2021-06-26 1624727930 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408837147625328640
