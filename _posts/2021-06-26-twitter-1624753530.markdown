@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @retrogradebear 
-date: 2021-06-26 1624753530 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408944519777767425
