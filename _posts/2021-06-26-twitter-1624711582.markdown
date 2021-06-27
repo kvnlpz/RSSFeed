@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BretPM2 
-date: 2021-06-26 1624711582 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408768576857600010
