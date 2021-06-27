@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Evan67593851 
-date: 2021-06-26 1624748945 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408925291628711938
