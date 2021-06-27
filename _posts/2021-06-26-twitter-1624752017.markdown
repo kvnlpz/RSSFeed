@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ShamsRostam 
-date: 2021-06-26 1624752017 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408938175288991747
