@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What'd you do during covid? I wrote a blockchain. Then bled into the keyboard over a 26-page whitepaper. Now pulling my hair out over new-coin tokenomics. An opinionated, emotionally charged subject -- I'd love to hear everyone's take on what's "right"... ...or at least "most fair" 
-date: 2021-06-26 1624748968 
-categories: reddit 
---- 
-https://redd.it/o8l8a8
