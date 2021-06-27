@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Matrimjd 
-date: 2021-06-26 1624722202 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408813115123380227
