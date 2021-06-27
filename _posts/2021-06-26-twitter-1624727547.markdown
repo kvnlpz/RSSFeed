@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CL207 
-date: 2021-06-26 1624727547 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408835529706151937
