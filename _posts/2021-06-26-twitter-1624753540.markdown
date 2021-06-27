@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HolyStonks 
-date: 2021-06-26 1624753540 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408944560919629831
