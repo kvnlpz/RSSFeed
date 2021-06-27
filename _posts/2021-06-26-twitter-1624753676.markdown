@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TommyThornton 
-date: 2021-06-26 1624753676 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408945133664493576
