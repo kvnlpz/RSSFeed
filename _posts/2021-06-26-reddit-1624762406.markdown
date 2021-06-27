@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Was wondering is this possible? 
-date: 2021-06-26 1624762406 
-categories: reddit 
---- 
-https://redd.it/o8ooes
