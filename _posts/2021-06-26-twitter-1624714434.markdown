@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nhan34649703 
-date: 2021-06-26 1624714434 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408780539851644934
