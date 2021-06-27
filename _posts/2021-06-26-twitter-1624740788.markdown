@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theexpertmoney 
-date: 2021-06-26 1624740788 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408891077172494336
