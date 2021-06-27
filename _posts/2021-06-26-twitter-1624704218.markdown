@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @26R_Cole 
-date: 2021-06-26 1624704218 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408737691404058625
