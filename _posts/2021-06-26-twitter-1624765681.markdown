@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wallstpapi 
-date: 2021-06-26 1624765681 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408995483654238211
