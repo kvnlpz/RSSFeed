@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @salr_nyc 
-date: 2021-06-26 1624711234 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408767118619856898
