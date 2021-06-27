@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SantiagoAuFund 
-date: 2021-06-26 1624753824 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408945753704349701
