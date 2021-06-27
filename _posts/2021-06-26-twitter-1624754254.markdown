@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @__koziol 
-date: 2021-06-26 1624754254 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408947557049389064
