@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @natuid 
-date: 2021-06-26 1624722839 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408815791798116357
