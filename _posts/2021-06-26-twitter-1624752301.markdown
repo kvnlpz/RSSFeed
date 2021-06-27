@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @raphtex 
-date: 2021-06-26 1624752301 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408939365162696707
