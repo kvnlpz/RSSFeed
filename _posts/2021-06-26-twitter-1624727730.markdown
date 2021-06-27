@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hakunamatatah5 
-date: 2021-06-26 1624727730 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408836307841810432
