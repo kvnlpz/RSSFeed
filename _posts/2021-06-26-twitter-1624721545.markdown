@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Crypto_Rookie_ 
-date: 2021-06-26 1624721545 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408810339177795584
