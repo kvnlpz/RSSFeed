@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaBabyTrader95 
-date: 2021-06-26 1624712881 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408774026173075456
