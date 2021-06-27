@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Future is Tezos 🌍 
-date: 2021-06-26 1624740505 
-categories: reddit 
---- 
-https://redd.it/o8irlo
