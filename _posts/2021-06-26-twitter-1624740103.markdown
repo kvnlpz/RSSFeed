@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ctrssierra 
-date: 2021-06-26 1624740103 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408888203554213888
