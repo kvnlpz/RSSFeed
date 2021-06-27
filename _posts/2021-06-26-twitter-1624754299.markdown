@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @david02366858 
-date: 2021-06-26 1624754299 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408947746992803840
