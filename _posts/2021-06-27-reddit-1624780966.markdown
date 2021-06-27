@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let's say there's $40k in a stock account, and that money was placed into stock X with an additional $40k of margin used for that position. 
-date: 2021-06-27 1624780966 
-categories: reddit 
---- 
-https://redd.it/o8sq8i
