@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @panter062887742 
-date: 2021-06-26 1624713226 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408775472981364737
