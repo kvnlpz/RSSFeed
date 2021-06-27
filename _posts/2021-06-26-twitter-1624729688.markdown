@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yaninapineda10 
-date: 2021-06-26 1624729688 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408844520763138048
