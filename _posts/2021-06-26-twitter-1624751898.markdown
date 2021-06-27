@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Iceman_mmm 
-date: 2021-06-26 1624751898 
-categories: twitter 
---- 
-https://twitter.com/o/status/1408937674988306432
