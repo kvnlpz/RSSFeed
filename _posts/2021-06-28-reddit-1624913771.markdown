@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Be careful, some of these phishing attempts look pretty convincing. Never login from a link that is given from text or email. If it’s important you can login directly from your app or the website and contact customer service 
+date: 2021-06-28 1624913771 
+categories: reddit 
+--- 
+https://redd.it/o9t8py
