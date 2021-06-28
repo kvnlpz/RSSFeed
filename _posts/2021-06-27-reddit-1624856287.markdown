@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is there such an metric as a "price histogram" (maybe called something different?) 
+date: 2021-06-27 1624856287 
+categories: reddit 
+--- 
+https://redd.it/o9dbll
