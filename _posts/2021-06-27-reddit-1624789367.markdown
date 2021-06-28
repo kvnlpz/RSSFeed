@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Latest real time price trend chart of ZCash 
-date: 2021-06-27 1624789367 
-categories: reddit 
---- 
-https://redd.it/o8ugxu
