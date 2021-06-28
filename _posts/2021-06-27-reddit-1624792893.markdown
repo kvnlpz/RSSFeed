@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stay staked while transferring to hard wallet? 
-date: 2021-06-27 1624792893 
-categories: reddit 
---- 
-https://redd.it/o8v83s
