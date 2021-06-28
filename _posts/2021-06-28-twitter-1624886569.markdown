@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InsightBrew 
+date: 2021-06-28 1624886569 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1409502526723010563
