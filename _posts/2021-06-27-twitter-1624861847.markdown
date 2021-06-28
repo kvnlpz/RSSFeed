@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DWolfovitz 
+date: 2021-06-27 1624861847 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1409398833214328835
