@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bigben913 
-date: 2021-06-28 1624914632 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409620229458567170
