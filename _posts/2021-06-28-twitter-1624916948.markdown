@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @josephdviviano 
-date: 2021-06-28 1624916948 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409629930422370310
