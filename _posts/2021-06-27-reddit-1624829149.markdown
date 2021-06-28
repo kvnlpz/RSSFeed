@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do moons exist on mainnet? 
-date: 2021-06-27 1624829149 
-categories: reddit 
---- 
-https://redd.it/o96068
