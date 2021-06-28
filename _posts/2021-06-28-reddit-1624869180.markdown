@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How is a lightning network powered wallet different from an exchange wallet (eg. Binance pay)? How is it more secure? 
+date: 2021-06-28 1624869180 
+categories: reddit 
+--- 
+https://redd.it/o9g2zt
