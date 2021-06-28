@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: social stock app that allows you to share your trades with your friends and family 
-date: 2021-06-27 1624802839 
-categories: reddit 
---- 
-https://redd.it/o8xqrx
