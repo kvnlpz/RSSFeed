@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Holochain Projects 
-date: 2021-06-27 1624803440 
-categories: reddit 
---- 
-https://redd.it/o8xxbs
