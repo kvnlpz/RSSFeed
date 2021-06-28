@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Go a random coin (ERC20) show up in my wallet 
+date: 2021-06-28 1624900660 
+categories: reddit 
+--- 
+https://redd.it/o9ouoe
