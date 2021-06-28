@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Koinly won’t add my staking rewards to my holdings of crypto. It recognises them as rewards, but doesn’t actually add them to my total holdings. Anything I can do? 
+date: 2021-06-28 1624917811 
+categories: reddit 
+--- 
+https://redd.it/o9uikh
