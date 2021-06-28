@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here is the current Shelley wallet Distribution! Really handy tool / interactive chart from CRFA stakepool! Link to chart in comments. 
-date: 2021-06-27 1624809784 
-categories: reddit 
---- 
-https://redd.it/o8zx2f
