@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mempool is at 30mb. Fees are low. 
-date: 2021-06-27 1624790548 
-categories: reddit 
---- 
-https://redd.it/o8upuk
