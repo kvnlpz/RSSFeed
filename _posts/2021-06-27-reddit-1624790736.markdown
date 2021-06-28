@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [ELI5] Transaction Fees 
-date: 2021-06-27 1624790736 
-categories: reddit 
---- 
-https://redd.it/o8uraw
