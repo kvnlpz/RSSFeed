@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Software development in Cardano ecosystem using Javascript/Typescript 
+date: 2021-06-28 1624913019 
+categories: reddit 
+--- 
+https://redd.it/o9szrf
