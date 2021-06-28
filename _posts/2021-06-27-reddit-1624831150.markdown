@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: These Guys are really good at tech analysis, worth taking a look at. 
-date: 2021-06-27 1624831150 
-categories: reddit 
---- 
-https://redd.it/o96mjn
