@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: HELP 
-date: 2021-06-27 1624809146 
-categories: reddit 
---- 
-https://redd.it/o8zpg4
