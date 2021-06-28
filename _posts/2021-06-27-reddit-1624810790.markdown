@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An introduction to DLT concepts and why I think IOTAs Tangle is superior to Blockchains 
-date: 2021-06-27 1624810790 
-categories: reddit 
---- 
-https://redd.it/o908rc
