@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ideas for securing Seed Phrases 
+date: 2021-06-27 1624860197 
+categories: reddit 
+--- 
+https://redd.it/o9e845
