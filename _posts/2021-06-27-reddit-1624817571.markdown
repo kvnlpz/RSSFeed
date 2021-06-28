@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is your exchange website of choice? 
-date: 2021-06-27 1624817571 
-categories: reddit 
---- 
-https://redd.it/o92e5r
