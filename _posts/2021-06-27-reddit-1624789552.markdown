@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cheap fees buy and send to hardware wallet? 
-date: 2021-06-27 1624789552 
-categories: reddit 
---- 
-https://redd.it/o8ui96
