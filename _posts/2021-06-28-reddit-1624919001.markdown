@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin (BTC) currently has 24.8 minute average block times! These are the slowest block times of the last 10 years of its history. This is due to the Chinese ban on miners. 
+date: 2021-06-28 1624919001 
+categories: reddit 
+--- 
+https://redd.it/o9uvwh
