@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone help me understand stop loss vs position sizing when it comes to the 2% rule? 
-date: 2021-06-27 1624815576 
-categories: reddit 
---- 
-https://redd.it/o91rli
