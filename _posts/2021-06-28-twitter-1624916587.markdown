@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeAbundo 
-date: 2021-06-28 1624916587 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409628431877242881
