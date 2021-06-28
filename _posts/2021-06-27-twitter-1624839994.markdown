@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InversebrahBOT 
+date: 2021-06-27 1624839994 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1409307175705526274
