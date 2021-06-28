@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A post was posted just yesterday being happy about the low gas fees... guess that didn't last long 
-date: 2021-06-27 1624818543 
-categories: reddit 
---- 
-https://redd.it/o92phc
