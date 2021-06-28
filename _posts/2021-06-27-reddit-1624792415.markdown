@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Series and films in which Bitcoin (or Altcoins) appear 
-date: 2021-06-27 1624792415 
-categories: reddit 
---- 
-https://redd.it/o8v4a9
