@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hehe 
-date: 2021-06-27 1624803732 
-categories: reddit 
---- 
-https://redd.it/o8y0ad
