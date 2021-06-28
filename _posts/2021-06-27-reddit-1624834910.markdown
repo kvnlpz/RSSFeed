@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tesla recalls 285,000 cars, this time over faulty cruise-control software 
-date: 2021-06-27 1624834910 
-categories: reddit 
---- 
-https://redd.it/o97qiq
