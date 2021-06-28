@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Et Mitte: A Messaging DApp To Send Messages To Tezos Addresses 
-date: 2021-06-27 1624793716 
-categories: reddit 
---- 
-https://redd.it/o8venc
