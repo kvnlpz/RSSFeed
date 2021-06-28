@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Contract value vs P/L $ - where am I getting lost? 
-date: 2021-06-28 1624913631 
-categories: reddit 
---- 
-https://redd.it/o9t6ya
