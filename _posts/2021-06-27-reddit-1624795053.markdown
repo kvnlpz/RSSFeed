@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chinese Bitcoin miners packing up after ban 
-date: 2021-06-27 1624795053 
-categories: reddit 
---- 
-https://redd.it/o8vpfc
