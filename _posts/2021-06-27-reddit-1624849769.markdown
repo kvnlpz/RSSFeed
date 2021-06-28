@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Frontend JS API 
+date: 2021-06-27 1624849769 
+categories: reddit 
+--- 
+https://redd.it/o9bptb
