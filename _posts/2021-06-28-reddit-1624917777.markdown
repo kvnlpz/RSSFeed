@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transferring XMR to Trust 
-date: 2021-06-28 1624917777 
-categories: reddit 
---- 
-https://redd.it/o9ui3k
