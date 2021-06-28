@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TrashInvestment 
-date: 2021-06-28 1624916964 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409630012203057154
