@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Lightning a singular, static network? Or are there different providers and technologies competing and can be improved upon? 
-date: 2021-06-27 1624807085 
-categories: reddit 
---- 
-https://redd.it/o8z1y2
