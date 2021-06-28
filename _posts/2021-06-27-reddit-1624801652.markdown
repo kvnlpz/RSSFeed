@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Doge to the Moon 
-date: 2021-06-27 1624801652 
-categories: reddit 
---- 
-https://redd.it/o8xeau
