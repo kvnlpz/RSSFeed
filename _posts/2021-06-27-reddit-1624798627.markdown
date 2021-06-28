@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a question I've never seen a clear answer on. Where did the coin Internet Computer (ICP) came from? 
-date: 2021-06-27 1624798627 
-categories: reddit 
---- 
-https://redd.it/o8wl71
