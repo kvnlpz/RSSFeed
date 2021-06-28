@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DIY Sentiment Investing - Beating SPY YTD and BUZZ since inception. Last week's numbers and positions: 
-date: 2021-06-27 1624829690 
-categories: reddit 
---- 
-https://redd.it/o966f1
