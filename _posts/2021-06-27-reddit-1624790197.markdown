@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: how does FTX work? (fees, stablecoins, spot trading, monero?) 
-date: 2021-06-27 1624790197 
-categories: reddit 
---- 
-https://redd.it/o8un5c
