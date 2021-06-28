@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This front running bot has over $500,000 in its wallet and prints new front running trades about 2x per hour [LINK to YouTube included below] Here’s how it works and how to reduce your exposure to front running bots. https://youtu.be/K7mfciHAcLc 
-date: 2021-06-27 1624799058 
-categories: reddit 
---- 
-https://redd.it/o8wpl8
