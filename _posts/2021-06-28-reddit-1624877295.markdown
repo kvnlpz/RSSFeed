@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin hashrate keep dropping, today went to the lowest 58 TH/s 
+date: 2021-06-28 1624877295 
+categories: reddit 
+--- 
+https://redd.it/o9hs4o
