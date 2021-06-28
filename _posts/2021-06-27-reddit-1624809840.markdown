@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question on Proof of Work 
-date: 2021-06-27 1624809840 
-categories: reddit 
---- 
-https://redd.it/o8zxog
