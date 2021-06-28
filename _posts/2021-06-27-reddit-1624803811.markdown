@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 64 BTC were traded last week in Venezuela using LocalBitcoin (only). These 68 BTC were 7,441,000,000,000 Bs. (Bolivares not "BS", Venezuelan currency ISO VES) . Monthly minimum wage is around 3 USD MONTHLY. One BTC trades around 103,000,000,000 Bs. Binance is 
-date: 2021-06-27 1624803811 
-categories: reddit 
---- 
-https://redd.it/o8xi1y
