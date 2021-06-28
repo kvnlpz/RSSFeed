@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BinStarter Will Integrate Chainlink VRF to Secure Evaluation Pool and Allocation Lottery 
+date: 2021-06-28 1624895266 
+categories: reddit 
+--- 
+https://redd.it/o9myrv
