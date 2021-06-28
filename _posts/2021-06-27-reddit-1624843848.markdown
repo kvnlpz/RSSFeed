@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ethermine: Switched payouts to use polygon and accidently used the original ETH wallet address 
+date: 2021-06-27 1624843848 
+categories: reddit 
+--- 
+https://redd.it/o9a619
