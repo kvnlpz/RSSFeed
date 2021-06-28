@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin system 
-date: 2021-06-27 1624805469 
-categories: reddit 
---- 
-https://redd.it/o8yjb6
