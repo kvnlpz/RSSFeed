@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Difficulty adjustment actually looks at the last 2015 blocks, not 2016, due to a bug Satoshi wrote 
+date: 2021-06-28 1624904428 
+categories: reddit 
+--- 
+https://redd.it/o9q47p
