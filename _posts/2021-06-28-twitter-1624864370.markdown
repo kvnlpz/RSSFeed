@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PrincipalAgent 
+date: 2021-06-28 1624864370 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1409409416135331842
