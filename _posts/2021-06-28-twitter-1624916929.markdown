@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jake_meil 
-date: 2021-06-28 1624916929 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409629863699435524
