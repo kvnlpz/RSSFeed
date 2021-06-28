@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin's Hash Rate Recovers From China's Mining Crackdown 
-date: 2021-06-27 1624836370 
-categories: reddit 
---- 
-https://redd.it/o985ji
