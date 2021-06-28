@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Warning about attack 
-date: 2021-06-27 1624795156 
-categories: reddit 
---- 
-https://redd.it/o8vq70
