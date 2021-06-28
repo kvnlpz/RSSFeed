@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is this true? 
-date: 2021-06-27 1624795059 
-categories: reddit 
---- 
-https://redd.it/o8vphy
