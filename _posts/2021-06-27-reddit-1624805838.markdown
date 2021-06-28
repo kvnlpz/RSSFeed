@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum <-> Cardano Bi-Directional Bridge is live 
-date: 2021-06-27 1624805838 
-categories: reddit 
---- 
-https://redd.it/o8yngg
