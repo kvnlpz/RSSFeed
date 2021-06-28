@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @goldensteaks 
+date: 2021-06-28 1624923179 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1409656057723461632
