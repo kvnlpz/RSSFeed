@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How do I know if the generated public key from the ledger is really mine 
+date: 2021-06-28 1624894021 
+categories: reddit 
+--- 
+https://redd.it/o9mjkx
