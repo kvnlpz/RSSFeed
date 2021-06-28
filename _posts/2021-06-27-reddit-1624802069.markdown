@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Covered call showing unlimited loss 
-date: 2021-06-27 1624802069 
-categories: reddit 
---- 
-https://redd.it/o8xil0
