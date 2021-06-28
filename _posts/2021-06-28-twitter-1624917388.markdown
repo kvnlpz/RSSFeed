@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cauchyfriend 
-date: 2021-06-28 1624917388 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409631789073637377
