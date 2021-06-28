@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is opensea.io worth the gas fee ? 
-date: 2021-06-27 1624788359 
-categories: reddit 
---- 
-https://redd.it/o8u9fx
