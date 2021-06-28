@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: (I hope) I broke KuCoin Futures... 
-date: 2021-06-27 1624788489 
-categories: reddit 
---- 
-https://redd.it/o8uaat
