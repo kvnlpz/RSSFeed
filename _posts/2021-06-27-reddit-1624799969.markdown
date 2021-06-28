@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum transaction fees are currently 3 gweis ~($0.12)! Which is already cheaper than some blockchains without smart contracts. Ethereum is scaling while maintaining decentralized security! 
-date: 2021-06-27 1624799969 
-categories: reddit 
---- 
-https://redd.it/o8wy23
