@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @StreetCitizen 
+date: 2021-06-27 1624841774 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1409314642049044480
