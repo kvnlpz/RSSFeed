@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If it takes consensus to change the Bitcoin protocol, what does it take to change the Internet Protocol? 
-date: 2021-06-27 1624809224 
-categories: reddit 
---- 
-https://redd.it/o8zqcc
