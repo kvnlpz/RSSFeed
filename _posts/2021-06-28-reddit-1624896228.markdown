@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just became a cakewallet member. I currently use MyMonero + Changelly to swap crypto to XMR. Any idea how these fees differ on cake? 
-date: 2021-06-28 1624896228 
-categories: reddit 
---- 
-https://redd.it/o9mmu9

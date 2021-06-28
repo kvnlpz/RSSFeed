@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Nd172557208 
-date: 2021-06-27 1624857547 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409380797916663808

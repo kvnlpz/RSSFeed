@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Scott1Reeve1 
-date: 2021-06-27 1624806995 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409168729464885250

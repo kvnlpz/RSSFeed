@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Check it out! 
-date: 2021-06-28 1624901385 
-categories: reddit 
---- 
-https://redd.it/o9p3n8

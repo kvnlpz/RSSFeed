@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano adds more than 50,000 new staking addresses in three weeks 
-date: 2021-06-27 1624862735 
-categories: reddit 
---- 
-https://redd.it/o9ernh

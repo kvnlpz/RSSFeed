@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New crypto tracking app my buddy made!! 
-date: 2021-06-27 1624841669 
-categories: reddit 
---- 
-https://redd.it/o99l69

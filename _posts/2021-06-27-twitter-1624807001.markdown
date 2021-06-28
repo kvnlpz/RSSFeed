@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-06-27 1624807001 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409168758791303168

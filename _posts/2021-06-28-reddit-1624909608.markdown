@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Swiss National Bank (SNB) - How to issue a central bank digital currency 
-date: 2021-06-28 1624909608 
-categories: reddit 
---- 
-https://redd.it/o9ruo6

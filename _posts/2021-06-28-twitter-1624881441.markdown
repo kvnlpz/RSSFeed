@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jan359180 
-date: 2021-06-28 1624881441 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409481018034241539

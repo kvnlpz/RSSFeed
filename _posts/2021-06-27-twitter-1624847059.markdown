@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zhuslu 
-date: 2021-06-27 1624847059 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409336808853454849

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stevendu1__994 
-date: 2021-06-28 1624893721 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409532524892676096

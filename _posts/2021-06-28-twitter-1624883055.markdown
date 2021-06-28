@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-06-28 1624883055 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409487787804532740

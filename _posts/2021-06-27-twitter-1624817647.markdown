@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AstroBoy0616 
-date: 2021-06-27 1624817647 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409213446411931654

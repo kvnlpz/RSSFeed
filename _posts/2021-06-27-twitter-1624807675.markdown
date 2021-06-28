@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VelcroSky 
-date: 2021-06-27 1624807675 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409171621441683456

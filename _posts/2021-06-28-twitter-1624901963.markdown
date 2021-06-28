@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tdwern 
-date: 2021-06-28 1624901963 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409567094560247817

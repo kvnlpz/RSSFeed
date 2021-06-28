@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @craigslimo 
-date: 2021-06-27 1624801113 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409144099425357829

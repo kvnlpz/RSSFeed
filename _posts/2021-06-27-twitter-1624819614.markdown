@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EatDrinkNBeMery 
-date: 2021-06-27 1624819614 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409221695152562179

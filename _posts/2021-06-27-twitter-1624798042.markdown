@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yogimattyg 
-date: 2021-06-27 1624798042 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409131216918519811

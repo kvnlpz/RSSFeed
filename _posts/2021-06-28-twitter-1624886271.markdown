@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @frodgefinancial 
-date: 2021-06-28 1624886271 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409501278120693760

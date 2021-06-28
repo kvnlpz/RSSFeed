@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderTexMex 
-date: 2021-06-28 1624912642 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409611883355721732

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: John McAfee's Hideout Was a Secret Bitcoin Mining Farm 
-date: 2021-06-28 1624901436 
-categories: reddit 
---- 
-https://redd.it/o9nr13

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Polygon DeFi Protocol SafeDollar Hit by Exploit: Report 
-date: 2021-06-28 1624870604 
-categories: reddit 
---- 
-https://redd.it/o9gcph

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum attempts to break free from the triangle 
-date: 2021-06-28 1624869095 
-categories: reddit 
---- 
-https://redd.it/o9g2ej

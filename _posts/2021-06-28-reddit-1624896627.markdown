@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do countries / enterprises pay to use Cardano or Atala 
-date: 2021-06-28 1624896627 
-categories: reddit 
---- 
-https://redd.it/o9mji8

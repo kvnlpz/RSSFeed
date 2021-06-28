@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is happening ‘under the hood’ in a stake pool? 
-date: 2021-06-27 1624857615 
-categories: reddit 
---- 
-https://redd.it/o9dnc1

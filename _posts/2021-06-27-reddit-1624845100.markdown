@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin today 
-date: 2021-06-27 1624845100 
-categories: reddit 
---- 
-https://redd.it/o9ahpx

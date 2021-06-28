@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_ChrisPena 
-date: 2021-06-28 1624902159 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409567916043898881

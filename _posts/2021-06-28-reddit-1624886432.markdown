@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a way to buy sats directly via CC with as little as $10? 
-date: 2021-06-28 1624886432 
-categories: reddit 
---- 
-https://redd.it/o9k4gg

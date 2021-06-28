@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlertTrade 
-date: 2021-06-28 1624896581 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409544518576205825

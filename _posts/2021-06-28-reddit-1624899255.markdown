@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Improving the academic replication crisis using smart contracts 
-date: 2021-06-28 1624899255 
-categories: reddit 
---- 
-https://redd.it/o9od31

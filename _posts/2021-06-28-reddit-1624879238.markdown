@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: YOLO on a NMDC 6 month salary 
-date: 2021-06-28 1624879238 
-categories: reddit 
---- 
-https://redd.it/o9i8fp

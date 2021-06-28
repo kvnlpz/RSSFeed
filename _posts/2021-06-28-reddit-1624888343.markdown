@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question with regards to binance pegged tokens (BEP2) 
-date: 2021-06-28 1624888343 
-categories: reddit 
---- 
-https://redd.it/o9kom4

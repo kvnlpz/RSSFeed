@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vbmach 
-date: 2021-06-28 1624885563 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409498305072148483

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chillippo 
-date: 2021-06-27 1624859495 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409388971654881290

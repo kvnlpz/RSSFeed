@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Lycan69420 
-date: 2021-06-27 1624862246 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409400506427097091

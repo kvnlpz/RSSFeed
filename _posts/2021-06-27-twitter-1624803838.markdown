@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulsam68281414 
-date: 2021-06-27 1624803838 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409155527993606153

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Dustin84963710 
-date: 2021-06-28 1624912394 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409610830908436483

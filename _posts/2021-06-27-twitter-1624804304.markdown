@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChevExec 
-date: 2021-06-27 1624804304 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409157483634073601

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fidespunica 
-date: 2021-06-27 1624836357 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409291914512306183

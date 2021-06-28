@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lilnickysmith 
-date: 2021-06-28 1624910483 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409602827652116485

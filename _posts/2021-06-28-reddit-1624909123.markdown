@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An intergovernmental organization called FATF is planning to issue guidance that would encourage member countries to force DAPPs and DEXs to collect sensitive KYC info on users. We have until October to stop them. 
-date: 2021-06-28 1624909123 
-categories: reddit 
---- 
-https://redd.it/o9rp3t

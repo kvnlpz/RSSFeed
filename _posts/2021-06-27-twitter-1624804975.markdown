@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shyamsarda 
-date: 2021-06-27 1624804975 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409160294782300162

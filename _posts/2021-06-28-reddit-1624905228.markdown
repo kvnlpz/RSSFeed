@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NIO is a making a good long trade 
-date: 2021-06-28 1624905228 
-categories: reddit 
---- 
-https://redd.it/o9qdyp

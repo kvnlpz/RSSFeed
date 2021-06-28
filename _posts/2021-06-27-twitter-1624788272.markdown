@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pzorrr 
-date: 2021-06-27 1624788272 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409090238635466755

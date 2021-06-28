@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For the first time in crypto history, ETH address activity is above BTC address activity -- Santiment 
-date: 2021-06-28 1624902965 
-categories: reddit 
---- 
-https://redd.it/o9pmgc

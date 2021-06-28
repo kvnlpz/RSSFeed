@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fallondpicks 
-date: 2021-06-27 1624841860 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409315004831109124

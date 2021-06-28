@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is this Accurate ? 
-date: 2021-06-28 1624883296 
-categories: reddit 
---- 
-https://redd.it/o9j8rd

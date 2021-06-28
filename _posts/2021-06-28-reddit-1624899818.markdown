@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Beeple Founded NFT Platform, Wenew, Chooses PoS Sidechain to reduce its environmental impact 
-date: 2021-06-28 1624899818 
-categories: reddit 
---- 
-https://redd.it/o9okai

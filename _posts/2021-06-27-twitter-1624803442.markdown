@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @agerman 
-date: 2021-06-27 1624803442 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409153866931785729

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvariantPersp1 
-date: 2021-06-27 1624835730 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409289291696459781

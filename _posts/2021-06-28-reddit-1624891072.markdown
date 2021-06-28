@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $AMD Yolo 1000 call options expire July 02, update 
-date: 2021-06-28 1624891072 
-categories: reddit 
---- 
-https://redd.it/o9ljk6

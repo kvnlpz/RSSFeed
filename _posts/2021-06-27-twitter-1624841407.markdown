@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CampHopeMVP 
-date: 2021-06-27 1624841407 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409313104291262465

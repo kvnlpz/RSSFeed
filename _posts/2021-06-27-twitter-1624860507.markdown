@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Alberto_kwak 
-date: 2021-06-27 1624860507 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409393212905512964

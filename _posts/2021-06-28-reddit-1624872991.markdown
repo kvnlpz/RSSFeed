@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain me those moves on BTC BEP2 price? You can see that on 1W/1M/1Y. So that’s mean someone had a chance to short it, and buy all assets back at 0.05£? 
-date: 2021-06-28 1624872991 
-categories: reddit 
---- 
-https://redd.it/o9gurz

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ooshta 
-date: 2021-06-27 1624844890 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409327714138570753

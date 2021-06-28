@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pelham123456 
-date: 2021-06-27 1624815339 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409203755371859978

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JurajJanik 
-date: 2021-06-27 1624783242 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409069140233625604

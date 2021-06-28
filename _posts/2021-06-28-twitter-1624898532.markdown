@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @elkwood66__ 
-date: 2021-06-28 1624898532 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409552702330195983

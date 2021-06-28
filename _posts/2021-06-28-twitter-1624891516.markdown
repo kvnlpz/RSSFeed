@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TutTuttle2 
-date: 2021-06-28 1624891516 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409523266318835715

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $BIDU technical analysis. I'm quite new to TA so don't judge. 
-date: 2021-06-28 1624864313 
-categories: reddit 
---- 
-https://redd.it/o9f3f0

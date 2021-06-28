@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Brigadiering? 
-date: 2021-06-27 1624843750 
-categories: reddit 
---- 
-https://redd.it/o9a519

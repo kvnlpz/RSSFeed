@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @heyooheyooheyoo 
-date: 2021-06-27 1624829362 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409262584197521417

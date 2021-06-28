@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Safedollar exploit: $248k and not $248 millions 
-date: 2021-06-28 1624876756 
-categories: reddit 
---- 
-https://redd.it/o9hnsh

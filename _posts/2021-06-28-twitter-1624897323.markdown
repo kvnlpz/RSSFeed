@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JFreedlender 
-date: 2021-06-28 1624897323 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409547630183653390

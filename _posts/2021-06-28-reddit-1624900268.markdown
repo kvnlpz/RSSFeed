@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Understanding Liquidity Pools 
-date: 2021-06-28 1624900268 
-categories: reddit 
---- 
-https://redd.it/o9opxb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We voted “yes” on @Cosmos proposal #50 
-date: 2021-06-28 1624883142 
-categories: reddit 
---- 
-https://redd.it/o9j7cw

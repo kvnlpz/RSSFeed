@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PotentFool 
-date: 2021-06-27 1624839769 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409306234881069061

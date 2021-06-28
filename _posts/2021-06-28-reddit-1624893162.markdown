@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Litecoin is a shitcoin. Bitcoin's lightning network has made it obsolete 
-date: 2021-06-28 1624893162 
-categories: reddit 
---- 
-https://redd.it/o9m9bg

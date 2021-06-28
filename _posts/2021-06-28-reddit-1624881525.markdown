@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I've released a program that will send alerts to your device when gas costs for your favorite protocols reach a preferred level. 
-date: 2021-06-28 1624881525 
-categories: reddit 
---- 
-https://redd.it/o9is7k

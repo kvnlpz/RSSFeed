@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MicipsaLahlou 
-date: 2021-06-27 1624807609 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409171343673860096

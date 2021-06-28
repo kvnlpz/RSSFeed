@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano reaches a new milestone, adds 50000 new staking addresses 
-date: 2021-06-28 1624883539 
-categories: reddit 
---- 
-https://redd.it/o9jazz

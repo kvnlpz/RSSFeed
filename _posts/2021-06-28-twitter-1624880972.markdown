@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MB50435489 
-date: 2021-06-28 1624880972 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409479050784018436

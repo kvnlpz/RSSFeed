@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DCA - Exchange to Wallet Fees 
-date: 2021-06-28 1624909478 
-categories: reddit 
---- 
-https://redd.it/o9rt9u

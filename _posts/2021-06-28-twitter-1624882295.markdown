@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @minhhuy268 
-date: 2021-06-28 1624882295 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409484598510161922

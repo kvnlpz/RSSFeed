@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thechartwright 
-date: 2021-06-27 1624842096 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409315991109222400

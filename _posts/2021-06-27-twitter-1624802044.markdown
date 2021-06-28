@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @carlomonkey1 
-date: 2021-06-27 1624802044 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409148001872977922

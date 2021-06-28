@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CurveCap 
-date: 2021-06-27 1624796724 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409125689060577287

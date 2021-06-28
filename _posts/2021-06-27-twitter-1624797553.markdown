@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GustavoZito_1 
-date: 2021-06-27 1624797553 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409129166059024385

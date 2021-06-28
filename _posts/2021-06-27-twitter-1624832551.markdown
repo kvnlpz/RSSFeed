@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jmetrader1 
-date: 2021-06-27 1624832551 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409275958843121667

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CapBridge's 1exchange Public Blockchain Database Directly Integrates with ACRA Share Registry Via APIs In Public-Private Partnership 
-date: 2021-06-27 1624859576 
-categories: reddit 
---- 
-https://redd.it/o9bjjz

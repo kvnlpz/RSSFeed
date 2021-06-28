@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChrisTayeh 
-date: 2021-06-27 1624803859 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409155613586866181

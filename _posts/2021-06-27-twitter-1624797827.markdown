@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ImPotter 
-date: 2021-06-27 1624797827 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409130314866249730

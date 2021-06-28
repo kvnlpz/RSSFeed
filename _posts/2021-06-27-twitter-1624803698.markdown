@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MarketMoves4 
-date: 2021-06-27 1624803698 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409154938878545921

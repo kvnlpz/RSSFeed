@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CLOV squeeze working in progress? 
-date: 2021-06-27 1624845873 
-categories: reddit 
---- 
-https://redd.it/o9ap0s

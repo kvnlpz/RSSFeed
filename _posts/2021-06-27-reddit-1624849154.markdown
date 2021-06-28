@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $BA — Citing a serious flight test incident and lack of design maturity, FAA slows Boeing 777X certification 
-date: 2021-06-27 1624849154 
-categories: reddit 
---- 
-https://redd.it/o9bjnp

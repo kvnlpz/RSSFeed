@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are hardware wallets worth it? 
-date: 2021-06-28 1624902858 
-categories: reddit 
---- 
-https://redd.it/o9pl7y

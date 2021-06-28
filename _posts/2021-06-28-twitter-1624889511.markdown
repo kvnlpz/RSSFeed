@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MMWAVON 
-date: 2021-06-28 1624889511 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409514867036495877

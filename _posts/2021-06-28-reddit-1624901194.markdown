@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Quick 50% gain in this week with NIO 
-date: 2021-06-28 1624901194 
-categories: reddit 
---- 
-https://redd.it/o9p1c7

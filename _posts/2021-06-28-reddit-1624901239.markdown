@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Case For Theta. Theta is going to be working with SAP and there is info here on Theta. Great way to get acclimated to the project and learn about the tech 
-date: 2021-06-28 1624901239 
-categories: reddit 
---- 
-https://redd.it/o9p1to

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JarrellPatrick 
-date: 2021-06-28 1624887464 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409506125779718145

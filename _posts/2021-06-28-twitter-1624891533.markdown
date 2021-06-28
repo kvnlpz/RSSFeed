@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thisisthecoin 
-date: 2021-06-28 1624891533 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409523344798535681

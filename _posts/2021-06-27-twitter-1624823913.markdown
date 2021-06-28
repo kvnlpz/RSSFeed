@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelGKress 
-date: 2021-06-27 1624823913 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409239729535524865

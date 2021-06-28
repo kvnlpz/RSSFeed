@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CC Rollout 
-date: 2021-06-28 1624901993 
-categories: reddit 
---- 
-https://redd.it/o9pb0a

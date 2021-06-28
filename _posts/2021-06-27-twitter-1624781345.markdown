@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LubosiMaboshe 
-date: 2021-06-27 1624781345 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409061184695947264

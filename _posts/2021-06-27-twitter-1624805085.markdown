@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GigiGoogie 
-date: 2021-06-27 1624805085 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409160758752129025

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rab_pan 
-date: 2021-06-28 1624876914 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409462026276159493

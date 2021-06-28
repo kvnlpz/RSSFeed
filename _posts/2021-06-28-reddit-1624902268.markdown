@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Polygon Launches New General-Purpose Blockchain Called Avail 
-date: 2021-06-28 1624902268 
-categories: reddit 
---- 
-https://redd.it/o9pe9x

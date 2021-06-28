@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I came across this and I thought of Cardano 
-date: 2021-06-28 1624892971 
-categories: reddit 
---- 
-https://redd.it/o9m6y7

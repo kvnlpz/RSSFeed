@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I configured a crypto trading bot to buy crypto based on Reddit post sentiment from relevant subreddits, it's running right now and just bought me Bitcoin. The code is open-sourced. 
-date: 2021-06-28 1624904974 
-categories: reddit 
---- 
-https://redd.it/o9qasc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @geovanycapital 
-date: 2021-06-28 1624899839 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409558185451606020

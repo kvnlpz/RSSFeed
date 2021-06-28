@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @illumined1 
-date: 2021-06-28 1624886465 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409502088766312448

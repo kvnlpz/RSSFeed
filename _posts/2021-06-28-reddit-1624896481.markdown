@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NIO holding strong for a new TSLA 
-date: 2021-06-28 1624896481 
-categories: reddit 
---- 
-https://redd.it/o9nduu

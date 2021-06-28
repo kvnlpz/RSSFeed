@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mining Question... about 1000 computers 
-date: 2021-06-27 1624861877 
-categories: reddit 
---- 
-https://redd.it/o9el8f

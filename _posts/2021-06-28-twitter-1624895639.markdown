@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ForgeRiver 
-date: 2021-06-28 1624895639 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409540560717758472

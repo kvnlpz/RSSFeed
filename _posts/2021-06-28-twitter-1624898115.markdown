@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gostonksgo 
-date: 2021-06-28 1624898115 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409550955331395586

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AchimLittlepage 
-date: 2021-06-27 1624817539 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409212989069164544

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FCIllini 
-date: 2021-06-28 1624899990 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409558820079165440

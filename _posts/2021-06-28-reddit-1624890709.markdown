@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I got tired of relying on others for TA and charting so I decided to try it on my own. This is my first attempt at charting BTC. I hope I did it right. If there are any people out there that are better at TA please feel free to lend some advice. 
-date: 2021-06-28 1624890709 
-categories: reddit 
---- 
-https://redd.it/o9lfbf

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @therobotjames 
-date: 2021-06-27 1624860250 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409392136999505920

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any service that draws trendlines, chart patterns, support, and resistance? 
-date: 2021-06-27 1624856534 
-categories: reddit 
---- 
-https://redd.it/o9de45

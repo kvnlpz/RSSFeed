@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shaneswanla 
-date: 2021-06-28 1624896731 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409545149722529792

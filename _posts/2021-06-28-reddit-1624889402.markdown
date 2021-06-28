@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help a newbie 
-date: 2021-06-28 1624889402 
-categories: reddit 
---- 
-https://redd.it/o9l0ka

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @san_mure 
-date: 2021-06-27 1624803721 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409155035083296774
