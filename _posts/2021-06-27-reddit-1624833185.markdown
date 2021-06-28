@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is this tweet true, or is it a complete lie? 
-date: 2021-06-27 1624833185 
-categories: reddit 
---- 
-https://redd.it/o978m1
