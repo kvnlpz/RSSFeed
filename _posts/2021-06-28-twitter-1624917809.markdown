@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yeah12ugh 
-date: 2021-06-28 1624917809 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409633554867232773
