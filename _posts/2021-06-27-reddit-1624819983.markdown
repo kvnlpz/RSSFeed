@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking in DeFi risks 
-date: 2021-06-27 1624819983 
-categories: reddit 
---- 
-https://redd.it/o935on
