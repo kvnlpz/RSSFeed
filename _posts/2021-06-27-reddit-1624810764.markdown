@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Starting Out. 
-date: 2021-06-27 1624810764 
-categories: reddit 
---- 
-https://redd.it/o908g1
