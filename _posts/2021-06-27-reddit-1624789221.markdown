@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Easy (cheap) way to swap? (erc20 to a chain with cheaper fees) 
-date: 2021-06-27 1624789221 
-categories: reddit 
---- 
-https://redd.it/o8ufqw
