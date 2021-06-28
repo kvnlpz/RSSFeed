@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can anyone help me how bitcoin difficulty is updated (as in the mechanics of it)? 
+date: 2021-06-28 1624903294 
+categories: reddit 
+--- 
+https://redd.it/o9pqhf
