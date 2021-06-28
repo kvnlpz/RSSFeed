@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happens when.. 
-date: 2021-06-27 1624815371 
-categories: reddit 
---- 
-https://redd.it/o91pdf
