@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: soldirac: earn bitcoin over lightning by answering questions 
-date: 2021-06-27 1624808113 
-categories: reddit 
---- 
-https://redd.it/o8zdj4
