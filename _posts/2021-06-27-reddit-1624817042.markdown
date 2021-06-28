@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reminder: Second Mirqur.io Haskell/Plutus study group meetup tomorrow, last chance to influence time(s) and topic(s)! Am excited :) 
-date: 2021-06-27 1624817042 
-categories: reddit 
---- 
-https://redd.it/o927zm
