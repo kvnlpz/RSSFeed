@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto tracking spreadsheet with live crypto price updates, moon math, and a history of your Portfolio and trading performance. Supports Matic/BSC as well! 
-date: 2021-06-29 1624950674 
-categories: reddit 
---- 
-https://redd.it/oa36j3
