@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jamesechambers 
-date: 2021-06-28 1624943142 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409739809434832902
