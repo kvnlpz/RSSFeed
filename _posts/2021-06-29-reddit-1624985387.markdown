@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Created a Backup Device that also stores wallet keys + DIY Project with Code 
+date: 2021-06-29 1624985387 
+categories: reddit 
+--- 
+https://redd.it/oac726
