@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IntlRiskRob 
-date: 2021-06-28 1624942924 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409738895307247621
