@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How Reducing Bitcoin's Smallest Unit of Account (millisat/microsat/nanosat) Could Extend the Block Subsidy Past the 33rd Halving 
+date: 2021-06-29 1624977802 
+categories: reddit 
+--- 
+https://redd.it/oa9oaq
