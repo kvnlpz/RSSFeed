@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I invest based on quantitative sentiment score on Reddit - I'm beating SPY YTD and BUZZ since inception (but lost this past week). Last week's numbers and positions (and what I'm rebalancing into tomorrow morning): 
+date: 2021-06-29 1625003744 
+categories: reddit 
+--- 
+https://redd.it/oaig4u
