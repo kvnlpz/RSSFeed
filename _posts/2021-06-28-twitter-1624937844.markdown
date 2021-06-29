@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @offshorehunters 
-date: 2021-06-28 1624937844 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409717590440562690
