@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @valuemaverick1 
-date: 2021-06-28 1624927436 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409673935147261955
