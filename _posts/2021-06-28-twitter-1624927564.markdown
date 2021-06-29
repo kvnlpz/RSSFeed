@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_stark 
-date: 2021-06-28 1624927564 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409674472492199936
