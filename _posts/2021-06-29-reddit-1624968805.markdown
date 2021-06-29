@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My Coinbase account keeps logging out of my phone. 
-date: 2021-06-29 1624968805 
-categories: reddit 
---- 
-https://redd.it/oa715s
