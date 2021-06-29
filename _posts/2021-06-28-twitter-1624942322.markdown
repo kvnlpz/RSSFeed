@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @night__ryder 
-date: 2021-06-28 1624942322 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409736373498793986
