@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RobertRiggs1 
-date: 2021-06-28 1624932480 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409695092252626955
