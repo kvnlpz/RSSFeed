@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Interesting comparison of ALGO and ETH. Thoughts? 
-date: 2021-06-29 1624963262 
-categories: reddit 
---- 
-https://redd.it/oa5pox
