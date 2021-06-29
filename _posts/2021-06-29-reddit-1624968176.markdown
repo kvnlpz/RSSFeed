@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I created a simple Cardano Epoch countdown/timer 
-date: 2021-06-29 1624968176 
-categories: reddit 
---- 
-https://redd.it/oa6v44
