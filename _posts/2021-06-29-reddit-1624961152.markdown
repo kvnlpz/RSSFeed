@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Price trend chart of Lisk 
-date: 2021-06-29 1624961152 
-categories: reddit 
---- 
-https://redd.it/oa593n
