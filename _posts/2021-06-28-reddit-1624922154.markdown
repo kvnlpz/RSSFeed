@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Another ETH Sock I just made. 
-date: 2021-06-28 1624922154 
-categories: reddit 
---- 
-https://redd.it/o9vuqd
