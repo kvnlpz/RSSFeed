@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Summary of “A Prehistory of the Ethereum Protocol” by Vitalik Buterin 
-date: 2021-06-28 1624925506 
-categories: reddit 
---- 
-https://redd.it/o9wtt0
