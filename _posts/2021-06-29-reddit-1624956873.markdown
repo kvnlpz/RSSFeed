@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: GPT-3 AI is going to give me some Ripple :D 
-date: 2021-06-29 1624956873 
-categories: reddit 
---- 
-https://redd.it/oa4eb1
