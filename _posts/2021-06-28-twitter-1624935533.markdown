@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0x_3b 
-date: 2021-06-28 1624935533 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409707888600240130
