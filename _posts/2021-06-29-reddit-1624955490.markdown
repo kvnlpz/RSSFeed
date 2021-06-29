@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC Maxi 
-date: 2021-06-29 1624955490 
-categories: reddit 
---- 
-https://redd.it/oa44v4
