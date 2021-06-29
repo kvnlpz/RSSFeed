@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Pratham15583659 
-date: 2021-06-28 1624942164 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409735708634324992
