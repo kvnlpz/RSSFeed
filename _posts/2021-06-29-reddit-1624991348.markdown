@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question on moving ADA from Yoroi native wallet to Ledger 
+date: 2021-06-29 1624991348 
+categories: reddit 
+--- 
+https://redd.it/oae7p8
