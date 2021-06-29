@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Overvaluation given no smart contracts 
-date: 2021-06-28 1624923895 
-categories: reddit 
---- 
-https://redd.it/o9wdbw
