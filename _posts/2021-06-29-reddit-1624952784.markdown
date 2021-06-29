@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do i need to verify ID on uphold to withdraw BAT? Can i send BAT to my wallet WITHOUT verifying uphold 
-date: 2021-06-29 1624952784 
-categories: reddit 
---- 
-https://redd.it/oa3llp
