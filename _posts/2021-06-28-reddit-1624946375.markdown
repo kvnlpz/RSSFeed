@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: As of yesterday, Bitcoin payments are possible in South Korea. 
-date: 2021-06-28 1624946375 
-categories: reddit 
---- 
-https://redd.it/oa29bq
