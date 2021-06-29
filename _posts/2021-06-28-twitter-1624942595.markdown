@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kortelin150mg 
-date: 2021-06-28 1624942595 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409737515934752771
