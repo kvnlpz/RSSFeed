@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnSerwach 
-date: 2021-06-28 1624927469 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409674073953628164
