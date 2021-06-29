@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @primo_glizzy 
-date: 2021-06-28 1624944143 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409744010500055040
