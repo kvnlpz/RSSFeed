@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: For those running an Eth1 client, Nethermind have created an anonymous survey on how the client experience and related tooling can be improved. This survey is a good way to help improve the Ethereum ecosystem by providing your feedback directly. Please complete if you have a few minutes spare. 
+date: 2021-06-29 1625004083 
+categories: reddit 
+--- 
+https://redd.it/oaik6m
