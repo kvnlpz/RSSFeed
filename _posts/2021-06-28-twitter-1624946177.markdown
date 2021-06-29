@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tomerberman 
-date: 2021-06-28 1624946177 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409752542200860674
