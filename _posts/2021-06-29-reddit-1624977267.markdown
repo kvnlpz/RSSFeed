@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $WISH 
-date: 2021-06-29 1624977267 
-categories: reddit 
---- 
-https://redd.it/oa9hy1
