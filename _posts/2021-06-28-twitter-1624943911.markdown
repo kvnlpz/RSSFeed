@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jamesba44872533 
-date: 2021-06-28 1624943911 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409743036033142785
