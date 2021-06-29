@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Palantir Granted U.S. Patent Titled 'Malicious activity detection system capable of efficiently processing data accessed from databases and generating alerts for display in interactive user interfaces' 
+date: 2021-06-29 1624993654 
+categories: reddit 
+--- 
+https://redd.it/oaezwz
