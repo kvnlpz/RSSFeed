@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @clememasferrer 
-date: 2021-06-28 1624925139 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409664302676545536
