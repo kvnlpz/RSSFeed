@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is there a risk in executing option contracts that are very deep in the money? 
+date: 2021-06-28 1624941246 
+categories: reddit 
+--- 
+https://redd.it/oa122f
