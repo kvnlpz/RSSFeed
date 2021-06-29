@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @themikedmedia 
-date: 2021-06-28 1624937793 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409717375839076352
