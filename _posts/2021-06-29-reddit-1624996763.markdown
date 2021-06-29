@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Here's a quick update on my crypto trading bot that buys based on Reddit posts sentiment - I left it running overnight it it bought BTC, ETH and ALGO 
+date: 2021-06-29 1624996763 
+categories: reddit 
+--- 
+https://redd.it/oag0ll
