@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trying to figure this authenticator stuff out. 
-date: 2021-06-28 1624936932 
-categories: reddit 
---- 
-https://redd.it/o9zykc
