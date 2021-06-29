@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin prices pierce $35,000 in overnight trading 
-date: 2021-06-29 1624964649 
-categories: reddit 
---- 
-https://redd.it/oa60n3
