@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @206BG 
-date: 2021-06-28 1624932427 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409694870344671235
