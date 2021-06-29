@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin uses less energy than a cellphone 
-date: 2021-06-29 1624977195 
-categories: reddit 
---- 
-https://redd.it/oa9h6a
