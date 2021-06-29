@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_OTC_SNIPER_ 
-date: 2021-06-28 1624932975 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409697166428307459
