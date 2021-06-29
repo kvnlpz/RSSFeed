@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How Bitcoin works, explained in 5 min (version 2) 
+date: 2021-06-29 1625003414 
+categories: reddit 
+--- 
+https://redd.it/oaicbh
