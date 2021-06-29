@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where / how to store various coins and tokens ? 
-date: 2021-06-29 1624965684 
-categories: reddit 
---- 
-https://redd.it/oa6969
