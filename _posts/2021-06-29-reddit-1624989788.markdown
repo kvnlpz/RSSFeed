@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Goerli EIP-1559 Countdown! 
+date: 2021-06-29 1624989788 
+categories: reddit 
+--- 
+https://redd.it/oado42
