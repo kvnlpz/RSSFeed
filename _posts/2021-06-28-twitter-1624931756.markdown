@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndreaOswald20 
-date: 2021-06-28 1624931756 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409692053705879552
