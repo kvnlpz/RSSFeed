@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IamIncognetus 
-date: 2021-06-28 1624932348 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409694535446188034
