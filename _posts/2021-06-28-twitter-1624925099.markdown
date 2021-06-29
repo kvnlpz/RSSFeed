@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Paul__Walsh 
-date: 2021-06-28 1624925099 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409664131976683521
