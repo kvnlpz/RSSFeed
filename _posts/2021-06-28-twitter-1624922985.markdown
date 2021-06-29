@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tdutch09 
-date: 2021-06-28 1624922985 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409655250818977792
