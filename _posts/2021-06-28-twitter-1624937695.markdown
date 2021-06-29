@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @milankocourek1 
-date: 2021-06-28 1624937695 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409716965992669187
