@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Check out this aesome NFT listed on OpenSea 
-date: 2021-06-28 1624937652 
-categories: reddit 
---- 
-https://redd.it/oa058y
