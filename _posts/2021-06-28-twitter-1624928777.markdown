@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @i_feel_bullish 
-date: 2021-06-28 1624928777 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409679558811344896
