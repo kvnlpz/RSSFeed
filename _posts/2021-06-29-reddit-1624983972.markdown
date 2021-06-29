@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: 51% Bitcoin Attack by Andreas Antonopolous 
+date: 2021-06-29 1624983972 
+categories: reddit 
+--- 
+https://redd.it/oabq6l
