@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to DD/Analyse a Stock 
-date: 2021-06-29 1624962164 
-categories: reddit 
---- 
-https://redd.it/oa5gzs
