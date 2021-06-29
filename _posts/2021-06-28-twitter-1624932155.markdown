@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @begran01 
-date: 2021-06-28 1624932155 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409693727019331586
