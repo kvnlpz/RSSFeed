@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin decentralised 
-date: 2021-06-29 1624960901 
-categories: reddit 
---- 
-https://redd.it/oa57bt
