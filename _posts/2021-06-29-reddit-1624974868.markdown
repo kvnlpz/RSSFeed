@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I'm running eOS on my Fairphone and am unable to update some of my apps. The downloads go to 100% and then nothing happens. 
+date: 2021-06-29 1624974868 
+categories: reddit 
+--- 
+https://redd.it/oa8qwj
