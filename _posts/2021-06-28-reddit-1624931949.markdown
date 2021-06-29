@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What is the purpose for miners and stakers when the transactions added to a block are determined by an algorithm anyways? 
+date: 2021-06-28 1624931949 
+categories: reddit 
+--- 
+https://redd.it/o9yl7f
