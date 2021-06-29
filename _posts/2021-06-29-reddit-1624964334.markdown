@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is an ERC20 and what does it mean for Ethereum. 
-date: 2021-06-29 1624964334 
-categories: reddit 
---- 
-https://redd.it/oa5xtg
