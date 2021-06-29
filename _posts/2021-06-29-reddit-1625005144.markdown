@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Beware of Geeks Bearing Gifts: Autopsy of an Ethereum Based Scam 
+date: 2021-06-29 1625005144 
+categories: reddit 
+--- 
+https://redd.it/oaiwy3
