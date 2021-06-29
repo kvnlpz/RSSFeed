@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What websites do you use as news sources? 
-date: 2021-06-29 1624950696 
-categories: reddit 
---- 
-https://redd.it/oa36p4
