@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Gas Fees at 6-Month Low as Congestion Eases 
-date: 2021-06-28 1624932887 
-categories: reddit 
---- 
-https://redd.it/o9yunx
