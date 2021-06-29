@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mawit07 
-date: 2021-06-28 1624942585 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409737472565821444
