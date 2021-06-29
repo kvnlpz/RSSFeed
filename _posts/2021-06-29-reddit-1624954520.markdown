@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How is IOHK planning to attract developers? 
-date: 2021-06-29 1624954520 
-categories: reddit 
---- 
-https://redd.it/oa0lrn
