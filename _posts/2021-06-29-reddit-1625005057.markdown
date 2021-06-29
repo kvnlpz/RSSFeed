@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: For those that want to learn more about Cardano's research papers but don't have the time, here's a YouTube channel that has brief overview videos on them 
+date: 2021-06-29 1625005057 
+categories: reddit 
+--- 
+https://redd.it/oaivwo
