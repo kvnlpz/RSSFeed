@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheMonkeyQeeng 
-date: 2021-06-28 1624937711 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409717032434741249
