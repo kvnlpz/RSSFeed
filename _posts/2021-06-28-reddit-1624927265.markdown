@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: sumcoin: does a minable, tradable index coin warrant consideration? 
-date: 2021-06-28 1624927265 
-categories: reddit 
---- 
-https://redd.it/o9xbam
