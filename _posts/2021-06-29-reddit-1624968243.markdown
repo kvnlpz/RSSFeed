@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why do I see mined blocks of size greater than 1MB on Mempool 
-date: 2021-06-29 1624968243 
-categories: reddit 
---- 
-https://redd.it/oa5fmr
