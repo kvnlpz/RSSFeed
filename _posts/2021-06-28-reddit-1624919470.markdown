@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Layer 2 Gitcoin projects 
-date: 2021-06-28 1624919470 
-categories: reddit 
---- 
-https://redd.it/o9v15w
