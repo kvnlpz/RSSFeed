@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jsmauro13 
-date: 2021-06-28 1624927297 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409673352487206914
