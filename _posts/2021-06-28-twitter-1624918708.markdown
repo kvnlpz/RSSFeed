@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MyInvestingClub 
-date: 2021-06-28 1624918708 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409637325064183811
