@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jcmccune3 
-date: 2021-06-28 1624937776 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409717305341325312
