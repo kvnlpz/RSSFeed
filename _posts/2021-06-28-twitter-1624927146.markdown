@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidTaggart 
-date: 2021-06-28 1624927146 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409672718480384002
