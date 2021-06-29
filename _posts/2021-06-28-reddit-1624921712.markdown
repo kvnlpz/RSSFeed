@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Impromptu technical AMA on statelessness and Verkle trees and state expiry 
-date: 2021-06-28 1624921712 
-categories: reddit 
---- 
-https://redd.it/o9vq4y
