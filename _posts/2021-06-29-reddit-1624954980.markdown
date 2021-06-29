@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s really going on with C L O V? 
-date: 2021-06-29 1624954980 
-categories: reddit 
---- 
-https://redd.it/oa41c5
