@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: El Salvador to install bitcoin-friendly ATMs 
-date: 2021-06-29 1624969427 
-categories: reddit 
---- 
-https://redd.it/oa772u
