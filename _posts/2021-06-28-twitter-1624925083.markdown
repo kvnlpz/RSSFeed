@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PiLogic 
+date: 2021-06-28 1624925083 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1409664059801182210
