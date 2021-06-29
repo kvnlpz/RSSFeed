@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Turning Strangles into Covered calls when close to breach of strike 
+date: 2021-06-29 1625000848 
+categories: reddit 
+--- 
+https://redd.it/oahh5t
