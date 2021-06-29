@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaspercty 
-date: 2021-06-28 1624949291 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409765601585807361
