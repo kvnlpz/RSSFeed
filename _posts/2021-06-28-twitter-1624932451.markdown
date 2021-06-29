@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RealMrGhoul 
-date: 2021-06-28 1624932451 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409694971490279426
