@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: LTC price sinks under average market cost basis with further buying pressure required for market to breakeven on average. Contrast this with BTC and Doge where so much volume, possibly due to mining have been transacted at substantially lower prices. 
-date: 2021-06-28 1624948827 
-categories: reddit 
---- 
-https://redd.it/oa2sju
