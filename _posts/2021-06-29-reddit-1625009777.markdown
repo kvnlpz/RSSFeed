@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone break this down 
-date: 2021-06-29 1625009777 
-categories: reddit 
---- 
-https://redd.it/oakez0
