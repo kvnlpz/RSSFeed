@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In 144 blocks 2.64 mb from tip. What is the math to figure out eta? 
-date: 2021-06-29 1625000230 
-categories: reddit 
---- 
-https://redd.it/oah9sq
