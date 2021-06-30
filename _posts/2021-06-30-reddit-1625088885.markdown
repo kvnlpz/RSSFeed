@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question 
-date: 2021-06-30 1625088885 
-categories: reddit 
---- 
-https://redd.it/ob75d5
