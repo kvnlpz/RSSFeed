@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum 2.0 and Its Impact on Blockchain Industry - Tech Guide 
-date: 2021-06-29 1625011524 
-categories: reddit 
---- 
-https://redd.it/oakybd
