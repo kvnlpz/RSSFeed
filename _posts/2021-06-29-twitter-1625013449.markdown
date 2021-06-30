@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TwitchyTrader 
+date: 2021-06-29 1625013449 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1410034701197266944
