@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Moving away from CentOS for full nodes, is Debian the better choice? 
+date: 2021-06-30 1625071579 
+categories: reddit 
+--- 
+https://redd.it/ob185o
