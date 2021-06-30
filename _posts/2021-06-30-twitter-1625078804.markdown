@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-06-30 1625078804 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1410308819406577665
