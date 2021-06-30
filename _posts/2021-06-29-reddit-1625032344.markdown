@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: As a former BTC maximalist, I think a conceptual history of bitcoin is crucial to understand why DeFi is a matter of life or death for crypto. This is my take on DeFi (POS and POW ), and why I believe POW defi today (there is only one and it's state of the art) will be as disruptive as BTC in 2008. 
-date: 2021-06-29 1625032344 
-categories: reddit 
---- 
-https://redd.it/oan7ah
