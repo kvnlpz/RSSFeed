@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Will Robinhood exercise my amc puts automatically? 
-date: 2021-06-29 1624997353 
-categories: reddit 
---- 
-https://redd.it/oag7gm
