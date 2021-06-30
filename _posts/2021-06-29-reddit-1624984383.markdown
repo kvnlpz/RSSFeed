@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Did you know? Interledger Protocol (ILP) can process trillions of transactions per second. 
-date: 2021-06-29 1624984383 
-categories: reddit 
---- 
-https://redd.it/oabv6u
