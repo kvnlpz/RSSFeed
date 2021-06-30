@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are the points of vulnerability for the yoroi desktop wallet 
-date: 2021-06-29 1625030556 
-categories: reddit 
---- 
-https://redd.it/oaqdz5
