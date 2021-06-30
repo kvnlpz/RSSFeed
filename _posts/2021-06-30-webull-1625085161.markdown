@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-30 1625085161 
+categories: webull 
+--- 
+$ETCUSD  This is what we wanted, keep holding if you can believe it. 70+ tonight. 100 end of week. Big gains.	2021-06-30T20:28:17.182+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.893, 'pos': 0.107, 'compound': 0.34}
