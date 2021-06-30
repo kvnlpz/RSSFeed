@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm so in love 
-date: 2021-06-29 1625032618 
-categories: reddit 
---- 
-https://redd.it/oaqvsz
