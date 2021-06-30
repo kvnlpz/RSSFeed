@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FancyJGG 
-date: 2021-06-30 14:10:08 
-categories: twitter 
---- 
-@timothysykes Good lesson! It’s forever in my brain they always can go higher
