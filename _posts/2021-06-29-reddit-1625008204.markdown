@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Today was a good day 
-date: 2021-06-29 1625008204 
-categories: reddit 
---- 
-https://redd.it/oajx31
