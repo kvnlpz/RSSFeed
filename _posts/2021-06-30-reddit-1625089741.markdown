@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Got hacked on metamask 
-date: 2021-06-30 1625089741 
-categories: reddit 
---- 
-https://redd.it/ob7fbi
