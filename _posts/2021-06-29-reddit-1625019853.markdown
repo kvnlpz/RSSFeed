@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How do you calculate stock prices using valuations? 
+date: 2021-06-29 1625019853 
+categories: reddit 
+--- 
+https://redd.it/oanfo4
