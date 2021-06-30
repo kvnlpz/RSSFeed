@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: it is very hard to compete with computer algorithm. but I figured it out that how to beat it. I am reducing my losses to half and finally will make it to zero. You know, computers read the news in a matter of seconds and quickly react accordingly. But human is way too slow to do the job. 
-date: 2021-06-29 1625003503 
-categories: reddit 
---- 
-https://redd.it/oaiddq
