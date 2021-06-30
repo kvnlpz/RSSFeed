@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why is so big difference in data between dappradar and Tezos dapps? 
+date: 2021-06-30 1625064885 
+categories: reddit 
+--- 
+https://redd.it/oay9w6
