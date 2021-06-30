@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What gives a block chain token value 
-date: 2021-06-29 1624991986 
-categories: reddit 
---- 
-https://redd.it/oaefbv
