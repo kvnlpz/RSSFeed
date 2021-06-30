@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @unusual_whales 
+date: 2021-06-30 1625066168 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1410255808382734336
