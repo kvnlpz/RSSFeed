@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-30 1625085127 
-categories: webull 
---- 
-$ETHUSD  Gonna retrace, the RSI got overbought. 5min from now it will stabilize the next ATH	2021-06-30T20:14:59.714+0000
-sentiment scores: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}

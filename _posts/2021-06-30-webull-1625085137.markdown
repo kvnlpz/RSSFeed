@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-30 1625085137 
-categories: webull 
---- 
-$ETHUSD  LFG! don't stop	2021-06-30T20:19:03.230+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.579, 'pos': 0.421, 'compound': 0.2914}

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-30 1625085164 
-categories: webull 
---- 
-$ALT I was looking for a nice new dumpster fire  added to the watch list.	2021-06-30T20:31:12.072+0000
-sentiment scores: {'neg': 0.238, 'neu': 0.595, 'pos': 0.167, 'compound': -0.0516}

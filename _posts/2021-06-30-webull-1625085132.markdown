@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-30 1625085132 
-categories: webull 
---- 
-$AMC Love the Article about TREY    ❤️❤️❤️	2021-06-30T20:17:41.249+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.6369}

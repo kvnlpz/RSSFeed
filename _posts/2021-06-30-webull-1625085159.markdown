@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-30 1625085159 
-categories: webull 
---- 
-$BLIN Its rsi needs a break. after that it looks like it will gap up. looking bullish.	2021-06-30T20:27:26.726+0000
-sentiment scores: {'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.3612}
