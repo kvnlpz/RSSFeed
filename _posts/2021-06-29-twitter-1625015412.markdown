@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Switterman 
-date: 2021-06-29 1625015412 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410042931998859268

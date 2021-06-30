@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vaportrades1911 
-date: 2021-06-29 1624956835 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409797241808711682

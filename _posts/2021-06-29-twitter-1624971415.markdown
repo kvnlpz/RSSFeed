@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Rizzle631 
-date: 2021-06-29 1624971415 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409858398070272002

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Aimstress61 
-date: 2021-06-29 1625013486 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410034849969172480

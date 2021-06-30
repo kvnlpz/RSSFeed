@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinMarketCap Diamonds – brief introduction to CMC's new loyalty rewards 
-date: 2021-06-30 1625040224 
-categories: reddit 
---- 
-https://redd.it/oasl4r

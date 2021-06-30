@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase Fees Seem High, Also a Penny Less 
-date: 2021-06-30 1625067520 
-categories: reddit 
---- 
-https://redd.it/oazvf4

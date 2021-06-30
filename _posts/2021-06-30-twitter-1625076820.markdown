@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @McCourtNiall 
-date: 2021-06-30 1625076820 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410300498234822657

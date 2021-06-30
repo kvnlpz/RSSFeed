@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A tool to allow access to real-time trending stocks from Reddit, Twitter, news, and SEC 
-date: 2021-06-30 1625074748 
-categories: reddit 
---- 
-https://redd.it/ob2bmu

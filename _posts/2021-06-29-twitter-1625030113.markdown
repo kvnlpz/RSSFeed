@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sami_diab 
-date: 2021-06-29 1625030113 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410104592998752258

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ziliqa launches learnblockchain.org 
-date: 2021-06-30 1625054437 
-categories: reddit 
---- 
-https://redd.it/oavtpc

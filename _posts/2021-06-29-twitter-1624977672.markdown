@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TonyKutscher 
-date: 2021-06-29 1624977672 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409884641557991433

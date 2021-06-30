@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transfer/Sync Brave/BAT rewards from Windows 10 to MacOS 
-date: 2021-06-30 1625072951 
-categories: reddit 
---- 
-https://redd.it/oad14w

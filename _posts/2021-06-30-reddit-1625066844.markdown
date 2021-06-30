@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can you explain what #Cardano is in the simplest way possible? 
-date: 2021-06-30 1625066844 
-categories: reddit 
---- 
-https://redd.it/oazn13

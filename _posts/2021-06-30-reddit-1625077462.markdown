@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase-Backed Startup Aims to Distribute Crypto by Scanning Eyeballs 
-date: 2021-06-30 1625077462 
-categories: reddit 
---- 
-https://redd.it/ob39u0

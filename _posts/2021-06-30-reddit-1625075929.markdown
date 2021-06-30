@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Danish food industry to use the Algorand blockchain as a sandbox to test invoicing and payment processing through smart contracts 
-date: 2021-06-30 1625075929 
-categories: reddit 
---- 
-https://redd.it/ob2qg0

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nervoustrading 
-date: 2021-06-29 1624985524 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409917574662397956

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why I believe in AMD 
-date: 2021-06-30 1625067252 
-categories: reddit 
---- 
-https://redd.it/oazs4f

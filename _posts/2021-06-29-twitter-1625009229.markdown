@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gman1__ 
-date: 2021-06-29 1625009229 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410016998575181826

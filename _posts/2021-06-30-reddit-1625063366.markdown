@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I think this could be one solution to bridge my crypto assets across different chain. What do you think of it and are there any other efficient cross-chain solutions you guys are using to shift your crypto assets from one chain to another? 
-date: 2021-06-30 1625063366 
-categories: reddit 
---- 
-https://redd.it/oayh7i

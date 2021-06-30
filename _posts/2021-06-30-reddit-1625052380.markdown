@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DeFi protocol WhaleFarm crashes by 99% in an apparent rug pull 
-date: 2021-06-30 1625052380 
-categories: reddit 
---- 
-https://redd.it/oavaun

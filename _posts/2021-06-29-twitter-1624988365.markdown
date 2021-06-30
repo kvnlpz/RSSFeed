@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FinFreedomMgmt 
-date: 2021-06-29 1624988365 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409929490080440332

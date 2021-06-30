@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Steadyeddy98 
-date: 2021-06-29 1625021818 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410069800190160896

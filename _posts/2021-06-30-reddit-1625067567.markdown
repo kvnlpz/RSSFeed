@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Announcing USDC on Ten New Blockchain Platforms 
-date: 2021-06-30 1625067567 
-categories: reddit 
---- 
-https://redd.it/oazw58

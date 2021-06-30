@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Buy to close a csp when up over 25% after a day? 
-date: 2021-06-30 1625083406 
-categories: reddit 
---- 
-https://redd.it/ob5boy

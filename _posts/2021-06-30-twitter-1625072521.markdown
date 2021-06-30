@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @__sharpe 
-date: 2021-06-30 1625072521 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410282463490985987

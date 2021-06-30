@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RyanWright84 
-date: 2021-06-29 1625015658 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410043964393242624

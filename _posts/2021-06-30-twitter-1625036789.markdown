@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AvocadoMatthew 
-date: 2021-06-30 1625036789 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410132593345925120

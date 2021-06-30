@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-06-29 1624996756 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409964685252780033

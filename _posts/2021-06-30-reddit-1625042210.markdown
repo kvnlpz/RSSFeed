@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I have an idea so insane it just might work 
-date: 2021-06-30 1625042210 
-categories: reddit 
---- 
-https://redd.it/oat0bo

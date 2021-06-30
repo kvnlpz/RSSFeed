@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Questions about the legal structure and IP ownership of the Monero Core Team 
-date: 2021-06-30 1625064026 
-categories: reddit 
---- 
-https://redd.it/oayook

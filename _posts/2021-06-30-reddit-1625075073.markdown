@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible to buy a stock at a overprice using limit orders? 
-date: 2021-06-30 1625075073 
-categories: reddit 
---- 
-https://redd.it/ob2ftt

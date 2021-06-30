@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Tradeape1 
-date: 2021-06-29 1624977783 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409885105703825411

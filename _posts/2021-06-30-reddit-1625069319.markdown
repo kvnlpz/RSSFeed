@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My portfolio after joining WSB 
-date: 2021-06-30 1625069319 
-categories: reddit 
---- 
-https://redd.it/ob0hwm

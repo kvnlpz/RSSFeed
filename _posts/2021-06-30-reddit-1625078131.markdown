@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why do most alt coin charts look the same even though they are on different block chains? 
-date: 2021-06-30 1625078131 
-categories: reddit 
---- 
-https://redd.it/ob36wo

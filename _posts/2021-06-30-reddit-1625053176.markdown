@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is going on with Cigna (CI) 
-date: 2021-06-30 1625053176 
-categories: reddit 
---- 
-https://redd.it/oavhyr

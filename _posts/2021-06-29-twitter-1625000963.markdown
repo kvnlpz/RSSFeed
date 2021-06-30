@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @XRPjordy 
-date: 2021-06-29 1625000963 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409982328756187136

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imperative_the 
-date: 2021-06-29 1624952538 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409779220885262336

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BluthCapital 
-date: 2021-06-30 1625072712 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410283266205270024

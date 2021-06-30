@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Was the Dfinity Team Responsible for ICP's 95% Crash? 
-date: 2021-06-30 1625050834 
-categories: reddit 
---- 
-https://redd.it/oaux23

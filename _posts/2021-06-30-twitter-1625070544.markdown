@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bartt59 
-date: 2021-06-30 1625070544 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410274171637092357

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Chaukevi 
-date: 2021-06-30 1625072614 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410282822649237505

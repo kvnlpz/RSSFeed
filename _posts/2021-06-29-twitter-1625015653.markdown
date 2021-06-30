@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @satinsamuraii 
-date: 2021-06-29 1625015653 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410043943698321408

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Beginner’s Guide To The Evolution Of Decentralized Oracle Networks - Chainlink Today 
-date: 2021-06-30 1625080432 
-categories: reddit 
---- 
-https://redd.it/ob4aja

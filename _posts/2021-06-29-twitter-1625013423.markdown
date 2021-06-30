@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FroTrades 
-date: 2021-06-29 1625013423 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410034580170559489

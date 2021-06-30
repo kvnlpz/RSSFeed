@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 5G rollout News 
-date: 2021-06-30 1625066237 
-categories: reddit 
---- 
-https://redd.it/oazfmt

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AxceL21121 
-date: 2021-06-30 1625083059 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410326666824622085

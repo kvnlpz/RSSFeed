@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @11KCapital 
-date: 2021-06-29 1624954722 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409788379575689217

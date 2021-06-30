@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking and compounding interest 
-date: 2021-06-30 1625045172 
-categories: reddit 
---- 
-https://redd.it/oatn4l

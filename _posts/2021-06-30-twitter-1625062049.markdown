@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @holdmytexan 
-date: 2021-06-30 1625062049 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410238544245821446

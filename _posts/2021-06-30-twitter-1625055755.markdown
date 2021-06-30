@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iMarcelo 
-date: 2021-06-30 1625055755 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410212142209503235

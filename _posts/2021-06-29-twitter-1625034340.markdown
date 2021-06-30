@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ascii_x341963 
-date: 2021-06-29 1625034340 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410122324418965508

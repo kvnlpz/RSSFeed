@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is so cool! Uniswap integrates natively into CoinMarketCap Token pages with a "Swap" icon allowing users to connect to an Ethereum wallet and instantly trade that token through the Uniswap protocol 
-date: 2021-06-30 1625068583 
-categories: reddit 
---- 
-https://redd.it/ob08ts

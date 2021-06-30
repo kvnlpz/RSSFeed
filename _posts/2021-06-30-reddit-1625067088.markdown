@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's your opinion on central bank digital currency? Would it be a fight between centralization vs decentralization? 
-date: 2021-06-30 1625067088 
-categories: reddit 
---- 
-https://redd.it/oazq5o

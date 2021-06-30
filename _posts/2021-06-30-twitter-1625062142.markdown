@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Michael70023702 
-date: 2021-06-30 1625062142 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410238932139261954

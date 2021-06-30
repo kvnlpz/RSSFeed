@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JorgeTrades305 
-date: 2021-06-30 1625083109 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410326862266515459

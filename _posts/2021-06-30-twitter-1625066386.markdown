@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Curious_Chuck_D 
-date: 2021-06-30 1625066386 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410256719301820419

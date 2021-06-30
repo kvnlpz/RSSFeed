@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Puddi05 
-date: 2021-06-30 1625072478 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410282283316125699

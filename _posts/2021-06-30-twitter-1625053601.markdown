@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cord79Toni 
-date: 2021-06-30 1625053601 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410203108051931140

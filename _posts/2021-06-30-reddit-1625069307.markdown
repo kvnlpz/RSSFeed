@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinmarketcap Portfolio users - how do you handle impermanent loss and LP tokens? 
-date: 2021-06-30 1625069307 
-categories: reddit 
---- 
-https://redd.it/ob0i2l

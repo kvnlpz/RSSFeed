@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Trade_setting 
-date: 2021-06-29 1624994590 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409955599580811276

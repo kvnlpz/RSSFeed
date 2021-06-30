@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Adam Back speaking like a Monero Maximalist 
-date: 2021-06-30 1625046107 
-categories: reddit 
---- 
-https://redd.it/oatuev

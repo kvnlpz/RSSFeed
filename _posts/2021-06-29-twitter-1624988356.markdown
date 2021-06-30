@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptoglodytes 
-date: 2021-06-29 1624988356 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409929451614392320

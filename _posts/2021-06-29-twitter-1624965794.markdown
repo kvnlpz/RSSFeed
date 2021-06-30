@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stawk5 
-date: 2021-06-29 1624965794 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409834818104397828

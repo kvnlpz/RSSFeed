@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thomasgerlach 
-date: 2021-06-29 1624985645 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409918080998912000

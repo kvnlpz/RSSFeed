@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Up-to-date estimations of institutional investment in Bitcoin, Ethereum etc.? 
-date: 2021-06-30 1625061563 
-categories: reddit 
---- 
-https://redd.it/oaxw3h

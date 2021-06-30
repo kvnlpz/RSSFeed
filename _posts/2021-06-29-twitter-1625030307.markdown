@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rameshgopalkr 
-date: 2021-06-29 1625030307 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410105409218629638

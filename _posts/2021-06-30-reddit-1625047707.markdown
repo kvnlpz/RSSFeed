@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin can play tricks on your mind 
-date: 2021-06-30 1625047707 
-categories: reddit 
---- 
-https://redd.it/oau7fl

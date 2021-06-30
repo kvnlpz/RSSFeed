@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @crthomas62 
-date: 2021-06-29 1625011239 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410025432246857730

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Taylor_Crouch__ 
-date: 2021-06-29 1624984408 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409912894721085440

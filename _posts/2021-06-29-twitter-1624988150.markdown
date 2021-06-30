@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @elsmith2007 
-date: 2021-06-29 1624988150 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409928589567426563

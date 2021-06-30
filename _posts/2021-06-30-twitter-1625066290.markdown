@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NeerajKA 
-date: 2021-06-30 1625066290 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410256331563470857

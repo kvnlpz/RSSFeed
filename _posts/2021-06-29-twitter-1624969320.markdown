@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PanicRevin 
-date: 2021-06-29 1624969320 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409849609724346368

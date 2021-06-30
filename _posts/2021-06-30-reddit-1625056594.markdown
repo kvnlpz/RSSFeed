@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: That's a man 
-date: 2021-06-30 1625056594 
-categories: reddit 
---- 
-https://redd.it/oawf8r

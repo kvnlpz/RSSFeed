@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A scammer attempts to get me to visit a phishing site. Notice how the wallet is spelt incorrect as wallect in the link. 
-date: 2021-06-30 1625054338 
-categories: reddit 
---- 
-https://redd.it/oavso6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @limitlesslt 
-date: 2021-06-29 1624992398 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409946404961722369

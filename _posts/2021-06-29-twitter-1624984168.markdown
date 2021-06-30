@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hardwood_ 
-date: 2021-06-29 1624984168 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409911885110165510

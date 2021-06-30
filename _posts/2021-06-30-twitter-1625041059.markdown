@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Endymion888 
-date: 2021-06-30 1625041059 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410150506794680323

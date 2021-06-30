@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NatoshoSatamoti 
-date: 2021-06-29 1624985027 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409915488407261188

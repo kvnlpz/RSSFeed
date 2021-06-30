@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VijayFanForLIFE 
-date: 2021-06-29 1624985270 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409916508797497345

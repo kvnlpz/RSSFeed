@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SaliniKing 
-date: 2021-06-29 1624969353 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409849748400525316

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-06-29 1624994506 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409955245925355522

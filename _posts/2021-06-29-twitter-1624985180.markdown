@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Le_Tart 
-date: 2021-06-29 1624985180 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409916130416726017

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: mining pool question 
-date: 2021-06-30 1625076683 
-categories: reddit 
---- 
-https://redd.it/ob303m

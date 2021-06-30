@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CaseysCharts 
-date: 2021-06-29 1624990312 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409937656826433544

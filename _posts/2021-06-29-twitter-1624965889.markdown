@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Abd17715 
-date: 2021-06-29 1624965889 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409835219188948993

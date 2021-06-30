@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Interesting article about app tech being used in Africa now. 
-date: 2021-06-30 1625075739 
-categories: reddit 
---- 
-https://redd.it/ob2o4g

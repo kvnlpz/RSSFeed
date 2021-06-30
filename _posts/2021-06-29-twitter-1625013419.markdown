@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @itsanimalhouse 
-date: 2021-06-29 1625013419 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410034573422084096

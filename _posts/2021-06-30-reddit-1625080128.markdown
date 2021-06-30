@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Important, my account has been hacked and now sends this type of messages. I got the control of my account but there are probably more accounts stolen this way. Be wary. 
-date: 2021-06-30 1625080128 
-categories: reddit 
---- 
-https://redd.it/ob46z9

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chicago_quantum 
-date: 2021-06-29 1625005036 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409999411153866752

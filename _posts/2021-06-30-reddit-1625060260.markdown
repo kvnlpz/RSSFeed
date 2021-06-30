@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Valid Points: How Ethereum Miners Are Preparing for EIP 1559 and the Merge 
-date: 2021-06-30 1625060260 
-categories: reddit 
---- 
-https://redd.it/oaxi4m

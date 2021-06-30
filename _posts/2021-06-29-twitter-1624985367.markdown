@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Davisa3749 
-date: 2021-06-29 1624985367 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409916915234086916

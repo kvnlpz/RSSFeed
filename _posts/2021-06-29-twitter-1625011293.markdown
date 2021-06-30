@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Daveplmr12 
-date: 2021-06-29 1625011293 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410025658986627073

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThePermaBill 
-date: 2021-06-29 1625015438 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410043040501227523

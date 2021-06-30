@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Hashrate Stabilizes After China Crackdown 
-date: 2021-06-30 1625083450 
-categories: reddit 
---- 
-https://redd.it/ob5ca2

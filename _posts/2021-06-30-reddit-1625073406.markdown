@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ideas welcome. A friend and i made these lights that change colors based on a specific stock's price, and we're trying to come up with more clever things we could with the lights. Considering a strobe effect every time Elon tweets? Thoughts? 
-date: 2021-06-30 1625073406 
-categories: reddit 
---- 
-https://redd.it/ob1unr

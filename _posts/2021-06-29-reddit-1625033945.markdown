@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: help : how to recover funds from old multibit wallet .key file 
-date: 2021-06-29 1625033945 
-categories: reddit 
---- 
-https://redd.it/oar74u

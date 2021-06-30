@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SockstheC 
-date: 2021-06-29 1624988197 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409928778411692045

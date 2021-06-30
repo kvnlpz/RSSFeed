@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: is it safe to keep BTC on a paper wallet?? 
-date: 2021-06-30 1625052899 
-categories: reddit 
---- 
-https://redd.it/oavfky

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradeCharity 
-date: 2021-06-30 1625083139 
-categories: twitter 
---- 
-https://twitter.com/o/status/1410326991262388228

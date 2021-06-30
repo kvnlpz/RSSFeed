@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jamesdison514 
-date: 2021-06-29 1624973420 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409866807033446401

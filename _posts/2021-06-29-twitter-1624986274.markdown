@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DumbInvestorGuy 
-date: 2021-06-29 1624986274 
-categories: twitter 
---- 
-https://twitter.com/o/status/1409920719857848331
