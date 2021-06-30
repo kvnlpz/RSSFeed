@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking for advice on revoking access from defi apps with trust wallet 
-date: 2021-06-29 1625014232 
-categories: reddit 
---- 
-https://redd.it/oalrgo
