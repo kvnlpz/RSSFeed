@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase rolling out a crypto savings account that lets you earn 4% APY on USDC deposits, higher yields than what traditional savings accounts can offer. 
-date: 2021-06-29 1624989308 
-categories: reddit 
---- 
-https://redd.it/oadiw8
