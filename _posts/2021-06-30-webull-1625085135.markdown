@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-30 1625085135 
+categories: webull 
+--- 
+$SPCE Inverted Head and Shoulder formation in the making. Still feeling Bullish 30 min. Chart	2021-06-30T20:18:37.302+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.128}
