@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How secure is the Lightning Network? 
-date: 2021-06-29 1625001616 
-categories: reddit 
---- 
-https://redd.it/oahqc1
