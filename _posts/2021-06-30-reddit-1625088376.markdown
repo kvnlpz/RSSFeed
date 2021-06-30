@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Every Spiritus vehicle will be a node on the blockchain, and will include Daymak Nebula Miner and Nebula Wallet. Daymak Nebula technology makes Daymak Spiritus the first car in history with mining hardware and cryptocurrency technology programmed into the user interface. 
-date: 2021-06-30 1625088376 
-categories: reddit 
---- 
-https://redd.it/ob6z32
