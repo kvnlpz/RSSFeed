@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Current BTC 
-date: 2021-06-29 1624984151 
-categories: reddit 
---- 
-https://redd.it/oabsdu
