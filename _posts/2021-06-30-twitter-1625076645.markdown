@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @IGotStocks 
+date: 2021-06-30 1625076645 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1410299761295597570
