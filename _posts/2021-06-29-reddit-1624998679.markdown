@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I can’t remember what website shows how much a coin would be worth VS Bitcoin 
-date: 2021-06-29 1624998679 
-categories: reddit 
---- 
-https://redd.it/oagmkt
