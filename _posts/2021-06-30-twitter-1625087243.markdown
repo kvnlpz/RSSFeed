@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_IAMCHIEF_ 
-date: 2021-06-30 14:07:23 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/y5UVfbQnzN
