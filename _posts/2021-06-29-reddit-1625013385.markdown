@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Strange wallet issue (2 wallets, same seed phrase) Litecoin will only show up in 1 or the other. 
+date: 2021-06-29 1625013385 
+categories: reddit 
+--- 
+https://redd.it/oaligd
