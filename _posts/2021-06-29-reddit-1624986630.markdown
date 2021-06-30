@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum 2.0 For Dummies — Part 1: Why Upgrade? 
-date: 2021-06-29 1624986630 
-categories: reddit 
---- 
-https://redd.it/oac5tl
