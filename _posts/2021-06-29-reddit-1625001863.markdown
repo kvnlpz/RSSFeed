@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Funds don't show 
-date: 2021-06-29 1625001863 
-categories: reddit 
---- 
-https://redd.it/oahtgb
