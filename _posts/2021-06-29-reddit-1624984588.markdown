@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can Algo be staked through a hardware wallet? 
-date: 2021-06-29 1624984588 
-categories: reddit 
---- 
-https://redd.it/oabxiy
