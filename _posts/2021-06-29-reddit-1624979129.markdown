@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EOSIO freelancers take note! Pomelo.io will be offering a bounty feature and a system to build a reputation with a plan to incorporate Eden membership 
-date: 2021-06-29 1624979129 
-categories: reddit 
---- 
-https://redd.it/oaa42y
