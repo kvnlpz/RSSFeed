@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My favorite project planning to be on the Cardano platform right now is.... 
-date: 2021-06-29 1625030445 
-categories: reddit 
---- 
-https://redd.it/oaqcz5
