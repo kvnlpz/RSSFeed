@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cloud computing: A threat to Monero's descentralization? 
-date: 2021-06-29 1625031856 
-categories: reddit 
---- 
-https://redd.it/oamts6
