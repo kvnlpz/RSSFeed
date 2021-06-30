@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can't seem to delegate to a staking pool. 
-date: 2021-06-29 1625012074 
-categories: reddit 
---- 
-https://redd.it/oal4ft
