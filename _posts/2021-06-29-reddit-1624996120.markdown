@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What does it mean exactly to short sell on an Exchange ? 
-date: 2021-06-29 1624996120 
-categories: reddit 
---- 
-https://redd.it/oaftwi
