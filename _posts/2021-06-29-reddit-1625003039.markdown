@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why liquidity pools are an awesome long-term price move hedge 
-date: 2021-06-29 1625003039 
-categories: reddit 
---- 
-https://redd.it/oai7vx
