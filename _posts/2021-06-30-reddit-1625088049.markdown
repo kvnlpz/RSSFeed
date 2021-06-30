@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Withdrawing liquidity fees 
-date: 2021-06-30 1625088049 
-categories: reddit 
---- 
-https://redd.it/ob6v7a
