@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-30 1625085086 
+categories: webull 
+--- 
+$BABA so many looser here	2021-06-30T20:11:42.316+0000
+sentiment scores: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
