@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @th3status 
+date: 2021-06-30 1625082950 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1410326206155722752
