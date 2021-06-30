@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For The Many Newcomers: Ethereum Classic vs Ethereum 2.0, What Is The Difference? 
-date: 2021-06-29 1624979228 
-categories: reddit 
---- 
-https://redd.it/oaa57j
