@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Don't find out the hard way. Learn before you leverage! 
-date: 2021-06-29 1625013532 
-categories: reddit 
---- 
-https://redd.it/oalk08
