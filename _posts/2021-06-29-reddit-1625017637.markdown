@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CryptoCurrency 
-date: 2021-06-29 1625017637 
-categories: reddit 
---- 
-https://redd.it/oamrrb
