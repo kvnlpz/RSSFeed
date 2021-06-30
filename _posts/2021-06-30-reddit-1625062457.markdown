@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Probability at earning block rewards and transaction fees is disproportionate 
+date: 2021-06-30 1625062457 
+categories: reddit 
+--- 
+https://redd.it/oay6o8
