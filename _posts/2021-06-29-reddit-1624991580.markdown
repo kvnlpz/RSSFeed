@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Microsoft is working on DNA storage. Will this have an impact on decentralised cloud storage projects? 
-date: 2021-06-29 1624991580 
-categories: reddit 
---- 
-https://redd.it/oaeajt
