@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can someone provide clarity on Mastering Monero's mathematical iteration of Ring Signatures (Chapter 5, pg. 131 - 134) 
+date: 2021-06-30 1625081437 
+categories: reddit 
+--- 
+https://redd.it/ob4mtv
