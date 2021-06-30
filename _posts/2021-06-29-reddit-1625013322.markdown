@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stocks Versus Crypto - An Analysis with 4 portfolios 
-date: 2021-06-29 1625013322 
-categories: reddit 
---- 
-https://redd.it/oalhsn
