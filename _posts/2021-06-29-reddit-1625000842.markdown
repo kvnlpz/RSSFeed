@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin is up 867% since Jan 1, 2019, surviving 13 "bear" market dips during that time. 
-date: 2021-06-29 1625000842 
-categories: reddit 
---- 
-https://redd.it/oahh03
