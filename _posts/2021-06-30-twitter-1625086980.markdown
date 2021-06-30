@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Edmund_Schuster 
-date: 2021-06-30 14:03:00 
-categories: twitter 
---- 
-@muddywatersre Then again, what incentive would shareholders have at this point to vote against the proposed resolutions?
