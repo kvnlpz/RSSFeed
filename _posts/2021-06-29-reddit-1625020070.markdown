@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mint now supports the following cryptocurrency platforms: Binance, BlockFi, Coinbase, Coinbase Pro, GEMINI, Kraken, Paypal (Gasp!), Robinhood (Nooooooooooooooooooooooooo.....) 
-date: 2021-06-29 1625020070 
-categories: reddit 
---- 
-https://redd.it/oani18
