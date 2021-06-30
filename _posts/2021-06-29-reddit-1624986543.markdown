@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Please Help 
-date: 2021-06-29 1624986543 
-categories: reddit 
---- 
-https://redd.it/oacldq
