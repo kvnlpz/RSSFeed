@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-30 1625085169 
+categories: webull 
+--- 
+$BLIN Support is around 4. i will buy more if youre going to sell down to there. i loaded at 4.7, ill load more	2021-06-30T20:31:49.417+0000
+sentiment scores: {'neg': 0.11, 'neu': 0.784, 'pos': 0.106, 'compound': -0.0258}
