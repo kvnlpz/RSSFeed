@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vitalik explains Blockchain in a very easy way so that everyone can understand its advantage 
-date: 2021-06-29 1624981024 
-categories: reddit 
---- 
-https://redd.it/oaaqvl
