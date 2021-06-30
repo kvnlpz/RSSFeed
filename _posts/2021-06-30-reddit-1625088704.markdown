@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I've been reading about the "5 dollar wrench attack" where someone forces you to hand over your private keys under duress. I'm not buying it. 
+date: 2021-06-30 1625088704 
+categories: reddit 
+--- 
+https://redd.it/ob732u
