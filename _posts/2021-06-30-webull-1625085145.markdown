@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: webull post 
+date: 2021-06-30 1625085145 
+categories: webull 
+--- 
+$AMC I like the stock 	2021-06-30T20:22:56.444+0000
+sentiment scores: {'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}
