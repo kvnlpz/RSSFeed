@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tokenization 
+date: 2021-06-29 1625032465 
+categories: reddit 
+--- 
+https://redd.it/oaqueh
