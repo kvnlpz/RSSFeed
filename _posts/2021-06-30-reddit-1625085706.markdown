@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Making money by inverting negative sentiment created by stock bashing and trolling 
-date: 2021-06-30 1625085706 
-categories: reddit 
---- 
-https://redd.it/ob6304
