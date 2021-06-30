@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ultra, a blockchain gaming marketplace is now live after 3 years of development. Buy games, watch streams powered by Theta.tv and purchase NFT's all under one roof! 
-date: 2021-06-29 1624989111 
-categories: reddit 
---- 
-https://redd.it/oadgio
