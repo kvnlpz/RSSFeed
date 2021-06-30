@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @diamondequities 
+date: 2021-06-30 1625074790 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1410291983873155072
