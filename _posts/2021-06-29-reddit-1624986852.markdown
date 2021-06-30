@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It Grows broken! 
-date: 2021-06-29 1624986852 
-categories: reddit 
---- 
-https://redd.it/oacp88
