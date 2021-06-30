@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to hedge against short bi-directional calendar spreads? 
+date: 2021-06-29 1625029087 
+categories: reddit 
+--- 
+https://redd.it/oaq089
