@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ApeSwap Integrates Chainlink VRF to Ensure Fair Weekly NFA Draws 
-date: 2021-06-29 1624980100 
-categories: reddit 
---- 
-https://redd.it/oaaflg
