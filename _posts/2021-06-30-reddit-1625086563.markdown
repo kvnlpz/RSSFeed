@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do you think eth 2.0 will affect the entire crypto/eth ecosystem and price of eth? 
-date: 2021-06-30 1625086563 
-categories: reddit 
---- 
-https://redd.it/ob6de6
