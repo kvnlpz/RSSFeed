@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JakeChupick 
+date: 2021-06-30 1625076897 
+categories: twitter 
+--- 
+https://twitter.com/o/status/1410300820218916864
