@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Compound interest on Bitcoin 
-date: 2021-06-30 1625090993 
-categories: reddit 
---- 
-https://redd.it/ob7u0t
