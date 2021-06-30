@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking for some details/sentiment on OPES 
-date: 2021-06-29 1625011759 
-categories: reddit 
---- 
-https://redd.it/oal0zk
