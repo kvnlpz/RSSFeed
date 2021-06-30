@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: App for Trade-by-trade profits considering whole portfolio and multiple currencies? 
-date: 2021-06-29 1625008271 
-categories: reddit 
---- 
-https://redd.it/oajxx0
