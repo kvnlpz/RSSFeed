@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The principle of mining is introduced 
-date: 2021-07-01 1625145877 
-categories: reddit 
---- 
-https://redd.it/oblrvt
