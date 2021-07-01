@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @holdmytexan 
+date: 2021-07-01 12:22:27 
+categories: twitter 
+--- 
+RT @kcprinters: $VRAR presentation: https://t.co/D6YdAkqykZ
