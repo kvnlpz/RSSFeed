@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Note: You can use an Algorand faucet to claim your rewards without paying a transaction fee. 
+date: 2021-07-01 1625183215 
+categories: reddit 
+--- 
+https://redd.it/oby9j7
