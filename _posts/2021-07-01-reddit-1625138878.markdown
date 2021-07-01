@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FaaS? 
-date: 2021-07-01 1625138878 
-categories: reddit 
---- 
-https://redd.it/objt5n
