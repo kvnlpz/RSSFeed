@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This week in AMC 
-date: 2021-06-30 1625103901 
-categories: reddit 
---- 
-https://redd.it/obbjdj
