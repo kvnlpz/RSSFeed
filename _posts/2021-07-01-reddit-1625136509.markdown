@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH had about 200K more daily active addresses than BTC on Sunday, June 27th. This was only the third day since January 1st, 2017 that ETH has had more active addresses than BTC. The other two times that ETH topped BTC were June 5th and 6th, 2021. 
-date: 2021-07-01 1625136509 
-categories: reddit 
---- 
-https://redd.it/obj8af
