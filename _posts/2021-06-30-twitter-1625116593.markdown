@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @syntagmatic 
-date: 2021-06-30 22:16:33 
-categories: twitter 
---- 
-@nope_its_lily @lull_no @breakingthemark @fcmartinelli's work worth checking out, he wrote the Balancer whitepaper.… https://t.co/wLaqT4vBJA
