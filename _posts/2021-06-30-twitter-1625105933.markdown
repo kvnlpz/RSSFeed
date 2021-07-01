@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @obito831 
-date: 2021-06-30 19:18:53 
-categories: twitter 
---- 
-RT @InvestorsLive: Hi @krispykreme if I invest tomorrow and show my portfolio at drive through can I get a free donut?
