@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CalebWipf5 
-date: 2021-06-30 15:50:53 
-categories: twitter 
---- 
-@RayTL_ Two riot calls bought at 12 sold at 63
