@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nexo platform launches full integration of Cardano 
-date: 2021-07-01 1625129935 
-categories: reddit 
---- 
-https://redd.it/obhqel
