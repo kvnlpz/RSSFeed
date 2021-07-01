@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Portfolio tracker? 
-date: 2021-07-01 1625123976 
-categories: reddit 
---- 
-https://redd.it/obghsi
