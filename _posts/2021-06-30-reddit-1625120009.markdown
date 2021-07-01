@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ⚡ Lightning Thursday! July 01, 2021: Explore the Lightning Network!⚡ 
-date: 2021-06-30 1625120009 
-categories: reddit 
---- 
-https://redd.it/obfncw
