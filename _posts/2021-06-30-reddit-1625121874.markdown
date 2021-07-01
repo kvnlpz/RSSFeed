@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BlockFi now allows deposits of BAT, UNI and DAI to its interest accounts. 
+date: 2021-06-30 1625121874 
+categories: reddit 
+--- 
+https://redd.it/obg1l5
