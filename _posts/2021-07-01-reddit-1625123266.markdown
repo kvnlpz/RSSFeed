@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Master Thesis 
-date: 2021-07-01 1625123266 
-categories: reddit 
---- 
-https://redd.it/obgcne
