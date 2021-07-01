@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Checking if this is a good project 
-date: 2021-07-01 1625146630 
-categories: reddit 
---- 
-https://redd.it/obm03t
