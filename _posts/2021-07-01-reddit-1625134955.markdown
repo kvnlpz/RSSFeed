@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: exit startegy 
-date: 2021-07-01 1625134955 
-categories: reddit 
---- 
-https://redd.it/obivh5
