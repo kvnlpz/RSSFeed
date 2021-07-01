@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Advice 
-date: 2021-07-01 1625125959 
-categories: reddit 
---- 
-https://redd.it/obgwaa
