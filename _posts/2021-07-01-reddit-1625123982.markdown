@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin should be taxed 
-date: 2021-07-01 1625123982 
-categories: reddit 
---- 
-https://redd.it/obghwh
