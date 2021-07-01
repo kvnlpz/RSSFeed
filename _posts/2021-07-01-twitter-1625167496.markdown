@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @vwapnation 
+date: 2021-07-01 12:24:56 
+categories: twitter 
+--- 
+RT @forexvenezuela: Thanks again @alphatrends Brian for this great conversation about VWAP https://t.co/p63pjM11VO via @YouTube
