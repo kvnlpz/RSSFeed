@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin in the Middle East 
-date: 2021-06-30 1625119530 
-categories: reddit 
---- 
-https://redd.it/obfjnb
