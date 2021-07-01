@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Pt. 2 Lopp talks threat models, safeguards, info asymmetry, & choosing privacy - To the Moon 16 
+date: 2021-07-01 1625145834 
+categories: reddit 
+--- 
+https://redd.it/oblre2
