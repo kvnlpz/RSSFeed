@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @GuilleAngeris 
+date: 2021-07-01 09:28:09 
+categories: twitter 
+--- 
+@nope_its_lily @tarunchitra this is jointly convex in current_weight and W_i if that's what you're asking ?
