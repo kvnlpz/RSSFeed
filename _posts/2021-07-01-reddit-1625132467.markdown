@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BlockFi rate cut on Bitcoin deposits after Kraken slashed deposit fees to zero on all deposits 
-date: 2021-07-01 1625132467 
-categories: reddit 
---- 
-https://redd.it/obiahk
