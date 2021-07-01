@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Using Heikin Ashi candles to swing trade 3x indexes 
+date: 2021-07-01 1625178430 
+categories: reddit 
+--- 
+https://redd.it/obwtnt
