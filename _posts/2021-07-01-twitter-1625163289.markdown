@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @morganefitz 
+date: 2021-07-01 11:14:49 
+categories: twitter 
+--- 
+@super_trades Yup I work with a lot of AR startups in this space .. it’s hot sector
