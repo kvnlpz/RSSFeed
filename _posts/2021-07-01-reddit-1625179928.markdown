@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Check out conversation with SundaeSwap's developer. It'll be a DEX on Cardano, similar to Uniswap on Ethereum. Among other, they talk why SundaeSwap chose Cardano (13:58). 
+date: 2021-07-01 1625179928 
+categories: reddit 
+--- 
+https://redd.it/obxaka
