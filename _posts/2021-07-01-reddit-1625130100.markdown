@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Are private key and seed words are different？ 
+date: 2021-07-01 1625130100 
+categories: reddit 
+--- 
+https://redd.it/obhs0h
