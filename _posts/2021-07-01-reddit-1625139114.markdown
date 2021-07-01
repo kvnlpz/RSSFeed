@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Apparently Binance Can Receive Matic Directly from Polygon Network 
-date: 2021-07-01 1625139114 
-categories: reddit 
---- 
-https://redd.it/objvc8
