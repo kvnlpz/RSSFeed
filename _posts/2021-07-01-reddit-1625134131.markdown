@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What I've learned after 2 months in crypto 
-date: 2021-07-01 1625134131 
-categories: reddit 
---- 
-https://redd.it/obioh3
