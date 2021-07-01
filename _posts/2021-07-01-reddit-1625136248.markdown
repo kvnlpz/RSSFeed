@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just unterested 
-date: 2021-07-01 1625136248 
-categories: reddit 
---- 
-https://redd.it/obj669
