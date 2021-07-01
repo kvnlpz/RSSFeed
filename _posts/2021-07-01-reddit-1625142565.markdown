@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I made a yield finder website! yield.rodeo 
+date: 2021-07-01 1625142565 
+categories: reddit 
+--- 
+https://redd.it/obkssh
