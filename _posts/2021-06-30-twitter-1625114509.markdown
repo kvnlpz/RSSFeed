@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @therobotjames 
-date: 2021-06-30 21:41:49 
-categories: twitter 
---- 
-@nope_its_lily Nice work!!
-
-@choffstein will be very pleased with the way you handled the rebal here  🙏
