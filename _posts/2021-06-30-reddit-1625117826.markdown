@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When expires osmo claim? 
-date: 2021-06-30 1625117826 
-categories: reddit 
---- 
-https://redd.it/obf623
