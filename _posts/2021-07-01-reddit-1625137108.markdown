@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dumb question about wallets 
-date: 2021-07-01 1625137108 
-categories: reddit 
---- 
-https://redd.it/objd8s
