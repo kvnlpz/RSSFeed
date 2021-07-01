@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Polygon Subgraph has been down for hours, most dapps cannot operate properly. Syncing our own node also takes forever (stuck at 99.8% for an hour). Hopefully things will get resolved in an hour. 
+date: 2021-07-01 1625136733 
+categories: reddit 
+--- 
+https://redd.it/obja5w
