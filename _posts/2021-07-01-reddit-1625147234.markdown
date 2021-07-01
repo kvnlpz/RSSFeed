@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The options market analyzed real-time and organized to see what stocks have high counterparty risk, delta imbalances, and gamma risk (shown in a very palatable way). 
+date: 2021-07-01 1625147234 
+categories: reddit 
+--- 
+https://redd.it/obm6tu
