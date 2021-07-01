@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are cash secured puts inherently superior to covered calls? 
-date: 2021-06-30 1625114434 
-categories: reddit 
---- 
-https://redd.it/obecy2
