@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Saw this on r/Bitcoin 
-date: 2021-07-01 1625125710 
-categories: reddit 
---- 
-https://redd.it/obguh9
