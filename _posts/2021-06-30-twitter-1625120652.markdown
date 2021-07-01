@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @blakebye 
-date: 2021-06-30 23:24:12 
-categories: twitter 
---- 
-@nope_its_lily with a deep sample-set of 50 we just let the law of large numbers play out
