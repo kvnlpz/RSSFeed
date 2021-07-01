@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yolo on $BIDU 
-date: 2021-06-30 1625118726 
-categories: reddit 
---- 
-https://redd.it/obfd7z
