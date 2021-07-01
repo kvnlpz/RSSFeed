@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano Lobster Traps 
-date: 2021-06-30 1625119449 
-categories: reddit 
---- 
-https://redd.it/obfj02
