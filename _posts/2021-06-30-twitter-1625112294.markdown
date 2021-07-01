@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Scott1Reeve1 
-date: 2021-06-30 21:04:54 
-categories: twitter 
---- 
-RT @timothysykes: Don't just look at how much $ you made or loss in June, instead do a deep dive on your entire process, your stress levels…
