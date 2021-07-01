@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I saw a post about if ETH 2.0 will kill MATIC or not and I'm really confused on what I thought things were 
-date: 2021-07-01 1625134157 
-categories: reddit 
---- 
-https://redd.it/obiosg
