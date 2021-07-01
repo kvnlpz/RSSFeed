@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Over $12 Billion Worth of ETH is Now Staked on Ethereum 2.0 
-date: 2021-07-01 1625142466 
-categories: reddit 
---- 
-https://redd.it/obkrru
