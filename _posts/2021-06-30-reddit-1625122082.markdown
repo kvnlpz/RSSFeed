@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is the most optimistic result of Bitcoin? 
-date: 2021-06-30 1625122082 
-categories: reddit 
---- 
-https://redd.it/obg39n
