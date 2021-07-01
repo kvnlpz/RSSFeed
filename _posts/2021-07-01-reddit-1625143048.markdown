@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is the best way to transfer bitcoin from binance to trust wallet? I'm trying to bypass the ridiculous gas price.. £20 worth of bitcoin as a fee. 
-date: 2021-07-01 1625143048 
-categories: reddit 
---- 
-https://redd.it/obkxra
