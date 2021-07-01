@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-06-30 18:09:51 
-categories: twitter 
---- 
-RT @RiskRewardCap: 🗺️What is Sema4's TAM🗺️
-
-This is a tricky one to size (in a good way), Sema4 is pulling so many things together in an un…
