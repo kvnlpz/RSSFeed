@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why is there not a limit of the number of blocks in a chain revision? 
+date: 2021-07-01 1625125433 
+categories: reddit 
+--- 
+https://redd.it/obgsk2
