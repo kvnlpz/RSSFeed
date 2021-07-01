@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MichaelGKress 
+date: 2021-06-30 17:00:30 
+categories: twitter 
+--- 
+RT @super_trades: Whining because a swing trade is taking longer than you want yet thesis has not changed and stop loss not breached?  You’…
