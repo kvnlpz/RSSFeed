@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monero GUI wallet query 
-date: 2021-06-30 1625117584 
-categories: reddit 
---- 
-https://redd.it/obf41s
