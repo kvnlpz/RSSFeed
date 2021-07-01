@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Game in PokemonGO style where u can earn real Dogecoin in beta with waiting list wich starts in 13 hours 
-date: 2021-06-30 1625120609 
-categories: reddit 
---- 
-https://redd.it/obfrza
