@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm missing something very fundamental about how proof of stake secures a blockchain 
-date: 2021-06-30 1625115947 
-categories: reddit 
---- 
-https://redd.it/obeq8a
