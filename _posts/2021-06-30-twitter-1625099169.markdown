@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MKellyTyler1 
-date: 2021-06-30 17:26:09 
-categories: twitter 
---- 
-@timothysykes Truth

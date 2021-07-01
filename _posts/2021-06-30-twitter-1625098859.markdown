@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HesseYnot 
-date: 2021-06-30 17:20:59 
-categories: twitter 
---- 
-@nope_its_lily Excel programming*

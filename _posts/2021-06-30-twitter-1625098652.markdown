@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kchoudhu 
-date: 2021-06-30 17:17:32 
-categories: twitter 
---- 
-@nope_its_lily I once looked at our accounting code and Inhave resolved to quit if I ever have to make changes to it.

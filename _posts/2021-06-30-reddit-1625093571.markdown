@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit CrytoSnoos sold for a total of 395 ETH 
-date: 2021-06-30 1625093571 
-categories: reddit 
---- 
-https://redd.it/ob8mc8

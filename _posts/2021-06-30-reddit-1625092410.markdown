@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: All payments should go through a smart contract that allows a two-part payments. 
-date: 2021-06-30 1625092410 
-categories: reddit 
---- 
-https://redd.it/ob89x0

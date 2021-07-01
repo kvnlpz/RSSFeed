@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-30 1625099403 
-categories: webull 
---- 
-$IQ Bull flagging in 2 hours if it breaks 16 can run

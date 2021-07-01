@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Intro to Crypto help 
-date: 2021-06-30 1625092582 
-categories: reddit 
---- 
-https://redd.it/ob8bqa

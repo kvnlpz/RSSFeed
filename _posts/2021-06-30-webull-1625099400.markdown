@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-06-30 1625099400 
-categories: webull 
---- 
-$DOGEUSD .30+ tmrw
