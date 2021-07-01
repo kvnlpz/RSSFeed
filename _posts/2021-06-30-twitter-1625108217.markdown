@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JeffBaiocco 
-date: 2021-06-30 19:56:57 
-categories: twitter 
---- 
-@OddStockTrader @RemindMe_OfThis in 1 hour
