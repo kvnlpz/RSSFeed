@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MetaMask copied the wrong address when I clicked on copy. 
-date: 2021-07-01 1625144226 
-categories: reddit 
---- 
-https://redd.it/obl9re
