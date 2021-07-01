@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EFOI will start tomorrow 
-date: 2021-06-30 1625105921 
-categories: reddit 
---- 
-https://redd.it/obc2xn
