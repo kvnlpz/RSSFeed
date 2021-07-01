@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: conversion error on Binance 
-date: 2021-07-01 1625130367 
-categories: reddit 
---- 
-https://redd.it/obhu4j
