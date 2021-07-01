@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: So Techlead supposedly made a ERC20 coin which is lower bound pegged to Dollar (stable coin) but has a finite 1 Million total supply. I wonder if somebody more knowledgble here can explain if it's stupid or something new? 
+date: 2021-07-01 1625178536 
+categories: reddit 
+--- 
+https://redd.it/obwutg
