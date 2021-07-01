@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $SHIB Holder on Twitter 
-date: 2021-06-30 1625105391 
-categories: reddit 
---- 
-https://redd.it/obbxt1
