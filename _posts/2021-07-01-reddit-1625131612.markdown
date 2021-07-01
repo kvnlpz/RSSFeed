@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wait What? Why is it green? Shouldn't it be 🖍? 
-date: 2021-07-01 1625131612 
-categories: reddit 
---- 
-https://redd.it/obi3w8
