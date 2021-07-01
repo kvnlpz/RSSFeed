@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This Is the Vision for DeFi Built on Bitcoin 
-date: 2021-07-01 1625128130 
-categories: reddit 
---- 
-https://redd.it/obhcr2
