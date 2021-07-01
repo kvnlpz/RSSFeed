@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does it matter which tokenBTC or tokenETH I choose? 
-date: 2021-06-30 1625107598 
-categories: reddit 
---- 
-https://redd.it/obcjqj
