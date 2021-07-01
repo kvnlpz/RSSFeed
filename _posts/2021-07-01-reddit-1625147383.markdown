@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ⚛️💰Coinswap: IBC functionalities enabled and ATOM now supported! 💰⚛️ 
-date: 2021-07-01 1625147383 
-categories: reddit 
---- 
-https://redd.it/obm8hs
