@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JonathanStock15 
-date: 2021-06-30 19:20:39 
-categories: twitter 
---- 
-@OddStockTrader Wendy's Breakfast is quite the addition to their lineup. I was surprised how good it was.
