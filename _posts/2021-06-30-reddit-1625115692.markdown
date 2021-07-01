@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's the point of delegating to a stake pool? 
-date: 2021-06-30 1625115692 
-categories: reddit 
---- 
-https://redd.it/obenzn
