@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Things that I have learn on this sub 
-date: 2021-07-01 1625134398 
-categories: reddit 
---- 
-https://redd.it/obiqqd
