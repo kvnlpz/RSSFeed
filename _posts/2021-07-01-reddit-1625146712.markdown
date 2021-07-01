@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Deposited amount in a stable pool has decreased... WTH? 
-date: 2021-07-01 1625146712 
-categories: reddit 
---- 
-https://redd.it/obm0x1
