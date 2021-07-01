@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is the RSI indicator too good to be true? 
-date: 2021-07-01 1625131604 
-categories: reddit 
---- 
-https://redd.it/obi3r9
