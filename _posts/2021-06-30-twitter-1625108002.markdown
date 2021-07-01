@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @lull_no 
+date: 2021-06-30 19:53:22 
+categories: twitter 
+--- 
+@nope_its_lily @breakingthemark Because too many time steps or decision variables?  Maybe do the optimization over… https://t.co/1SKZxH7HRs
