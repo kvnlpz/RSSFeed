@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Summary of “Notes on Blockchain Governance” by Vitalik Buterin 
-date: 2021-06-30 1625098165 
-categories: reddit 
---- 
-https://redd.it/ob9yvp
