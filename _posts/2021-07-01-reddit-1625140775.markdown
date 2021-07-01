@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Power of Immutability — You Don’t Change Bitcoin, Bitcoin Changes You For the better. 
-date: 2021-07-01 1625140775 
-categories: reddit 
---- 
-https://redd.it/obkasu
