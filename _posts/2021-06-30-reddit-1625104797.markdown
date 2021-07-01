@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: UK Court Orders Bitcoin.org to Remove Bitcoin White Paper - so here’s how to pull it directly from the blockchain 
-date: 2021-06-30 1625104797 
-categories: reddit 
---- 
-https://redd.it/obbrr0
