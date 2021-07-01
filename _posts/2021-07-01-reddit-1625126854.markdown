@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum 2.0 PoS mechanism now has nearly 6 million ETH staked 
-date: 2021-07-01 1625126854 
-categories: reddit 
---- 
-https://redd.it/obh32d
