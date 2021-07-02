@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How LTO network is combining Decentralised Identity & Verifiable Credentials for clients like the UN 
+date: 2021-07-02 1625237156 
+categories: reddit 
+--- 
+https://redd.it/ocbkjn
