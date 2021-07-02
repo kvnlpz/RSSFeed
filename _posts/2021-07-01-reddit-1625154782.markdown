@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $SHIP 
-date: 2021-07-01 1625154782 
-categories: reddit 
---- 
-https://redd.it/oboooy
