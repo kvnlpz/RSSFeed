@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @khaledwalid122 
-date: 2021-07-01 15:52:19 
-categories: twitter 
---- 
-RT @timothysykes: It's sad/crazy how many newbies come into the finance industry mistakenly believing it to be a warm, friendly place, when…
