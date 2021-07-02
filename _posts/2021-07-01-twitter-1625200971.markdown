@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeffwallaceSD 
-date: 2021-07-01 21:42:51 
-categories: twitter 
---- 
-@alphatrends Are you solely a trader or do you hold long term as well without stops?
