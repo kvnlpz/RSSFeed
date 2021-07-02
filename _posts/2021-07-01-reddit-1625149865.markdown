@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fortior partners with Algorand to Create AI-powered Governance Mechanisms and Financial Assets on the Algorand Blockchain 
-date: 2021-07-01 1625149865 
-categories: reddit 
---- 
-https://redd.it/obn1a0
