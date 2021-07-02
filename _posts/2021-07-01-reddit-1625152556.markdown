@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is how my options experience went 
-date: 2021-07-01 1625152556 
-categories: reddit 
---- 
-https://redd.it/obnxda
