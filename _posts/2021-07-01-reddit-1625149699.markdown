@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Synchronize blockchain.com wallet to receive profits from HFT 
-date: 2021-07-01 1625149699 
-categories: reddit 
---- 
-https://redd.it/obmzd7
