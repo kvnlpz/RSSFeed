@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EOS stuck in SafePal wallet - not enough CPU 
+date: 2021-07-02 1625241103 
+categories: reddit 
+--- 
+https://redd.it/occx9z
