@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-01 19:24:00 
+categories: twitter 
+--- 
+@maoxian @TrendSpider check the YTD VWAP on DOGE
