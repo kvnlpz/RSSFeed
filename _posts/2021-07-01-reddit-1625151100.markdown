@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Managing Iron Condors (Pro Method) 
-date: 2021-07-01 1625151100 
-categories: reddit 
---- 
-https://redd.it/obng7q
