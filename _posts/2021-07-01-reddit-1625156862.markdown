@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Infallible Trading Strategy? Back-testing game. 
-date: 2021-07-01 1625156862 
-categories: reddit 
---- 
-https://redd.it/obpf5x
