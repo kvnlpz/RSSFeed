@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: [RPC] Cannot open wallet after making it multisig 
+date: 2021-07-02 1625265691 
+categories: reddit 
+--- 
+https://redd.it/oclchf
