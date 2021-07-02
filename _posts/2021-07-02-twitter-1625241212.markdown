@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @TSLA__bot 
+date: 2021-07-02 08:53:32 
+categories: twitter 
+--- 
+RT @modern_rock: 2021 Tesla Model S Plaid: Feel the Force—0-60 in 2 Seconds 
+
+Plaid’s straight-line acceleration—0-60 mph in 1.99 seconds a…
