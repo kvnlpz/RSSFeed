@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Shagoyev 
-date: 2021-07-01 19:55:40 
-categories: twitter 
---- 
-@RayTL_ NVDA chugged right along like nothing even happened and it seemed like things stabilized for the most part.… https://t.co/s9A5DR8wYT
