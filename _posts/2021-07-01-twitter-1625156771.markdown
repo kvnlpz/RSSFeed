@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SecretaryBenny 
-date: 2021-07-01 09:26:11 
-categories: twitter 
---- 
-@nope_its_lily You haven’t had A/C? 👀
