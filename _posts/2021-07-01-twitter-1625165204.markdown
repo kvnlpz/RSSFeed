@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AustinWTrader 
-date: 2021-07-01 11:46:44 
-categories: twitter 
---- 
-@super_trades Thanks for your insights @super_trades
