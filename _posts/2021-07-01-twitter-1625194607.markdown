@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NickyStoxx 
-date: 2021-07-01 19:56:47 
-categories: twitter 
---- 
-@alphatrends @TrendSpider It won't go to 0 tomorrow so you can trade it but never hold it
