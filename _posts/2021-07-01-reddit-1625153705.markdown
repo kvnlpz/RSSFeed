@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin's future classification probability. 
-date: 2021-07-01 1625153705 
-categories: reddit 
---- 
-https://redd.it/obob6e
