@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can I and how to run a Monero Full Node in a Cloud Hosting? 
+date: 2021-07-02 1625247987 
+categories: reddit 
+--- 
+https://redd.it/ocebll
