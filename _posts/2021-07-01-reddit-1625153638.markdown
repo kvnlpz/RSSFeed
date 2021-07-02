@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Explain value and updates like I’m 5 
-date: 2021-07-01 1625153638 
-categories: reddit 
---- 
-https://redd.it/oboafk
