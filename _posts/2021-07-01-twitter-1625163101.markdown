@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Venivis_ 
-date: 2021-07-01 11:11:41 
-categories: twitter 
---- 
-RT @timothysykes: It's CRAZY how many people think they can make 6,  or 8 figures overnight without much effort. While I've quadrupled the…
