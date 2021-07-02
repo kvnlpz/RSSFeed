@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to recover coins from seedphrase 
+date: 2021-07-02 1625216562 
+categories: reddit 
+--- 
+https://redd.it/oc69dr
