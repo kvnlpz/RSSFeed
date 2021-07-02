@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Technical Analysis of recent price action for Kushco $KSHB 
-date: 2021-07-01 1625183239 
-categories: reddit 
---- 
-https://redd.it/oby9to
