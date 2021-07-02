@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: cointest 
-date: 2021-07-01 1625174072 
-categories: reddit 
---- 
-https://redd.it/obveo9
