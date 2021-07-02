@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnthonyW8669 
-date: 2021-07-01 12:20:44 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/wAYK2Xsxqo
