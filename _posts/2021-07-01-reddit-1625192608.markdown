@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Spray token project chooses Chainlink API to handle CMC data backbone! 
+date: 2021-07-01 1625192608 
+categories: reddit 
+--- 
+https://redd.it/oc0sw3
