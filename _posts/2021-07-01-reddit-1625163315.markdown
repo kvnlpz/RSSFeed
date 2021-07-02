@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FINRA (overseen by SEC) just fined Robinhood for the largest amount in history 
-date: 2021-07-01 1625163315 
-categories: reddit 
---- 
-https://redd.it/obrp14
