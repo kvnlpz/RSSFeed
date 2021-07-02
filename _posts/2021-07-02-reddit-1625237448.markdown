@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Which bitcoin address to use for the lowest transaction fee? 
+date: 2021-07-02 1625237448 
+categories: reddit 
+--- 
+https://redd.it/ocbo29
