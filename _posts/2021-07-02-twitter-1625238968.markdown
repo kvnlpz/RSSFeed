@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @GrillaMonkey 
+date: 2021-07-02 08:16:08 
+categories: twitter 
+--- 
+@nope_its_lily So do you think we close down?
