@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why are directed acyclic graphs not more widely known/talked about/used? 
+date: 2021-07-02 1625243482 
+categories: reddit 
+--- 
+https://redd.it/occcxp
