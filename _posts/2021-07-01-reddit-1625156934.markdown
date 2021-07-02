@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Closer Look at Ubinetic Oracles and how it benefits the Tezos ecosystem 
-date: 2021-07-01 1625156934 
-categories: reddit 
---- 
-https://redd.it/obpg1r
