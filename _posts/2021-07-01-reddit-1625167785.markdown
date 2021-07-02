@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I want to have a Card that I can use my litecoin on! 
-date: 2021-07-01 1625167785 
-categories: reddit 
---- 
-https://redd.it/obt8mj
