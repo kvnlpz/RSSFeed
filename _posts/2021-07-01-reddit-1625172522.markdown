@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Surpasses Bitcoin in Daily Active Addresses 
-date: 2021-07-01 1625172522 
-categories: reddit 
---- 
-https://redd.it/obuve9
