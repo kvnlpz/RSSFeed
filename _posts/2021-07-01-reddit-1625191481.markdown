@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Once full governance is live on Cardano, I believe we need to have a serious discussion as to whether or not exchanges should be allowed to run multiple stakepools. Thoughts? 
-date: 2021-07-01 1625191481 
-categories: reddit 
---- 
-https://redd.it/obz36a
