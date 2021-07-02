@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why do people choose NIO over Xpeng? 
-date: 2021-07-01 1625163915 
-categories: reddit 
---- 
-https://redd.it/obqkwv
