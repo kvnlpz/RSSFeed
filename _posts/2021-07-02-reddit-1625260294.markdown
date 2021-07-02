@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: [OC] I made a telegram bot for tracking SOL staking status 
+date: 2021-07-02 1625260294 
+categories: reddit 
+--- 
+https://redd.it/ocjk8j
