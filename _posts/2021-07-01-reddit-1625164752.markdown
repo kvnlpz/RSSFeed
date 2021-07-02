@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: M R I N 
-date: 2021-07-01 1625164752 
-categories: reddit 
---- 
-https://redd.it/obs744
