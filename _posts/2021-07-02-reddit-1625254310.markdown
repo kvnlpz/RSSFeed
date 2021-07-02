@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Mircea Popescu death prompted me to think about creating a company that was built to distribute crypto in a will to the next generation after death. What kind of system do you think would be needed to secure someone else’s keys before and after death. 
+date: 2021-07-02 1625254310 
+categories: reddit 
+--- 
+https://redd.it/ocg19v
