@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reminder: Don't blindly trust analysts' ratings. It's possible for them to issue positive recommendations to help their own investments. 
-date: 2021-07-01 1625174765 
-categories: reddit 
---- 
-https://redd.it/obvi56
