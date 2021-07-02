@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TommyBoyTrades 
-date: 2021-07-01 09:25:43 
-categories: twitter 
---- 
-@InvestorsLive Oh makes sense. Nice term to use for that
