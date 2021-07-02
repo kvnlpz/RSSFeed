@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PoS Blockchain Tezos (XTZ) Selected to Issue Leading Stablecoin USDC 
-date: 2021-07-01 1625164478 
-categories: reddit 
---- 
-https://redd.it/obs3nm
