@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GuilleAngeris 
-date: 2021-07-01 09:30:04 
-categories: twitter 
---- 
-@nope_its_lily @tarunchitra uhh, not sure what you mean by '\sum_{W_i}' (perhaps just i?) but, if so, that function… https://t.co/liRTpp1AXq
