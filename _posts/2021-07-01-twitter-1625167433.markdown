@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mikelaz7 
-date: 2021-07-01 12:23:53 
-categories: twitter 
---- 
-RT @super_trades: low float $VRAR reminds me of low float $VERI when it first IPO’d was first pure play AI and was in demand (not investmen…
