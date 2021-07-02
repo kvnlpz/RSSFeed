@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a subreddit for crypto app development ideas and discussion? 
-date: 2021-07-01 1625153118 
-categories: reddit 
---- 
-https://redd.it/obo4mb
