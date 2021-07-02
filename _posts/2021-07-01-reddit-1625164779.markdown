@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 23 and Me short attack 
-date: 2021-07-01 1625164779 
-categories: reddit 
---- 
-https://redd.it/obs7ew
