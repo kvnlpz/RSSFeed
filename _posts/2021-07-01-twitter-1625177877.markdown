@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Scelliott81 
-date: 2021-07-01 15:17:57 
-categories: twitter 
---- 
-@MikeBellafiore Ha
