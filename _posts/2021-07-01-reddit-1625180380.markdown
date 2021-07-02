@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Once quantum computing is a reality are “burn” wallets open game? 
-date: 2021-07-01 1625180380 
-categories: reddit 
---- 
-https://redd.it/obxfew
