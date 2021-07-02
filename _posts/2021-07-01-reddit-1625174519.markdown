@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to cancel a Bitcoin transaction if unconfirmed 
-date: 2021-07-01 1625174519 
-categories: reddit 
---- 
-https://redd.it/obvk9u
