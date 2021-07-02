@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bubstron 
-date: 2021-07-01 12:59:46 
-categories: twitter 
---- 
-@OddStockTrader Infrastructure deal time
