@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $VUZI 
-date: 2021-07-01 1625153472 
-categories: reddit 
---- 
-https://redd.it/obo8d8
