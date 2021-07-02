@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eyevzz 
-date: 2021-07-01 07:43:59 
-categories: twitter 
---- 
-@nope_its_lily If you just want the useful without knowing what it is, pyOpt will get you a long way
