@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMD 7/16 90C gains 
-date: 2021-07-01 1625160347 
-categories: reddit 
---- 
-https://redd.it/obqn7u
