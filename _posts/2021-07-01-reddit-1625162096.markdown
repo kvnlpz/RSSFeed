@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It's like they want us to be hacked. 
-date: 2021-07-01 1625162096 
-categories: reddit 
---- 
-https://redd.it/obr9kr
