@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Degen’$ Farm Core Game Mechanics Powered by Chainlink Price Feeds 
-date: 2021-07-01 1625164195 
-categories: reddit 
---- 
-https://redd.it/obrzws
