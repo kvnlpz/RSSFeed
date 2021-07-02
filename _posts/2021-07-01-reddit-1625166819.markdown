@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone currently staking Raydium on Raydium.io on the Solana Blockchain 
-date: 2021-07-01 1625166819 
-categories: reddit 
---- 
-https://redd.it/obswrf
