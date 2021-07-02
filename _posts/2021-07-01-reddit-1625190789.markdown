@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do empty cardano wallets deactivate? 
-date: 2021-07-01 1625190789 
-categories: reddit 
---- 
-https://redd.it/oc0bnm
