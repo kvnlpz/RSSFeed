@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Official Stratis Development Update (July 2021) 
+date: 2021-07-02 1625242037 
+categories: reddit 
+--- 
+https://redd.it/ocd8wc
