@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why doesn’t AMC order book reflect the on it’s chart?? Help me understand.. 
-date: 2021-07-01 1625173770 
-categories: reddit 
---- 
-https://redd.it/obvaze
