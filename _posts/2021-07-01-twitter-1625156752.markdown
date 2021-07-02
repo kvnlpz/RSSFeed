@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tarunchitra 
-date: 2021-07-01 09:25:52 
-categories: twitter 
---- 
-@nope_its_lily @GuilleAngeris I'm just old and have read too many random things while riding the subway (which is why nyc &gt; *)
