@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Die someone already write an app for poker games amongst friends? 
-date: 2021-07-01 1625149124 
-categories: reddit 
---- 
-https://redd.it/obmso5
