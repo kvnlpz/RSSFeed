@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are people so excited about centralised solutions for Bitcoin? Custodial wallets, the government making one... Isn't this what cryptocurrency is trying to move away from? 
-date: 2021-07-01 1625208406 
-categories: reddit 
---- 
-https://redd.it/oc4mt5
