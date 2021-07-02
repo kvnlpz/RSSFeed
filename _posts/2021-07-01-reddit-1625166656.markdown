@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Crypo Newsletter] I sift through ungodly amounts of cryptocurrency content and compile a quick & easy summary of the best headlines. Here's this week's list: 
-date: 2021-07-01 1625166656 
-categories: reddit 
---- 
-https://redd.it/obsut0
