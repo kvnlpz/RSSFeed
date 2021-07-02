@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-01 15:20:04 
-categories: twitter 
---- 
-@Araaa007 Concepts applicable to both.
