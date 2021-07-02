@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can't understand 
-date: 2021-07-01 1625149159 
-categories: reddit 
---- 
-https://redd.it/obmt1a
