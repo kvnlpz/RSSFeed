@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Unbiased Post 
-date: 2021-07-01 1625197773 
-categories: reddit 
---- 
-https://redd.it/oc25nl
