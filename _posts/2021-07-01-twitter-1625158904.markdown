@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradeRunnr 
-date: 2021-07-01 10:01:44 
-categories: twitter 
---- 
-@alphatrends DeFi = #1 leader in exit scams
