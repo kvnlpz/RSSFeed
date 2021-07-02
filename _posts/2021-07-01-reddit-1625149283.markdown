@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's Up With CLSN? 
-date: 2021-07-01 1625149283 
-categories: reddit 
---- 
-https://redd.it/obmuj3
