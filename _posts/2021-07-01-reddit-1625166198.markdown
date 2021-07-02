@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help I am new 
-date: 2021-07-01 1625166198 
-categories: reddit 
---- 
-https://redd.it/obsoye
