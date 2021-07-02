@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question about Coinbase ACH transfers being rejected by the bank -- hoping someone here might know 
+date: 2021-07-02 1625229531 
+categories: reddit 
+--- 
+https://redd.it/oc9851
