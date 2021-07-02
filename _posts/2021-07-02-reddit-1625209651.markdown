@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tipping BAT on reddit? 
-date: 2021-07-02 1625209651 
-categories: reddit 
---- 
-https://redd.it/oc4wao
