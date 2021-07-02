@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Network Status Update Thursday, July 01, 2021 
-date: 2021-07-01 1625155900 
-categories: reddit 
---- 
-https://redd.it/obp2t6
