@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Nakamoto Consensus is finally scalable, There is now no reason for any PoS smart contract platform to exist. 
+date: 2021-07-02 1625225106 
+categories: reddit 
+--- 
+https://redd.it/oc833r
