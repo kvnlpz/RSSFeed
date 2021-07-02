@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tdya888 
-date: 2021-07-01 21:42:47 
-categories: twitter 
---- 
-@InvestorsLive So whats the game plan for tmr :)
