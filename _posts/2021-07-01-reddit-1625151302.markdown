@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I analyzed last 15 years of news articles to see how many times Michael Burry predicted a crash and how many times he turned out to be right! Here are the results. 
-date: 2021-07-01 1625151302 
-categories: reddit 
---- 
-https://redd.it/obnigo
