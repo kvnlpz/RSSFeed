@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $ATOM in exodus wallet 
-date: 2021-07-02 1625210015 
-categories: reddit 
---- 
-https://redd.it/oc4z4h
