@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EY (Big 4 Accounting firm) contributes a zero-knowledge proof layer 2 protocol into the public domain to help address increasing transaction costs on Ethereum blockchain 
+date: 2021-07-02 1625265746 
+categories: reddit 
+--- 
+https://redd.it/ocld4m
