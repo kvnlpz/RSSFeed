@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Amc 
-date: 2021-07-01 1625166540 
-categories: reddit 
---- 
-https://redd.it/obsthh
