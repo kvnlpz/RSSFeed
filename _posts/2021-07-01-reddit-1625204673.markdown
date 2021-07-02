@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I use Ledger Nano X with an existing wallet on my phone using Yoroi? 
-date: 2021-07-01 1625204673 
-categories: reddit 
---- 
-https://redd.it/oc3te0
