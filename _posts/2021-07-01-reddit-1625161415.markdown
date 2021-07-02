@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Robinhood files S-1, to trade under ticker symbol HOOD 
-date: 2021-07-01 1625161415 
-categories: reddit 
---- 
-https://redd.it/obr121
