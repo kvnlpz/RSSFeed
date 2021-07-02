@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Announcing the Bitcoin Tab (not satire) 
-date: 2021-07-01 1625171471 
-categories: reddit 
---- 
-https://redd.it/obuie5
