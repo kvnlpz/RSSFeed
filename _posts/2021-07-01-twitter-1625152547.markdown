@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TFallibilist 
-date: 2021-07-01 08:15:47 
-categories: twitter 
---- 
-@nope_its_lily But Lily, th-this should mean... https://t.co/iqYERuc1nA
