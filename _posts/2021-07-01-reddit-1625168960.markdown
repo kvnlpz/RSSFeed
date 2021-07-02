@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shout to the world 
-date: 2021-07-01 1625168960 
-categories: reddit 
---- 
-https://redd.it/obtnek
