@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-01 05:57:28 
-categories: twitter 
---- 
-@jchoi555 @TLPrivate_ Thanks John!
