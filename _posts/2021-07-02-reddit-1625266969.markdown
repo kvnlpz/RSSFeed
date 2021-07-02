@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: My Google sheet for following prices of crypto on kraken 
+date: 2021-07-02 1625266969 
+categories: reddit 
+--- 
+https://redd.it/oclrf8
