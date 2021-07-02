@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC core wallet ( backed up .dat file ) on Google Drive? 
-date: 2021-07-01 1625192923 
-categories: reddit 
---- 
-https://redd.it/oc0vv2
