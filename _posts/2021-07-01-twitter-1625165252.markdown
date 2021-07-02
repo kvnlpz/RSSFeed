@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlphaDigital10 
-date: 2021-07-01 11:47:32 
-categories: twitter 
---- 
-@nope_its_lily Fade it back to 420.69
