@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Infographic by ChangeHero 
-date: 2021-07-01 1625154816 
-categories: reddit 
---- 
-https://redd.it/obop2i
