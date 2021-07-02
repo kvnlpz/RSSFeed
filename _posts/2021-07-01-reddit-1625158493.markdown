@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: WTF Just Happened? $STAF 
-date: 2021-07-01 1625158493 
-categories: reddit 
---- 
-https://redd.it/obpzos
