@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A lot of people are saying that a hardware wallet is by far the safest option to hold crypto. Would a software wallet in a Linux VM be a worthwhile alternative? 
+date: 2021-07-02 1625253301 
+categories: reddit 
+--- 
+https://redd.it/och4nt
