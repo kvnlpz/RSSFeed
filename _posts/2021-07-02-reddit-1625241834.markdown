@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Kalata Integrates Chainlink Price Feeds to Power Synthetic Asset Trading 
+date: 2021-07-02 1625241834 
+categories: reddit 
+--- 
+https://redd.it/ocbvry
