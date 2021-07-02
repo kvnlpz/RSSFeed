@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Unconfirmed transaction after 5 hours 
-date: 2021-07-01 1625150517 
-categories: reddit 
---- 
-https://redd.it/obn97y
