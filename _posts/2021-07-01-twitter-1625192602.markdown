@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-01 19:23:22 
+categories: twitter 
+--- 
+@trader_donkey @TrendSpider I have no idea what you mean..
