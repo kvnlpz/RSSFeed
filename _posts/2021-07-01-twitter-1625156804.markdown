@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VolCurve 
-date: 2021-07-01 09:26:44 
-categories: twitter 
---- 
-@nope_its_lily Congratulations on your wild success.
