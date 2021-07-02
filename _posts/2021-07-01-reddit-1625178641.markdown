@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Occam.fi Partners with Stasis to launch Cardano’s first Euro Stablecoin 
-date: 2021-07-01 1625178641 
-categories: reddit 
---- 
-https://redd.it/obww2l
