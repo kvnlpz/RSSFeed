@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: bountyblok Receives Grant from the Tezos Foundation to Provide Gamification Tools for its Blockchain 
-date: 2021-07-01 1625199947 
-categories: reddit 
---- 
-https://redd.it/oc2p7x
