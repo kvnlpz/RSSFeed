@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which coin do you think might be the best suited as a currency? 
-date: 2021-07-01 1625179950 
-categories: reddit 
---- 
-https://redd.it/obxarv
