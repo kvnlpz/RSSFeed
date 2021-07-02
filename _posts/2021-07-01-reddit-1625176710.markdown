@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Using multiple hard/soft wallets - seeking clarification 
-date: 2021-07-01 1625176710 
-categories: reddit 
---- 
-https://redd.it/obwa0p
