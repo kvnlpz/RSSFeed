@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is good right?? 
-date: 2021-07-01 1625173115 
-categories: reddit 
---- 
-https://redd.it/obv2td
