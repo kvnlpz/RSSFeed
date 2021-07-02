@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ... I can finally power up 1 antminer. 
-date: 2021-07-01 1625170860 
-categories: reddit 
---- 
-https://redd.it/obuava
