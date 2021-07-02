@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For anyone who didn’t know (like me) Cold Wallet vs Hot Wallet 
-date: 2021-07-01 1625174486 
-categories: reddit 
---- 
-https://redd.it/obu1yu
