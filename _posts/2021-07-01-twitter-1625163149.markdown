@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-01 11:12:29 
-categories: twitter 
---- 
-AEMD $8 PT
