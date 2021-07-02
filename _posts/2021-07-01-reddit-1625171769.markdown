@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "Read the Whitepaper" they said, "All will be OK" they said 
-date: 2021-07-01 1625171769 
-categories: reddit 
---- 
-https://redd.it/obulso
