@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cake Wallet's Forced Re-sync Feature, I Mean Bug, Needs to Finally Be Resolved 
+date: 2021-07-01 1625205109 
+categories: reddit 
+--- 
+https://redd.it/obm665
