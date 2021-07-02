@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happened after-hours today at 4:45? 
-date: 2021-07-01 1625195473 
-categories: reddit 
---- 
-https://redd.it/oc1kgo
