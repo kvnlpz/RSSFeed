@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ergo: A Unique Blockchain-based Open Protocol Implementing Modern Scientific Ideas 
-date: 2021-07-01 1625161170 
-categories: reddit 
---- 
-https://redd.it/obqxrs
