@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-01 07:43:49 
-categories: twitter 
---- 
-$CCIV fresh lows
