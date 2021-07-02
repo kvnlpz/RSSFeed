@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there an option to export all transactions etc. on kraken? 
-date: 2021-07-01 1625163431 
-categories: reddit 
---- 
-https://redd.it/obrqhb
