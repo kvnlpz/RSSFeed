@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: connecting ledger wallet with metamask 
+date: 2021-07-02 1625248354 
+categories: reddit 
+--- 
+https://redd.it/ocfd8j
