@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is old, and quite technical... but I really enjoyed it. 
-date: 2021-07-01 1625159404 
-categories: reddit 
---- 
-https://redd.it/obqbf5
