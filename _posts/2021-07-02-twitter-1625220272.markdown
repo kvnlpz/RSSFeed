@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @NeuroNash 
+date: 2021-07-02 03:04:32 
+categories: twitter 
+--- 
+@nope_its_lily “Just wait one more candle, it’ll come back into the boat…”
