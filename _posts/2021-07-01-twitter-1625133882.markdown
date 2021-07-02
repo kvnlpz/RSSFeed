@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MernWallace 
-date: 2021-07-01 03:04:42 
-categories: twitter 
---- 
-@OddStockTrader If you are high and under the age of 30, go with Wendy's. Fries in the frosty's!
