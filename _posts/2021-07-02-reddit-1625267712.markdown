@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EY releases code for zero-knowledge Layer 2 protocol built on Ethereum 
+date: 2021-07-02 1625267712 
+categories: reddit 
+--- 
+https://redd.it/oclzrk
