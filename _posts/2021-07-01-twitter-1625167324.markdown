@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @holdmytexan 
-date: 2021-07-01 12:22:04 
-categories: twitter 
---- 
-RT @super_trades: $VRAR patents in VR/AR https://t.co/KeDXawiY68
