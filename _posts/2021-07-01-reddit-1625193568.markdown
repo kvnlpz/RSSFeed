@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Newbie 
-date: 2021-07-01 1625193568 
-categories: reddit 
---- 
-https://redd.it/oc11zf
