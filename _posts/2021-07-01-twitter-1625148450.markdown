@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-01 07:07:30 
-categories: twitter 
---- 
-https://t.co/WKCAT0rTCe One more ry, risky here
