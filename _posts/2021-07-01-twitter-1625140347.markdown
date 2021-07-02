@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sterlingpurdy 
-date: 2021-07-01 04:52:27 
-categories: twitter 
---- 
-@InvestorsLive Coffee table art
