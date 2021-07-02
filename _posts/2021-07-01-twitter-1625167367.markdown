@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MigoBtcs 
-date: 2021-07-01 12:22:47 
-categories: twitter 
---- 
-@goodetrades What was the effictuve dates i got lost on that
