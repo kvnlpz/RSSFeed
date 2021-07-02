@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum 2.0 To Reach 6 Million Staked ETH Milestone 
-date: 2021-07-01 1625161657 
-categories: reddit 
---- 
-https://redd.it/obr3zm
