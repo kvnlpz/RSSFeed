@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LogikalReazon 
-date: 2021-07-01 18:11:29 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/6IFflrT5RG
