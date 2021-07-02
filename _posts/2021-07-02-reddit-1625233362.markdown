@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Looking for more ideas! A friend and i made these lights that change colors based on a Bitcoin's price, and we're trying to come up with more clever things we could do with the lights. Something like a strobe effect when certain things happen... thoughts? 
+date: 2021-07-02 1625233362 
+categories: reddit 
+--- 
+https://redd.it/ocacg3
