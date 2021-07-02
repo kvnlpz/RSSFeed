@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What can an Oracle Network with a token (Link) do that cannot be done by an Oracle Network that doesn't have its own token 
-date: 2021-07-01 1625166512 
-categories: reddit 
---- 
-https://redd.it/obst1k
