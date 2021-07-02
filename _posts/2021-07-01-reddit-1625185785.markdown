@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fake Coinbase text? I did not have a new login but I was sent this text. There is a period under the “a” which makes me think it’s fake. Anyone had this before? 
-date: 2021-07-01 1625185785 
-categories: reddit 
---- 
-https://redd.it/obyzr4
