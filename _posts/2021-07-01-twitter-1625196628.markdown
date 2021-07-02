@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SyedReez 
-date: 2021-07-01 20:30:28 
-categories: twitter 
---- 
-RT @alphatrends: If your stocks are going up, raise the stops under "the most recent, relevant higher low" for your timeframe.
-
-You will ne…
