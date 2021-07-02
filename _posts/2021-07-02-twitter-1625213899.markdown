@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @midnitecoder 
+date: 2021-07-02 01:18:19 
+categories: twitter 
+--- 
+@InvestorsLive Good call, just closing some futures trades myself anyways.
