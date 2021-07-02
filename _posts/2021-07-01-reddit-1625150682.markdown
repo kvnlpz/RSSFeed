@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For the first time, Ethereum surpassed Bitcoin in terms of this metric 
-date: 2021-07-01 1625150682 
-categories: reddit 
---- 
-https://redd.it/obnb81
