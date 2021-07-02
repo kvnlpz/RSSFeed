@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Post Quality on Front Page 
-date: 2021-07-01 1625201243 
-categories: reddit 
---- 
-https://redd.it/oc30pu
