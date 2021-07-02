@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The fungibility of Bitcoin — Long Term 
-date: 2021-07-02 1625224685 
-categories: reddit 
---- 
-https://redd.it/oc7zgu
