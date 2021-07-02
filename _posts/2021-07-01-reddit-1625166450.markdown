@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Accidentally had Bitcoin sent to the non standard receipt adress. Does not show up. HELP!!! 
-date: 2021-07-01 1625166450 
-categories: reddit 
---- 
-https://redd.it/obss8c
