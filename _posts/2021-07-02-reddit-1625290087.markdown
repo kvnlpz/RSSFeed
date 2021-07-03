@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hello everybody! 
-date: 2021-07-02 1625290087 
-categories: reddit 
---- 
-https://redd.it/ocrscw
