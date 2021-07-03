@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Security Awareness Best Practices 
-date: 2021-07-03 1625296775 
-categories: reddit 
---- 
-https://redd.it/oct7n7
