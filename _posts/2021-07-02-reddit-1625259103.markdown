@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Issue with IdealCoinEx, now called NewEraEx 
-date: 2021-07-02 1625259103 
-categories: reddit 
---- 
-https://redd.it/ocj5ue
