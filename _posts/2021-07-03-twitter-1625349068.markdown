@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-03 14:51:08 
+categories: twitter 
+--- 
+@RichardMoglen thanks Richard
