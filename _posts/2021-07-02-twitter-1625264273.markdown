@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MightySoldiers 
-date: 2021-07-02 15:17:53 
-categories: twitter 
---- 
-RT @alphatrends: here are a few of the people who inspire me to work harder to continually hone my craft (seems foolish if you don't follow…
