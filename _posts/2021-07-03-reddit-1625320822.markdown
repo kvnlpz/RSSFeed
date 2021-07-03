@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Idea: Egress Bandwidth Marketplace Built on Lightning Network 
+date: 2021-07-03 1625320822 
+categories: reddit 
+--- 
+https://redd.it/ocyl7v
