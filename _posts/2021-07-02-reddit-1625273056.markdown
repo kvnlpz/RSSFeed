@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Portfolio 
-date: 2021-07-02 1625273056 
-categories: reddit 
---- 
-https://redd.it/ocnikf
