@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @LL_COOL_JS 
+date: 2021-07-03 12:25:47 
+categories: twitter 
+--- 
+RT @timothysykes: @StocksToTrade YESSSSSS, MISTAKES AND FAILURES ARE THE BEST TEACHERS!
