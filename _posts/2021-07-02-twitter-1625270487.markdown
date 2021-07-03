@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-02 17:01:27 
-categories: twitter 
---- 
-@RoyalewChee Just because you don't get it doesn't mean you have to tweet random things that don't make sense.
