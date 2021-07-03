@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ETH2 broken: every design decisions carries absolutely irresolvable centralizing forces. Think staking is bad enough already? The underbelly of MEV is absolutely monstrous. 
+date: 2021-07-03 1625310482 
+categories: reddit 
+--- 
+https://redd.it/ocw0gy
