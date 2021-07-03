@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: About all the recent moon posts 
-date: 2021-07-02 1625259278 
-categories: reddit 
---- 
-https://redd.it/ocj7we
