@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Probably nothing 
-date: 2021-07-02 1625243917 
-categories: reddit 
---- 
-https://redd.it/ocdvjz
