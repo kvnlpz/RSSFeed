@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cryp_toFinally_ 
-date: 2021-07-02 23:25:19 
-categories: twitter 
---- 
-RT @InvestorsLive: Don't change what's working just because of a loss. https://t.co/MVGNHDAicI
