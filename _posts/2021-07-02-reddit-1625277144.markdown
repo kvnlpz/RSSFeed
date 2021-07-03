@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Reminder: KEEP GOOD TRACK of your wallet's seed phrase (AKA private key) 
+date: 2021-07-02 1625277144 
+categories: reddit 
+--- 
+https://redd.it/ocokrp
