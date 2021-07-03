@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-07-02 14:07:40 
-categories: twitter 
---- 
-RT @InvestorsLive: $AMC what a scary daily https://t.co/pPBfnUMZPY
