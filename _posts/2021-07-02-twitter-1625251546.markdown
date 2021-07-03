@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thorswhu 
-date: 2021-07-02 11:45:46 
-categories: twitter 
---- 
-@super_trades No problem.
