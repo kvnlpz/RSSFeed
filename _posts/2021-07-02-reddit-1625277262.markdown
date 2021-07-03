@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help me understand some technical details behind staking. 
-date: 2021-07-02 1625277262 
-categories: reddit 
---- 
-https://redd.it/ocolut
