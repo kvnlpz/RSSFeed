@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @refgardentool 
-date: 2021-07-02 20:30:50 
-categories: twitter 
---- 
-RT @InvestorsLive: How to Overcome Large Losses 😮 https://t.co/XS24cDMdgV
