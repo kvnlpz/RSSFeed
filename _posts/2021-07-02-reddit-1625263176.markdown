@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Beware “Auditing” Services for new and low market cap tokens. Hacken, Certik, Haechi Audit. All have confirmed they do not monitor changes to uploaded code!!! 
-date: 2021-07-02 1625263176 
-categories: reddit 
---- 
-https://redd.it/ockitw
