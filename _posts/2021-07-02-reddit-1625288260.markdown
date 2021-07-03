@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin white paper states that it is better for the attacker who has assembled more than half of the computing power to play by the rules of the system than undermining it. It says that mining rewards has to be greater than than stealing payments. Why So? 
+date: 2021-07-02 1625288260 
+categories: reddit 
+--- 
+https://redd.it/ocrdgw
