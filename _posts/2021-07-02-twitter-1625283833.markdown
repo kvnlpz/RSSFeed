@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Matthew59102495 
-date: 2021-07-02 20:43:53 
-categories: twitter 
---- 
-@timothysykes Promise
