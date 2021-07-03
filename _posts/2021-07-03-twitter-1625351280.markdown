@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mills8081 
+date: 2021-07-03 15:28:00 
+categories: twitter 
+--- 
+@CitronResearch Oh, is it at $20 yet?
