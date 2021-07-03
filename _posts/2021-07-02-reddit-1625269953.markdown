@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mining Difficulty vs Price 
-date: 2021-07-02 1625269953 
-categories: reddit 
---- 
-https://redd.it/ocmnjx
