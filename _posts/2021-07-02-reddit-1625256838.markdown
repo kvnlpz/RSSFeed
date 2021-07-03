@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: US Stocks: how/when they get listed in EU stock exchanges? 
-date: 2021-07-02 1625256838 
-categories: reddit 
---- 
-https://redd.it/ocie6b
