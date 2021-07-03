@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Will MEV issue become a problem for blockchain defi adoption? 
+date: 2021-07-02 1625273720 
+categories: reddit 
+--- 
+https://redd.it/ocnot0
