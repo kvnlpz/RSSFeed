@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Who are your favorite wallstreetbetters? 
-date: 2021-07-02 1625258949 
-categories: reddit 
---- 
-https://redd.it/ocj40x
