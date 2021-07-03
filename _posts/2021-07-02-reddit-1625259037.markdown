@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: mircea_popescu: technically bitcoin you can't take to grave either, the passive result of dead keys is a slight increase in the value of circulating bitcoin. 
-date: 2021-07-02 1625259037 
-categories: reddit 
---- 
-https://redd.it/ocj53r
