@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Kyber DMM has been integrated with 0x API on Polygon! 0x API and DEX aggregators like Matcha and 1inch are already sourcing liquidity from the Kyber DMM protocol for the best rates on certain pairs. More volume = more fees for liquidity providers and KNC voters on KyberDAO💪 
-date: 2021-07-03 1625297889 
-categories: reddit 
---- 
-https://redd.it/octfpj
