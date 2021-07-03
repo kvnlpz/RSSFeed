@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Putting it out there 
-date: 2021-07-02 1625261665 
-categories: reddit 
---- 
-https://redd.it/ock0wx
