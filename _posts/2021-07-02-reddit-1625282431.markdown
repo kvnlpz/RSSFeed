@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Latest Week in Ethereum News! EIP1559 closer with London upgrade of Goerli testnet, Twitter created 140 NFTs on Ethereum, EY Nightfall 3: optimistic rollup with zk private transfers 
+date: 2021-07-02 1625282431 
+categories: reddit 
+--- 
+https://redd.it/ocpy42
