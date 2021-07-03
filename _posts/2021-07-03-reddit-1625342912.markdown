@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A sentiment based strategy in the volatile premarket. 
+date: 2021-07-03 1625342912 
+categories: reddit 
+--- 
+https://redd.it/od5ctt
