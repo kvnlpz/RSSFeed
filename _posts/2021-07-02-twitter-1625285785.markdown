@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_krupins 
-date: 2021-07-02 21:16:25 
-categories: twitter 
---- 
-RT @TheChartReport: Check out today's Daily Chart Report!
-
-https://t.co/L74yK43COr
