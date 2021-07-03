@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is RH broken right now? 
-date: 2021-07-02 1625271087 
-categories: reddit 
---- 
-https://redd.it/ocmz7k
