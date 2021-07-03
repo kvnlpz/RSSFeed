@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: DCA automation w/ cheapest round trip fee 
+date: 2021-07-03 1625328547 
+categories: reddit 
+--- 
+https://redd.it/od0xxk
