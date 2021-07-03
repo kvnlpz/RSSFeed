@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jmachado125 
-date: 2021-07-02 11:47:00 
-categories: twitter 
---- 
-@super_trades What you thinking price target wise?
