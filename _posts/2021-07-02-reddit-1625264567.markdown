@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Jameson Lopp is a fan of Monero because is more user friendly than Bitcoin for privacy 
-date: 2021-07-02 1625264567 
-categories: reddit 
---- 
-https://redd.it/ockz8b
