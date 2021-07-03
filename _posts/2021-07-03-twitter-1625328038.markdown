@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @raidmae 
+date: 2021-07-03 09:00:38 
+categories: twitter 
+--- 
+@nope_its_lily This is very personal.
