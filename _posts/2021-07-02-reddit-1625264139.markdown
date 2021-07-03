@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Covered calls 101 cuz I’m an idiot 
-date: 2021-07-02 1625264139 
-categories: reddit 
---- 
-https://redd.it/ockuby
