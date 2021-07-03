@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Adoption Map - Watch the world adopt Bitcoin one country at a time! 
-date: 2021-07-02 1625281635 
-categories: reddit 
---- 
-https://redd.it/ocpqoa
