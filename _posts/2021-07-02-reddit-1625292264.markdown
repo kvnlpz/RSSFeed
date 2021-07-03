@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Zcash performance on iPhone 
-date: 2021-07-02 1625292264 
-categories: reddit 
---- 
-https://redd.it/ocs9lz
