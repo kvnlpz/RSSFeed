@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trying to Build Small Account With Options. 
-date: 2021-07-02 1625292399 
-categories: reddit 
---- 
-https://redd.it/ocsakr
