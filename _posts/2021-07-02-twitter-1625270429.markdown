@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CandiceCardon 
-date: 2021-07-02 17:00:29 
-categories: twitter 
---- 
-@timothysykes I really needed to hear this right now/ thanks!
