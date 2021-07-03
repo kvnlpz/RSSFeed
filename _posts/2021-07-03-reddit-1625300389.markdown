@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 600,000 ETH Transfer from Binance to Private Wallet Appears Legit and NOT an internal Binance transfer. Glass node data supports a negative 1.5B net flow of ETH yesterday. ETH is now officially at an ATL on exchanges not seen since 2018 
-date: 2021-07-03 1625300389 
-categories: reddit 
---- 
-https://redd.it/octxu2
