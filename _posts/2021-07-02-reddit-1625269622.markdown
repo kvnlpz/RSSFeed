@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You can earn 2-10% APY lending USDC/Tether/DAI on Compound 
-date: 2021-07-02 1625269622 
-categories: reddit 
---- 
-https://redd.it/ocmk8g
