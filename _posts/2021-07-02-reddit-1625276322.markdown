@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: “Cardano ecosystem have recognized the problem and are currently racing towards a solution to the problem of concurrency” - thoughts? 
+date: 2021-07-02 1625276322 
+categories: reddit 
+--- 
+https://redd.it/ocod57
