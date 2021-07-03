@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Scalability roadmap cheat sheet (July 2021 update) 
-date: 2021-07-02 1625255169 
-categories: reddit 
---- 
-https://redd.it/ochsq3
