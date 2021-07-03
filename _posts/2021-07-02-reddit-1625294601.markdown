@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The largest difficulty adjustment in Bitcoin history has just been made with a 27.94% decrease in difficulty 
-date: 2021-07-02 1625294601 
-categories: reddit 
---- 
-https://redd.it/ocsrgv
