@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Deposit Only Coin 
-date: 2021-07-02 1625256211 
-categories: reddit 
---- 
-https://redd.it/oci69f
