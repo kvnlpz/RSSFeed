@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What keeps the whales from manipulating the BTC market forever? 
-date: 2021-07-02 1625260034 
-categories: reddit 
---- 
-https://redd.it/ocjh6m
