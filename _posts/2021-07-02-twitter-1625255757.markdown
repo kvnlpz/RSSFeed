@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @olywealth1 
-date: 2021-07-02 12:55:57 
-categories: twitter 
---- 
-@G_krupins @stunnamanstan
