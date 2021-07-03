@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Don't freak out when inevitable halts start rolling in! 
-date: 2021-07-02 1625272611 
-categories: reddit 
---- 
-https://redd.it/ocne9e
