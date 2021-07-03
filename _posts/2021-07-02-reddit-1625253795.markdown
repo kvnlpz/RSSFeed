@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Those keeping funds in Tether (USDT) should learn about Liberty Reserve: It was a similar operation that flouted ALM laws and allowed anyone to operate without any regulation. USA DoJ eventually shut this down and everyone lost their funds. 
-date: 2021-07-02 1625253795 
-categories: reddit 
---- 
-https://redd.it/ochb4c
