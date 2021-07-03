@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Supply Chain Attacks 
-date: 2021-07-02 1625285595 
-categories: reddit 
---- 
-https://redd.it/ocqqwf
