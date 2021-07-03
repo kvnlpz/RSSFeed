@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Asset tracker IP location using exchange API 
+date: 2021-07-03 1625344635 
+categories: reddit 
+--- 
+https://redd.it/od5v2g
