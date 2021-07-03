@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin is so boring now I can hardly stand it. 
-date: 2021-07-02 1625255374 
-categories: reddit 
---- 
-https://redd.it/ochves
