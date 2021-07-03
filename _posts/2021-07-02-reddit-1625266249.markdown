@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How long to get ONE confirnation on a transaction? 
-date: 2021-07-02 1625266249 
-categories: reddit 
---- 
-https://redd.it/ocliuw
