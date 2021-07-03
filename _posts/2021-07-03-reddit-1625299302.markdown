@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Something I’ve learned in my few months browsing this sub 
-date: 2021-07-03 1625299302 
-categories: reddit 
---- 
-https://redd.it/octpq4
