@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StopLossQuickly 
-date: 2021-07-02 20:44:34 
-categories: twitter 
---- 
-@timothysykes So sad.
