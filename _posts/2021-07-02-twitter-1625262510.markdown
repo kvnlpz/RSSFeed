@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Vaderstockpicks 
-date: 2021-07-02 14:48:30 
-categories: twitter 
---- 
-@InvestorsLive @aht_rob @CEOAdam Called drop at $6.50
