@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-02 11:49:13 
-categories: twitter 
---- 
-RT @tradeviewspy: $THCB ...... https://t.co/W76gw27QTQ
