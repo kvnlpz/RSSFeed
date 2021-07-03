@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Funky Call Pricing in the Options Chain? 
-date: 2021-07-02 1625287718 
-categories: reddit 
---- 
-https://redd.it/ocr8vg
