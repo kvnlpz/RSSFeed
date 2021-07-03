@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The number of active Ethereum addresses surpassed active Bitcoin addresses of the second time this year 
-date: 2021-07-02 1625260209 
-categories: reddit 
---- 
-https://redd.it/ocjj80
