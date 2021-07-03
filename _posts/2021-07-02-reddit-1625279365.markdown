@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Kraze, the new Bitcoin? 
-date: 2021-07-02 1625279365 
-categories: reddit 
---- 
-https://redd.it/ocp5zw
