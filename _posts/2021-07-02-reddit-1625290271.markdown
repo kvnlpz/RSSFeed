@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin or ETH? 
-date: 2021-07-02 1625290271 
-categories: reddit 
---- 
-https://redd.it/ocrtto
