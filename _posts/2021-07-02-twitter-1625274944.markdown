@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RideSouthern 
-date: 2021-07-02 18:15:44 
-categories: twitter 
---- 
-@timothysykes There’s a hurricane coming up that way now. What a nasty mess it’ll be.
