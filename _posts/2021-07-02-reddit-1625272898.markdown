@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DEXs like Pancakeswap or Uniswap earn money from taxing users exchanging tokens, but what do they get from users staking tokens or using things like "syrup pools" or yield farming, what value are these providing to justify the rewards that are being handed out? 
-date: 2021-07-02 1625272898 
-categories: reddit 
---- 
-https://redd.it/ocngzl
