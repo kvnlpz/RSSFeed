@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Wes_Trades_ 
-date: 2021-07-02 11:47:50 
-categories: twitter 
---- 
-@InvestorsLive Following $BTX to a tee
