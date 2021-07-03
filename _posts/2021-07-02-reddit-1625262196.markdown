@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking for a recommendation for software wallet with most number of coin support 
-date: 2021-07-02 1625262196 
-categories: reddit 
---- 
-https://redd.it/ock7a4
