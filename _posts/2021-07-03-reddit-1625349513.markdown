@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question- is there a way to find out what % of wallets comprise of what % of coins? 
+date: 2021-07-03 1625349513 
+categories: reddit 
+--- 
+https://redd.it/od79un
