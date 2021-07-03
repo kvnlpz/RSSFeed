@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Greyscale adds Cardano! 
-date: 2021-07-02 1625260394 
-categories: reddit 
---- 
-https://redd.it/ocjlif
