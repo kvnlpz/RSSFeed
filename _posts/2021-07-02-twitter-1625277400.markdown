@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DeadbeatMMA 
-date: 2021-07-02 18:56:40 
-categories: twitter 
---- 
-@timothysykes how many retweets is it gonna take to get the fire under control?
