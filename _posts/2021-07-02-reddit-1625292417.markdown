@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Having trouble staking ADA on a ledger nano s 
-date: 2021-07-02 1625292417 
-categories: reddit 
---- 
-https://redd.it/ocsaog
