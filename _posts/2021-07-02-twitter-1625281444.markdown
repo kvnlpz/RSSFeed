@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AllisonReichel 
-date: 2021-07-02 20:04:04 
-categories: twitter 
---- 
-@nope_its_lily @CopiummT @inversebrah I simply pointed out that he is a child
