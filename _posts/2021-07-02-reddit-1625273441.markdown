@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking price versus current 
-date: 2021-07-02 1625273441 
-categories: reddit 
---- 
-https://redd.it/ocnm53
