@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin mining difficulty just fell by a record 28% — But will this help BTC price recover? 
-date: 2021-07-03 1625296404 
-categories: reddit 
---- 
-https://redd.it/oct4w7
