@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Am i doing it well? 
-date: 2021-07-02 1625262113 
-categories: reddit 
---- 
-https://redd.it/ock6bk
