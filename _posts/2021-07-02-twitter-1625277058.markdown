@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IeangirI 
-date: 2021-07-02 18:50:58 
-categories: twitter 
---- 
-@timothysykes @di3n4sty
