@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: 🍯I have made a tool to check honeypot tokens! 🍯 
+date: 2021-07-03 1625296853 
+categories: reddit 
+--- 
+https://redd.it/oct8az
