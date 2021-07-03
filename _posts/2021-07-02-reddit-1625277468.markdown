@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: YTD theta returns 
-date: 2021-07-02 1625277468 
-categories: reddit 
---- 
-https://redd.it/oconq0
