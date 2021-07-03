@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Study: “we disprove the hypothesis that cryptocurrency investors are motivated by distrust in fiat currencies or regulated finance.” 
-date: 2021-07-02 1625271327 
-categories: reddit 
---- 
-https://redd.it/ocn1jz
