@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ladies and gentlemen, Ada Lovelace! 
-date: 2021-07-02 1625288960 
-categories: reddit 
---- 
-https://redd.it/ocrj7r
