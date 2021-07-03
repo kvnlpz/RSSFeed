@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: With all the miners disappearing Could The massive hash rate drop lead to a 51% attack on the network ? Any clarifications are more than welcome. 
+date: 2021-07-03 1625354140 
+categories: reddit 
+--- 
+https://redd.it/od8kf5
