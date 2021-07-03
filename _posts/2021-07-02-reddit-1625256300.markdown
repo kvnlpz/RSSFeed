@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Long Weekend 
-date: 2021-07-02 1625256300 
-categories: reddit 
---- 
-https://redd.it/oci7dg
