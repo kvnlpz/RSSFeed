@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nio Yolo 
-date: 2021-07-02 1625280150 
-categories: reddit 
---- 
-https://redd.it/ocpdd1
