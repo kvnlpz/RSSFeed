@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: M is for Monero 
-date: 2021-07-02 1625275921 
-categories: reddit 
---- 
-https://redd.it/oco9mb
