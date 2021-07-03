@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: does an OTM call debit spread incur less theta than a long call? 
-date: 2021-07-02 1625251858 
-categories: reddit 
---- 
-https://redd.it/ocgm69
