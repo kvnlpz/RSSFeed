@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Blocks Will Soon Be 27% Easier to Find — Miners Brace for the Largest Difficulty Drop in BTC's Lifetime – Mining Bitcoin News 
-date: 2021-07-02 1625286683 
-categories: reddit 
---- 
-https://redd.it/ocr06w
