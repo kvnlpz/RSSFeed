@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Halving of coins? I’m kind of confused what does it mean? 
-date: 2021-07-02 1625255292 
-categories: reddit 
---- 
-https://redd.it/ochua6
