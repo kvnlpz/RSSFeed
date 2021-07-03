@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SBI, Hamamatsu Iwata Bank to Use RippleNet for Remittance 
-date: 2021-07-02 1625275483 
-categories: reddit 
---- 
-https://redd.it/oco5kv
