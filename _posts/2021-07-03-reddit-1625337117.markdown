@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Some pattern in an exponential Bitcoin price model 
+date: 2021-07-03 1625337117 
+categories: reddit 
+--- 
+https://redd.it/od3lva
