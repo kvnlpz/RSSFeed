@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How long will an ASIC miner "last" - stay profitable? 
-date: 2021-07-02 1625263693 
-categories: reddit 
---- 
-https://redd.it/ockp05
