@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrewMex 
-date: 2021-07-02 18:50:48 
-categories: twitter 
---- 
-@timothysykes Lol
