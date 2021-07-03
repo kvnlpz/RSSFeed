@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Money still in portfolio on coinbase after moving it into wallet 
-date: 2021-07-02 1625276112 
-categories: reddit 
---- 
-https://redd.it/ocobgv
