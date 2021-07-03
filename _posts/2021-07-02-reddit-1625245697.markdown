@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The number of active Ethereum addressed surpassed those of Bitcoin for the second time this year. 
-date: 2021-07-02 1625245697 
-categories: reddit 
---- 
-https://redd.it/ocehld
