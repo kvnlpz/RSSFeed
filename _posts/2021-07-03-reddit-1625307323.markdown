@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Issue sending XTZ using Ledger Live, funds are delegated to XTZMaster. Am I doing something wrong? 
+date: 2021-07-03 1625307323 
+categories: reddit 
+--- 
+https://redd.it/ocvcn5
