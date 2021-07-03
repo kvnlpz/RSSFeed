@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @RayTL_ 
+date: 2021-07-03 07:46:23 
+categories: twitter 
+--- 
+@RichardMoglen Productivity 101: Have 100 chrome tabs open.
