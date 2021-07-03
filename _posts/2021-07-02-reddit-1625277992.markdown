@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: On Saturday, July 3, Bitcoin's network’s mining difficulty will see the largest epoch drop in history as the difficulty is set to slide by more than 27% 
-date: 2021-07-02 1625277992 
-categories: reddit 
---- 
-https://redd.it/ocosw2
