@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vyper smart contracts? 
-date: 2021-07-02 1625262395 
-categories: reddit 
---- 
-https://redd.it/ock9nq
