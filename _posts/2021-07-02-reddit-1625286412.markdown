@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How do you know what code actually runs on any hardware wallet and that it isn't just a rug waiting to be pulled? 
+date: 2021-07-02 1625286412 
+categories: reddit 
+--- 
+https://redd.it/ocqxzg
