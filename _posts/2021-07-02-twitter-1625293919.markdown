@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CadesMutualFund 
-date: 2021-07-02 23:31:59 
-categories: twitter 
---- 
-@timothysykes look at Tim man, so inspirational
