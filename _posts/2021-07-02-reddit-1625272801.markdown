@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looks like a 100x gem. 
-date: 2021-07-02 1625272801 
-categories: reddit 
---- 
-https://redd.it/ocng06
