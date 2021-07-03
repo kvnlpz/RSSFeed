@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @QuantSymplectic 
+date: 2021-07-03 13:41:45 
+categories: twitter 
+--- 
+@nope_its_lily I've used Mathematica for many years but sympy is free! And I might add: it is just as capable for m… https://t.co/1Cd8gBIIJQ
