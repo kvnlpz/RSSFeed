@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Order Book short covering & buy long distinction 
-date: 2021-07-02 1625268753 
-categories: reddit 
---- 
-https://redd.it/ocmb2a
