@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Validators to use on cosmostation 
-date: 2021-07-02 1625263467 
-categories: reddit 
---- 
-https://redd.it/ockmep
