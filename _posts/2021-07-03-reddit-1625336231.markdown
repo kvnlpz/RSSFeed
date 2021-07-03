@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Setting Up and Staking Cardano with a Hardware Wallet | Step-by-step Guide Tutorial 
+date: 2021-07-03 1625336231 
+categories: reddit 
+--- 
+https://redd.it/od3ccs
