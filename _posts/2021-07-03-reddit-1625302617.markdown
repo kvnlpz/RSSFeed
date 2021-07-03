@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain to community what is token burning like we are 5? 
-date: 2021-07-03 1625302617 
-categories: reddit 
---- 
-https://redd.it/ocue63
