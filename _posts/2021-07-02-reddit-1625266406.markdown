@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: transferring blockchain to SD Card 
-date: 2021-07-02 1625266406 
-categories: reddit 
---- 
-https://redd.it/oclkqk
