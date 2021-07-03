@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help: DOT wallet, does it cost 1 DOT to setup. 
-date: 2021-07-02 1625271264 
-categories: reddit 
---- 
-https://redd.it/ocn0xb
