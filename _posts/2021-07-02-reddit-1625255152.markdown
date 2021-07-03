@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DeFi is going to blow up as locked eth2 starts to show up as liquidity tokens 
-date: 2021-07-02 1625255152 
-categories: reddit 
---- 
-https://redd.it/ochshz
