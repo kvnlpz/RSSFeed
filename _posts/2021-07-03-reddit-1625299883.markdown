@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Noob question about mining difficulty and the ‘ol 51% attack. Just need to get my head around it. 
+date: 2021-07-03 1625299883 
+categories: reddit 
+--- 
+https://redd.it/octu6v
