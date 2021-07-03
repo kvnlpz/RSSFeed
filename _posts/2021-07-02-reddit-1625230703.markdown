@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Greyscale are on board! 
-date: 2021-07-02 1625230703 
-categories: reddit 
---- 
-https://redd.it/oc9k2a
