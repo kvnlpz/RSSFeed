@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @championtradr 
-date: 2021-07-02 19:31:35 
-categories: twitter 
---- 
-@alphatrends @AnnieDuke This book was not that great :)
