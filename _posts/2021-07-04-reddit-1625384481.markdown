@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Odysee/LBRY - How would a creator prevent his videos from being stolen off of Odysee and uploaded to YouTube by someone? YouTube algorithm prevents plagiarism, but only on it's own platform. Are there any Odysee creators that ONLY upload to Odysee? 
-date: 2021-07-04 1625384481 
-categories: reddit 
---- 
-https://redd.it/odctp8
