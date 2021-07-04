@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Convergent evolution: how rollups + data shards became the ultimate solution 
+date: 2021-07-04 1625395685 
+categories: reddit 
+--- 
+https://redd.it/odi1k4
