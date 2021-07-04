@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I kinda need one 
-date: 2021-07-03 1625317864 
-categories: reddit 
---- 
-https://redd.it/ocxslz
