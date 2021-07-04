@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Portugal Crypto Tax Report, a resource to help anyone have a clear understanding of how Portugal tax cryptocurrencies 
-date: 2021-07-03 1625339333 
-categories: reddit 
---- 
-https://redd.it/od4a3c
