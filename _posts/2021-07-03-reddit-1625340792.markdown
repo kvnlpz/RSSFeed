@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Another Tilray post 
-date: 2021-07-03 1625340792 
-categories: reddit 
---- 
-https://redd.it/od4qb3
