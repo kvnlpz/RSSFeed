@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What can I do with Bitcoin 
-date: 2021-07-04 1625402719 
-categories: reddit 
---- 
-https://redd.it/odjqra
