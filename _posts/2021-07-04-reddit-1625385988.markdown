@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinCurrently - A requested update 
-date: 2021-07-04 1625385988 
-categories: reddit 
---- 
-https://redd.it/odfzsv
