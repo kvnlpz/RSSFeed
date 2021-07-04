@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The easiest and cheapest way how to handle multiple transactions - send to many (batch payments) 
-date: 2021-07-03 1625320715 
-categories: reddit 
---- 
-https://redd.it/ocyk4s
