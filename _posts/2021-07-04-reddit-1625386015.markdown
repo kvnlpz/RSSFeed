@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I wonder if Tesla will start accepting BTC again soon. 
-date: 2021-07-04 1625386015 
-categories: reddit 
---- 
-https://redd.it/odg003
