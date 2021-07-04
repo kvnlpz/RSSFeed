@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: London fork enters testnet on Ethereum as difficulty bomb sees delay 
-date: 2021-07-03 1625330238 
-categories: reddit 
---- 
-https://redd.it/od1g8i
