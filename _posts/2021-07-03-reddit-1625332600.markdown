@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We are everywhere. 
-date: 2021-07-03 1625332600 
-categories: reddit 
---- 
-https://redd.it/od2770
