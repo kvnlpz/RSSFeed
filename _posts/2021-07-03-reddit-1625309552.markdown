@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I want to transfert my eth from binance to my ledger. To translate : It tells me that my address is invalid and I can't select any withdrawal network. Anyone here who knows how to resolve this or maybe someone who knows the reasons of it ? Appreciate it. 
-date: 2021-07-03 1625309552 
-categories: reddit 
---- 
-https://redd.it/ocvt4w
