@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @profitly 
+date: 2021-07-03 23:01:56 
+categories: twitter 
+--- 
+RT @travyjjones: 180 hours of studying logged thus far, with an additional 5 today! 
+(This doesn’t include Tim’s book or the others recomme…
