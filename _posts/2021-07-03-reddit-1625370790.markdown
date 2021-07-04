@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Coins with "burn" component in every transaction 
+date: 2021-07-03 1625370790 
+categories: reddit 
+--- 
+https://redd.it/odcp5d
