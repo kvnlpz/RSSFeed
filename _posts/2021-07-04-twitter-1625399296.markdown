@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @HaiderNiki 
+date: 2021-07-04 04:48:16 
+categories: twitter 
+--- 
+RT @super_trades: I just made a new trade: https://t.co/5xoApRmYvY
