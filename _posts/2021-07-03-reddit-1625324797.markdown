@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stellar Lumens are awesome, and almost too useful. Great for circumventing fund transfer delays on exchanges. 
-date: 2021-07-03 1625324797 
-categories: reddit 
---- 
-https://redd.it/oczs1l
