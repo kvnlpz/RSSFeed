@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What prevents a decentralized rideshare app that uses Bitcoin for payment? That way they won't be regulated and limited by government 
-date: 2021-07-03 1625337139 
-categories: reddit 
---- 
-https://redd.it/od3m4t
