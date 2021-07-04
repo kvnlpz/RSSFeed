@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Multibit wallet migration 
-date: 2021-07-03 1625363363 
-categories: reddit 
---- 
-https://redd.it/odawjh
