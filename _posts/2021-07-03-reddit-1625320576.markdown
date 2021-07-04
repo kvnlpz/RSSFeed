@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Demo: hardware wallet integration in Bitcoin Core (available in the next release) 
-date: 2021-07-03 1625320576 
-categories: reddit 
---- 
-https://redd.it/ocyirp
