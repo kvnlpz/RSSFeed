@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What really makes a cryptocurrency successful 
-date: 2021-07-04 1625389030 
-categories: reddit 
---- 
-https://redd.it/odglbd
