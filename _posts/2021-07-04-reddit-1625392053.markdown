@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How is the underlying asset affected when buying a tokenised version of it? 
-date: 2021-07-04 1625392053 
-categories: reddit 
---- 
-https://redd.it/odh8rl
