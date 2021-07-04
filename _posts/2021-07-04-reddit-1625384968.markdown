@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Did anyone see this? Surely we can help? 
-date: 2021-07-04 1625384968 
-categories: reddit 
---- 
-https://redd.it/odfsii
