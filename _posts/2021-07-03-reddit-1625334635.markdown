@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Send crypto to cold storage with out pc 
-date: 2021-07-03 1625334635 
-categories: reddit 
---- 
-https://redd.it/od2ugg
