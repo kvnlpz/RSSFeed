@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: 250 BTC of public channel capacity was added to Lightning Network in June. That's the biggest BTC inflow to the Lightning Network since March 2019. Public channel capacity now stands at an all-time high of 1,651 BTC. 
+date: 2021-07-03 1625362024 
+categories: reddit 
+--- 
+https://redd.it/ocyvfb
