@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many coins, and on how much of each, would you consider the minimum amount? 
-date: 2021-07-04 1625391884 
-categories: reddit 
---- 
-https://redd.it/odh7jn
