@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are there monitored performance requirements when running a full Bitcoin core node? 
-date: 2021-07-03 1625338991 
-categories: reddit 
---- 
-https://redd.it/od46e0
