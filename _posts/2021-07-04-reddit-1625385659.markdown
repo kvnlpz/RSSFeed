@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can karma be forced? 
-date: 2021-07-04 1625385659 
-categories: reddit 
---- 
-https://redd.it/odfxlq
