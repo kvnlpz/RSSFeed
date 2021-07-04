@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Not the first time other teams discover that critical pieces of Polygon infrastructure are controlled by a single EOA and the team acts genuinely surprised - that’s not good at all 
-date: 2021-07-04 1625385603 
-categories: reddit 
---- 
-https://redd.it/odfwzs
