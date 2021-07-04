@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin core node error 
-date: 2021-07-03 1625320316 
-categories: reddit 
---- 
-https://redd.it/ocygfd
