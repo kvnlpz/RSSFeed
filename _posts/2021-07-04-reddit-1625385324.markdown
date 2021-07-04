@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there interest in hardware dedicated to blockchain applications for retail? Similar to a crypto ATM or vending machine combined with more features such as the ability to sell virtual/physical goods and gaming for Blockchain users in the US? 
-date: 2021-07-04 1625385324 
-categories: reddit 
---- 
-https://redd.it/odfv1u
