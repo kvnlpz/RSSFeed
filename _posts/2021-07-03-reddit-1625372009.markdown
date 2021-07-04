@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Never! 
-date: 2021-07-03 1625372009 
-categories: reddit 
---- 
-https://redd.it/odczv5
