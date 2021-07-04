@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @menschLife 
+date: 2021-07-04 10:12:45 
+categories: twitter 
+--- 
+@InvestorsLive Just add milk
