@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Some people are a little negative about XLM 
-date: 2021-07-03 1625341681 
-categories: reddit 
---- 
-https://redd.it/od4zph
