@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to calculate CAGR for a portfolio to which you regularly add money? 
-date: 2021-07-03 1625330739 
-categories: reddit 
---- 
-https://redd.it/od1mba
