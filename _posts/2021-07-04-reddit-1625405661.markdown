@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I just charged my apartment rent in BTC 
-date: 2021-07-04 1625405661 
-categories: reddit 
---- 
-https://redd.it/odkjzr
