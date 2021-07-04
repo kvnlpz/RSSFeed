@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What Is Taproot, the Privacy-Focused Bitcoin Upgrade? 
+date: 2021-07-03 1625379029 
+categories: reddit 
+--- 
+https://redd.it/odekba
