@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Sad State of Smart Contract Protocols 
-date: 2021-07-03 1625327987 
-categories: reddit 
---- 
-https://redd.it/od0rbd
