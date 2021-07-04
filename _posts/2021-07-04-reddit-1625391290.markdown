@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: mdex dot live is a phishing site. Almost had me fooled until it asked for a seed phrase. 
+date: 2021-07-04 1625391290 
+categories: reddit 
+--- 
+https://redd.it/odh307
