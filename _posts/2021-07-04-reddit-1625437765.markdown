@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EY Open-Sources Code for Zero-Knowledge Layer-2 Protocol on Ethereum 
+date: 2021-07-04 1625437765 
+categories: reddit 
+--- 
+https://redd.it/odui8h
