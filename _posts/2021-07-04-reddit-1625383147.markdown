@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Next hard fork? 
-date: 2021-07-04 1625383147 
-categories: reddit 
---- 
-https://redd.it/od94g7
