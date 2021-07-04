@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does a Miner have a choice to the Transaction to Process? 
-date: 2021-07-03 1625307488 
-categories: reddit 
---- 
-https://redd.it/ocvdwg
