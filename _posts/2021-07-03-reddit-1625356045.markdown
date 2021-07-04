@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Eureka! 
-date: 2021-07-03 1625356045 
-categories: reddit 
---- 
-https://redd.it/od92kc
