@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $BODY SHORTS 
-date: 2021-07-03 1625326336 
-categories: reddit 
---- 
-https://redd.it/od0968
