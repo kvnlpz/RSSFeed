@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Serious concern 
-date: 2021-07-03 1625311737 
-categories: reddit 
---- 
-https://redd.it/ocwanr
