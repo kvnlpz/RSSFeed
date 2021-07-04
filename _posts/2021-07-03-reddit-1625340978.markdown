@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking rewards for Cardano - is it really compounding? 
-date: 2021-07-03 1625340978 
-categories: reddit 
---- 
-https://redd.it/od16at
