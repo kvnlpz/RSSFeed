@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does the Black-Scholes Model take earnings announcements into account when it calculates Theta? 
-date: 2021-07-03 1625326076 
-categories: reddit 
---- 
-https://redd.it/od06eb
