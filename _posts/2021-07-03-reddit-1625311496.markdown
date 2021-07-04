@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tesla said they wouldn't again accept BTC until energy consumption reached 50% from renewables. Now that BTC uses 56% renewable energy, I wonder if Tesla will soon start accepting BTC again. 
-date: 2021-07-03 1625311496 
-categories: reddit 
---- 
-https://redd.it/ocw8oo
