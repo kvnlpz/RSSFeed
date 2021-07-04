@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @SpaghettiCode4 
+date: 2021-07-04 09:27:06 
+categories: twitter 
+--- 
+@InvestorsLive How do you make your regression channels specifically? How do you use them
