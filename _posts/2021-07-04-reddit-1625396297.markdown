@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin hash rate 
-date: 2021-07-04 1625396297 
-categories: reddit 
---- 
-https://redd.it/odi6j6
