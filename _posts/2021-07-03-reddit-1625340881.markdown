@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Add a HELP/SUPPORT flair 
-date: 2021-07-03 1625340881 
-categories: reddit 
---- 
-https://redd.it/od4rag
