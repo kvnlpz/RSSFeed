@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is anyone else here using algorithmic trading for their cryptocurrency investments? 
-date: 2021-07-04 1625399325 
-categories: reddit 
---- 
-https://redd.it/odiw35
