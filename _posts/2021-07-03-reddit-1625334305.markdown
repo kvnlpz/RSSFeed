@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I created a bot that trades Penny stocks | +11.61% (11W - 2L - 3D) 
-date: 2021-07-03 1625334305 
-categories: reddit 
---- 
-https://redd.it/od2qt3
