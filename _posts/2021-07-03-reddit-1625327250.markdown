@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DOM 
-date: 2021-07-03 1625327250 
-categories: reddit 
---- 
-https://redd.it/od0jhn
