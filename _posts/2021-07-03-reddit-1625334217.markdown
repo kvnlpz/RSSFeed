@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mining Difficulty Falls 
-date: 2021-07-03 1625334217 
-categories: reddit 
---- 
-https://redd.it/od2pmd
