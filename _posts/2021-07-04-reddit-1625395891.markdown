@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tax implications if you lose your keys while staking 
-date: 2021-07-04 1625395891 
-categories: reddit 
---- 
-https://redd.it/odi3a2
