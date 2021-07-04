@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A brief rundown of the top 50 coins by category 
-date: 2021-07-03 1625311659 
-categories: reddit 
---- 
-https://redd.it/ocwa3d
