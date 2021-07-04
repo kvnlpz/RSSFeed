@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I built a program that tracks mentions and sentiment of stocks across Reddit and Twitter! This week's most discussed and top growing stocks! 
-date: 2021-07-04 1625402556 
-categories: reddit 
---- 
-https://redd.it/odjp8j
