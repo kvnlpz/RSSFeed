@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Accidentally sent BTC to an input address from a previous payment. Is this retrievable? 
+date: 2021-07-03 1625360449 
+categories: reddit 
+--- 
+https://redd.it/oda6uf
