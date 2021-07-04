@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chart request: $RAD 
-date: 2021-07-04 1625391561 
-categories: reddit 
---- 
-https://redd.it/odh50k
