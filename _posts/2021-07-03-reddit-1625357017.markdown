@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Stuck in Coinbase Kafka Feedback Loop 
+date: 2021-07-03 1625357017 
+categories: reddit 
+--- 
+https://redd.it/od9c2q
