@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are there so many wallets on Bitcoin.com? 
-date: 2021-07-03 1625329835 
-categories: reddit 
---- 
-https://redd.it/od1c3w
