@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any way how to automatically do DCA? 
-date: 2021-07-03 1625303065 
-categories: reddit 
---- 
-https://redd.it/ocuhh2
