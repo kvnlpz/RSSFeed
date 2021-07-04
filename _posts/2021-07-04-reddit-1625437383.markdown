@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Help needed: Gooogle Spreadsheets pulling WSJ Data 
+date: 2021-07-04 1625437383 
+categories: reddit 
+--- 
+https://redd.it/oduejo
