@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Indigo Protocol: Official Whitepaper Release 
-date: 2021-07-03 1625336980 
-categories: reddit 
---- 
-https://redd.it/od3kbk
