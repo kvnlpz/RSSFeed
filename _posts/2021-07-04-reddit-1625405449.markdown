@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do you keep your personal computer free from viruses / malware ？ I would like to start with a hardware wallet but I do not trust my pc tbh 
-date: 2021-07-04 1625405449 
-categories: reddit 
---- 
-https://redd.it/odkhu6
