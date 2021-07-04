@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question: What are some ways to store your seed phrases for random apps that are not very important. 
-date: 2021-07-03 1625311082 
-categories: reddit 
---- 
-https://redd.it/ocw5aq
