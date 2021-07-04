@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A rundown on wallets 
-date: 2021-07-03 1625332814 
-categories: reddit 
---- 
-https://redd.it/od29s9
