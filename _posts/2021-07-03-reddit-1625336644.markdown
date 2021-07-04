@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why bitcoin system pays miners ? 
-date: 2021-07-03 1625336644 
-categories: reddit 
---- 
-https://redd.it/od1gzh
