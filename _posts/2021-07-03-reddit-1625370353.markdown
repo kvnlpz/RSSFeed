@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: YOLO!... 
-date: 2021-07-03 1625370353 
-categories: reddit 
---- 
-https://redd.it/odclai
