@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EOS Staking and Voting for Rewards with AtticLab / Everstake 
-date: 2021-07-04 1625398406 
-categories: reddit 
---- 
-https://redd.it/odio70
