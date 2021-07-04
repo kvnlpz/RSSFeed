@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does a lightning network transaction ensure that there's no double spending? 
-date: 2021-07-03 1625313412 
-categories: reddit 
---- 
-https://redd.it/ocwoag
