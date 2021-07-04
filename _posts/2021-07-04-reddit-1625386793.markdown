@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FLR and XLM 
-date: 2021-07-04 1625386793 
-categories: reddit 
---- 
-https://redd.it/odg5dc
