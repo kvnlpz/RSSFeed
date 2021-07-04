@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Something to consider when selling your BTC... 
-date: 2021-07-03 1625304708 
-categories: reddit 
---- 
-https://redd.it/ocutpm
