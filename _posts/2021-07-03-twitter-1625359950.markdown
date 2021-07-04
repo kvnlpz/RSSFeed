@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @aubrey_wav 
+date: 2021-07-03 17:52:30 
+categories: twitter 
+--- 
+@timothysykes whole day studying charts &amp; back testing
