@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-1559 on Polygon - this seems like a thief of fees… 
+date: 2021-07-03 1625370089 
+categories: reddit 
+--- 
+https://redd.it/odciy0
