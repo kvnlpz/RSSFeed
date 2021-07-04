@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question/Strategy: Setting up Bitcoin automatic daily purchases for off peek hours. 
+date: 2021-07-04 1625410278 
+categories: reddit 
+--- 
+https://redd.it/odlykw
