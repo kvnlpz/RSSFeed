@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 7.4BTC 
-date: 2021-07-04 1625385525 
-categories: reddit 
---- 
-https://redd.it/odfwhr
