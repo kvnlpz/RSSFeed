@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ransomware Group REvil Strikes Again, Demands $70M in Bitcoin from 200 US Firms 
-date: 2021-07-04 1625466518 
-categories: reddit 
---- 
-https://redd.it/oe1ces
