@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-04 09:36:03 
-categories: twitter 
---- 
-@KianoushAbolha1 Nice!
