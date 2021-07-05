@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-04 08:28:28 
-categories: twitter 
---- 
-@Canny4 Glad you're still with us Tom! Scary stuff
