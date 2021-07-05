@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 17:07:03 
-categories: twitter 
---- 
-RT @super_trades: $MNMD formerly $MMEDF another #SUPER winner
