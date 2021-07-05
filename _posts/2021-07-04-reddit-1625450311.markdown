@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Some cool things Stellar/XLM can do (without smart contracts!) 
-date: 2021-07-04 1625450311 
-categories: reddit 
---- 
-https://redd.it/odxmif
