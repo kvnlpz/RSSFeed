@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Eth in the wild! 
-date: 2021-07-04 1625432984 
-categories: reddit 
---- 
-https://redd.it/odt4fb
