@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: One Satoshi is equal to a one Satoshi 
-date: 2021-07-04 1625434061 
-categories: reddit 
---- 
-https://redd.it/odtfva
