@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodetrades 
-date: 2021-07-04 10:47:38 
-categories: twitter 
---- 
-@eriz35 Recipe?
