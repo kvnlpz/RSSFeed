@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a point of agreement between Charles Hoskinson and Donald McIntyre: ETC's Simplicity Vision. 
-date: 2021-07-04 1625422375 
-categories: reddit 
---- 
-https://redd.it/odpun7
