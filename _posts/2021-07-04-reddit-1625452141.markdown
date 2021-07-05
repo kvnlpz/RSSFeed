@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: can't send ADA on Yoroi 
-date: 2021-07-04 1625452141 
-categories: reddit 
---- 
-https://redd.it/ody1q0
