@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trads 
-date: 2021-07-04 16:35:44 
-categories: twitter 
---- 
-RT @super_trades: great form $THCB
