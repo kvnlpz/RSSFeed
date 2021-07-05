@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @djhub11 
-date: 2021-07-04 10:06:56 
-categories: twitter 
---- 
-@InvestorsLive They are mint green 5-lbs ok
