@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hey quick question, but what does 2.00% represent. I’ve seen some be as high as 10.00% not really sure what this means or how much of an impact it has on my staking rewards. Any help would be appreciated! 
-date: 2021-07-04 1625435733 
-categories: reddit 
---- 
-https://redd.it/odtxgz
