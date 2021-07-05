@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mwscott004 
-date: 2021-07-04 12:56:53 
-categories: twitter 
---- 
-@nope_its_lily Jason Pierre-Paul is a real American 4th of July hero.
