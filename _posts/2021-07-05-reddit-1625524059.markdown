@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If you run a node, remember to update it to support Taproot, only 27% do so far. 
+date: 2021-07-05 1625524059 
+categories: reddit 
+--- 
+https://redd.it/oehvtq
