@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tdusa90 
-date: 2021-07-04 18:58:46 
-categories: twitter 
---- 
-@InvestorsLive how do you set your scanner for shorting?
