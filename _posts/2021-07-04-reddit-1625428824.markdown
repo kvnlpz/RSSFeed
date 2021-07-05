@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What do you think about slashing 10% of bond when all blocks are missed in a cycle? 
-date: 2021-07-04 1625428824 
-categories: reddit 
---- 
-https://redd.it/odrud0
