@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Querying the balance off an account (with or without secret) in the python-sdk. 
-date: 2021-07-04 1625460328 
-categories: reddit 
---- 
-https://redd.it/odzydc
