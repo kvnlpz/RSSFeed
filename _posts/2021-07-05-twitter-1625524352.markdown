@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @david_koops 
+date: 2021-07-05 15:32:32 
+categories: twitter 
+--- 
+@nope_its_lily I think we're conflating time-averages and average paths/universes. Did you check out ergodicity economics?
