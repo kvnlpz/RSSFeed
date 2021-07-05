@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TakenABrake 
-date: 2021-07-04 21:10:41 
-categories: twitter 
---- 
-@timothysykes Why are they trying to pour water on the ocean
