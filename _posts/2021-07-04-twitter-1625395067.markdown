@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jackaroo_Tradas 
-date: 2021-07-04 03:37:47 
-categories: twitter 
---- 
-RT @OddStockTrader: How was your week?
-
-Reply with only a GIF
