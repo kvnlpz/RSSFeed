@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can you use multiple exchanges/ wallets and stake from a ledger nano? 
-date: 2021-07-04 1625416561 
-categories: reddit 
---- 
-https://redd.it/odo01z
