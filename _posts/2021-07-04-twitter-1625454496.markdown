@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JustStocksToday 
-date: 2021-07-04 20:08:16 
-categories: twitter 
---- 
-RT @timothysykes: Happppppppppppy Independence Day! The big question is what will you do with all your freedom? Will you maximize it or was…
