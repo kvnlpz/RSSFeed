@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SimonJericho1 
-date: 2021-07-04 21:17:52 
-categories: twitter 
---- 
-RT @timothysykes: Uhhhhhh be careful everyone! Happy 4th, but all remember to stay safe, fireworks can be dangerous! #Happy4th #Independenc…
