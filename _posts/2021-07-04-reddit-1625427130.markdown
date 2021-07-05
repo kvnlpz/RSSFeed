@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trying to use pancakeswap. 
-date: 2021-07-04 1625427130 
-categories: reddit 
---- 
-https://redd.it/odrcad
