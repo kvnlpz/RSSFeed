@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: wrong numbers on pooltool causing misinformation in news? 
-date: 2021-07-04 1625428549 
-categories: reddit 
---- 
-https://redd.it/odrpct
