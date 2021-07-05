@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Portfolio 
-date: 2021-07-04 1625433400 
-categories: reddit 
---- 
-https://redd.it/odt8tw
