@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 20:04:20 
-categories: twitter 
---- 
-RT @super_trades: let’s do this !
