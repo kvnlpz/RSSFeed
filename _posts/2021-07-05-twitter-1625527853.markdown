@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @gregasmaximus 
+date: 2021-07-05 16:30:53 
+categories: twitter 
+--- 
+@nope_its_lily @therobotjames @breakingthemark LaTeX is great but Computer Modern font is a trigger for me. After f… https://t.co/FsnhjzKPoF
