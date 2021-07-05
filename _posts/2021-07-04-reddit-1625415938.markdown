@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum just hold it 
-date: 2021-07-04 1625415938 
-categories: reddit 
---- 
-https://redd.it/odnswu
