@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EY Takes Crack At Ethereum’s Gas Fee Problem With New Protocol 
-date: 2021-07-04 1625417255 
-categories: reddit 
---- 
-https://redd.it/odo7r1
