@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Seed nodes vs persistence peers ? 
+date: 2021-07-05 1625526411 
+categories: reddit 
+--- 
+https://redd.it/oeikma
