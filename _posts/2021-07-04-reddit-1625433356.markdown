@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So when we stake where does the 5% ADA come from? 
-date: 2021-07-04 1625433356 
-categories: reddit 
---- 
-https://redd.it/odt8af
