@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TessaLamping 
-date: 2021-07-04 10:45:31 
-categories: twitter 
---- 
-RT @timothysykes: Be suspicious when somebody else cares so much about whether you’re selling or not…or even tweeting about potentially sel…
