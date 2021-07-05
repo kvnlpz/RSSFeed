@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Didi app suspended in China over data protection 
-date: 2021-07-04 1625414172 
-categories: reddit 
---- 
-https://redd.it/odlqoz
