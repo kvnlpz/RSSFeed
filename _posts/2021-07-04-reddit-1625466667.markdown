@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moneros whitepaper, where can I find it 
-date: 2021-07-04 1625466667 
-categories: reddit 
---- 
-https://redd.it/oe1diq
