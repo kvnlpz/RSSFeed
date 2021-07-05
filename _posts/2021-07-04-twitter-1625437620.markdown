@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-04 15:27:00 
-categories: twitter 
---- 
-Godzilla just taking breaths while roaming around in the hollow earth.
-
-Nothing to see here.
