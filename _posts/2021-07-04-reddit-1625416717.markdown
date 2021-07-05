@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: July 4th, 2015. A day in bitcoin history. 
-date: 2021-07-04 1625416717 
-categories: reddit 
---- 
-https://redd.it/odo1nu
