@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-05 15:30:05 
+categories: twitter 
+--- 
+RT @beniaminmincu: Accelerating adoption for all the world’s developers: devs will be able to build applications on the @ElrondNetwork usin…
