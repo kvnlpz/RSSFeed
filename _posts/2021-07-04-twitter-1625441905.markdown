@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rocker_261 
-date: 2021-07-04 16:38:25 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/dkiouezYO3
