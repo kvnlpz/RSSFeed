@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CryptoCurrency 
-date: 2021-07-04 1625409728 
-categories: reddit 
---- 
-https://redd.it/odlsdu
