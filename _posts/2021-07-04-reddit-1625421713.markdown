@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Questions about Compass Mining 
-date: 2021-07-04 1625421713 
-categories: reddit 
---- 
-https://redd.it/odpn63
