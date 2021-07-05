@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HaiderNiki 
-date: 2021-07-04 08:58:48 
-categories: twitter 
---- 
-RT @super_trades: $CYRN $SFET  #Theme Tough fight looms against ransomware 'epidemic' https://t.co/Lbsh1pvmJw via @YahooNews
