@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Will EIP-1559 Upgrade Turn Ethereum Into a Deflationary Asset? 
+date: 2021-07-05 1625518093 
+categories: reddit 
+--- 
+https://redd.it/oeg039
