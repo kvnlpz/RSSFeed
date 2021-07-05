@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moons question 
-date: 2021-07-04 1625412691 
-categories: reddit 
---- 
-https://redd.it/odmqp6
