@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Wallets Move 7,062 BTC from Coinbase 
-date: 2021-07-04 1625460210 
-categories: reddit 
---- 
-https://redd.it/odzxdp
