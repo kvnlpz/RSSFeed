@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How I got my vault to open (after fighting with it for a month) 
+date: 2021-07-05 1625521687 
+categories: reddit 
+--- 
+https://redd.it/oeh5j0
