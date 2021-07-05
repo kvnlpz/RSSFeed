@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Week On-chain (Week 27, 2021), Bitcoin and Ethereum on-chain metrics from Glassnode. 
-date: 2021-07-05 1625505556 
-categories: reddit 
---- 
-https://redd.it/oebvid

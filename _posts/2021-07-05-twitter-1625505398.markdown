@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mmganguli 
-date: 2021-07-05 10:16:38 
-categories: twitter 
---- 
-@alphatrends 
-
-Awaiting for your reply sirji!

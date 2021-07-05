@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Network Status Update Monday, July 05, 2021 
-date: 2021-07-05 1625501502 
-categories: reddit 
---- 
-https://redd.it/oeak4m

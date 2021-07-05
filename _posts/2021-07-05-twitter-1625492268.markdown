@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @promotion_time1 
-date: 2021-07-05 06:37:48 
-categories: twitter 
---- 
-@timothysykes Good morning, studying SEC fillings and reading American Hedge Fund again today.

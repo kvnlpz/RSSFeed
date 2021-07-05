@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Check 
-date: 2021-07-05 1625508307 
-categories: reddit 
---- 
-https://redd.it/oecrge

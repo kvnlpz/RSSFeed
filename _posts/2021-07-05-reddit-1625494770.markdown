@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are there so many addresses with ~90M and 1 transaction? 
-date: 2021-07-05 1625494770 
-categories: reddit 
---- 
-https://redd.it/oe8bo9

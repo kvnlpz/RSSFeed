@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Optimistic vs. ZK Rollup: Deep Dive — great stuff to try and understand some ether technicals; Plasma, SNARK, ZKP, and more explained. Great read! 
-date: 2021-07-05 1625480066 
-categories: reddit 
---- 
-https://redd.it/oe4e1r

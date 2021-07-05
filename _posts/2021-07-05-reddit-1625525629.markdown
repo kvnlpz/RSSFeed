@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NEOM 
-date: 2021-07-05 1625525629 
-categories: reddit 
---- 
-https://redd.it/oeic9j

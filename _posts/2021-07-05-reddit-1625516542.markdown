@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A question 
-date: 2021-07-05 1625516542 
-categories: reddit 
---- 
-https://redd.it/oefif1

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vwapnation 
-date: 2021-07-05 10:44:21 
-categories: twitter 
---- 
-RT @G_krupins: $APH weekly.  Like it https://t.co/9na4DD8iqs

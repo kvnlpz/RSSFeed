@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jackaroo_Tradas 
-date: 2021-07-05 00:08:34 
-categories: twitter 
---- 
-RT @OddStockTrader: This is awesome! @j_pavness https://t.co/tOHVxlBh8g

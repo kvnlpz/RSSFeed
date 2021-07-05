@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @un4w4r3 
-date: 2021-07-05 08:54:06 
-categories: twitter 
---- 
-@nope_its_lily is there a clean/cheap way to long/short oil?

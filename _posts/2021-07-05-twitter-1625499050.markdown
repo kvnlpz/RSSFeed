@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ross_roams 
-date: 2021-07-05 08:30:50 
-categories: twitter 
---- 
-@alphatrends @RedRocksCO @blues_traveler Fantastic!

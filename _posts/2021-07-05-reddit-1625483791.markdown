@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Automata Network question 
-date: 2021-07-05 1625483791 
-categories: reddit 
---- 
-https://redd.it/oe58tx

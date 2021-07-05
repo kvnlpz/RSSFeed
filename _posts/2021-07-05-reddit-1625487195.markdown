@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mimblewimble Progress Update Thread - June 
-date: 2021-07-05 1625487195 
-categories: reddit 
---- 
-https://redd.it/oe64gm

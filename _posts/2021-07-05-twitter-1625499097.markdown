@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KrisAbdelmessih 
-date: 2021-07-05 08:31:37 
-categories: twitter 
---- 
-@nope_its_lily ha ha
-
-no

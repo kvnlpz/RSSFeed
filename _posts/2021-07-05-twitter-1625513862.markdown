@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @don_robbins 
-date: 2021-07-05 12:37:42 
-categories: twitter 
---- 
-@G_krupins My guess is it hits 62 before it hits 76.

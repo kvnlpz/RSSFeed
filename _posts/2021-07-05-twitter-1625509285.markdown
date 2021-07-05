@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AgustinLebron3 
-date: 2021-07-05 11:21:25 
-categories: twitter 
---- 
-@nope_its_lily The answer crucially depends on why you think it's possible for two assets to have the same EV but d… https://t.co/3BgdXKP5tu

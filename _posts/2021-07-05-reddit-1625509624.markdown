@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Who was this? 
-date: 2021-07-05 1625509624 
-categories: reddit 
---- 
-https://redd.it/oed6vu

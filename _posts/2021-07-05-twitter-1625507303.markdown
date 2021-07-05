@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stocks_soup 
-date: 2021-07-05 10:48:23 
-categories: twitter 
---- 
-@nope_its_lily I guess A, since a 40% downturn would take a lot more than a 40% upturn to regain. Reliable liquidit… https://t.co/DYkwARHaf2

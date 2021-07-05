@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: South Korean Shinhan Bank joins Klaytn’s blockchain governance council 
-date: 2021-07-05 1625508364 
-categories: reddit 
---- 
-https://redd.it/oecs1o

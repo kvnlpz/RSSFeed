@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pt 4 Altcoin validation issues, flawed security models, & consensus mechanisms - To the Moon 16 
-date: 2021-07-05 1625493692 
-categories: reddit 
---- 
-https://redd.it/oe7zif

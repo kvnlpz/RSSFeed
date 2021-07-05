@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: People are noticing Tezos Defi 
-date: 2021-07-05 1625493123 
-categories: reddit 
---- 
-https://redd.it/oe7tbj

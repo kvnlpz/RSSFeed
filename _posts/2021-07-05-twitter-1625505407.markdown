@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_krupins 
-date: 2021-07-05 10:16:47 
-categories: twitter 
---- 
-RT @d_pavlos: $INVH Daily chart
-Moving to ATH?
-Entry at Friday's high with a tight stop at 8 EMA https://t.co/Z0KILqGcSp

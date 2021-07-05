@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Questions on BIP-300 
-date: 2021-07-05 1625506359 
-categories: reddit 
---- 
-https://redd.it/oec4u8

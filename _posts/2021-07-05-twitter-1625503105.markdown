@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-07-05 09:38:25 
-categories: twitter 
---- 
-RT @RayTL_: If looking to get Leadership Blueprints course now is a good time. First Webinar next month when team is back from mini-summer…

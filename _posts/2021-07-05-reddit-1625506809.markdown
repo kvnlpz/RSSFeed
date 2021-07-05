@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daily bitcoin news, Weekend recap 
-date: 2021-07-05 1625506809 
-categories: reddit 
---- 
-https://redd.it/oec9x1

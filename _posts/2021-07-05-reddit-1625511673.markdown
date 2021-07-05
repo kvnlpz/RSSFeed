@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: APES ASSEMBLE 
-date: 2021-07-05 1625511673 
-categories: reddit 
---- 
-https://redd.it/oedvsk

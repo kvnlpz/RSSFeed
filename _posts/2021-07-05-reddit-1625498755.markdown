@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: HODL 
-date: 2021-07-05 1625498755 
-categories: reddit 
---- 
-https://redd.it/oe9n6f

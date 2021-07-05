@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Living off staking rewards 
-date: 2021-07-05 1625495580 
-categories: reddit 
---- 
-https://redd.it/oe8l5m

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Powering 2x3090s and it's risers from a single PSU 
-date: 2021-07-05 1625518188 
-categories: reddit 
---- 
-https://redd.it/oeg15f

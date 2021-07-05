@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @testinprodcap 
-date: 2021-07-05 15:58:35 
-categories: twitter 
---- 
-@nope_its_lily @EconomPic @breakingthemark @AgustinLebron3 Does the resolution matter here? Haven’t done stocal in… https://t.co/LRpMOoOhyZ

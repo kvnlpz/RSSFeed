@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crunchy showcases its core strength with self-service yield farm setup: 50+ farms setup in a few days. Creating a LP yield farm pair on Tezos has just become as simple as filing out a form 
-date: 2021-07-05 1625482801 
-categories: reddit 
---- 
-https://redd.it/oe509r

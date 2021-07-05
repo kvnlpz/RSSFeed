@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlexAddy6 
-date: 2021-07-05 15:54:17 
-categories: twitter 
---- 
-@InvestorsLive Thank you!

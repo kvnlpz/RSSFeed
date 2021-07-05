@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transferring from exchanges to wallets 
-date: 2021-07-05 1625498924 
-categories: reddit 
---- 
-https://redd.it/oe9pbi

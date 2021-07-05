@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: As Miners Leave Bitcoin in Droves, Space Allocation Dedicated to Filecoin and Chia Surges 
-date: 2021-07-05 1625507613 
-categories: reddit 
---- 
-https://redd.it/oecj94

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iluvstocks1 
-date: 2021-07-05 14:15:02 
-categories: twitter 
---- 
-@super_trades Open green 🙏💕

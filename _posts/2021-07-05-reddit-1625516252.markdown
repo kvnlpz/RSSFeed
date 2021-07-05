@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New to this what am I doing wrong? 
-date: 2021-07-05 1625516252 
-categories: reddit 
---- 
-https://redd.it/oefeza

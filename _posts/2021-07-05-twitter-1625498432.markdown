@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GRDectar 
-date: 2021-07-05 08:20:32 
-categories: twitter 
---- 
-RT @timothysykes: STUDY SATURDAY: https://t.co/MfDMMVtmsg Five Tips I Wish I Knew Before I Started Trading! Rules matter so much and the sa…

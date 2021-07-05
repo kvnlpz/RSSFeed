@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CheetahFrom 
-date: 2021-07-05 13:09:15 
-categories: twitter 
---- 
-@timothysykes Yes, always looking forward for a new lesson.

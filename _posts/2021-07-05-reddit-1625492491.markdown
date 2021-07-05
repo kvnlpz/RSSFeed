@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 27 million dollar rug pull. I’ve been saying it for years. If you can’t properly audit the code yourself, it doesn’t matter if it’s decentralized. Because you still trust the developers, if you haven’t audited the exchange yourself 
-date: 2021-07-05 1625492491 
-categories: reddit 
---- 
-https://redd.it/oe7mj1

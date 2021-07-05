@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First post 
-date: 2021-07-05 1625518906 
-categories: reddit 
---- 
-https://redd.it/oeg9mx

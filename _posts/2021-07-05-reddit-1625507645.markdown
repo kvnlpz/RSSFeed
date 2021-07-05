@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Limit orders are pretty great (opinion) 
-date: 2021-07-05 1625507645 
-categories: reddit 
---- 
-https://redd.it/oecjm1

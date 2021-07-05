@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best tools for backtesting trading strategies 
-date: 2021-07-05 1625507749 
-categories: reddit 
---- 
-https://redd.it/oeckuq

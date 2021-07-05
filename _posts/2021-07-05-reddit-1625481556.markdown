@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Cryptocurrency Trading Bot Which Is Revolutionizing the Trading Realm 
-date: 2021-07-05 1625481556 
-categories: reddit 
---- 
-https://redd.it/oe4pr6

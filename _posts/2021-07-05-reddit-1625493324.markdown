@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are there any semitechnical books, blogs, articles etc to get a grasp of tezos? 
-date: 2021-07-05 1625493324 
-categories: reddit 
---- 
-https://redd.it/oe7vhx

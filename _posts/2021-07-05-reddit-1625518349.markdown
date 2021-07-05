@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I just created a paper wallet for cold storage. Is it true that a paper wallet can only be spent using a software wallet, and that the wallet will be empty afterwards? I want to make a test payment to ensure I wrote down my private key correctly. 
-date: 2021-07-05 1625518349 
-categories: reddit 
---- 
-https://redd.it/oeg31l

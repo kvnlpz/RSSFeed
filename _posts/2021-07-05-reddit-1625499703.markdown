@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Preserving and displaying historical U.S. Election information on the Ethereum blockchain; a small side project of mine 
-date: 2021-07-05 1625499703 
-categories: reddit 
---- 
-https://redd.it/oe9yl3

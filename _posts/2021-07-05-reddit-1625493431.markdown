@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are people shorting in options and futures market while going long in spot market? 
-date: 2021-07-05 1625493431 
-categories: reddit 
---- 
-https://redd.it/oe7wlw

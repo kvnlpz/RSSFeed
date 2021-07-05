@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @01stocksavage 
-date: 2021-07-05 14:17:58 
-categories: twitter 
---- 
-@timothysykes casino closed tomorrow

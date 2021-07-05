@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s up with box spreads 
-date: 2021-07-05 1625470543 
-categories: reddit 
---- 
-https://redd.it/oe26ck

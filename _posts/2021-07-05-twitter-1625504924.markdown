@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_MrHodl_ 
-date: 2021-07-05 10:08:44 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/jLKDPw36Aq Learn the https://t.co/4lKUY5B6aw pattern

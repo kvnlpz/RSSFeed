@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano's Project Catalyst Fund4 results are in! We discuss some of the projects that the ADA community voted for. 
-date: 2021-07-05 1625507190 
-categories: reddit 
---- 
-https://redd.it/oeceh1

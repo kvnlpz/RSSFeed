@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happened at 6:00 am cst this morning? 
-date: 2021-07-05 1625495002 
-categories: reddit 
---- 
-https://redd.it/oe8eft

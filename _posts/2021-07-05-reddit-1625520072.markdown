@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is big for shiba! 
-date: 2021-07-05 1625520072 
-categories: reddit 
---- 
-https://redd.it/oegn0o

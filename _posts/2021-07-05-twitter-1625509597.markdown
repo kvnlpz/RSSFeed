@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nairbv 
-date: 2021-07-05 11:26:37 
-categories: twitter 
---- 
-@nope_its_lily Depends on what?

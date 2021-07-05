@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EVGA RTX 3080 FTW3 Ultra drops hashrate to 30 and uses max fanspeed (about 57C core temp) 
-date: 2021-07-05 1625482602 
-categories: reddit 
---- 
-https://redd.it/oe4ykp

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: No Chart Chewsday 
-date: 2021-07-05 1625488715 
-categories: reddit 
---- 
-https://redd.it/oe6j8a

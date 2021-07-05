@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GRDectar 
-date: 2021-07-05 08:28:00 
-categories: twitter 
---- 
-RT @timothysykes: STUDY HAAAAAARD!

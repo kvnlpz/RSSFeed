@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mattyfriedman_ 
-date: 2021-07-05 07:15:02 
-categories: twitter 
---- 
-@OddStockTrader Or 4 joints lol

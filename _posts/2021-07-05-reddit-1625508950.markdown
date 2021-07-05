@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: There Are Now More Ethereum Addresses Than BTC Addresses 
-date: 2021-07-05 1625508950 
-categories: reddit 
---- 
-https://redd.it/oecywn

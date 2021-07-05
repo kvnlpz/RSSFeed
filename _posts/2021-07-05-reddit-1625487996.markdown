@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Huge Ransomware Attack Hits Hundreds Of U.S. Companies, Hacker Group REvil Wants $70M In Bitcoin 
-date: 2021-07-05 1625487996 
-categories: reddit 
---- 
-https://redd.it/oe6c9h

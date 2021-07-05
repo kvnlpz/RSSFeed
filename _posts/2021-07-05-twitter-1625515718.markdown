@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BallezaOscar 
-date: 2021-07-05 13:08:38 
-categories: twitter 
---- 
-RT @super_trades: OPEN THE MARKET I SAY !!!!

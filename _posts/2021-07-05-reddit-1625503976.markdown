@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: More than $13 billion worth of ether has been staked on ethereum 2.0 as momentum builds behind the network overhaul 
-date: 2021-07-05 1625503976 
-categories: reddit 
---- 
-https://redd.it/oebct5

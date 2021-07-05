@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why the LP Tokens unitary price change along with the farm liquidity? 
-date: 2021-07-05 1625521506 
-categories: reddit 
---- 
-https://redd.it/oeh3gr

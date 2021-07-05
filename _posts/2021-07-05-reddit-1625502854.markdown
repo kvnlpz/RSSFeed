@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wallets are bullshit 
-date: 2021-07-05 1625502854 
-categories: reddit 
---- 
-https://redd.it/oeazx3

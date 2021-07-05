@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is this they way? 
-date: 2021-07-05 1625483109 
-categories: reddit 
---- 
-https://redd.it/oe5370

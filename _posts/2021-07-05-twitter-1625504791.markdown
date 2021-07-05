@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_MrHodl_ 
-date: 2021-07-05 10:06:31 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/Kblr2vYOZ6 Worth a shot here

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tous les développeurs du monde seront bientôt en mesure de déployer de puissantes dApps Elrond via l'infrastructure API de niveau entreprise de Tatum 
-date: 2021-07-05 1625491335 
-categories: reddit 
---- 
-https://redd.it/oe79qm

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ShibaSwap’s official oracle xFUND begins halving 
-date: 2021-07-05 1625469878 
-categories: reddit 
---- 
-https://redd.it/oe21pe

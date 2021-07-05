@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Seed Phrase on Steel 
-date: 2021-07-05 1625513901 
-categories: reddit 
---- 
-https://redd.it/oeempb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Joint Taxes and 2FA security 
-date: 2021-07-05 1625507916 
-categories: reddit 
---- 
-https://redd.it/oecmnv

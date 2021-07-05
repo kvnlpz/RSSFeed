@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Need some help 
-date: 2021-07-05 1625489118 
-categories: reddit 
---- 
-https://redd.it/oe6nbj

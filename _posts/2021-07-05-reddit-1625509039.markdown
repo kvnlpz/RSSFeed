@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Public Announcement 
-date: 2021-07-05 1625509039 
-categories: reddit 
---- 
-https://redd.it/oeczuo

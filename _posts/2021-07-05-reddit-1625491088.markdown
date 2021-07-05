@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: synthetic assets on Tezos - youves beta July 13 
-date: 2021-07-05 1625491088 
-categories: reddit 
---- 
-https://redd.it/oe77b2

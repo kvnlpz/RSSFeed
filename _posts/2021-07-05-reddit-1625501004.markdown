@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Check out my new NFT 
-date: 2021-07-05 1625501004 
-categories: reddit 
---- 
-https://redd.it/oeae4x

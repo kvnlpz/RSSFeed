@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BillSpalding7 
-date: 2021-07-05 10:48:06 
-categories: twitter 
---- 
-@CitronResearch @triplekaosmoney @FBI

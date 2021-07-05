@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BNB Smart chain question 
-date: 2021-07-05 1625509924 
-categories: reddit 
---- 
-https://redd.it/oedaee

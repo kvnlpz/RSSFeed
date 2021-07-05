@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm just a cat, but these price actions look highly manipulated. 
-date: 2021-07-05 1625506931 
-categories: reddit 
---- 
-https://redd.it/oecbe7

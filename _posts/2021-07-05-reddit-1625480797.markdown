@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Society of Technical Analysts. 
-date: 2021-07-05 1625480797 
-categories: reddit 
---- 
-https://redd.it/oe4jos

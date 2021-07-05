@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pancakes42069 
-date: 2021-07-05 08:23:48 
-categories: twitter 
---- 
-@InvestorsLive I know that second chart (:

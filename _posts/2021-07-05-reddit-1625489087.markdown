@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daedalus receiving address 
-date: 2021-07-05 1625489087 
-categories: reddit 
---- 
-https://redd.it/oe6n2d

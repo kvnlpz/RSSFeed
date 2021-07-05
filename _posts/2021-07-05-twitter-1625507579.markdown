@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nongkhemm 
-date: 2021-07-05 10:52:59 
-categories: twitter 
---- 
-@timothysykes https://t.co/ehO75aASEg

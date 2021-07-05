@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tsukuruba: Building the Redfin and soon-to-be Opendoor of Japan 
-date: 2021-07-05 1625478985 
-categories: reddit 
---- 
-https://redd.it/oe451j

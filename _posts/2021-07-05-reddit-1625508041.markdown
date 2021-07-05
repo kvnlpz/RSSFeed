@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Arthur Breitman: Approaches to Scalability 
-date: 2021-07-05 1625508041 
-categories: reddit 
---- 
-https://redd.it/oecoc7

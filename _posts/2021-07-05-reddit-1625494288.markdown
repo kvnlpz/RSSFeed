@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are the downsides of storing my money as DAI or USDC? 
-date: 2021-07-05 1625494288 
-categories: reddit 
---- 
-https://redd.it/oe866l

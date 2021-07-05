@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How is Bitcoin a protocol? 
-date: 2021-07-05 1625520818 
-categories: reddit 
---- 
-https://redd.it/oegvl9

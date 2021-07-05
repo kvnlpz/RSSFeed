@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My bank is stopping payments to Binance to "keep my money safe" 
-date: 2021-07-05 1625503394 
-categories: reddit 
---- 
-https://redd.it/oeb615

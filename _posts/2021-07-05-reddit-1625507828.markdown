@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Application based Blockchains: Addressing the Short Comings of Smart Contracts 
-date: 2021-07-05 1625507828 
-categories: reddit 
---- 
-https://redd.it/oeclr9

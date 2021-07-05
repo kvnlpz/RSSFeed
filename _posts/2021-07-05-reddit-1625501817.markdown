@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Understanding Flashloans - When looking to understand Flashloans we must first look at traditional loans, understand how these work, their limitations and then we can start looking at what Flashloans are and how they come to fill a missing gap in the lightning fast DeFi space. 
-date: 2021-07-05 1625501817 
-categories: reddit 
---- 
-https://redd.it/oeanvb

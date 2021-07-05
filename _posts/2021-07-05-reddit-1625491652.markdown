@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: GetBlock Records: June ‘21 
-date: 2021-07-05 1625491652 
-categories: reddit 
---- 
-https://redd.it/oe7d7a

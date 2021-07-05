@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's the best cold wallet¿? I save my satoshis on Electrum Wallet... But.... It's this safe enough? Only knowing my seed and pssword? 
-date: 2021-07-05 1625510135 
-categories: reddit 
---- 
-https://redd.it/oedd5a

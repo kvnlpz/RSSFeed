@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jennysutrisna 
-date: 2021-07-05 07:08:09 
-categories: twitter 
---- 
-RT @Darth_Trader__: @MikeBellafiore So well put, thank you! And happy 4th🍻 https://t.co/OQ5EzluUD5

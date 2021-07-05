@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Recent Voting & Compensation 
-date: 2021-07-05 1625517308 
-categories: reddit 
---- 
-https://redd.it/oefr2t

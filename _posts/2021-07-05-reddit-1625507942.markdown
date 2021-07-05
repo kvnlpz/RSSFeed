@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I tried to list some of the great projects on Tezos, to show them ! 
-date: 2021-07-05 1625507942 
-categories: reddit 
---- 
-https://redd.it/oecmz8

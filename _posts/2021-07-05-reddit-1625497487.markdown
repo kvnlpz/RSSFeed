@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Smart Contracts: REALLY REALLY REALLY 
-date: 2021-07-05 1625497487 
-categories: reddit 
---- 
-https://redd.it/oe981q

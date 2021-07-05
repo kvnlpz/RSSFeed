@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What the REvil Ransomware Attack Means for Bitcoin 
-date: 2021-07-05 1625498767 
-categories: reddit 
---- 
-https://redd.it/oe9nhu

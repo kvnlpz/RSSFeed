@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnonymousN_BTC 
-date: 2021-07-05 10:14:47 
-categories: twitter 
---- 
-@nope_its_lily Don't we all. (Laugh in risk-neutral probability measure])

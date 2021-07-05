@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @blane9171 
-date: 2021-07-05 10:38:47 
-categories: twitter 
---- 
-@nope_its_lily Is there a follow up poll for position sizing?

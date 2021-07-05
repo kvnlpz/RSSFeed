@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PMCC on IBKR; Question about short leg assignment mechanics. 
-date: 2021-07-05 1625495838 
-categories: reddit 
---- 
-https://redd.it/oe8o1v

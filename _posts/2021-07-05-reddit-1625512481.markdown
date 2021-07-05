@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does Bitcoin Core install well on PureOS? 
-date: 2021-07-05 1625512481 
-categories: reddit 
---- 
-https://redd.it/oee5qd

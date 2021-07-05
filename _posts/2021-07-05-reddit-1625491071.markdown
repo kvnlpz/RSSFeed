@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to find your BEP-20 wallet address in Binance? 
-date: 2021-07-05 1625491071 
-categories: reddit 
---- 
-https://redd.it/oe7740

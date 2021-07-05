@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best way to check wallet is up to date via RPC? 
-date: 2021-07-05 1625490770 
-categories: reddit 
---- 
-https://redd.it/oe54um

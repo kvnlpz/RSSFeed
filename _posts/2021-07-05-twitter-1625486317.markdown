@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThaniTrade 
-date: 2021-07-05 04:58:37 
-categories: twitter 
---- 
-@OddStockTrader @Facebook Could be Mrs Cody 😄

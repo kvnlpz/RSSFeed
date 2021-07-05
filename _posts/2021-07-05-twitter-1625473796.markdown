@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lukejohnsonoz 
-date: 2021-07-05 01:29:56 
-categories: twitter 
---- 
-RT @G_krupins: $AMZN so many eyes on this as it's closing the week strong.  Plain line chart makes it easy to see this looks like it might…

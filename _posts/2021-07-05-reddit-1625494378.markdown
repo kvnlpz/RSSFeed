@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Self-Sovereign Network - The Daily Gwei #283 
-date: 2021-07-05 1625494378 
-categories: reddit 
---- 
-https://redd.it/oe877x

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does "un-staking" work in Yoroi? 
-date: 2021-07-05 1625499875 
-categories: reddit 
---- 
-https://redd.it/oe75z5

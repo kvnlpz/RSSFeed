@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin was at 9084 one year ago 
-date: 2021-07-05 1625499334 
-categories: reddit 
---- 
-https://redd.it/oe9u3y

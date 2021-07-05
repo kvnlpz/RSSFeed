@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are you concerned by Bitcoin’s recent large drop in hash rate? Why or why not? 
-date: 2021-07-05 1625505512 
-categories: reddit 
---- 
-https://redd.it/oebv1e

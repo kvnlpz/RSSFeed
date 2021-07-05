@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trentkelp 
-date: 2021-07-05 08:56:11 
-categories: twitter 
---- 
-@nope_its_lily What a jerk! Lol

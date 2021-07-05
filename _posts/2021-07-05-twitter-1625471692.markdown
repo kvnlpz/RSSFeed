@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mulendepaul 
-date: 2021-07-05 00:54:52 
-categories: twitter 
---- 
-@timothysykes Have Mercy Lord

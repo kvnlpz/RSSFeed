@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cupofdrink 
-date: 2021-07-05 10:50:10 
-categories: twitter 
---- 
-@nope_its_lily B, need to feel the rush

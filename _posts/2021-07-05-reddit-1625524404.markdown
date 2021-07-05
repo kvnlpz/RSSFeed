@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: daedalus wallet not showing fiat value 
-date: 2021-07-05 1625524404 
-categories: reddit 
---- 
-https://redd.it/oehfyb

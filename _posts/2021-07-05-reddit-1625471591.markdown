@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The BSC network in a nutshell 
-date: 2021-07-05 1625471591 
-categories: reddit 
---- 
-https://redd.it/oe2dsn

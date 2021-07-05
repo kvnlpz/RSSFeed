@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GRDectar 
-date: 2021-07-05 08:27:55 
-categories: twitter 
---- 
-RT @timothysykes: And by popular demand, here's a talk I did at a gold &amp; mining show a few years ago...I told them all to get out of such a…

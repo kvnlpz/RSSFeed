@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Weekly Roundup: Bitcoin’s hash rate continues to drop lower, Ethereum could outpace Bitcoin, DeFi exploits and rug pulls are still very much active 
-date: 2021-07-05 1625471535 
-categories: reddit 
---- 
-https://redd.it/oe2deo

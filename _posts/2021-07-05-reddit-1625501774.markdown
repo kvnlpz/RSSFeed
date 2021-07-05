@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Idea: An internet-connected hardware wallet as the sweet spot between mobile wallets and Trezor/Ledger 
-date: 2021-07-05 1625501774 
-categories: reddit 
---- 
-https://redd.it/oeancd

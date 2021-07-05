@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Target Price and Position Size Calculator 
-date: 2021-07-05 1625511606 
-categories: reddit 
---- 
-https://redd.it/oeduw1

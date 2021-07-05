@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The basic truth about bitcoin mining and centralization. 
-date: 2021-07-05 1625492123 
-categories: reddit 
---- 
-https://redd.it/oe7ind

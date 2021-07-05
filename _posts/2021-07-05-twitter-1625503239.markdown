@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paktrades 
-date: 2021-07-05 09:40:39 
-categories: twitter 
---- 
-@OddStockTrader Made a big difference in how I use the platform. It’s much more useful now, less noise to distract… https://t.co/m8Aq8vpcRp

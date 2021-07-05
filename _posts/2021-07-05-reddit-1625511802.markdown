@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FYI: Did you know Moon values on your Reddit account can be reset at any time by Reddit while on the Rinkeby Testnet 
-date: 2021-07-05 1625511802 
-categories: reddit 
---- 
-https://redd.it/oedxc4

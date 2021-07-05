@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-05 15:58:03 
-categories: twitter 
---- 
-@super_trades SUPER TRADE!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Keep coins on an exchange or in a cold wallet? 
-date: 2021-07-05 1625505360 
-categories: reddit 
---- 
-https://redd.it/oebt78

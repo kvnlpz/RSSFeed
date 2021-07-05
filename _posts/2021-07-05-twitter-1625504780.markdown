@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_MrHodl_ 
-date: 2021-07-05 10:06:20 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/U7mBMdIkWU Let's see how far this one can go too, whewww

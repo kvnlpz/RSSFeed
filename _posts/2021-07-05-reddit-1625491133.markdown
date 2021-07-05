@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: News routine 
-date: 2021-07-05 1625491133 
-categories: reddit 
---- 
-https://redd.it/oe77rn

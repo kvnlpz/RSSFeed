@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Al_the_GOAT 
-date: 2021-07-05 09:06:26 
-categories: twitter 
---- 
-@InvestorsLive Always look left😉

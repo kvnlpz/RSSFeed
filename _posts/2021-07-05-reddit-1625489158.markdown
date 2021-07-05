@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Use an exchange address in a portfolio tracker. 
-date: 2021-07-05 1625489158 
-categories: reddit 
---- 
-https://redd.it/oe6nql

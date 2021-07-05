@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin.org Reportedly Hit With DDoS Attack, Ransom Demand 
-date: 2021-07-05 1625523678 
-categories: reddit 
---- 
-https://redd.it/oehrro

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SladeTrade74 
-date: 2021-07-05 06:37:31 
-categories: twitter 
---- 
-RT @OddStockTrader: When AI and 3D Printing start creating everything you will understand the social importance for owning human created an…

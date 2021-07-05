@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kdub2323 
-date: 2021-07-05 11:18:42 
-categories: twitter 
---- 
-RT @timothysykes: Happppppppppppy Independence Day! The big question is what will you do with all your freedom? Will you maximize it or was…

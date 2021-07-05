@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_MrHodl_ 
-date: 2021-07-05 10:08:55 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/sLX349z0OR Thx https://t.co/9qqyKfKepD for the perfect alert here

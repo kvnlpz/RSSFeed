@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Food 4 thought 
-date: 2021-07-05 1625506048 
-categories: reddit 
---- 
-https://redd.it/oec13e

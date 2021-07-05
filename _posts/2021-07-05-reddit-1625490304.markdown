@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: USB Bitcoin miner 
-date: 2021-07-05 1625490304 
-categories: reddit 
---- 
-https://redd.it/oe6z8i

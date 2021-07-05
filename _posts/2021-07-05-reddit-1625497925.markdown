@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Smart Contracts - the simple explanation of what they really are 
-date: 2021-07-05 1625497925 
-categories: reddit 
---- 
-https://redd.it/oe9dfy

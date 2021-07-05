@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin.org 
-date: 2021-07-05 1625505568 
-categories: reddit 
---- 
-https://redd.it/oebvmo

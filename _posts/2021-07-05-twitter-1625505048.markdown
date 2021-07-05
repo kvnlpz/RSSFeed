@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_MrHodl_ 
-date: 2021-07-05 10:10:48 
-categories: twitter 
---- 
-RT @timothysykes: 9:30pm study check, retweet/favorite this if you’re up studying, making your watchlist or reviewing your @StocksToTrade s…

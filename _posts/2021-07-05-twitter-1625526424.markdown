@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @david_koops 
-date: 2021-07-05 16:07:04 
-categories: twitter 
---- 
-@nope_its_lily Google ergodicity economics lecture notes by Ole Petersen, check out chapter 1. If you haven't read… https://t.co/3FlqLOLjJz

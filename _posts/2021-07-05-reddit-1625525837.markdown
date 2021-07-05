@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: See you tomorrow 
-date: 2021-07-05 1625525837 
-categories: reddit 
---- 
-https://redd.it/oeiegb

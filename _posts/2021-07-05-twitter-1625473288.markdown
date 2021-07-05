@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrettSteenbarg3 
-date: 2021-07-05 01:21:28 
-categories: twitter 
---- 
-RT @MikeBellafiore: This is what unprofessional trading looks like https://t.co/xzUQto2NjB

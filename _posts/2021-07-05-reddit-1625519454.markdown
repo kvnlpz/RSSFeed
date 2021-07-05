@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It’s time to buy! 
-date: 2021-07-05 1625519454 
-categories: reddit 
---- 
-https://redd.it/oegfzt

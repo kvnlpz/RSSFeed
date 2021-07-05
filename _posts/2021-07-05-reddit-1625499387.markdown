@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking rewards disappeared? 
-date: 2021-07-05 1625499387 
-categories: reddit 
---- 
-https://redd.it/oe7un7

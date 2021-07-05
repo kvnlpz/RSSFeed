@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @saanglee 
-date: 2021-07-05 09:02:27 
-categories: twitter 
---- 
-@nope_its_lily What was the thesis?

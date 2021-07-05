@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are Trend lines? How to draw them? What is there function? 
-date: 2021-07-05 1625519560 
-categories: reddit 
---- 
-https://redd.it/oegh6a

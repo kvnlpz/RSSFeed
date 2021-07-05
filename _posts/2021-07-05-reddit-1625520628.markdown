@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Heads up. Gas fees are incredibly low atm. This is from metamask right now. 
-date: 2021-07-05 1625520628 
-categories: reddit 
---- 
-https://redd.it/oegt83

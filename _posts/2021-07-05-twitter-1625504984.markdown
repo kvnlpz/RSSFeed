@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_MrHodl_ 
-date: 2021-07-05 10:09:44 
-categories: twitter 
---- 
-RT @timothysykes: It's sad/crazy how many newbies come into the finance industry mistakenly believing it to be a warm, friendly place, when…

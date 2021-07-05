@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MELD DeFi Solution on Cardano with Ken Olling | Cardano Live #31 
-date: 2021-07-05 1625499208 
-categories: reddit 
---- 
-https://redd.it/oe9snm

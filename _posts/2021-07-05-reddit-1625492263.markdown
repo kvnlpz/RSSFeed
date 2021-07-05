@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here is my 2014 Copper Dogecoin, it comes with a wallet! 
-date: 2021-07-05 1625492263 
-categories: reddit 
---- 
-https://redd.it/oe7k8g

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sandeepthakre16 
-date: 2021-07-05 05:58:54 
-categories: twitter 
---- 
-@timothysykes Morning Tim

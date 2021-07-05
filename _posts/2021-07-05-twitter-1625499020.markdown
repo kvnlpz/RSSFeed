@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NothingXplained 
-date: 2021-07-05 08:30:20 
-categories: twitter 
---- 
-@nope_its_lily @valueterminal Sugar: https://t.co/4P9O5KWnEB

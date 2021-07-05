@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It be like that 
-date: 2021-07-05 1625503047 
-categories: reddit 
---- 
-https://redd.it/oeb27p

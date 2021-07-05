@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LiquidMorty 
-date: 2021-07-05 11:20:54 
-categories: twitter 
---- 
-@nope_its_lily People who answered B are masochists

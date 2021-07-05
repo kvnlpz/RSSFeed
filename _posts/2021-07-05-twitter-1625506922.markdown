@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DefiDiogenesYFI 
-date: 2021-07-05 10:42:02 
-categories: twitter 
---- 
-@nope_its_lily Low volatility, low difference in bid range, low probability of sudden move up or down, no reason to… https://t.co/zgRZrccgbl

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stellar Smart Contract SDK 
-date: 2021-07-05 1625488897 
-categories: reddit 
---- 
-https://redd.it/oe6l2z

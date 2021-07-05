@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This may or may have not been explained before, but for all newcomers: What is Leverage? 
-date: 2021-07-05 1625508426 
-categories: reddit 
---- 
-https://redd.it/oecsrn

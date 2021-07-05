@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Old wallet via bitcoin core 
-date: 2021-07-05 1625508096 
-categories: reddit 
---- 
-https://redd.it/oecp0q

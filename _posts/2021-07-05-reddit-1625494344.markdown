@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So I found this old BTC Wallet from 2011 on an old harddrive... 
-date: 2021-07-05 1625494344 
-categories: reddit 
---- 
-https://redd.it/oe86ui

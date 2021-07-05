@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @amlivemon 
-date: 2021-07-05 08:59:18 
-categories: twitter 
---- 
-@nope_its_lily Yeah, oil and tech you just cant short right now

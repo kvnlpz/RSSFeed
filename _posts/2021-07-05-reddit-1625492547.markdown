@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: America’s first legal DAO has been approved in Wyoming. It's built on the EOS protocol. 
-date: 2021-07-05 1625492547 
-categories: reddit 
---- 
-https://redd.it/oe7mze

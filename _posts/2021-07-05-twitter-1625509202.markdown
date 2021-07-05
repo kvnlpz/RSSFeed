@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SamuelShadrach4 
-date: 2021-07-05 11:20:02 
-categories: twitter 
---- 
-@nope_its_lily What do you mean by "you pay $10 for each" and then asking which should be priced higher?
