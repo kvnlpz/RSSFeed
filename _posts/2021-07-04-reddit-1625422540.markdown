@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why’s Cosmos 
-date: 2021-07-04 1625422540 
-categories: reddit 
---- 
-https://redd.it/odpwfo
