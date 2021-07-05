@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BIP 300 
-date: 2021-07-04 1625442300 
-categories: reddit 
---- 
-https://redd.it/odvpv8
