@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do exchanges get access to tokens/coins? 
-date: 2021-07-04 1625458087 
-categories: reddit 
---- 
-https://redd.it/odzfpd
