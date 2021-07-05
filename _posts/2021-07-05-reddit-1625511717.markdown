@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The term “smart contract” was first introduced by computer scientist and cryptographer Nick Szabo some 20 years ago / yet another smart contracts topic 
+date: 2021-07-05 1625511717 
+categories: reddit 
+--- 
+https://redd.it/oedw9g
