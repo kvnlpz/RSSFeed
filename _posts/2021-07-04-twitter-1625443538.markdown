@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 17:05:38 
-categories: twitter 
---- 
-RT @super_trades: $TDAC interview -  Europe numbers not in presentation revs
