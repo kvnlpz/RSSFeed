@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I have a file called "Bitcoin Wallet Private Key Backup" from 2014 and I have no idea how to restore it 
-date: 2021-07-04 1625443238 
-categories: reddit 
---- 
-https://redd.it/odvygy
