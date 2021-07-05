@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hi all, wanted to say hi and introduce myself! 
-date: 2021-07-04 1625452969 
-categories: reddit 
---- 
-https://redd.it/ody8se
