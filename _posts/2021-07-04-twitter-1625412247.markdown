@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-04 08:24:07 
-categories: twitter 
---- 
-@Slake48 What was the point of this comment?
