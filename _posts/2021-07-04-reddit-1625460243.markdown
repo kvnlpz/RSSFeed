@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase user trying to farm on pancake swap, stuck on the second to last step 
-date: 2021-07-04 1625460243 
-categories: reddit 
---- 
-https://redd.it/odzxr5
