@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hayafirst 
-date: 2021-07-04 18:16:07 
-categories: twitter 
---- 
-RT @muddywatersre: Maybe the market wasn’t pricing this risk in at $75B market cap. (sarcasm)
