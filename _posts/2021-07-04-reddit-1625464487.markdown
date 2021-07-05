@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tldr: What REALLY are Smart Contracts? 
+date: 2021-07-04 1625464487 
+categories: reddit 
+--- 
+https://redd.it/oe0wj9
