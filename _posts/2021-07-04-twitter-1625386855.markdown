@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BertandBen 
-date: 2021-07-04 01:20:55 
-categories: twitter 
---- 
-@nope_its_lily Don't forget the designer they ripped off and the lawyers they paid to help them
