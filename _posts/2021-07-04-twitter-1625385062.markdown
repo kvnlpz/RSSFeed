@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EveryoneSaysHi1 
-date: 2021-07-04 00:51:02 
-categories: twitter 
---- 
-RT @muddywatersre: @JoseCanseco How about his neighbor?
