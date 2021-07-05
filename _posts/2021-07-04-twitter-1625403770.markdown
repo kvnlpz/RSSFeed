@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JamesTrader12 
-date: 2021-07-04 06:02:50 
-categories: twitter 
---- 
-@timothysykes OTCs are a trading vehicle. Never an investment or something to hold
