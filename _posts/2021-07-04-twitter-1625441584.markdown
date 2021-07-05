@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trads 
-date: 2021-07-04 16:33:04 
-categories: twitter 
---- 
-RT @super_trades: $CMLF 13.50 alert the other day #SUPER #SWING
