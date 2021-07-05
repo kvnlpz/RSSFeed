@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 17:04:55 
-categories: twitter 
---- 
-RT @super_trades: I am a swing trader I do not WHINE and COMPLAIN if stocks do not do what I want when I want them as long as thesis does n…
