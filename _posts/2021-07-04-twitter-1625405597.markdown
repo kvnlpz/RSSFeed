@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @x2da4 
-date: 2021-07-04 06:33:17 
-categories: twitter 
---- 
-@muddywatersre https://t.co/2cEwnkhJcu
