@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JustStocksToday 
-date: 2021-07-04 10:05:11 
-categories: twitter 
---- 
-RT @InvestorsLive: Hopefully @ Canny4Wife will be live tweeting thoughts from couch today? 🙏
