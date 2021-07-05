@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @qsmngeh 
-date: 2021-07-04 14:45:42 
-categories: twitter 
---- 
-RT @SykesStudents: michaeldufresne - got into $CRON morning panic at 8.61 and out early at 8.92 for $1,500 https://t.co/GmnsSKgpkr
-
-$AOBC $…
