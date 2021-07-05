@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trads 
-date: 2021-07-04 16:32:34 
-categories: twitter 
---- 
-RT @super_trades: interesting a SPAC redoing the deal valuation we might see more of this ?
