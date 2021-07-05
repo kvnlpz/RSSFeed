@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @airman19871 
-date: 2021-07-04 07:45:19 
-categories: twitter 
---- 
-@timothysykes Who is the #1 most polluting company
