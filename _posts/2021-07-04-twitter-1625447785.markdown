@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Rivergothic 
-date: 2021-07-04 18:16:25 
-categories: twitter 
---- 
-@nope_its_lily You are interesting but slightly high maintenance.
