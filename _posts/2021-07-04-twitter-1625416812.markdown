@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EgnorRobert 
-date: 2021-07-04 09:40:12 
-categories: twitter 
---- 
-@InvestorsLive Are those apple Jack's or cheerios?
