@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @harukaxuan 
-date: 2021-07-04 21:18:50 
-categories: twitter 
---- 
-RT @muddywatersre: Maybe the market wasn’t pricing this risk in at $75B market cap. (sarcasm)
