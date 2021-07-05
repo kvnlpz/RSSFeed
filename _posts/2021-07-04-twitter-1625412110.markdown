@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theladiggy 
-date: 2021-07-04 08:21:50 
-categories: twitter 
---- 
-@InvestorsLive @OpenOutcrier fam: avoid all ccp names
