@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelWChan 
-date: 2021-07-04 09:35:21 
-categories: twitter 
---- 
-@InvestorsLive What are the indicators used to identify the rip, fail and unwind trades such as with NIO and CCIV last week?
