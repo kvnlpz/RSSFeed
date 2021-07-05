@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TMcNasty 
+date: 2021-07-05 16:01:55 
+categories: twitter 
+--- 
+@super_trades Why not just launch Supercoin?
