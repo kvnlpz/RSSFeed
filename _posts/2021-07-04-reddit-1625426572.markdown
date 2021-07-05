@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Corn dogs 
-date: 2021-07-04 1625426572 
-categories: reddit 
---- 
-https://redd.it/odr600
