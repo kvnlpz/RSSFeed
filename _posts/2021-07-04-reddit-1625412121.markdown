@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto payment 
-date: 2021-07-04 1625412121 
-categories: reddit 
---- 
-https://redd.it/odmk3i
