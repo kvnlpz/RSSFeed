@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nairbv 
+date: 2021-07-05 13:33:55 
+categories: twitter 
+--- 
+@nope_its_lily @CJoMaher If I write a little simulation of rebalancing into an asset with gaussian returns and zero… https://t.co/U558OEIbjM
