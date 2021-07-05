@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @acityinohio 
-date: 2021-07-04 11:18:17 
-categories: twitter 
---- 
-@nope_its_lily Didifinity
