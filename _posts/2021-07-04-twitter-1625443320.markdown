@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @option_trader75 
-date: 2021-07-04 17:02:00 
-categories: twitter 
---- 
-@InvestorsLive 1. Early/mid morning VWAP reclaim
-   2.Late/ EOD  VWAP reclaim
-What technical and fundamental charac… https://t.co/erE1g0GpGx
