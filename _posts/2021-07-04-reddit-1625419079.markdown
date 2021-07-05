@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You can filter out keywords from this subreddit if you want to. 
-date: 2021-07-04 1625419079 
-categories: reddit 
---- 
-https://redd.it/odoslh
