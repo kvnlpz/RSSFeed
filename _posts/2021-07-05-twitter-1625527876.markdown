@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ripntear6 
+date: 2021-07-05 16:31:16 
+categories: twitter 
+--- 
+@nope_its_lily The expected sharpe ratios for both are the same, which means that under mean variance optimality th… https://t.co/pjYF2qzJRz
