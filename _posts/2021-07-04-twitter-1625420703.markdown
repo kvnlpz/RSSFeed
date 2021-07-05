@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @2nice79 
-date: 2021-07-04 10:45:03 
-categories: twitter 
---- 
-@timothysykes You put yourself out there, and people are going to come at you. Defending is exhausting.
