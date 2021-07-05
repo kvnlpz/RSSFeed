@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tim_porter62 
-date: 2021-07-04 21:09:11 
-categories: twitter 
---- 
-@timothysykes 🙏
