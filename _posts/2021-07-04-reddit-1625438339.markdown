@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: IOHK Highlights Current Problems with Alonzo Testnet 
-date: 2021-07-04 1625438339 
-categories: reddit 
---- 
-https://redd.it/odunvq
