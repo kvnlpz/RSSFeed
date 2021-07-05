@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dongfidence 
-date: 2021-07-04 09:37:45 
-categories: twitter 
---- 
-@InvestorsLive Feed the candida
