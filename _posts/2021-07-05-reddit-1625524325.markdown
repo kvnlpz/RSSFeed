@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: DangerMoon Integrates Chainlink VRF to Securely Select Prize Pool Winners 
+date: 2021-07-05 1625524325 
+categories: reddit 
+--- 
+https://redd.it/oehyp0
