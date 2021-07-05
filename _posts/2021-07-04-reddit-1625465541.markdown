@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This simple stat, correlates crypto adoption worldwide. 
-date: 2021-07-04 1625465541 
-categories: reddit 
---- 
-https://redd.it/oe14uh
