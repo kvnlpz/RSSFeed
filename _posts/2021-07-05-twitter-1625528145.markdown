@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ripntear6 
+date: 2021-07-05 16:35:45 
+categories: twitter 
+--- 
+@nope_its_lily Which means the optimal portfolio will favor more of Asset A than B.
