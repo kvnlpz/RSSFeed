@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 17:15:01 
-categories: twitter 
---- 
-RT @super_trades: remember $PHUN also made huge overshoot move
