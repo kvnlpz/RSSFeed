@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Terrence_STR 
-date: 2021-07-04 16:34:59 
-categories: twitter 
---- 
-@timothysykes https://t.co/LQsPbUxMsv
