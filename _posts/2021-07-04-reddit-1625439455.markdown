@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Strike, a Bitcoin cryptocurrency exchange that competes with Coinbase, promises lower fee's and better service. 
-date: 2021-07-04 1625439455 
-categories: reddit 
---- 
-https://redd.it/oduyr0
