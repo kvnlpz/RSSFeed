@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I do a bit of staking myself… 
-date: 2021-07-04 1625436537 
-categories: reddit 
---- 
-https://redd.it/odu627
