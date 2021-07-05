@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Random thoughts 
-date: 2021-07-04 1625407760 
-categories: reddit 
---- 
-https://redd.it/odl678
