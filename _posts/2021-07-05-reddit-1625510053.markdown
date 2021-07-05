@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If there are only around 10 000 nodes, why can't a government just spin up some nodes and violate bitcoin consensus? 
+date: 2021-07-05 1625510053 
+categories: reddit 
+--- 
+https://redd.it/oedc3y
