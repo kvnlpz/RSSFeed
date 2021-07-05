@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The future is bright! 
-date: 2021-07-04 1625410854 
-categories: reddit 
---- 
-https://redd.it/odm5ad
