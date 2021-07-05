@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jasondaeger 
-date: 2021-07-04 11:15:33 
-categories: twitter 
---- 
-@super_trades Happy 4th. Paul take a look at the chart on $sypr and let me know your thoughts
