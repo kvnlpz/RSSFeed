@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BCAssetsFund 
-date: 2021-07-04 17:09:56 
-categories: twitter 
---- 
-@muddywatersre China Hustle Rug Pull
