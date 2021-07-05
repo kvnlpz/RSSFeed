@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-04 17:03:03 
-categories: twitter 
---- 
-@AidasTrade Hahaha I used to go haaaaard
