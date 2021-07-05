@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @podshorts 
-date: 2021-07-04 11:46:50 
-categories: twitter 
---- 
-@InvestorsLive Question:  Overtrading is a problem for me. How do you find the discipline to trade less and preserve your capital?
