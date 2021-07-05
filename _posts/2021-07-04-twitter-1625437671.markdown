@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeyRondoo 
-date: 2021-07-04 15:27:51 
-categories: twitter 
---- 
-@timothysykes you have no idea the potential of this https://t.co/YRdG8TRJlf
