@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zakfehrmann 
-date: 2021-07-04 08:29:35 
-categories: twitter 
---- 
-@OddStockTrader @CandyDigital Can’t even load their site
