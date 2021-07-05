@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 1. Last week's haskell/plutus study group by mirqur.io (MRQR) is online now; 2. Reminder: today we meet again! 
-date: 2021-07-04 1625467664 
-categories: reddit 
---- 
-https://redd.it/oe1l5n
