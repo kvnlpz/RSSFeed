@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-04 07:14:08 
-categories: twitter 
---- 
-Then you've lived up to your potential and beat me by age handicap only.
