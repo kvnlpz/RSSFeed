@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BitcoinMonke 
-date: 2021-07-04 11:22:55 
-categories: twitter 
---- 
-@nope_its_lily Cant wait for the WSB loss porn
