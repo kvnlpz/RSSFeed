@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 17:12:33 
-categories: twitter 
---- 
-RT @super_trades: https://t.co/XueQG7r43C - Posted a New Video Lesson: Video #1281 Wednesday Video Update !!!
