@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Another noob question - 51% attack is self defeating, what is the point? 
-date: 2021-07-04 1625434476 
-categories: reddit 
---- 
-https://redd.it/odtk71
