@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @danieldovale_ 
-date: 2021-07-04 18:16:54 
-categories: twitter 
---- 
-@RayTL_ 😍
