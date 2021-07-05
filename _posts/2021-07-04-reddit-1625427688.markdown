@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone else facing this issue on the brave publishers website? 
-date: 2021-07-04 1625427688 
-categories: reddit 
---- 
-https://redd.it/odri64
