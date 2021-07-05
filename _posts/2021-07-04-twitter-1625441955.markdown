@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-04 16:39:15 
-categories: twitter 
---- 
-RT @timothysykes: NEW BLOG POST: https://t.co/NuuxdCmT5Y Celebrating Freedom, Justice, &amp; Trading For All! Happy July 4th, no better way tha…
