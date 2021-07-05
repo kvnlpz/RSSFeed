@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @serlindsipity 
-date: 2021-07-04 15:57:25 
-categories: twitter 
---- 
-@nope_its_lily @Bonecondor Careful, you keep asking questions and they're gonna call you uppity.
