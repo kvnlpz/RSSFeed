@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Idea for an app to expand bitcoin commerce and get us all some more Sats. Someone wanna build it? 
-date: 2021-07-04 1625463492 
-categories: reddit 
---- 
-https://redd.it/oe0opv
