@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cold wallet and growing crypto 
-date: 2021-07-04 1625425943 
-categories: reddit 
---- 
-https://redd.it/odqz18
