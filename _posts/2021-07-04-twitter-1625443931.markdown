@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 17:12:11 
-categories: twitter 
---- 
-RT @super_trades: Elrond DeFi 2.0: The Era Of Autonomous Banking, A 100-Trillion Dollar Opportunity https://t.co/rZnITv6crX
