@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FedoraTrading 
-date: 2021-07-04 19:32:58 
-categories: twitter 
---- 
-@muddywatersre @JShpigler You’re correct. Many will complain that they didn’t understand the true intent. Best to b… https://t.co/PahWfgjbQv
