@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: newbie question - use 3 different wallets with the same seed? 
-date: 2021-07-04 1625418754 
-categories: reddit 
---- 
-https://redd.it/odoozn
