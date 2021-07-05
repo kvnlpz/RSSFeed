@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 17:12:08 
-categories: twitter 
---- 
-RT @super_trades: The market is on edge about inflation, so this number could be a big deal @CNBC  https://t.co/8GZuLKCiWd
