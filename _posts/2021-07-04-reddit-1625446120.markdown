@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: about private key 
-date: 2021-07-04 1625446120 
-categories: reddit 
---- 
-https://redd.it/odwno2
