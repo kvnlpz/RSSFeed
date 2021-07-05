@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fake Coinbase scam (text) 
-date: 2021-07-04 1625431841 
-categories: reddit 
---- 
-https://redd.it/odsrs3
