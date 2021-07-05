@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 17:14:38 
-categories: twitter 
---- 
-RT @super_trades: https://t.co/vt99QT6AkN - Posted a New Watchlist: Thursday Focus List !!!
