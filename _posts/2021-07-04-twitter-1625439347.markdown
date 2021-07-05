@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xElm0 
-date: 2021-07-04 15:55:47 
-categories: twitter 
---- 
-@nope_its_lily @kgreifeld https://t.co/ODqDuBDuBO
