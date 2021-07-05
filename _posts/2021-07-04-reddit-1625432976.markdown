@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Don't Get Greedy 
-date: 2021-07-04 1625432976 
-categories: reddit 
---- 
-https://redd.it/odt47m
