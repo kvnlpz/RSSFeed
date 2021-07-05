@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are the most promising projects that are coming to the cardano ecosystem? 
-date: 2021-07-04 1625448807 
-categories: reddit 
---- 
-https://redd.it/odxa6q
