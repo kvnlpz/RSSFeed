@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JianaLamba 
-date: 2021-07-04 16:33:08 
-categories: twitter 
---- 
-RT @timothysykes: People think success is easy...nope. We all fail MANY TIMES on the way to success. https://t.co/PJqAGoLVif
