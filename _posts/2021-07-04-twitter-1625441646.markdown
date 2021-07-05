@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trads 
-date: 2021-07-04 16:34:06 
-categories: twitter 
---- 
-RT @super_trades: $TDAC has the largest TAM and lowest float / OS (heavily shorted) of any SPAC , S4 set to drop any day : @MrZackMorris @W…
