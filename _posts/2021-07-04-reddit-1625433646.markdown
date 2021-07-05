@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Mining Report Claims Miner Energy Consumption Mix 56% Sustainable in Q2 – Mining Bitcoin News 
-date: 2021-07-04 1625433646 
-categories: reddit 
---- 
-https://redd.it/odtbd2
