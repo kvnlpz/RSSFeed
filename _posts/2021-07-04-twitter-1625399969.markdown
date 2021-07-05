@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CrappyIm 
-date: 2021-07-04 04:59:29 
-categories: twitter 
---- 
-@timothysykes celebrate your freedom... just dont get caught
