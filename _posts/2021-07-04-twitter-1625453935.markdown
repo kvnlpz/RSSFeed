@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @code210neil 
-date: 2021-07-04 19:58:55 
-categories: twitter 
---- 
-RT @timothysykes: HOW BAD DO YOU WANT SUCCESS?! HOW HARD WILL YOU HUSTLE TO MAKE IT HAPPEN?!
