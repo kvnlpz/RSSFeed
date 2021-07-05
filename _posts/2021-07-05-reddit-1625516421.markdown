@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Just a question, I’m just curious. How many people here do actually backtest their trading strategies and do a comparison with a buy and hold strategy of the underlying stock. 
+date: 2021-07-05 1625516421 
+categories: reddit 
+--- 
+https://redd.it/oefgy2
