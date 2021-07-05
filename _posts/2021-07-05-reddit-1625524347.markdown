@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BarnBridge Integrates Chainlink Keepers to Automate SMART Exposure Product 
+date: 2021-07-05 1625524347 
+categories: reddit 
+--- 
+https://redd.it/oehyz4
