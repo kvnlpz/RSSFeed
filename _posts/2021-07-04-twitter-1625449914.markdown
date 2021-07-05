@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BozWirth 
-date: 2021-07-04 18:51:54 
-categories: twitter 
---- 
-RT @timothysykes: STUDY SUNDAY NEW VIDEO LESSON: https://t.co/j0z44uRbrm Why You Should Expect The Worst Out Of Everyone In Finance! It's G…
