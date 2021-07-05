@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maykobhek 
-date: 2021-07-04 17:11:41 
-categories: twitter 
---- 
-RT @super_trades: $LEXX rocking in the 8's on study data from alert in the 5's #SUPER
