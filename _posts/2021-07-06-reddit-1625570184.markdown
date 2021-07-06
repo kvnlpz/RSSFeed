@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Every Wednesday there is a hosted Bitcoin Core Pull Request Review Club on IRC. All welcome to join. Tomorrow's topic: PR22363 - Use `script_util` helpers for creating P2{PKH,SH,WPKH,WSH} scripts 
-date: 2021-07-06 1625570184 
-categories: reddit 
---- 
-https://redd.it/oesurj
