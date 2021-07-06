@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A comparison between Descentralized exchanges on the Cardano Ecosystem 
-date: 2021-07-05 1625529894 
-categories: reddit 
---- 
-https://redd.it/oejjy7
