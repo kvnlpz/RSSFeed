@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pt. 5 QR code hardware wallets, why Lopp started Casa & why self-custody BTC - To the Moon 16 
-date: 2021-07-06 1625586402 
-categories: reddit 
---- 
-https://redd.it/oexl4f
