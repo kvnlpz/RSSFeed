@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: This is the essence of ETC: Why Proof of Work Based Nakamoto Consensus Is Secure and Complete 
+date: 2021-07-06 1625614860 
+categories: reddit 
+--- 
+https://redd.it/of6zvc
