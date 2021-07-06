@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeBellafiore6 
-date: 2021-07-06 03:02:43 
-categories: twitter 
---- 
-RT @MikeBellafiore: You Are Trading Better Than You Think https://t.co/w3vNUiBniZ
