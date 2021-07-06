@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cloudera 
-date: 2021-07-06 1625567318 
-categories: reddit 
---- 
-https://redd.it/oes8p8
