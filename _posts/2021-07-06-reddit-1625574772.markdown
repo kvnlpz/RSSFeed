@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin supply on exchange plunge to six-month low 
-date: 2021-07-06 1625574772 
-categories: reddit 
---- 
-https://redd.it/oeshzc
