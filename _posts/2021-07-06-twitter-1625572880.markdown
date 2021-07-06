@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderTexMex 
-date: 2021-07-06 05:01:20 
-categories: twitter 
---- 
-$SLNO Soleno Therapeutics Provides Regulatory Update on DCCR for the Treatment of Prader-Willi Syndrome 
-
-FDA agree… https://t.co/nLyoijGroL
