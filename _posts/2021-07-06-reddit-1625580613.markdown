@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You need to understand Metcalfe's law. If you can't understand or explain Metcalfe's law, then you can't explain how your coin is better than Bitcoin or Ethereum. 
-date: 2021-07-06 1625580613 
-categories: reddit 
---- 
-https://redd.it/oevomb
