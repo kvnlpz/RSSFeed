@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: An answer to the question I keep seeing: What's the difference between staking on Yoroi/Daedalus vs my exchange? 
+date: 2021-07-06 1625577558 
+categories: reddit 
+--- 
+https://redd.it/oeurue
