@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When are Bitcoin transactions the cheapest? 
-date: 2021-07-05 1625473238 
-categories: reddit 
---- 
-https://redd.it/oe2qk0
