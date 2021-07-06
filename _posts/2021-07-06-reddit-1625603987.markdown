@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why, for example, would you lose your ETH if you accidentally sent to a BTC address? 
+date: 2021-07-06 1625603987 
+categories: reddit 
+--- 
+https://redd.it/of3lmj
