@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We need to discuss this issue. Data shows that liquidity providers using Uniswap V3's active liquidity management are performing worse than simply holding their tokens. Not only Uniswap V3 LPs are not making money, they are also at risk of losing money due to impermanent loss 
-date: 2021-07-06 1625557615 
-categories: reddit 
---- 
-https://redd.it/oeqb08
