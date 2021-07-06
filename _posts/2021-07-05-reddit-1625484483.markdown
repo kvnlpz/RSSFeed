@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nonce Finance will launch on Polygon! 
-date: 2021-07-05 1625484483 
-categories: reddit 
---- 
-https://redd.it/oe5f0x
