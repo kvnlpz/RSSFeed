@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH-ZIL is just the start. It allows us to get into multi-chain environment much more rapidly than other chains 
-date: 2021-07-06 1625588138 
-categories: reddit 
---- 
-https://redd.it/oey745
