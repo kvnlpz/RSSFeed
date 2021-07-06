@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Something is happening here and it might be worth a look 
-date: 2021-07-05 1625538731 
-categories: reddit 
---- 
-https://redd.it/oelvze
