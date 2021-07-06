@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Darin_T80 
-date: 2021-07-05 19:24:36 
-categories: twitter 
---- 
-@nope_its_lily Fe
