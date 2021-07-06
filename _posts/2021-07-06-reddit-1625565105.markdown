@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why mining Bitcoin is now so much easier 
-date: 2021-07-06 1625565105 
-categories: reddit 
---- 
-https://redd.it/oerrsz
