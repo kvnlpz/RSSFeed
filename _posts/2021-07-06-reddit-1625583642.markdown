@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: VALE DD - news updates at the bottom 
-date: 2021-07-06 1625583642 
-categories: reddit 
---- 
-https://redd.it/oewntt
