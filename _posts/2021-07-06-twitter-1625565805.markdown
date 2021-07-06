@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @MikeBellafiore6 
+date: 2021-07-06 03:03:25 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Said to a struggling retail trader:
+
+It is not enough to work hard as a trader.
+You need to be deploying strategies wit…
