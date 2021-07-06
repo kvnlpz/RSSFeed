@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KBase90 
-date: 2021-07-05 14:49:18 
-categories: twitter 
---- 
-@timothysykes This weeks live webinar schedule is out!✅🗓
