@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-05 18:24:49 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/vmqI7JIvOm - Posted a New Video Lesson: #7476-7479: Soooooooooo Many Useful Lessons All In 1 Video
