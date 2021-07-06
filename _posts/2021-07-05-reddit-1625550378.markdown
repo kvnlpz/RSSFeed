@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 600k Yolo on $baba 
-date: 2021-07-05 1625550378 
-categories: reddit 
---- 
-https://redd.it/oeosed
