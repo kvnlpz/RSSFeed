@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrJJB 
-date: 2021-07-06 02:39:09 
-categories: twitter 
---- 
-@InvestorsLive With all your body parts?
