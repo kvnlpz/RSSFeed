@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @breakingthemark 
-date: 2021-07-05 15:28:02 
-categories: twitter 
---- 
-@nope_its_lily what's the drift of the two, and is that drift representative of the expected return or the expected log return?
