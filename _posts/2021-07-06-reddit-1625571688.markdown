@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are your favorite fully working coins? 
-date: 2021-07-06 1625571688 
-categories: reddit 
---- 
-https://redd.it/oet7ls
