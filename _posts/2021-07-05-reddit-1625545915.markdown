@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Understanding the cost of exiting a CSP 
+date: 2021-07-05 1625545915 
+categories: reddit 
+--- 
+https://redd.it/oenqcb
