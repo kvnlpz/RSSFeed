@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to receive BAT tips from sites like Reddit and YouTube 
-date: 2021-07-05 1625539925 
-categories: reddit 
---- 
-https://redd.it/oem7bs
