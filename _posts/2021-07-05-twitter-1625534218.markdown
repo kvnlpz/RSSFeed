@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-05 18:16:58 
-categories: twitter 
---- 
-Please reach out to @OddStockTrader for business inquiries.
