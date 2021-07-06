@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Whale Watchers, there is a Jitsi Meet video/audio conference session set up on F1pp0. If you have the Jitsi Meet app on your device you can find the room ID on the attached picture. Otherwise the conference room can be found at f1ipp0.com/whale-watch/ along with top Whale Watch Twitter feeds 
-date: 2021-07-05 1625474512 
-categories: reddit 
---- 
-https://redd.it/oe30um
