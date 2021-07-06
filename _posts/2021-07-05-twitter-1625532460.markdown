@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @k_cronin_trader 
+date: 2021-07-05 17:47:40 
+categories: twitter 
+--- 
+@super_trades @super_trades I personally know the creator of https://t.co/kgOoOgH1Ae, it's a pretty exciting real world use case project.
