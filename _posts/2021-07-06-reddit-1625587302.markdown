@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I created a Python script that will send alerts to your phone/computer when ETH gas prices go less than or equal to a user specified value so you can cost effectively use Ethereum. 
-date: 2021-07-06 1625587302 
-categories: reddit 
---- 
-https://redd.it/oexwe9
