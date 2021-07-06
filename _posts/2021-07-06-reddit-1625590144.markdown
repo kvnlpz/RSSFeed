@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone here know what the cost of hiring a solidity developer is? 
-date: 2021-07-06 1625590144 
-categories: reddit 
---- 
-https://redd.it/oeyvl7
