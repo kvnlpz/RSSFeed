@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We accept crypto payments 
-date: 2021-07-05 1625472756 
-categories: reddit 
---- 
-https://redd.it/oe2mpq
