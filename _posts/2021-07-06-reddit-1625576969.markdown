@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PMCC - How to close short leg 
-date: 2021-07-06 1625576969 
-categories: reddit 
---- 
-https://redd.it/oeulor
