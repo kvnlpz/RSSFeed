@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does anyone mess with Covered Puts? 
-date: 2021-07-05 1625486092 
-categories: reddit 
---- 
-https://redd.it/oe5tlu
