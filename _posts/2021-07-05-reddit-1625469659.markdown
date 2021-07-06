@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Analysis 
-date: 2021-07-05 1625469659 
-categories: reddit 
---- 
-https://redd.it/oe2055
