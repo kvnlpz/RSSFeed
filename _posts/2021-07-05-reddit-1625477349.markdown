@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Weekly Stock Market Review 
-date: 2021-07-05 1625477349 
-categories: reddit 
---- 
-https://redd.it/oe3rzs
