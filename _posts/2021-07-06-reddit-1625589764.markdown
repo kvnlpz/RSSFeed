@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BAT price trend chart 
-date: 2021-07-06 1625589764 
-categories: reddit 
---- 
-https://redd.it/oeyqvf
