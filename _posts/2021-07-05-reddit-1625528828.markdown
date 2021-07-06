@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Getting Monero 
-date: 2021-07-05 1625528828 
-categories: reddit 
---- 
-https://redd.it/oej9ej
