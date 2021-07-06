@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-06 13:37:29 
+categories: twitter 
+--- 
+@AnthonyLeeZhang @GuilleAngeris @tarunchitra idk this sounds very hard compared to cloning Uniswap's source code an… https://t.co/HYWJtQIwy1
