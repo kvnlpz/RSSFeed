@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking ETH 
-date: 2021-07-06 1625568769 
-categories: reddit 
---- 
-https://redd.it/oesjhr
