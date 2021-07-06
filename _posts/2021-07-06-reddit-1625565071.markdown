@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin difficulty adjustment (%) and its history with price (open vs close, high vs low --daily) 
-date: 2021-07-06 1625565071 
-categories: reddit 
---- 
-https://redd.it/oerrky
