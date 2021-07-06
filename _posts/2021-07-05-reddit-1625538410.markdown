@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Questions about ASIC mining hardware. 
+date: 2021-07-05 1625538410 
+categories: reddit 
+--- 
+https://redd.it/oelsy2
