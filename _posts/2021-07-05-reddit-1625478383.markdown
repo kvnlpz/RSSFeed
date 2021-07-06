@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The number of addresses with less than 1,000 BTC balances showing reversal means sellers are exhausted. 
-date: 2021-07-05 1625478383 
-categories: reddit 
---- 
-https://redd.it/oe409b
