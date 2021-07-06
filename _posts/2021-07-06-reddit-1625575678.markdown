@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: London EIP-1559 Date to be Announced This Week at Ethereum Core Devs Meeting on July 9th 
+date: 2021-07-06 1625575678 
+categories: reddit 
+--- 
+https://redd.it/oeu88b
