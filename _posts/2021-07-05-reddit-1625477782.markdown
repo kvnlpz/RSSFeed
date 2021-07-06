@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledger Live doesn't work, trying to connect Ledger to Temple but it doesn't let me choose which Ledger account i want to connect to Temple 
-date: 2021-07-05 1625477782 
-categories: reddit 
---- 
-https://redd.it/oe3vdn
