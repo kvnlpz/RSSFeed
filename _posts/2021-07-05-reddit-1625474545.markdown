@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone else having problems converting coin to XRP on FTX? 
-date: 2021-07-05 1625474545 
-categories: reddit 
---- 
-https://redd.it/oe30z5
