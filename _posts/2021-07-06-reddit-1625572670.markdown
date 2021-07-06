@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: USDC or DAI? 
-date: 2021-07-06 1625572670 
-categories: reddit 
---- 
-https://redd.it/oetfrv
