@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MauE_Trader 
-date: 2021-07-05 21:57:09 
-categories: twitter 
---- 
-@offshorehunters This one is a tough one!
