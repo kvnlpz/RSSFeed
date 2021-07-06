@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For those who want to learn how to read charts (Candlestick Chart Basics) 
-date: 2021-07-06 1625580530 
-categories: reddit 
---- 
-https://redd.it/oevnpf
