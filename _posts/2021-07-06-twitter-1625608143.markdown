@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @desgrippes 
+date: 2021-07-06 14:49:03 
+categories: twitter 
+--- 
+@nope_its_lily Did you know there is a 'vol' project on Solana called ROPE? 
+
+https://t.co/1qZuCxllsa
