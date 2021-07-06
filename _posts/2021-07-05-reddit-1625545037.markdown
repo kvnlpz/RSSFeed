@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How secure is my ledger cold wallet? 
-date: 2021-07-05 1625545037 
-categories: reddit 
---- 
-https://redd.it/oeniv2
