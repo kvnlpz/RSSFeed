@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @steven1_9945 
-date: 2021-07-05 15:28:17 
-categories: twitter 
---- 
-RT @Steven1_994: Super boring month 
-How’s everyone trading month so far ?
