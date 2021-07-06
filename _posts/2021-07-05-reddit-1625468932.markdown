@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Application-Specific Blockchains: Addressing the Shortcomings of Smart Contracts and why a project the size of Onomy.io selected Cosmos as its operating Blockchain 
-date: 2021-07-05 1625468932 
-categories: reddit 
---- 
-https://redd.it/oe1uo4
