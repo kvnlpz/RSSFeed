@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Secure bitcoin wallet that support passphrase 
+date: 2021-07-05 1625548350 
+categories: reddit 
+--- 
+https://redd.it/oelze0
