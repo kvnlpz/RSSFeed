@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pedersen Commitment query. 
-date: 2021-07-05 1625484714 
-categories: reddit 
---- 
-https://redd.it/oe5h6z
