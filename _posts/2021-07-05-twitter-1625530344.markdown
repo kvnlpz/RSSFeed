@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @gregdsports 
+date: 2021-07-05 17:12:24 
+categories: twitter 
+--- 
+RT @RayTL_: I trade on: @IBKR
+Chart on: @StockCharts @TrendSpider @tradingview
+Scan/WLs on: @thinkorswim @MarketSmith
+Journal on: @msonenot…
