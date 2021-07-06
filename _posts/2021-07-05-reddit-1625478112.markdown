@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Total Domination Scenario: The Case for Ethereum (ETH) 
-date: 2021-07-05 1625478112 
-categories: reddit 
---- 
-https://redd.it/oe3y0f
