@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin price today is $33,878.83 USD with a 24-hour trading volume of $26,097,662,575 USD. Bitcoin is down 1.82% in the last 24 hours. The current CoinMarketCap ranking is #1, with a live market cap of $635,191,578,306 USD. It has a circulating supply of 18,748,925 BTC coins and a max. sup 
-date: 2021-07-05 1625539643 
-categories: reddit 
---- 
-https://redd.it/oem4mf
