@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Adammargolis 
-date: 2021-07-05 22:55:24 
-categories: twitter 
---- 
-@nope_its_lily The story is a lot more nuanced than the headline.
