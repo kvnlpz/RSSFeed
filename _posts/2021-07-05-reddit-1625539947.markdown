@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “… it’s a real Bitcoin, from a guy I met outside Walmart!” 
-date: 2021-07-05 1625539947 
-categories: reddit 
---- 
-https://redd.it/oem7kq
