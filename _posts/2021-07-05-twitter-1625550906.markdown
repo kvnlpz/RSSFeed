@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @heisenspergXBT 
-date: 2021-07-05 22:55:06 
-categories: twitter 
---- 
-@nope_its_lily i wouldnt panic, but we should definitely panic soon https://t.co/Bqp8q9vve4
