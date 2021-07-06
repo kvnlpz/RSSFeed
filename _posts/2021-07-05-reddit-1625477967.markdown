@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is the Bitcoin block size over 1 MB? 
-date: 2021-07-05 1625477967 
-categories: reddit 
---- 
-https://redd.it/oe3wv1
