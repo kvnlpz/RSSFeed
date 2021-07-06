@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Cardano Foundation Strategy 2021 
-date: 2021-07-06 1625566780 
-categories: reddit 
---- 
-https://redd.it/oes4g4
