@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GanrudeTom 
-date: 2021-07-05 19:28:29 
-categories: twitter 
---- 
-@super_trades Savage!
