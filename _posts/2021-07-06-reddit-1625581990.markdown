@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about csp expiring itm after a reverse split 
-date: 2021-07-06 1625581990 
-categories: reddit 
---- 
-https://redd.it/oew4md
