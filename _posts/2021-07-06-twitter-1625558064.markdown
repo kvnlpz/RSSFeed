@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZiegEric 
-date: 2021-07-06 00:54:24 
-categories: twitter 
---- 
-@nope_its_lily Thanks! Was trying to find info on this just the other day!
