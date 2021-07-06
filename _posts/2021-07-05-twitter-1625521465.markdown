@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @breakingthemark 
-date: 2021-07-05 14:44:25 
-categories: twitter 
---- 
-@nope_its_lily Its strange to think about it in terms of "priced", but assuming all correlation relationships are e… https://t.co/5e67fkWD2p
