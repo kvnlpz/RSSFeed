@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Restoring Segwit wallet with a legacy wallet 
-date: 2021-07-05 1625476320 
-categories: reddit 
---- 
-https://redd.it/oe3hcf
