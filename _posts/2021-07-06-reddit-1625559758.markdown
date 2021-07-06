@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I will work for ATOM 
-date: 2021-07-06 1625559758 
-categories: reddit 
---- 
-https://redd.it/oeqqns
