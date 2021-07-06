@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @LauraPilkingt13 
+date: 2021-07-06 14:45:57 
+categories: twitter 
+--- 
+@nope_its_lily Sooo... your wallet address is Little Endian?
+
+I suppose that makes sense, democratization, x86.
