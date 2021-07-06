@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Interesting post on the frontpage of reddit 
+date: 2021-07-06 1625581282 
+categories: reddit 
+--- 
+https://redd.it/oevwi0
