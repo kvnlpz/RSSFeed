@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happened during the weekend you ask? Here's a recap: 
-date: 2021-07-05 1625486385 
-categories: reddit 
---- 
-https://redd.it/oe5v7k
