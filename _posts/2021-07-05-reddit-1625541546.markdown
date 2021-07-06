@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Certain subreddits will not allow the same link to be posted more than once a week. Would this be something you would like to see implemented to this sub? 
-date: 2021-07-05 1625541546 
-categories: reddit 
---- 
-https://redd.it/oemmp9
