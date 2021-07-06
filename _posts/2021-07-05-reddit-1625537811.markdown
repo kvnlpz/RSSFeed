@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any examples of Payment for Order Flow at work? 
-date: 2021-07-05 1625537811 
-categories: reddit 
---- 
-https://redd.it/oelnc3
