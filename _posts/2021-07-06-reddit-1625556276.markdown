@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why nobody is talking about the faliure of Uniswap V3? Data shows that liquidity providers using Uni V3's active liquidity management are performing worse than simply holding their tokens. Not only Uni V3 LPs are not making money, they are also at risk of losing money due to impermanent loss 
-date: 2021-07-06 1625556276 
-categories: reddit 
---- 
-https://redd.it/oeq17z
