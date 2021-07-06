@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do you folks carry your hardware wallet daily? Use cases? 
-date: 2021-07-05 1625534332 
-categories: reddit 
---- 
-https://redd.it/oekq15
