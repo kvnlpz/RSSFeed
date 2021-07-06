@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @SpaghettiCode4 
+date: 2021-07-06 13:34:46 
+categories: twitter 
+--- 
+@InvestorsLive I look forward to it!
