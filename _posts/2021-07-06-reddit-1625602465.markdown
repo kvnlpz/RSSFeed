@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ethereum EIP-1559 "fee burn" proposal delayed until August 
+date: 2021-07-06 1625602465 
+categories: reddit 
+--- 
+https://redd.it/of33do
