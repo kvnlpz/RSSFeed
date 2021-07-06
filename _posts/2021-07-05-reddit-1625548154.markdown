@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Made some minimalist, high-res desktop Cosmos images because I couldn't seem to find any I liked online already! I love ATOM! 
-date: 2021-07-05 1625548154 
-categories: reddit 
---- 
-https://redd.it/oeo9ri
