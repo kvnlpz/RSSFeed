@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeBellafiore6 
-date: 2021-07-06 03:04:14 
-categories: twitter 
---- 
-RT @MikeBellafiore: Flashback: one of my favorite people in trading stopped by for one of our best guest lectures @todd_harrison 
-
-How to i…
