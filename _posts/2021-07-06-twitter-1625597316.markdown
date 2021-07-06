@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @__todo 
+date: 2021-07-06 11:48:36 
+categories: twitter 
+--- 
+RT @InvestorsLive: Learn to be okay with being wrong. https://t.co/HFewtww2NM
