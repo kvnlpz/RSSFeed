@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should I move from Daedalus to Yoroi? Plus other questions 
-date: 2021-07-05 1625476155 
-categories: reddit 
---- 
-https://redd.it/oe3fkt
