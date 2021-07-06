@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PNC and Fund Transfer Compatibility 
-date: 2021-07-05 1625532426 
-categories: reddit 
---- 
-https://redd.it/oek7qc
