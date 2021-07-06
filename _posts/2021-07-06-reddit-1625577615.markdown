@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to Start with Bitcoin Technical Development 
+date: 2021-07-06 1625577615 
+categories: reddit 
+--- 
+https://redd.it/oeusdu
