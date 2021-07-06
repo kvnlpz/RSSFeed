@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transaction not received ? 
-date: 2021-07-05 1625535695 
-categories: reddit 
---- 
-https://redd.it/oel2yq
