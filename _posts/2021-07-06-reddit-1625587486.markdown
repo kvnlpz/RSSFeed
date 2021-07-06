@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hedge against Tether - flaws? 
-date: 2021-07-06 1625587486 
-categories: reddit 
---- 
-https://redd.it/oexypy
