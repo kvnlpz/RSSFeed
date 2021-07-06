@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to calculate how many puts to sell on margin while being able to sustain N% market downturn? 
+date: 2021-07-06 1625599961 
+categories: reddit 
+--- 
+https://redd.it/of28qh
