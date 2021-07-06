@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shiden (SDN) Wins The Third Kusama Parachain Slot Auction 
-date: 2021-07-06 1625577829 
-categories: reddit 
---- 
-https://redd.it/oeuuiu
