@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Daemon is only 7.5gb on one computer, and 54 gb on another yet "fully synchronized" 
+date: 2021-07-06 1625572682 
+categories: reddit 
+--- 
+https://redd.it/oetfyk
