@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: USDT warning 
-date: 2021-07-06 1625560322 
-categories: reddit 
---- 
-https://redd.it/oequj7
