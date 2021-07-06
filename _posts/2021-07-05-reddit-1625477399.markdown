@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SIGHASH_ANYPREVOUTPUT Question: Won't the eltoo proposal allow someone to transfer ownership of bitcoin at an address without a chain transaction? 
-date: 2021-07-05 1625477399 
-categories: reddit 
---- 
-https://redd.it/oe3sd7
