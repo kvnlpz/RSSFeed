@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelGKress 
-date: 2021-07-05 19:23:19 
-categories: twitter 
---- 
-RT @super_trades: Researching stocks and blockchain/crypto projects !!
