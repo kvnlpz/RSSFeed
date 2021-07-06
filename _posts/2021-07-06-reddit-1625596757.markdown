@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Exodus as replacement for hardware wallet 
+date: 2021-07-06 1625596757 
+categories: reddit 
+--- 
+https://redd.it/of15kf
