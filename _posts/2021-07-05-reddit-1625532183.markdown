@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Boom 
-date: 2021-07-05 1625532183 
-categories: reddit 
---- 
-https://redd.it/oehiwb
