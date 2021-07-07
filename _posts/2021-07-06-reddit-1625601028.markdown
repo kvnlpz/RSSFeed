@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Since Moons are an Ethereum based token, does this mean they can be staked once ETH2.0 has been released? 
-date: 2021-07-06 1625601028 
-categories: reddit 
---- 
-https://redd.it/of2lqs
