@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: self-host mixer 
-date: 2021-07-06 1625594348 
-categories: reddit 
---- 
-https://redd.it/of0bxf
