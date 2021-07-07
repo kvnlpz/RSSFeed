@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Difficulty bomb explained by James Hancock 
-date: 2021-07-07 1625667799 
-categories: reddit 
---- 
-https://redd.it/ofjw1w
