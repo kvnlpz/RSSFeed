@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Kiln 0.10.1 is now available 
-date: 2021-07-07 1625669999 
-categories: reddit 
---- 
-https://redd.it/ofjtoc
