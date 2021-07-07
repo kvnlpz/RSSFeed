@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $AMZN Broke a Major Support 
-date: 2021-07-06 1625606682 
-categories: reddit 
---- 
-https://redd.it/of4hl3
