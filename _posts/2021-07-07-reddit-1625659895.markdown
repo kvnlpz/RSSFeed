@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about WELT 
-date: 2021-07-07 1625659895 
-categories: reddit 
---- 
-https://redd.it/ofhn17
