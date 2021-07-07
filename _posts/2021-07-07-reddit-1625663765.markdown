@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Converting my portfolio of alt coins to only BTC and ETH 
-date: 2021-07-07 1625663765 
-categories: reddit 
---- 
-https://redd.it/ofiogf
