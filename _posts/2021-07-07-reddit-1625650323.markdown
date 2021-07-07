@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How do I mine Monero on one PC and store the coins somewhere else? 
+date: 2021-07-07 1625650323 
+categories: reddit 
+--- 
+https://redd.it/offil5
