@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Facts! 
-date: 2021-07-07 1625669303 
-categories: reddit 
---- 
-https://redd.it/ofkd8e
