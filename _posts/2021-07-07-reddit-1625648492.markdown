@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chinese crypto miners are dumping GPUs on secondhand trading site 
-date: 2021-07-07 1625648492 
-categories: reddit 
---- 
-https://redd.it/off5qu
