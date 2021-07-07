@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JustStocksToday 
+date: 2021-07-07 14:58:00 
+categories: twitter 
+--- 
+RT @InvestorsLive: Ready to build your first trading computer? Check out this guide https://t.co/iVnoHpYIs5 https://t.co/CyufcGGKFR
