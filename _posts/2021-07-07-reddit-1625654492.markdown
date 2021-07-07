@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Swiss Bank Sygnum Becomes First Regulated Bank To Offer ETH 2.0 Staking 
-date: 2021-07-07 1625654492 
-categories: reddit 
---- 
-https://redd.it/ofgcv2
