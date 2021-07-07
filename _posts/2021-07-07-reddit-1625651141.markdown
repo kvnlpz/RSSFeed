@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Solana (SOL) | A Web-Scale Blockchain for Secure and Scalable Decentralized Apps and Marketplaces. 
-date: 2021-07-07 1625651141 
-categories: reddit 
---- 
-https://redd.it/offoas
