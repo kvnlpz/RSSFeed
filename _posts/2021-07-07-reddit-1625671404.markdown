@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What’s EIP-1559? Understanding Ethereum’s next big upgrade: Coinbase emailed a nice explanation 
+date: 2021-07-07 1625671404 
+categories: reddit 
+--- 
+https://redd.it/ofl33v
