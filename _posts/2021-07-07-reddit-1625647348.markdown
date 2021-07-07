@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to withdraw BTC through lightning network with most exchanges even if they do not support it. 
-date: 2021-07-07 1625647348 
-categories: reddit 
---- 
-https://redd.it/ofexxr
