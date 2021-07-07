@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tales from the Crypt: Citadel Dispatch e0.2.9 - bitcoin privacy and security with @craigraw and @ketominer 
+date: 2021-07-06 1625631420 
+categories: reddit 
+--- 
+https://redd.it/ofbjk4
