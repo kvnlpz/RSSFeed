@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Where to get uniswap or metamask gas fee by API? 
+date: 2021-07-07 1625676696 
+categories: reddit 
+--- 
+https://redd.it/ofmwiu
