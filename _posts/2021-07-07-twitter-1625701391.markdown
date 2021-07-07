@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-07 16:43:11 
+categories: twitter 
+--- 
+RT @iancassel: The Market has a maddening sense of humor. Time and time again it will make the positions you have the least conviction in p…
