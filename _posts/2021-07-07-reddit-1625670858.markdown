@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos Elite team 
-date: 2021-07-07 1625670858 
-categories: reddit 
---- 
-https://redd.it/ofkw4g
