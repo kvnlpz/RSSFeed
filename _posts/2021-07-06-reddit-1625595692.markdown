@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance has suspended EUR deposits via Bank Transfer (SEPA) now. What is going on? 
-date: 2021-07-06 1625595692 
-categories: reddit 
---- 
-https://redd.it/of0seu
