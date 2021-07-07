@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When will Tezos withdrawels on binance be enabled again? 
-date: 2021-07-07 1625651853 
-categories: reddit 
---- 
-https://redd.it/offt77
