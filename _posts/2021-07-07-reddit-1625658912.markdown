@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is the argument against perpetually rolling out an ITM call for credit? 
-date: 2021-07-07 1625658912 
-categories: reddit 
---- 
-https://redd.it/offvb1
