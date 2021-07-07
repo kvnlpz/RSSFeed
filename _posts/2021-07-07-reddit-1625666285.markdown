@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dumb Question Wednesday: DCA to HODL in Cold Storage? 
-date: 2021-07-07 1625666285 
-categories: reddit 
---- 
-https://redd.it/ofjet2
