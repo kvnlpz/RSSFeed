@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Me trying to cement in my seed phrase into my brain! 
-date: 2021-07-06 1625602803 
-categories: reddit 
---- 
-https://redd.it/of37er
