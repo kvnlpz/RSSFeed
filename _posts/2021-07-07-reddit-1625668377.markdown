@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Uniswap V3 Failure, Liquidity Providers Performing Worse than Simply Holding there Tokens 
+date: 2021-07-07 1625668377 
+categories: reddit 
+--- 
+https://redd.it/ofip7k
