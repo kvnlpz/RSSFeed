@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Withdrawing btc from binance to exodus wallet 
-date: 2021-07-06 1625602731 
-categories: reddit 
---- 
-https://redd.it/of36mq
