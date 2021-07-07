@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $AMC status update 
-date: 2021-07-07 1625672453 
-categories: reddit 
---- 
-https://redd.it/oflg42
