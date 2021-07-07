@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "With 20 million coins, that gives each coin a value of about $10 million". Hal Finney, January 2009. 
-date: 2021-07-07 1625660094 
-categories: reddit 
---- 
-https://redd.it/ofhota
