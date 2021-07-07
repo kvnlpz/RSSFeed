@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why Tezos: a Few Words From Tezos Ukraine’s Startup Accelerator Program Participants 
-date: 2021-07-07 1625666415 
-categories: reddit 
---- 
-https://redd.it/ofjg8o
