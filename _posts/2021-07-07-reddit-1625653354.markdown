@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Online banking with bitcoin 
-date: 2021-07-07 1625653354 
-categories: reddit 
---- 
-https://redd.it/ofeyik
