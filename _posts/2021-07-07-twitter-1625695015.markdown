@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @AgustinLebron3 
+date: 2021-07-07 14:56:55 
+categories: twitter 
+--- 
+@nope_its_lily #1 question there is your data source for borrow rates.
+
+Along with the usual survivorship bias stuff.
