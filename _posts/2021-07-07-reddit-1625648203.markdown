@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wrapping BTC and eth in trustwallet vs moving to Kucoin from binance. 
-date: 2021-07-07 1625648203 
-categories: reddit 
---- 
-https://redd.it/off3mg
