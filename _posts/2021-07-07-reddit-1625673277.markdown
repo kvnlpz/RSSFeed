@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: WallStreetBets and CLF 
-date: 2021-07-07 1625673277 
-categories: reddit 
---- 
-https://redd.it/oflq5x
