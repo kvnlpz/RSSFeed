@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EdenOS Roadmap & Progress Report With Brandon Fancher - doesn't this election front end just look awesome? 
-date: 2021-07-07 1625671204 
-categories: reddit 
---- 
-https://redd.it/ofl0iw
