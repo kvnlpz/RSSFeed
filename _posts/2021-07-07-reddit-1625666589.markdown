@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NEGG this morning 
-date: 2021-07-07 1625666589 
-categories: reddit 
---- 
-https://redd.it/ofjiat
