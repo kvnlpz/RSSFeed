@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Timeframe for MOONs hitting mainnet 
-date: 2021-07-07 1625649858 
-categories: reddit 
---- 
-https://redd.it/offfck
