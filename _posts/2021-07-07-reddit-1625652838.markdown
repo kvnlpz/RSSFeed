@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone help with algo? 
-date: 2021-07-07 1625652838 
-categories: reddit 
---- 
-https://redd.it/ofg0co
