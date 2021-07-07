@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proof of Stake Portfolio 
-date: 2021-07-07 1625663265 
-categories: reddit 
---- 
-https://redd.it/ofijlk
