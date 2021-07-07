@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Evolving RippleNet for a Tokenized Future 
-date: 2021-07-07 1625663400 
-categories: reddit 
---- 
-https://redd.it/ofikua
