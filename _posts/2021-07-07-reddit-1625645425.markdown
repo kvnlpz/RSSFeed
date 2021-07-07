@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “Max Profit” 
-date: 2021-07-07 1625645425 
-categories: reddit 
---- 
-https://redd.it/ofel5u
