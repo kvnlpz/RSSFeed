@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Questions about futures 
-date: 2021-07-06 1625608463 
-categories: reddit 
---- 
-https://redd.it/of50u8
