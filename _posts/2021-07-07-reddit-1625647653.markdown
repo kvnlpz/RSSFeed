@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BlockFi starts shipping Visa-backed Bitcoin rewards credit cards 
-date: 2021-07-07 1625647653 
-categories: reddit 
---- 
-https://redd.it/ofezzm
