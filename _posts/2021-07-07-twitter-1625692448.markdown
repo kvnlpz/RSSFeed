@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-07 14:14:08 
+categories: twitter 
+--- 
+Yes me too, asking a different question though.
