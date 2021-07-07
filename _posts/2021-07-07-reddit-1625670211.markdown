@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Valid Points: The Fate of Ethereum Miners When There’s Nothing Left to Mine 
-date: 2021-07-07 1625670211 
-categories: reddit 
---- 
-https://redd.it/ofko5n
