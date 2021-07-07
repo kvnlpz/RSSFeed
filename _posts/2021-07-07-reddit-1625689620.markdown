@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Please Help help Help ... I mistakenly used IBC transfer function on Osmosis zone to transfer my Atom coin from my Keplr Cosmos account to Keplr Osmosis account, now they are under Tokens Atom(Cosmos/Channel-0), I don’t know what does that mean, could anyone help me how I can get my Atom back? 
+date: 2021-07-07 1625689620 
+categories: reddit 
+--- 
+https://redd.it/ofrc75
