@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trying to understand the current price levels of ether and other crypto tokens/coins other than bitcoin 
-date: 2021-07-07 1625671904 
-categories: reddit 
---- 
-https://redd.it/ofl956
