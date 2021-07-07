@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @albert_kim 
+date: 2021-07-07 07:13:39 
+categories: twitter 
+--- 
+@nope_its_lily know of any good book recommendations to learn more about options trading?
