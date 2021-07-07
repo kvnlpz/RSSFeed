@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: XRP on Blockfi 
-date: 2021-07-07 1625643912 
-categories: reddit 
---- 
-https://redd.it/ofeabb
