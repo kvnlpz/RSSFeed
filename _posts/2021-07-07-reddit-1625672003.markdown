@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can anyone explain what does this mean? Beginner here. Thanks! 
-date: 2021-07-07 1625672003 
-categories: reddit 
---- 
-https://redd.it/oflafs
