@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Welcome me to the ape world 
-date: 2021-07-07 1625663535 
-categories: reddit 
---- 
-https://redd.it/ofim7j
