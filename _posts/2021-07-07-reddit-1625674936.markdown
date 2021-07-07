@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [NEWS] Bitcoin creator left the development! 
-date: 2021-07-07 1625674936 
-categories: reddit 
---- 
-https://redd.it/ofmas5
