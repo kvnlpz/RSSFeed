@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do you determine your average cost? 
-date: 2021-07-06 1625605245 
-categories: reddit 
---- 
-https://redd.it/of40pb
