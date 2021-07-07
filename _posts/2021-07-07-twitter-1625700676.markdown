@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @kortelin150mg 
+date: 2021-07-07 16:31:16 
+categories: twitter 
+--- 
+RT @nope_its_lily: Has anyone ever backtested shorting stocks that are in a margin of safety and longing stocks above their fair market val…
