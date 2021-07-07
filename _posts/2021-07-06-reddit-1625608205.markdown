@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What resources do you guys use to monitor the cryptosphere? 
-date: 2021-07-06 1625608205 
-categories: reddit 
---- 
-https://redd.it/of4xwl
