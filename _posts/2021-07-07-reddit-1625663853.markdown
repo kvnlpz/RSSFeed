@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Functional limit to the max price of XRP? 
-date: 2021-07-07 1625663853 
-categories: reddit 
---- 
-https://redd.it/ofipdu
