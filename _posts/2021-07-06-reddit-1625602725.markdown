@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The WSB circle of life 
-date: 2021-07-06 1625602725 
-categories: reddit 
---- 
-https://redd.it/of35zo
