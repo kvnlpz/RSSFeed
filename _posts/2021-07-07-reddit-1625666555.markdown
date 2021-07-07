@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Noob asking basic Monero questions 
-date: 2021-07-07 1625666555 
-categories: reddit 
---- 
-https://redd.it/ofji0c
