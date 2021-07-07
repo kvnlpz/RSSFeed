@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-07 15:54:56 
+categories: twitter 
+--- 
+@coloradotravis The ticker will be called TNDZ.
