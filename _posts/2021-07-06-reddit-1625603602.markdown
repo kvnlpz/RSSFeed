@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tracking performance when cash transfers are considered gains 
-date: 2021-07-06 1625603602 
-categories: reddit 
---- 
-https://redd.it/of2982
