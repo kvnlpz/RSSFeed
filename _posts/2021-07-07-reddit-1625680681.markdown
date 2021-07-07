@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Trader Joe Will Integrate Chainlink Price Feeds to to Finally Bring Lending and Leveraged Trading to Avalanche 
+date: 2021-07-07 1625680681 
+categories: reddit 
+--- 
+https://redd.it/ofob1v
