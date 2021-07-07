@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CLOV$ 
-date: 2021-07-06 1625594640 
-categories: reddit 
---- 
-https://redd.it/of0flf
