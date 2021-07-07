@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum's utility (originally posted on r/ethereum with the title claim being about Ethereum being undervalued, but I think the post is more about how useful the network is) 
-date: 2021-07-07 1625672369 
-categories: reddit 
---- 
-https://redd.it/ofk4dy
