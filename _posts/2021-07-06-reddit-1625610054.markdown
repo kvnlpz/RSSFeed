@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is yoroi wallet a cold wallet? 
-date: 2021-07-06 1625610054 
-categories: reddit 
---- 
-https://redd.it/of5j4p
