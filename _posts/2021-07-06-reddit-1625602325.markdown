@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Is Surpassing Bitcoin 
-date: 2021-07-06 1625602325 
-categories: reddit 
---- 
-https://redd.it/of31oa
