@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Did binance actually just charge me for a crypto withdrawal and not even pay the gas fee with it?! 
-date: 2021-07-07 1625661235 
-categories: reddit 
---- 
-https://redd.it/ofhzu3
