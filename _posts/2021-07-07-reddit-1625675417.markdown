@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Introducing Gitopia- Decentralised code collaboration platform powered by Cosmos 
-date: 2021-07-07 1625675417 
-categories: reddit 
---- 
-https://redd.it/ofmgq1
