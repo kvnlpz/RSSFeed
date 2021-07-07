@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I turned a profit by buying cryptocurrency using a trading algorithm that buys based on Reddit posts sentiment 
+date: 2021-07-07 1625685460 
+categories: reddit 
+--- 
+https://redd.it/ofpyh9
