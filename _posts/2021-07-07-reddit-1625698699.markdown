@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I have started a list of working DEX's in r/cryptocurrency for people to refer to. The Cosmos ecosystem has several DEX's in development. Please add your favorite WORKING DEX's with details to the list at the link below, so we can give our projects some more exposure. 
+date: 2021-07-07 1625698699 
+categories: reddit 
+--- 
+https://redd.it/ofua7l
