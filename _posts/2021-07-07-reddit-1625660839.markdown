@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tax loss harvesting 
-date: 2021-07-07 1625660839 
-categories: reddit 
---- 
-https://redd.it/ofhw1i
