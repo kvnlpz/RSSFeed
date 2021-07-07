@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Alternates to Coinbase? 
-date: 2021-07-07 1625664143 
-categories: reddit 
---- 
-https://redd.it/ofis2t
