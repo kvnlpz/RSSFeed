@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Flooz is a Decentralized Exchanged with auto slippage and low Gas Fees 
-date: 2021-07-06 1625606884 
-categories: reddit 
---- 
-https://redd.it/of4juq
