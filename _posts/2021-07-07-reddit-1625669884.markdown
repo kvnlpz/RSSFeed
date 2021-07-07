@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I made an AI model that predicted which way Bitcoin would go the next minute. It managed an accuracy of 55% when testing in real time 
+date: 2021-07-07 1625669884 
+categories: reddit 
+--- 
+https://redd.it/ofkjz8
