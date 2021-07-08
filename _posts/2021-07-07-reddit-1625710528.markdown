@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I Build a Price Alert Web for Exchanges 
+date: 2021-07-07 1625710528 
+categories: reddit 
+--- 
+https://redd.it/ofxq53
