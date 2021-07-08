@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Restored Atomex Web Wallet using seed phrase but all my delegated tezos has disappeared 
+date: 2021-07-08 1625775592 
+categories: reddit 
+--- 
+https://redd.it/ogfj7d
