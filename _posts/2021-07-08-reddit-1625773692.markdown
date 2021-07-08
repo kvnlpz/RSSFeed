@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hope this helps others! An animated video I created showing how to easily buy tokens on BSC with TrustWallet/PancakeSwap (was made for a specific coin, but works for any coin on BSC, skip to 1:00) 
-date: 2021-07-08 1625773692 
-categories: reddit 
---- 
-https://redd.it/ogew2y
