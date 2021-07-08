@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-07 22:25:00 
+categories: twitter 
+--- 
+@tarunchitra i don't care about dependencies man that's ops jobs
