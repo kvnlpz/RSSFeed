@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: THETA new anti-DDoS patent approved . It's their 5th patent. 
-date: 2021-07-07 1625693708 
-categories: reddit 
---- 
-https://redd.it/ofso11
