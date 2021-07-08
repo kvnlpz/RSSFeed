@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: An appreciation post for Cardano developers consistently ranking the highest activity on GitHub 
+date: 2021-07-07 1625717939 
+categories: reddit 
+--- 
+https://redd.it/ofzqvh
