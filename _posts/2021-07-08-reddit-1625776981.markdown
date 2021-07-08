@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Won't let me close my long position while having a short position open. 
-date: 2021-07-08 1625776981 
-categories: reddit 
---- 
-https://redd.it/ogg01q
