@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-08 12:47:25 
+categories: twitter 
+--- 
+You're prob on 15 minutes delayed quotes. I'd recommend real time.
