@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Recommendation for auction site to sell physical bitcoin? 
-date: 2021-07-07 1625690961 
-categories: reddit 
---- 
-https://redd.it/ofrs2t
