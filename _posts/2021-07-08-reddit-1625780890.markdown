@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is the Reddit vault the right place for your moon? 
-date: 2021-07-08 1625780890 
-categories: reddit 
---- 
-https://redd.it/oghb27
