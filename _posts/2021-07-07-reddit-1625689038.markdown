@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The graph of AMC and EXPR are mirroring. Is this right? 
-date: 2021-07-07 1625689038 
-categories: reddit 
---- 
-https://redd.it/ofr5e0
