@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $BODY = incredible value 
-date: 2021-07-07 1625684233 
-categories: reddit 
---- 
-https://redd.it/ofpiu8
