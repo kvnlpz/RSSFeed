@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I think it's time to use blockchain to upgrade our everyday lives 
-date: 2021-07-07 1625695325 
-categories: reddit 
---- 
-https://redd.it/oft6u0
