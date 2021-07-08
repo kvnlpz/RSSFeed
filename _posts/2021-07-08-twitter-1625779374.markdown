@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-08 14:22:54 
+categories: twitter 
+--- 
+good thing in january i told my allocator to benchmark our performance against Melvin Capital
