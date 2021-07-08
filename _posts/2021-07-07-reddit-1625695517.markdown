@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It just keeps going 
-date: 2021-07-07 1625695517 
-categories: reddit 
---- 
-https://redd.it/oft8ri
