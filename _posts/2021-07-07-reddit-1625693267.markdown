@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So... are MEVs and Flashbots A Potential Issue on Cardano? 
-date: 2021-07-07 1625693267 
-categories: reddit 
---- 
-https://redd.it/ofsizt
