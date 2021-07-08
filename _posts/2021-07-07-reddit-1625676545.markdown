@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bank N26 telling their costumers that it will be good if they buy Bitcoin 
-date: 2021-07-07 1625676545 
-categories: reddit 
---- 
-https://redd.it/ofmure
