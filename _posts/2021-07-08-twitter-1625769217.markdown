@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Odiephd 
-date: 2021-07-08 11:33:37 
-categories: twitter 
---- 
-@nope_its_lily ya, i have a trip to Spain in October...
