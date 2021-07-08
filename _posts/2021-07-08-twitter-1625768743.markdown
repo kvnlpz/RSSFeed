@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidMarkUSA 
-date: 2021-07-08 11:25:43 
-categories: twitter 
---- 
-@RayTL_ @PelotonHolder Last thing traders want to mute is risk right? https://t.co/Kto05ujPTs
