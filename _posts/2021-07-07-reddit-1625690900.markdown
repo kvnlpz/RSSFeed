@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market Wrap: Ether Outperforms Bitcoin; Sentiment Improves 
-date: 2021-07-07 1625690900 
-categories: reddit 
---- 
-https://redd.it/ofrrbu
