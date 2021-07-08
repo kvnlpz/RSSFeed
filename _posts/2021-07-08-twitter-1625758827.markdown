@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-08 08:40:27 
+categories: twitter 
+--- 
+i am shocked we are reverting to the mean today with high volatility and GEX being like 15 billion
