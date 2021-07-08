@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Excel Portfolio Tracker 
-date: 2021-07-07 1625695638 
-categories: reddit 
---- 
-https://redd.it/oftah4
