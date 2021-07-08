@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BEWARE!! WATCH OUT FOR POSTS ON r/security analysis 
-date: 2021-07-07 1625695006 
-categories: reddit 
---- 
-https://redd.it/oft30x
