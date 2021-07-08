@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Brave add for Tezos leads to broken instructions 
+date: 2021-07-07 1625707014 
+categories: reddit 
+--- 
+https://redd.it/ofwbzd
