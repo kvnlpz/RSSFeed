@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Walgreen vs CVS 
-date: 2021-07-07 1625675951 
-categories: reddit 
---- 
-https://redd.it/ofmnfm
