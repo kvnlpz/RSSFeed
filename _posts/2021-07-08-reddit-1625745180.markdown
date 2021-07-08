@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anticipating Pullback and Corrections via Options Open Interest - A Small Case Study of SPY, QQQ, and IWM 
-date: 2021-07-08 1625745180 
-categories: reddit 
---- 
-https://redd.it/og5n16

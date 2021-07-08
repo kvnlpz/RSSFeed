@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New EthereumJS Library released with finalized London HF Support, including all HF blocks and official support to send tx to an initial set of L2 networks - Arbitrum, Polygon, xDaiChain https://t.co/iRsCupOLnY 
-date: 2021-07-08 1625754732 
-categories: reddit 
---- 
-https://redd.it/og8ehv

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JKuout 
-date: 2021-07-08 09:18:57 
-categories: twitter 
---- 
-@InvestorsLive Any thoughts of market manipulation on $WISH

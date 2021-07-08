@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @14_skinny 
-date: 2021-07-08 06:49:59 
-categories: twitter 
---- 
-@timothysykes You just don’t get it.. that’s ok though..

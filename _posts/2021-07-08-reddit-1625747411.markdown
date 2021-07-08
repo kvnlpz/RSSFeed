@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Realtime $OXT price trend 
-date: 2021-07-08 1625747411 
-categories: reddit 
---- 
-https://redd.it/og683w

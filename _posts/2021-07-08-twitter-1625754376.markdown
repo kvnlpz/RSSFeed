@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BillyBuckets5 
-date: 2021-07-08 07:26:16 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/yfDWv35Q7W

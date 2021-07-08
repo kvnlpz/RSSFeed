@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Problem with my blockchain wallet 
-date: 2021-07-08 1625766482 
-categories: reddit 
---- 
-https://redd.it/ogcf30

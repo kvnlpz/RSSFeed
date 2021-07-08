@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain technology: 
-date: 2021-07-08 1625745213 
-categories: reddit 
---- 
-https://redd.it/og5nbc

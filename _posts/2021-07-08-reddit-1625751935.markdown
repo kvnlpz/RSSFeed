@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto values 
-date: 2021-07-08 1625751935 
-categories: reddit 
---- 
-https://redd.it/og7ich

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader11t 
-date: 2021-07-08 04:37:48 
-categories: twitter 
---- 
-@InvestorsLive Thanks for the entry

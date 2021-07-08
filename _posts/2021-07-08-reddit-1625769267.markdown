@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gitcoin Integrates Tezos: 8 Hackathons In The Next 2 Years And The First One Is This Month 
-date: 2021-07-08 1625769267 
-categories: reddit 
---- 
-https://redd.it/ogddwp

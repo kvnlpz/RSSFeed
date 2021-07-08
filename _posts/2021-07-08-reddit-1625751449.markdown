@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you have a hardware wallet you too can now vote for funding proposals starting in fund5 
-date: 2021-07-08 1625751449 
-categories: reddit 
---- 
-https://redd.it/og7d3s

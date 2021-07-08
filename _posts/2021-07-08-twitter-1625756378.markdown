@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-07-08 07:59:38 
-categories: twitter 
---- 
-RT @nope_its_lily: Excellent thread on GBTC https://t.co/zUqD45cjzr

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphadillo5 
-date: 2021-07-08 07:44:04 
-categories: twitter 
---- 
-@RayTL_ $ZS

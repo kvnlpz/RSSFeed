@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Oldmrzackmorris 
-date: 2021-07-08 06:37:32 
-categories: twitter 
---- 
-@super_trades $wish bro

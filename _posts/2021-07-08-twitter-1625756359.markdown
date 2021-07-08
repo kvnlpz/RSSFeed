@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SunriseTrader 
-date: 2021-07-08 07:59:19 
-categories: twitter 
---- 
-@alphatrends Be flexible in your thinking and rigid in your discipline

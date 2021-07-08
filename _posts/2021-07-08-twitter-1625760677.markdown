@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SushilTraderr 
-date: 2021-07-08 09:11:17 
-categories: twitter 
---- 
-RT @RayTL_: Trading more isn't the solution when envs shifts. It's trading less, collecting evidence, and waiting for the institutional tho…

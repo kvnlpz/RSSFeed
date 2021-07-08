@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is live in NYC? 
-date: 2021-07-08 1625764950 
-categories: reddit 
---- 
-https://redd.it/ogbw5h

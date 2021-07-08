@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @adiocity 
-date: 2021-07-08 07:11:23 
-categories: twitter 
---- 
-@InvestorsLive $TSRI

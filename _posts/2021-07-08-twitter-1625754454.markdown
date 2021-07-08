@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TFallibilist 
-date: 2021-07-08 07:27:34 
-categories: twitter 
---- 
-@nope_its_lily Gonna front-run everyone at 10:17:150, thanks Lily

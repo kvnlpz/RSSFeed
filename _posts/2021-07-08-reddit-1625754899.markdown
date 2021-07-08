@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Beginner Question about when covered calls expire and when I can sell again using the same stock. 
-date: 2021-07-08 1625754899 
-categories: reddit 
---- 
-https://redd.it/og8gm8

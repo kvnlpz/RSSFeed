@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockDawgz 
-date: 2021-07-08 03:42:23 
-categories: twitter 
---- 
-@InvestorsLive @DaiyeTrader

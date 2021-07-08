@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain Beyond Crypto: Connecting Off-Chain and On-Chain Data 
-date: 2021-07-08 1625760629 
-categories: reddit 
---- 
-https://redd.it/ogaeak

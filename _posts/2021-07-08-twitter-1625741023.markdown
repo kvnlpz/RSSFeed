@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-08 03:43:43 
-categories: twitter 
---- 
-All I care is that one person reads, learns and betters their trading process. As far as the rest it is what it is.

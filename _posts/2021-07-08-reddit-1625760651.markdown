@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ShibaInu staking with metamask 
-date: 2021-07-08 1625760651 
-categories: reddit 
---- 
-https://redd.it/ogaeio

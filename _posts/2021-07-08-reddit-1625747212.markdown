@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible to add a virus to the blockchain? 
-date: 2021-07-08 1625747212 
-categories: reddit 
---- 
-https://redd.it/og664q

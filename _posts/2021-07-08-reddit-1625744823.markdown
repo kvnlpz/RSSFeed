@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rant about Mobile/Android wallet 
-date: 2021-07-08 1625744823 
-categories: reddit 
---- 
-https://redd.it/og5jqd

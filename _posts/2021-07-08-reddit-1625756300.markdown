@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC strategy for CSP after deep ITM roll 
-date: 2021-07-08 1625756300 
-categories: reddit 
---- 
-https://redd.it/og8xiw

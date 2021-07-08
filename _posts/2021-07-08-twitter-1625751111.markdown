@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markflowchatter 
-date: 2021-07-08 06:31:51 
-categories: twitter 
---- 
-$QFIN killed on this news
-
-https://t.co/GIxucvuD3n

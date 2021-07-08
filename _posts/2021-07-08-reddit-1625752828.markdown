@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: xSigma Using Chainlink VRF to Fairly Randomize Distribution of Stablecoin Pool Fees to LPs 
-date: 2021-07-08 1625752828 
-categories: reddit 
---- 
-https://redd.it/og6qk4

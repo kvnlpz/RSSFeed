@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RastaLionTrader 
-date: 2021-07-08 04:36:26 
-categories: twitter 
---- 
-@timothysykes No sleep all study!!!!

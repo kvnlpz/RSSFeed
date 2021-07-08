@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Real time $SXP price trend 
-date: 2021-07-08 1625747562 
-categories: reddit 
---- 
-https://redd.it/og69my

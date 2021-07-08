@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Canadian Imperial Bank of Commerce has joined a new private Ethereum-based marketplace for carbon offsets to help clients balance their emissions with investments in green projects. 
-date: 2021-07-08 1625754284 
-categories: reddit 
---- 
-https://redd.it/og8921

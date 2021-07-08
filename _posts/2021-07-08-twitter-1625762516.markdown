@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-08 09:41:56 
-categories: twitter 
---- 
-@robb_a_j @PartnersRelief @karmagawa It’s my honor to help!

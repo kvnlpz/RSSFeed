@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @apiercegodwin 
-date: 2021-07-08 08:03:04 
-categories: twitter 
---- 
-@MikeBellafiore This may just be an observation with no scientific reason or validity, but why does it seem that mo… https://t.co/vdS2hnJiUH

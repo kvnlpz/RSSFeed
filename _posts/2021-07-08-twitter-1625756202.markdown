@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Yeti_Capital 
-date: 2021-07-08 07:56:42 
-categories: twitter 
---- 
-@InvestorsLive $ALF

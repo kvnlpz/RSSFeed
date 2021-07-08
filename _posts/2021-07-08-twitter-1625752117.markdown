@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 06:48:37 
-categories: twitter 
---- 
-RT @TheLOBO522: @nope_its_lily 
-
-Congrats on you new job in crypto and moving to london.

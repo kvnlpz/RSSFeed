@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why don't blocks fill up with paying miners? 
-date: 2021-07-08 1625763800 
-categories: reddit 
---- 
-https://redd.it/ogbhud

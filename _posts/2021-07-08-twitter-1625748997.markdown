@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @83Tryharder 
-date: 2021-07-08 05:56:37 
-categories: twitter 
---- 
-RT @InvestorsLive: Risk is a part of trading, but there are a few things you can do to decrease your risk and increase your profit potentia…

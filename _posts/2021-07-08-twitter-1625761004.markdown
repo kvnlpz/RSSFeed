@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kev_Stocks 
-date: 2021-07-08 09:16:44 
-categories: twitter 
---- 
-RT @TraderTexMex: $DBGI "that second quarter 2021 revenue increased by approximately 100% over first quarter 2021 figures, which only inclu…

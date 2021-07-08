@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bradhi 
-date: 2021-07-08 09:45:12 
-categories: twitter 
---- 
-RT @alphatrends: Understand Market Structure and Reduce Emotional Decisions https://t.co/GWaE6zj5vw

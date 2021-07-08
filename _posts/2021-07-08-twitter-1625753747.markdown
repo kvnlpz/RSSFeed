@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FredTak2 
-date: 2021-07-08 07:15:47 
-categories: twitter 
---- 
-@InvestorsLive $CARV embrace the chase

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @macrocephalopod 
-date: 2021-07-08 04:00:17 
-categories: twitter 
---- 
-@nope_its_lily This sounds like the inverse of a value strat, so I imagine it performs great 2018-2020 and sucks this year.

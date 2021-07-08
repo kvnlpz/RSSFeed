@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SirJCaleb 
-date: 2021-07-08 09:00:57 
-categories: twitter 
---- 
-@InvestorsLive u mean short or long?

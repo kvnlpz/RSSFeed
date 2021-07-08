@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Opinion : Quantum computing risk is a non-sense because it will also be used by miners to keep Bitcoin Blockchain as secured as it is today. 
-date: 2021-07-08 1625743486 
-categories: reddit 
---- 
-https://redd.it/og5883

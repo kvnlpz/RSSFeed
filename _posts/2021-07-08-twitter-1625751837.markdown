@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TommyBoyTrades 
-date: 2021-07-08 06:43:57 
-categories: twitter 
---- 
-@InvestorsLive China Edu basket

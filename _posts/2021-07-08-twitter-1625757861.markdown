@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrBabaBakshi 
-date: 2021-07-08 08:24:21 
-categories: twitter 
---- 
-RT @InvestorsLive: $XELA prefect trade plan and I fumbled it - focused on others. https://t.co/0ti8yqeiTi

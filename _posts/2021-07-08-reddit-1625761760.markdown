@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: wallet 
-date: 2021-07-08 1625761760 
-categories: reddit 
---- 
-https://redd.it/ogas64

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rethinking "Not Your Keys, Not Your Crypto" 
-date: 2021-07-08 1625752216 
-categories: reddit 
---- 
-https://redd.it/og7lcp

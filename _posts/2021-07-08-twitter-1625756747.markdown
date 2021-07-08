@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vr_tonio 
-date: 2021-07-08 08:05:47 
-categories: twitter 
---- 
-@nope_its_lily The double BB rated memes the best!

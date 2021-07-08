@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to do online payment with bitcoin 
-date: 2021-07-08 1625768479 
-categories: reddit 
---- 
-https://redd.it/ogd43n

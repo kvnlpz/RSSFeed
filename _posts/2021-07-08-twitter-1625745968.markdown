@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @5xStock 
-date: 2021-07-08 05:06:08 
-categories: twitter 
---- 
-RT @alphatrends: repeat
-
-"China stocks just cannot be trusted"

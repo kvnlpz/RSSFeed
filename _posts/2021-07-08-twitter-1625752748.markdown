@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @QuodSemper 
-date: 2021-07-08 06:59:08 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/BzecXhZ07F

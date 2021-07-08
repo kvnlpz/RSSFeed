@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What your token is trying to do can be done without it if you try to. 
-date: 2021-07-08 1625769555 
-categories: reddit 
---- 
-https://redd.it/ogdhic

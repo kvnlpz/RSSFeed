@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-08 05:32:13 
-categories: twitter 
---- 
-@Matthew46H correct, different strategy entirely

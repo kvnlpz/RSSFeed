@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sosatrader 
-date: 2021-07-08 05:35:11 
-categories: twitter 
---- 
-@alphatrends run looks strong

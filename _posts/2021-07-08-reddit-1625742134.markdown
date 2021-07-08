@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Isn't crypto being in substantiated essentially in fractions a huge hindrance to being more widely used? For example: $10 USD = 0.00030780 BTC. 
-date: 2021-07-08 1625742134 
-categories: reddit 
---- 
-https://redd.it/og4wu5

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @investinscott 
-date: 2021-07-08 08:27:20 
-categories: twitter 
---- 
-RT @alphatrends: @SunriseTrader here you go! https://t.co/3lRZjZfMYH

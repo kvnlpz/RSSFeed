@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Giggity_____ 
-date: 2021-07-08 06:38:35 
-categories: twitter 
---- 
-@thehonestcroock traded my first option today by following your @EvolvedTrader and sold my 45.00 put this morning and made 121%.

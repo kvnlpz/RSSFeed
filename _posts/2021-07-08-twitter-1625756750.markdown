@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xdazai 
-date: 2021-07-08 08:05:50 
-categories: twitter 
---- 
-RT @nope_its_lily: guys if you don't know what the meme stock basket is by now sincerely there's no hope for you

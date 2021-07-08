@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is converting the same crypto considered a taxable event? (eg BEP-20 to Smart chain) 
-date: 2021-07-08 1625746286 
-categories: reddit 
---- 
-https://redd.it/og5xjr

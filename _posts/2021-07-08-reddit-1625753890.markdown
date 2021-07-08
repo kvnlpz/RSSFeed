@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $CRSR YOLO on this dip 
-date: 2021-07-08 1625753890 
-categories: reddit 
---- 
-https://redd.it/og84j7

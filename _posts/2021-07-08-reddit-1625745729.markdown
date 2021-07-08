@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 0x03 Withdrawal Credentials: Simple Eth1-triggerable withdrawals - Eth1-to-Eth2 Transition 
-date: 2021-07-08 1625745729 
-categories: reddit 
---- 
-https://redd.it/og5sbc

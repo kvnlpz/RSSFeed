@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BillansOne 
-date: 2021-07-08 08:41:38 
-categories: twitter 
---- 
-@nope_its_lily I knew as soon as you said "cuz compliance"

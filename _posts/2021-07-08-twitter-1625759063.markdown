@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CitizenEscobar 
-date: 2021-07-08 08:44:23 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/RfZZvyzUWT

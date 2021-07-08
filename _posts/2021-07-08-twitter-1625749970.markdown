@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Clutchcaller 
-date: 2021-07-08 06:12:50 
-categories: twitter 
---- 
-@timothysykes Hey coach Tim, is there going to be a trader conference this year? I’ve been studying your stuff for… https://t.co/gjYSTn2TWv

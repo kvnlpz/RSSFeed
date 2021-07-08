@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How Reddit Moons work as a cryptocurency 
-date: 2021-07-08 1625759688 
-categories: reddit 
---- 
-https://redd.it/oga2an

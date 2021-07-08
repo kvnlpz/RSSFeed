@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Charli3, Cardano's decentralized oracle updates. 
-date: 2021-07-08 1625756557 
-categories: reddit 
---- 
-https://redd.it/og90pz

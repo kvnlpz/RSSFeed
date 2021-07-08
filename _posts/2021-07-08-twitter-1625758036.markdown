@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TrdrCl 
-date: 2021-07-08 08:27:16 
-categories: twitter 
---- 
-@InvestorsLive Similar to a chicken melt from Panera, just different, but the same

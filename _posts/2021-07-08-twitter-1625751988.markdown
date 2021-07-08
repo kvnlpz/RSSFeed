@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @01stocksavage 
-date: 2021-07-08 06:46:28 
-categories: twitter 
---- 
-@InvestorsLive 80% of arpo float has been traded

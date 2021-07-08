@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EstAUS 
-date: 2021-07-08 07:24:23 
-categories: twitter 
---- 
-@RayTL_ $DOCU

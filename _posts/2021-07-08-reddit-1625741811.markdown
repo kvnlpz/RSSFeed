@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I trained an AI on historical Bitcoin price data in minute resolution. After 7 hours of testing in real time it came out with a 55% accuracy 
-date: 2021-07-08 1625741811 
-categories: reddit 
---- 
-https://redd.it/og4txp

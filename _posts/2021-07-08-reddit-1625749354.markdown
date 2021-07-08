@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: block.one dedicated their twitter channel twitter.com/block_one_ to #EOSIO and its communities. New handle: https://twitter.com/EOSIO - Follow them for resources, insights, research, and updates on the EOSIO open-source blockchain platform and community. 
-date: 2021-07-08 1625749354 
-categories: reddit 
---- 
-https://redd.it/og6r8p

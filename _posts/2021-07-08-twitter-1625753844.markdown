@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GayllordFocker 
-date: 2021-07-08 07:17:24 
-categories: twitter 
---- 
-@InvestorsLive $ptpi looks like one. No position yet.

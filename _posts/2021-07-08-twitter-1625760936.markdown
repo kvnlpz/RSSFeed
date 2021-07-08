@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @heng_zach 
-date: 2021-07-08 09:15:36 
-categories: twitter 
---- 
-RT @nope_its_lily: ok, I had someone else spot check this wasn't complete nonsense, so I give you part 2 of the MOPEX cycle:
-https://t.co/n…

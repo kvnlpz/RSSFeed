@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wish post #4 
-date: 2021-07-08 1625758938 
-categories: reddit 
---- 
-https://redd.it/og9t70

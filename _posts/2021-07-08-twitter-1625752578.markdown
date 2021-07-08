@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AGFMomentum 
-date: 2021-07-08 06:56:18 
-categories: twitter 
---- 
-@RayTL_ $BYND is hanging in there

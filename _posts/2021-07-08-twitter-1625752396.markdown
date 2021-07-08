@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trading_gen 
-date: 2021-07-08 06:53:16 
-categories: twitter 
---- 
-@InvestorsLive Thanks for pointing out $XELA earlier..

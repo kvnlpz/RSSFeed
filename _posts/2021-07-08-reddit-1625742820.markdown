@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: No, your smart contracts platform is NOT scalable 
-date: 2021-07-08 1625742820 
-categories: reddit 
---- 
-https://redd.it/og52mk

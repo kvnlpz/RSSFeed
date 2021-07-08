@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Puts on Newegg 
-date: 2021-07-08 1625764320 
-categories: reddit 
---- 
-https://redd.it/ogbo7j

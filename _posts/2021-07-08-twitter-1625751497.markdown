@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @berismann 
-date: 2021-07-08 06:38:17 
-categories: twitter 
---- 
-@nope_its_lily If thats true, make VIX explode. Its already coming back.

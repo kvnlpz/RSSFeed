@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A potential subject $MMAT 
-date: 2021-07-08 1625771288 
-categories: reddit 
---- 
-https://redd.it/oge32r

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Legend Bob Metcalfe, Inventor of Ethernet & Metcalfe's Law, teams up with crypto project OriginTrail to build alongside his former student Branamir Rakic. Bob will apply his world famous formulas to further the progress of The World's First Decentralized Knowledge Graph and the OT Knowledge Economy 
-date: 2021-07-08 1625758617 
-categories: reddit 
---- 
-https://redd.it/og9pdr

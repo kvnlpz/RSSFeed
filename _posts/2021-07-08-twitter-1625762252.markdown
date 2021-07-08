@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sanjayrajsingh 
-date: 2021-07-08 09:37:32 
-categories: twitter 
---- 
-@nope_its_lily I was thinking about that today. Do you think it’s because of low liquidity (or perhaps short gamma)… https://t.co/gvDeMNwfWO

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 08:55:01 
-categories: twitter 
---- 
-@DefiDiogenesYFI I actually found it out just empirically. It's not designed per se to work better in high vol, but… https://t.co/ifHa3pgEPi

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FletcherFantasy 
-date: 2021-07-08 07:15:21 
-categories: twitter 
---- 
-@RayTL_ Looks like things electric/autonomous car related doing well

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 06:49:43 
-categories: twitter 
---- 
-RT @VroonVroonVroon: @nope_its_lily congratulations for bringing it home for England

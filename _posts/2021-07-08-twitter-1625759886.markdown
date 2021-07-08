@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TrdrCl 
-date: 2021-07-08 08:58:06 
-categories: twitter 
---- 
-@InvestorsLive Just had to work through those short ladder attacks, thats all!

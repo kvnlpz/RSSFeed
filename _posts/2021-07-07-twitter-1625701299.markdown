@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @great_dix 
-date: 2021-07-07 16:41:39 
-categories: twitter 
---- 
-@timothysykes I’m studying.

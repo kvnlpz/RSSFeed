@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Guess I’m pretty screwed 
-date: 2021-07-08 1625762676 
-categories: reddit 
---- 
-https://redd.it/ogb411

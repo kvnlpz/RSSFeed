@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kjd832 
-date: 2021-07-08 09:37:23 
-categories: twitter 
---- 
-@timothysykes excited for the webinar tonight!

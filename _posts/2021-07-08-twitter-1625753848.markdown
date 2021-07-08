@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Man__Uses 
-date: 2021-07-08 07:17:28 
-categories: twitter 
---- 
-@RayTL_ https://t.co/giW29XDU0g

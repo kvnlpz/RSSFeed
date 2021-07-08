@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 08:40:47 
-categories: twitter 
---- 
-it's almost like this is what high gamma exposure on the indices does or something

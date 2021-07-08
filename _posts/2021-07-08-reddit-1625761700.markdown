@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain market caps to me, and why they are so important. 
-date: 2021-07-08 1625761700 
-categories: reddit 
---- 
-https://redd.it/ogar9p

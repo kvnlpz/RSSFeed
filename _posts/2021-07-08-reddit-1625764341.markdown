@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Airbnb is exploiting its users, but decentralized alternatives are possible 
-date: 2021-07-08 1625764341 
-categories: reddit 
---- 
-https://redd.it/ogbol6

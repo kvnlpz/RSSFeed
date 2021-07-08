@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ShaolinvsWutang 
-date: 2021-07-08 03:56:53 
-categories: twitter 
---- 
-@InvestorsLive @KindTruth2 The entire market is a gamble though.

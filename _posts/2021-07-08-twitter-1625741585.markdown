@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @barnabywalkers1 
-date: 2021-07-08 03:53:05 
-categories: twitter 
---- 
-@InvestorsLive Nobody gives a fuck about covid

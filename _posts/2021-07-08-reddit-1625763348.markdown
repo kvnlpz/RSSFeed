@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Has anybody got the same issue? The app is the latest one available on the App Store. 
-date: 2021-07-08 1625763348 
-categories: reddit 
---- 
-https://redd.it/ogbc2h

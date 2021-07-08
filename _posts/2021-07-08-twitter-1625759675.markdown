@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JustinMcCash 
-date: 2021-07-08 08:54:35 
-categories: twitter 
---- 
-RT @nope_its_lily: im gonna tell my kids world war 3 was fought to save 4282

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JOURNEYINVESTOR 
-date: 2021-07-07 21:20:55 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/YlM89LGvHF

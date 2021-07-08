@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin is like a bad friend 
-date: 2021-07-08 1625770029 
-categories: reddit 
---- 
-https://redd.it/ogdnhc
