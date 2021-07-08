@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin atm in India. 
-date: 2021-07-07 1625684591 
-categories: reddit 
---- 
-https://redd.it/ofpnsg
