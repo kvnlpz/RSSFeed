@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rip my portfolio 
-date: 2021-07-07 1625675629 
-categories: reddit 
---- 
-https://redd.it/ofmjjw
