@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PArchambeau 
+date: 2021-07-08 12:31:53 
+categories: twitter 
+--- 
+@nope_its_lily people been front running post opex vol spike too much to go short vega now
