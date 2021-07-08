@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @callserryday 
-date: 2021-07-08 11:05:47 
-categories: twitter 
---- 
-@nope_its_lily What do you think about OpenDrawer, the furniture company that definitely doesn’t exist so therefore you can comment on it?
