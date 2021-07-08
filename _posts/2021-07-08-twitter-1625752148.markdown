@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-08 06:49:08 
+categories: twitter 
+--- 
+RT @drakedanner: wanted to take this moment to congratulate @nope_its_lily for being cited in @SquishChaos's paper
