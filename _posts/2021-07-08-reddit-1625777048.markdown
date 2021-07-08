@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledger just came in 
-date: 2021-07-08 1625777048 
-categories: reddit 
---- 
-https://redd.it/ogg0vk
