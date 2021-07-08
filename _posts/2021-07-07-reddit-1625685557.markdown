@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Solving China’s BTC ban 
-date: 2021-07-07 1625685557 
-categories: reddit 
---- 
-https://redd.it/ofpzmw
