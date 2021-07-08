@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @SchaferTrading 
+date: 2021-07-08 11:49:33 
+categories: twitter 
+--- 
+@InvestorsLive $any?
