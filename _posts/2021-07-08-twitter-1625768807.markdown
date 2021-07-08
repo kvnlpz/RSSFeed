@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TechmemeChatter 
-date: 2021-07-08 11:26:47 
-categories: twitter 
---- 
-RT @nope_its_lily: Woah. USDC is going public. h/t @tarunchitra https://t.co/vRMQ6ihB4C
