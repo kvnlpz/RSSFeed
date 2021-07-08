@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Seeking thoughts: Should a project consider having a DAO from the beginning, or take a Multisig approach initially? 
+date: 2021-07-07 1625722528 
+categories: reddit 
+--- 
+https://redd.it/og0v8w
