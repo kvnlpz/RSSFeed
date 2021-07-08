@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Radix processes over 1,000,000+ transactions per second. But how does it work? 
-date: 2021-07-07 1625689183 
-categories: reddit 
---- 
-https://redd.it/ofr769
