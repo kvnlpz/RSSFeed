@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is it illegal to run bitcoin nodes? 
+date: 2021-07-08 1625736378 
+categories: reddit 
+--- 
+https://redd.it/og3q5z
