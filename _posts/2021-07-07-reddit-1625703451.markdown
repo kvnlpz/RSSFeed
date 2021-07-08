@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Backtesting a trading strategy based entirely upon WSB discussion 
+date: 2021-07-07 1625703451 
+categories: reddit 
+--- 
+https://redd.it/ofvpsa
