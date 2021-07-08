@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help me understand previous milestones of Cardano! 
-date: 2021-07-08 1625775454 
-categories: reddit 
---- 
-https://redd.it/ogfhle
