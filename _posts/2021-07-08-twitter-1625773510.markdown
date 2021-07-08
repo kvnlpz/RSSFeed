@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-08 12:45:10 
+categories: twitter 
+--- 
+@PArchambeau I was trading on spot-vol correlation, not calendrical effects
+When vol is bid up, either there's cont… https://t.co/YZY46upYLh
