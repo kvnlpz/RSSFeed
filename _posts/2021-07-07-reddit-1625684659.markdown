@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ideas for backing up a cold wallet for worst case scenario (fire/flood/other home destroying scenario)? 
-date: 2021-07-07 1625684659 
-categories: reddit 
---- 
-https://redd.it/ofpona
