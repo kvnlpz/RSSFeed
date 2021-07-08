@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: OUT NOW: #Daedalus mainnet 4.2.0 The Daedalus 4.2.0 release adds @Ledger and @Trezor hardware wallet support for Project Catalyst voting registration, improves native token functionality & enables the export of a wallet’s multi-signature public key + MORE - Input Output on Twitter 
+date: 2021-07-08 1625762854 
+categories: reddit 
+--- 
+https://redd.it/ogb65m
