@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-07 21:14:44 
+categories: twitter 
+--- 
+RT @rldixon: @nope_its_lily Congratulations on getting that last seat on Bezos’ flight to real space!
