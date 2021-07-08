@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-08 07:41:47 
+categories: twitter 
+--- 
+$MRIN $BLIN $BSQR hello
