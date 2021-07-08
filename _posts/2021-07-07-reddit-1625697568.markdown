@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MEV Explained - Hey guys, I just made a video explaining MEV. LMK your input, I'd love some constructive criticism on my videos to make the future ones better :) 
-date: 2021-07-07 1625697568 
-categories: reddit 
---- 
-https://redd.it/oftx5a
