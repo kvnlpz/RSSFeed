@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ziomboy 
-date: 2021-07-08 11:32:07 
-categories: twitter 
---- 
-@InvestorsLive Sold at $ 11.  It is questionable whether the antibodies will still work with Delta.  Before Corona, it was a $ 2 share
