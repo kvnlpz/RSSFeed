@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Making Sense of Rollups, Part 2: Dispute Resolution on Arbitrum and Optimism 
+date: 2021-07-08 1625785449 
+categories: reddit 
+--- 
+https://redd.it/ogiq2f
