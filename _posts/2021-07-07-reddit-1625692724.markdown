@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Currently looking at Oracles and found Tellor. How does it rank among other projects like it? 
-date: 2021-07-07 1625692724 
-categories: reddit 
---- 
-https://redd.it/ofscrh
