@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Tezos Dev Series: Manan Gouhari 
-date: 2021-07-07 1625676652 
-categories: reddit 
---- 
-https://redd.it/ofmvze
