@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Cardano on-chain voting anonymous? 
-date: 2021-07-07 1625683784 
-categories: reddit 
---- 
-https://redd.it/ofpdhf
