@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ZDNet nominates Brave as the browser you should replace your old ones with! 
-date: 2021-07-07 1625698759 
-categories: reddit 
---- 
-https://redd.it/ofuayp
