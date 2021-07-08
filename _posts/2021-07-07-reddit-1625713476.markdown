@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Brave developing a native C++ implementation of an Ethereum remote client and announces integration of its browser into the Ethereum ecosystem with new 0x protocol powered ERC20 token swap feature 
+date: 2021-07-07 1625713476 
+categories: reddit 
+--- 
+https://redd.it/ofyjga
