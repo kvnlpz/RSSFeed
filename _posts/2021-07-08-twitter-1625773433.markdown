@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-08 12:43:53 
+categories: twitter 
+--- 
+@BangTheClose Not really, actually. Gamma and vega both end up following sorta-inverse exponential curves. There's… https://t.co/VwtAbf98NY
