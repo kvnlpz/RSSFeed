@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @shooterrMcgavin 
+date: 2021-07-07 19:33:24 
+categories: twitter 
+--- 
+@alphatrends Is ytd vwap different? My vwap on tos looks different
