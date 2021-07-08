@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: They're growing fast! 
-date: 2021-07-07 1625677801 
-categories: reddit 
---- 
-https://redd.it/ofnanu
