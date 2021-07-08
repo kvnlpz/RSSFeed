@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Same topic being re-posted too many times. 
-date: 2021-07-07 1625694289 
-categories: reddit 
---- 
-https://redd.it/ofrdh1
