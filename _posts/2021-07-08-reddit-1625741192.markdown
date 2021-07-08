@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How does scaling with lightning work if you need to do an onchain transaction every time you open/close a channel? 
+date: 2021-07-08 1625741192 
+categories: reddit 
+--- 
+https://redd.it/og4p3s
