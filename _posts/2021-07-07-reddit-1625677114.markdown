@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Liquidity pools - the balanced funds of crypto that make you fees instead of costing fees 
-date: 2021-07-07 1625677114 
-categories: reddit 
---- 
-https://redd.it/ofn1qb
