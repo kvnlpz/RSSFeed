@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum EIP-1559 Launch Date Postponed to August 4th By CoinQuora 
-date: 2021-07-07 1625675562 
-categories: reddit 
---- 
-https://redd.it/ofmip2
