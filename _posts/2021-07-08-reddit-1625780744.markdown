@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What did you buy today? 
-date: 2021-07-08 1625780744 
-categories: reddit 
---- 
-https://redd.it/ogh96p
