@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @geoffberg1 
+date: 2021-07-07 18:50:29 
+categories: twitter 
+--- 
+@InvestorsLive See you in the 30s
