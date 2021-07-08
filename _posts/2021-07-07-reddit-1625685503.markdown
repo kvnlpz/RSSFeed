@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $Razor is a decentralized oracle project that feeds data to smart contracts using a network of Stakers. Follow razor_network on twitter for your timely updates. 
-date: 2021-07-07 1625685503 
-categories: reddit 
---- 
-https://redd.it/ofpyzm
