@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: It’s official. EIP1559 goes live August 4, 2021 (11-17 UTC). Double & triple checked. Press announcement will be on blog.ethereum.org - Thank you for all of your hard work! The community appreciates everything Ether developers do. This is why I love this project! Next stop, The Merge! 🚂 
+date: 2021-07-07 1625705012 
+categories: reddit 
+--- 
+https://redd.it/ofw5qv
