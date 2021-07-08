@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @kurtyordy 
+date: 2021-07-07 20:10:32 
+categories: twitter 
+--- 
+@muddywatersre what’s your thoughts on baidu?
