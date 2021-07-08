@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 11:26:43 
-categories: twitter 
---- 
-@PenguinsTrading Err, I'm fairly confident it already died down. February kinda destroyed SPAC-mania. Chamath's new SPACs are hugging NAV.
