@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happened to Coinshares adding Tezos? 
-date: 2021-07-07 1625680702 
-categories: reddit 
---- 
-https://redd.it/ofmlum
