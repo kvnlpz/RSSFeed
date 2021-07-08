@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 11:20:10 
-categories: twitter 
---- 
-@PenguinsTrading I don't think book/share is a meaningful metric here, unless it directly translates to redemption… https://t.co/UItHyPmVa6
