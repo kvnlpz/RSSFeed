@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Moon Governance Proposal: Reduce Moons received from GIF-only posts to 25% 
+date: 2021-07-08 1625783592 
+categories: reddit 
+--- 
+https://redd.it/ogi5zx
