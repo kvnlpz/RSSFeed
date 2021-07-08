@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @markflowchatter 
+date: 2021-07-08 03:54:15 
+categories: twitter 
+--- 
+Recently trade journal CNET posted a note about AT&amp;T using RCS-based Google messages as the default messaging app.… https://t.co/LpvM3fUL52
