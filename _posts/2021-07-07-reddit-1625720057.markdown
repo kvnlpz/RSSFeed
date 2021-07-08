@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: [Update] Break my contract, steal my money. A solidity riddle. 
+date: 2021-07-07 1625720057 
+categories: reddit 
+--- 
+https://redd.it/ofy93g
