@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do not accept reddit chat requests. Most of them are scams. 
-date: 2021-07-08 1625778703 
-categories: reddit 
---- 
-https://redd.it/oggl65
