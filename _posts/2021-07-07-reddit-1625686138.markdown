@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Argentinian delegate propose project to allow salaries in Bitcoin 
-date: 2021-07-07 1625686138 
-categories: reddit 
---- 
-https://redd.it/ofq6mt
