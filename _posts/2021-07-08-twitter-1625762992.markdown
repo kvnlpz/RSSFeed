@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @quadriplegic30 
+date: 2021-07-08 09:49:52 
+categories: twitter 
+--- 
+@InvestorsLive How do you get the price points on your chart?
