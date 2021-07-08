@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BullBNGBearBRN 
+date: 2021-07-07 17:14:28 
+categories: twitter 
+--- 
+@alphatrends Why not look at VWAP off the high instead of YTD VWAP? do you find YTD VWAP more accurate?
