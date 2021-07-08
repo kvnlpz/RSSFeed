@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is Staking? Why has $14 Billion been sent to Ethereum 2.0 Network 
-date: 2021-07-08 1625776904 
-categories: reddit 
---- 
-https://redd.it/ogfz74
