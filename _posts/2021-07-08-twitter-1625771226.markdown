@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @gregdsports 
+date: 2021-07-08 12:07:06 
+categories: twitter 
+--- 
+RT @RayTL_: Range expansion near highs is only a positive if tight action follows. Very rare does range expansion near highs mean “accumula…
