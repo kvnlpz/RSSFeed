@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @IdrisTrades 
+date: 2021-07-08 06:03:09 
+categories: twitter 
+--- 
+RT @TraderTexMex: $DBGI "that second quarter 2021 revenue increased by approximately 100% over first quarter 2021 figures, which only inclu…
