@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: France Tests EVM-based CBDC Flows With Singapore Using Automated Liquidity Pool 
+date: 2021-07-08 1625757847 
+categories: reddit 
+--- 
+https://redd.it/og86f1
