@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Keubiko 
-date: 2021-07-08 10:45:05 
-categories: twitter 
---- 
-@muddywatersre Just don't take a black light to it.
