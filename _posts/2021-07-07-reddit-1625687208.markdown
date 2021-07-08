@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $TALK RSI low, buy alert 
-date: 2021-07-07 1625687208 
-categories: reddit 
---- 
-https://redd.it/ofqja8
