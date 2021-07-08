@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The XRPL Developer Summit — Apex (Sept. 29-30) 
-date: 2021-07-07 1625691595 
-categories: reddit 
---- 
-https://redd.it/ofrzi1
