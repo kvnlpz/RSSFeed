@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @SourcesTruth 
+date: 2021-07-08 08:30:24 
+categories: twitter 
+--- 
+RT @nope_its_lily: Excellent thread on GBTC
