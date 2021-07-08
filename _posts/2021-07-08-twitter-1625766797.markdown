@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stef__Gee 
-date: 2021-07-08 10:53:17 
-categories: twitter 
---- 
-@ACInvestorBlog "should" ... But we have to follow the markets 😎
