@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where does Saylor get BTC? 
-date: 2021-07-08 1625777081 
-categories: reddit 
---- 
-https://redd.it/ogg1cb
