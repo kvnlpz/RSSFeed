@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Do we think rollups will be as good as lightning at reducing transaction fees? 
+date: 2021-07-08 1625733693 
+categories: reddit 
+--- 
+https://redd.it/og37a4
