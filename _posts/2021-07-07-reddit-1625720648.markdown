@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Coinflip atm ask phone and name if amount is less than 900$ 
+date: 2021-07-07 1625720648 
+categories: reddit 
+--- 
+https://redd.it/og0fas
