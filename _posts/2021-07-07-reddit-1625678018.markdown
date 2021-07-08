@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here's a video on how to register for project catalyst. 
-date: 2021-07-07 1625678018 
-categories: reddit 
---- 
-https://redd.it/ofndk4
