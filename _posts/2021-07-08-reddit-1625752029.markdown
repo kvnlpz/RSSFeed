@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The Tinder Trap: Postmortem Analysis of a Physical Attack Targeting Bitcoiners 
+date: 2021-07-08 1625752029 
+categories: reddit 
+--- 
+https://redd.it/og7ja3
