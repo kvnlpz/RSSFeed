@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @buzz2papa 
-date: 2021-07-08 11:05:51 
-categories: twitter 
---- 
-@muddywatersre Coke Painting... ?
