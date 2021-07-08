@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-08 08:53:52 
+categories: twitter 
+--- 
+What this means on the converse is it works measurably worse by itself in low volatility environments.
