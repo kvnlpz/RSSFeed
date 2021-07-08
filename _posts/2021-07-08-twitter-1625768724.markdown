@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PenguinsTrading 
-date: 2021-07-08 11:25:24 
-categories: twitter 
---- 
-@nope_its_lily Fair enough, but that might not always be a given once SPAC-mania dies downs.
