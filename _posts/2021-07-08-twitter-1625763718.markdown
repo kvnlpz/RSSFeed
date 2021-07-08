@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @QuentinDunbar 
-date: 2021-07-08 10:01:58 
-categories: twitter 
---- 
-@timothysykes The moment he had to make a comment 😅 https://t.co/sSk7HYHEiM

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mikeyanatomy 
-date: 2021-07-08 10:41:30 
-categories: twitter 
---- 
-@Steven1_994 #walkitlikeitalkit

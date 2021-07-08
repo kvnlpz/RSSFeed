@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brrrzooka 
-date: 2021-07-08 10:09:55 
-categories: twitter 
---- 
-@nope_its_lily @salr_nyc This country has a long and storied history of people getting rich off scams

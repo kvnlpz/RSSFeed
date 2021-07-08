@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NioWins 
-date: 2021-07-08 10:10:10 
-categories: twitter 
---- 
-@muddywatersre The real value is in the medium. 🤣 https://t.co/SmDsGdrgcU

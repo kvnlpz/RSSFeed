@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stockswithcole 
-date: 2021-07-07 12:03:45 
-categories: twitter 
---- 
-@OddStockTrader Cody dechambeau

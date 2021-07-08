@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Token Metrics 
-date: 2021-07-07 1625702226 
-categories: reddit 
---- 
-https://redd.it/ofvcsj

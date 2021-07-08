@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question on staking 
-date: 2021-07-07 1625718463 
-categories: reddit 
---- 
-https://redd.it/ofzvqp

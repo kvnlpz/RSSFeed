@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BallezaOscar 
-date: 2021-07-08 10:20:36 
-categories: twitter 
---- 
-@super_trades Wait for me don’t leave yet 😂

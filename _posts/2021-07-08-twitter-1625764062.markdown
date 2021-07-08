@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 10:07:42 
-categories: twitter 
---- 
-@salr_nyc No one ever accused Americans of not being stupidly optimistic

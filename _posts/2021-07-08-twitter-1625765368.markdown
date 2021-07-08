@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @apearmy801 
-date: 2021-07-08 10:29:28 
-categories: twitter 
---- 
-@timothysykes Hi Timmy. What hedge fund do you work for? Can we consider this financial advise?
