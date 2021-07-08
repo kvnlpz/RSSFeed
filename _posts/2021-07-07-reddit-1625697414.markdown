@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market open tomorrow 
-date: 2021-07-07 1625697414 
-categories: reddit 
---- 
-https://redd.it/oftvd1
