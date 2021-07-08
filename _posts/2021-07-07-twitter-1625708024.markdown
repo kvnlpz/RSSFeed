@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JoeTitzer 
+date: 2021-07-07 18:33:44 
+categories: twitter 
+--- 
+@InvestorsLive Nice one on NIO too...
