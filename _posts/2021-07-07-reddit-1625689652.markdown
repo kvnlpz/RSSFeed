@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yoroi staking pools 
-date: 2021-07-07 1625689652 
-categories: reddit 
---- 
-https://redd.it/ofrcob
