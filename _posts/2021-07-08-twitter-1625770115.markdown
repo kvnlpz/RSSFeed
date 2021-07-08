@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BrockFalfas 
+date: 2021-07-08 11:48:35 
+categories: twitter 
+--- 
+@alphatrends @get_screenshot
