@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When are we going to the moon ? 
-date: 2021-07-07 1625697164 
-categories: reddit 
---- 
-https://redd.it/oftsc3
