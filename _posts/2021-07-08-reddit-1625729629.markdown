@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How does one go about minting an NFT within the Cosmos ecosystem.(Absolutely refuse to pay ETH gas fees for a personal experiment) Also with the coming Gravity bridge and its eventual ETH bridge. Would it be possible to hold ERC20 NFT's in the Keplr wallet. 
+date: 2021-07-08 1625729629 
+categories: reddit 
+--- 
+https://redd.it/og2eqo
