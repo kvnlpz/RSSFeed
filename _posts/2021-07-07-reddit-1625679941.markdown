@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 100K YOLO into CLOV 
-date: 2021-07-07 1625679941 
-categories: reddit 
---- 
-https://redd.it/ofn4mu
