@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is great news 
-date: 2021-07-08 1625777614 
-categories: reddit 
---- 
-https://redd.it/ogg7wc
