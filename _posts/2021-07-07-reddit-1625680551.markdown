@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Someone transferred 400,000$ in less than 0.2 sec, with Banano coin, zero fee and 6 million times less energy than a BTC trx. Jeez ! 
-date: 2021-07-07 1625680551 
-categories: reddit 
---- 
-https://redd.it/ofo9gx
