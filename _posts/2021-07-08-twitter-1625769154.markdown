@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @apaulogy 
-date: 2021-07-08 11:32:34 
-categories: twitter 
---- 
-@nope_its_lily Scathing.
-
-Love this tweet.
