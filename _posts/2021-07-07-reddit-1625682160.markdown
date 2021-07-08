@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thoughts on GRT (The Graph) coin? 
-date: 2021-07-07 1625682160 
-categories: reddit 
---- 
-https://redd.it/ofoszo
