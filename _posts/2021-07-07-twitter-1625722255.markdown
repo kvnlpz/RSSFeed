@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @pedrozen 
+date: 2021-07-07 22:30:55 
+categories: twitter 
+--- 
+@nope_its_lily Momentum?
