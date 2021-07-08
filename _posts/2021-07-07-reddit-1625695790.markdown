@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NewEgg on face 
-date: 2021-07-07 1625695790 
-categories: reddit 
---- 
-https://redd.it/oftc9z
