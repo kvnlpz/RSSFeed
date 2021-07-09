@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Congrats on 50,000 r/tezos! 🥳🎉 
-date: 2021-07-09 1625829247 
-categories: reddit 
---- 
-https://redd.it/ogteh9
