@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-09 16:48:42 
+categories: twitter 
+--- 
+RT @doublelpm: The Elrond network intends to achieve these goals through its unique Adaptive State Sharding technology and using the SPoS c…
