@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why does my wallet say I have a balance of $420,436,211.00? 
-date: 2021-07-09 1625814759 
-categories: reddit 
---- 
-https://redd.it/ogqda7
