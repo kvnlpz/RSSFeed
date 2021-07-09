@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mobilepropdesk 
-date: 2021-07-08 19:04:48 
-categories: twitter 
---- 
-RT @alphatrends: looking forward to being on!
