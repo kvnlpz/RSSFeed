@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StevenMandrapa 
-date: 2021-07-08 17:56:18 
-categories: twitter 
---- 
-@nope_its_lily @MichaelGoodwell @bennpeifert And especially if you qualify your statements by trying to characteriz… https://t.co/z8uDk2SCpT
