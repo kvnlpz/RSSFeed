@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 06:45:34 
+categories: twitter 
+--- 
+@ivan_labrie Well. Now it is .7.
