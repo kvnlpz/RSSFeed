@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My Stock Scanner Filter for trading 
-date: 2021-07-08 1625796939 
-categories: reddit 
---- 
-https://redd.it/oglyey
