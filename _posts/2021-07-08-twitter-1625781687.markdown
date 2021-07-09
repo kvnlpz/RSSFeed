@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CashlessActs 
-date: 2021-07-08 15:01:27 
-categories: twitter 
---- 
-@InvestorsLive An actual post worth reading.
-Thanks Nate https://t.co/za2YR9ia4T
