@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Algorand FUD 
-date: 2021-07-09 1625828076 
-categories: reddit 
---- 
-https://redd.it/ogt4sn
