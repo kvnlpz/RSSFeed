@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-08 22:36:47 
-categories: twitter 
---- 
-https://t.co/LFinGOVwnr @mslady glad you understand :)
