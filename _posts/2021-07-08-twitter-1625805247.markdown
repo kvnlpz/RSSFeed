@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-08 21:34:07 
-categories: twitter 
---- 
-RT @StocksToTrade: How's your Thursday morning going? Despite the $SPY bloodbath, there were some great opportunities on trades like $CARV…
