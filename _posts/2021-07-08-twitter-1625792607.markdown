@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ATartick 
-date: 2021-07-08 18:03:27 
-categories: twitter 
---- 
-@nope_its_lily @TheStalwart How much do you think the leverage impact of the one could effect the other?
