@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @95hoo 
-date: 2021-07-08 16:54:44 
-categories: twitter 
---- 
-@muddywatersre Ukraine has a monopoly on these gems
