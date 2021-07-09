@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @slavverb 
+date: 2021-07-09 14:30:53 
+categories: twitter 
+--- 
+@InvestorsLive Thanks Nathan!
