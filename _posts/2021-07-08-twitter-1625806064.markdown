@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JackVisconti 
-date: 2021-07-08 21:47:44 
-categories: twitter 
---- 
-@nope_its_lily Vega is a fake Greek, just like Vegas is a fake city
