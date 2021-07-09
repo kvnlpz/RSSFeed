@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let’s go SPCE! First post 
-date: 2021-07-08 1625787992 
-categories: reddit 
---- 
-https://redd.it/ogjh31
