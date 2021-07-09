@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 07:35:48 
+categories: twitter 
+--- 
+@brrrzooka @choffstein I still have no idea how to use datetime so I just google it every single time e-z
