@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 14:24:13 
-categories: twitter 
---- 
-we're up 300% in melvin capital terms this year
