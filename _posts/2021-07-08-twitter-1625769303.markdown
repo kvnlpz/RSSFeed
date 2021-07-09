@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RealMrGhoul 
-date: 2021-07-08 11:35:03 
-categories: twitter 
---- 
-@nope_its_lily Suffice it to say, I hate this pandemic.
