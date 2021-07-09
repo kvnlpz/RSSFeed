@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SirStadtKremms 
-date: 2021-07-08 19:47:41 
-categories: twitter 
---- 
-@nope_its_lily Some time ago, there was a cool correlation between Hang Seng and US Markets, not sure if it's true… https://t.co/XzHtBjCcro
