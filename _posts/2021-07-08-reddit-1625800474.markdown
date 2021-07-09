@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum’s London upgrade deployed to final testnet ahead of August 4 fork - The long-awaited EIP-1559 upgrade is just 26 days away now. 
-date: 2021-07-08 1625800474 
-categories: reddit 
---- 
-https://redd.it/ogmww2
