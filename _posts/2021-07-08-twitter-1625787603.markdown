@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndrewLFannon 
-date: 2021-07-08 16:40:03 
-categories: twitter 
---- 
-@timothysykes @Evabgarrett Not Surprised.
