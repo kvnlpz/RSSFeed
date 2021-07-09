@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mari_trades 
-date: 2021-07-08 15:04:51 
-categories: twitter 
---- 
-@timothysykes @Jackaroo_Trades Thanks tim 🙏🏽
