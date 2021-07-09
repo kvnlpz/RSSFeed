@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sms alert? 
-date: 2021-07-08 1625796615 
-categories: reddit 
---- 
-https://redd.it/ogluxj
