@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NotMrbmc 
-date: 2021-07-08 12:13:24 
-categories: twitter 
---- 
-@nope_its_lily remember when people thought the christmas rush was the second wave
