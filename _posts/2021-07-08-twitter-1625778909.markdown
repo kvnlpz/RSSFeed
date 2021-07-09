@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @purpletrader1 
-date: 2021-07-08 14:15:09 
-categories: twitter 
---- 
-@InvestorsLive I'm making popcorn!
