@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StriveGreatnes1 
-date: 2021-07-08 22:03:40 
-categories: twitter 
---- 
-@OddStockTrader If they actually traded lol
