@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mgmgrand2020 
-date: 2021-07-08 18:33:27 
-categories: twitter 
---- 
-@timothysykes join the Bootcamp. Excited to get started to see what you have to offer. Just watched your Panic Prof… https://t.co/qKaICljWEY
