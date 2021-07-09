@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 18:16:35 
-categories: twitter 
---- 
-@MichaelGoodwell @coloradotravis @AnalystDC @bennpeifert @aRishisays Yeah. I mean it's hard. Text is not a perfect… https://t.co/qEb9MU8FSv
