@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @staythecurse 
-date: 2021-07-08 16:14:32 
-categories: twitter 
---- 
-@nope_its_lily @therobotjames @macrocephalopod @lightspringfox Congrats!!!
