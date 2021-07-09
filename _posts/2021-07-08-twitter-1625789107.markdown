@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnWRichKid 
-date: 2021-07-08 17:05:07 
-categories: twitter 
---- 
-@nope_its_lily @SquishChaos Congrats Lily! You’ll be a great father
