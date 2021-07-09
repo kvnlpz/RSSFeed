@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 12:22:43 
-categories: twitter 
---- 
-@BangTheClose Not really much, it's a sample trade. It's much better to do more DTE, but it still gets the job done. Idk.
