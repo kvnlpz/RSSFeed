@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ClimbTurtle 
-date: 2021-07-08 16:31:04 
-categories: twitter 
---- 
-@timothysykes Tim, when is the OTC market going to come back?
