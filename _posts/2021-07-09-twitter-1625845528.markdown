@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DavidGoldbergFL 
+date: 2021-07-09 08:45:28 
+categories: twitter 
+--- 
+@nope_its_lily Skew changes like intraday and is not really fixed right?
