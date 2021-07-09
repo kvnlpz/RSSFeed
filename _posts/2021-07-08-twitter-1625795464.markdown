@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @prazz247 
-date: 2021-07-08 18:51:04 
-categories: twitter 
---- 
-@nope_its_lily @SquishChaos Ok, I’ve seen all the congrats the last two days but still have no idea what amazing new thing you’ve done
