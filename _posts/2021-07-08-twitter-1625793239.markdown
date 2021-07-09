@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelGoodwell 
-date: 2021-07-08 18:13:59 
-categories: twitter 
---- 
-@nope_its_lily @bennpeifert I've learnt a ridiculous amount on FinTwit just from engaging with people who are outsi… https://t.co/llGftW28ev
