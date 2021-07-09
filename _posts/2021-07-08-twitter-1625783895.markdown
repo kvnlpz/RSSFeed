@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VJFazzino 
-date: 2021-07-08 15:38:15 
-categories: twitter 
---- 
-@nope_its_lily it's the city that makes its own gravy! @PaulleeWR
