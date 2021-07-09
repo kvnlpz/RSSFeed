@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I hope Bitcoin goes down in price 
-date: 2021-07-09 1625818709 
-categories: reddit 
---- 
-https://redd.it/ogr61y
