@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 16:09:51 
-categories: twitter 
---- 
-@novogratz It's a weird meta-stable situation IMO.
