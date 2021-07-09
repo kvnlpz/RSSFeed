@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TickerSymbolSof 
-date: 2021-07-08 16:05:58 
-categories: twitter 
---- 
-@InvestorsLive how come a sell off?
