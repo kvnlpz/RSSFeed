@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Phil40754602 
-date: 2021-07-08 19:36:36 
-categories: twitter 
---- 
-@alphatrends @TrendSpider Is this described in your book "TA Using Multiple Time Frames"?
