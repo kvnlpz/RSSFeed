@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 07:33:37 
+categories: twitter 
+--- 
+@Sleepy__Snorlax it should be called 'idk just use scipy'
