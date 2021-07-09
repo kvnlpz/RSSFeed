@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Steven604420 
-date: 2021-07-08 18:31:43 
-categories: twitter 
---- 
-@nope_its_lily It looks like a raccoon
