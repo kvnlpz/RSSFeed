@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do we ensure crypto currency’s don’t hit 0? 
-date: 2021-07-08 1625811066 
-categories: reddit 
---- 
-https://redd.it/ogpjzl
