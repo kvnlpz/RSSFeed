@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VolCurve 
-date: 2021-07-08 12:43:37 
-categories: twitter 
---- 
-@nope_its_lily Demand (or lack of supply) has been steady for IV over the last week or so. So the ultimate pain tra… https://t.co/qMlgsSPM17
