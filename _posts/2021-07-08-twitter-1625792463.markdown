@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnalystDC 
-date: 2021-07-08 18:01:03 
-categories: twitter 
---- 
-@nope_its_lily @MichaelGoodwell @bennpeifert @aRishisays you can tell by checking if the post includes a cheeky gif 😂
