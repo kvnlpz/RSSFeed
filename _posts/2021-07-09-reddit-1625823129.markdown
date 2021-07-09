@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Experimenting With The Theory 
-date: 2021-07-09 1625823129 
-categories: reddit 
---- 
-https://redd.it/ogs2is
