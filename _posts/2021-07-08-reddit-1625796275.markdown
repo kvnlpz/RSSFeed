@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Roll covered call with strike lower than cost basis 
-date: 2021-07-08 1625796275 
-categories: reddit 
---- 
-https://redd.it/oglrvq
