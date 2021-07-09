@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @designaustralia 
-date: 2021-07-08 14:35:49 
-categories: twitter 
---- 
-RT @alphatrends: Understand Market Structure and Reduce Emotional Decisions https://t.co/GWaE6zj5vw
