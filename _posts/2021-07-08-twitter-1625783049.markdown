@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeLambrakis 
-date: 2021-07-08 15:24:09 
-categories: twitter 
---- 
-@nope_its_lily The quality of the water render is astounding.
