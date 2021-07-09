@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 07:30:04 
+categories: twitter 
+--- 
+@choffstein excuse me what being a quant is all about looking up niche pandas functions
