@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gonzalesdr77 
-date: 2021-07-08 23:14:55 
-categories: twitter 
---- 
-@timothysykes Lets get this!!
