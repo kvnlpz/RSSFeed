@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: On which day of the week the price is the lowest? 
-date: 2021-07-08 1625805090 
-categories: reddit 
---- 
-https://redd.it/ogo58b
