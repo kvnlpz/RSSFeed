@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-08 20:41:33 
-categories: twitter 
---- 
-@M1TSU777 Glad you get it
