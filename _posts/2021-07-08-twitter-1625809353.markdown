@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @heyooheyooheyoo 
-date: 2021-07-08 22:42:33 
-categories: twitter 
---- 
-@OddStockTrader Even better in Spanish https://t.co/iWuSfE9SqV
