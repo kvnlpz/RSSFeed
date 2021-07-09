@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vr_tonio 
-date: 2021-07-08 15:24:15 
-categories: twitter 
---- 
-@nope_its_lily This the trailer to Pixars 'Soul-Sucking?'
