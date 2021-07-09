@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SaleYacht 
-date: 2021-07-08 22:44:45 
-categories: twitter 
---- 
-@muddywatersre The Swamp Collection
