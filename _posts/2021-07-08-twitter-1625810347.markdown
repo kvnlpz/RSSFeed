@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AJvsNASDAQ 
-date: 2021-07-08 22:59:07 
-categories: twitter 
---- 
-@super_trades The king has spoken
