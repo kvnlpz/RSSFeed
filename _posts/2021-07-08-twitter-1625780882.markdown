@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-08 14:48:02 
-categories: twitter 
---- 
-@tbohen @mono_trader @TraderBryce @SmallCapRockets So awesome!
