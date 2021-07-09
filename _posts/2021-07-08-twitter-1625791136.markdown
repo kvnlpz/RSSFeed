@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @relevencia 
-date: 2021-07-08 17:38:56 
-categories: twitter 
---- 
-@InvestorsLive Nasim disagrees
