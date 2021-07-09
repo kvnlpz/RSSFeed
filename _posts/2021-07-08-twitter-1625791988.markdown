@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelGoodwell 
-date: 2021-07-08 17:53:08 
-categories: twitter 
---- 
-@nope_its_lily @bennpeifert It becomes more a problem if someone builds a large following by tweeting obviously mis… https://t.co/Dc7WVTiPF5
