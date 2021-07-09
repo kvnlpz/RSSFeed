@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimTilton5 
-date: 2021-07-08 18:15:07 
-categories: twitter 
---- 
-@InvestorsLive I feel like I read my name in there twice without saying my name
