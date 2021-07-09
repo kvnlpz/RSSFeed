@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-08 12:48:23 
-categories: twitter 
---- 
-Wrong ticker I meant $XELA - removed tweet.
