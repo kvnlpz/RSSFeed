@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @O_B_KOOL 
-date: 2021-07-08 22:36:54 
-categories: twitter 
---- 
-@InvestorsLive Another fud bot.. Go figure
