@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Im_CJ_The_Great 
-date: 2021-07-08 20:59:40 
-categories: twitter 
---- 
-@timothysykes @TogeySprings Blah blah blah.
