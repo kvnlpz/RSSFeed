@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DeFi APY/APR rates: Are they fully reliable? 
-date: 2021-07-08 1625802947 
-categories: reddit 
---- 
-https://redd.it/ognl1m
