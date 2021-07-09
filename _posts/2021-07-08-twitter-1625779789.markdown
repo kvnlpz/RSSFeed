@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @followtheh 
-date: 2021-07-08 14:29:49 
-categories: twitter 
---- 
-@nope_its_lily Chamath on line 2 with a job offer
