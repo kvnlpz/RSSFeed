@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @BeesterGee 
+date: 2021-07-09 15:28:02 
+categories: twitter 
+--- 
+@nope_its_lily The secret to life, the universe &amp; everything is....42
+
+Ref: Douglas Adams, 'Hitchhiker's Guide to the Galaxy'
