@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GuilleAngeris 
-date: 2021-07-08 16:13:59 
-categories: twitter 
---- 
-@nope_its_lily so short you can't even handle it
