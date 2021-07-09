@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Daedalus showing wrong epoch 
+date: 2021-07-09 1625869041 
+categories: reddit 
+--- 
+https://redd.it/oh61jg
