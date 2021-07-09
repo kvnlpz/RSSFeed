@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imperative_the 
-date: 2021-07-08 15:30:30 
-categories: twitter 
---- 
-RT @nope_its_lily: man these advertisements for Luca are getting weirder https://t.co/Lhun6AQt8y
