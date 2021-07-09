@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-09 16:48:38 
+categories: twitter 
+--- 
+RT @doublelpm: The goal is to create a decentralized network that can provide the same or better performance than centralized networks whil…
