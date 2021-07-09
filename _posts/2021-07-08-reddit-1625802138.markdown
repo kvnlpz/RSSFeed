@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cold wallet with stamping keys on a metal plate 
-date: 2021-07-08 1625802138 
-categories: reddit 
---- 
-https://redd.it/ognd5q
