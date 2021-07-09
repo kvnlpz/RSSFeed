@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @jfineman 
+date: 2021-07-09 09:18:09 
+categories: twitter 
+--- 
+@CitronResearch  - Hey Andrew - You think that Shopifu might take a crack at https://t.co/jL8paYKer6 now???
