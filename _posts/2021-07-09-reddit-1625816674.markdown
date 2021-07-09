@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I synced my reddit vault with my metamask and I lost my moons. I only had about 30 of them but I'm kinda confused on what I did wrong, any advice would be appreciated. 
-date: 2021-07-09 1625816674 
-categories: reddit 
---- 
-https://redd.it/ogqrch
