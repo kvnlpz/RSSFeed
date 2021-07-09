@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @saint_trades 
-date: 2021-07-08 13:56:11 
-categories: twitter 
---- 
-RT @TraderTexMex: $HUSA 13d/a by Ault Global now owns 14.84%, added 491k shares on Tuesday
