@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 18:27:52 
-categories: twitter 
---- 
-One thing I read recently (shared with me, unfortunately not on Twitter) was @eugenewei's excellent blog posts on T… https://t.co/sx2PguAqGX
