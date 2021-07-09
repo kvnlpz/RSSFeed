@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @weston_moore 
-date: 2021-07-08 19:27:40 
-categories: twitter 
---- 
-@nope_its_lily TIL the 2nd derivative of Vega and a river in Russia.  Economics and geography lesson from a single tweet, well done
