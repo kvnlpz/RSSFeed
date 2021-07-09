@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 10:26:19 
+categories: twitter 
+--- 
+@TheSpeculator0 @AnalystDC Idk I rather like this trade:
+Aug 20 condor sell 330P/buy 320P
+sell 330C/buy 340C
+r:r 1/1 even if deal fails
