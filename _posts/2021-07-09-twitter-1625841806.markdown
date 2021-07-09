@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 07:43:26 
+categories: twitter 
+--- 
+@coloradotravis @BennettTomlin @SatiationPoint Err, from der Wiki: The first incompleteness theorem states that no… https://t.co/k7a58LzUGI
