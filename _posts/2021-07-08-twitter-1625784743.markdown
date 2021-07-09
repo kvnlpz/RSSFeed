@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marinashoulda 
-date: 2021-07-08 15:52:23 
-categories: twitter 
---- 
-@InvestorsLive I wanted to short it but apparently no shares available to short
