@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Catalyst Proposal for Ledger Live Development? 
-date: 2021-07-08 1625794683 
-categories: reddit 
---- 
-https://redd.it/oglcey
