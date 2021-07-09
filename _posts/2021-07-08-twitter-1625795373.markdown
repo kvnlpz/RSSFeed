@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DogmaticPrior 
-date: 2021-07-08 18:49:33 
-categories: twitter 
---- 
-@nope_its_lily Everything on that list is pretty meh. How do we trade off of "meh"?
