@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jarzt 
-date: 2021-07-08 19:24:22 
-categories: twitter 
---- 
-RT @alphatrends: Understand Market Structure and Reduce Emotional Decisions https://t.co/GWaE6zj5vw
