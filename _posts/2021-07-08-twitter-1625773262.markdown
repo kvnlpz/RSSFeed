@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PArchambeau 
-date: 2021-07-08 12:41:02 
-categories: twitter 
---- 
-@nope_its_lily we saw ivol outpace rvol leading into last opex when your position expires
