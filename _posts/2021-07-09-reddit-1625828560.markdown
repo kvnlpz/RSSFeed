@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hydra: conflict resolution performance impact? 
-date: 2021-07-09 1625828560 
-categories: reddit 
---- 
-https://redd.it/ogt8wb
