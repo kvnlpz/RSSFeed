@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BigGameJames677 
-date: 2021-07-08 15:30:17 
-categories: twitter 
---- 
-@timothysykes @StockyPenny https://t.co/ecoNgZ0pEp
