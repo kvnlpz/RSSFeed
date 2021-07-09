@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @minionrare 
-date: 2021-07-08 13:13:58 
-categories: twitter 
---- 
-RT @InvestorsLive: At least now that everyone is trained to buy the dip we can have a nice steady sell off either tomorrow or next week.
