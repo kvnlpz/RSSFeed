@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-07-08 1625773505 
-categories: webull 
---- 
-$AMC Yup understand
