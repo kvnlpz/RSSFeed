@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Evabgarrett 
-date: 2021-07-08 23:45:25 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Yeah, definitely
