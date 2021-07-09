@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Greeks (cross post) 
-date: 2021-07-08 1625800419 
-categories: reddit 
---- 
-https://redd.it/ogmwc0
