@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 07:23:48 
+categories: twitter 
+--- 
+@JoeDubyk What window of time are you looking at? Did you control in your backtest properly by something like boots… https://t.co/i7IEHMZFdt
