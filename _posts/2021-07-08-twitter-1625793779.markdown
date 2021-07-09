@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DerralPhillips 
-date: 2021-07-08 18:22:59 
-categories: twitter 
---- 
-@timothysykes I have been a lifetime challenge student for almost a year now.
