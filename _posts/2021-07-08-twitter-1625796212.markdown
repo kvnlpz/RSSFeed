@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jubal78335119 
-date: 2021-07-08 19:03:32 
-categories: twitter 
---- 
-@timothysykes No longer planning to subscribe to you
