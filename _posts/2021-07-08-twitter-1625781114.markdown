@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sol_saturn 
-date: 2021-07-08 14:51:54 
-categories: twitter 
---- 
-RT @nope_its_lily: we're up 300% in melvin capital terms this year
