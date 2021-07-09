@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NikuTrading 
-date: 2021-07-08 18:15:37 
-categories: twitter 
---- 
-@InvestorsLive Exactly, for every r/wsb post showing massive gains, there’ll be countless people who lost a lot!
