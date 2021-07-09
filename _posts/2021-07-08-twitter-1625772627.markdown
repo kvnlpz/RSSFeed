@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @6Cmoney 
-date: 2021-07-08 12:30:27 
-categories: twitter 
---- 
-@InvestorsLive I would like to second this.
