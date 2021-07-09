@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-08 14:47:53 
-categories: twitter 
---- 
-RT @tbohen: Have you checked out the newest segment on the STT youtube channel- Small Cap Recap? 
-
-My favorite duo, @mono_trader and @Trade…
