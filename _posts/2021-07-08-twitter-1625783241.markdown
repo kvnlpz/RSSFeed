@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @legalhuslein 
-date: 2021-07-08 15:27:21 
-categories: twitter 
---- 
-@super_trades Are u still on profitly, or do you have your own site now, thanks
