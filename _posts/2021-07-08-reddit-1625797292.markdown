@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-1559 versus final stage of wyckoff distribution pattern. Who will win? 
+date: 2021-07-08 1625797292 
+categories: reddit 
+--- 
+https://redd.it/ogm1xy
