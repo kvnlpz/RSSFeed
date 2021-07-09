@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-07-08 17:51:31 
-categories: twitter 
---- 
-@nope_its_lily @MichaelGoodwell @bennpeifert This is why the larger your account grows, the more frequently you mus… https://t.co/KnnfBL4bPk
