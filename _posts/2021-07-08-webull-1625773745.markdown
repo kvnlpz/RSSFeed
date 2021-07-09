@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-07-08 1625773745 
-categories: webull 
---- 
-$CMCSA Very unusual call for next month. 5M premium
