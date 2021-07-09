@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LiteYearsAhead 
-date: 2021-07-08 17:20:50 
-categories: twitter 
---- 
-@OddStockTrader This is what’s happening right now between the auction &amp; buy now disparity https://t.co/cM07l9c93S
