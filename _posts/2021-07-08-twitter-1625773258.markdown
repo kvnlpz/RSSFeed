@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yap_jaeve 
-date: 2021-07-08 12:40:58 
-categories: twitter 
---- 
-@InvestorsLive Thx Nate im up 30% on my $40 calls.
