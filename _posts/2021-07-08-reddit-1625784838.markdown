@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wish 
-date: 2021-07-08 1625784838 
-categories: reddit 
---- 
-https://redd.it/ogij9y
