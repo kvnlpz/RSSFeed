@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: MICROSOFT completes a Decentralized Identifier built on Bitcoin. The technology enables the identification of an entity without being controlled by a third party. 
+date: 2021-07-09 1625848517 
+categories: reddit 
+--- 
+https://redd.it/ogzamt
