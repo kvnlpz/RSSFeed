@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do non-Bitcoin digital currencies have any value? 
-date: 2021-07-09 1625818863 
-categories: reddit 
---- 
-https://redd.it/ogr75y
