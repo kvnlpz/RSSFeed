@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-08 21:33:32 
-categories: twitter 
---- 
-RT @TCran97: When its summer but studying is more important. @timothysykes @mono_trader fantastic 30 day bootcamp https://t.co/kMkiQZHzx3
