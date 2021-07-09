@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Some rules I created from made mistakes to avoid them in the future that I wanted to share with you. 
-date: 2021-07-09 1625814737 
-categories: reddit 
---- 
-https://redd.it/ogqd3m
