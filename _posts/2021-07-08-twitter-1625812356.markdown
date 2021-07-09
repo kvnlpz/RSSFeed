@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @charles06285688 
-date: 2021-07-08 23:32:36 
-categories: twitter 
---- 
-RT @alphatrends: How to use the Alphatrends Anchored VWAP https://t.co/GnS1qUDS80
-
-Available in TC2000 https://t.co/bKavYcNyTJ and @TrendSp…
