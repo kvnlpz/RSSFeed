@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @Fast_hand_Luke 
+date: 2021-07-09 04:56:12 
+categories: twitter 
+--- 
+RT @nope_its_lily: I guess this is a fine trade to post.
+Buy SPY 430 C/P 1DTE
+Sell SPY 430 C/P 4DTE
+Essentially two straddles, but becomes…
