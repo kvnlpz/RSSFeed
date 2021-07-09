@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 05:04:57 
+categories: twitter 
+--- 
+@Isellpremium1 This is a calendar! A traditional calendar like a call or put calendar would be sensitive to delta, and we didn't want that.
