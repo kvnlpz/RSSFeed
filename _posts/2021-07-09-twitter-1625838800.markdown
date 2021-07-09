@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @_Chiplis_ 
+date: 2021-07-09 06:53:20 
+categories: twitter 
+--- 
+@nope_its_lily Everytime someone takes a look at my code they go "Are you fucking kidding me?" so I guess I should ask for a raise.
