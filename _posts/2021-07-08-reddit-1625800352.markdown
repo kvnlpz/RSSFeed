@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin No Longer Meets Satoshi's Original Vision of "Peer-to-Peer Electronic Cash". 
-date: 2021-07-08 1625800352 
-categories: reddit 
---- 
-https://redd.it/ogmvpm
