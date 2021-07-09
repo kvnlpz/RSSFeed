@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Building a BP scoreboard - Vince is proposing to build a scoreboard for the BPs (based on social network activity, infrastructure quality, degree of involvement on EOS ...) that could help EOS users knowing which BP to vote for and maybe to build a great proxy in the future ✌️ 
+date: 2021-07-09 1625850175 
+categories: reddit 
+--- 
+https://redd.it/ogzuvy
