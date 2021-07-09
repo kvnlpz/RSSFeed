@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MandelMoishy 
-date: 2021-07-08 13:53:04 
-categories: twitter 
---- 
-@InvestorsLive How do you explain it??
