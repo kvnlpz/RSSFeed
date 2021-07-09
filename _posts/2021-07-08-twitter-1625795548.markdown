@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Ldein 
-date: 2021-07-08 18:52:28 
-categories: twitter 
---- 
-@nope_its_lily Congrats! Let’s break the record again.
