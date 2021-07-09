@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LilNortenos 
-date: 2021-07-08 15:08:16 
-categories: twitter 
---- 
-RT @timothysykes: @StocksToTrade WELL SAID!!
