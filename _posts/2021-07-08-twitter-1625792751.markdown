@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelGoodwell 
-date: 2021-07-08 18:05:51 
-categories: twitter 
---- 
-@nope_its_lily @bennpeifert Yep. But most of the time, you'd be called out by the knowledgeable people if you tweet clever-sounding garbage.
