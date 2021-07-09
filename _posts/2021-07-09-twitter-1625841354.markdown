@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @brrrzooka 
+date: 2021-07-09 07:35:54 
+categories: twitter 
+--- 
+@nope_its_lily @choffstein strings and datetimes are like 99% of everything
