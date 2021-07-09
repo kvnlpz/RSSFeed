@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @twit_fem 
-date: 2021-07-08 19:00:38 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/1nrFHVgzw1
