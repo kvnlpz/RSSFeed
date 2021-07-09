@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When will it stop 
-date: 2021-07-09 1625814815 
-categories: reddit 
---- 
-https://redd.it/ogqdr3
