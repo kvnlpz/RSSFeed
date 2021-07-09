@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-09 16:48:34 
+categories: twitter 
+--- 
+RT @doublelpm: The Elrond network is a 3rd generation cryptocurrency project. Elrond is designed to become a reference tool for the fintech…
