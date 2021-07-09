@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone tried the DCA-strategy? 
-date: 2021-07-08 1625798607 
-categories: reddit 
---- 
-https://redd.it/ogmewv
