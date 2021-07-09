@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Alpaca Finance Integrates Chainlink To Secure Growing $1.2 Billion TVL 
-date: 2021-07-09 1625819483 
-categories: reddit 
---- 
-https://redd.it/ogrbnh
