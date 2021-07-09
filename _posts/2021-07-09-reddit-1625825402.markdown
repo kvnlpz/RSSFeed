@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does anyone know of any channels to donate Bitcoin to Lebanon? The local currency has lost 90% of its value 
-date: 2021-07-09 1625825402 
-categories: reddit 
---- 
-https://redd.it/ogsk2a
