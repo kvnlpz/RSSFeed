@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 11:02:13 
+categories: twitter 
+--- 
+@ljp0101 Gotcha. Makes sense. Related question is why the 330 10 wide condor is trading for same tenor at 5.13?
