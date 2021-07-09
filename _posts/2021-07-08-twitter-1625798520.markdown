@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paul_griffiths 
-date: 2021-07-08 19:42:00 
-categories: twitter 
---- 
-@nope_its_lily "the underlying application of the american military-industrial system has a number of uses beyond t… https://t.co/uIRjbQsKpD
