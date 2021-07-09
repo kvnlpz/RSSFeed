@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-08 21:34:19 
-categories: twitter 
---- 
-RT @StocksToTrade: Singles add UP!
-
-And in this week’s episode of TWIST, hosts @mono_trader @traderkylec and @Jackaroo_Trades go over their…
