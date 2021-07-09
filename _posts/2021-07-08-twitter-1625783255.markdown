@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DracoWang 
-date: 2021-07-08 15:27:35 
-categories: twitter 
---- 
-RT @modern_rock: $AMC shorts today 💩 
-
-#tradingIsEasy https://t.co/ShEaUE38az
