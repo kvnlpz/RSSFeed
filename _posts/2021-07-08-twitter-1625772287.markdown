@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 12:24:47 
-categories: twitter 
---- 
-You also need to monitor this trade, especially in the 1 DTE case, because by EOD tomorrow you effectively just hav… https://t.co/dKsPT3OBAt
