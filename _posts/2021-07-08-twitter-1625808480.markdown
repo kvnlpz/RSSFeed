@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ApexEarly 
-date: 2021-07-08 22:28:00 
-categories: twitter 
---- 
-@nope_its_lily So it turns out there is an ETF that appears to do this, SPCX. Though I don't know how reputable thi… https://t.co/M9rWoKwKtp
