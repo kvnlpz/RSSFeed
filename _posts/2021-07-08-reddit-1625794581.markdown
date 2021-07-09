@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tesla dropping Bitcoin 
-date: 2021-07-08 1625794581 
-categories: reddit 
---- 
-https://redd.it/oglbht
