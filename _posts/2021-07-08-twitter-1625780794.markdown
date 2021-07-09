@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YaronShaanan 
-date: 2021-07-08 14:46:34 
-categories: twitter 
---- 
-RT @InvestorsLive: How to find your trading edge https://t.co/KhOu98PZQh https://t.co/eHhq1jeWjv
