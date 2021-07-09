@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Question] Why did the market crash when Tesla did not accept btc anymore? 
-date: 2021-07-09 1625814552 
-categories: reddit 
---- 
-https://redd.it/ogqboz
