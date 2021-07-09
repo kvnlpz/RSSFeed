@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: KyberDMM now tracked on DeFi Llama! DeFi Llama, a popular DeFI TVL data aggregator, now tracks the KyberDMM protocol as part of Kyber Network's total value locked (TVL)! With the current ~$356M in TVL, KyberDMM provides $38B in Amplified Liquidity! 
-date: 2021-07-08 1625812700 
-categories: reddit 
---- 
-https://redd.it/ogpx4o
