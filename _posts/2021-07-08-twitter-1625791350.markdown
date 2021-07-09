@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 17:42:30 
-categories: twitter 
---- 
-@MichaelGoodwell @bennpeifert Like I know I'd say more macroeconomics than most people, but I also know enough to k… https://t.co/TOT3FVLXRC
