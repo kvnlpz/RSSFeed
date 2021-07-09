@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @therobotjames 
-date: 2021-07-08 16:11:07 
-categories: twitter 
---- 
-@nope_its_lily @macrocephalopod @lightspringfox Many congratulations to @nope_its_lily on following @lightspringfox!!
