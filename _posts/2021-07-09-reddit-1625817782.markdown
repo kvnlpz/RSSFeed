@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does Staking work? How much do I need to start staking? Can I do it on my Trezor wallet? 
-date: 2021-07-09 1625817782 
-categories: reddit 
---- 
-https://redd.it/ogqze7
