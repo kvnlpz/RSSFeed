@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sub2pointzero 
-date: 2021-07-08 15:33:09 
-categories: twitter 
---- 
-@InvestorsLive @etrade Check out uDirect IRA
