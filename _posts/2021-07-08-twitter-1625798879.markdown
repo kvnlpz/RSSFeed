@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshSzwerasUTL 
-date: 2021-07-08 19:47:59 
-categories: twitter 
---- 
-@super_trades Hey Paul! How’s it going? I really enjoy the account and wanted to discuss an account monetization pr… https://t.co/fd99wnCrVo
