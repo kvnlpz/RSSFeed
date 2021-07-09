@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @UnkPope 
-date: 2021-07-08 16:26:00 
-categories: twitter 
---- 
-@timothysykes Even though I'm not a part of the upper-level team... I am subscribed on a lower level. But I've been… https://t.co/34vUzojcLV
