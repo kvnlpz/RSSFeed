@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeremyj0916 
-date: 2021-07-08 11:37:37 
-categories: twitter 
---- 
-@InvestorsLive Had to leave so soon. https://t.co/iQD9soMWEE
