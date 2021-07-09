@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can you yield farm on Tezos without IL? How much is tezos transaction fee? 
-date: 2021-07-09 1625815842 
-categories: reddit 
---- 
-https://redd.it/ogqlfe
