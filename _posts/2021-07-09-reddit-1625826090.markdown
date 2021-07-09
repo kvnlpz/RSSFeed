@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: About the deleted post on "BTC approaching a triangle" (2 days ago) 
-date: 2021-07-09 1625826090 
-categories: reddit 
---- 
-https://redd.it/ogsp6u
