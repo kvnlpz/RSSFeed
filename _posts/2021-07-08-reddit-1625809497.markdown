@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “We have decided to build a hardware wallet and service to make bitcoin custody more mainstream. We’ll continue to ask and answer questions in the open. This community’s response to our thread about this project has been awesome - encouraging, generous, collaborative, & inspiring.” 
-date: 2021-07-08 1625809497 
-categories: reddit 
---- 
-https://redd.it/ogp7di
