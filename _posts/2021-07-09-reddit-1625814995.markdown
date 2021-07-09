@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Effects on stock price of a company listed in multiple countries if exchange rate changes 
-date: 2021-07-09 1625814995 
-categories: reddit 
---- 
-https://redd.it/ogqf28
