@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I wrote a guide to set up an automated crypto trading bot 
-date: 2021-07-09 1625824136 
-categories: reddit 
---- 
-https://redd.it/ogs9xc
