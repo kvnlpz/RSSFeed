@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NU and Keep On-Chain 'Merger', Distribution of new T Token around September 2021 to try to marry the best of both tokens into a new protocol - but are security tokens like these built on top of proof of stake networks a reasonable solution to privacy, encryptiom or security? 
-date: 2021-07-08 1625807957 
-categories: reddit 
---- 
-https://redd.it/ogoubs
