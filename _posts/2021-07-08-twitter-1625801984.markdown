@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-08 20:39:44 
-categories: twitter 
---- 
-RT @TCran97: When its summer but studying is more important. @timothysykes @mono_trader fantastic 30 day bootcamp https://t.co/kMkiQZHzx3
