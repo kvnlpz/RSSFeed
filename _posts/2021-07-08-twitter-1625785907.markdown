@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 16:11:47 
-categories: twitter 
---- 
-I'm short vegas. Not the Greek, I'm short the city.
