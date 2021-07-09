@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MariusPoppe 
+date: 2021-07-09 11:56:56 
+categories: twitter 
+--- 
+@RayTL_ @RichardMoglen Speech-to-text function
