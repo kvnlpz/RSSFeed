@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I convert my bep20 usdt to erc20 usdt? 
-date: 2021-07-09 1625818013 
-categories: reddit 
---- 
-https://redd.it/ogr14t
