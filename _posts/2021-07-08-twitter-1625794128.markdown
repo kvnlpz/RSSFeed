@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-07-08 18:28:48 
-categories: twitter 
---- 
-@nope_its_lily @AnalystDC @MichaelGoodwell @bennpeifert @aRishisays I think it’s healthy to deliberately say nonsen… https://t.co/TuBzN0vSpo
