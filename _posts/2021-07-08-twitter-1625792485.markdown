@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 18:01:25 
-categories: twitter 
---- 
-@AnalystDC @MichaelGoodwell @bennpeifert @aRishisays nah this is when I bug you and ask lmao
