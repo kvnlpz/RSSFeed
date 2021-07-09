@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos Monthly: Technology, Economy, and Community in June ‘21 
-date: 2021-07-09 1625825315 
-categories: reddit 
---- 
-https://redd.it/ogsjf0
