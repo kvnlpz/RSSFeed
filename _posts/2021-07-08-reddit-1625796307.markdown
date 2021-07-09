@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking ETC 
-date: 2021-07-08 1625796307 
-categories: reddit 
---- 
-https://redd.it/ogllun
