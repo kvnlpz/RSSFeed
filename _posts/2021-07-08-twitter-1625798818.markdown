@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 19:46:58 
-categories: twitter 
---- 
-@AWice https://t.co/zRz624ZEOq
