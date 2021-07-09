@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does Metamask have limited support on Firefox? Or does it work fine? 
-date: 2021-07-08 1625783945 
-categories: reddit 
---- 
-https://redd.it/ogia1l
