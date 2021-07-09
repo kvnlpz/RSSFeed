@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zLochnerMonster 
-date: 2021-07-08 11:50:05 
-categories: twitter 
---- 
-@nope_its_lily I really want to know how many of those hospitalizations are partial/fully vaccinated people.
