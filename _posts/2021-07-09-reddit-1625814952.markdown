@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Whackd is a malicious scamcoin and I can prove it. 
-date: 2021-07-09 1625814952 
-categories: reddit 
---- 
-https://redd.it/ogqerq
