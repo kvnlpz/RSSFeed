@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shortvicks 
-date: 2021-07-08 16:20:24 
-categories: twitter 
---- 
-@nope_its_lily Filter for spac warrants that trade at a discount before their exercise date, buy the warrant, short… https://t.co/reBXwzsrRB
