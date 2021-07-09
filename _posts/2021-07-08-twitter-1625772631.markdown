@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ElGerves 
-date: 2021-07-08 12:30:31 
-categories: twitter 
---- 
-@nope_its_lily How much margin you got that you can execute this?
