@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JYacek 
-date: 2021-07-08 14:33:04 
-categories: twitter 
---- 
-RT @muddywatersre: Preaching to deaf ears on China VIEs for over 10 years now.
