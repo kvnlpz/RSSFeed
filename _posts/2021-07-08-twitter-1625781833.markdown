@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GabeRapisardo 
-date: 2021-07-08 15:03:53 
-categories: twitter 
---- 
-@InvestorsLive $arpo is next 😎
