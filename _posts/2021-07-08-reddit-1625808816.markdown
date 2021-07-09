@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chainlink DeFi oracles survey 
-date: 2021-07-08 1625808816 
-categories: reddit 
---- 
-https://redd.it/ogp1rm
