@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BangTheClose 
-date: 2021-07-08 12:34:34 
-categories: twitter 
---- 
-@nope_its_lily Don’t get me wrong. My fav position is the opposite (short gamma, long vega) even the gamma leg does… https://t.co/HxdJeI1XhD
