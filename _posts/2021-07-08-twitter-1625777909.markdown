@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @josh_wb82 
-date: 2021-07-08 13:58:29 
-categories: twitter 
---- 
-@timothysykes Thanks for all your help and all you do! 🙌🏼
