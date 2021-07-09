@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @illumined1 
+date: 2021-07-09 08:32:51 
+categories: twitter 
+--- 
+@alphatrends @MarketSmith Thanks for validating!
