@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wagmi 
-date: 2021-07-09 1625823623 
-categories: reddit 
---- 
-https://redd.it/ogs63h
