@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: To the developers of AirGap Wallet and Vault 
+date: 2021-07-09 1625851612 
+categories: reddit 
+--- 
+https://redd.it/oh0cca
