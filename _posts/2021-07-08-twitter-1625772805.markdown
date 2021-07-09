@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 12:33:25 
-categories: twitter 
---- 
-@PArchambeau Um. We saw the opposite happen last opex, and this is a short ivol long rvol play
