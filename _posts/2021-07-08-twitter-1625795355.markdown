@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DogmaticPrior 
-date: 2021-07-08 18:49:15 
-categories: twitter 
---- 
-@nope_its_lily People love Delta airlines and I'm just pretty meh about it.
