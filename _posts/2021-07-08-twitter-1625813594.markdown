@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GeorgeWChilds 
-date: 2021-07-08 23:53:14 
-categories: twitter 
---- 
-@nope_its_lily I'm so sorry about HK. Not sure what we can do to save it.
