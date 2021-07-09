@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @qubit_entangled 
+date: 2021-07-09 07:47:46 
+categories: twitter 
+--- 
+@nope_its_lily in machine learning machine hardly learning
