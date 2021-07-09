@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Valorem88 
+date: 2021-07-09 09:05:26 
+categories: twitter 
+--- 
+@InvestorsLive did you remove the standard deviation indicator from your charts, why?
