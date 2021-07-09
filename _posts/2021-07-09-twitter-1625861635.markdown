@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 13:13:55 
+categories: twitter 
+--- 
+@tatonka Vol reflexivity - vol beta was pretty high yesterday for the selloff, so I played gamma vs vega convergenc… https://t.co/r7ElFV6N8u
