@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Torch06511712 
-date: 2021-07-08 14:26:57 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/PtmnO65WUk
