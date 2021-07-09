@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A google spreadsheet tracker for cryptocurrency & stocks with cool features such as newsfeed, screener and other tools! A first update! 
+date: 2021-07-08 1625804103 
+categories: reddit 
+--- 
+https://redd.it/ognw5q
