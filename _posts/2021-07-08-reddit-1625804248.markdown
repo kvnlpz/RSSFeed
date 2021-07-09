@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Antpool now controls 60% of BCH hashing power 
-date: 2021-07-08 1625804248 
-categories: reddit 
---- 
-https://redd.it/ognxh0
