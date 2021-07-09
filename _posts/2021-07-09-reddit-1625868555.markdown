@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: My wallet's balance of KNC tokens appears as zero on kyber.org, even as I am connected to my wallet with 83.862431 KNC as shown in the photo. 
+date: 2021-07-09 1625868555 
+categories: reddit 
+--- 
+https://redd.it/oh5wc8
