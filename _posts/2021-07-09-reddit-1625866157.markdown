@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I installed the new Daedalus update. My wallet has been verifying the blockchain for a while now, but it’s saying 0% complete. Has anyone else had this problem? How’d you resolve it? 
+date: 2021-07-09 1625866157 
+categories: reddit 
+--- 
+https://redd.it/oh55dy
