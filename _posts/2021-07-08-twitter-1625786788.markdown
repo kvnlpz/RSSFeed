@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SydTacuboy 
-date: 2021-07-08 16:26:28 
-categories: twitter 
---- 
-RT @alphatrends: Understand Market Structure and Reduce Emotional Decisions https://t.co/GWaE6zj5vw
