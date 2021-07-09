@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TBradley90 
-date: 2021-07-08 13:03:42 
-categories: twitter 
---- 
-RT @modern_rock: Loving the new @cobra_trading website! check out all the guys there on the website. Awesome to put faces to names we txt t…
