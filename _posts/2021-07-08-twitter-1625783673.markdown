@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndrewLFannon 
-date: 2021-07-08 15:34:33 
-categories: twitter 
---- 
-@timothysykes Could not have said it better than myself.
