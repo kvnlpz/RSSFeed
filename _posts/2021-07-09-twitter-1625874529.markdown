@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-09 16:48:49 
+categories: twitter 
+--- 
+RT @doublelpm: New tokens are minted to reward network validators, pay for stacking and fees. The max supply can never exceed 31,4M EGLD. T…
