@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AJvsNASDAQ 
-date: 2021-07-08 15:51:01 
-categories: twitter 
---- 
-@super_trades Exactly bro
