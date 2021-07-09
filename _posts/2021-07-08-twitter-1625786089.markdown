@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-08 16:14:49 
-categories: twitter 
---- 
-@DeItaHedge yeah i'm short vanna (the television presenter)
