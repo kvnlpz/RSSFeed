@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrUsopSontorian 
-date: 2021-07-08 14:47:32 
-categories: twitter 
---- 
-RT @alphatrends: Understand Market Structure and Reduce Emotional Decisions https://t.co/GWaE6zj5vw
