@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $REV - The MICRO float, high short interest (19%) 
-date: 2021-07-08 1625785121 
-categories: reddit 
---- 
-https://redd.it/ogimnt
