@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @6illehz 
-date: 2021-07-08 18:40:27 
-categories: twitter 
---- 
-RT @OddStockTrader: Dopeness
