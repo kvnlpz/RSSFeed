@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Half of my est. reward went to wallet, half is still listed as pending? 
-date: 2021-07-08 1625813561 
-categories: reddit 
---- 
-https://redd.it/ogq3ra
