@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TeclasTrades 
+date: 2021-07-09 14:33:37 
+categories: twitter 
+--- 
+RT @TraderTexMex: $VTNR 13G by Richard Jacinto 6.66%
