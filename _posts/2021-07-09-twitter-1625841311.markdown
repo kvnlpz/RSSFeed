@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 07:35:11 
+categories: twitter 
+--- 
+@brrrzooka @choffstein or "{some string or date manipulation} python"
