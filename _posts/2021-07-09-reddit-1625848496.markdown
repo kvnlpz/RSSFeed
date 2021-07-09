@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question about ERC-20 tokens 
+date: 2021-07-09 1625848496 
+categories: reddit 
+--- 
+https://redd.it/ogzadx
