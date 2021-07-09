@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Even though bitcoin has been down in price for the past 30 days, 352 BTC (presently valued at 11.5 million USD) have been added for the same time frame. 30 second video inside demonstrates how this is possible. 
-date: 2021-07-09 1625815638 
-categories: reddit 
---- 
-https://redd.it/ogqjze
