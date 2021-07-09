@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brrabski 
-date: 2021-07-08 22:03:16 
-categories: twitter 
---- 
-@nope_its_lily @TheStalwart Paper cash too?
