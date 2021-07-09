@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockWonk 
-date: 2021-07-08 16:06:07 
-categories: twitter 
---- 
-RT @InvestorsLive: Investing as part of an "army" or "show hedge funds who is boss" "gamma squeeze" etc is the most idiotic silly investmen…
