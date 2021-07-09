@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-08 14:45:20 
-categories: twitter 
---- 
-Focus on the big picture 👁️ https://t.co/vbznfSbDh7
