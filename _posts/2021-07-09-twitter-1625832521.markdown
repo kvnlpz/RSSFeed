@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @dchrist81 
+date: 2021-07-09 05:08:41 
+categories: twitter 
+--- 
+RT @nope_its_lily: Hang Seng and Nikkei now both almost negative YTD returns. Ominous.
