@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @domjaen27 
-date: 2021-07-08 23:53:03 
-categories: twitter 
---- 
-RT @alphatrends: Understand Market Structure and Reduce Emotional Decisions https://t.co/GWaE6zj5vw
