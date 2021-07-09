@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imperative_the 
-date: 2021-07-08 14:26:31 
-categories: twitter 
---- 
-@nope_its_lily Why no game tho?
