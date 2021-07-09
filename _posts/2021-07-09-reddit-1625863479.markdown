@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Mempool memory usage question... 
+date: 2021-07-09 1625863479 
+categories: reddit 
+--- 
+https://redd.it/oh49pt
