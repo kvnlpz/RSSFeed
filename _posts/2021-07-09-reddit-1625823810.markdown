@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Using Decentralized Digital IDs and Blockchain to Help Millions in Africa Get Identified 
-date: 2021-07-09 1625823810 
-categories: reddit 
---- 
-https://redd.it/ogs7g7
