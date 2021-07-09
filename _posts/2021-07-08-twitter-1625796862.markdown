@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MFJones1618 
-date: 2021-07-08 19:14:22 
-categories: twitter 
---- 
-@nope_its_lily @SquishChaos https://t.co/5uDXtl40xz
