@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-08 14:30:29 
-categories: twitter 
---- 
-How to find your trading edge https://t.co/KhOu98PZQh https://t.co/eHhq1jeWjv
