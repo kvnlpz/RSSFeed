@@ -1,0 +1,13 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-09 16:17:25 
+categories: twitter 
+--- 
+RT @EquityInformer: Finfluencer @super_trades's most mentioned stocks (14D):
+
+1st $VRAR 10
+2nd $TDAC 9
+3rd $GRPH 7
+4th $THCB 6
+5th $CMLF 4…
