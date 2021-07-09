@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: WARNING: Be careful clicking links in this forum ! 
-date: 2021-07-08 1625787813 
-categories: reddit 
---- 
-https://redd.it/ogjf7d
