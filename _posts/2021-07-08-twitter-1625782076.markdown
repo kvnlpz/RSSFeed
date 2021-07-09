@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-08 15:07:56 
-categories: twitter 
---- 
-@StocksToTrade WELL SAID!!
