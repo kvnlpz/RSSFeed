@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-09 06:49:09 
+categories: twitter 
+--- 
+@TheNOPEScalper I've backtested this and explained it multiple times. Max NOPE intraday goes way up as GEX goes up.… https://t.co/EQ7oM7tBCI
