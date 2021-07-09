@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tatonka 
-date: 2021-07-08 17:18:17 
-categories: twitter 
---- 
-@nope_its_lily @SquishChaos Let me be the first to congratulate you on your retirement from congratulations.
