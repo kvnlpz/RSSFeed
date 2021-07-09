@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: webull post 
-date: 2021-07-08 1625773704 
-categories: webull 
---- 
-$SPY honking goose pattern. very bearish
