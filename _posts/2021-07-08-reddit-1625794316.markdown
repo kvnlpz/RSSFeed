@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made a thing 
-date: 2021-07-08 1625794316 
-categories: reddit 
---- 
-https://redd.it/ogl8sm
