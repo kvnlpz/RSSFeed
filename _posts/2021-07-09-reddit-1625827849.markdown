@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When Bitcoin (and altcoins) is going down... 
-date: 2021-07-09 1625827849 
-categories: reddit 
---- 
-https://redd.it/ogt31u
