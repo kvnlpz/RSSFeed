@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How does BTC price affect the activity in r/Cryptocurrency? I collected the data and took a look (This is a long one, so buckle up) 
+date: 2021-07-09 1625875599 
+categories: reddit 
+--- 
+https://redd.it/oh7vsq
