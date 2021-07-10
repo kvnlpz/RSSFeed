@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Hemp Blockchain, Inc. Chooses Algorand as Its Blockchain Platform 
-date: 2021-07-09 1625855969 
-categories: reddit 
---- 
-https://redd.it/oh1su4
