@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin SV attacked, double spent and re-org'd. Deposits blocked on crypto exchanges. One shitcoin down! 
+date: 2021-07-10 1625949028 
+categories: reddit 
+--- 
+https://redd.it/ohq9xe
