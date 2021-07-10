@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anniversary post! 
-date: 2021-07-09 1625842634 
-categories: reddit 
---- 
-https://redd.it/ogxad8
