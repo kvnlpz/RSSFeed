@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @John7Istheman 
+date: 2021-07-10 12:36:02 
+categories: twitter 
+--- 
+@nope_its_lily https://t.co/zL7TBk4ROA
