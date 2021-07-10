@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $MRIN 
-date: 2021-07-09 1625832124 
-categories: reddit 
---- 
-https://redd.it/ogu3yx
