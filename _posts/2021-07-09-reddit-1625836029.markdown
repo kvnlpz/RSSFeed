@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Payments company Stripe takes first step toward listing -reports 
-date: 2021-07-09 1625836029 
-categories: reddit 
---- 
-https://redd.it/ogv61t
