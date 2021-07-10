@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DeFi Data Feed Service API3 Becomes a DAO 
-date: 2021-07-09 1625832443 
-categories: reddit 
---- 
-https://redd.it/ogu70d
