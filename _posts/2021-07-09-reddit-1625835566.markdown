@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin vs USD Loki meme 
-date: 2021-07-09 1625835566 
-categories: reddit 
---- 
-https://redd.it/ogv11g
