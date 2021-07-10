@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Quantum Computing and Cryptocurrency 
-date: 2021-07-09 1625840428 
-categories: reddit 
---- 
-https://redd.it/ogwjr1
