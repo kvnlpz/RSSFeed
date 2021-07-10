@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In the last few days, I've seen countless stories of people who've had their wallets emptied after using PancakeSwap. Was some new vulnerability just discovered? Or is this par for the course on BSC? 
-date: 2021-07-09 1625831757 
-categories: reddit 
---- 
-https://redd.it/ogu0e8
