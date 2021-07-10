@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Buying through Ledger Live 
-date: 2021-07-09 1625833632 
-categories: reddit 
---- 
-https://redd.it/oguiad
