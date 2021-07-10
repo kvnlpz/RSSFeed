@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 21shares Tezos ETP 
-date: 2021-07-09 1625833717 
-categories: reddit 
---- 
-https://redd.it/oguj1b
