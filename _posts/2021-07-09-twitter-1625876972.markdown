@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Daniel84992151 
+date: 2021-07-09 17:29:32 
+categories: twitter 
+--- 
+@nope_its_lily I made a neural net once on a bunch of bollinger bands and regression lines and it seemed to do fair… https://t.co/Z7N5YCKmF0
