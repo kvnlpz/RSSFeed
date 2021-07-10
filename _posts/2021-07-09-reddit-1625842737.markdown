@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lost Catecoin 
-date: 2021-07-09 1625842737 
-categories: reddit 
---- 
-https://redd.it/ogxbf2
