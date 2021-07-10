@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Various connection issues with new Ledger 
-date: 2021-07-09 1625859377 
-categories: reddit 
---- 
-https://redd.it/oh2xd1
