@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano Alonzo Launch Explained - From June to September Cardano Smart Contracts 
-date: 2021-07-09 1625843386 
-categories: reddit 
---- 
-https://redd.it/ogxjur
