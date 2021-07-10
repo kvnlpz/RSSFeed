@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I may have messed up 
-date: 2021-07-09 1625857680 
-categories: reddit 
---- 
-https://redd.it/oh2doh
