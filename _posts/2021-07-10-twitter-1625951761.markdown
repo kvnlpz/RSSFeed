@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ascii_x341963 
+date: 2021-07-10 14:16:01 
+categories: twitter 
+--- 
+@nope_its_lily @salr_nyc whats the best place to start learning about option flows and gamma spreads
