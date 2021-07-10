@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-07-09 17:42:30 
+categories: twitter 
+--- 
+Dear @brave team.
+
+While using search, it is defaulting landing pages and giving a TON of German results as top listings.
