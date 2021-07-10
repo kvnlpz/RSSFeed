@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can anyone explain why the spread isn’t the same as the ticker price? Difference between bid and ask is ~$10 higher than the price? Images from today and a few days ago. 
-date: 2021-07-09 1625839668 
-categories: reddit 
---- 
-https://redd.it/ogwaqr
