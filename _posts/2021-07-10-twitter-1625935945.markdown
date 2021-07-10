@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @MilvianCapital 
+date: 2021-07-10 09:52:25 
+categories: twitter 
+--- 
+RT @nope_its_lily: I guess this is a fine trade to post.
+Buy SPY 430 C/P 1DTE
+Sell SPY 430 C/P 4DTE
+Essentially two straddles, but becomes…
