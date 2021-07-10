@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pro tip: buying puts with a same day expiration... 
-date: 2021-07-09 1625838525 
-categories: reddit 
---- 
-https://redd.it/ogvxfu
