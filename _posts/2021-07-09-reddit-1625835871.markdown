@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Square is building a bitcoin hardware wallet 
-date: 2021-07-09 1625835871 
-categories: reddit 
---- 
-https://redd.it/ogv497
