@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Swapping to Cardano 
-date: 2021-07-09 1625841296 
-categories: reddit 
---- 
-https://redd.it/ogwu6l
