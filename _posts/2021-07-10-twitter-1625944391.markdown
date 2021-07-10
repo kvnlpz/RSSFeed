@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-10 12:13:11 
+categories: twitter 
+--- 
+RT @WesleyBKress: 1/ Why Decentralized Finance or #DeFi? vs. Traditional Centralized Finance #TCeFi?
+
+DeFi is determined by open source com…
