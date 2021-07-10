@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shoul I restore my wallet seed or create a new one ? 
-date: 2021-07-09 1625848013 
-categories: reddit 
---- 
-https://redd.it/ogz4qj
