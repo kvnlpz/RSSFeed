@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What measure should I use to compare Bitcoin blockchain vs other PoW blockchains? 
+date: 2021-07-10 1625931654 
+categories: reddit 
+--- 
+https://redd.it/ohkzet
