@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bongadronga 
+date: 2021-07-10 06:13:02 
+categories: twitter 
+--- 
+@nope_its_lily Change the neopets stock market to an actual AMM while they're at it as well https://t.co/WadVPsLT49
