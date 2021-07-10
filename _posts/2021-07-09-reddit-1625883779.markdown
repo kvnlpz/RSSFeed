@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Reporting for Duty: finally set up my LIGHTNING node 
+date: 2021-07-09 1625883779 
+categories: reddit 
+--- 
+https://redd.it/oha1xq
