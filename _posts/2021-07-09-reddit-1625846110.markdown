@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I calculated the carbon emissions related to the Bitcoin network assuming you HODL 1 BTC following Gemini's methodology and the result is scary as hell! 
-date: 2021-07-09 1625846110 
-categories: reddit 
---- 
-https://redd.it/ogyh48
