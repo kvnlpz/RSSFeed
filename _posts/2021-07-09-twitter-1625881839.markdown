@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @chartswhenbored 
+date: 2021-07-09 18:50:39 
+categories: twitter 
+--- 
+RT @RayTL_: There’s a bug in TOS that deletes tickers from your WLs somehow. Annoying. 
+Can’t wait to have a platform that I control the de…
