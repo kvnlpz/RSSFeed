@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let there be swaps! - Rendezvous edition / (XMR-BTC atomic swaps update) 
-date: 2021-07-09 1625852896 
-categories: reddit 
---- 
-https://redd.it/oh0sbm
