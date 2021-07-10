@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Epoch 276 ended last night, approx 15 hours ago, and haven't received a staking reward this time (cardanians.io). The past two epochs I did, there were no issues previously. Has this happened to anyone else yesterday/today? Can anyone explain? 
+date: 2021-07-10 1625920972 
+categories: reddit 
+--- 
+https://redd.it/ohi0k2
