@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @johnyjitsu 
+date: 2021-07-10 04:52:55 
+categories: twitter 
+--- 
+RT @modern_rock: “Every man has two lives. And the second starts when he realizes he has just one” https://t.co/XvjoVjTACK
