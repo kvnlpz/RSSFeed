@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hi, i have an idea for a project but am unsure of its viability and legality. 
-date: 2021-07-09 1625858972 
-categories: reddit 
---- 
-https://redd.it/oh2smf
