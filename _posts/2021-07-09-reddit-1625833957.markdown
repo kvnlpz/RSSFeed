@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tell us what new features you would like to see in the Umami wallet?(Developed by NomadicLabs) Comment/DM! 
-date: 2021-07-09 1625833957 
-categories: reddit 
---- 
-https://redd.it/ogulg5
