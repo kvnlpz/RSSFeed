@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question: 2 weeks back I sold 20 puts (20 Aug21) in $TAL $20. Now I am thinking to sell 20 calls at say $25 at the same expiry 20 Aug 21. Will my broker allow my trade to go through? what are the possible scenarios that can take place? Is this considered naked calls? From Singapore using saxo bank. 
+date: 2021-07-10 1625901966 
+categories: reddit 
+--- 
+https://redd.it/ohe7jm
