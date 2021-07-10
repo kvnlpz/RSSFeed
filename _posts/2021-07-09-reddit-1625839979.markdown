@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The FOMO cure 
-date: 2021-07-09 1625839979 
-categories: reddit 
---- 
-https://redd.it/ogweb1
