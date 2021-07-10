@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I've been curious about Haskell, and why it seems so rarely used. The future may be different... 
+date: 2021-07-09 1625880176 
+categories: reddit 
+--- 
+https://redd.it/oh94m2
