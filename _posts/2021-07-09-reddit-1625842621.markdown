@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin account on ledger nano S. 
-date: 2021-07-09 1625842621 
-categories: reddit 
---- 
-https://redd.it/ogxa6v
