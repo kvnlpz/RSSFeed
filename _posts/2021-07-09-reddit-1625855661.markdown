@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daedalus 4.2.0 release notes 
-date: 2021-07-09 1625855661 
-categories: reddit 
---- 
-https://redd.it/oh1p6y
