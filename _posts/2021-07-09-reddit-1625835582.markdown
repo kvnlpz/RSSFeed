@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EIP 1559 Predictions 
-date: 2021-07-09 1625835582 
-categories: reddit 
---- 
-https://redd.it/ogv17y
