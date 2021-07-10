@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Good video on where do you rank in BTC holdings 
-date: 2021-07-09 1625839750 
-categories: reddit 
---- 
-https://redd.it/ogwbo7
