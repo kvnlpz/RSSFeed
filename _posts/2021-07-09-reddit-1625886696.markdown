@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Didn't receive rewards on Brave unverified wallet. I had 4 BAT in pending rewards, but didn't get the claim button. 
+date: 2021-07-09 1625886696 
+categories: reddit 
+--- 
+https://redd.it/ohat4a
