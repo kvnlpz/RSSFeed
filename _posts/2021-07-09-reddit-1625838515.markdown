@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can you plug your ASIC to an exercise bike? 
-date: 2021-07-09 1625838515 
-categories: reddit 
---- 
-https://redd.it/ogvxak
