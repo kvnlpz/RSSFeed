@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @HoldingsRl 
+date: 2021-07-10 06:00:01 
+categories: twitter 
+--- 
+@timothysykes So much so, success likes waiting
