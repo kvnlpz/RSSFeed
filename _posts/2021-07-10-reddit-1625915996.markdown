@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Hi experts, stuck in a pickle. Trading view tells me to buy more Qty than my actual portfolio size. I don't know what lot size is but when i enter 10, the qty reduces within my buying power. I don't do futures. What am I doing wrong? I don't have any idea about lot size. 
+date: 2021-07-10 1625915996 
+categories: reddit 
+--- 
+https://redd.it/ohgw8u
