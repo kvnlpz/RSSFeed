@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Large status Logo 
-date: 2021-07-09 1625842195 
-categories: reddit 
---- 
-https://redd.it/ogx51e
