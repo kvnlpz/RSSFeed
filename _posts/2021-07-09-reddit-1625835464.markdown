@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Update announced for this summer 
-date: 2021-07-09 1625835464 
-categories: reddit 
---- 
-https://redd.it/ogv00j
