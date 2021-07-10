@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $CLOV YOLO 🤝 
-date: 2021-07-09 1625836342 
-categories: reddit 
---- 
-https://redd.it/ogv9is
