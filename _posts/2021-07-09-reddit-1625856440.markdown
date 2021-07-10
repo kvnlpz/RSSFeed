@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stupid question. What is the difference between "wallet blocks remaining" and "daemon synchronized" progress bars? 
-date: 2021-07-09 1625856440 
-categories: reddit 
---- 
-https://redd.it/oh17rv
