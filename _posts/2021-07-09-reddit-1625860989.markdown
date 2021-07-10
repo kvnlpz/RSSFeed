@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: sayBLOWE Uses Chainlink Oracles to Unite Hip-Hop x NFTs 
-date: 2021-07-09 1625860989 
-categories: reddit 
---- 
-https://redd.it/oh3gso
