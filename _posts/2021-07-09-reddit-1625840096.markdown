@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Governance Proposal: Give at least two different sources for a link post. 
-date: 2021-07-09 1625840096 
-categories: reddit 
---- 
-https://redd.it/ogwfiw
