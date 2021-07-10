@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: B.Protocol Integrates Chainlink Keepers on Ethereum Testnet to Further Secure Liquidations Within B.AMM 
-date: 2021-07-09 1625861033 
-categories: reddit 
---- 
-https://redd.it/oh3h9c
