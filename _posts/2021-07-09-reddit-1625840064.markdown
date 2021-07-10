@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Feed me more AMC! 
-date: 2021-07-09 1625840064 
-categories: reddit 
---- 
-https://redd.it/ogwf7z
