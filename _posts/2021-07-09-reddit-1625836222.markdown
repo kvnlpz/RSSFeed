@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lightning node with Spectrum community wifi? 
-date: 2021-07-09 1625836222 
-categories: reddit 
---- 
-https://redd.it/ogv87i
