@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Adding a "mine Monero to continue" button to my website 
+date: 2021-07-10 1625915524 
+categories: reddit 
+--- 
+https://redd.it/ohgsqg
