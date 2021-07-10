@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Seed phrases and BIP39 list 
+date: 2021-07-10 1625930753 
+categories: reddit 
+--- 
+https://redd.it/ohkpt3
