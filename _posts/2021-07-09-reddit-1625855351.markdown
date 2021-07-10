@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: El Salvador and Bitcoin: What About Fees? 
-date: 2021-07-09 1625855351 
-categories: reddit 
---- 
-https://redd.it/oh1lrd
