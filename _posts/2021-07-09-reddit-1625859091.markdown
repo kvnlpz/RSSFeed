@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MakerDAO Speaker Series #2: Prof. Campbell Harvey of Duke University on his Forthcoming Book, “DeFi & the Future of Finance” (Spoiler: MakerDAO is in the book) 
-date: 2021-07-09 1625859091 
-categories: reddit 
---- 
-https://redd.it/oh2u03
