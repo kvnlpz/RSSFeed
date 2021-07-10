@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to hide mnemonic words in bunch of other words? 
-date: 2021-07-09 1625850452 
-categories: reddit 
---- 
-https://redd.it/ogzycj
