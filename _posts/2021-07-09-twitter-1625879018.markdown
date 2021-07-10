@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ontheslabs 
+date: 2021-07-09 18:03:38 
+categories: twitter 
+--- 
+@OddStockTrader @brave The google spell checker is making me illiterate. I just tested it by misspelling water. And it suggested waiter.
