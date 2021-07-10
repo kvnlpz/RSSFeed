@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why does my covered call show up as a red -55 on Robinhood? 
-date: 2021-07-09 1625844248 
-categories: reddit 
---- 
-https://redd.it/ogxugk
