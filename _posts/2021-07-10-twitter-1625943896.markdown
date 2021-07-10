@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @md_proctor 
+date: 2021-07-10 12:04:56 
+categories: twitter 
+--- 
+@nope_its_lily #CriticalRaceTheory
