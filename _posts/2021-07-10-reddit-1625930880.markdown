@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How Bitcoin Works Under the Hood 
+date: 2021-07-10 1625930880 
+categories: reddit 
+--- 
+https://redd.it/ohkrag
