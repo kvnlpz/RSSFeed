@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Flexa/Amp Questions: What would be the downside or risks to staking with Amp on Flexa? Also, what would be an idea amount to stake at once to minimize gas fees? 
+date: 2021-07-09 1625875414 
+categories: reddit 
+--- 
+https://redd.it/oh7tw7
