@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Latest Week in Ethereum News! London upgrade (EIP1559) August 4; Checklist to turn off Proof of Work; Synthetix enabling exchanges on Optimism week of July 26 
+date: 2021-07-09 1625885955 
+categories: reddit 
+--- 
+https://redd.it/ohaltz
