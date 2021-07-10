@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Libonomy blockchain provides a solution. 
-date: 2021-07-09 1625851690 
-categories: reddit 
---- 
-https://redd.it/oh0ddg
