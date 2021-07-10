@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My New Financial Advisor 
-date: 2021-07-09 1625841852 
-categories: reddit 
---- 
-https://redd.it/ogx0xx
