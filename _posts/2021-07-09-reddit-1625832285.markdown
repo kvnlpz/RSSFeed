@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reverse DD for retards 
-date: 2021-07-09 1625832285 
-categories: reddit 
---- 
-https://redd.it/ogu5hz
