@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MarkAntler 
+date: 2021-07-10 11:46:30 
+categories: twitter 
+--- 
+@nope_its_lily NFTs
