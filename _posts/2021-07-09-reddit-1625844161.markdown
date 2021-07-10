@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can I create a bot that extracts the data I need? 
-date: 2021-07-09 1625844161 
-categories: reddit 
---- 
-https://redd.it/ogxtdv
