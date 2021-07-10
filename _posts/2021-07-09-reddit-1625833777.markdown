@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Noob Question: ELI5 - What's the reasoning for linking a Ledger to a Wallet? 
-date: 2021-07-09 1625833777 
-categories: reddit 
---- 
-https://redd.it/ogujjr
