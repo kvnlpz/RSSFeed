@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a big deal... 
-date: 2021-07-09 1625852968 
-categories: reddit 
---- 
-https://redd.it/oh0t6y
