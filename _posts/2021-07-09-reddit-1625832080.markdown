@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I am 20 years old and I have almost no money, but I have finally been able to collect my first 0.1 BTC 
-date: 2021-07-09 1625832080 
-categories: reddit 
---- 
-https://redd.it/ogsl9a
