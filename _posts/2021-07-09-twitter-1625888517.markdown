@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @elon_muskey 
+date: 2021-07-09 20:41:57 
+categories: twitter 
+--- 
+@nope_its_lily Who needs a bed when you have a couch?  Who needs a dresser when you have a perfectly good dryer?  Problem solved.
