@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Random token appearing in my Metamask wallet, don't know what to do 
-date: 2021-07-09 1625843252 
-categories: reddit 
---- 
-https://redd.it/ogxi5i
