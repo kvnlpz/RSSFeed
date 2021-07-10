@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is going on with SCOGO? 
-date: 2021-07-09 1625849188 
-categories: reddit 
---- 
-https://redd.it/ogziwd
