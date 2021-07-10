@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: micro-DFVenis 
-date: 2021-07-09 1625849134 
-categories: reddit 
---- 
-https://redd.it/ogzi71
