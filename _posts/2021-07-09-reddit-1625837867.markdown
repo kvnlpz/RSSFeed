@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: XLM is at .24xx but BinanceUS shows .28xx. Can someone explain? 
-date: 2021-07-09 1625837867 
-categories: reddit 
---- 
-https://redd.it/ogvq2a
