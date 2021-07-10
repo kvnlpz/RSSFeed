@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Local nodes Vs Cloud hosted nodes. Which is better for the decentralization of Cardano? 
+date: 2021-07-10 1625918458 
+categories: reddit 
+--- 
+https://redd.it/oh677a
