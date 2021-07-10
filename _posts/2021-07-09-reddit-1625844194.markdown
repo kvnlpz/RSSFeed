@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos Co-Founder Arthur Breitman: Approaches to Scalability 
-date: 2021-07-09 1625844194 
-categories: reddit 
---- 
-https://redd.it/ogxtmo
