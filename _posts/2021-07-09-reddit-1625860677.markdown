@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can I turn FIAT to Crypto (or vice versa) since Binance has suspended SEPA EUR deposits (yes, I am from europe and affected by this). Any ideas? 
-date: 2021-07-09 1625860677 
-categories: reddit 
---- 
-https://redd.it/oh3d10
