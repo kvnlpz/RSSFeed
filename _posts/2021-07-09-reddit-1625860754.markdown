@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMZN close call 
-date: 2021-07-09 1625860754 
-categories: reddit 
---- 
-https://redd.it/oh3dup
