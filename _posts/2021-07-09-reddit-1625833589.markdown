@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I can't verify my wallet on mobile. 
-date: 2021-07-09 1625833589 
-categories: reddit 
---- 
-https://redd.it/oguhri
