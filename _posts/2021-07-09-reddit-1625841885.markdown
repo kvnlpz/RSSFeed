@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gradually then Suddenly Pt 2 - Bitcoin First Principles with Parker Lewis — What Bitcoin Did 
-date: 2021-07-09 1625841885 
-categories: reddit 
---- 
-https://redd.it/ogx1a7
