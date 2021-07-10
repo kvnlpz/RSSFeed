@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PatternProfits 
+date: 2021-07-09 17:43:00 
+categories: twitter 
+--- 
+@RayTL_ LOL Have a great weekend, Ray!
