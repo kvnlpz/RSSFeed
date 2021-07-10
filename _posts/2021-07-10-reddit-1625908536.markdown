@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Post and comment quality checks 
+date: 2021-07-10 1625908536 
+categories: reddit 
+--- 
+https://redd.it/ohfg4z
