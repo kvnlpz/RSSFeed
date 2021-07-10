@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @elleryinsights 
+date: 2021-07-10 09:10:15 
+categories: twitter 
+--- 
+@nope_its_lily A spurious nope reading that 100k users simultaneously yolo.
