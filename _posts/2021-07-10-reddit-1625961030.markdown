@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cartesi: a Linux infrastructure for scalable decentralized applications. This project will VASTLY increase dapp development accessibility by allowing devs to use popular coding languages for creating dapps. 
+date: 2021-07-10 1625961030 
+categories: reddit 
+--- 
+https://redd.it/ohtpfj
