@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto tax is too ambiguous 
-date: 2021-07-09 1625839162 
-categories: reddit 
---- 
-https://redd.it/ogw4ms
