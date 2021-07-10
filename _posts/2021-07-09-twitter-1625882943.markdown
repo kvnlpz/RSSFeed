@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @HenryCSung1 
+date: 2021-07-09 19:09:03 
+categories: twitter 
+--- 
+RT @nope_its_lily: @bennpeifert Glosten-Milgrom proved me need a high percentage of uninformed noise tweeting to make social media market m…
