@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chainlink vs Competition 
-date: 2021-07-09 1625832687 
-categories: reddit 
---- 
-https://redd.it/ogu9cf
