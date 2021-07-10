@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Another reason not to touch ETC - MESS Vulnerability in Ethereum Classic (ETC) Blockchain 
+date: 2021-07-10 1625946012 
+categories: reddit 
+--- 
+https://redd.it/ohnat8
