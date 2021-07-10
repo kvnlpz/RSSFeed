@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Does whoever finds the correct hash get all of the block reward? 
+date: 2021-07-10 1625929043 
+categories: reddit 
+--- 
+https://redd.it/ohk704
