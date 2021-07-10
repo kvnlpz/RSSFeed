@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Am I doing this right? 
-date: 2021-07-09 1625848354 
-categories: reddit 
---- 
-https://redd.it/ogz8qd
