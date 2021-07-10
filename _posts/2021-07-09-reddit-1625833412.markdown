@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Steve Wozniak: “Bitcoin is the most amazing mathematical miracle” 
-date: 2021-07-09 1625833412 
-categories: reddit 
---- 
-https://redd.it/ogug5j
