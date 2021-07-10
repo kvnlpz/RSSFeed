@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Winklevos and the Blocksize War 
+date: 2021-07-10 1625927654 
+categories: reddit 
+--- 
+https://redd.it/ohjsg5
