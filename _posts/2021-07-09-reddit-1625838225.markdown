@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Two People Voting From the Same Wallet? 
-date: 2021-07-09 1625838225 
-categories: reddit 
---- 
-https://redd.it/ogvfln
