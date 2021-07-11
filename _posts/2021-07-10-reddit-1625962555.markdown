@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Sometimes the unintended outcome when solving a problem becomes the de facto answer. EIP1559 is a great use case in this scenario. Intention was to create a more predictable gas fee but ended up making Ether a deflationary 🔥 store of value too. 
+date: 2021-07-10 1625962555 
+categories: reddit 
+--- 
+https://redd.it/ohu42j
