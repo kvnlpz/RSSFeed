@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: fiat savings in bitcoin 
-date: 2021-07-09 1625896391 
-categories: reddit 
---- 
-https://redd.it/ohd2az
