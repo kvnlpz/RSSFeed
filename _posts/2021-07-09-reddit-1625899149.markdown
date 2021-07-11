@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Boeing didn’t fly. 
-date: 2021-07-09 1625899149 
-categories: reddit 
---- 
-https://redd.it/ohdnbf
