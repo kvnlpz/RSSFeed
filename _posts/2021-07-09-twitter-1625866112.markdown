@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goldieonice 
-date: 2021-07-09 14:28:32 
-categories: twitter 
---- 
-@markflowchatter Thanks buddy
