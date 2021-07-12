@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Ticker_MNVN 
+date: 2021-07-11 23:15:06 
+categories: twitter 
+--- 
+@timothysykes
