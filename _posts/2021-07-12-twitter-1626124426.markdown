@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MonacoTrader 
+date: 2021-07-12 14:13:46 
+categories: twitter 
+--- 
+@OddStockTrader This?
