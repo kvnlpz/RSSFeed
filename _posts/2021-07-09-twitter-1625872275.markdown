@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TK09304085 
-date: 2021-07-09 16:11:15 
-categories: twitter 
---- 
-@OddStockTrader No chance.
