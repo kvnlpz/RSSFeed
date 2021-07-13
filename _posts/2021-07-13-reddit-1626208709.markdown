@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I've promoted myself 
-date: 2021-07-13 1626208709 
-categories: reddit 
---- 
-https://redd.it/ojoel8
