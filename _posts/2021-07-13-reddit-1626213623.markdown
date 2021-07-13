@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone justify the current price of AMD in comparison to intel? 
-date: 2021-07-13 1626213623 
-categories: reddit 
---- 
-https://redd.it/ojq2g6
