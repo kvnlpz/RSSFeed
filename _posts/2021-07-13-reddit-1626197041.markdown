@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Could someone explain the thing with byzantine general´s problem ? 
+date: 2021-07-13 1626197041 
+categories: reddit 
+--- 
+https://redd.it/ojkc19
