@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Cardano Developer Portal is now live! We go over the resources that are available for developers, from stake pool operation, to funding, to transaction metadata. 
-date: 2021-07-13 1626211257 
-categories: reddit 
---- 
-https://redd.it/ojpaa6
