@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-13 16:08:02 
+categories: twitter 
+--- 
+RT @MarketRebels: TikTok banning sponsored posts relating to cryptocurrency, investment services, and trading platforms
