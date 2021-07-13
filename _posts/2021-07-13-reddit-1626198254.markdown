@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Pt 3. Base chain ossification, soft forks & features, ERC-20 & why it sucks - To the Moon 17 
+date: 2021-07-13 1626198254 
+categories: reddit 
+--- 
+https://redd.it/ojkqxh
