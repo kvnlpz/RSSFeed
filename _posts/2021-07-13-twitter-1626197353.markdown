@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @kaspasr 
+date: 2021-07-13 10:29:13 
+categories: twitter 
+--- 
+RT @RayTL_: @RichardMoglen How I went about it. Hope it helps. https://t.co/DevfTgKdl1
