@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ACEdge 
+date: 2021-07-13 13:31:50 
+categories: twitter 
+--- 
+@nope_its_lily No more MSFT?
