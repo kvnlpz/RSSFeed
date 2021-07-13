@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fadi_shat 
-date: 2021-07-13 13:02:57 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/VIxQ3l2Lyt
