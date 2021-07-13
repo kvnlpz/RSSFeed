@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I created a spreadsheet with a list of stocks that have weekly options (grouped by sector) 
+date: 2021-07-13 1626201453 
+categories: reddit 
+--- 
+https://redd.it/ojlvy2
