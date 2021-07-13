@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A website with a lot of different charts and info on Bitcoin. Stock to flow-Mining Data-Moving Averages-Network Analysis etc. 
+date: 2021-07-13 1626218171 
+categories: reddit 
+--- 
+https://redd.it/ojrij3
