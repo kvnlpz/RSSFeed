@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @unusual_whales 
+date: 2021-07-13 13:01:24 
+categories: twitter 
+--- 
+@nope_its_lily Hey, let me water it down for you.
