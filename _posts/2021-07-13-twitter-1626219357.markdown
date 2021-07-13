@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Smith78Charles 
+date: 2021-07-13 16:35:57 
+categories: twitter 
+--- 
+@InvestorsLive What if I drive out of state to go to work?
