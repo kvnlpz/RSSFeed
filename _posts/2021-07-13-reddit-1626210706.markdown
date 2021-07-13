@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone use Trust wallet for staking BNB? 
-date: 2021-07-13 1626210706 
-categories: reddit 
---- 
-https://redd.it/ojp3h2
