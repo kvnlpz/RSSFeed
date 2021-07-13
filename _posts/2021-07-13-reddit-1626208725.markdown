@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My mining rig won’t work with more than 4 gpus 
-date: 2021-07-13 1626208725 
-categories: reddit 
---- 
-https://redd.it/ojoeqd
