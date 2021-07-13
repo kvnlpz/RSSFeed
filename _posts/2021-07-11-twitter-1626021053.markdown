@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SirCatBallsPhD 
-date: 2021-07-11 09:30:53 
-categories: twitter 
---- 
-RT @nope_its_lily: abraham lincoln had strong opinions on the internet so i have heard

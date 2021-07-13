@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xedenau 
-date: 2021-07-11 11:51:46 
-categories: twitter 
---- 
-RT @nope_its_lily: I mentioned this in a subthread, but one thing I'd love talked about more is falsification of beliefs. It's not a sides…

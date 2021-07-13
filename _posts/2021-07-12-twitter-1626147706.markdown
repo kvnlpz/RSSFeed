@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JaviHRodz 
-date: 2021-07-12 20:41:46 
-categories: twitter 
---- 
-@alphatrends @alphatrends What would a great incentive look like to you?

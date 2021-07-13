@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @seattlehikertoo 
-date: 2021-07-12 12:31:33 
-categories: twitter 
---- 
-@OddStockTrader Where are you guys now?

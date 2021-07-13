@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Amit82465706 
-date: 2021-07-12 19:57:41 
-categories: twitter 
---- 
-@nope_its_lily I use trello for things that need stagewise tracking,
-N Google Keep for notes n to do

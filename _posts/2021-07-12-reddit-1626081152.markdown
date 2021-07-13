@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I got a request for a video on how to make a scanner that will alert you every time XYZ happens in ToS....hope this helps some of you. 
-date: 2021-07-12 1626081152 
-categories: reddit 
---- 
-https://redd.it/oinmit

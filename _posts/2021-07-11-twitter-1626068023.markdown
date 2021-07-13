@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 22:33:43 
-categories: twitter 
---- 
-As someone who runs a Substack, I'm thrilled to be named bad for democracy by the New York Times. I deliver the har… https://t.co/3u3qDu6qas

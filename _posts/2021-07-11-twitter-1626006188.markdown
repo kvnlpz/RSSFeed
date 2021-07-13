@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PJMMBoston 
-date: 2021-07-11 05:23:08 
-categories: twitter 
---- 
-@nope_its_lily Apes

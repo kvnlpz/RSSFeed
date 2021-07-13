@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there any blockchain project that utilizes the PRISM consensus? 
-date: 2021-07-11 1626006318 
-categories: reddit 
---- 
-https://redd.it/oi3izs

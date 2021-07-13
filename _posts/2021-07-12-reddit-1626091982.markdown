@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to set the price of your token in a liquidity pool? 
-date: 2021-07-12 1626091982 
-categories: reddit 
---- 
-https://redd.it/oiq04z

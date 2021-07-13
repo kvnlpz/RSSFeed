@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wanchain makes LTC smart-chain compatible, adds Litecoin to cross-chain blockchain infrastructure 
-date: 2021-07-12 1626115017 
-categories: reddit 
---- 
-https://redd.it/oixftc

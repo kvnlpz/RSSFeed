@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Imagine rolling out new keyboards with ₿ symbol instead of $ 
-date: 2021-07-12 1626102958 
-categories: reddit 
---- 
-https://redd.it/oitbgo

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where can I find an exchange that allows me to transfer my coins immediately 
-date: 2021-07-12 1626147252 
-categories: reddit 
---- 
-https://redd.it/oj7bzc

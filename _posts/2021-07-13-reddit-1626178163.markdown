@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: HTTP Post requests 
-date: 2021-07-13 1626178163 
-categories: reddit 
---- 
-https://redd.it/oje8kh

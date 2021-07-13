@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:17:57 
-categories: twitter 
---- 
-RT @timothysykes: People always ask me if I ever get tired &amp; while my answer is usually NO, as I love what I do, this week the answer is YE…

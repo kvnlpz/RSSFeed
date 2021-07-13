@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ripple CTO David Schwartz talks about the XRP ledger and side chains Part 1. 
-date: 2021-07-13 1626179537 
-categories: reddit 
---- 
-https://redd.it/ojelr6

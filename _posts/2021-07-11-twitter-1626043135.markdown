@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @themacrotip 
-date: 2021-07-11 15:38:55 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/Glc1olzX20

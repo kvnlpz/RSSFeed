@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coin Exposed - one stop crypto news aggregator 
-date: 2021-07-12 1626132830 
-categories: reddit 
---- 
-https://redd.it/oj3ay4

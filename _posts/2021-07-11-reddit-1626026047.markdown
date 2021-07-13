@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My olive oil uses blockchain to show where the olives originated 
-date: 2021-07-11 1626026047 
-categories: reddit 
---- 
-https://redd.it/oi962e

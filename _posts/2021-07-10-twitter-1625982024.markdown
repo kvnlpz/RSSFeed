@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eyelightyou 
-date: 2021-07-10 22:40:24 
-categories: twitter 
---- 
-@nope_its_lily The origin of this is a now-retracted pre-print paper from Israel that got quoted on a podcast

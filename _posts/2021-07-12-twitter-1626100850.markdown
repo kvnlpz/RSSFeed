@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Asktimothysykes 
-date: 2021-07-12 07:40:50 
-categories: twitter 
---- 
-RT @timothysykes: I'm making a video watchlist for my https://t.co/fljCJN8USq students tonight with all the top stocks I'm watching right n…

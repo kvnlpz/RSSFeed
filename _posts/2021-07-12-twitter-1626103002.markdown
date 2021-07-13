@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bob04183396 
-date: 2021-07-12 08:16:42 
-categories: twitter 
---- 
-RT @InvestorsLive: $CCIV fresh highs https://t.co/2bkpTBZLlI

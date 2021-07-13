@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 10:02:22 
-categories: twitter 
---- 
-@brrrzooka please don't confuse my audience, this is my introductory series on how to volatility trade

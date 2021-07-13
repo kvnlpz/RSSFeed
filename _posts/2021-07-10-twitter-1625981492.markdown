@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-10 22:31:32 
-categories: twitter 
---- 
-Imagine on any given day, we expect a vaccinated person to have a 1% chance of getting COVID, and if they get COVID… https://t.co/CM5EAJllSh

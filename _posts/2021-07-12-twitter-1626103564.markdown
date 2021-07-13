@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @aHyerPower 
-date: 2021-07-12 08:26:04 
-categories: twitter 
---- 
-@nope_its_lily But what about the p-vals?

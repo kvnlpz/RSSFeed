@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lubbs23 
-date: 2021-07-11 08:55:38 
-categories: twitter 
---- 
-@nope_its_lily Amen Lily, same same

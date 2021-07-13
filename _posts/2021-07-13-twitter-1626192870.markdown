@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shortylong99 
-date: 2021-07-13 09:14:30 
-categories: twitter 
---- 
-@nope_its_lily Hey Lily, the only problem is that the tool seems to update at EOD. How can one monitor real time

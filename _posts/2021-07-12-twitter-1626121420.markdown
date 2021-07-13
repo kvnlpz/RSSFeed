@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OhImLaughin 
-date: 2021-07-12 13:23:40 
-categories: twitter 
---- 
-@timothysykes I think I'm doing it right.
-Mucho gracias senor. https://t.co/WEBKMABSkX

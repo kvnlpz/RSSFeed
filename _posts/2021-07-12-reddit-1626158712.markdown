@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Brave (BAT) Taps 0x API to Build DEX Aggregator Brave Swap - Great news for BAT, adding an other puzzle piece to the suit! 
-date: 2021-07-12 1626158712 
-categories: reddit 
---- 
-https://redd.it/oja22n

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @geo_liberal 
-date: 2021-07-12 20:40:16 
-categories: twitter 
---- 
-@nope_its_lily Roam Research is an amazing notes and productivity tool...

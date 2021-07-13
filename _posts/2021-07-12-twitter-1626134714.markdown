@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Prestateur 
-date: 2021-07-12 17:05:14 
-categories: twitter 
---- 
-@OddStockTrader People are stupid, not lazy.

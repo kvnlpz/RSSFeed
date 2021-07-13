@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ErnestJrG 
-date: 2021-07-13 08:17:24 
-categories: twitter 
---- 
-@InvestorsLive sick call

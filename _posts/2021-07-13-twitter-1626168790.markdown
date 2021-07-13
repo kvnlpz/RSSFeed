@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Everyman741 
-date: 2021-07-13 02:33:10 
-categories: twitter 
---- 
-@nope_its_lily No you won’t.

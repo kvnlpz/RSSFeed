@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:25:39 
-categories: twitter 
---- 
-RT @timothysykes: You know we're in a bubble market when https://t.co/occ8wKDW7U student turned master @mono_trader says "I only made $35k…

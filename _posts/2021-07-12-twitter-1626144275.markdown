@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cap_zay 
-date: 2021-07-12 19:44:35 
-categories: twitter 
---- 
-@nope_its_lily My brain. 😂

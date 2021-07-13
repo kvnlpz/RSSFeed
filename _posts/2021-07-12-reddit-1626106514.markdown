@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ENS and Ethereum Foundation are co-sponsoring a grant and RFP to standardize Sign-in with Ethereum 
-date: 2021-07-12 1626106514 
-categories: reddit 
---- 
-https://redd.it/oiuhkc

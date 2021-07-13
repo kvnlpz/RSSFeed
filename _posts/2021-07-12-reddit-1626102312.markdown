@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why Blockchains Need to Shrink to Grow 
-date: 2021-07-12 1626102312 
-categories: reddit 
---- 
-https://redd.it/oit3jg

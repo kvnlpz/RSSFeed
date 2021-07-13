@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pteetor 
-date: 2021-07-12 08:55:44 
-categories: twitter 
---- 
-@nope_its_lily I'm up to ARIMA(1,223,1). Still nothing. #persistence

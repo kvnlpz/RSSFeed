@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My analysis before the downfall 
-date: 2021-07-11 1625989676 
-categories: reddit 
---- 
-https://redd.it/oi09p6

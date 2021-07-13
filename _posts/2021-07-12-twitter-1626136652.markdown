@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 17:37:32 
-categories: twitter 
---- 
-You lost me at "Still think it’s going to the moon?" 
-
-Come again?

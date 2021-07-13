@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 08:36:59 
-categories: twitter 
---- 
-i think the entire field died when ntlk was invented

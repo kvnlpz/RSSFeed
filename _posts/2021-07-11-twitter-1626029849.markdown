@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1Mind_the_Gap 
-date: 2021-07-11 11:57:29 
-categories: twitter 
---- 
-@timothysykes You know knowing Tim Sykes https://t.co/2RysXTCHyx

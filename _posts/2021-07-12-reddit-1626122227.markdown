@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: APRN 
-date: 2021-07-12 1626122227 
-categories: reddit 
---- 
-https://redd.it/oizupc

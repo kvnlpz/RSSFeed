@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum L2 Arbitrum supported by Infura 
-date: 2021-07-12 1626135132 
-categories: reddit 
---- 
-https://redd.it/oj3zkb

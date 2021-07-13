@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Warning! this might register as spreading FUD 
-date: 2021-07-13 1626168829 
-categories: reddit 
---- 
-https://redd.it/ojc3fn

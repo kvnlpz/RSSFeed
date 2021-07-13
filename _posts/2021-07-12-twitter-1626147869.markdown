@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RickJBrody 
-date: 2021-07-12 20:44:29 
-categories: twitter 
---- 
-@alphatrends Only if it were at a 2016 valuation.

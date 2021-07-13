@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Plenty of warning about usdt crashing, what should we proactively do about it, on top of avoidance? 
-date: 2021-07-11 1626019063 
-categories: reddit 
---- 
-https://redd.it/oi711g

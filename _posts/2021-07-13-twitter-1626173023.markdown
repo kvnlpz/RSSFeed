@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @michaelhherring 
-date: 2021-07-13 03:43:43 
-categories: twitter 
---- 
-@muddywatersre Their working definition will be “daily.”

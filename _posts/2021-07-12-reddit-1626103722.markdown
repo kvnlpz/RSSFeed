@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wave token polygon 
-date: 2021-07-12 1626103722 
-categories: reddit 
---- 
-https://redd.it/oitl32

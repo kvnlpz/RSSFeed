@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChartsToro 
-date: 2021-07-13 09:34:21 
-categories: twitter 
---- 
-@RayTL_ Too sloppy. Waiting for successful test of ema.

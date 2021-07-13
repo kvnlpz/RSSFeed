@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Dwest2828 
-date: 2021-07-12 10:04:10 
-categories: twitter 
---- 
-@nope_its_lily Don’t even need Monte Carlo integration

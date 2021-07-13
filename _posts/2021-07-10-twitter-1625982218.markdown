@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-10 22:43:38 
-categories: twitter 
---- 
-@therobotjames sperm donation really just is a carry trade

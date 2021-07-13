@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moons are Up more than 90% in the last 14 Days 
-date: 2021-07-11 1626067951 
-categories: reddit 
---- 
-https://redd.it/oikwit

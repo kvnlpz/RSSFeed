@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yolo 
-date: 2021-07-12 1626129475 
-categories: reddit 
---- 
-https://redd.it/oj2a5e

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I want my company to adopt bitcoin 
-date: 2021-07-11 1626031537 
-categories: reddit 
---- 
-https://redd.it/oiaukg

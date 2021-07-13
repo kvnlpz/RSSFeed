@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA: If your coin is trying to achieve what Bitcoin on Lightning can already do, it likely does not have a future. Coins that do other things might have a future. Please read entire post before commenting. 
-date: 2021-07-11 1626062156 
-categories: reddit 
---- 
-https://redd.it/oijhpp

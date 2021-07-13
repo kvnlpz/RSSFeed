@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a reason not to keep all your USD in BlockFi? They pay 7.5% APY on all GUSD 
-date: 2021-07-11 1626017301 
-categories: reddit 
---- 
-https://redd.it/oi6i6b

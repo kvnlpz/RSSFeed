@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @harmless_exe 
-date: 2021-07-12 20:05:25 
-categories: twitter 
---- 
-@nope_its_lily Brain dumping on a paper notepad and forcing myself to visually draw out complex thoughts has really helped me.

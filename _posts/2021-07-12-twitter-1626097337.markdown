@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 06:42:17 
-categories: twitter 
---- 
-Who knew we sell the news

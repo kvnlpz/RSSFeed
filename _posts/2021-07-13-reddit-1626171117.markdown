@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A question as a beginner 
-date: 2021-07-13 1626171117 
-categories: reddit 
---- 
-https://redd.it/ojcl6y

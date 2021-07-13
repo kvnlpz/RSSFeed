@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What would the average sending fee be right now? 
-date: 2021-07-11 1626015639 
-categories: reddit 
---- 
-https://redd.it/oi5znq

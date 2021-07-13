@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DCA for beginners 
-date: 2021-07-12 1626095388 
-categories: reddit 
---- 
-https://redd.it/oiqx8r

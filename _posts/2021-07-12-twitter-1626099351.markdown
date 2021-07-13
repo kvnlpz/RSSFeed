@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:15:51 
-categories: twitter 
---- 
-RT @timothysykes: I'm proud to announce two new $20,000 donations from my @karmagawa charity to @FarmoftheFree and @sweetolivefarm to help…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @legendaryfool1 
-date: 2021-07-11 12:13:05 
-categories: twitter 
---- 
-@timothysykes Can't agree more

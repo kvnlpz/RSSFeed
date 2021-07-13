@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BAT Firewall + VPN 
-date: 2021-07-12 1626093913 
-categories: reddit 
---- 
-https://redd.it/oiqin3

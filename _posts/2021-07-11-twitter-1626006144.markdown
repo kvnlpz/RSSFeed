@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BunkBilfington 
-date: 2021-07-11 05:22:24 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen @alphacharts365 @JohnMuchow Just saw @haumicharts using Bollinger Bandwidth on 1 of his char… https://t.co/lkHWMIIpMm

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Time lapse of last weeks most discussed WSB stocks 
-date: 2021-07-11 1626038607 
-categories: reddit 
---- 
-https://redd.it/oicxv8

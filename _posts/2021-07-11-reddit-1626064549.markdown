@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Iron Condor versus Strangles 
-date: 2021-07-11 1626064549 
-categories: reddit 
---- 
-https://redd.it/oik3or

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FermiLevels 
-date: 2021-07-12 20:48:56 
-categories: twitter 
---- 
-@nope_its_lily Failing that, pen and paper.
-
-I use a small, hardbound notebook and a high quality pen.

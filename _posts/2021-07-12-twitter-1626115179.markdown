@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @P3Trader 
-date: 2021-07-12 11:39:39 
-categories: twitter 
---- 
-@InvestorsLive CARV too

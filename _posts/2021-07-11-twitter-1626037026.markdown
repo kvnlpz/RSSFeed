@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Brillson2 
-date: 2021-07-11 13:57:06 
-categories: twitter 
---- 
-@timothysykes @MrDaveTrader Don't you bring massive liquidity to pump and dumps though?

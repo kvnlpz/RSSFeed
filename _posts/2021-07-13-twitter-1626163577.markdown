@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-13 01:06:17 
-categories: twitter 
---- 
-@mari_trades @profitly SO GOOD!

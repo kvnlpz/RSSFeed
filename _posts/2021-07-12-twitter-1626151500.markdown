@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mattbrennan 
-date: 2021-07-12 21:45:00 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ Formats for integrating trade journal, PNL log, and process journal.  I always hear keep it si… https://t.co/dRbeRqNMkU

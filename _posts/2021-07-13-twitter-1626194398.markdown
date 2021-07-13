@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jimmy10bagger 
-date: 2021-07-13 09:39:58 
-categories: twitter 
---- 
-@RayTL_ Are you thinking the window is closing?

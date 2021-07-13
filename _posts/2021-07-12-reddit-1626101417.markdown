@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Want to understand Nodes and peer-to-peer network basics of Tezos ? 👇 
-date: 2021-07-12 1626101417 
-categories: reddit 
---- 
-https://redd.it/oissod

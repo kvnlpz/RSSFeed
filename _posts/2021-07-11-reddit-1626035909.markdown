@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Implications: Exchanges That Do Not Transfer Assets In-Kind 
-date: 2021-07-11 1626035909 
-categories: reddit 
---- 
-https://redd.it/oic5ou

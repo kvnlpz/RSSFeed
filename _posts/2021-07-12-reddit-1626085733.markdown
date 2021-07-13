@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Power Ledger launches next generation blockchain moves away from Ethereum to Solana 
-date: 2021-07-12 1626085733 
-categories: reddit 
---- 
-https://redd.it/oiok50

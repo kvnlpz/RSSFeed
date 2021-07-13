@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto Mining - How does it work? 
-date: 2021-07-12 1626084515 
-categories: reddit 
---- 
-https://redd.it/oioaqs

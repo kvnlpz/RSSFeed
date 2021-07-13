@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The rapid growth of DeFi created a popular hunting ground for hackers. The risk of theft has a devastating effect on asset growth and the inflow of new investors. DeFi coverage protocols enable investors to protect their assets without the assistance of a traditional bank 
-date: 2021-07-13 1626163443 
-categories: reddit 
---- 
-https://redd.it/ojb0du

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are smart contracts really decentralized? 
-date: 2021-07-12 1626107825 
-categories: reddit 
---- 
-https://redd.it/oiuxwe

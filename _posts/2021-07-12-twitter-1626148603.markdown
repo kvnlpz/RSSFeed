@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tarunchitra 
-date: 2021-07-12 20:56:43 
-categories: twitter 
---- 
-RT @nope_its_lily: @tarunchitra it'd be more efficient to just murder everyone else on the planet based on that big O

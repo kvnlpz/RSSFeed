@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New York Power Plant Starts Bitcoin (BTC) Mining 
-date: 2021-07-11 1626036257 
-categories: reddit 
---- 
-https://redd.it/oic9ct

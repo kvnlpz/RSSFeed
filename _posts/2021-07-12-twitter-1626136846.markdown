@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheTradeBlazer 
-date: 2021-07-12 17:40:46 
-categories: twitter 
---- 
-@OddStockTrader I present to you: The luckiest guy in the world

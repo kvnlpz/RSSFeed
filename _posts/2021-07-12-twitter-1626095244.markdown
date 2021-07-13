@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @talhaisiddiqui1 
-date: 2021-07-12 06:07:24 
-categories: twitter 
---- 
-RT @tonydimatteo: 1/ - For those asking about our plans to continue to grow our revenue, we remain committed to what has been expressed in…

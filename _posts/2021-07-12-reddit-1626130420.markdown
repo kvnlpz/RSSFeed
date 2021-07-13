@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Symbol blockchain by Nem 
-date: 2021-07-12 1626130420 
-categories: reddit 
---- 
-https://redd.it/oj2ksi

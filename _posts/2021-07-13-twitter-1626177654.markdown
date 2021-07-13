@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-07-13 05:00:54 
-categories: twitter 
---- 
-@retheauditors @MattGoldstein26 @FlitterOnFraud @HindenburgRes Bottom line: Everybody is paid not to see the problems.

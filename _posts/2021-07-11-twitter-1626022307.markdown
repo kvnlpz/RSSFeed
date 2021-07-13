@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-11 09:51:47 
-categories: twitter 
---- 
-RT @saxena_puru: No shame in being wrong (everyone makes mistakes), just don't stay wrong.
-
-If the story has deteriorated (business or mana…

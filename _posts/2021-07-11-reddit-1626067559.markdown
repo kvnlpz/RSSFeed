@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: WebApp to track daily short volume 
-date: 2021-07-11 1626067559 
-categories: reddit 
---- 
-https://redd.it/oikt2r

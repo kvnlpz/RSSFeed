@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaosbornenation 
-date: 2021-07-12 14:45:43 
-categories: twitter 
---- 
-RT @InvestorsLive: How to force patience in a trade 🙏 https://t.co/SfyqzZyrYT

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:23:17 
-categories: twitter 
---- 
-RT @timothysykes: The power on Wall Street is flipping thanks to #wallstreetbets and #reddit so you can pretend it’s not happening or retwe…

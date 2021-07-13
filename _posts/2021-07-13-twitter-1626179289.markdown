@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hosel_rocket 
-date: 2021-07-13 05:28:09 
-categories: twitter 
---- 
-@InvestorsLive I mean, the float last reported was 830K.  Doesn't get much more micro float than that.

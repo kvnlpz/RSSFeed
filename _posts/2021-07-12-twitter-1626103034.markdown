@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ivan_labrie 
-date: 2021-07-12 08:17:14 
-categories: twitter 
---- 
-@nope_its_lily Looks like typical post PND move chart...Sporadic exciting jumps that lead to nowhere, will rollover… https://t.co/yAKltqasU8

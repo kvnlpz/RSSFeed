@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My two cents regarding the current state of Binance in Europe 
-date: 2021-07-12 1626131405 
-categories: reddit 
---- 
-https://redd.it/oj2vuu

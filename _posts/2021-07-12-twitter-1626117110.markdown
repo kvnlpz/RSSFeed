@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 12:11:50 
-categories: twitter 
---- 
-One things for sure #Unity22 had a softer landing than $SPCE stock

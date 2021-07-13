@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My SPCE Story 
-date: 2021-07-11 1626020090 
-categories: reddit 
---- 
-https://redd.it/oi7ciy

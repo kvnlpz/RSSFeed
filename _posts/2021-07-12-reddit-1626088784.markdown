@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to make the most out of Coinbase/Coinbase Pro. 
-date: 2021-07-12 1626088784 
-categories: reddit 
---- 
-https://redd.it/oip836

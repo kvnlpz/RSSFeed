@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 10:53:24 
-categories: twitter 
---- 
-@macrocephalopod market forgot about inflation until treasury auction

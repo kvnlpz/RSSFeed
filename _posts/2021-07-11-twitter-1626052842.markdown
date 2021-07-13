@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TickerSquare 
-date: 2021-07-11 18:20:42 
-categories: twitter 
---- 
-@nope_its_lily Just when I was losing all hope for having no followers you gave me a reason to go on. But in all se… https://t.co/epll6RDz1x

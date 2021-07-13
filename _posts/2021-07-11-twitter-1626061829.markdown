@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mpp75214 
-date: 2021-07-11 20:50:29 
-categories: twitter 
---- 
-@nope_its_lily @matt_levine better to have P/E ratio undefined, otherwise it’s just a tether

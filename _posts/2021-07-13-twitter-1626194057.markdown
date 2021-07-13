@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ButtholeTrader 
-date: 2021-07-13 09:34:17 
-categories: twitter 
---- 
-@InvestorsLive BLIN

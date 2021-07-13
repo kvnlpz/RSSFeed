@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xMerp 
-date: 2021-07-11 11:49:09 
-categories: twitter 
---- 
-@nope_its_lily Ntm how social media/internet algos work in a very echo chamber-ish way

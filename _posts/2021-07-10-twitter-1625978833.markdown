@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ActualNewbie 
-date: 2021-07-10 21:47:13 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Got through all my STT tutorials today. Starting to paper trade Monday and once I’ve f… https://t.co/PcNeME5IBQ

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @satoshiheist 
-date: 2021-07-12 19:49:09 
-categories: twitter 
---- 
-@nope_its_lily Tick tick app

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jontradesstocks 
-date: 2021-07-11 09:32:07 
-categories: twitter 
---- 
-@InvestorsLive @richardbranson They're making it possible for anyone with the funds to become an astronaut. That's pretty awesome.

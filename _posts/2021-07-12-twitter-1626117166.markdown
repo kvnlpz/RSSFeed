@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @phanikrishna19 
-date: 2021-07-12 12:12:46 
-categories: twitter 
---- 
-@InvestorsLive Good one😂

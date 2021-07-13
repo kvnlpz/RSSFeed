@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 10:29:47 
-categories: twitter 
---- 
-@FutureSumer9000 why do you subtweet @CL207

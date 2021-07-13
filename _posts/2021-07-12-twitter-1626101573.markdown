@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 07:52:53 
-categories: twitter 
---- 
-@pwnwtfbbq @ConwayYen CLT would not apply here for many reasons

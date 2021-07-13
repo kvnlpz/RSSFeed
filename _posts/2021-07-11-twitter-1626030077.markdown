@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stormyinla 
-date: 2021-07-11 12:01:17 
-categories: twitter 
---- 
-@nope_its_lily @lizziematusov I’m down!

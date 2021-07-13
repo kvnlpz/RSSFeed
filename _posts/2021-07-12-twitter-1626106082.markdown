@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 09:08:02 
-categories: twitter 
---- 
-$ARTW late response to the 8-K this morning 
-
-https://t.co/qD0HNkWl4W

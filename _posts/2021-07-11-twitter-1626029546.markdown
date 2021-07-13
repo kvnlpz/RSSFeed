@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @callieabost 
-date: 2021-07-11 11:52:26 
-categories: twitter 
---- 
-RT @nope_its_lily: I'm seeing a lot of weird conspiracy mongering about more vaccinated people being among the COVID-19 sick and dead, as e…

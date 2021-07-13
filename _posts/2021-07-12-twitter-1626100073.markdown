@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:27:53 
-categories: twitter 
---- 
-RT @timothysykes: I'm proud to announce $120,000 in donations to @CTXFoodBank @WCKitchen &amp; @ntfb to #HelpTexas during this crisis, please r…

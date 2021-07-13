@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Whale on Coinbase 
-date: 2021-07-12 1626112658 
-categories: reddit 
---- 
-https://redd.it/oiwmae

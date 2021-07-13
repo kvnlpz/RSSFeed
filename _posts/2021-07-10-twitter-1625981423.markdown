@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anothernewslav 
-date: 2021-07-10 22:30:23 
-categories: twitter 
---- 
-@nope_its_lily Could a lack of engagement/impressions that precede such a spike be seen as useful? (Complacent vibes)

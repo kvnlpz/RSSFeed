@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can we stop with the hourly Moon price updates? 
-date: 2021-07-12 1626084029 
-categories: reddit 
---- 
-https://redd.it/oio6xl

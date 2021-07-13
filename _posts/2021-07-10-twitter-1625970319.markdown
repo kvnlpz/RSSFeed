@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @huoshan87768540 
-date: 2021-07-10 19:25:19 
-categories: twitter 
---- 
-@InvestorsLive Can you talk about intraday liquidity trap setups and their cycles? Just when I feel these setups ar… https://t.co/omA34tBXb0

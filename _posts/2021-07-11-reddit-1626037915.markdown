@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Conjure's Open Oracle Framework launches as the biggest oracle provider for onchain feeds for Polygon with >50 feeds. Highly scalable oracles are coming to L2s 
-date: 2021-07-11 1626037915 
-categories: reddit 
---- 
-https://redd.it/oicqp2

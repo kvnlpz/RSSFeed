@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @unbntu 
-date: 2021-07-12 21:49:31 
-categories: twitter 
---- 
-@nope_its_lily @tendie_swap run the NOPE algo on GME vs AMC prices https://t.co/O5iGldU6pJ

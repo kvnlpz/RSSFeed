@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @max_townshend 
-date: 2021-07-11 02:14:19 
-categories: twitter 
---- 
-@nope_its_lily Potatoes 🥔

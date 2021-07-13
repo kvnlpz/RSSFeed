@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You wake up tomorrow and your favourite exchange is down 
-date: 2021-07-11 1626041987 
-categories: reddit 
---- 
-https://redd.it/oidx9o

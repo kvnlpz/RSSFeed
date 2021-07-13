@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @charl_keet 
-date: 2021-07-11 03:50:26 
-categories: twitter 
---- 
-@nope_its_lily Roubini turning bullish

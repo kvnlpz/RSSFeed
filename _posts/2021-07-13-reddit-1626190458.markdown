@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which exchanges allow BTC call options? 
-date: 2021-07-13 1626190458 
-categories: reddit 
---- 
-https://redd.it/oji2my

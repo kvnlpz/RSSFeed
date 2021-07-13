@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DylanJCommander 
-date: 2021-07-12 06:23:22 
-categories: twitter 
---- 
-@InvestorsLive Might have to save this tweet doc 👏🏻

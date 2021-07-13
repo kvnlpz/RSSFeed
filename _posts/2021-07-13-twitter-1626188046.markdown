@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-13 07:54:06 
-categories: twitter 
---- 
-@swStockTrader That's nothing. Traded 185 million pocket change.

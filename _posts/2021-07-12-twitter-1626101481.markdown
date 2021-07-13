@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @plocktor 
-date: 2021-07-12 07:51:21 
-categories: twitter 
---- 
-@nope_its_lily woops that was probably me

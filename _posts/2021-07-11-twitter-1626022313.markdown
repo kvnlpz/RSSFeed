@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-11 09:51:53 
-categories: twitter 
---- 
-@saxena_puru great post !!!!!

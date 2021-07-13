@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bluetopknot 
-date: 2021-07-13 03:12:56 
-categories: twitter 
---- 
-@nope_its_lily Zero inbox

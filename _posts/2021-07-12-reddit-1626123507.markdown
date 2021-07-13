@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dubs 
-date: 2021-07-12 1626123507 
-categories: reddit 
---- 
-https://redd.it/oj0a0s

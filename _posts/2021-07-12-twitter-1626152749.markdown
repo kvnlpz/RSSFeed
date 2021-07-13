@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hedgewonk 
-date: 2021-07-12 22:05:49 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ It’d be great to cover position-sizing and tactics for scaling into positions. Position sizing… https://t.co/wdfzT1Ym1J

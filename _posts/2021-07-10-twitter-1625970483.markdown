@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thomasgerlach 
-date: 2021-07-10 19:28:03 
-categories: twitter 
---- 
-@nope_its_lily Ken Griffin walks on the moon with an ApeNation shirt on that is bedazzled in diamonds.

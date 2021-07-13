@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Go 🍀🍀🍀 
-date: 2021-07-12 1626116982 
-categories: reddit 
---- 
-https://redd.it/oiy41r

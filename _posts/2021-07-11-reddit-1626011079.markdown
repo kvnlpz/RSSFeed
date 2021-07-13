@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: WSJ "The Meme Stock Fantasy Is Becoming a Reality for GameStop and AMC - The hot companies of the moment are converting hype into real value, following a Wall Street tradition practiced by Tesla, AOL, Cisco and others. But true believers will pay for it." 
-date: 2021-07-11 1626011079 
-categories: reddit 
---- 
-https://redd.it/oi4pin

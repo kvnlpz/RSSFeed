@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Darin_T80 
-date: 2021-07-13 09:34:10 
-categories: twitter 
---- 
-@nope_its_lily LOL! 
-Thanks for validating my thoughts from 5 months ago!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hot Takes: Ethereum: ‘I think it’s unlikely to live beyond….20-30yrs’ (due to PoS) 
-date: 2021-07-12 1626093724 
-categories: reddit 
---- 
-https://redd.it/oiqgr7

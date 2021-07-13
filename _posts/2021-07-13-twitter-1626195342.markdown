@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LisaSch36941670 
-date: 2021-07-13 09:55:42 
-categories: twitter 
---- 
-@timothysykes What is your method for securing reliable internet? Are you using satellite internet?

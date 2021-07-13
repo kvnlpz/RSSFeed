@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trizepstitan 
-date: 2021-07-12 22:38:55 
-categories: twitter 
---- 
-@nope_its_lily Not buy notebook and retire 2 days earlier....

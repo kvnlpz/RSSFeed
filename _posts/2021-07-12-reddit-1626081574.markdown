@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is this an echo chamber? 
-date: 2021-07-12 1626081574 
-categories: reddit 
---- 
-https://redd.it/oinpx8

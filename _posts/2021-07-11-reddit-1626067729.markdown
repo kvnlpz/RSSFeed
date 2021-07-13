@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 💥 HELP💥! I have 13x Tesla T4 (335mh/s ethash) I’m running phoenixminer on nicehash pool, but its only making $20 a day…. What should I be mining instead ?🧐 
-date: 2021-07-11 1626067729 
-categories: reddit 
---- 
-https://redd.it/oikuiz

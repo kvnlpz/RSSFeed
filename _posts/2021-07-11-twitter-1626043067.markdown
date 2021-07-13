@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Scot1andT 
-date: 2021-07-11 15:37:47 
-categories: twitter 
---- 
-@RayTL_ I know its only 1 day but got same results with the 65.   I may put an ADR filter on it too and weed out some Reits and banks.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Algorand Founder Silvio Micali Breaks Down How To Construct A Fast And Secure Blockchain In A World Full Of Adversaries 
-date: 2021-07-13 1626179766 
-categories: reddit 
---- 
-https://redd.it/ojeo15

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nikola Still down From last week 
-date: 2021-07-12 1626156007 
-categories: reddit 
---- 
-https://redd.it/oj9gjm

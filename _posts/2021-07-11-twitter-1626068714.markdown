@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MConvexity 
-date: 2021-07-11 22:45:14 
-categories: twitter 
---- 
-RT @nope_its_lily: there is so much cursed garbage in my metamask wallet i'd rather be caught watching something explicit by my parents tha…

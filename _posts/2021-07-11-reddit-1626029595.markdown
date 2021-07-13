@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: More stringent rules on bitcoin ATMs in Belgium 
-date: 2021-07-11 1626029595 
-categories: reddit 
---- 
-https://redd.it/oia9pr

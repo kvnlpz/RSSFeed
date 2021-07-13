@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum's London Hard Fork: What You Need To Know and What to Expect - Amazingly well written article on the London update (EIP1559). Very informative with links to GitHub code. Good info on the difficulty bomb and why it must be utilized. 🔥 
-date: 2021-07-11 1625992097 
-categories: reddit 
---- 
-https://redd.it/oi0q5f

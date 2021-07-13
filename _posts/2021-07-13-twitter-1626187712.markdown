@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PabloEstrader 
-date: 2021-07-13 07:48:32 
-categories: twitter 
---- 
-@InvestorsLive Insanity lol

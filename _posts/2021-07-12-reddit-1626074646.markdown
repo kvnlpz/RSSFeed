@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should I drop SPYV for SPYG? 
-date: 2021-07-12 1626074646 
-categories: reddit 
---- 
-https://redd.it/oimchv

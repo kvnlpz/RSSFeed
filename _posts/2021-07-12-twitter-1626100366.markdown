@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheCloudSaint 
-date: 2021-07-12 07:32:46 
-categories: twitter 
---- 
-@nope_its_lily Oh god do I even want to look...

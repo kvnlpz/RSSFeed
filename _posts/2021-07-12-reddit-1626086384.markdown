@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: After a Sharp Decline, Bitcoin Mining Hashrate Shows a Strong Rebound 
-date: 2021-07-12 1626086384 
-categories: reddit 
---- 
-https://redd.it/oiop0t

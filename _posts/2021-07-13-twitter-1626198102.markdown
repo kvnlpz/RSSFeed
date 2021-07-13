@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-07-13 10:41:42 
-categories: twitter 
---- 
-RT @InvestorsLive: How to manage risk in the stock market https://t.co/5huXACEYR7 https://t.co/j94nIerEMF

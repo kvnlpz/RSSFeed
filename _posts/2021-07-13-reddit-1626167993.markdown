@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why it is said that most public chains are no longer necessary? What issues should be paid attention to in the development of public chain 
-date: 2021-07-13 1626167993 
-categories: reddit 
---- 
-https://redd.it/ojbxey

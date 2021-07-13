@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-12 12:40:53 
-categories: twitter 
---- 
-@YavinXIV Apology accepted, I’m use to it, welcome to why I teach :)

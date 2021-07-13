@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CosmicFud 
-date: 2021-07-13 04:15:30 
-categories: twitter 
---- 
-@nope_its_lily Staying offline and not using a smartphone.

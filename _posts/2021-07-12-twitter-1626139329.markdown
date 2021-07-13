@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DanielMoreiraUY 
-date: 2021-07-12 18:22:09 
-categories: twitter 
---- 
-@RayTL_ Ray, what is That volume indicator you are using ate the very bottom?

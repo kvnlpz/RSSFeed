@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For/against hiding moon count from flair? 
-date: 2021-07-11 1626036553 
-categories: reddit 
---- 
-https://redd.it/oiccgz

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @islaverdetrader 
-date: 2021-07-12 17:38:00 
-categories: twitter 
---- 
-@OddStockTrader $tdac coming soon ;)

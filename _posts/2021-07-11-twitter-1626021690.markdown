@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @inflowsg1 
-date: 2021-07-11 09:41:30 
-categories: twitter 
---- 
-@nope_its_lily The Black Death marked an end of an era in Italy. Its impact was profound, resulting in wide-ranging… https://t.co/GBEWyd9ufC

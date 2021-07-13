@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Weekly Roundup: Bitcoin is a “miracle,” Sygnum becomes first bank to support ETH 2.0 staking, Visa customers spend over $1 billion on cryptos in six months 
-date: 2021-07-12 1626084882 
-categories: reddit 
---- 
-https://redd.it/oiodmf

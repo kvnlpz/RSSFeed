@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Blueskies042 
-date: 2021-07-13 09:33:30 
-categories: twitter 
---- 
-@OddStockTrader @j_pavness #happiness

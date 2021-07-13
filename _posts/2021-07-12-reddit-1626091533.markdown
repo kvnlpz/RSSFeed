@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Kraken increased ADA withdrawal fee by 66% 
-date: 2021-07-12 1626091533 
-categories: reddit 
---- 
-https://redd.it/oipvvf

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DynothermsGo 
-date: 2021-07-12 08:54:02 
-categories: twitter 
---- 
-@nope_its_lily @goodalexander Thanks y'all.  I'm a crusty old geezer dev that needs these tips &amp; pointers.

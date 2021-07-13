@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Twitter thread taking you through all the steps to get from entropy to a Bitcoin address. 
-date: 2021-07-13 1626184198 
-categories: reddit 
---- 
-https://redd.it/ojfywx

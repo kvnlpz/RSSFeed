@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Time Bandits ...a great movie have you seen it? 
-date: 2021-07-13 1626196985 
-categories: reddit 
---- 
-https://redd.it/ojkbbl

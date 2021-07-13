@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 🔊 The integration of the Gravity DEX protocol on the Cosmos Hub was successfully completed! 🚀 
-date: 2021-07-12 1626142132 
-categories: reddit 
---- 
-https://redd.it/oj5xr9

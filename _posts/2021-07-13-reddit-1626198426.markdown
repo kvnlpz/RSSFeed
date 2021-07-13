@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Voting from ledger via yoroi available for fund 5? 
-date: 2021-07-13 1626198426 
-categories: reddit 
---- 
-https://redd.it/ojkt9u

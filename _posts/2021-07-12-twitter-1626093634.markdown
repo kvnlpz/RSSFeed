@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ForshtMike 
-date: 2021-07-12 05:40:34 
-categories: twitter 
---- 
-@InvestorsLive The final frontier. Leaking

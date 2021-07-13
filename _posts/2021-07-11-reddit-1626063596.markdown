@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where are BlackBerry IVY demo applications? 
-date: 2021-07-11 1626063596 
-categories: reddit 
---- 
-https://redd.it/oijv6u

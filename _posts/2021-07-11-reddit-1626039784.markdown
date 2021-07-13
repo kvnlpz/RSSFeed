@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Created a Hardened/Secure Image of Elementary OS For Crypto Users 
-date: 2021-07-11 1626039784 
-categories: reddit 
---- 
-https://redd.it/oid9qi

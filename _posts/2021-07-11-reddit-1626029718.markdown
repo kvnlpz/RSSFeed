@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Airdrop 
-date: 2021-07-11 1626029718 
-categories: reddit 
---- 
-https://redd.it/oiab8h

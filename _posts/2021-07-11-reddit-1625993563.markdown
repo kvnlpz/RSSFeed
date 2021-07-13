@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there any cryptocurrency that involves inflation in its code and doesn’t have a permanent hard cap like 21 million Bitcoin for example? 
-date: 2021-07-11 1625993563 
-categories: reddit 
---- 
-https://redd.it/oi0zpm

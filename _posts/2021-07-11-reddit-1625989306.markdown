@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This makes a lot of sense to me 
-date: 2021-07-11 1625989306 
-categories: reddit 
---- 
-https://redd.it/oi075j

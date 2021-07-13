@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TrendTrader_US 
-date: 2021-07-11 23:07:25 
-categories: twitter 
---- 
-RT @nope_its_lily: @EsquireErrant @CycleWacher @hereforthefin @jam_croissant https://t.co/LPzbHcszkG
-https://t.co/MUJaqlkWlh

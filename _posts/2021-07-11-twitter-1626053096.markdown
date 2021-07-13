@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @algoBear 
-date: 2021-07-11 18:24:56 
-categories: twitter 
---- 
-RT @alphatrends: ICYMI, my video from Friday https://t.co/5eqM9tJN9d

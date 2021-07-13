@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:13:58 
-categories: twitter 
---- 
-RT @timothysykes: Here's a brand new video reviewing the state of the market right now https://t.co/FWSYtSxrzD and I review how SEVERAL of…

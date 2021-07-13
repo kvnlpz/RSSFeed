@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking for resources 
-date: 2021-07-12 1626099508 
-categories: reddit 
---- 
-https://redd.it/ois6a6

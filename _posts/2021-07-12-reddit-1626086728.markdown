@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [article discussion] The Bit Short Inside Cryptos Doomsday Machine 
-date: 2021-07-12 1626086728 
-categories: reddit 
---- 
-https://redd.it/oiorlk

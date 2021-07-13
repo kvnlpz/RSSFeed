@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Introduction to crypto in my own words. Please critique, call it shit, call it whatever. TIA 
-date: 2021-07-12 1626149940 
-categories: reddit 
---- 
-https://redd.it/oj81fi

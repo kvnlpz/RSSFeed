@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-12 20:30:52 
-categories: twitter 
---- 
-RT @JordanFReed5: Daily Motivation From Milan, Italy https://t.co/ayQhOvbEaU via @YouTube Truly a great video. Inspired me all those years…

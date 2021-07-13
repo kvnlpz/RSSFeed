@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SantiSampereA 
-date: 2021-07-11 08:29:07 
-categories: twitter 
---- 
-@modern_rock What a crap. https://t.co/Ye0kkoZp1j

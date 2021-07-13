@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Friendly reminder that you can whitelist adresses - which can prevent you from accidentally sending money to the wrong adress! 
-date: 2021-07-12 1626105814 
-categories: reddit 
---- 
-https://redd.it/oiu8fg

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VintageTX 
-date: 2021-07-12 08:41:28 
-categories: twitter 
---- 
-@G_krupins Breaking out. Could you please share your price target?

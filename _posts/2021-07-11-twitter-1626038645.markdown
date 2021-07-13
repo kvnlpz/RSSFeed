@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RationalOptimi5 
-date: 2021-07-11 14:24:05 
-categories: twitter 
---- 
-@nope_its_lily Twitters ML https://t.co/oeihclackL

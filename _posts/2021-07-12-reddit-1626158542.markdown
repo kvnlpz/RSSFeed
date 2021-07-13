@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Australia Adopting Bitcoin 
-date: 2021-07-12 1626158542 
-categories: reddit 
---- 
-https://redd.it/oja0ub

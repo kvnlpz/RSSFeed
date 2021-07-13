@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @capitalemployed 
-date: 2021-07-12 19:44:47 
-categories: twitter 
---- 
-@nope_its_lily We use Trello here at Capital Employed FM HQ 😉

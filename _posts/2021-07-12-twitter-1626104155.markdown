@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 08:35:55 
-categories: twitter 
---- 
-idk why people think NLP is real
-isn't it just take all possible n-grams from 1 to n, weight the probabilities, and… https://t.co/FdGoErqCEH

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A quick look at some price history for Ethereum from 2018 
-date: 2021-07-11 1626044013 
-categories: reddit 
---- 
-https://redd.it/oiejzz

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Difference APY/APR autocompounding, does it worth it? 
-date: 2021-07-12 1626086971 
-categories: reddit 
---- 
-https://redd.it/oiotf0

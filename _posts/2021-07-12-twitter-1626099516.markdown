@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:18:36 
-categories: twitter 
---- 
-RT @timothysykes: @AlphaMotives @CoolcatReport @BDesmot @FahimArianis 20+ years of my trading data: https://t.co/IRTgz3uLsW and see the mon…

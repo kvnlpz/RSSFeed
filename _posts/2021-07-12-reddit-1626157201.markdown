@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: He Made Cross-Chain DeFi Possible | AMA w/Stephen Tse, Cofounder & CEO of Harmony 
-date: 2021-07-12 1626157201 
-categories: reddit 
---- 
-https://redd.it/oj9qtn

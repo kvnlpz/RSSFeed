@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hudsont1728 
-date: 2021-07-11 12:41:20 
-categories: twitter 
---- 
-@timothysykes Well I know absolutely nothing except that it’s very difficult to consistently win

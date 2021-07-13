@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @adeyf69 
-date: 2021-07-12 23:46:58 
-categories: twitter 
---- 
-@nope_its_lily Clickup is good.  I use it for managing project and tasks at work.  And I use it with GTD method for personal stuff.

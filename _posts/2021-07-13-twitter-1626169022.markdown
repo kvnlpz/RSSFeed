@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chefmcnamee 
-date: 2021-07-13 02:37:02 
-categories: twitter 
---- 
-@InvestorsLive Pop at open with people covering 🤔

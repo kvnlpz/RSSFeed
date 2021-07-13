@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:20:14 
-categories: twitter 
---- 
-RT @timothysykes: I'm proud to announce my charity @karmagawa just fed 500 families for the next month and also gave 3,000 blankets to 1,00…

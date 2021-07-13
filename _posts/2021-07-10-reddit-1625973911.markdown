@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Analysis on top 100 Cyrptocurrencies' ticker legibility as words (How many?) 
-date: 2021-07-10 1625973911 
-categories: reddit 
---- 
-https://redd.it/ohwwm6

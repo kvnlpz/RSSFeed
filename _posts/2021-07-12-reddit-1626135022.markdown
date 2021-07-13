@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Offsite backup - is it better as a hardware wallet or copy of seed phrase? 
-date: 2021-07-12 1626135022 
-categories: reddit 
---- 
-https://redd.it/oj3yaz

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TitzerCraig 
-date: 2021-07-10 21:11:29 
-categories: twitter 
---- 
-@timothysykes True f$@&amp;ing story!!!

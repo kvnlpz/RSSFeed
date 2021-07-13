@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a messaging service on Monero blockchain similar to bitmessage 
-date: 2021-07-13 1626171390 
-categories: reddit 
---- 
-https://redd.it/ojcnbi

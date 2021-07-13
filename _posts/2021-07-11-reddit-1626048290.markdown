@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledger Live doesn't see $ATOM I sent from Osmosis to the $ATOM address associated with my hardware wallet. 
-date: 2021-07-11 1626048290 
-categories: reddit 
---- 
-https://redd.it/oifsyp

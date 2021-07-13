@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about icmarkets 
-date: 2021-07-13 1626177137 
-categories: reddit 
---- 
-https://redd.it/ojdyvm

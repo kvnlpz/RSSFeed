@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Purposely_Blank 
-date: 2021-07-13 05:40:06 
-categories: twitter 
---- 
-@InvestorsLive Gaps always get filled.

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 22:58:47 
-categories: twitter 
---- 
-I know how to piss off as many math, ML, and statistics people as I can in one tweet:
-“Machine learning is really j… https://t.co/g8iofPMseI

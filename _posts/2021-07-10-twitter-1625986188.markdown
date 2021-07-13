@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cliveadams18 
-date: 2021-07-10 23:49:48 
-categories: twitter 
---- 
-@super_trades Wow 👏👏👏

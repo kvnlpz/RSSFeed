@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinMetro is the first in the market to offer a KDA Bonding (Staking) support platform and a complete Kadena wallet integration 
-date: 2021-07-13 1626174745 
-categories: reddit 
---- 
-https://redd.it/ojde9t

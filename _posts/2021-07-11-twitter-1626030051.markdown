@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @olka19906 
-date: 2021-07-11 12:00:51 
-categories: twitter 
---- 
-@timothysykes How nice! 9056 MATIC sent to my Metamask wallet @MATIC_BONUS

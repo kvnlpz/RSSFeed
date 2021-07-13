@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sentiment about DeFi. How many people here use it? Do you love it or hate it? Which DEXs/platforms do you use? 
-date: 2021-07-12 1626111955 
-categories: reddit 
---- 
-https://redd.it/oiwdhk

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How are people using dapps securely? Its impossible! 
-date: 2021-07-11 1625987246 
-categories: reddit 
---- 
-https://redd.it/ohzt3q

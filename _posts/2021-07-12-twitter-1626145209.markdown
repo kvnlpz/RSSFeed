@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @quick697 
-date: 2021-07-12 20:00:09 
-categories: twitter 
---- 
-@nope_its_lily Scrap paper with handwritten prioritized to do list, strike through and thrown in a wastebasket, next

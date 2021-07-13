@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I think this is a Crab Market 
-date: 2021-07-12 1626089889 
-categories: reddit 
---- 
-https://redd.it/oiphav

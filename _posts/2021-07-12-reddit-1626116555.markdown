@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My new watch list - not enough karma 
-date: 2021-07-12 1626116555 
-categories: reddit 
---- 
-https://redd.it/oixz1r

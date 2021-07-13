@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I know any officially advertised transaction speed of a blockchain is legit or not? 
-date: 2021-07-10 1625984932 
-categories: reddit 
---- 
-https://redd.it/ohzc98

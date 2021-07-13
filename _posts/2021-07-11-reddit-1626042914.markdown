@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gary Gensler: Ethereum is a Security 
-date: 2021-07-11 1626042914 
-categories: reddit 
---- 
-https://redd.it/oie7vr

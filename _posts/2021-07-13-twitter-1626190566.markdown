@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bell_travi5 
-date: 2021-07-13 08:36:06 
-categories: twitter 
---- 
-@timothysykes you have a fake account out there @Asktimothysykes

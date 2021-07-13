@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:13:50 
-categories: twitter 
---- 
-RT @timothysykes: I’m working off my Thanksgiving meal...how about you? I hope you have a great/safe weekend, but also remember to study up…

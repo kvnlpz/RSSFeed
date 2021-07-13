@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin as the Standard 
-date: 2021-07-11 1626021292 
-categories: reddit 
---- 
-https://redd.it/oi7pdd

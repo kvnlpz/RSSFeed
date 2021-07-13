@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help understanding price changes on PMCC - Short ITM 
-date: 2021-07-13 1626185682 
-categories: reddit 
---- 
-https://redd.it/ojgg4y

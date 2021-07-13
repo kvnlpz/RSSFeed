@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "Teztropolis" - a render I made based on an idea another redditor had 
-date: 2021-07-12 1626131987 
-categories: reddit 
---- 
-https://redd.it/oj320k

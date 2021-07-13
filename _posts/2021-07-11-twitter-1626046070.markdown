@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AxieMaxie 
-date: 2021-07-11 16:27:50 
-categories: twitter 
---- 
-@nope_its_lily Backcountry of Yosemite ain't bad

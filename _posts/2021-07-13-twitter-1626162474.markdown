@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:47:54 
-categories: twitter 
---- 
-RT @timothysykes: 10:30pm study check, retweet/favorite this if you're up studying, making your watchlist for tomorrow or if you're up revi…

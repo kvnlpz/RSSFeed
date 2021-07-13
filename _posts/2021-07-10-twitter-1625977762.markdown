@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @discordwell 
-date: 2021-07-10 21:29:22 
-categories: twitter 
---- 
-@nope_its_lily Robinhood checking that you actually have 10 years of experience before letting you YOLO your entire account on FDs.

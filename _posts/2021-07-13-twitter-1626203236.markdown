@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jacknbillshow 
-date: 2021-07-13 12:07:16 
-categories: twitter 
---- 
-@nope_its_lily False dilemma

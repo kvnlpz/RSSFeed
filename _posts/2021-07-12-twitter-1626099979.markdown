@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:26:19 
-categories: twitter 
---- 
-RT @timothysykes: Here's a video about my @karmagawa  charity work https://t.co/S2f0Lm4n4B as EVERY donation is public. We now have 73 scho…

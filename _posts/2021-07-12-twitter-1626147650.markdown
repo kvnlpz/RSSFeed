@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Machine__Trader 
-date: 2021-07-12 20:40:50 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade $evsv = #mj stock with 9.6 million float.  Recent volume increase and catalyst lining up.

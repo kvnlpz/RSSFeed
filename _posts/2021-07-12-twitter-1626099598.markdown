@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:19:58 
-categories: twitter 
---- 
-RT @timothysykes: Literally hundreds of people per day say Tim, just answer this 1 question, but no one Q&amp;A ever satisfies them, there's al…

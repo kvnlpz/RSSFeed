@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 10:52:43 
-categories: twitter 
---- 
-$CCIV didn't look back 👌

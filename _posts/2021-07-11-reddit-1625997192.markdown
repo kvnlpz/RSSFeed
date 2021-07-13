@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New project BSC 
-date: 2021-07-11 1625997192 
-categories: reddit 
---- 
-https://redd.it/oi1o5m

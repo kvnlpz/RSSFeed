@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Meme contest with $3000 prizes 
-date: 2021-07-13 1626198571 
-categories: reddit 
---- 
-https://redd.it/ojkvae

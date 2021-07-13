@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are your opinions on Aavegotchi? 
-date: 2021-07-11 1625989865 
-categories: reddit 
---- 
-https://redd.it/oi0ayb

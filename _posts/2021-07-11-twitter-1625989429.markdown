@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Divineerica2 
-date: 2021-07-11 00:43:49 
-categories: twitter 
---- 
-@nope_its_lily I had the same issue, but it was resolved immediately after I wrote to metamask support using this f… https://t.co/PTn3murCWY

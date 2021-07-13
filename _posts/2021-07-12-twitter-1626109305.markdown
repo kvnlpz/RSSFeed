@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brrrzooka 
-date: 2021-07-12 10:01:45 
-categories: twitter 
---- 
-@nope_its_lily That's just the only goes up part.

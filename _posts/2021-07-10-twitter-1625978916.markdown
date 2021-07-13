@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CarolSciurus 
-date: 2021-07-10 21:48:36 
-categories: twitter 
---- 
-RT @InvestorsLive: Don't go into "wait and see" mode ⚠️ https://t.co/q04fTFa2rg

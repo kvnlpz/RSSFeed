@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Great petition 
-date: 2021-07-12 1626132919 
-categories: reddit 
---- 
-https://redd.it/oj3bw8

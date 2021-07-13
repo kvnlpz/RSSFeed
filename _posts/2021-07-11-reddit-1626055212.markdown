@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is a crypto wallet and how to secure it 
-date: 2021-07-11 1626055212 
-categories: reddit 
---- 
-https://redd.it/oihnzv

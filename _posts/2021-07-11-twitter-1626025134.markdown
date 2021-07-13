@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JWestJest 
-date: 2021-07-11 10:38:54 
-categories: twitter 
---- 
-@nope_its_lily @TheStalwart @VladZamfir His point has nothing to do with cryptography

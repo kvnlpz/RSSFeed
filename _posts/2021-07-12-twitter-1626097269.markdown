@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trentkelp 
-date: 2021-07-12 06:41:09 
-categories: twitter 
---- 
-RT @nope_its_lily: Live look at SPCE investors today https://t.co/hILsY3YnND

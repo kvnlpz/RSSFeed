@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I am fine! 
-date: 2021-07-13 1626162697 
-categories: reddit 
---- 
-https://redd.it/ojavsf

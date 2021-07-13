@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Save money on Coinbase fees - inspired by a post here a few days ago 
-date: 2021-07-12 1626125562 
-categories: reddit 
---- 
-https://redd.it/oj0z1e

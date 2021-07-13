@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain, why TA doesnt work for low market cap coins? (50 million marketcap) 
-date: 2021-07-11 1625990489 
-categories: reddit 
---- 
-https://redd.it/oi0fbk

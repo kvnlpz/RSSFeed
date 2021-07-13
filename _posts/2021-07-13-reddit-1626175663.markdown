@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is quantum computers a threat to circulating Bitcoins? 
-date: 2021-07-13 1626175663 
-categories: reddit 
---- 
-https://redd.it/ojdm54

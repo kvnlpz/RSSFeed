@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: rekt.news the dark web of DeFi journalism. A good source of information about the problems that are in DeFi. 
-date: 2021-07-13 1626181282 
-categories: reddit 
---- 
-https://redd.it/ojf3bo

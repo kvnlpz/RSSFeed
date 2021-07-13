@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Wallet Gnosis Safe Expands to Polygon, Binance Smart Chain, and Arbitrum 
-date: 2021-07-13 1626185189 
-categories: reddit 
---- 
-https://redd.it/ojgaf1

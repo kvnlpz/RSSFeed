@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-11 12:35:15 
-categories: twitter 
---- 
-RT @timothysykes: NOBODY in the stock market is as smart as they want others to believe, the smartest ones are the ones who know they know…

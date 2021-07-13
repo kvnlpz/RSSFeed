@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 11:27:09 
-categories: twitter 
---- 
-👌 $SPCE fresh lows

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FYI You don't need to use the Reddit app to earn moons. You can switch back to your preferred app after setting up your vault 
-date: 2021-07-11 1626047174 
-categories: reddit 
---- 
-https://redd.it/oifhqe

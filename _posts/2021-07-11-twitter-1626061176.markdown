@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mawit07 
-date: 2021-07-11 20:39:36 
-categories: twitter 
---- 
-@nope_its_lily Bezos and Musk not far behind.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WickedDip 
-date: 2021-07-13 05:59:13 
-categories: twitter 
---- 
-RT @InvestorsLive: and just like that $BLIN brings back $MRIN $BSQR

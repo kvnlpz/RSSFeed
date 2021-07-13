@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Week On-chain (Week 28, 2021), Bitcoin and Ethereum on-chain metrics to gauge the market by! 
-date: 2021-07-12 1626107191 
-categories: reddit 
---- 
-https://redd.it/oiupww

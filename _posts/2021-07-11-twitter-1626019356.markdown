@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 09:02:36 
-categories: twitter 
---- 
-it's incredibly bullish Binance is not allowing US customers to withdraw
-by forcing hodling price go up

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tatonka 
-date: 2021-07-12 19:44:06 
-categories: twitter 
---- 
-@nope_its_lily I like GTD as a methodology, particularly the inbox zero idea. The only issue I have with it is I ca… https://t.co/BaqsYJjvT0

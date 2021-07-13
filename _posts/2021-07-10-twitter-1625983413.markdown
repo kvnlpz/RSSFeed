@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zw33ty4mz 
-date: 2021-07-10 23:03:33 
-categories: twitter 
---- 
-@nope_its_lily lily, i nominate you to be the successor to @neiltyson. please go study astrophysics

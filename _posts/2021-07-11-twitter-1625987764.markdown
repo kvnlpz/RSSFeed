@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @margincallac 
-date: 2021-07-11 00:16:04 
-categories: twitter 
---- 
-@nope_its_lily Fed taper

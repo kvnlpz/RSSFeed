@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First post! Just thankful and here to stay. 
-date: 2021-07-11 1626040195 
-categories: reddit 
---- 
-https://redd.it/oiddmc

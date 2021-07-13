@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 08:34:08 
-categories: twitter 
---- 
-$TUFN thinned up nearly circuit halted nice move.

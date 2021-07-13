@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NavigatorSaint 
-date: 2021-07-12 08:52:13 
-categories: twitter 
---- 
-@muddywatersre https://t.co/gb0uylFHXi
-
-Talks a lot about some of the issues behind the way the current power grid… https://t.co/IthLE07dat

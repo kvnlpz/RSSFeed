@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrSlater_1 
-date: 2021-07-12 23:05:54 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/a8GhnJ7naR

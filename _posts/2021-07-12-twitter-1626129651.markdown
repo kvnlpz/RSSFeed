@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Give_Me_TheJist 
-date: 2021-07-12 15:40:51 
-categories: twitter 
---- 
-RT @nope_its_lily: grandma is asking me for help if she should diversify a fairly small position she has in a 'mid cap growth' mutual fund…

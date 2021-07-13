@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConejoCapital 
-date: 2021-07-13 10:36:06 
-categories: twitter 
---- 
-@nope_its_lily Where’s the TA on the NOPE chart?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Koinos - the No Fees Blockchain. Revolutionary decentralized new Blockchain with Multi Language Smart Contracts and Microservices, Zero fees, upgradable forever without forks. Low Marketcap. Testnet=Live 
-date: 2021-07-12 1626074078 
-categories: reddit 
---- 
-https://redd.it/oim893

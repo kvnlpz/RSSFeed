@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stefantking 
-date: 2021-07-12 20:46:07 
-categories: twitter 
---- 
-@nope_its_lily Workflowy

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “Blockchain Worlds” - an RPG game supposedly being made to use in-game crypto, stole a “screenshot” from Red Dead 2. 
-date: 2021-07-11 1625988231 
-categories: reddit 
---- 
-https://redd.it/ohzzu9

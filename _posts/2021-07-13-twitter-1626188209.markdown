@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ministox 
-date: 2021-07-13 07:56:49 
-categories: twitter 
---- 
-@alphatrends @TrendSpider is this the alpha trends VWAP?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hop Protocol Is Now Live On Polygon, xDai, and the Ethereum Mainnet 
-date: 2021-07-13 1626202396 
-categories: reddit 
---- 
-https://redd.it/ojem8y

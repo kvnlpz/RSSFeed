@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Spy calls 
-date: 2021-07-11 1626028598 
-categories: reddit 
---- 
-https://redd.it/oi9yne

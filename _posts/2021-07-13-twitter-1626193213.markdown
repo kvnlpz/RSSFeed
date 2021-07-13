@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nut_spac 
-date: 2021-07-13 09:20:13 
-categories: twitter 
---- 
-@nope_its_lily Machine learning is just excel “if statements” but in a VBA for loop.

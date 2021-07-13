@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ransomware Attackers Made Off With $33M in Bitcoin This Year 
-date: 2021-07-12 1626118040 
-categories: reddit 
---- 
-https://redd.it/oiyfwc

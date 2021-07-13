@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Social Evolution: Web2 vs. Web3 
-date: 2021-07-13 1626188720 
-categories: reddit 
---- 
-https://redd.it/ojhh5c

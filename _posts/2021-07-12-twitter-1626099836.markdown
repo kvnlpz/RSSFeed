@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:23:56 
-categories: twitter 
---- 
-RT @timothysykes: What a week this is as now 4 of my https://t.co/occ8wKmlgm students have passed $1 million in trading profits, congrats t…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stella 
-date: 2021-07-13 08:06:17 
-categories: twitter 
---- 
-@nope_its_lily I use @joplinapp for everything. Great open source note taking app that replaces Notion, Evernote, a… https://t.co/arjw4cVO9w

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TIL you can tip moons on PC 
-date: 2021-07-12 1626116359 
-categories: reddit 
---- 
-https://redd.it/oixwi5

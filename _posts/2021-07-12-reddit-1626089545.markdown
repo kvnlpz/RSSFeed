@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5: What is the defference between governance tokens and utility tokens? What differentiates one from another and what are the pros/cons of each? 
-date: 2021-07-12 1626089545 
-categories: reddit 
---- 
-https://redd.it/oipeez

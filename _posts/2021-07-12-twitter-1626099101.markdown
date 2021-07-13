@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:11:41 
-categories: twitter 
---- 
-RT @timothysykes: People ask me if I ever get sick of traveling, but despite visiting 100+ countries, the world is SO infinitely interestin…

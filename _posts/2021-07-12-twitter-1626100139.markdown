@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:28:59 
-categories: twitter 
---- 
-RT @timothysykes: I'm proud to announce the opening my charity's 74th school/library, The Jack Kellogg Learning Center, in honor of my http…

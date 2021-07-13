@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's going on here Binance... I traded some DOGE to BTC and am trying to send to the BTC but it's saying it's locked... I've never heard of funds getting locked after a trade due to it being unconfirmed. 
-date: 2021-07-12 1626118826 
-categories: reddit 
---- 
-https://redd.it/oiyp8c

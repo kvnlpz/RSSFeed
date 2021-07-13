@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JamesNorris88 
-date: 2021-07-12 16:54:12 
-categories: twitter 
---- 
-@InvestorsLive I think the Apes are leaving lol

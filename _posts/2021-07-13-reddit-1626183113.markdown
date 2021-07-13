@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What the heck is going on with UPTS 
-date: 2021-07-13 1626183113 
-categories: reddit 
---- 
-https://redd.it/ojfmwk

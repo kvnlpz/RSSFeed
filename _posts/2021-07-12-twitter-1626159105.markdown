@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @noah_phd 
-date: 2021-07-12 23:51:45 
-categories: twitter 
---- 
-@nope_its_lily 100% agree.  Its all just statistics inside.

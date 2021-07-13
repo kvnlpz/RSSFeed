@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC situation 
-date: 2021-07-12 1626105960 
-categories: reddit 
---- 
-https://redd.it/oiuafy

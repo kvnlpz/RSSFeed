@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made a tutorial for the Bitcoin-only version of the Keystone Wallet. Setup, firmware upgrade process, pairing with mobile app, sending/receiving, passphrase wallets + pairing with 3rd party apps (Blue Wallet as an example). 
-date: 2021-07-12 1626131128 
-categories: reddit 
---- 
-https://redd.it/oj2svz

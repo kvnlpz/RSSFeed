@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any suggestions for improving my yield farming flow? ~50% APY using Aave, Curve, and Beefy. 
-date: 2021-07-11 1626061240 
-categories: reddit 
---- 
-https://redd.it/oij92q

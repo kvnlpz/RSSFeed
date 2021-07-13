@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @the_waldman 
-date: 2021-07-11 11:49:50 
-categories: twitter 
---- 
-@nope_its_lily To an extent it’s the same thing as maintenance of your priors, always have to ask how you’d know if… https://t.co/PqLUPYpYvB

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-12 14:00:16 
-categories: twitter 
---- 
-@RichardMoglen My thoughts are I love this thread! Well done.

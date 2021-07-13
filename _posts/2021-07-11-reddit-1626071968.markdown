@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: China’s Crackdown On Crypto Mining Could End GPU Shortage 
-date: 2021-07-11 1626071968 
-categories: reddit 
---- 
-https://redd.it/oilrs7

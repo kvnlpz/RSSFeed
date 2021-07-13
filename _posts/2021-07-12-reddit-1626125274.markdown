@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ChainSwap Exploit Leads to Multi-Million Loss For DeFi Tokens 
-date: 2021-07-12 1626125274 
-categories: reddit 
---- 
-https://redd.it/oj0vck

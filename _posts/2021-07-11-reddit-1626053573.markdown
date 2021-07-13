@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $VIAC = Tendies 
-date: 2021-07-11 1626053573 
-categories: reddit 
---- 
-https://redd.it/oih8ia

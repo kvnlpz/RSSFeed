@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YBNL_GENERAL 
-date: 2021-07-11 10:16:47 
-categories: twitter 
---- 
-RT @timothysykes: People messaging me how great it is to donate to worthy causes like the #barstoolfund &amp; I love the support, but this is j…

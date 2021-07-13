@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @koufaxisking1 
-date: 2021-07-11 23:55:54 
-categories: twitter 
---- 
-@nope_its_lily What does globex stand for? I get opex and mopex, just haven’t seen or used globex before.

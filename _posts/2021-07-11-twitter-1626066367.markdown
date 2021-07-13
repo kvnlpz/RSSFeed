@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelSeptari 
-date: 2021-07-11 22:06:07 
-categories: twitter 
---- 
-@timothysykes On Day 5 of 30 day boot camp. Learning all so can from you Tim.

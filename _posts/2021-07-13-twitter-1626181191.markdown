@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Lawndale1 
-date: 2021-07-13 05:59:51 
-categories: twitter 
---- 
-RT @muddywatersre: @MattGoldstein26 @FlitterOnFraud @HindenburgRes Thanks for the reply. My point being that the catalyst for these questio…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My bookmarks bar still has the good ol' days up there. 
-date: 2021-07-11 1626005255 
-categories: reddit 
---- 
-https://redd.it/oi3a9q

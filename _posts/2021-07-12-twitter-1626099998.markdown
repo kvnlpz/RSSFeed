@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:26:38 
-categories: twitter 
---- 
-RT @timothysykes: Here's a followup to yesterday showing more of the 73 schools/libraries my charity @karmagawa has built, see video here t…

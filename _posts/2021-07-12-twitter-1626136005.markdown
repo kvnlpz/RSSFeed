@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradrofTheNorth 
-date: 2021-07-12 17:26:45 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/Kx4nRjfJuC

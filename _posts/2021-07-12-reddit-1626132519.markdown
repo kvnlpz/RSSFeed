@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Words from a wise man. 
-date: 2021-07-12 1626132519 
-categories: reddit 
---- 
-https://redd.it/oj37mj

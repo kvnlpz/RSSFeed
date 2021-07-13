@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $WISH Large # of Call Options Expiring Week of 7/12 
-date: 2021-07-11 1626041452 
-categories: reddit 
---- 
-https://redd.it/oidrfo

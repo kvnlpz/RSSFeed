@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ApeMayne 
-date: 2021-07-11 11:50:13 
-categories: twitter 
---- 
-RT @nope_its_lily: If the answer is nothing, that is usually a very problematic sign. I don't mean this in trivial things (like don't falsi…

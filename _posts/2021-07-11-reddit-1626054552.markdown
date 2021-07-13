@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase 4% USDC lend program 
-date: 2021-07-11 1626054552 
-categories: reddit 
---- 
-https://redd.it/oihhr9

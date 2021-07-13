@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 07:51:10 
-categories: twitter 
---- 
-It's almost like it looks exactly like a stock price series with jumps and this is one of the many reasons you can't R^2 price

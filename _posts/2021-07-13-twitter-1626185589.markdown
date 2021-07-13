@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @qwertyf1sh 
-date: 2021-07-13 07:13:09 
-categories: twitter 
---- 
-@nope_its_lily I feel like you complimented the Stat people lol

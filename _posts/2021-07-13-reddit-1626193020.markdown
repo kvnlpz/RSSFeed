@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any good articles on staking ethereum via ledger? 
-date: 2021-07-13 1626193020 
-categories: reddit 
---- 
-https://redd.it/ojiy4s

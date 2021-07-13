@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bonecondor 
-date: 2021-07-11 15:38:07 
-categories: twitter 
---- 
-@nope_its_lily somebody find me that gift of prophecy meme

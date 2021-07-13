@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SantiSampereA 
-date: 2021-07-11 08:33:26 
-categories: twitter 
---- 
-@Steven1_994 be careful. https://t.co/R0IkC734EI

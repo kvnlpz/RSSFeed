@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RyanTPark 
-date: 2021-07-13 10:23:16 
-categories: twitter 
---- 
-@nope_its_lily you have magical powers

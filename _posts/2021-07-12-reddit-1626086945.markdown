@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is Chainlink? (For beginners) 
-date: 2021-07-12 1626086945 
-categories: reddit 
---- 
-https://redd.it/oiot8p

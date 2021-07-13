@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Transaction Fees Dropped Due to These Main Reasons 
-date: 2021-07-12 1626145166 
-categories: reddit 
---- 
-https://redd.it/oj6rfh

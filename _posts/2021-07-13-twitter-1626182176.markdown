@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FrnkTss 
-date: 2021-07-13 06:16:16 
-categories: twitter 
---- 
-RT @TraderTexMex: $DOGZ Dogness Products Now Available on https://t.co/k0lrnkqqas

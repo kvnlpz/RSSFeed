@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC Node Count Drop / AWS Issue 
-date: 2021-07-11 1626059466 
-categories: reddit 
---- 
-https://redd.it/oiisau

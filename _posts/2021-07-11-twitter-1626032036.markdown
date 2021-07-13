@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-11 12:33:56 
-categories: twitter 
---- 
-@jfahmy Well done! Very inspirational Joe.

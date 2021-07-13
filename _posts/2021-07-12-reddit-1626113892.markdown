@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $KEY - A key to unlock some tendies 
-date: 2021-07-12 1626113892 
-categories: reddit 
---- 
-https://redd.it/oix1lb

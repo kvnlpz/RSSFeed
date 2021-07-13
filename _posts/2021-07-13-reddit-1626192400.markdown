@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question: In the future will 1 sat ever equal $1? 
-date: 2021-07-13 1626192400 
-categories: reddit 
---- 
-https://redd.it/ojiqva

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-10 22:32:16 
-categories: twitter 
---- 
-These numbers are simple to keep the math simple and obviously not real. Let's say there's 100 people and 80% are v… https://t.co/ODQxFSXW3J

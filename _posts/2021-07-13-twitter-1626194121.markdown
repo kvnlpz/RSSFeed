@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jgreco 
-date: 2021-07-13 09:35:21 
-categories: twitter 
---- 
-@nope_its_lily @theemilyaccount Long citadel non-compete &gt;&lt;

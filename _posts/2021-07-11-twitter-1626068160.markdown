@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-11 22:36:00 
-categories: twitter 
---- 
-@vamosconramos2 Sure, see https://t.co/M7k2isygSF why is that so hard?

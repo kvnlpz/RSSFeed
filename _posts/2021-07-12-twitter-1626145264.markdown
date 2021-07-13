@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EconomPic 
-date: 2021-07-12 20:01:04 
-categories: twitter 
---- 
-@nope_its_lily Both involve you wanting to be on the right side of a transaction!

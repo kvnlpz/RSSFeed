@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TW73892715 
-date: 2021-07-13 01:09:28 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ Risk management plz

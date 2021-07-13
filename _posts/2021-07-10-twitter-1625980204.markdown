@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-10 22:10:04 
-categories: twitter 
---- 
-Just did some data analysis (eyeballing) on my Twitter analytics data. It's hard to say for sure, but there's a not… https://t.co/eQEo9Rr3OR

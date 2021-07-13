@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin improvements? 
-date: 2021-07-11 1626053683 
-categories: reddit 
---- 
-https://redd.it/oih9io

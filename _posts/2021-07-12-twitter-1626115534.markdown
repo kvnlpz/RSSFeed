@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-12 11:45:34 
-categories: twitter 
---- 
-@InvestorsLive Dumbest stock since I've started trading

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking for feed back 
-date: 2021-07-11 1626053813 
-categories: reddit 
---- 
-https://redd.it/oihatz

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jan359180 
-date: 2021-07-10 22:21:45 
-categories: twitter 
---- 
-RT @nope_its_lily: I'm too excited to move and get a nice kitchen and perhaps bring baked goods to the office again.

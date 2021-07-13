@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SteveMatador 
-date: 2021-07-13 06:22:00 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ Scaling out of a position, things like when to take profits when to move stops up, at what pro… https://t.co/ZtigvrKt30

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can’t stake in plenty with temple/ledger. 
-date: 2021-07-11 1626017380 
-categories: reddit 
---- 
-https://redd.it/oi6iye

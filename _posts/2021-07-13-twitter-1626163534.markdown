@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 01:05:34 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/UNrk0Lb9N0 New STT News runner

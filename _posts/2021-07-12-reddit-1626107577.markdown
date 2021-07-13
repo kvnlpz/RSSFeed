@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is Bitcoin - A fun little movie that our artist-in-residence put together to simply explain bitcoin to newbies. 
-date: 2021-07-12 1626107577 
-categories: reddit 
---- 
-https://redd.it/oiuu7z

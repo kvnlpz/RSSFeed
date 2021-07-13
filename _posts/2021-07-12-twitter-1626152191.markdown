@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @D7ZZ77 
-date: 2021-07-12 21:56:31 
-categories: twitter 
---- 
-@alphatrends Cau I open another account? @coinbase

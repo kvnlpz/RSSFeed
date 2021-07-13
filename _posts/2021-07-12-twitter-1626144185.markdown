@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @2kool4s52062098 
-date: 2021-07-12 19:43:05 
-categories: twitter 
---- 
-@nope_its_lily Sublime text

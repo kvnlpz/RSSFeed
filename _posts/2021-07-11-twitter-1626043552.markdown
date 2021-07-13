@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Spaceman_AG 
-date: 2021-07-11 15:45:52 
-categories: twitter 
---- 
-@timothysykes i dont know anything i am just moving with the market and trying to study and learn.

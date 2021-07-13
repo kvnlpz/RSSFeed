@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @arorasal 
-date: 2021-07-12 07:45:55 
-categories: twitter 
---- 
-@nope_its_lily I see it barely green, what happened?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are hardware wallets really the best way forward? 
-date: 2021-07-11 1626016175 
-categories: reddit 
---- 
-https://redd.it/oi65v0

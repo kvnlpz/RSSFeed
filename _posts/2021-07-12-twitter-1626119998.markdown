@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 12:59:58 
-categories: twitter 
---- 
-$BAOS looks like the ol' front load for AHs tweet at 4:01PM calling "organic" move

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mcstewtrader 
-date: 2021-07-11 15:08:34 
-categories: twitter 
---- 
-RT @InvestorsLive: Narrow your focus 🎯 https://t.co/sNIa3DOI99

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JankoJerinic 
-date: 2021-07-12 23:07:02 
-categories: twitter 
---- 
-@nope_its_lily I often refer to ML as “glorified function fitting”.

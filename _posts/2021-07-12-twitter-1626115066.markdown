@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @optionhoarder 
-date: 2021-07-12 11:37:46 
-categories: twitter 
---- 
-@nope_its_lily Will the game ever stop?

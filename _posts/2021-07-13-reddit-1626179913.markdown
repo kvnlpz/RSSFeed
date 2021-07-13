@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Difficulty Bomb Delays are described in detail by Ethereum client developers. 
-date: 2021-07-13 1626179913 
-categories: reddit 
---- 
-https://redd.it/ojepk8

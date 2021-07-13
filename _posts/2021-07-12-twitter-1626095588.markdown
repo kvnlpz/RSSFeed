@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @volwit 
-date: 2021-07-12 06:13:08 
-categories: twitter 
---- 
-@nope_its_lily Skewness and kurtosis in non-normal distributions, practical applications and adjustments.

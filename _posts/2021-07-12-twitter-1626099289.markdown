@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theneobloom 
-date: 2021-07-12 07:14:49 
-categories: twitter 
---- 
-@nope_its_lily @CryptoCobain Billions

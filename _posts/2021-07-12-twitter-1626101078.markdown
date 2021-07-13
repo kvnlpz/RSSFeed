@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 07:44:38 
-categories: twitter 
---- 
-@pwnwtfbbq @ConwayYen To be technical, if today is a green day, you can estimate (probably) the probability your mo… https://t.co/V9Dx3Q2hMn

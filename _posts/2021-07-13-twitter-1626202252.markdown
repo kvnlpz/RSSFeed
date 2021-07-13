@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-13 11:50:52 
-categories: twitter 
---- 
-If what you're doing doesn't $WORX find a new strategy.

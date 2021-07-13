@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @snootypigeon 
-date: 2021-07-12 23:01:32 
-categories: twitter 
---- 
-@nope_its_lily if instigating was a martial art, you'd be a black belt

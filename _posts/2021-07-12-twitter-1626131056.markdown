@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Montana_Trades 
-date: 2021-07-12 16:04:16 
-categories: twitter 
---- 
-@Stef__Gee @Subfund https://t.co/cZMcpU1j61

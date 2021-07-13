@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Asktimothysykes 
-date: 2021-07-12 14:13:14 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/lbZKfgl8J9 Small gains are fineee

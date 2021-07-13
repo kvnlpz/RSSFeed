@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto.com gives you simple (not compound) interest while staking. And boy there's a big difference. 
-date: 2021-07-11 1626009142 
-categories: reddit 
---- 
-https://redd.it/oi47ou

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 07:41:36 
-categories: twitter 
---- 
-@ConwayYen @pwnwtfbbq This shows so many mistakes alone eesh https://t.co/gmaxskPdAc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KevinClerico 
-date: 2021-07-11 08:46:02 
-categories: twitter 
---- 
-@timothysykes DPLS ??????

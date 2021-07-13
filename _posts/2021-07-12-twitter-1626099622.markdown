@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:20:22 
-categories: twitter 
---- 
-RT @timothysykes: You https://t.co/EcfUM6l2S3 students are SO damn fortunate with all these webinars, forget about me, last week's webinar…

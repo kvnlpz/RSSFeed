@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blender.io takes more than 12h for transaction. Bitcoins lost? 
-date: 2021-07-11 1626002018 
-categories: reddit 
---- 
-https://redd.it/oi2m2f

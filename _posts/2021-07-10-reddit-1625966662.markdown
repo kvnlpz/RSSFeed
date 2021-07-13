@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does Atom derive it’s value? 
-date: 2021-07-10 1625966662 
-categories: reddit 
---- 
-https://redd.it/ohv58i

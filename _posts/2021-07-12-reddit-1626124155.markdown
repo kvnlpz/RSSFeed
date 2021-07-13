@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is this setup a form of a cold wallet? 
-date: 2021-07-12 1626124155 
-categories: reddit 
---- 
-https://redd.it/oj0i2g

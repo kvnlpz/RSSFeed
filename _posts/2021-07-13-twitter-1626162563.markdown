@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:49:23 
-categories: twitter 
---- 
-RT @StockyPenny: Also, shout out to @timothysykes and the @30DayBoot . I've never been a sykes guy, although people think I am. I learned s…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Security concern? Privacy? 
-date: 2021-07-13 1626171201 
-categories: reddit 
---- 
-https://redd.it/ojcly1

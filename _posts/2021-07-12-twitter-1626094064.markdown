@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DAlbinosaur 
-date: 2021-07-12 05:47:44 
-categories: twitter 
---- 
-RT @super_trades: @tonydimatteo $TDAC reaffirms $71 million revenue 2021

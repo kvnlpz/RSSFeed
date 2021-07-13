@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DeLevashov 
-date: 2021-07-12 13:36:52 
-categories: twitter 
---- 
-@InvestorsLive Short idea on a pop tomorrow.

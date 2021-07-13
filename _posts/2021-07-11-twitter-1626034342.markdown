@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pablopargui 
-date: 2021-07-11 13:12:22 
-categories: twitter 
---- 
-@nope_its_lily The future me, after inventing a time machine, comes back and tells me in what I'm wrong.
-
-That's wh… https://t.co/QJhLn57RIF

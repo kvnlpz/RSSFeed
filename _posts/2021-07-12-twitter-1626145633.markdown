@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlgodTrading 
-date: 2021-07-12 20:07:13 
-categories: twitter 
---- 
-@nope_its_lily Can relate, it’s not a bad habit though

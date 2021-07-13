@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZigtaKidane 
-date: 2021-07-12 09:28:36 
-categories: twitter 
---- 
-@timothysykes thank you Tim for this beautiful pattern

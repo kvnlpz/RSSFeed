@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about Moons when opening vault 
-date: 2021-07-12 1626089783 
-categories: reddit 
---- 
-https://redd.it/oipgev

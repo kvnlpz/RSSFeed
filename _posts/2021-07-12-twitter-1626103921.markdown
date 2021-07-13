@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 08:32:01 
-categories: twitter 
---- 
-$ORCL check daily + intraday (from thought process yesterday on video) key levels.

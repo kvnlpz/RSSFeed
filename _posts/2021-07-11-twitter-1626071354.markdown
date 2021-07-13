@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Zertovitch 
-date: 2021-07-11 23:29:14 
-categories: twitter 
---- 
-@muddywatersre Transitory

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: IOTA NFT marketplace launched on devnet 
-date: 2021-07-13 1626165313 
-categories: reddit 
---- 
-https://redd.it/ojbee2

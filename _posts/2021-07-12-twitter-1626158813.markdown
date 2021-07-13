@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tarunchitra 
-date: 2021-07-12 23:46:53 
-categories: twitter 
---- 
-@nope_its_lily Variance estimation considered harmful when you have too many degenerate / collinear things due
-
-For… https://t.co/fDr3iRWVfH

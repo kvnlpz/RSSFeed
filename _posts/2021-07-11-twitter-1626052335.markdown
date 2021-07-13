@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @spyrkamcnasty 
-date: 2021-07-11 18:12:15 
-categories: twitter 
---- 
-RT @nope_its_lily: Twitter, in general, is a waste of time. What matters here is not how many followers you have, but the quality of the pe…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:27:26 
-categories: twitter 
---- 
-RT @timothysykes: Funny video from 2 years ago where I told all the failing mining companies in Vancouver to get into #bitcoin $BTC but the…

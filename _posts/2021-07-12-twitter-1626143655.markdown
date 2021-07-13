@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimTilton5 
-date: 2021-07-12 19:34:15 
-categories: twitter 
---- 
-@OddStockTrader @IU_Tyler @Traders4ACause Who is the cool one in this cart?
-#teamTyler

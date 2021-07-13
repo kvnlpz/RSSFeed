@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @__The_CryptoDog 
-date: 2021-07-12 02:46:37 
-categories: twitter 
---- 
-RT @nope_its_lily: What's interesting on the cryptocurrency front is retail seems all depressed and complacent of a bear market but I keep…

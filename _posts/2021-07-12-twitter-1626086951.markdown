@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ipmmusic 
-date: 2021-07-12 03:49:11 
-categories: twitter 
---- 
-@timothysykes The Covid traders will never understand spongetech, but those into OTC definitely should read about it

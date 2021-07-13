@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 13:25:57 
-categories: twitter 
---- 
-idk if this is true, if we imagine there's an absorbing barrier at 0 and a geometric distribution with constant tim… https://t.co/CcUOskjvet

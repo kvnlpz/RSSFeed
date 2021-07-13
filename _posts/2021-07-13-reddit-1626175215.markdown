@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Eden BP: As it led to confusion, a new BP was launched with the name “donates2eden”. Stop voting for the old "edenproducer" and vote for the new BP "donates2eden". This is a new BP who is donating the profits to Eden to let the community decide how to re invest into the EOS ecosystem 
-date: 2021-07-13 1626175215 
-categories: reddit 
---- 
-https://redd.it/ojdi8q

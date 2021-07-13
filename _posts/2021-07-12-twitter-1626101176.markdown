@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 07:46:16 
-categories: twitter 
---- 
-@pwnwtfbbq @ConwayYen Because it's almost like stock prices are highly autocorrelated or something and terrible to use OLS on.

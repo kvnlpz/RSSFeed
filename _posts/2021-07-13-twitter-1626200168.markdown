@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BradChillin 
-date: 2021-07-13 11:16:08 
-categories: twitter 
---- 
-@nope_its_lily ML is just curve-fitting. I'm an expert at that. lol. https://t.co/XrVmRyt3gE

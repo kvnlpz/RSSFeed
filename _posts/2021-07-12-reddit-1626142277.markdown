@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Welcome to ThetaGang, How Greedy Are Ya? 
-date: 2021-07-12 1626142277 
-categories: reddit 
---- 
-https://redd.it/oj5z5j

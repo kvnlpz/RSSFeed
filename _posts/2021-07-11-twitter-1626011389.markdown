@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KapitalKrocha 
-date: 2021-07-11 06:49:49 
-categories: twitter 
---- 
-@nope_its_lily A bank run.

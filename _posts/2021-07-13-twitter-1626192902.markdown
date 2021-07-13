@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hadrian342 
-date: 2021-07-13 09:15:02 
-categories: twitter 
---- 
-RT @InvestorsLive: Another day another dozen names running for no reason. Why not lol.

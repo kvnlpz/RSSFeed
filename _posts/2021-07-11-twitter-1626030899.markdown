@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThiccestLuigi 
-date: 2021-07-11 12:14:59 
-categories: twitter 
---- 
-RT @nope_its_lily: I mentioned this in a subthread, but one thing I'd love talked about more is falsification of beliefs. It's not a sides…

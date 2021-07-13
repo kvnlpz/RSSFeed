@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Did you guys check the exploit that happened on Chainswap? 
-date: 2021-07-11 1626057308 
-categories: reddit 
---- 
-https://redd.it/oii7u9

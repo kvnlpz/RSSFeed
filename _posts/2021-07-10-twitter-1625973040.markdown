@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @traderfuz 
-date: 2021-07-10 20:10:40 
-categories: twitter 
---- 
-@alphatrends 😭

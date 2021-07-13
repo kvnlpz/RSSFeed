@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does a deflation cryptocurrencies work on smart contracts? 
-date: 2021-07-11 1626010384 
-categories: reddit 
---- 
-https://redd.it/oi4iwl

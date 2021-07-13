@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Polkadot, Tezos, Kusama, Neo, Cardano, Ethereum, Algorand ... holy moly 
-date: 2021-07-13 1626169150 
-categories: reddit 
---- 
-https://redd.it/ojc5p3

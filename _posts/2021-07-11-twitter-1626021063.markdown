@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-11 09:31:03 
-categories: twitter 
---- 
-@MrDaveTrader Nope I just have an interest in saving newbies from promoters

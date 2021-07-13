@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeDufresne2 
-date: 2021-07-10 22:54:52 
-categories: twitter 
---- 
-@timothysykes @Jonk87 People can like other things besides the stock market.

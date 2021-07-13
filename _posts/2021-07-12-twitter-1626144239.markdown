@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-12 19:43:59 
-categories: twitter 
---- 
-RT @merrybratt: If you're caught up with the fact that the @getMaiar DEX isn't live yet, you're missing the bigger picture. This project wi…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ikigaistocks 
-date: 2021-07-11 13:24:13 
-categories: twitter 
---- 
-@RayTL_ @TLPrivate_ Is that video walkthrough available on YouTube? :)

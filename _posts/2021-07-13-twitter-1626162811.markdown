@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:53:31 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/qdbdgg9Epy WHAT A CLASSIC #5 pattern from my 7-step framework

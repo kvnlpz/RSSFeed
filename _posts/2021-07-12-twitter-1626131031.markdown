@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @willandywalker 
-date: 2021-07-12 16:03:51 
-categories: twitter 
---- 
-@nope_its_lily @BabyVaderDoge1

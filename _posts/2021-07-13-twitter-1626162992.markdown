@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:56:32 
-categories: twitter 
---- 
-RT @PartnersRelief: One of our team members in #Syria studied the psychology behind color and chose these paint colors to encourage a feeli…

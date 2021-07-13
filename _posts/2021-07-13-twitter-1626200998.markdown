@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptoandclout 
-date: 2021-07-13 11:29:58 
-categories: twitter 
---- 
-@OddStockTrader Do you even trade anymore?

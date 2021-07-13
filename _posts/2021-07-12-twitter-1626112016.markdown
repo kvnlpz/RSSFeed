@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @memetron9000 
-date: 2021-07-12 10:46:56 
-categories: twitter 
---- 
-@nope_its_lily Just assume it is zero between data points and take the Lebesgue integral.  That way you’re integrat… https://t.co/DgRCfiJ9TR

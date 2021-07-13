@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @techlidbull 
-date: 2021-07-13 11:03:10 
-categories: twitter 
---- 
-@KerrisdaleCap https://t.co/eOcbDiBpOS

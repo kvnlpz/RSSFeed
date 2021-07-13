@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-11 21:48:40 
-categories: twitter 
---- 
-RT @SublimeTrades: I feel blessed to be able to trade for a living. I spent 15 years writing software for some of the biggest technology co…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are you going to mine with your GPU rigs once Ethereum switches to PoS? 
-date: 2021-07-10 1625981512 
-categories: reddit 
---- 
-https://redd.it/ohymkv

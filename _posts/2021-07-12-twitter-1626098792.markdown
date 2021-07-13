@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Nd172557208 
-date: 2021-07-12 07:06:32 
-categories: twitter 
---- 
-@nope_its_lily What if Satoshi Nakamoto is all of the friends we've made along the way?

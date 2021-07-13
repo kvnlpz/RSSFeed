@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-12 09:00:48 
-categories: twitter 
---- 
-@Marty1117 Good attitude!

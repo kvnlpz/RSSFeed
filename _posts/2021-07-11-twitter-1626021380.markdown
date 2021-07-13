@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KingApe007 
-date: 2021-07-11 09:36:20 
-categories: twitter 
---- 
-@timothysykes Lambo!😂😂 https://t.co/IlLYiVVjxC

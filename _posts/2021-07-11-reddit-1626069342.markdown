@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Proof-of-Stake Ethereum built using the Cosmos SDK (just an example of what Cosmos is capable out here) 
-date: 2021-07-11 1626069342 
-categories: reddit 
---- 
-https://redd.it/oil7t6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:17:26 
-categories: twitter 
---- 
-RT @timothysykes: Happy holidays! 2020 has been a tough year, but especially for charities as their donations are down big so I've spent th…

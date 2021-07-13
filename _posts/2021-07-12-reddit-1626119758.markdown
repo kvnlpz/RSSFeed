@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I almost sold a deep, ITM covered call today but chickened out last minute. 
-date: 2021-07-12 1626119758 
-categories: reddit 
---- 
-https://redd.it/oiz0oc

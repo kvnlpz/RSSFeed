@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vikshpak 
-date: 2021-07-12 23:43:28 
-categories: twitter 
---- 
-@nope_its_lily There is only one - #orgmode and pomodoro. Do not even try to use an "app" for your workflow. All of… https://t.co/me2vCZJSN5

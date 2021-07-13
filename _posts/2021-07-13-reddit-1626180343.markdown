@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Canary Exchange Will Integrate Chainlink Price Feeds to Develop Various DeFi Apps 
-date: 2021-07-13 1626180343 
-categories: reddit 
---- 
-https://redd.it/ojetwg

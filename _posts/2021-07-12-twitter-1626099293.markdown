@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:14:53 
-categories: twitter 
---- 
-RT @timothysykes: It’s not just about donating $ to charity, I also love bringing some extra joy &amp; positivity to these hardworking charitie…

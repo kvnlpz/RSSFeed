@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WallStUnicorn 
-date: 2021-07-11 07:26:31 
-categories: twitter 
---- 
-@alphatrends Totally agree. I appreciate the 4% savings tip.

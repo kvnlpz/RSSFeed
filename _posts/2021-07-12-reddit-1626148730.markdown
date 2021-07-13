@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Believe it or not, cryptocurrencies are not stored in crypto wallets 
-date: 2021-07-12 1626148730 
-categories: reddit 
---- 
-https://redd.it/oj7q4m

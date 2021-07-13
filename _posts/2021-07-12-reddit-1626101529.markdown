@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Super Basic Security Pracrices 
-date: 2021-07-12 1626101529 
-categories: reddit 
---- 
-https://redd.it/oistxg

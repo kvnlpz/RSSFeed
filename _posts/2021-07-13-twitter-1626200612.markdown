@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ivan_labrie 
-date: 2021-07-13 11:23:32 
-categories: twitter 
---- 
-@nope_its_lily The human brain wants shortcuts, brains are naturally lazy...hence the attraction to simple narratives.

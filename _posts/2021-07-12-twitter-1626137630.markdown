@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 17:53:50 
-categories: twitter 
---- 
-@kchoudhu there will only ever be 21 million Lily fake accounts

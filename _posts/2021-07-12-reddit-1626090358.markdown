@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MTSL 
-date: 2021-07-12 1626090358 
-categories: reddit 
---- 
-https://redd.it/oiplau

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sigfrk 
-date: 2021-07-13 02:15:57 
-categories: twitter 
---- 
-RT @InvestorsLive: $UONE like we talked about yesterday on the video
-
-While everyone watches the main ones sometimes the true gifs are forg…

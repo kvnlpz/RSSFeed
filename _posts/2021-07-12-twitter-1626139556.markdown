@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SasikantS 
-date: 2021-07-12 18:25:56 
-categories: twitter 
---- 
-@nope_its_lily Shiba Inu Coin

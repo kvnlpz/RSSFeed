@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:58:02 
-categories: twitter 
---- 
-RT @timothysykes: No matter how well you do on any stock or trade, or even if you have an incredible week, month or even entire year tradin…

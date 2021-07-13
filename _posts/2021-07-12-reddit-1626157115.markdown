@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help me understand why we want crypto on blockchain to be the currency for U.S. 
-date: 2021-07-12 1626157115 
-categories: reddit 
---- 
-https://redd.it/oj9q38

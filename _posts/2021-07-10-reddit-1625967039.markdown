@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: There is a sh1#coin made from Bitcoin yet everyone is still calling it a sh1#coin. The token isn't even important. It's how you use Bitcoin to secure it and how it covers its own inflation costs by paying holders in Bitcoin. It's a new way to use Bitcoin. It's called Proof of Transfer DYOR 
-date: 2021-07-10 1625967039 
-categories: reddit 
---- 
-https://redd.it/ohv8gn

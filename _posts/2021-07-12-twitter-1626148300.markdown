@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 20:51:40 
-categories: twitter 
---- 
-@FluxTheology ...that's what I just said.

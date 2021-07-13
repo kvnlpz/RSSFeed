@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PeterNBell 
-date: 2021-07-13 10:30:51 
-categories: twitter 
---- 
-@nope_its_lily @GrantMBeasley https://t.co/zHcuPVPoay

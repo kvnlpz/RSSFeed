@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dwblab 
-date: 2021-07-13 09:51:24 
-categories: twitter 
---- 
-@nope_its_lily A journal because then you can do things away from a computer, too. And we could all use less time a… https://t.co/bk966M4v7G

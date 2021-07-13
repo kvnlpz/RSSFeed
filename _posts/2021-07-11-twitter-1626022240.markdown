@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 09:50:40 
-categories: twitter 
---- 
-@diamondhandsAMC Risk factors due to market complacency mostly, coupled with certain metrics of volatility disagree… https://t.co/RvF3xzrkcp

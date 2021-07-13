@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jgreco 
-date: 2021-07-13 09:34:29 
-categories: twitter 
---- 
-@nope_its_lily Our lives are in the bird app

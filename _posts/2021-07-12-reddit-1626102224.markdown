@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Green energy-focused Bitcoin miner Hive joins North American mining pool 
-date: 2021-07-12 1626102224 
-categories: reddit 
---- 
-https://redd.it/oit2da

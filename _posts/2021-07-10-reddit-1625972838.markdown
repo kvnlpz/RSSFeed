@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why does CoinBase only have $320m insurance if they custody like $50 billion? 
-date: 2021-07-10 1625972838 
-categories: reddit 
---- 
-https://redd.it/ohwngj

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gordie_smith 
-date: 2021-07-12 19:45:01 
-categories: twitter 
---- 
-@nope_its_lily The self-email

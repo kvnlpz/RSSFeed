@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TommyBoyTrades 
-date: 2021-07-13 06:45:35 
-categories: twitter 
---- 
-@InvestorsLive @CNBC Time to go long

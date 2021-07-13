@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-11 15:33:00 
-categories: twitter 
---- 
-@Scot1andT Try scanning 65min/78min price bars if possible. It parses out the session evenly.

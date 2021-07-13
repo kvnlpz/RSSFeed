@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-13 09:08:49 
-categories: twitter 
---- 
-@mastermindssdg Stockchart/Trading View - print trade log and go at it.

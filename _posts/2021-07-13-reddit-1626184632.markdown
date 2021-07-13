@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A regular conversation in an ape chatroom 
-date: 2021-07-13 1626184632 
-categories: reddit 
---- 
-https://redd.it/ojg3pi

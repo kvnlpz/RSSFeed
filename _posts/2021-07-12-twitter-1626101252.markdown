@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pwnwtfbbq 
-date: 2021-07-12 07:47:32 
-categories: twitter 
---- 
-@nope_its_lily @ConwayYen Sure and I'm a double major double and double minor engineer with a strong stats backgrou… https://t.co/J42DaozZHd

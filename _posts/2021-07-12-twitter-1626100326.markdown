@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JustStocksToday 
-date: 2021-07-12 07:32:06 
-categories: twitter 
---- 
-RT @InvestorsLive: Cannacord comment $SPCE
-
-"While Branson promised a major announcement about bringing more people to space following his…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JesseJStackz 
-date: 2021-07-11 01:05:06 
-categories: twitter 
---- 
-RT @alphatrends: Understand Market Structure and Reduce Emotional Decisions https://t.co/GWaE6zj5vw

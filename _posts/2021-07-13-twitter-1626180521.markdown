@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ErdemTheMan 
-date: 2021-07-13 05:48:41 
-categories: twitter 
---- 
-@InvestorsLive There: https://t.co/i6XPz1lij9

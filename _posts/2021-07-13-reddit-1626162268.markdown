@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin price falls under $33K, but on-chain data hints at BTC accumulation 
-date: 2021-07-13 1626162268 
-categories: reddit 
---- 
-https://redd.it/ojasnf

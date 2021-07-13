@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Someone Created A Request-For-Reorg on Ethereum: This Allows An Entity To Inceltivize Re-orgs With Onchain Rewards For Miners To Perform The Re-Org. 
-date: 2021-07-11 1626028013 
-categories: reddit 
---- 
-https://redd.it/oi9s63

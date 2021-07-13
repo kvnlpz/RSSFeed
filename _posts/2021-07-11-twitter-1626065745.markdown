@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rawchartist 
-date: 2021-07-11 21:55:45 
-categories: twitter 
---- 
-RT @RayTL_: 😴 💤 🛌 https://t.co/e9gb8fE3Rg

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Question] Can anyone suggest an alternative to Trust Wallet with a built-in dApp browser? 
-date: 2021-07-12 1626091270 
-categories: reddit 
---- 
-https://redd.it/oiptgq

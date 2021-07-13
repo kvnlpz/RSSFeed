@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MacroStratChris 
-date: 2021-07-11 09:52:03 
-categories: twitter 
---- 
-@nope_its_lily "EM generally perform poorly when inflation expectations are higher.."
-
-EMs seem to be a leading ind… https://t.co/tdUJ2tprbi

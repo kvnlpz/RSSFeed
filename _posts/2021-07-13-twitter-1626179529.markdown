@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-13 05:32:09 
-categories: twitter 
---- 
-@ForThaPeople I love trash tickers, read https://t.co/QTYT7tQ5da and see why I love teaching too

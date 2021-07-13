@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AaronOfYarmouth 
-date: 2021-07-13 01:33:09 
-categories: twitter 
---- 
-@modern_rock The morning after! Excellent clean up effort. https://t.co/xtkRFEiUWr

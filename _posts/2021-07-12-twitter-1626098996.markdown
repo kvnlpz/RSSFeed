@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:09:56 
-categories: twitter 
---- 
-RT @timothysykes: Gooooooood morning! Remember to dream big, but also have patience and try, try again even if you face early losses/mistak…

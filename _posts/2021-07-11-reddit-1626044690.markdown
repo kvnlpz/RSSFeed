@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daily low 
-date: 2021-07-11 1626044690 
-categories: reddit 
---- 
-https://redd.it/oierlz

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Price parity Vs polkadot 
-date: 2021-07-10 1625978681 
-categories: reddit 
---- 
-https://redd.it/ohxzsb

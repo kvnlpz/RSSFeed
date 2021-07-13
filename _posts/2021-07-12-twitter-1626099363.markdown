@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:16:03 
-categories: twitter 
---- 
-RT @timothysykes: 2020 has been tough, but Santa Sykes still needs to deliver all the gifts to people who have been good so I chartered thi…

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-12 12:28:47 
-categories: twitter 
---- 
-@Coldie @bitski @jeffstaple @asimsart I psydo mentioned you without mentioning you just fyi.
-
-Practicing somewhat good opsec on my part ;)

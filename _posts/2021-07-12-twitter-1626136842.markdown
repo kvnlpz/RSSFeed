@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Flat_Coated 
-date: 2021-07-12 17:40:42 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/rYldfJ9Lre

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happens if i withdraw Bitcoin Directly into my Metamask wallet via the Ethereum mainnet through Binance? 
-date: 2021-07-13 1626201224 
-categories: reddit 
---- 
-https://redd.it/ojlt5x

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BFitzOChampions 
-date: 2021-07-13 04:54:56 
-categories: twitter 
---- 
-@muddywatersre @MattGoldstein26 @FlitterOnFraud @HindenburgRes You are doing so as well.

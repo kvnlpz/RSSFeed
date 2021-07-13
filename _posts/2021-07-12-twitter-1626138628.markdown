@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gregdsports 
-date: 2021-07-12 18:10:28 
-categories: twitter 
---- 
-RT @RayTL_: $DDD want to hear your thoughts on this chart in the comments below. 👇 https://t.co/wgTX617R1P

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @odunayov 
-date: 2021-07-13 11:01:13 
-categories: twitter 
---- 
-@RayTL_ Looks like support found at the gap https://t.co/sMjjwJPXSk

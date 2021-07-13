@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 10:56:39 
-categories: twitter 
---- 
-@FfGmoney @Lotus_Trading20 My exercise here was to demonstrate Bayes' rule and conditional probability. These numbe… https://t.co/EEAgPs8P8m

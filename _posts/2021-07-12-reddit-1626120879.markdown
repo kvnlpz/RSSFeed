@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yoroi: connection error 
-date: 2021-07-12 1626120879 
-categories: reddit 
---- 
-https://redd.it/oiuf5d

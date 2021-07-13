@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thoght21 
-date: 2021-07-12 12:35:22 
-categories: twitter 
---- 
-RT @InvestorsLive: $CLOV nice launch 🚀

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you don't know how to calculate how many Moons you have coming, here is how. 
-date: 2021-07-11 1626031850 
-categories: reddit 
---- 
-https://redd.it/oiaxuh

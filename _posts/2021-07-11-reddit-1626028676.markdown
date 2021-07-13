@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What type of tools do you guys use for iv, Greeks and the contract pricing data(charts) etc? Sorry if it’s been asked alot 
-date: 2021-07-11 1626028676 
-categories: reddit 
---- 
-https://redd.it/oi9zim

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelSeptari 
-date: 2021-07-12 20:51:43 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Just completed day 11 (in 4 days time) of your 30 day boot camp. I like how it's not l… https://t.co/fgYBOhXOX0

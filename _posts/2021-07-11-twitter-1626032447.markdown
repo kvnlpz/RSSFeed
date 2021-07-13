@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BolarPunia 
-date: 2021-07-11 12:40:47 
-categories: twitter 
---- 
-@RayTL_ @TLPrivate_ Please also share your daily routine and screens

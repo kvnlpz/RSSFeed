@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are there different types of bitcoin? KYC vs non-KYC bitcoin, tainted vs virgin bitcoin, self-custody vs paper bitcoin, etc.? 
-date: 2021-07-12 1626086368 
-categories: reddit 
---- 
-https://redd.it/oioox6

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cperruna 
-date: 2021-07-12 18:32:35 
-categories: twitter 
---- 
-@RayTL_ An old school name for me, circa 2012:
-
-https://t.co/yOO1trtVFR

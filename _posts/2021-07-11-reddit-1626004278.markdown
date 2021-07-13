@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin's upcoming weekly close 
-date: 2021-07-11 1626004278 
-categories: reddit 
---- 
-https://redd.it/oi1l77

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dubortoli 
-date: 2021-07-11 08:39:46 
-categories: twitter 
---- 
-@nope_its_lily 🇧🇷

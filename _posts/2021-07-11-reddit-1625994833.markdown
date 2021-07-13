@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CSP on ASTR 
-date: 2021-07-11 1625994833 
-categories: reddit 
---- 
-https://redd.it/oi18dj

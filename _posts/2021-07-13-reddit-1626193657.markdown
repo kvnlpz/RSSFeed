@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nano X & Yoroi Delegating 
-date: 2021-07-13 1626193657 
-categories: reddit 
---- 
-https://redd.it/ojj5y2

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xWave 
-date: 2021-07-12 08:35:16 
-categories: twitter 
---- 
-@nope_its_lily @goodalexander I prefer Dairy Quant

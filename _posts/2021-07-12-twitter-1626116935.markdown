@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 12:08:55 
-categories: twitter 
---- 
-$SPCE $40 test $2 more to go

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tony_avacobella 
-date: 2021-07-11 13:55:13 
-categories: twitter 
---- 
-@InvestorsLive @richardbranson Can’t wait to hear what the trading levels will be. #SundayScans!!

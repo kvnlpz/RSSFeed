@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-07-11 11:56:14 
-categories: twitter 
---- 
-@nope_its_lily Robert Cialdini has some fun research on how social media may influence our investing capabilities i… https://t.co/c23afyFIpP

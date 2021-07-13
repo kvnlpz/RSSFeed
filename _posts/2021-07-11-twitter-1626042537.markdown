@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TVoccola 
-date: 2021-07-11 15:28:57 
-categories: twitter 
---- 
-@thehonestcroock She Certainly is!!

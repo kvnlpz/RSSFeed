@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @5against3 
-date: 2021-07-12 11:57:30 
-categories: twitter 
---- 
-@InvestorsLive maybe the goblin gang have an idea

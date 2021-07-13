@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Mining Hashrate Shows Strong Rebound as BTC Price Looks to Solidify $34K 
-date: 2021-07-11 1626008962 
-categories: reddit 
---- 
-https://redd.it/oi4603

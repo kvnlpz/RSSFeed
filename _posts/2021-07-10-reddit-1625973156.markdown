@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum’s London Hard Fork: What You Need To Know and What to Expect! 
-date: 2021-07-10 1625973156 
-categories: reddit 
---- 
-https://redd.it/ohwq29

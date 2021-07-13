@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-12 18:24:25 
-categories: twitter 
---- 
-Lots of interesting takes. Feel free to chime in! 👍

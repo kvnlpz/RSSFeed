@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mr_dumitrescu 
-date: 2021-07-11 01:36:51 
-categories: twitter 
---- 
-@InvestorsLive I have the right idea and I see the range before to happen and I have my plan but I end up with poor executions

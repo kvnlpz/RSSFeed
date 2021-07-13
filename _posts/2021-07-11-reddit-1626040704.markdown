@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Downside Up 
-date: 2021-07-11 1626040704 
-categories: reddit 
---- 
-https://redd.it/oidid5

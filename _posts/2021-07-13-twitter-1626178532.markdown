@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @styvori 
-date: 2021-07-13 05:15:32 
-categories: twitter 
---- 
-@nope_its_lily Perfect canditate for @tetherino

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Asktimothysykes 
-date: 2021-07-12 14:07:22 
-categories: twitter 
---- 
-RT @timothysykes: Be suspicious when somebody else cares so much about whether you’re selling or not…or even tweeting about potentially sel…

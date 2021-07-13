@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5: If a whale can sell millions of dollars worth of crypto and crash the price, can they just buy it back immediately at the lower price causing it to go back up? 
-date: 2021-07-12 1626146146 
-categories: reddit 
---- 
-https://redd.it/oj715w

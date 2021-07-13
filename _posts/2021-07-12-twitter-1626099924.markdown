@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:25:24 
-categories: twitter 
---- 
-RT @timothysykes: Please congratulate recent college grad, https://t.co/occ8wKDW7U student &amp; @30DayBoot co-creator turned master trader @mo…

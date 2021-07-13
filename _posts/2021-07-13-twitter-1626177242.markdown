@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-07-13 04:54:02 
-categories: twitter 
---- 
-@BFitzOChampions @MattGoldstein26 @FlitterOnFraud @HindenburgRes You must’ve creeped out your babysitters.

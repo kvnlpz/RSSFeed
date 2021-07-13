@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pansareV 
-date: 2021-07-12 20:00:21 
-categories: twitter 
---- 
-@nope_its_lily Procrastination + last minute panic

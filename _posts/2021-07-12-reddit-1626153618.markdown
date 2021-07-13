@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: is there a way to get alerted/see when a stock trades at a specific volume per minute? 
-date: 2021-07-12 1626153618 
-categories: reddit 
---- 
-https://redd.it/oj8xe8

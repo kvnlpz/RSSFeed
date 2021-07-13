@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A question about margin (IBKR) 
-date: 2021-07-11 1626002973 
-categories: reddit 
---- 
-https://redd.it/oi2szc

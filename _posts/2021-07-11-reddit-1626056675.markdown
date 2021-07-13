@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My life 
-date: 2021-07-11 1626056675 
-categories: reddit 
---- 
-https://redd.it/oii218

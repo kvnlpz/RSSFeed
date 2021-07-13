@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Insurance protocols for crypto / running on blockchain 
-date: 2021-07-11 1626019860 
-categories: reddit 
---- 
-https://redd.it/oi79z7

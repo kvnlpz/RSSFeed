@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Despite banning bitcoin mining, China still has 150 bitcoin nodes enforcing consensus rules. Bitcoin doesn't care about borders. 
-date: 2021-07-13 1626192614 
-categories: reddit 
---- 
-https://redd.it/ojited

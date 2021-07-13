@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Reddit AI is just crushing it. 
-date: 2021-07-11 1626035988 
-categories: reddit 
---- 
-https://redd.it/oic6gc

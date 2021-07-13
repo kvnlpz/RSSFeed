@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:57:15 
-categories: twitter 
---- 
-RT @StocksToTrade: How's your Thursday morning going? Despite the $SPY bloodbath, there were some great opportunities on trades like $CARV…

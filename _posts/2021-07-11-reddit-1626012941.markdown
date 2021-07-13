@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Satoshi brought man the bitcoin, just as Prometheus brought man the fire. 
-date: 2021-07-11 1626012941 
-categories: reddit 
---- 
-https://redd.it/oi57ni

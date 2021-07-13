@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The completely synced Ethereum blockchain currently measures 862 GB, more than tripling in size in just a year. Blockchains must shrink in order to expand. 
-date: 2021-07-12 1626159125 
-categories: reddit 
---- 
-https://redd.it/oja55x

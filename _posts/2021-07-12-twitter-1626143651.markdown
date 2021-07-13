@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CompresedFold 
-date: 2021-07-12 19:34:11 
-categories: twitter 
---- 
-@OddStockTrader Thought you had tattoos for a minute

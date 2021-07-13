@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Brooklynstkshop 
-date: 2021-07-12 09:50:27 
-categories: twitter 
---- 
-@timothysykes https://t.co/66BJJyy8uD

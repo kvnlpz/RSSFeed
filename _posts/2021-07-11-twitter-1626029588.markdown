@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @secondorderpoly 
-date: 2021-07-11 11:53:08 
-categories: twitter 
---- 
-@RayTL_ Just different "values"!

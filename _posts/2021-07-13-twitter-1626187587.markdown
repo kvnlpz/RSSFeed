@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DeMattia73 
-date: 2021-07-13 07:46:27 
-categories: twitter 
---- 
-@InvestorsLive you have a gift.

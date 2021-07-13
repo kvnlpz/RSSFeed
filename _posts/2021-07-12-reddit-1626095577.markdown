@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proposal: Moon price feed 
-date: 2021-07-12 1626095577 
-categories: reddit 
---- 
-https://redd.it/oipgf8

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @smashapalooza16 
-date: 2021-07-12 21:34:53 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ Typical trading day from start to finish

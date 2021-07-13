@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Qtum and Travala Dream Weekend 
-date: 2021-07-12 1626102501 
-categories: reddit 
---- 
-https://redd.it/oit5ql

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Alternative non-custodial SEPA on-ramp & off-ramp for Binance 
-date: 2021-07-13 1626182076 
-categories: reddit 
---- 
-https://redd.it/ojfbuo

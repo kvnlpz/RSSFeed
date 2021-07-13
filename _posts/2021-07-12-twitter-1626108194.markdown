@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZimLim1 
-date: 2021-07-12 09:43:14 
-categories: twitter 
---- 
-RT @nope_its_lily: Gotta finally admit it since people are wondering. I’m actually Satoshi Nakamoto. I built Bitcoin at 13 when I was takin…

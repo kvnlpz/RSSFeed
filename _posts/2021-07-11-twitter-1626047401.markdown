@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaddyGameStop 
-date: 2021-07-11 16:50:01 
-categories: twitter 
---- 
-@nope_its_lily Still bullish on the memes?

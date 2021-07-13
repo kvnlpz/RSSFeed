@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Joseth332 
-date: 2021-07-11 16:37:38 
-categories: twitter 
---- 
-RT @nope_its_lily: Liquidity go brrrr https://t.co/zd4NyUa1Pc

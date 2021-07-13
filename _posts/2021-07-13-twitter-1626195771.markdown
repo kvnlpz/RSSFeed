@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CasualtyWar 
-date: 2021-07-13 10:02:51 
-categories: twitter 
---- 
-RT @RayTL_: What's so special about $ZDGE? See bottom left. https://t.co/tDtp2hKWC2

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @triphd 
-date: 2021-07-12 21:09:33 
-categories: twitter 
---- 
-@nope_its_lily I have used iCloud for Calendar, Contacts, Notes, Media, Files, &amp; some e-mail servers synced across… https://t.co/YXdKizLBFf

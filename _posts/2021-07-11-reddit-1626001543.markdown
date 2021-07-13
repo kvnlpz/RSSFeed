@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can anyone please program/code something simple for me? 
-date: 2021-07-11 1626001543 
-categories: reddit 
---- 
-https://redd.it/oi2ims

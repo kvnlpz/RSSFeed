@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Somone sent me eth? I never shared my wallets 
-date: 2021-07-11 1626059654 
-categories: reddit 
---- 
-https://redd.it/oiiu2x

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kwkroeger 
-date: 2021-07-12 19:48:40 
-categories: twitter 
---- 
-@nope_its_lily Notion, you’d have to “build your own” productivity system with it, but once you have a flow/setup y… https://t.co/HyjLASIltM

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gravity Dex and Staked Atom 
-date: 2021-07-12 1626117251 
-categories: reddit 
---- 
-https://redd.it/oiy726

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bank account closures and Bitcoin 
-date: 2021-07-12 1626107661 
-categories: reddit 
---- 
-https://redd.it/oiuvlq

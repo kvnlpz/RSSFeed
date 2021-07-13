@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Trust Machine — Part1: Sybil Protection by Hans Moog 
-date: 2021-07-11 1626011197 
-categories: reddit 
---- 
-https://redd.it/oi4qik

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-12 09:46:06 
-categories: twitter 
---- 
-Also @bitski @jeffstaple @Coldie @asimsart

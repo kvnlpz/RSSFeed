@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:16:31 
-categories: twitter 
---- 
-RT @timothysykes: Most people slow down during the holidays, but this is busy season for Santa Sykes so I'm giving a live trading webinar f…

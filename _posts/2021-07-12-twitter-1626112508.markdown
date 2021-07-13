@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nebwolrab 
-date: 2021-07-12 10:55:08 
-categories: twitter 
---- 
-@OddStockTrader Your story gives me hope!

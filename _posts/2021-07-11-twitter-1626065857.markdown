@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @impliedcaracal 
-date: 2021-07-11 21:57:37 
-categories: twitter 
---- 
-@nope_its_lily @SqueezeMetrics @alvinjamur @whynot54914243 even then, postgres can keep up really well if your dbs set up correctly

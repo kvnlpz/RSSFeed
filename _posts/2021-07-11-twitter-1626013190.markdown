@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @firstname_jesse 
-date: 2021-07-11 07:19:50 
-categories: twitter 
---- 
-@InvestorsLive Inspiring

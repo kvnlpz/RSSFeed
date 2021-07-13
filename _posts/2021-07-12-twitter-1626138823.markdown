@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JeremyBalka 
-date: 2021-07-12 18:13:43 
-categories: twitter 
---- 
-@nope_its_lily Up/down only helps so much.  Let's take it to the next level.  In 48 hours, I will reply to this wit… https://t.co/RtMSsGpS31

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-11 15:00:15 
-categories: twitter 
---- 
-Narrow your focus 🎯 https://t.co/sNIa3DOI99

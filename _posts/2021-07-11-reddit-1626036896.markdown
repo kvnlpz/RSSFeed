@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sandwiched.wtf: Are you Losing money to MEV Traders? 
-date: 2021-07-11 1626036896 
-categories: reddit 
---- 
-https://redd.it/oi1qn0

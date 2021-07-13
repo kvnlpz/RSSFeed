@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NothingXplained 
-date: 2021-07-11 11:55:44 
-categories: twitter 
---- 
-@nope_its_lily Not what they say, how would you determine safety. What math would raise a red flag for you.

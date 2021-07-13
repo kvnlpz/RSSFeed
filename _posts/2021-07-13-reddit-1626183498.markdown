@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Satoshi-Era Bitcoin Wallet Activated, Containing $26 Million in BTC 
-date: 2021-07-13 1626183498 
-categories: reddit 
---- 
-https://redd.it/ojbd82

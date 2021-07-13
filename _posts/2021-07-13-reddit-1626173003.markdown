@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bank of England warns -(if only there was a decentralised way to safely store transactions) 
-date: 2021-07-13 1626173003 
-categories: reddit 
---- 
-https://redd.it/ojczqx

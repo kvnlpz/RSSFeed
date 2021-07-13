@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shntzl 
-date: 2021-07-11 06:15:24 
-categories: twitter 
---- 
-@nope_its_lily Also look at excess mortality, if you shutdown the hive, you can expect lots of bees to die

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheAaronBowley 
-date: 2021-07-12 19:48:05 
-categories: twitter 
---- 
-@nope_its_lily i use Asana, they just released the desktop version. i use it for to do list, note-taking/research,… https://t.co/Ls0OxR0L8R

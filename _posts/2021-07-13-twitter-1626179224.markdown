@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lefty26dude 
-date: 2021-07-13 05:27:04 
-categories: twitter 
---- 
-@InvestorsLive yikes

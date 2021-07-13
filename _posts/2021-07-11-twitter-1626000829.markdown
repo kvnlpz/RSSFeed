@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @damiendamien 
-date: 2021-07-11 03:53:49 
-categories: twitter 
---- 
-RT @nope_its_lily: This is 29% of cases! It looks really high, even though a vaccinated person is 10x less likely to get COVID. It's simple…

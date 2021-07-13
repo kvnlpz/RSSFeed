@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 18:52:00 
-categories: twitter 
---- 
-@longskew 40 ticks tho from globex open

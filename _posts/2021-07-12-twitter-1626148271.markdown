@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-12 20:51:11 
-categories: twitter 
---- 
-@dakprescot U think it is free to give so much personal financial data Including your SSN?

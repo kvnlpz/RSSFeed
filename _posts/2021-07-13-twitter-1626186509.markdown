@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SloantheImpaler 
-date: 2021-07-13 07:28:29 
-categories: twitter 
---- 
-RT @InvestorsLive: Unconfirmed: $OSAT changes name to $OSHIT

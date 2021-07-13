@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 09:11:32 
-categories: twitter 
---- 
-To my knowledge, his GEX - https://t.co/Nwgbdl8d6A - is a weighted representation of net gamma on all 500-so SPX co… https://t.co/VNGzstPL4A

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yoroi mobile and Ledger Nano X work seamlessly via bluetooth, no longer tied to a desktop. 
-date: 2021-07-12 1626087317 
-categories: reddit 
---- 
-https://redd.it/oiow0r

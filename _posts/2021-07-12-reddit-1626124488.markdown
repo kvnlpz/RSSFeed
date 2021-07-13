@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MLB’s Trey Mancini Using UREEQA and Chainlink to Launch NFTs for Cancer Research 
-date: 2021-07-12 1626124488 
-categories: reddit 
---- 
-https://redd.it/oj0m95

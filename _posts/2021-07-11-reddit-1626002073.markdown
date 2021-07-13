@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SingularityNet, Grace the Robot will be Launching next month, worth a look. 
-date: 2021-07-11 1626002073 
-categories: reddit 
---- 
-https://redd.it/oi2mgr

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OffTheRunTrades 
-date: 2021-07-12 12:08:45 
-categories: twitter 
---- 
-@nope_its_lily @vixologist someone accidentally peed on the fuse

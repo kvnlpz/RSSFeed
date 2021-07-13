@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:53:04 
-categories: twitter 
---- 
-RT @StocksToTrade: Hopefully you had a great 4th of July and got to have fun and get some rest! But now that you have a day off from the ma…

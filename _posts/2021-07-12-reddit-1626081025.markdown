@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MAAM – Monero Ask Anything Monday – July 12, 2021 
-date: 2021-07-12 1626081025 
-categories: reddit 
---- 
-https://redd.it/oinmap

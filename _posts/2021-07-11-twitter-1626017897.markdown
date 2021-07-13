@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Chiplis_ 
-date: 2021-07-11 08:38:17 
-categories: twitter 
---- 
-@nope_its_lily The jungle or the warehouses?

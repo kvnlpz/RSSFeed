@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GodEmporerOfMan 
-date: 2021-07-12 17:58:19 
-categories: twitter 
---- 
-@nope_its_lily Is that Turkish?

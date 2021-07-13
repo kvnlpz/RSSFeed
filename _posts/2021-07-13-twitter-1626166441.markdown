@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markosp 
-date: 2021-07-13 01:54:01 
-categories: twitter 
---- 
-@nope_its_lily It's rational though because the $1500 trade is positive EV (or so you think)

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @axelroark 
-date: 2021-07-13 09:36:29 
-categories: twitter 
---- 
-@nope_its_lily @TicTocTick I had about 6k shares and had a good day.

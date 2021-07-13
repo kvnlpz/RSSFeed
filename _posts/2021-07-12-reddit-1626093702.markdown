@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proposal: Whitelist DAPP Network (DAPP) w/ 500k Co-Investment and External IL Protection - LEVEL 1 (DRAFTING) - "Other EOS projects should be grabbing the bull by the horns too in order to bootstrap liquidity however they can" 
-date: 2021-07-12 1626093702 
-categories: reddit 
---- 
-https://redd.it/oiqgib

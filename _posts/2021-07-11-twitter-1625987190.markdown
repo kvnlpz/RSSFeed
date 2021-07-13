@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trigger_shy 
-date: 2021-07-11 00:06:30 
-categories: twitter 
---- 
-@nope_its_lily It’s just that when everyone’s vaccinated, all the people dying will be vaccinated.

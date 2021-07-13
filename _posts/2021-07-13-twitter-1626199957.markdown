@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SoccerMomTrades 
-date: 2021-07-13 11:12:37 
-categories: twitter 
---- 
-@nope_its_lily great trade! 💪

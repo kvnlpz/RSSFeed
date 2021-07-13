@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is bitcoin double spending? 
-date: 2021-07-12 1626074850 
-categories: reddit 
---- 
-https://redd.it/oimdz9

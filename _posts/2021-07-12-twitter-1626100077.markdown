@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:27:57 
-categories: twitter 
---- 
-RT @timothysykes: On the plus side of this crazy winter storm, more dogs like this are now able to indulge in some winter fun...I'm not a b…

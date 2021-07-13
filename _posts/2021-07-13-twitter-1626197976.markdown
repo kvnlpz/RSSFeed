@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 10:39:36 
-categories: twitter 
---- 
-Shoutout to the guy about an hour ago who was like 'sorry you can't time trades properly'

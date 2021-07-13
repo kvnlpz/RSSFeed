@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Alessandro from Berry Pool, yeah SpaceBudz dude, has released his wallet client that is ready to give Metamask a good run for its money(okay a bit dramatic but you get the point lol). This changes how we interact with our ADA and Native Assets, especially from a user experience! 
-date: 2021-07-11 1626024625 
-categories: reddit 
---- 
-https://redd.it/ohu40f

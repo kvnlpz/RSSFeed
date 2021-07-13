@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kobigurk 
-date: 2021-07-12 23:03:55 
-categories: twitter 
---- 
-@nope_its_lily I thought I was going to be ok with it

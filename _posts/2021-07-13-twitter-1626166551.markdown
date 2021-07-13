@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lazrpng 
-date: 2021-07-13 01:55:51 
-categories: twitter 
---- 
-@nope_its_lily This is literally how transformers work in nlp

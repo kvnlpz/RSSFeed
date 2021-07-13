@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Brownsfan414 
-date: 2021-07-13 03:59:51 
-categories: twitter 
---- 
-@OddStockTrader $XELA

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thebiggieching 
-date: 2021-07-13 04:17:51 
-categories: twitter 
---- 
-@nope_its_lily You're bold.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrZachMortis 
-date: 2021-07-10 22:17:04 
-categories: twitter 
---- 
-@nope_its_lily Corn

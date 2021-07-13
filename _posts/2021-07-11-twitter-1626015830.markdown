@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-11 08:03:50 
-categories: twitter 
---- 
-@DGTrading101 @MindMakesMatter Are nightly raves happening in that car? Asking for a friend.

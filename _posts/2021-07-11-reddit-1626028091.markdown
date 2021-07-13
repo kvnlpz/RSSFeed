@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Interesting fact about Ada 
-date: 2021-07-11 1626028091 
-categories: reddit 
---- 
-https://redd.it/oi9t19

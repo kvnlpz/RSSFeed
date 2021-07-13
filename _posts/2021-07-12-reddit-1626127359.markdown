@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin: Lightning Will Change How You Think About BTC 
-date: 2021-07-12 1626127359 
-categories: reddit 
---- 
-https://redd.it/oj1kys

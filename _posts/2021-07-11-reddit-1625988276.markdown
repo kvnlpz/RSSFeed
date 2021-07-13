@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How is it better keeping my Bitcoin in a software wallet on my phone as opposed to just keeping it in a large exchange like Kraken? 
-date: 2021-07-11 1625988276 
-categories: reddit 
---- 
-https://redd.it/oi005j

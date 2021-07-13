@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:13:42 
-categories: twitter 
---- 
-RT @timothysykes: HAPPY THANKSGIVING! Today, we usually spend time with our loved ones &amp;&amp; give thanks, but 2020 has been tough with many fa…

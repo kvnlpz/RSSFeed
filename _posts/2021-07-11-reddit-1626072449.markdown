@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My bank is blocking transfers to exchange 
-date: 2021-07-11 1626072449 
-categories: reddit 
---- 
-https://redd.it/oilvgr

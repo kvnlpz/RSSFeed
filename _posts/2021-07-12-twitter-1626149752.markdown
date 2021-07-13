@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yyc_dan 
-date: 2021-07-12 21:15:52 
-categories: twitter 
---- 
-@alphatrends Only pay shipping and handling! https://t.co/8SnFXRSiR9

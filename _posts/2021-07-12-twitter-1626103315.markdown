@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xyz_nihilo 
-date: 2021-07-12 08:21:55 
-categories: twitter 
---- 
-RT @nope_its_lily: The best way to create a successful model is keep taking higher and higher order differences until you get the R^2 you n…

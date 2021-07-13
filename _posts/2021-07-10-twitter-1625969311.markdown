@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FrankSki11 
-date: 2021-07-10 19:08:31 
-categories: twitter 
---- 
-@InvestorsLive Is there a specific ticker that is always good to day trade?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @davidbelle_ 
-date: 2021-07-12 07:54:56 
-categories: twitter 
---- 
-@nope_its_lily @pwnwtfbbq @ConwayYen This nerd fight is amazing and I'm learning a lot.

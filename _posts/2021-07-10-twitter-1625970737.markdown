@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaveTrader88 
-date: 2021-07-10 19:32:17 
-categories: twitter 
---- 
-@InvestorsLive When scanning news for potential stock picks what do you look for and what news sites/sources do you use most?

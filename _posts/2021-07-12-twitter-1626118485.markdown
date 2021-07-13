@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-12 12:34:45 
-categories: twitter 
---- 
-@seattlehikertoo Xcaret Mexico

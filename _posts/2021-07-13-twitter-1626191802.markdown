@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @milotrader1 
-date: 2021-07-13 08:56:42 
-categories: twitter 
---- 
-@InvestorsLive if you don't know what blin means in russian please look it up

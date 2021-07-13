@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @great_dix 
-date: 2021-07-12 20:49:33 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade https://t.co/qPkDBi9n4I

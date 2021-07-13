@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are the odds someone guesses your seed phrase? It’s practically impossible! Here is why. 
-date: 2021-07-13 1626177014 
-categories: reddit 
---- 
-https://redd.it/ojdxpo

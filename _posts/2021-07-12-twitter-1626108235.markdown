@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rusoyablo 
-date: 2021-07-12 09:43:55 
-categories: twitter 
---- 
-@InvestorsLive Filled the gap.

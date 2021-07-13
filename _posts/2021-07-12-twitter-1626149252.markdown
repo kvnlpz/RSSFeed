@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @acityinohio 
-date: 2021-07-12 21:07:32 
-categories: twitter 
---- 
-@nope_its_lily @tarunchitra post-quantum privacy protocol: kill everyone so not a single observer remains to derive… https://t.co/tRK8zy4u6N

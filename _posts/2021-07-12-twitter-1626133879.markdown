@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mobile_mm 
-date: 2021-07-12 16:51:19 
-categories: twitter 
---- 
-@nope_its_lily I didn't realize the Journal of Scientific Exploration was affiliated with The Onion. Who knew?

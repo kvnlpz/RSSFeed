@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HartfordLabs 
-date: 2021-07-12 06:17:49 
-categories: twitter 
---- 
-@nope_its_lily Hi stranger.. you should know what Twitter Algo thinks you’re talking about.. Also maybe watch Disne… https://t.co/2vXKtq0GNt

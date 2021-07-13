@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rekt dark web DeFi journalism, a good source to learn about the DeFi exploits and problems 
-date: 2021-07-13 1626181086 
-categories: reddit 
---- 
-https://redd.it/ojf14e

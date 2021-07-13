@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @urhofinland 
-date: 2021-07-13 09:33:45 
-categories: twitter 
---- 
-@nope_its_lily GTD /w Todoist

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @batman2be 
-date: 2021-07-12 07:15:13 
-categories: twitter 
---- 
-@nope_its_lily Doubtful since it was Ryan Fugger

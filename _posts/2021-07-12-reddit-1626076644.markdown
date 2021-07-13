@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone have a ELI5 for Etherium 2.0? 
-date: 2021-07-12 1626076644 
-categories: reddit 
---- 
-https://redd.it/oimqrq

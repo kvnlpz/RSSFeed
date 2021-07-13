@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-13 08:09:30 
-categories: twitter 
---- 
-Another day another dozen names running for no reason. Why not lol.

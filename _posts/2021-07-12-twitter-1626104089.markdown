@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @A2715118807 
-date: 2021-07-12 08:34:49 
-categories: twitter 
---- 
-@RayTL_ https://t.co/oaMrCRYNIO

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which LN wallet is good to keep sat which can be restored in other LN wallets. 
-date: 2021-07-11 1626016114 
-categories: reddit 
---- 
-https://redd.it/oi657t

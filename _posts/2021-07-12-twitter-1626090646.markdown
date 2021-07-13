@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @__super__trade 
-date: 2021-07-12 04:50:46 
-categories: twitter 
---- 
-RT @super_trades: @MarketCurrents $SFET also has ransomware protection product in there ..nice news imo

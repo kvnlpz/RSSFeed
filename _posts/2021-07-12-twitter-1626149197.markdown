@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-12 21:06:37 
-categories: twitter 
---- 
-@jfahmy Agreed in principle, but seldom they all lineup.

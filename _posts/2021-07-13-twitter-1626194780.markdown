@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-07-13 09:46:20 
-categories: twitter 
---- 
-RT @InvestorsLive: $CRTD cov'd a bit too soon I'd say. https://t.co/NocL2irKTO

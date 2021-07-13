@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeKimel 
-date: 2021-07-13 06:14:14 
-categories: twitter 
---- 
-@nope_its_lily These days I build ML tools that do fancy statistics.  I don't see an issue with what you've stated,… https://t.co/TdhefZAQQ8

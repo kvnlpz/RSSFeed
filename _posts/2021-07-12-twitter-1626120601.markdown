@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-12 13:10:01 
-categories: twitter 
---- 
-@noreenahertz This will never happen with current laws in place.

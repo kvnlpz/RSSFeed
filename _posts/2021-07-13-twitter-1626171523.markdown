@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Artyominworld 
-date: 2021-07-13 03:18:43 
-categories: twitter 
---- 
-@nope_its_lily You made JP day.

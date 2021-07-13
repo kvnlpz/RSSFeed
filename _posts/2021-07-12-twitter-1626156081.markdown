@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cauchyfriend 
-date: 2021-07-12 23:01:21 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/2dvx5stQq4

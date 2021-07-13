@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:25:00 
-categories: twitter 
---- 
-RT @timothysykes: It's TRULY my honor to donate 100% of my trading profits to charity, my weekly profits of $82k will fund 4 new schools wi…

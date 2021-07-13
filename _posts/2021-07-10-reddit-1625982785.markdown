@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I got -51 down votes for commenting about cryptocurrency in r/programming 
-date: 2021-07-10 1625982785 
-categories: reddit 
---- 
-https://redd.it/ohywa6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just a few quick comparisons of daily transaction counts and market caps for some smart contract platforms. 
-date: 2021-07-12 1626135234 
-categories: reddit 
---- 
-https://redd.it/oj40hn

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 12:40:48 
-categories: twitter 
---- 
-👀 what a come back on the big swing today

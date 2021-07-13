@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made stuff for dummies (including me) 
-date: 2021-07-12 1626076920 
-categories: reddit 
---- 
-https://redd.it/oimsx8

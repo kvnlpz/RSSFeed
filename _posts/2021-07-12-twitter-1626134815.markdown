@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @traderwannabeTX 
-date: 2021-07-12 17:06:55 
-categories: twitter 
---- 
-@InvestorsLive Professional execution right there!

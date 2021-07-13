@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PaulsShadow 
-date: 2021-07-13 12:07:56 
-categories: twitter 
---- 
-@nope_its_lily Yeah, backratios are pretty nifty on hi IV stox.

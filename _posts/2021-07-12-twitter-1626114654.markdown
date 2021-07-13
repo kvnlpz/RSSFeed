@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RamrodTrades 
-date: 2021-07-12 11:30:54 
-categories: twitter 
---- 
-@timothysykes Got in a few bootcamp lessons over the weekend and carrying over some live market studying into this… https://t.co/ubej0Ql24Q

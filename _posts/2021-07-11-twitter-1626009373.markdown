@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shntzl 
-date: 2021-07-11 06:16:13 
-categories: twitter 
---- 
-@nope_its_lily and the spike the accelaration in excess mortality coincide with lockdowns

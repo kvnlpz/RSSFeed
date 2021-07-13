@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 20:49:11 
-categories: twitter 
---- 
-@FluxTheology It's complicated. Lockdowns are indeed effective, actually, and worked reasonably well in Europe. It… https://t.co/j3GORokKEA

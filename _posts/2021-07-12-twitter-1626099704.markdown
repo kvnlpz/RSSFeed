@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:21:44 
-categories: twitter 
---- 
-RT @timothysykes: LOL, my newest video lesson at https://t.co/0HhPp6CC1v is really connecting with people, here's a graphic someone made me…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:20:06 
-categories: twitter 
---- 
-RT @timothysykes: I'm trying to get outside more for my New Year's Resolution, but I'm trying to keep up w/this market so I brought my lapt…

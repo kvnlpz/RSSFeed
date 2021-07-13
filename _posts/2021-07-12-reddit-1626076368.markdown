@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin grew by $1000 today 
-date: 2021-07-12 1626076368 
-categories: reddit 
---- 
-https://redd.it/oimous

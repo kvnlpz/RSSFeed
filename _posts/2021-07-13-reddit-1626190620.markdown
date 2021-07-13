@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let’s start an ETF, ticker: $WSB 
-date: 2021-07-13 1626190620 
-categories: reddit 
---- 
-https://redd.it/oji4o6

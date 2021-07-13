@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 20:41:35 
-categories: twitter 
---- 
-I'm staunchly an advocate for public health measures like vaccinations, but personal freedoms and liberty are paramount here.

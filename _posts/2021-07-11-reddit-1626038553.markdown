@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I did a test run depositing $35 of ETH from crypto.com to Exodus wallet. 
-date: 2021-07-11 1626038553 
-categories: reddit 
---- 
-https://redd.it/oicxd7

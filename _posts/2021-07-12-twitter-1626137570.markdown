@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tiagofedz 
-date: 2021-07-12 17:52:50 
-categories: twitter 
---- 
-@InvestorsLive Send it

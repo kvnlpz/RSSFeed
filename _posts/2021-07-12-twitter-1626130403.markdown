@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stef__Gee 
-date: 2021-07-12 15:53:23 
-categories: twitter 
---- 
-@tumtonks Cheating is the best way

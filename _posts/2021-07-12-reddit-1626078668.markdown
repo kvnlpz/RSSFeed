@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Chainlink verification of data trustless 
-date: 2021-07-12 1626078668 
-categories: reddit 
---- 
-https://redd.it/oin5m6

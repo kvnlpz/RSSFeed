@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Merlin Lab rug pull? 
-date: 2021-07-13 1626168447 
-categories: reddit 
---- 
-https://redd.it/ojc0oh

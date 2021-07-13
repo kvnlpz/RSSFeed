@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:47:27 
-categories: twitter 
---- 
-RT @StocksToTrade: Perseverance is the hard work you've done after you get tired of doing all the hard work you already did while failing

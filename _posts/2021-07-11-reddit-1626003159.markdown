@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Use custom wallet addresses (adam.wallet) to avoid confusing public keys 
-date: 2021-07-11 1626003159 
-categories: reddit 
---- 
-https://redd.it/oi2ug3

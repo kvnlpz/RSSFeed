@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit with the hard hitting questions 
-date: 2021-07-11 1626019642 
-categories: reddit 
---- 
-https://redd.it/oi77kh

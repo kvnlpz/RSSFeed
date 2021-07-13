@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are seed phrases really that safe? (Not FUD, I just have questions) 
-date: 2021-07-12 1626152095 
-categories: reddit 
---- 
-https://redd.it/oj8k6e

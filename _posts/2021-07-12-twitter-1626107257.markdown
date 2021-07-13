@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZigtaKidane 
-date: 2021-07-12 09:27:37 
-categories: twitter 
---- 
-@timothysykes yes ,got it 0.1206

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sol_saturn 
-date: 2021-07-12 16:34:34 
-categories: twitter 
---- 
-RT @nope_its_lily: People: Science isn't fun
-Science:
-https://t.co/zBelP8opAg https://t.co/BHCShmL263

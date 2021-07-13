@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cliffy234 
-date: 2021-07-13 05:31:29 
-categories: twitter 
---- 
-@timothysykes All thanks to you!

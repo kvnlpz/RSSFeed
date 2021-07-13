@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Samson01945948 
-date: 2021-07-11 15:04:57 
-categories: twitter 
---- 
-@nope_its_lily They had their 5 minutes of glory

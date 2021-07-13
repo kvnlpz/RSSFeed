@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Use your GPU and CPU power to join a team on the folding@home project. Team 1061893 
-date: 2021-07-11 1626051004 
-categories: reddit 
---- 
-https://redd.it/oigjee

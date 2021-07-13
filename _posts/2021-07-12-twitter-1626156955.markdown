@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SimmonsMeyer 
-date: 2021-07-12 23:15:55 
-categories: twitter 
---- 
-@timothysykes The only difference between you and you betting against a company is that you are not the CEO. These… https://t.co/IzVuXCzjXH

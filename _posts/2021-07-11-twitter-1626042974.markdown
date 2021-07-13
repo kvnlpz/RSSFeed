@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @desderoberto 
-date: 2021-07-11 15:36:14 
-categories: twitter 
---- 
-RT @nope_its_lily: everyone remembered England still exists today

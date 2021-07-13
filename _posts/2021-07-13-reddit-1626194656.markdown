@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: youves is now live on Florencenet - test minting and saving uUSD, staking YOU 
-date: 2021-07-13 1626194656 
-categories: reddit 
---- 
-https://redd.it/ojji52

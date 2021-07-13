@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vorcho1 
-date: 2021-07-12 20:16:23 
-categories: twitter 
---- 
-@nope_its_lily Try reading phone reviews to buy a new one.

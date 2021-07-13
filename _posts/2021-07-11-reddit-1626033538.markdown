@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezgate Website Down 
-date: 2021-07-11 1626033538 
-categories: reddit 
---- 
-https://redd.it/oib5y4

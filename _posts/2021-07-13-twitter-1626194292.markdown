@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 09:38:12 
-categories: twitter 
---- 
-@axelroark @TicTocTick My point in my original post were there were better ways to express a long vol position as w… https://t.co/B5P7muNhsb

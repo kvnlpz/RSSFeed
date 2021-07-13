@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:23:49 
-categories: twitter 
---- 
-RT @timothysykes: Thanks to a special https://t.co/occ8wKmlgm student who reminded me this coming July will be the 10-year anniversary of t…

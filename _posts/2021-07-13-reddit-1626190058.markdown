@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone ELI5 about my Hertz holding? 
-date: 2021-07-13 1626190058 
-categories: reddit 
---- 
-https://redd.it/ojhxnc

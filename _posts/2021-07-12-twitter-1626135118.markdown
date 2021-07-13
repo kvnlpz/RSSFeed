@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EnviroDevlopmt 
-date: 2021-07-12 17:11:58 
-categories: twitter 
---- 
-@nope_its_lily More fun studies!
-
-Parachute use to prevent death: randomized controlled trial… https://t.co/mNQPEfYElJ

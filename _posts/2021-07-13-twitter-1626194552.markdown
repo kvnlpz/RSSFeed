@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConvexityHunter 
-date: 2021-07-13 09:42:32 
-categories: twitter 
---- 
-@nope_its_lily @SqueezeMetrics Great mopex write-up 👍
-Have you found there to be a specific day the index is more p… https://t.co/n8JeKBMuTz

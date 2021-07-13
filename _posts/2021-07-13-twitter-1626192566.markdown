@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @the_daylight_co 
-date: 2021-07-13 09:09:26 
-categories: twitter 
---- 
-@nope_its_lily @CryptoCred @PepeXBT I’m gonna beat you all next time

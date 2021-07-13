@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many dead Bitcoin do we think there are? 
-date: 2021-07-11 1626036201 
-categories: reddit 
---- 
-https://redd.it/oic8sx

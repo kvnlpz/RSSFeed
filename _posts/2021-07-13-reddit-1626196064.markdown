@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which token migrated to another chain (from or to ETH) in the last few months? 
-date: 2021-07-13 1626196064 
-categories: reddit 
---- 
-https://redd.it/ojjzwf

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Investomatic 
-date: 2021-07-12 05:22:36 
-categories: twitter 
---- 
-@TraderTexMex Some tickers never change! Lol

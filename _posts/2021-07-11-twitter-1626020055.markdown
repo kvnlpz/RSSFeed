@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-11 09:14:15 
-categories: twitter 
---- 
-@kycefn @RealSimpleAriel I should make this comment daily to save as many newbies as I can, it applies to 99% of th… https://t.co/xu6i618tpj

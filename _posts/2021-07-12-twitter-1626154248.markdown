@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @neelgujral 
-date: 2021-07-12 22:30:48 
-categories: twitter 
---- 
-RT @nope_its_lily: I like how I will spend 20 minutes debating with myself do I really need to buy a $15 notebook and looking at each one's…

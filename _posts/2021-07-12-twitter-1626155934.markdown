@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeremycarter42 
-date: 2021-07-12 22:58:54 
-categories: twitter 
---- 
-@nope_its_lily @tendie_swap

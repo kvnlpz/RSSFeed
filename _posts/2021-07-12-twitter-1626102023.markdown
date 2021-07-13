@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pwnwtfbbq 
-date: 2021-07-12 08:00:23 
-categories: twitter 
---- 
-@nope_its_lily @ConwayYen Obviously, you have not designed any real word technology and followed it with subsequent data analysis.

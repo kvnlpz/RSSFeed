@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-11 04:50:58 
-categories: twitter 
---- 
-RT @loymaix_5: @timothysykes best talk I ever seen...no one explain the self-sufficiency like that... https://t.co/TZq5MWU2VN

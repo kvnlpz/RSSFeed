@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Power Ledger migrates from Ethereum blockchain to Solana despite upgrades 
-date: 2021-07-12 1626109534 
-categories: reddit 
---- 
-https://redd.it/oivjm5

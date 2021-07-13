@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just a post about taking my mom to dinner 
-date: 2021-07-12 1626128726 
-categories: reddit 
---- 
-https://redd.it/oj21ep

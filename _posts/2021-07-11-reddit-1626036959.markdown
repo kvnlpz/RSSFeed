@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about margin maintenance with naked puts 
-date: 2021-07-11 1626036959 
-categories: reddit 
---- 
-https://redd.it/oicgr8

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A simple heuristic for when its the best time to buy Bitcoin: the 80% devaluation rule 
-date: 2021-07-11 1625990804 
-categories: reddit 
---- 
-https://redd.it/oi0hm1

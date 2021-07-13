@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: View all of Crypto holdings in one place 
-date: 2021-07-11 1626056163 
-categories: reddit 
---- 
-https://redd.it/oihx4d

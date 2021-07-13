@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @m_j_rossman 
-date: 2021-07-11 00:58:30 
-categories: twitter 
---- 
-@nope_its_lily 🤷‍♂️ if you feel that's the efficient frontier, then good choice?

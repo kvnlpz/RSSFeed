@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Aurora the solution to all the problems of Ethereum. 
-date: 2021-07-13 1626191056 
-categories: reddit 
---- 
-https://redd.it/oji9wx

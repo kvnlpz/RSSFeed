@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderTexMex 
-date: 2021-07-12 06:04:49 
-categories: twitter 
---- 
-$ATEC big guide up here $55.8m-56.4m vs $45.6m estimate for Q2 revenues

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin - The Beautiful South 
-date: 2021-07-13 1626177531 
-categories: reddit 
---- 
-https://redd.it/oje2dc

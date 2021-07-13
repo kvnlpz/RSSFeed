@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Issue Connecting Yoroi to Ledger Nano S 
-date: 2021-07-12 1626155097 
-categories: reddit 
---- 
-https://redd.it/oj9967

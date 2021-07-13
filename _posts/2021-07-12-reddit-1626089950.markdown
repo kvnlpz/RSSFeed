@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If ETH was as cheap as ADA, its price would be about $350 
-date: 2021-07-12 1626089950 
-categories: reddit 
---- 
-https://redd.it/oiphrl

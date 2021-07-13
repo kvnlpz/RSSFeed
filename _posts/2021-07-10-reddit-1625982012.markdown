@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wha is the DCF (discounted cash flow) equivalent theory for how cryptos are valued? 
-date: 2021-07-10 1625982012 
-categories: reddit 
---- 
-https://redd.it/ohyqg3

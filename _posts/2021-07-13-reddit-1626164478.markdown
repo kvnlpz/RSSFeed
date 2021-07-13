@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I would like to donate Bitcoin using Lightening to people in El Salvadore. Is there an iOS wallet I can download, send $50 to and then send that on to others with lightning without a massive amount of KYC and that works in different countries? 
-date: 2021-07-13 1626164478 
-categories: reddit 
---- 
-https://redd.it/ojb8om

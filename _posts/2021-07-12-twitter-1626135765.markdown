@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheBigFlabowski 
-date: 2021-07-12 17:22:45 
-categories: twitter 
---- 
-@InvestorsLive The only thing that can stop it is TWO free popcorns with purchase of shares

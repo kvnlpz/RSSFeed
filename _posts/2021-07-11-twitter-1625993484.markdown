@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kosta5147 
-date: 2021-07-11 01:51:24 
-categories: twitter 
---- 
-@nope_its_lily Мilitary escalation over Taiwan

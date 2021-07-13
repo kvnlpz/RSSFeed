@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AI is the future 
-date: 2021-07-12 1626113812 
-categories: reddit 
---- 
-https://redd.it/oix0qx

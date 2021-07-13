@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @crossdefault 
-date: 2021-07-12 19:45:33 
-categories: twitter 
---- 
-@nope_its_lily Notepad++

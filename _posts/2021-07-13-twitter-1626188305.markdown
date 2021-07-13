@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mikegfel 
-date: 2021-07-13 07:58:25 
-categories: twitter 
---- 
-@InvestorsLive Thanks for scaring me out!

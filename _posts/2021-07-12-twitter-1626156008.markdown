@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TexasTylerD 
-date: 2021-07-12 23:00:08 
-categories: twitter 
---- 
-@nope_its_lily Turning my phone off entirely has this far yielded the best bang for my buck

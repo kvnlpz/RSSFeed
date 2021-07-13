@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Asktimothysykes 
-date: 2021-07-12 14:13:35 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/4cWm7WKAZC Such an amazing call here by https://t.co/9qqyKfKepD which is truly revolutionary

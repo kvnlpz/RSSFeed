@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sobbmx 
-date: 2021-07-11 09:28:49 
-categories: twitter 
---- 
-@timothysykes Your constructive criticism will save many thousand of dollars and lots of time if they just listen!

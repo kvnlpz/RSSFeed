@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best platform for paper trading futures in realistic environment? 
-date: 2021-07-12 1626135380 
-categories: reddit 
---- 
-https://redd.it/oj4216

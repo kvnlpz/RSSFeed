@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AGammoudy 
-date: 2021-07-12 21:59:15 
-categories: twitter 
---- 
-@nope_its_lily Pen and paper

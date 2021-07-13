@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-12 19:00:52 
-categories: twitter 
---- 
-@kunal00 Lmao!

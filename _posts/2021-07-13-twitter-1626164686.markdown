@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @credit_lost 
-date: 2021-07-13 01:24:46 
-categories: twitter 
---- 
-@RayTL_ https://t.co/v6IpZ3QIBX

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaycee393 
-date: 2021-07-12 20:30:36 
-categories: twitter 
---- 
-@nope_its_lily Trello. Also use Notepad :)

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 09:15:09 
-categories: twitter 
---- 
-At least from the backtesting I did in March (and I guess we've seen it live since then work out fairly well), max… https://t.co/KRGmXJt7IE

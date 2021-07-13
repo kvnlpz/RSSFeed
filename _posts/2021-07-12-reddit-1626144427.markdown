@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Those that scale out of trades, what is your scaling out exit strategy? 
-date: 2021-07-12 1626144427 
-categories: reddit 
---- 
-https://redd.it/oj6kee

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 07:33:20 
-categories: twitter 
---- 
-$CCIV 
-
-"The entire 24-car field uses the same battery pack, which was designed and manufactured by Lucid Motors th… https://t.co/VvDiNxDeaV

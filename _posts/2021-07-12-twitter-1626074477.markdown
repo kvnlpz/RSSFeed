@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @copenomics 
-date: 2021-07-12 00:21:17 
-categories: twitter 
---- 
-@nope_its_lily You either believe what I believe, or you're wrong. Simple, really.

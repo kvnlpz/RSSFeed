@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RagingBitcoin 
-date: 2021-07-12 00:29:34 
-categories: twitter 
---- 
-@nope_its_lily i read their title as: “transparency is bad for democracy” 
-
-yeha. ok.

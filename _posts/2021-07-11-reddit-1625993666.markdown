@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Public API Fosters Innovation On Tezos 
-date: 2021-07-11 1625993666 
-categories: reddit 
---- 
-https://redd.it/oi10dj

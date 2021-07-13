@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-11 06:33:25 
-categories: twitter 
---- 
-RT @loymaix_5: @timothysykes best talk I ever seen...no one explain the self-sufficiency like that... https://t.co/TZq5MWU2VN

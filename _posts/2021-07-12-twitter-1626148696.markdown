@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kwonseo 
-date: 2021-07-12 20:58:16 
-categories: twitter 
---- 
-@nope_its_lily If you knew that the notebook might be gone in 30 seconds, you won’t be debating for 15 minutes.

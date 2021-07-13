@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RyanFis12489991 
-date: 2021-07-11 19:38:09 
-categories: twitter 
---- 
-@super_trades Terrible night. Figure it out!

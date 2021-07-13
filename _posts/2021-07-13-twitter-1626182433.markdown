@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Machine__Trader 
-date: 2021-07-13 06:20:33 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade https://t.co/Z8ckAS4vMI

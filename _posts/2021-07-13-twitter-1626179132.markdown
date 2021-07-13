@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-13 05:25:32 
-categories: twitter 
---- 
-$OSAT feels like the type everyone thinks micro micro micro float and then left scratching heads as to why it closed as terrible as it did.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cannot claim coins 
-date: 2021-07-11 1626028279 
-categories: reddit 
---- 
-https://redd.it/oi7og0

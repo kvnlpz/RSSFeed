@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ericnemeth23 
-date: 2021-07-12 20:40:28 
-categories: twitter 
---- 
-@nope_its_lily This is the way

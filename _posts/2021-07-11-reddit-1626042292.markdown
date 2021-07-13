@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Delegated tezos but never received rewards. Help. 
-date: 2021-07-11 1626042292 
-categories: reddit 
---- 
-https://redd.it/oie0wl

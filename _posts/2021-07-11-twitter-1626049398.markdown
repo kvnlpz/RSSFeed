@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradeCharity 
-date: 2021-07-11 17:23:18 
-categories: twitter 
---- 
-RT @timothysykes: NOBODY in the stock market is as smart as they want others to believe, the smartest ones are the ones who know they know…

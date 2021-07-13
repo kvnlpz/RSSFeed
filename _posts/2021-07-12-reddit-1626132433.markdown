@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ether Stake 
-date: 2021-07-12 1626132433 
-categories: reddit 
---- 
-https://redd.it/oj36wt

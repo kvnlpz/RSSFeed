@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndersChiTown 
-date: 2021-07-11 18:55:41 
-categories: twitter 
---- 
-@nope_its_lily From a book I’m reading. Know that feeling. https://t.co/7qL5KfmIV5

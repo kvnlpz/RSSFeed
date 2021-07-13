@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 16:32:20 
-categories: twitter 
---- 
-People: Science isn't fun
-Science:
-https://t.co/zBelP8opAg https://t.co/BHCShmL263

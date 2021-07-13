@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I wrote a 92 pages Guide on Cardano (in Portuguese). I am writing this just to welcome anyone who speaks Portuguese to take it and translate to English or any other language and distribute it in whatever way you want. 
-date: 2021-07-12 1626152918 
-categories: reddit 
---- 
-https://redd.it/oj8rnf

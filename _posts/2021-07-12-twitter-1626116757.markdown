@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OregamiRider 
-date: 2021-07-12 12:05:57 
-categories: twitter 
---- 
-@super_trades @tonydimatteo Hi Paul. I read this as “committed to game plan” discussed in presentation, not sure I… https://t.co/q5UlGKCbQm

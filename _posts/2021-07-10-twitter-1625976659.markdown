@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stevebballin 
-date: 2021-07-10 21:10:59 
-categories: twitter 
---- 
-@timothysykes Why are you yelling at us.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market Execution Vs Limit Orders | Which Trader Are You? 
-date: 2021-07-13 1626178921 
-categories: reddit 
---- 
-https://redd.it/ojefs2

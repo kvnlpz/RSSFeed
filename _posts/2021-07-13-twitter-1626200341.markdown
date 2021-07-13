@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaeiJohn 
-date: 2021-07-13 11:19:01 
-categories: twitter 
---- 
-@nope_its_lily Although I'm really into stats, abstract algebra is another world! It's, indeed, sophisticated.

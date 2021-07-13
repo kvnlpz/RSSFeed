@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: China's tryst with Bitcoin 
-date: 2021-07-13 1626182511 
-categories: reddit 
---- 
-https://redd.it/ojfghx

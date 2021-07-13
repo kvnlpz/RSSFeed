@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 10:01:00 
-categories: twitter 
---- 
-you have to be careful though it only works for a short period of time or you get a left over constant of integration

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Its been a long 60 days 
-date: 2021-07-12 1626077282 
-categories: reddit 
---- 
-https://redd.it/oimvkl

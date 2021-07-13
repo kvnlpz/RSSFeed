@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DomePotol 
-date: 2021-07-12 20:41:27 
-categories: twitter 
---- 
-@alphatrends Thank you so much 🤗 6650 Polygon (MATIC) coins sent to my Myethrerwallet @MATIC_BONUS

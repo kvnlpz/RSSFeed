@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin scarcity - when enough would be enough? 
-date: 2021-07-11 1626030699 
-categories: reddit 
---- 
-https://redd.it/oialra

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MarbeyHidalgo 
-date: 2021-07-12 19:57:17 
-categories: twitter 
---- 
-@nope_its_lily GTD and BuJo built with basic smartphone apps; in my case iOS: Notes, calendar, alarms, voice recorder, camera and reminders.

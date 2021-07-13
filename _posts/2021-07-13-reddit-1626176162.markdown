@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Top 500 hot picks 
-date: 2021-07-13 1626176162 
-categories: reddit 
---- 
-https://redd.it/ojdqat

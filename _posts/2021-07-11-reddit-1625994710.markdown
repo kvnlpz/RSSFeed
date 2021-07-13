@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does Cardano not have an amazing developer community? 
-date: 2021-07-11 1625994710 
-categories: reddit 
---- 
-https://redd.it/oi17jp

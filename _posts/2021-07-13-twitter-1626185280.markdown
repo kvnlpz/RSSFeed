@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tymmot89 
-date: 2021-07-13 07:08:00 
-categories: twitter 
---- 
-@timothysykes https://t.co/BFWKPKrohq

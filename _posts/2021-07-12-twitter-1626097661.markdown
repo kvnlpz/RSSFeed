@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 06:47:41 
-categories: twitter 
---- 
-@stocksandspecs @RalphyTalks Block button works faster for stupidity.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The steps I took to get familiar with Blockchain & Cardano. 
-date: 2021-07-12 1626102290 
-categories: reddit 
---- 
-https://redd.it/oit39r

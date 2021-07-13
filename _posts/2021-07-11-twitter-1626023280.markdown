@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 10:08:00 
-categories: twitter 
---- 
-"I believe strongly in defending free speech and speaking my mind" - Anonymous Twitter Account, 2021

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anidesh7 
-date: 2021-07-12 07:33:27 
-categories: twitter 
---- 
-@nope_its_lily The week I decide to sell 50 CC's...fml

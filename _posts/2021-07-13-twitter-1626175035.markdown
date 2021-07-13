@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @optionhoarder 
-date: 2021-07-13 04:17:15 
-categories: twitter 
---- 
-@nope_its_lily One is a guaranteed -100% cash flow to buy an illiquid depreciating asset. The other is a notebook.

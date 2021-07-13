@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MarketsHill 
-date: 2021-07-12 21:07:28 
-categories: twitter 
---- 
-RT @alphatrends: Wow $5 in #Bitcoin
-What a great incentive to open a new $COIN acct! https://t.co/lNNxNSRRKb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ActualNewbie 
-date: 2021-07-12 06:22:04 
-categories: twitter 
---- 
-@timothysykes Good morning! Thoughts on $NMTR??

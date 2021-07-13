@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MindMed Question 
-date: 2021-07-12 1626118213 
-categories: reddit 
---- 
-https://redd.it/oiyhsz

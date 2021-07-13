@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are possible permanent solutions to DDoS attacks? 
-date: 2021-07-11 1625992890 
-categories: reddit 
---- 
-https://redd.it/oi0v8t

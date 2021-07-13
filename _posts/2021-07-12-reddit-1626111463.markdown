@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: IOTA launches community build test NFT Marketplace on their DevTestnet 
-date: 2021-07-12 1626111463 
-categories: reddit 
---- 
-https://redd.it/oiw7jm

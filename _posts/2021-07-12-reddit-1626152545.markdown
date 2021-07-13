@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I can't withdraw fiat from Binance anymore? 
-date: 2021-07-12 1626152545 
-categories: reddit 
---- 
-https://redd.it/oj8o9q

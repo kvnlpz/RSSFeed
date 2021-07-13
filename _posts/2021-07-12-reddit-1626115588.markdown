@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto News: Decentraland Music Festival, Visa Crypto, Ethereum EIP-1559 Hard Fork 
-date: 2021-07-12 1626115588 
-categories: reddit 
---- 
-https://redd.it/oixmrw

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 08:55:19 
-categories: twitter 
---- 
-I would check the filing this morning ...

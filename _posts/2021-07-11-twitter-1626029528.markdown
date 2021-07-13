@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-07-11 11:52:08 
-categories: twitter 
---- 
-@nope_its_lily Simple heuristic:  when was the last time you changed your mind and exited a trade before it came to… https://t.co/etsisdeK6O

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @In8skill 
-date: 2021-07-10 19:34:21 
-categories: twitter 
---- 
-@timothysykes Worry bout your damn self! We good

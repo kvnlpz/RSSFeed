@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EmilioVastola 
-date: 2021-07-12 08:00:56 
-categories: twitter 
---- 
-@RayTL_ @atulbranade We'll see how it closes if they want to make it 3*3 weeks tight

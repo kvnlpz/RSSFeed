@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:49:49 
-categories: twitter 
---- 
-RT @timothysykes: 11:11pm study/dream check, retweet/favorite this if you're up studying or plan to study for at least a few hours during t…

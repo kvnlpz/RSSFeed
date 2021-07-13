@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Forbes: Algorand Founder Silvio Micali Breaks Down How To Construct A Fast And Secure Blockchain In A World Full Of Adversaries 
-date: 2021-07-12 1626094014 
-categories: reddit 
---- 
-https://redd.it/oiqjmz

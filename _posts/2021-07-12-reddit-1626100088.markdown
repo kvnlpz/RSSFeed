@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Physical Seed Phrase Storage 
-date: 2021-07-12 1626100088 
-categories: reddit 
---- 
-https://redd.it/oiscz0

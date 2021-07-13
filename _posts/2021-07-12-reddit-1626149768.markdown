@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Theoretical question 
-date: 2021-07-12 1626149768 
-categories: reddit 
---- 
-https://redd.it/oj7zx6

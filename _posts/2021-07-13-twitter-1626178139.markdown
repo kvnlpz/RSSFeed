@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Keubiko 
-date: 2021-07-13 05:08:59 
-categories: twitter 
---- 
-RT @muddywatersre: Interesting article on $RIDE background, confirming what you’d suspect: Cursory DD by a RE investor needing to do a deal…

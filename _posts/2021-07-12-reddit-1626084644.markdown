@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An EVM bull thesis well worth reading. 
-date: 2021-07-12 1626084644 
-categories: reddit 
---- 
-https://redd.it/oio9td

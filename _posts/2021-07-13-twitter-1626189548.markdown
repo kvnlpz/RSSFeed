@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GenYEconomist 
-date: 2021-07-13 08:19:08 
-categories: twitter 
---- 
-@nope_its_lily It’s not the apps, it is us that dont work

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shiraeis 
-date: 2021-07-12 08:43:52 
-categories: twitter 
---- 
-@nope_its_lily @JerniganIke GOOD.

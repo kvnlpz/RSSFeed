@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Apple & Bitcoin 
-date: 2021-07-12 1626151445 
-categories: reddit 
---- 
-https://redd.it/oj8ej4

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jfilliben 
-date: 2021-07-13 09:55:50 
-categories: twitter 
---- 
-@nope_its_lily A form of David Allen's Getting Things Done (GTD) works for me. The book is an easy read, and I am c… https://t.co/kXvDt9GEcc

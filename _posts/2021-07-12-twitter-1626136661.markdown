@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-12 17:37:41 
-categories: twitter 
---- 
-RT @70sBaseball: 1976 National League starting outfielders:
-Greg Luzinski, George Foster, Dave Kingman https://t.co/QlKEoyCyAB

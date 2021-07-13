@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Interacting with Dapps on Cardano? A noob question. 
-date: 2021-07-11 1626005747 
-categories: reddit 
---- 
-https://redd.it/oi3e66

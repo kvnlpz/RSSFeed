@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: StormX has integrated Chainlink Price Feeds to power their first NFT sale 
-date: 2021-07-11 1626024582 
-categories: reddit 
---- 
-https://redd.it/oi8pv7

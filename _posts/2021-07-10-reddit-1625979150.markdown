@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Home 
-date: 2021-07-10 1625979150 
-categories: reddit 
---- 
-https://redd.it/ohy3n7

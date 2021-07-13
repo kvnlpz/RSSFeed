@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Industry & NDE 4.0 — The benefits from DLT and the IOTA protocol 
-date: 2021-07-12 1626096942 
-categories: reddit 
---- 
-https://redd.it/oird96

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @galaxyblu3 
-date: 2021-07-12 00:26:05 
-categories: twitter 
---- 
-@nope_its_lily I cannot withdraw AUD currently. Starting to become quite random especially over weekends.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ADA seems massively overrated and for how scientific it's approach is it lacks a lot of basic functionality for a block chain that's been in development for so long. 
-date: 2021-07-12 1626147186 
-categories: reddit 
---- 
-https://redd.it/oj7bdg

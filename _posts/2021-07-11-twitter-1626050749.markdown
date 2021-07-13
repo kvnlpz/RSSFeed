@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SantiSampereA 
-date: 2021-07-11 17:45:49 
-categories: twitter 
---- 
-@modern_rock Of course. Count with that.

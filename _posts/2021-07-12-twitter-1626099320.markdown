@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:15:20 
-categories: twitter 
---- 
-RT @timothysykes: Even while giving out gifts dressed as Santa I’m still studying every weekend and getting prepared for trading next week…

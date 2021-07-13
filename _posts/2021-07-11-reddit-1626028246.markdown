@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Robinhood traders 
-date: 2021-07-11 1626028246 
-categories: reddit 
---- 
-https://redd.it/oi9uow

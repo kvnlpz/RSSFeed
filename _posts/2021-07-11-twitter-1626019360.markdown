@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @206BG 
-date: 2021-07-11 09:02:40 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/8fTWpvRfob

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @afewredbeans 
-date: 2021-07-12 04:00:58 
-categories: twitter 
---- 
-@nope_its_lily Unfunded Voices must not echo in the halls of Valhalla.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Atari anyone? 
-date: 2021-07-12 1626101770 
-categories: reddit 
---- 
-https://redd.it/oiswtw

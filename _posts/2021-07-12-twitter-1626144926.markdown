@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TensaiCapital 
-date: 2021-07-12 19:55:26 
-categories: twitter 
---- 
-@nope_its_lily I actually don’t use it personally but I’ve heard Beeminder is great for getting yourself to do recu… https://t.co/gNa2VRyAKd

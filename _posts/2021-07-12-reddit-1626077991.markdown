@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: bitcoin test 
-date: 2021-07-12 1626077991 
-categories: reddit 
---- 
-https://redd.it/oin0r0

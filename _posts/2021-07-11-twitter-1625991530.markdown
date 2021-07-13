@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Trader_Duncan 
-date: 2021-07-11 01:18:50 
-categories: twitter 
---- 
-@InvestorsLive Do you give any importance to measures of pre-market relative volume (such as 'volume buzz' in TC2000)

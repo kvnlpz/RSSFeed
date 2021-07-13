@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markflowchatter 
-date: 2021-07-12 06:22:14 
-categories: twitter 
---- 
-@CapitalObserver It's not bad , but thank you

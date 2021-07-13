@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrgoodcat1509 
-date: 2021-07-12 16:11:56 
-categories: twitter 
---- 
-@nope_its_lily Have you shown her @goodalexander’s meme portfolio?

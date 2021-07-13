@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Koinos - the fee-less transaction, multi language smart contract blockchain. Decentralized with Zero fees and Microservices. Upgradable forever without forks, POS <1% use , it’s hidden gem. Low Marketcap. Testnet=Live 
-date: 2021-07-13 1626161665 
-categories: reddit 
---- 
-https://redd.it/ojaofq

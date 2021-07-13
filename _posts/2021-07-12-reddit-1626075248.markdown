@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When do you know you should stop your grid ? 
-date: 2021-07-12 1626075248 
-categories: reddit 
---- 
-https://redd.it/oimgt2

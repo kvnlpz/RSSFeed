@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kittycatapult 
-date: 2021-07-13 03:10:47 
-categories: twitter 
---- 
-@nope_its_lily I see you woke up and chose violence today

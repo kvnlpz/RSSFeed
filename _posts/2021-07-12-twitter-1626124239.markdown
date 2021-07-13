@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Asktimothysykes 
-date: 2021-07-12 14:10:39 
-categories: twitter 
---- 
-RT @timothysykes: Study the all new https://t.co/lV8ONuf6wl when you can!

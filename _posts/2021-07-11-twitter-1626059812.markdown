@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-11 20:16:52 
-categories: twitter 
---- 
-RT @ACDCTrader1: Even though I’ve never met him, this is why I respect @timothysykes . https://t.co/3hlvnI6INH

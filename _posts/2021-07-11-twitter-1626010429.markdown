@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-11 06:33:49 
-categories: twitter 
---- 
-RT @StocksToTrade: Did you miss the first round of meme stocks?
-
-Fortunately, this movement seems far from over. But having an eye on the r…

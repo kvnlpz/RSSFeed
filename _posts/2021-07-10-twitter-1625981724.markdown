@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-10 22:35:24 
-categories: twitter 
---- 
-die, we expect 400 deaths (20% of 2000). So 80/(400+80) deaths are vaccinated people! This is nearly 20%. Again. Th… https://t.co/IKt1qvXFYH

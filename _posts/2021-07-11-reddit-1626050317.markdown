@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's the best research tool for finding all of the funds, ETF's, etc. that hold $XYZ stock ticker? 
-date: 2021-07-11 1626050317 
-categories: reddit 
---- 
-https://redd.it/oigcpb

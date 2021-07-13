@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CairoKiko2324 
-date: 2021-07-11 22:44:01 
-categories: twitter 
---- 
-RT @muddywatersre: Define “infrequent” https://t.co/q3bzIaP1kl

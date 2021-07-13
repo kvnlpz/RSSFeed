@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AxieMaxie 
-date: 2021-07-11 16:34:15 
-categories: twitter 
---- 
-@nope_its_lily No withdrawal to bank but can withdraw coin to another exchange . Hackz

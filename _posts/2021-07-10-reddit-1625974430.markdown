@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New to Shiba 
-date: 2021-07-10 1625974430 
-categories: reddit 
---- 
-https://redd.it/ohx15a

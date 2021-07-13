@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-12 09:30:26 
-categories: twitter 
---- 
-@RichardMoglen @Click_Trades The Market Maker? Be careful what you ask for.

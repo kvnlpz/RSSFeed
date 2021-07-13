@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vixologist 
-date: 2021-07-12 12:13:35 
-categories: twitter 
---- 
-@nope_its_lily @OffTheRunTrades Au contraire! Nothing would be more exciting but I'm holding off for the moment.

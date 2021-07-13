@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I only have $43 worth of ETH in my wallet so I don't have enough for my one transaction 
-date: 2021-07-12 1626106204 
-categories: reddit 
---- 
-https://redd.it/oiudoc

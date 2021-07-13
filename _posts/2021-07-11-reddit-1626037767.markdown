@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Upvotes for everyone!!! 
-date: 2021-07-11 1626037767 
-categories: reddit 
---- 
-https://redd.it/oicp7x

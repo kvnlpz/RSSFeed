@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Planet_Martinez 
-date: 2021-07-11 00:13:47 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/NOyE8TW4sr

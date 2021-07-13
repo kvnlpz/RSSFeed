@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone please explain the implications of 300m usdc being printed and trader for tether? 
-date: 2021-07-12 1626146326 
-categories: reddit 
---- 
-https://redd.it/oj72w9

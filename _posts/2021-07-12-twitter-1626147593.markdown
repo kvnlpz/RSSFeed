@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @plans_bad 
-date: 2021-07-12 20:39:53 
-categories: twitter 
---- 
-@RayTL_ @JamesClear His book is stellar as well.

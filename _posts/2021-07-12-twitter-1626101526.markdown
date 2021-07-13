@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 07:52:06 
-categories: twitter 
---- 
-@pwnwtfbbq @ConwayYen How is it easier? You could've easily used daily returns and probably seen nothing. Like I sa… https://t.co/W3OyNYJlIB

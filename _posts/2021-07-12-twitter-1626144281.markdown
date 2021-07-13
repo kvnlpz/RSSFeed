@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @comptona 
-date: 2021-07-12 19:44:41 
-categories: twitter 
---- 
-@nope_its_lily I like Todoist for how easy it is to add and categorize tasks. Not sure it's the system's fault that… https://t.co/GJOVzRJ2kl

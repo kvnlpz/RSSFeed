@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daedalus wallet size 
-date: 2021-07-12 1626151733 
-categories: reddit 
---- 
-https://redd.it/oj8h2w

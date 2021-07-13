@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xdazai 
-date: 2021-07-11 08:57:05 
-categories: twitter 
---- 
-RT @nope_its_lily: i'm sure this is the future of space travel and i'm very optimistic given we haven't landed on the moon since 1972 but i…

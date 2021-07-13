@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FrnkTss 
-date: 2021-07-11 21:48:08 
-categories: twitter 
---- 
-@TraderTexMex Priced At-The-Market

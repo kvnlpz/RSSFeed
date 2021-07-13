@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trippmehew 
-date: 2021-07-13 10:19:49 
-categories: twitter 
---- 
-@timothysykes Here my new one. https://t.co/cfJwnXOmj3

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xLNK 
-date: 2021-07-12 20:36:11 
-categories: twitter 
---- 
-@nope_its_lily Notebooks have poor liquidity

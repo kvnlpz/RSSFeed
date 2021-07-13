@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: China’s bitcoin miners move to America 
-date: 2021-07-11 1626071585 
-categories: reddit 
---- 
-https://redd.it/oiloyo

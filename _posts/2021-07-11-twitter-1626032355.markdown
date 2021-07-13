@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sww1235 
-date: 2021-07-11 12:39:15 
-categories: twitter 
---- 
-RT @nope_its_lily: Also article h/t @goodalexander 
-https://t.co/gyT5oBmDBx

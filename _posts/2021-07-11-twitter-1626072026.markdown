@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-11 23:40:26 
-categories: twitter 
---- 
-@JoeWint38147367 @vamosconramos2 Glad to help!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @md01984 
-date: 2021-07-13 09:35:41 
-categories: twitter 
---- 
-@OddStockTrader @j_pavness How's Xcaret treating you?

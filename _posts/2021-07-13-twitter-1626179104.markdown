@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @samirbarden 
-date: 2021-07-13 05:25:04 
-categories: twitter 
---- 
-@InvestorsLive 👀 US not even open.

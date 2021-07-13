@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Automated Spot trading in crypto 
-date: 2021-07-12 1626124782 
-categories: reddit 
---- 
-https://redd.it/oj0ppu

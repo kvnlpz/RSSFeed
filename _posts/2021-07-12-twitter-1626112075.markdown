@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 10:47:55 
-categories: twitter 
---- 
-@memetron9000 yeah technically this is not an metric space so the actual area can be 0, who the fuck knows

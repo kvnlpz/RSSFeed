@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @crnl_ingus 
-date: 2021-07-12 07:16:54 
-categories: twitter 
---- 
-@OddStockTrader Thanks man. Have a great vacation.

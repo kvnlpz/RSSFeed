@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Israeli authorities seize cryptocurrency transfer from Hamas 
-date: 2021-07-12 1626114658 
-categories: reddit 
---- 
-https://redd.it/oivoeh

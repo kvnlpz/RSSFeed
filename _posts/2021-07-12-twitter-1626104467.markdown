@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FermiLevels 
-date: 2021-07-12 08:41:07 
-categories: twitter 
---- 
-@nope_its_lily This has to do with natural language processing, but that is as much as I can pretend to understand. 🙂

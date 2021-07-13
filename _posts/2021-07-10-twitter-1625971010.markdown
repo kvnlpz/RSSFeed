@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theemilyaccount 
-date: 2021-07-10 19:36:50 
-categories: twitter 
---- 
-@nope_its_lily @JonahLupton everyone that voted yes is assuming we’ll be there

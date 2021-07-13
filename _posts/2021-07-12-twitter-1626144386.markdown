@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @justabill16 
-date: 2021-07-12 19:46:26 
-categories: twitter 
---- 
-@nope_its_lily Hand written to do list w appointments/obligations/travel booked w Outlook/Teams. I am old school, though.

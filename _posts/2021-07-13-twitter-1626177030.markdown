@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-13 04:50:30 
-categories: twitter 
---- 
-$MTSL -15% more pre market

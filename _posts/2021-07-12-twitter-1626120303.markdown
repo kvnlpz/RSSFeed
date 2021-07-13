@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BigMacStax 
-date: 2021-07-12 13:05:03 
-categories: twitter 
---- 
-@super_trades @tonydimatteo If they hit $71M I’d be shocked

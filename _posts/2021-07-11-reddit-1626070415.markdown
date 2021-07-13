@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Recovery phrase for Daedalus wallet (paired with Ledger Nano X) not available 
-date: 2021-07-11 1626070415 
-categories: reddit 
---- 
-https://redd.it/oilg1e

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledger is trying to withdraw my rewards when registering for Fund5, any idea why? Is it normal? 
-date: 2021-07-11 1626058851 
-categories: reddit 
---- 
-https://redd.it/oiimco

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: RSI Divergence question... 
-date: 2021-07-12 1626080399 
-categories: reddit 
---- 
-https://redd.it/oinhp8

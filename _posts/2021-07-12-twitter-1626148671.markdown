@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheJakeSchmidt 
-date: 2021-07-12 20:57:51 
-categories: twitter 
---- 
-@nope_its_lily &gt; 19% of respondents want a 10 PM curfew, forever, unrelated to COVID-19 https://t.co/q0JrkJWuhW

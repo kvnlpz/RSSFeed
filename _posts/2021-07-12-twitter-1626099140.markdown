@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:12:20 
-categories: twitter 
---- 
-RT @timothysykes: I’m VERY proud to announce a new $50,000 donation from my recent trading profits to the amazing charity @SheldrickTrust w…

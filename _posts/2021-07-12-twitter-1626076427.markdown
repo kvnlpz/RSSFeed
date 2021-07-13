@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VladZamfir 
-date: 2021-07-12 00:53:47 
-categories: twitter 
---- 
-@nope_its_lily @TheStalwart showing how well the trick of associating legal disinformation with "technology" can work

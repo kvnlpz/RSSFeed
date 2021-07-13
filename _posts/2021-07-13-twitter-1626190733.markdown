@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rowdoRADGE 
-date: 2021-07-13 08:38:53 
-categories: twitter 
---- 
-@nope_its_lily 🎶 The one with the waggly tail... 🎶

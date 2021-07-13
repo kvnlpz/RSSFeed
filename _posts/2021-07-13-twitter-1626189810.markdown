@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-13 08:23:30 
-categories: twitter 
---- 
-@gregdsports @NickSchmidt_ @RichardMoglen @TraderLion_ Something not right with Richard after move to Seattle.

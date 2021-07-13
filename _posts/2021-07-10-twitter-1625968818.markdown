@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stocksandspecs 
-date: 2021-07-10 19:00:18 
-categories: twitter 
---- 
-@InvestorsLive Love those scans! Look forward to them each week.

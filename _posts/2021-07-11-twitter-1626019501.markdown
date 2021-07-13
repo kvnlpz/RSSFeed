@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DriventoTrade 
-date: 2021-07-11 09:05:01 
-categories: twitter 
---- 
-@nope_its_lily 250k for 2.5 minutes in space…

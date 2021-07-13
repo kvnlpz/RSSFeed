@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hop Protocol launches USDC bridge between Ethereum, Polygon, and xDai 
-date: 2021-07-12 1626154058 
-categories: reddit 
---- 
-https://redd.it/oj90um

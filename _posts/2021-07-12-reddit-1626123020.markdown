@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A way to track the CO2e footprint of crypto 
-date: 2021-07-12 1626123020 
-categories: reddit 
---- 
-https://redd.it/oj047b

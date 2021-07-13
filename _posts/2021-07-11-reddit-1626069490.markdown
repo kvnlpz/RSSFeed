@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where can I get more information on the nuances of MEVs? Are they only specific to the Ethereum network or can they work with any network that utilizes smart contracts? 
-date: 2021-07-11 1626069490 
-categories: reddit 
---- 
-https://redd.it/oil8yb

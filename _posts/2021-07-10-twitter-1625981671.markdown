@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-10 22:34:31 
-categories: twitter 
---- 
-This is 29% of cases! It looks really high, even though a vaccinated person is 10x less likely to get COVID. It's s… https://t.co/sRn0zgCj00

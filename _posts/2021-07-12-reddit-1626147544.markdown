@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Traders are withdrawing 2,000 BTC from centralized exchanges daily 
-date: 2021-07-12 1626147544 
-categories: reddit 
---- 
-https://redd.it/oj7ety

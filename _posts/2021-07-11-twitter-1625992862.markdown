@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JesseJStackz 
-date: 2021-07-11 01:41:02 
-categories: twitter 
---- 
-@alphatrends @MarketSmith https://t.co/m3QwXC2jca

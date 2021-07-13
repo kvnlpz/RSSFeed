@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's your take on OpenDime? 
-date: 2021-07-12 1626137498 
-categories: reddit 
---- 
-https://redd.it/oj4nh1

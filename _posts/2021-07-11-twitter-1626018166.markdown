@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ErdemTheMan 
-date: 2021-07-11 08:42:46 
-categories: twitter 
---- 
-@InvestorsLive @AvidityFitness I consulted with my tech guy! Technical issue with camera will be addressed by Tuesd… https://t.co/qWzJMegrPf

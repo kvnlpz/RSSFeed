@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $TSLA gain 
-date: 2021-07-12 1626107772 
-categories: reddit 
---- 
-https://redd.it/oiux78

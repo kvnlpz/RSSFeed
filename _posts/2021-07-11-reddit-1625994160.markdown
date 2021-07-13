@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any reccomendation on indicators that filter out ranging markets and can maybe even predict it? 
-date: 2021-07-11 1625994160 
-categories: reddit 
---- 
-https://redd.it/oi13sr

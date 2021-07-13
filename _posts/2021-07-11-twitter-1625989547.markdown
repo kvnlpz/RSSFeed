@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @laurentzeimes 
-date: 2021-07-11 00:45:47 
-categories: twitter 
---- 
-@nope_its_lily I don't see why volatility couldn't trend up, down and mean revert to certain levels. The "TA on the… https://t.co/9GKi006vtd

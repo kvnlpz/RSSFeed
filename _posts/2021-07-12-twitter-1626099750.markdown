@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:22:30 
-categories: twitter 
---- 
-RT @timothysykes: Here's a great video I did with my friend Larry King, interviewing the master interviewer, that shows his amazing attitud…

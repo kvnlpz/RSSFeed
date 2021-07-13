@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PaulDiAnnowrath 
-date: 2021-07-12 20:51:23 
-categories: twitter 
---- 
-@nope_its_lily @tendie_swap

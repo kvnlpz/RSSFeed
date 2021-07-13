@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:51:02 
-categories: twitter 
---- 
-RT @travyjjones: 180 hours of studying logged thus far, with an additional 5 today! 
-(This doesn’t include Tim’s book or the others recomme…

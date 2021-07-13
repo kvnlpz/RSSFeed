@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stonXBT 
-date: 2021-07-11 10:08:12 
-categories: twitter 
---- 
-RT @nope_its_lily: "I believe strongly in defending free speech and speaking my mind" - Anonymous Twitter Account, 2021

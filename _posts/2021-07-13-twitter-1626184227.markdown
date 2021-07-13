@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-13 06:50:27 
-categories: twitter 
---- 
-$AMC is like a pin ball machine today

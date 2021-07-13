@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If your Metamask is hacked and bot is siphoning out all Eth immediately, you can still save the remaining other coins. 
-date: 2021-07-12 1626110292 
-categories: reddit 
---- 
-https://redd.it/oivsz3

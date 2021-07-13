@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:50:31 
-categories: twitter 
---- 
-RT @StocksToTrade: Treat each and every failure as your stepping stone to future success

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gilmuro2M 
-date: 2021-07-12 06:41:06 
-categories: twitter 
---- 
-@InvestorsLive Yo de momento fuera!

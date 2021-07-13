@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PLIAN Blockchain We have deployed & tested crosschain contracts on r/plian, r/ethereum & r/BinanceSmartChain 
-date: 2021-07-10 1625966414 
-categories: reddit 
---- 
-https://redd.it/ohv33p

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Read our new article - What is Zcash and how to exchange ZEC on Swapzone? 
-date: 2021-07-12 1626087153 
-categories: reddit 
---- 
-https://redd.it/oioutl

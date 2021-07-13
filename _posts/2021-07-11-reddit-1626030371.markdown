@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: what would happen with the price of BTC if someone try to sell a huge amount of bitcoin? (BTC -> fiat money) 
-date: 2021-07-11 1626030371 
-categories: reddit 
---- 
-https://redd.it/oiaieq

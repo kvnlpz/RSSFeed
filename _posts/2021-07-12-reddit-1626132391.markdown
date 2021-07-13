@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's your favorite Crypto and consensus algorithm, I will make graphs for both. 
-date: 2021-07-12 1626132391 
-categories: reddit 
---- 
-https://redd.it/oj36hb

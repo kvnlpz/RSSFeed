@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Made my first Crypto Transaction 
-date: 2021-07-11 1626036156 
-categories: reddit 
---- 
-https://redd.it/oic8ai

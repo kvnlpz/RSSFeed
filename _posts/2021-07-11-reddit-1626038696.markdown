@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Interview with Mirqur, Cardano's mathematically driven DEX. Chris shares what makes Mirqur different and where it sits in an ever-growing space in Cardano. 
-date: 2021-07-11 1626038696 
-categories: reddit 
---- 
-https://redd.it/oicyvg

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Machine learning indicator ETH 
-date: 2021-07-11 1626070549 
-categories: reddit 
---- 
-https://redd.it/oilh3q

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MarkkleinT 
-date: 2021-07-13 04:53:41 
-categories: twitter 
---- 
-@nope_its_lily @tendie_swap

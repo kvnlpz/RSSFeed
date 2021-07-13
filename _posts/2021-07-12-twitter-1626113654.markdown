@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LoaiK 
-date: 2021-07-12 11:14:14 
-categories: twitter 
---- 
-RT @RayTL_: Instincts are when you see a past state showing in current state. It leads to natural conviction/confidence.
-
-To connect past s…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PenttiRahko 
-date: 2021-07-13 06:05:10 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ Market breadth more precisely e.g. stocks above 200MA/50MA, New 52 week highs/lows, New 6 mont… https://t.co/H15mYRsQkx

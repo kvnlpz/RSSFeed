@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 09:20:44 
-categories: twitter 
---- 
-@bantg my time to shine

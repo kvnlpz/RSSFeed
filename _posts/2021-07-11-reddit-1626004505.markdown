@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ideas for website 
-date: 2021-07-11 1626004505 
-categories: reddit 
---- 
-https://redd.it/oi34g6

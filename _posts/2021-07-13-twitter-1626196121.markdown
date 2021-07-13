@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WadeDeBolt 
-date: 2021-07-13 10:08:41 
-categories: twitter 
---- 
-@timothysykes what do you use for connectivity?

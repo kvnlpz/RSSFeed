@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dukeness 
-date: 2021-07-10 20:41:31 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/6mYod3hqiR

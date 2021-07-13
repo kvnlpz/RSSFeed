@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brrrzooka 
-date: 2021-07-13 10:58:32 
-categories: twitter 
---- 
-@nope_its_lily @macrocephalopod no can remember if inflation means long rates up or down anymore

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @t3chytrad3r 
-date: 2021-07-13 05:13:43 
-categories: twitter 
---- 
-@InvestorsLive The timing of this tweet was perfect! 40.70 sold 39.90

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why don't we talk about Solana? 
-date: 2021-07-12 1626122935 
-categories: reddit 
---- 
-https://redd.it/oj03a0

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HumpTrades 
-date: 2021-07-10 18:21:54 
-categories: twitter 
---- 
-@nope_its_lily Canada invading North Dakota

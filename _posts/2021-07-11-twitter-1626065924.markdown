@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @critical_group 
-date: 2021-07-11 21:58:44 
-categories: twitter 
---- 
-@nope_its_lily Why wait? Go Tarzan now. Life is to short.

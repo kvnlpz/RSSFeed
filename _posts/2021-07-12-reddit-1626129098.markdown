@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Taproot, is it really more private? 
-date: 2021-07-12 1626129098 
-categories: reddit 
---- 
-https://redd.it/oj25of

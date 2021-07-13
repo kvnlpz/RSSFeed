@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hardc0reCasual 
-date: 2021-07-11 22:36:08 
-categories: twitter 
---- 
-RT @nope_its_lily: As someone who runs a Substack, I'm thrilled to be named bad for democracy by the New York Times. I deliver the hard hit…

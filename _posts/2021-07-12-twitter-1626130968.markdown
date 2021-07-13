@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hall_Streat 
-date: 2021-07-12 16:02:48 
-categories: twitter 
---- 
-@InvestorsLive Those 453 Jan 2022 2.50 puts 😂

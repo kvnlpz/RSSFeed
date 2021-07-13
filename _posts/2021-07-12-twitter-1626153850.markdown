@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Matts_Bytes 
-date: 2021-07-12 22:24:10 
-categories: twitter 
---- 
-@nope_its_lily "What is important is seldom urgent, and what is urgent is seldom important"

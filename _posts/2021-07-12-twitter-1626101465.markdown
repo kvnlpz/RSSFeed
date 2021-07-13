@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pwnwtfbbq 
-date: 2021-07-12 07:51:05 
-categories: twitter 
---- 
-@nope_its_lily @ConwayYen I specifically stated I used time series plots to allow those without a statistical backg… https://t.co/4guM1uohrT

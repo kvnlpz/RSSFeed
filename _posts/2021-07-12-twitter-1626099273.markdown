@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:14:33 
-categories: twitter 
---- 
-RT @timothysykes: Many charities have seen their donations drop 60%+ in 2020 while I’m having a record year so I’m proud to dress up as San…

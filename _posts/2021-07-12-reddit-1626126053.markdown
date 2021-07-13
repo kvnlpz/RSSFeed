@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daily Option Statistics for SPCE, CLOV, AMC, GME, TSLA, WISH, DIS, BB, SOFI and others. 
-date: 2021-07-12 1626126053 
-categories: reddit 
---- 
-https://redd.it/oj14y8

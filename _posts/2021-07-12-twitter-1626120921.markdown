@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pwnwtfbbq 
-date: 2021-07-12 13:15:21 
-categories: twitter 
---- 
-@nope_its_lily @ConwayYen You're sort of not a great human being. I don't feel inclined to share my thoughts to you… https://t.co/HVNCrlWsET

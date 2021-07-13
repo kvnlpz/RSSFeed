@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Believe it or not, Bitcoin has forked over 100 times 
-date: 2021-07-12 1626148532 
-categories: reddit 
---- 
-https://redd.it/oj7o6c

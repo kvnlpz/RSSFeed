@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AverageMount 
-date: 2021-07-11 06:50:55 
-categories: twitter 
---- 
-@nope_its_lily If they won't give you a few seconds of attention in the first place, they don't want to hear what you have to say anyway

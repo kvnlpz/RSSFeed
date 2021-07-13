@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Seed words digital backup 
-date: 2021-07-11 1626029886 
-categories: reddit 
---- 
-https://redd.it/oiad2o

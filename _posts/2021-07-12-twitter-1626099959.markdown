@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:25:59 
-categories: twitter 
---- 
-RT @timothysykes: As we head into this long holiday weekend, remember the markets are closed on Monday for #PresidentsDay and I’m getting m…

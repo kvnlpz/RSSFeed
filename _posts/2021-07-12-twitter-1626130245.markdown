@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mike_Hudie 
-date: 2021-07-12 15:50:45 
-categories: twitter 
---- 
-RT @kroyrunner89: @DezbobTrades biggest thing that helped me was identifying the mistake i made (if i indeed made a mistake, and it wasn't…

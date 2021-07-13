@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-13 10:54:26 
-categories: twitter 
---- 
-$AHPI why is this up? Asking for a friend.

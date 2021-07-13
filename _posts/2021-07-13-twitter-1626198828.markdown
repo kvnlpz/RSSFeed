@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kknuhp 
-date: 2021-07-13 10:53:48 
-categories: twitter 
---- 
-RT @nope_its_lily: @macrocephalopod market forgot about inflation until treasury auction

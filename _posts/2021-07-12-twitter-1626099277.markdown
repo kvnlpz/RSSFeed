@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:14:37 
-categories: twitter 
---- 
-RT @timothysykes: I'm proud to announce my charity @karmagawa 71st school has opened, along with all new books &amp; toys, a breath of fresh ai…

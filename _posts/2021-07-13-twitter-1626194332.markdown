@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FollowTheTrut18 
-date: 2021-07-13 09:38:52 
-categories: twitter 
---- 
-@nope_its_lily You have great insight, looking forward to it

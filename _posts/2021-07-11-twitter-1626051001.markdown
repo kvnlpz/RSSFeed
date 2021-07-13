@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nexikinoti 
-date: 2021-07-11 17:50:01 
-categories: twitter 
---- 
-@RayTL_ @TLPrivate_ Like it

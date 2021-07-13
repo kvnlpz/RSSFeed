@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Square to Build Its Native Bitcoin Hardware Wallet, Jack Dorsey Confirms 
-date: 2021-07-12 1626127025 
-categories: reddit 
---- 
-https://redd.it/oj1gv2

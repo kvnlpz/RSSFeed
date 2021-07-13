@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I Built The World's First Crypto Chandelier - A Literal Chain of Blocks that has an Ethereum Node Inside It 
-date: 2021-07-12 1626103437 
-categories: reddit 
---- 
-https://redd.it/oithl3

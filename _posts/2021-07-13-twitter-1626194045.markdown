@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brenorb 
-date: 2021-07-13 09:34:05 
-categories: twitter 
---- 
-@nope_its_lily BuJo has no need to check the phone, so it works best.

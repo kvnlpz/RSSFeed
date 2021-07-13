@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlexanderYip 
-date: 2021-07-11 02:37:06 
-categories: twitter 
---- 
-RT @timothysykes: 9:56pm study check, retweet/favorite this if you're still up studying, making your watchlist for tomorrow or if you used…

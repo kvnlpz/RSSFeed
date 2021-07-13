@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CitizenTrade 
-date: 2021-07-13 08:18:13 
-categories: twitter 
---- 
-@modern_rock What platform are you using there with the VBP (volume by price) on the right side of the chart?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xdazai 
-date: 2021-07-11 02:07:10 
-categories: twitter 
---- 
-RT @nope_its_lily: there is so much cursed garbage in my metamask wallet i'd rather be caught watching something explicit by my parents tha…

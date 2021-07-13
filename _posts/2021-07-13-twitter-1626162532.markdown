@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:48:52 
-categories: twitter 
---- 
-RT @StocksToTrade: It might not be the 4th of July quite yet, but our sale is HERE!
-
-And if you know anything about @tbohen, you know he lo…

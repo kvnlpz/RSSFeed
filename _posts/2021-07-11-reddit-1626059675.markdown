@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “Converting ETH tokens to Cardano ADA” can someone explain? 
-date: 2021-07-11 1626059675 
-categories: reddit 
---- 
-https://redd.it/oiiudm

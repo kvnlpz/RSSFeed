@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @billionaire_ca 
-date: 2021-07-11 13:47:55 
-categories: twitter 
---- 
-@nope_its_lily @dylanlatorre_ We'll all be living on Mars in 10 years

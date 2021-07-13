@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GRadmac_77 
-date: 2021-07-13 06:14:58 
-categories: twitter 
---- 
-@timothysykes Good morning Tim!

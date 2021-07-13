@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Client Developers Detail Difficulty Bomb Delays 
-date: 2021-07-13 1626186060 
-categories: reddit 
---- 
-https://redd.it/ojgks9

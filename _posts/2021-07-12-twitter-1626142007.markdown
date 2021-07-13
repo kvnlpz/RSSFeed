@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @beh0211 
-date: 2021-07-12 19:06:47 
-categories: twitter 
---- 
-@RayTL_ Right side of chart showing good sign of accumulation, but RS line is not so good..

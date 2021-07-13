@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @azwel 
-date: 2021-07-11 13:49:07 
-categories: twitter 
---- 
-@timothysykes Buy at 40 sell at 49.

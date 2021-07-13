@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $10 today is $100 tomorrow. 
-date: 2021-07-11 1626040950 
-categories: reddit 
---- 
-https://redd.it/oidllg

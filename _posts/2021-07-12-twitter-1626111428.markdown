@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-12 10:37:08 
-categories: twitter 
---- 
-@BenHemmet @YavinXIV nope, promoters are an essential part of the pattern

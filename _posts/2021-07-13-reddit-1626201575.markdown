@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Got burned by a startup - a cautionary tale 📉 
-date: 2021-07-13 1626201575 
-categories: reddit 
---- 
-https://redd.it/ojlxd1

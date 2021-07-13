@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MattMCoppola 
-date: 2021-07-12 19:46:07 
-categories: twitter 
---- 
-@nope_its_lily On the bright side, you’ll probably get verified after this

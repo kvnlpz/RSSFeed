@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 20:34:13 
-categories: twitter 
---- 
-@memeconomy3 @TicTocTick I don't know how good the data Tic posted is, but I'd expect it to be higher. My point is… https://t.co/0buiknm8wV

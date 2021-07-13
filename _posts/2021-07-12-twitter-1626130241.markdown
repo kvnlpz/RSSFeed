@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fallondpicks 
-date: 2021-07-12 15:50:41 
-categories: twitter 
---- 
-More small gains across the board, but larger picture remains unchanged for S&amp;P ($SPX), Nasdaq ($COMPQ), and Russel… https://t.co/YMsf4rvM42

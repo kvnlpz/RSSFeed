@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-12 09:40:42 
-categories: twitter 
---- 
-RT @iancassel: An illiquid stock is a big advantage to a management team that is executing - when investors have to pay up to find supply.

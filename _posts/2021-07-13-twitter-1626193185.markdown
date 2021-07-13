@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mastermindssdg 
-date: 2021-07-13 09:19:45 
-categories: twitter 
---- 
-@RayTL_ Thanks ray

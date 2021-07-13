@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My first post, am I playing the game right? 
-date: 2021-07-12 1626112597 
-categories: reddit 
---- 
-https://redd.it/oiwlpf

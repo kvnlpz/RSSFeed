@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @damiendamien 
-date: 2021-07-11 03:53:41 
-categories: twitter 
---- 
-RT @nope_its_lily: Actually let's do 100,000 people because whole numbers work better. 80% vaccinated = 80,000 people. 1% get COVID = 800 e…

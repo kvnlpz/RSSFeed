@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How are Moon-Transactions verified? 
-date: 2021-07-11 1626014601 
-categories: reddit 
---- 
-https://redd.it/oi5ori

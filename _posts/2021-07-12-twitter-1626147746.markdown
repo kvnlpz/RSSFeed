@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FrnkTss 
-date: 2021-07-12 20:42:26 
-categories: twitter 
---- 
-@alphatrends Why open with Coinbase if you can get a better rate $25 on Voyager and transfer to Nano Ledger haha

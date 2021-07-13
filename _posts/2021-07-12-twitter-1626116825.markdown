@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 12:07:05 
-categories: twitter 
---- 
-@vixologist @OffTheRunTrades it's for macro fireworks jim you would not understand

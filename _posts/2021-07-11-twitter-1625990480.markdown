@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @itamarro 
-date: 2021-07-11 01:01:20 
-categories: twitter 
---- 
-@nope_its_lily Imagine when you file the tax write offs … https://t.co/yB1BXrfSBd

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How algomint works 
-date: 2021-07-13 1626168984 
-categories: reddit 
---- 
-https://redd.it/ojc4it

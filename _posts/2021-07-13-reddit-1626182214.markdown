@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A major use case for Blockchain in Agriculture 
-date: 2021-07-13 1626182214 
-categories: reddit 
---- 
-https://redd.it/ojfd6r

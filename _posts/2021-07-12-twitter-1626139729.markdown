@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SqueezeFarmer 
-date: 2021-07-12 18:28:49 
-categories: twitter 
---- 
-@RayTL_ When price gets stuffed like this, reset to conviction-o-meter and see if it resubmits itself for review.

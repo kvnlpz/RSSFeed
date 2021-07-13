@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hadrian342 
-date: 2021-07-13 09:36:46 
-categories: twitter 
---- 
-@InvestorsLive @Schwarzenegger oh no GNUS

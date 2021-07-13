@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BobTendle 
-date: 2021-07-12 05:35:58 
-categories: twitter 
---- 
-@OddStockTrader And then the momma bear said, look who's sleeping in my chair!

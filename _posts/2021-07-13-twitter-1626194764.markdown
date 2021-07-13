@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @buffaloden716 
-date: 2021-07-13 09:46:04 
-categories: twitter 
---- 
-@OddStockTrader @j_pavness What about those who went broke trading like me and now are just trying to live? 🤷🏼‍♂️

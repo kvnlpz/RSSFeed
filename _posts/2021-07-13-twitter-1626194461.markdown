@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FernandoMonsi_ 
-date: 2021-07-13 09:41:01 
-categories: twitter 
---- 
-@timothysykes Beautiful 👍🏽

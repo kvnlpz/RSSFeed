@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cyxnis 
-date: 2021-07-13 02:09:52 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/ejSSZPTtSb

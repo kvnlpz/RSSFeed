@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum mainnet London-ready Nethermind release 
-date: 2021-07-13 1626198647 
-categories: reddit 
---- 
-https://redd.it/ojkw8q

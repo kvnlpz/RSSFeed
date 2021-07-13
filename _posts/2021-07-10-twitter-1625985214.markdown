@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @valuemaverick1 
-date: 2021-07-10 23:33:34 
-categories: twitter 
---- 
-@nope_its_lily The chance of getting covid if vaccinated is 96% (2 shots) and that would mean that if you encounter… https://t.co/ulThD1fbLm

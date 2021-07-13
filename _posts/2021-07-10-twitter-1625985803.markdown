@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shiraeis 
-date: 2021-07-10 23:43:23 
-categories: twitter 
---- 
-@nope_its_lily @lukeburgis True. Tbh flowers matter less than behavior in the first place.

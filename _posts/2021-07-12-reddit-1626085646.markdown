@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here's a snippet from Systematic Trading by Robert Carver 
-date: 2021-07-12 1626085646 
-categories: reddit 
---- 
-https://redd.it/oiojfz

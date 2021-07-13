@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DonTrumpiano 
-date: 2021-07-12 19:42:34 
-categories: twitter 
---- 
-@modern_rock @espn https://t.co/lYpSiKeGX6

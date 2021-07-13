@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anatlevyohayon 
-date: 2021-07-12 21:12:46 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade What is your best advice to take out stocks from the watchlist?

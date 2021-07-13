@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PapaLuke_Stock 
-date: 2021-07-13 08:34:55 
-categories: twitter 
---- 
-@InvestorsLive AHPI I presume ?

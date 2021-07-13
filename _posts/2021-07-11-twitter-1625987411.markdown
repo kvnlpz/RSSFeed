@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 00:10:11 
-categories: twitter 
---- 
-There's a place in Vegas where you can fire a grenade launcher and drive a tank.
-I kinda wanna go to Vegas now.

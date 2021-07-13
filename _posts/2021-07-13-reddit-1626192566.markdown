@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Most shorted stocks in FTSE (https://www.morningstar.co.uk/uk/news/213725/the-most-shorted-stocks-on-the-ftse.aspx) 
-date: 2021-07-13 1626192566 
-categories: reddit 
---- 
-https://redd.it/ojisvf

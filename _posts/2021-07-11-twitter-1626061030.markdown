@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnB_Blutarsky 
-date: 2021-07-11 20:37:10 
-categories: twitter 
---- 
-@nope_its_lily @matt_levine Is this like the modern equivalent of "Keynesian beauty pageant"?

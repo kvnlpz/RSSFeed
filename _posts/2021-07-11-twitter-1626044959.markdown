@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fallondpicks 
-date: 2021-07-11 16:09:19 
-categories: twitter 
---- 
-It's again left to the S&amp;P ($SPX) to grab the headlines, but the Russell 2000 ($IWM) remains range bound. https://t.co/phd1nqMTIt

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Yavlonski1 
-date: 2021-07-10 18:49:06 
-categories: twitter 
---- 
-@alphatrends Did you have to take it to their location or they picked it up at your address?

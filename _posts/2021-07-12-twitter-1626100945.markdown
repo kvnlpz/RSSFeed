@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Asktimothysykes 
-date: 2021-07-12 07:42:25 
-categories: twitter 
---- 
-RT @timothysykes: Goooooood morning from Costa Rica, I hope you have a great day, but remember I have NO other accounts, there are SO many…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SpaceFarmers are coming! 
-date: 2021-07-11 1626038766 
-categories: reddit 
---- 
-https://redd.it/oiczmi

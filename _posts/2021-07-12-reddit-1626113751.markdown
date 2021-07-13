@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Portfolio Help 
-date: 2021-07-12 1626113751 
-categories: reddit 
---- 
-https://redd.it/oiwzy5

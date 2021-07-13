@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 09:47:50 
-categories: twitter 
---- 
-nice thread from someone who is measured and not a permabear

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DPLS run? 
-date: 2021-07-12 1626107314 
-categories: reddit 
---- 
-https://redd.it/oiurdw

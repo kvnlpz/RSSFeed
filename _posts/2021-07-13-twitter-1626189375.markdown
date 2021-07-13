@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @meirlandau10 
-date: 2021-07-13 08:16:15 
-categories: twitter 
---- 
-RT @RayTL_: Chart your losing trades if you want to get better.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @aaaaa0001aa 
-date: 2021-07-12 13:17:21 
-categories: twitter 
---- 
-@nope_its_lily @ConwayYen @pwnwtfbbq It's been mirroring itself for years.

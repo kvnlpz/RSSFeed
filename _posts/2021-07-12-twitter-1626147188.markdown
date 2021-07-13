@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JonahLupton 
-date: 2021-07-12 20:33:08 
-categories: twitter 
---- 
-@alphatrends I always smile when I see the hummingbirds outside — something very special about them

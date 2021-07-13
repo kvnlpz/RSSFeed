@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ATEZA API is now live! 
-date: 2021-07-12 1626103983 
-categories: reddit 
---- 
-https://redd.it/oito7o

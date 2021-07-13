@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kchoudhu 
-date: 2021-07-12 17:53:10 
-categories: twitter 
---- 
-@nope_its_lily But why. Why does this keep happening.

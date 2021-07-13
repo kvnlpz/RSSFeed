@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 08:56:59 
-categories: twitter 
---- 
-this is definitely equal or better to going to Mars like the Bush administration told us we'd do by 2020

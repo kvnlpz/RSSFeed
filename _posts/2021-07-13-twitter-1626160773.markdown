@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Atedjoe1 
-date: 2021-07-13 00:19:33 
-categories: twitter 
---- 
-@muddywatersre @SFAF_asso Mister T? Rocky 3?

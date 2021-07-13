@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Did I do this math right? My current average win rate is 70%, with an average win of 4% and an average loss of 5% and I'm averaging 15 trades a day. It seems to me that allocating $5k to this 100% leverage strategy would yield me 400 sextillion dollars after a year at my current rate. Is this right? 
-date: 2021-07-11 1626034683 
-categories: reddit 
---- 
-https://redd.it/oibsqi

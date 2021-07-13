@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: There are only 159 Moon holders according to Etherscan 
-date: 2021-07-12 1626141713 
-categories: reddit 
---- 
-https://redd.it/oj5tjj

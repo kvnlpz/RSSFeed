@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @risk_tail 
-date: 2021-07-12 19:47:09 
-categories: twitter 
---- 
-@nope_its_lily Todoist and onenote (evernote ideally but am limited to what I can install on a work computer) are w… https://t.co/qMsbpt9zQE

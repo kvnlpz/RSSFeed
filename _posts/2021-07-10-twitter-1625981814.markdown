@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-10 22:36:54 
-categories: twitter 
---- 
-At the per-person level here, in fact your chance of getting COVID and dying in my example is roughly 5% of the unv… https://t.co/caG4NKeiRA

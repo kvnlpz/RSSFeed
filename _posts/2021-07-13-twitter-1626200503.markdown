@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 11:21:43 
-categories: twitter 
---- 
-'Value is the future, tech is dead because inflation'
-'I would rather be long CVX than MSFT over the next 5-10 years' - March 2021

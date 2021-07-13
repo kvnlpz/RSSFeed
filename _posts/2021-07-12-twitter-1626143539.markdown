@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimTilton5 
-date: 2021-07-12 19:32:19 
-categories: twitter 
---- 
-@InvestorsLive @OddStockTrader @IU_Tyler @Traders4ACause Don’t interrupt, I am reading a very important scan right now

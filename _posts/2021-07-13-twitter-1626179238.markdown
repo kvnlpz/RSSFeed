@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nexikinoti 
-date: 2021-07-13 05:27:18 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ position sizing as percentage of portfolio

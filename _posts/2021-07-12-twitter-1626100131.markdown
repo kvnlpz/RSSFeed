@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:28:51 
-categories: twitter 
---- 
-RT @timothysykes: Here's part 1 of my marathon interview with the man @Jackaroo_Trades who is now over $5 million in trading profits https:…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm am rettarded 
-date: 2021-07-13 1626167777 
-categories: reddit 
---- 
-https://redd.it/ojbvsp

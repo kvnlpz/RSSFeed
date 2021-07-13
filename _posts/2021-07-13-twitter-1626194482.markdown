@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mikefrom_DC 
-date: 2021-07-13 09:41:22 
-categories: twitter 
---- 
-@timothysykes Slow internet??

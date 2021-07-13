@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Starting out with crypto 
-date: 2021-07-10 1625983909 
-categories: reddit 
---- 
-https://redd.it/ohz4sy

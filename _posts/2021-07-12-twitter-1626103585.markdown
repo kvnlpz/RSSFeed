@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 08:26:25 
-categories: twitter 
---- 
-@aHyerPower idk I run my regression and pick my alpha after to fit my biases

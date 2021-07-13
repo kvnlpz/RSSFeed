@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $SQBG ready to rip again 
-date: 2021-07-11 1626052807 
-categories: reddit 
---- 
-https://redd.it/oih14i

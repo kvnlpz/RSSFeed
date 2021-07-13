@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Me and my Bitcoin 
-date: 2021-07-12 1626086229 
-categories: reddit 
---- 
-https://redd.it/oictl7

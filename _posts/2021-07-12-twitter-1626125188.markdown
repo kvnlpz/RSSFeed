@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StocksRHRH 
-date: 2021-07-12 14:26:28 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/8B2zHodri1

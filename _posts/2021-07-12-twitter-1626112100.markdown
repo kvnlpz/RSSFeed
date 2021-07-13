@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 10:48:20 
-categories: twitter 
---- 
-@memetron9000 we could define it as a metric space based on maturities, the y axis trivially has a distance metric I guess

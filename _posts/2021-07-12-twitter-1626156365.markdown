@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockWarning 
-date: 2021-07-12 23:06:05 
-categories: twitter 
---- 
-RT @muddywatersre: Thanks to #Solutions30 for clarifying it wasn't trying to intimidate the SFAF. In the spirit of $S30.FP commitment to "f…

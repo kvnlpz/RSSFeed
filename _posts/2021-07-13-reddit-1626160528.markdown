@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Conjecture: how far can rollups + data shards scale in 2030? 14 million TPS! 
-date: 2021-07-13 1626160528 
-categories: reddit 
---- 
-https://redd.it/ojafz7

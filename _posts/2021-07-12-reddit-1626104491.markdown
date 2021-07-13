@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is Arbitrum, and how is it different from Polygon? 
-date: 2021-07-12 1626104491 
-categories: reddit 
---- 
-https://redd.it/oitu8o

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 11:56:29 
-categories: twitter 
---- 
-@darjohn25 I personally like it better. Coursera courses are too long and verbose. I think the crux is Coursera is… https://t.co/GgRb2HNSAp

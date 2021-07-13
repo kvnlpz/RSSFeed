@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transaction fees 
-date: 2021-07-12 1626105546 
-categories: reddit 
---- 
-https://redd.it/oiu511

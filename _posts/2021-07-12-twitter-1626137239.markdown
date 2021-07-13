@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gatsbyjda 
-date: 2021-07-12 17:47:19 
-categories: twitter 
---- 
-@modern_rock Is this Portland or Detroit?

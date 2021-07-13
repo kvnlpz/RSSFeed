@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorMadan 
-date: 2021-07-10 18:53:51 
-categories: twitter 
---- 
-@nope_its_lily levered hedge fund blowing up (LTCM 2.0). IMO, its a wrong answer because there is too much liquidity in the system.

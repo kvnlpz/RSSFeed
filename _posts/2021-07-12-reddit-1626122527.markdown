@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MRIN short interest as of June 30th: 44% —Nasdaq (4.4M/10M shorted shares) 
-date: 2021-07-12 1626122527 
-categories: reddit 
---- 
-https://redd.it/oizy9r

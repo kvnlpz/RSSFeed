@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnSerwach 
-date: 2021-07-12 15:34:24 
-categories: twitter 
---- 
-@nope_its_lily Gotta be conservative and just go with ETH

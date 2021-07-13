@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin has been banned many times in many geographies, and yet today, adoption is outpacing internet adoption 
-date: 2021-07-11 1626034201 
-categories: reddit 
---- 
-https://redd.it/oibnfi

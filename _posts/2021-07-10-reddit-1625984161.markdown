@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I found a wallet seed phrase in a telegram community. 
-date: 2021-07-10 1625984161 
-categories: reddit 
---- 
-https://redd.it/ohz6ne

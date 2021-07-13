@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-12 10:46:35 
-categories: twitter 
---- 
-@longskew this is only true based on the assumption that crypto goods have positive demand elasticity
-which they do… https://t.co/QcJUCsTCL1

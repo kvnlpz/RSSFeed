@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-13 10:17:00 
-categories: twitter 
---- 
-$DBGI another swipe. Man small caps are bananas.

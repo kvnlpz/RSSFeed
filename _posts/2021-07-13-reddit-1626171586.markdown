@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hypothetical question: Let's suppose I'm a thief/hacker and gained access to your wallet and steal your bitcoin, what can you do to stop me? (In this scenario I stole from your software/mobile wallet and not hardware wallet) 
-date: 2021-07-13 1626171586 
-categories: reddit 
---- 
-https://redd.it/ojcowr

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pwnwtfbbq 
-date: 2021-07-12 07:55:59 
-categories: twitter 
---- 
-@nope_its_lily @ConwayYen I know. As I said earlier, there are multiple other analysis that have been performed usi… https://t.co/4gUgkNVqz6

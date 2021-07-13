@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Microsoft Is Using Bitcoin to Help Build a Decentralized Internet 
-date: 2021-07-11 1625996961 
-categories: reddit 
---- 
-https://redd.it/oi1mnz

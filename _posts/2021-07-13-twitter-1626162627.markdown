@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimothySykes383 
-date: 2021-07-13 00:50:27 
-categories: twitter 
---- 
-RT @TraderBryce: After a rough day on Thursday, I came back to the market yesterday with a clear head and ready to take the best setups.
-
-A…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mathtick 
-date: 2021-07-12 23:26:10 
-categories: twitter 
---- 
-@nope_its_lily Dated Text log file in git that is greppable. Dump links and random whatever in there to find later.

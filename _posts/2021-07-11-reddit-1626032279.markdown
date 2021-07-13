@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best inverse leveraged ETF for writing bearish call credit spreads? 
-date: 2021-07-11 1626032279 
-categories: reddit 
---- 
-https://redd.it/oib29v

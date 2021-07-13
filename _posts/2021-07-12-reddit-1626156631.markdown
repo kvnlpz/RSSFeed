@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to get people to embrace Monero? 
-date: 2021-07-12 1626156631 
-categories: reddit 
---- 
-https://redd.it/oj2631

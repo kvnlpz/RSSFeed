@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I just earned 5 $ here 
-date: 2021-07-11 1626036340 
-categories: reddit 
---- 
-https://redd.it/oicabz

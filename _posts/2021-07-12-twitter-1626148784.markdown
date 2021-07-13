@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @belizeantrader 
-date: 2021-07-12 20:59:44 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Happy Birthday dude!

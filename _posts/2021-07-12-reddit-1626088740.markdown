@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EIP1559 Poised For August Release And Sygnum Bank Now Offers ETH Staking! 
-date: 2021-07-12 1626088740 
-categories: reddit 
---- 
-https://redd.it/oip7pj

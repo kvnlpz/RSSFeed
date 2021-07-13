@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kligerman_carl 
-date: 2021-07-12 01:09:31 
-categories: twitter 
---- 
-@nope_its_lily Cursory: Decentralisation isn’t always virtuous, in the case of media its ambivalence is clear: the… https://t.co/NxOFsCNwDZ

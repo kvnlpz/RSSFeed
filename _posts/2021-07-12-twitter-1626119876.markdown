@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 12:57:56 
-categories: twitter 
---- 
-$ORCL steady low

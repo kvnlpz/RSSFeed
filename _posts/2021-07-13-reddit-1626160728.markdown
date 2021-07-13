@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Few projects with great product and future 
-date: 2021-07-13 1626160728 
-categories: reddit 
---- 
-https://redd.it/ojahie

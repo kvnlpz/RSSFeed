@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dwellerofcave 
-date: 2021-07-12 18:54:37 
-categories: twitter 
---- 
-@nope_its_lily @nic__carter The funniest thing you’ve ever said

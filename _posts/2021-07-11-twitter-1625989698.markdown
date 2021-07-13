@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlexanderYip 
-date: 2021-07-11 00:48:18 
-categories: twitter 
---- 
-RT @timothysykes: New live trading webinar starting now for my https://t.co/occ8wKmlgm students, let's see what we got today, nice to see s…

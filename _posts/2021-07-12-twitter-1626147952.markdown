@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FermiLevels 
-date: 2021-07-12 20:45:52 
-categories: twitter 
---- 
-@nope_its_lily What I would love is an old fashioned secretary.
-
-They would run circles around any app.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kunal00 
-date: 2021-07-13 08:42:08 
-categories: twitter 
---- 
-@InvestorsLive I usually park mine in my underoos

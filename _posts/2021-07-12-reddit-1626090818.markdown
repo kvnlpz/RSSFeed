@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to create an NFT marketplace? 
-date: 2021-07-12 1626090818 
-categories: reddit 
---- 
-https://redd.it/oipp8k

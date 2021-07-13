@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is keeping your coins on an exchange or centralized service REALLY less safe than in your own wallet for the average user? 
-date: 2021-07-13 1626167310 
-categories: reddit 
---- 
-https://redd.it/ojbshu

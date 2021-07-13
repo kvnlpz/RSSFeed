@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @schuberthasflln 
-date: 2021-07-12 20:11:13 
-categories: twitter 
---- 
-@nope_its_lily Asana

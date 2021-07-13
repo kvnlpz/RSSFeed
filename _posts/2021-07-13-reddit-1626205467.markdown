@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monero NYC Meetup - 2021 JUL - Atomic Cross Chain Swaps - Thorchain Chainflip - BTC <> XMR 
-date: 2021-07-13 1626205467 
-categories: reddit 
---- 
-https://redd.it/ojnadx

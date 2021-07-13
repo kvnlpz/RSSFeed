@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 10:30:07 
-categories: twitter 
---- 
-@PeterNBell @GrantMBeasley can't lose money if you don't know how much money you have

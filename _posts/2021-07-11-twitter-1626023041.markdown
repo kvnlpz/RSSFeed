@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_BlockTrader_ 
-date: 2021-07-11 10:04:01 
-categories: twitter 
---- 
-RT @nope_its_lily: nice thread from someone who is measured and not a permabear

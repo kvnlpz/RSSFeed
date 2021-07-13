@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-12 13:56:31 
-categories: twitter 
---- 
-@not_lucid_ 2 years

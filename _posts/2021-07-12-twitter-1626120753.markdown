@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paultweet8 
-date: 2021-07-12 13:12:33 
-categories: twitter 
---- 
-@InvestorsLive lmaoo!!

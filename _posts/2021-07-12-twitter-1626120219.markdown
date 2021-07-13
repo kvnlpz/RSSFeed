@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradeCharity 
-date: 2021-07-12 13:03:39 
-categories: twitter 
---- 
-@timothysykes Finished today like......studying pays off... https://t.co/y5rg2ZlyZ7

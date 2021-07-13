@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Starname 
-date: 2021-07-11 1625987936 
-categories: reddit 
---- 
-https://redd.it/ohzxr0

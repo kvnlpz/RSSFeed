@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Powerful Lightning strike (Someone lost XMR keys) 
-date: 2021-07-13 1626173191 
-categories: reddit 
---- 
-https://redd.it/ojd17g

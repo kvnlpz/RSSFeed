@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stock Market Crash? 
-date: 2021-07-12 1626084107 
-categories: reddit 
---- 
-https://redd.it/oio7sd

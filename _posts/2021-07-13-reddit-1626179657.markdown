@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New Subreddit For 'Real World' Projects 
-date: 2021-07-13 1626179657 
-categories: reddit 
---- 
-https://redd.it/ojemxb

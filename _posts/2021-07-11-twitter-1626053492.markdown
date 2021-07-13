@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YilingMartin 
-date: 2021-07-11 18:31:32 
-categories: twitter 
---- 
-@nope_its_lily You mean more like Jane.

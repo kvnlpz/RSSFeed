@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrandonSardelli 
-date: 2021-07-12 16:49:00 
-categories: twitter 
---- 
-@OddStockTrader $nee

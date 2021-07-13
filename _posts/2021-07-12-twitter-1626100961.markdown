@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Asktimothysykes 
-date: 2021-07-12 07:42:41 
-categories: twitter 
---- 
-RT @timothysykes: I'm thrilled to report we just got approved to begin my charity's 76th school build/renovation, our 1st project in Iraq!…

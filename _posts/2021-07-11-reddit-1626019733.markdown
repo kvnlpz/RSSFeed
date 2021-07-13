@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We need a moons marketplace 
-date: 2021-07-11 1626019733 
-categories: reddit 
---- 
-https://redd.it/oi78mh

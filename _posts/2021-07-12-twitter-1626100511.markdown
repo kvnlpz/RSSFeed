@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ndscherer 
-date: 2021-07-12 07:35:11 
-categories: twitter 
---- 
-@RayTL_ @EmilioVastola @atulbranade At least it finally tightened up. Becoming more interesting

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @flookydook 
-date: 2021-07-13 09:41:38 
-categories: twitter 
---- 
-@nope_its_lily I remember when u used to give Cem shit for overstating the impt of vol and option flow. How times have changed.

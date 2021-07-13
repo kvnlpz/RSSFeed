@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FluxTheology 
-date: 2021-07-12 20:52:07 
-categories: twitter 
---- 
-@nope_its_lily should be obvious at this point that we can handle the case load w/o measures.
-
-Goal was accomplishe… https://t.co/gPthKFDjNj

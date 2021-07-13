@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Nick_neal17 
-date: 2021-07-13 08:40:25 
-categories: twitter 
---- 
-RT @InvestorsLive: Hoping to put a particular trade in the file cabinet #IAmPatient 📁📂🗃🗄

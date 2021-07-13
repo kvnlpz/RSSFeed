@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RishardRTK 
-date: 2021-07-13 10:06:05 
-categories: twitter 
---- 
-RT @OddStockTrader: Trade to live, don't live to trade. https://t.co/V3qmrdjUAf

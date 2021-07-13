@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-12 19:55:47 
-categories: twitter 
---- 
-RT @Egld_for_life: Soon we will see this all over the world where anyone can purchase things anywhere in the world without exchanging local…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: JP Morgan news 
-date: 2021-07-13 1626193252 
-categories: reddit 
---- 
-https://redd.it/ojj11h

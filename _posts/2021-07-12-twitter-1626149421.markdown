@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jfahmy 
-date: 2021-07-12 21:10:21 
-categories: twitter 
---- 
-@alphatrends I'm happy if 3 of them line up, which is still rare. We need to do another webinar soon!

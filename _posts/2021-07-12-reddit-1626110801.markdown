@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stacker News: Bitcoin News Aggregator Powered by Lightning Network 
-date: 2021-07-12 1626110801 
-categories: reddit 
---- 
-https://redd.it/oivzb7

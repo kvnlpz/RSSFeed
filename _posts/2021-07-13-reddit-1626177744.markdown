@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain Beyond Crypto: Connecting Off-Chain and On-Chain Data (Parsiq NASDAQ Article) 
-date: 2021-07-13 1626177744 
-categories: reddit 
---- 
-https://redd.it/oje4kt

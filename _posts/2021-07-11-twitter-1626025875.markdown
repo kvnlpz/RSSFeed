@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CRYPTOHOLD3 
-date: 2021-07-11 10:51:15 
-categories: twitter 
---- 
-@super_trades @dobuybitcoin https://t.co/te7w5OKEvM

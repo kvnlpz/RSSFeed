@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_ScorpionTrader 
-date: 2021-07-13 10:09:55 
-categories: twitter 
---- 
-@timothysykes That’s awesome man. What a beautiful view in the background.

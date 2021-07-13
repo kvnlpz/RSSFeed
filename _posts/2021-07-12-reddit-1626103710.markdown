@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In response to the front page story of the guy losing 260k to a metamask wallet hacker 
-date: 2021-07-12 1626103710 
-categories: reddit 
---- 
-https://redd.it/oitkxo

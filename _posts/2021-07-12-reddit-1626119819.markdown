@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I finally got a Trezor! 
-date: 2021-07-12 1626119819 
-categories: reddit 
---- 
-https://redd.it/oiz1ad

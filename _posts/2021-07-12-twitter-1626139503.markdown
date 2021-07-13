@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-12 18:25:03 
-categories: twitter 
---- 
-@DanielMoreiraUY Check out TL Scripts on https://t.co/sj0oBucYAG

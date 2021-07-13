@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Visor Finance Integrates Chainlink Keepers to Automate Liquidity Provisioning Strategies on Uniswap v3 
-date: 2021-07-12 1626124422 
-categories: reddit 
---- 
-https://redd.it/oj0lev

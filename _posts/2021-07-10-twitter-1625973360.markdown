@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-10 20:16:00 
-categories: twitter 
---- 
-@hanssono1 Nope, manyyyyy more tools now than when I first started 20+ years ago

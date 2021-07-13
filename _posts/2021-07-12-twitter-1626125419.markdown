@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-12 14:30:19 
-categories: twitter 
---- 
-How to manage risk in the stock market https://t.co/5huXACEYR7 https://t.co/j94nIerEMF

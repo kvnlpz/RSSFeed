@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConvexityCap 
-date: 2021-07-11 18:01:48 
-categories: twitter 
---- 
-@nope_its_lily I can only follow ~200 people before I lose track of what I read. Do you use the chronological feed… https://t.co/txVrQGo8ip

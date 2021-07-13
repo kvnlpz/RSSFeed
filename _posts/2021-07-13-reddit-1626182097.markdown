@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Exploring Collateral Backing for Stablecoins and how a Reserve-Based Migration of the Financial Industry to the Blockchain can be possible. The outcome would be one where Traditional Financial systems are greatly improved through leveraging off-of Blockchain tech and DeFi based mechanisms 
-date: 2021-07-13 1626182097 
-categories: reddit 
---- 
-https://redd.it/ojfc3j

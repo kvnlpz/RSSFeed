@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Asktimothysykes 
-date: 2021-07-12 14:15:28 
-categories: twitter 
---- 
-RT @timothysykes: Newbies: remember you know practically know nothing about risk management &amp; if you started during this #Stimuluscheck fun…

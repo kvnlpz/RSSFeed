@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @impliedcaracal 
-date: 2021-07-12 19:46:57 
-categories: twitter 
---- 
-@nope_its_lily notion to keep track of the long-term goals and direction, then break it down into things you can realistically do this week

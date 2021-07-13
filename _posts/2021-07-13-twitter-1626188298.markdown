@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_mirik 
-date: 2021-07-13 07:58:18 
-categories: twitter 
---- 
-RT @InvestorsLive: $SGOC lol

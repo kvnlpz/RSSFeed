@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to create a transaction using cardano-wallet API 
-date: 2021-07-10 1625976818 
-categories: reddit 
---- 
-https://redd.it/ohxl4t

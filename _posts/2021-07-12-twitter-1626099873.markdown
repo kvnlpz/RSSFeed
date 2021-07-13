@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:24:33 
-categories: twitter 
---- 
-RT @timothysykes: I’m SO proud to announce the opening of the 73rd @karmagawa school/library worldwide in honor of one of my hardest workin…

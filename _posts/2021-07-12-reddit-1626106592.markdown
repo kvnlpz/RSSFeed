@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How safe are wrapped coins exactly? 
-date: 2021-07-12 1626106592 
-categories: reddit 
---- 
-https://redd.it/oiui8v

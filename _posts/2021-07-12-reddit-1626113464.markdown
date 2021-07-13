@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I need a web wallet that can be access through a browser. 
-date: 2021-07-12 1626113464 
-categories: reddit 
---- 
-https://redd.it/oiwwa5

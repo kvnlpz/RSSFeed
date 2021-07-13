@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrinvesty 
-date: 2021-07-13 07:43:27 
-categories: twitter 
---- 
-RT @InvestorsLive: $IMTE steady buyer in tape all day.

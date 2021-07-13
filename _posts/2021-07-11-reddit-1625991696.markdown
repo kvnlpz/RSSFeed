@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Buy iso20022 coins? 
-date: 2021-07-11 1625991696 
-categories: reddit 
---- 
-https://redd.it/oi0ng3

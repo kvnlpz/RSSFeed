@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-11 18:50:40 
-categories: twitter 
---- 
-By the way, if you had followed my playbook on the liquidity dumping, you would've shorted 64 it seems and we're at 54 now.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Brave Together is relaunching as Brave Talk soon for private video calls directly from your Brave browser with BAT integration! 
-date: 2021-07-11 1626045593 
-categories: reddit 
---- 
-https://redd.it/oif1hy

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-13 10:11:00 
-categories: twitter 
---- 
-@md01984 @j_pavness Amazingly well

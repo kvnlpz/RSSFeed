@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SheepOfWallStrt 
-date: 2021-07-12 18:56:42 
-categories: twitter 
---- 
-RT @nope_its_lily: little known fact is if you take the integral over an options chain, you have a stock
-it's an industry secret but that's…

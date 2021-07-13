@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto exchanges, privacy and personal data: a quick overview 
-date: 2021-07-12 1626077170 
-categories: reddit 
---- 
-https://redd.it/oimut7

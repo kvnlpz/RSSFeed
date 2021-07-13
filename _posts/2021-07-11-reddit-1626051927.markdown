@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transaction Builder in Ray Wallet! 
-date: 2021-07-11 1626051927 
-categories: reddit 
---- 
-https://redd.it/oigsdk

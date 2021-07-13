@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My 2021 WSB 
-date: 2021-07-11 1625988562 
-categories: reddit 
---- 
-https://redd.it/oi01of

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chadstonefin 
-date: 2021-07-11 08:31:37 
-categories: twitter 
---- 
-RT @nope_its_lily: I'm seeing a lot of weird conspiracy mongering about more vaccinated people being among the COVID-19 sick and dead, as e…

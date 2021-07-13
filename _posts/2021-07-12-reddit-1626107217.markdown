@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Setting the tone: Bitcoin is kicking off this week with inflows into exchanges. CryptoQuant alert bot shows inflows into Gemini, Bithumb and Binance. Charts also show an inflow mean spike triggered which shows on the Bitfinex chart. 
-date: 2021-07-12 1626107217 
-categories: reddit 
---- 
-https://redd.it/oiuq70

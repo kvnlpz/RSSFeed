@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Pirata089 
-date: 2021-07-13 05:11:01 
-categories: twitter 
---- 
-RT @InvestorsLive: $SPCE impressive rally off the pre market lows

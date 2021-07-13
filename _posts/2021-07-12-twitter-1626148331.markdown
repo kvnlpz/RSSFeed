@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_illiterate_ 
-date: 2021-07-12 20:52:11 
-categories: twitter 
---- 
-@nope_its_lily @tendie_swap

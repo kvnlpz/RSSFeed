@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Marketwatch reports MRIN short interest at 48% as of June 30th. Highest reported short interest. 
-date: 2021-07-12 1626126957 
-categories: reddit 
---- 
-https://redd.it/oj1g07

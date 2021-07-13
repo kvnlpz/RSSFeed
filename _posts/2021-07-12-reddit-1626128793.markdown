@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FUD vs Questions / concerns 
-date: 2021-07-12 1626128793 
-categories: reddit 
---- 
-https://redd.it/oj227p

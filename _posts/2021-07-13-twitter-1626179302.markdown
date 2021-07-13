@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @samirbarden 
-date: 2021-07-13 05:28:22 
-categories: twitter 
---- 
-@InvestorsLive Thx!
-Feels like we EU traders are also considered to be pre-market details :)

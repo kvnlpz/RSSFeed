@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MaxxPayme 
-date: 2021-07-12 22:09:26 
-categories: twitter 
---- 
-RT @Super70sSports: Not gonna lie, a little emotional right now … https://t.co/APPJ1MzV5S

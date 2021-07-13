@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @icerovski 
-date: 2021-07-12 20:48:10 
-categories: twitter 
---- 
-@nope_its_lily About a third of the people want their life restricted forever. Not sure what to make of this.

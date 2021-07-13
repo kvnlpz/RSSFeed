@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @flyingcamel56 
-date: 2021-07-12 12:45:37 
-categories: twitter 
---- 
-@InvestorsLive Might need a cold one to celebrate https://t.co/tk7aIR7ZyF

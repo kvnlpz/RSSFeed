@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BorreroTrader 
-date: 2021-07-11 00:49:04 
-categories: twitter 
---- 
-@nope_its_lily Nothing, it will be some corrections but that’s it!

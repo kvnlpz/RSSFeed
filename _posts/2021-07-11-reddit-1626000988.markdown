@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $RSLS 
-date: 2021-07-11 1626000988 
-categories: reddit 
---- 
-https://redd.it/oi2elp

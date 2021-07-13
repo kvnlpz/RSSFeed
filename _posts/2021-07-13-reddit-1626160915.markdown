@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Celsius vs Nexo 
-date: 2021-07-13 1626160915 
-categories: reddit 
---- 
-https://redd.it/ojaiu0

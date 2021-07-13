@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DoejiStar 
-date: 2021-07-12 23:25:36 
-categories: twitter 
---- 
-@nope_its_lily Evernote... it's all you'll ever need

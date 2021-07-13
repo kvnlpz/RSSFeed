@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jlutzkanin 
-date: 2021-07-12 18:35:12 
-categories: twitter 
---- 
-@RayTL_ Looks like crap.  That is a technical term.  50d is the final line in the sand

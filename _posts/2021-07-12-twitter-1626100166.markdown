@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xtremelyntense 
-date: 2021-07-12 07:29:26 
-categories: twitter 
---- 
-@timothysykes Insider information sir

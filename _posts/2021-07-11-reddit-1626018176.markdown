@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin mining machines in China are now ramping up efforts to manufacture AI chips 
-date: 2021-07-11 1626018176 
-categories: reddit 
---- 
-https://redd.it/oi6rpt

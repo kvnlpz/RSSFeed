@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GoRogueAnalysis 
-date: 2021-07-12 08:25:01 
-categories: twitter 
---- 
-@nope_its_lily Your model is way to interpretable....

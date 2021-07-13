@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @romankhai 
-date: 2021-07-12 20:48:15 
-categories: twitter 
---- 
-@nope_its_lily @tendie_swap

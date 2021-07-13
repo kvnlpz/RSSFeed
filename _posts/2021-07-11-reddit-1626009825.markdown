@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Diamond rewards on coinmarketcap 
-date: 2021-07-11 1626009825 
-categories: reddit 
---- 
-https://redd.it/oi4dsj

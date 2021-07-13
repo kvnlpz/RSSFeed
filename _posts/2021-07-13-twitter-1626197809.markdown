@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @getbuildingit 
-date: 2021-07-13 10:36:49 
-categories: twitter 
---- 
-@InvestorsLive About to pop!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MattGoldstein26 
-date: 2021-07-13 04:47:15 
-categories: twitter 
---- 
-@muddywatersre @FlitterOnFraud @HindenburgRes Fwiw we have written about Hindenburg in prior stories on Lordstown

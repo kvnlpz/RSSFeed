@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ReuvenSoraya 
-date: 2021-07-11 10:13:19 
-categories: twitter 
---- 
-@nope_its_lily The question is why would you accept to live inside to begin with?

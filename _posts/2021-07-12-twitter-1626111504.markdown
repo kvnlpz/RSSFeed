@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-12 10:38:24 
-categories: twitter 
---- 
-@Flex__Trades This. This right here! Lol

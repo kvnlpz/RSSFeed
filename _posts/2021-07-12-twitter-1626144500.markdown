@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @risk_tail 
-date: 2021-07-12 19:48:20 
-categories: twitter 
---- 
-@nope_its_lily Todoist can get a little annoying (but also this is a value add) in that it reminds how many tasks y… https://t.co/SAnYZi13GL

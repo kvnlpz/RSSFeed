@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:14:29 
-categories: twitter 
---- 
-RT @timothysykes: @iamcardib Great idea, please help match my charity’s $565,000 donation to @PartnersRelief and let’s change the world tog…

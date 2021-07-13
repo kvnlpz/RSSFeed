@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cosmos Hub Proposal #52 - ATOM 🤝 Osmosis: Allocate Community Pool to ATOM Liquidity Incentives 
-date: 2021-07-11 1626038451 
-categories: reddit 
---- 
-https://redd.it/oicw83

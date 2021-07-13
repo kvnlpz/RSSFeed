@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @southofthatline 
-date: 2021-07-11 09:54:15 
-categories: twitter 
---- 
-@nope_its_lily Nothing. Absolutely nothing.

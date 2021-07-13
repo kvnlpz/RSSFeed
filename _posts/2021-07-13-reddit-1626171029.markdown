@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are private keys even stored on the Ledger Nano S? 
-date: 2021-07-13 1626171029 
-categories: reddit 
---- 
-https://redd.it/ojckfm

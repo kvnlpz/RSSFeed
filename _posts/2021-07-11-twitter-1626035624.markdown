@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_capital 
-date: 2021-07-11 13:33:44 
-categories: twitter 
---- 
-RT @nope_its_lily: @JKevin2011 I prefer to stick with causal relationships for this reason. It's very difficult to meet the standards of so…

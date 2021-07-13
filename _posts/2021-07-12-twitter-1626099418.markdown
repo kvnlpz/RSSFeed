@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysyke0 
-date: 2021-07-12 07:16:58 
-categories: twitter 
---- 
-RT @timothysykes: Merry Christmas! I'm proud to support @stoolpresidente &amp; the great #barstoolfund to help small businesses in these tough…

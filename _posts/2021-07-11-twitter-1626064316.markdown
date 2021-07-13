@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @blocksoflego 
-date: 2021-07-11 21:31:56 
-categories: twitter 
---- 
-@nope_its_lily You tweeted about orderbook and price volatility some weeks ago. Would love to read your thoughts ab… https://t.co/0gmoVU74og

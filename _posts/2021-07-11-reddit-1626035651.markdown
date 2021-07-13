@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Not being able to decide for a hardware wallet actually burns me somehow out - Need help 
-date: 2021-07-11 1626035651 
-categories: reddit 
---- 
-https://redd.it/oic32a

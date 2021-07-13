@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @__super__trade 
-date: 2021-07-12 04:54:43 
-categories: twitter 
---- 
-RT @super_trades: @WesleyBKress amazing post !! everyone should read this and evaluate the depth of research they do versus arguing their o…

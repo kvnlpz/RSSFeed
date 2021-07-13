@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-12 00:57:30 
-categories: twitter 
---- 
-RT @StocksToTrade: Setting goals is the first step from turning the invisible into the visible.
-
-What are your big picture goals?

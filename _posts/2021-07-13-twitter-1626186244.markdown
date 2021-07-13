@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeBellafiore 
-date: 2021-07-13 07:24:04 
-categories: twitter 
---- 
-How to Backtest a Trading Strategy (Getting Started) https://t.co/KtWGIQ5mve via @YouTube
