@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cartesi wallet 
-date: 2021-07-13 1626211784 
-categories: reddit 
---- 
-https://redd.it/ojpgm2
