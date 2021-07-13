@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @peitchy_T 
+date: 2021-07-13 14:54:14 
+categories: twitter 
+--- 
+@RayTL_ @TraderLion_ @tradingview Forgot to mention I had to close out the indicator and re-add it to my charts to get the update.
