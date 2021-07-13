@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Staking - does my delegation automatically renew each epoch or does it require me to manually delegate each epoch? Is the fee to join a pool per epoch? Or is it a one time ‘joiners-fee’? Thank you. 
+date: 2021-07-13 1626217688 
+categories: reddit 
+--- 
+https://redd.it/ojrd64
