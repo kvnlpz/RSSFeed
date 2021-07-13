@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone please explain to me like I'm a total idiot what "post limit order is". 
-date: 2021-07-13 1626211236 
-categories: reddit 
---- 
-https://redd.it/ojp9w0
