@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @barteleon 
+date: 2021-07-13 18:15:58 
+categories: twitter 
+--- 
+@nope_its_lily I smell 🥐s here.
