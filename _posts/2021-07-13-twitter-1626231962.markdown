@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xElm0 
-date: 2021-07-13 20:06:02 
-categories: twitter 
---- 
-@nope_its_lily I love that you stand to make back gas fees if HEX pumps and yet there are more disclosures in this… https://t.co/A45D9ZKm01
