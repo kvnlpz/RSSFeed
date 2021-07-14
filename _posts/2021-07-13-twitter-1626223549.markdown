@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-13 17:45:49 
-categories: twitter 
---- 
-RT @lx21: I am upgrading $LIVE to ROFLMAO from LOL as the daily PRs get more and more ridiculous.
