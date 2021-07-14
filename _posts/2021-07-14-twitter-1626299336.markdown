@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @tarunchitra 
+date: 2021-07-14 14:48:56 
+categories: twitter 
+--- 
+@nope_its_lily If your utility function is log*(x), it doesn’t matter
+
+Yes, this is a terrible math joke related to… https://t.co/ZomQpzbXS9
