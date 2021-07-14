@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance Futual BTCUSDT Realtime 2 Seconds Candle & Volume Chart 
-date: 2021-07-13 1626221238 
-categories: reddit 
---- 
-https://redd.it/ojsfpl
