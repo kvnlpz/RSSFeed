@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Araoluwa_mii 
-date: 2021-07-13 20:14:44 
-categories: twitter 
---- 
-@nope_its_lily Having issues with your metamask wallet I think you should contact the metamask support here
-
-https://t.co/Yh64vazSGn
