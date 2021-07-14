@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Mobile wallet with security key 2fa? 
+date: 2021-07-13 1626224647 
+categories: reddit 
+--- 
+https://redd.it/ojtf0b
