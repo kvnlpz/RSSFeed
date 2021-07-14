@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-13 20:19:46 
-categories: twitter 
---- 
-RT @Marty1117: @timothysykes 4:39am in africa! 🙌🏻 https://t.co/xo7eYuR4MJ
