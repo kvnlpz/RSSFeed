@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @loomdart 
+date: 2021-07-14 11:19:26 
+categories: twitter 
+--- 
+@nope_its_lily Because it is
