@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @everynewdaysk 
-date: 2021-07-13 22:26:03 
-categories: twitter 
---- 
-@InvestorsLive Went to $1.30 in October of last year!
