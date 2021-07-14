@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @javstop 
+date: 2021-07-14 14:51:53 
+categories: twitter 
+--- 
+@nope_its_lily #AMC because i like it
