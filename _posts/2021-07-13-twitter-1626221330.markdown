@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @619SD_Rick2 
-date: 2021-07-13 17:08:50 
-categories: twitter 
---- 
-@InvestorsLive This time last year, cases were going up and so was the market
