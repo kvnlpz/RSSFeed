@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-13 21:26:59 
-categories: twitter 
---- 
-RT @quantisnow: $VRAR 📜 SEC Form 3: Rothblum Maydan claimed ownership of 477,056 units of Common Stock
-
-https://t.co/wXreCUEtsk
