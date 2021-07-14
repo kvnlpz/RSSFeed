@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When in doubt zoom out 
-date: 2021-07-13 1626245674 
-categories: reddit 
---- 
-https://redd.it/ojyu7e
