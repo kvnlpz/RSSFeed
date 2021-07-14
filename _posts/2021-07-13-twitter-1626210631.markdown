@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SubstackLinda 
-date: 2021-07-13 14:10:31 
-categories: twitter 
---- 
-RT @nope_its_lily: As someone who runs a Substack, I'm thrilled to be named bad for democracy by the New York Times. I deliver the hard hit…
