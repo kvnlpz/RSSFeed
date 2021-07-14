@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I sold a call earlier in the week expiring this Friday. If, at the end of the day Friday the stock price is above the strike price, but less than the strike+premium will it get exercised? 
-date: 2021-07-14 1626269600 
-categories: reddit 
---- 
-https://redd.it/ok4fh2
