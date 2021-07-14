@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking Bitcoin where? 
-date: 2021-07-14 1626269838 
-categories: reddit 
---- 
-https://redd.it/ok4i47
