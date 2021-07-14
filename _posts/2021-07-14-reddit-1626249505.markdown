@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does the collateral on a short straddle work? Is it just cash secured on both sides? 
-date: 2021-07-14 1626249505 
-categories: reddit 
---- 
-https://redd.it/ojznfj
