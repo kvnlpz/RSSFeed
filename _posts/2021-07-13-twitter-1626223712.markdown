@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-13 17:48:32 
-categories: twitter 
---- 
-RT @lx21: $EGLE from the 8-K "0.01076 shares of New Eagle Common Stock for each existing share of common stock of the Company"
