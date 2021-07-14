@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: 1/T * [-(S0σe^(-qt) / (2(Sqrt(t)) * 1 / (Sqrt(2π)) * e^((-d1^2)/2)) - rXe^(-rt)N(d2) + qS0e^(-qt)N(d1)] 
+date: 2021-07-14 1626284304 
+categories: reddit 
+--- 
+https://redd.it/ok9ejd
