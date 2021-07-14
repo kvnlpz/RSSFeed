@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MarkBauer 
+date: 2021-07-14 15:27:14 
+categories: twitter 
+--- 
+RT @OddStockTrader: Good take here. https://t.co/Ckt1lrWBWh
