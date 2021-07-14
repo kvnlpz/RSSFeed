@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So is anyone having trouble with BSC transactions, or is it just me? 
-date: 2021-07-13 1626220221 
-categories: reddit 
---- 
-https://redd.it/ojs4xp
