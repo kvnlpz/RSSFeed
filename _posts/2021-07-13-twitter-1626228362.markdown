@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trades_simple 
-date: 2021-07-13 19:06:02 
-categories: twitter 
---- 
-RT @RayTL_: Excited about this series on @TraderLion_ YouTube Channel - an update is also coming up on @tradingview  Enhanced Volume this w…
