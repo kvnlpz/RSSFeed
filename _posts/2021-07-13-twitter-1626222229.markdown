@@ -1,0 +1,13 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-13 17:23:49 
+categories: twitter 
+--- 
+Sure 👇
+
+- New cases: 3,652
+- Average: 2,199 (+378)
+- In hospital: 2,460 (+115)
+- In ICU: 781 (+93)
+- New deaths: 29
