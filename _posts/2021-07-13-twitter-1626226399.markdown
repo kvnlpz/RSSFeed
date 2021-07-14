@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yeskaycapital 
-date: 2021-07-13 18:33:19 
-categories: twitter 
---- 
-@InvestorsLive $WISH next ?
