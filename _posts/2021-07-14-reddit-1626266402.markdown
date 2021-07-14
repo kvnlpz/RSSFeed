@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Golden Legend, the NFT publishing platform based on Nervos Network 
-date: 2021-07-14 1626266402 
-categories: reddit 
---- 
-https://redd.it/ok3hsa
