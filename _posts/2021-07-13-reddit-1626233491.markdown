@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What was the biggest mistake you have made or which crash effected you the most? What did we learn from it? Are we a better trader? Thoughts 
-date: 2021-07-13 1626233491 
-categories: reddit 
---- 
-https://redd.it/ojvw9m
