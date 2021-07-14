@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is Bitcoin building a database of extremely precise trajectories along an ellipti-curve that can someday be used as a navigation tool for traveling the stars? 
+date: 2021-07-13 1626245422 
+categories: reddit 
+--- 
+https://redd.it/ojys5e
