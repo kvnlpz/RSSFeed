@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Apparently zilliqa can shut down the mainnet and make it to where you can not run any transactions at all. I been trying to send and receive some zil since yesterday and they effectively shut down zil as a whole 
-date: 2021-07-14 1626269766 
-categories: reddit 
---- 
-https://redd.it/ok3uaq
