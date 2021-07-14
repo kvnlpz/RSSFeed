@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-13 14:41:28 
-categories: twitter 
---- 
-@Diamond_Stock @RichardMoglen @PM_Stock Also, have alternatives for yfinance ready. 🤣
