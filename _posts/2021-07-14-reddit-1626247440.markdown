@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $SOFI technical analysis cheat sheet 
-date: 2021-07-14 1626247440 
-categories: reddit 
---- 
-https://redd.it/ojz7xn
