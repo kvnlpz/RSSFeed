@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marineromar10 
-date: 2021-07-13 15:35:34 
-categories: twitter 
---- 
-@timothysykes https://t.co/YAdghZbQ4e
