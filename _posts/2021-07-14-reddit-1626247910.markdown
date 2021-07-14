@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DRRX 
-date: 2021-07-14 1626247910 
-categories: reddit 
---- 
-https://redd.it/ojzbig
