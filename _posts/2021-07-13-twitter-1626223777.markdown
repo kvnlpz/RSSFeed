@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RyanWright84 
-date: 2021-07-13 17:49:37 
-categories: twitter 
---- 
-RT @nope_its_lily: I might be old fashioned, but I personally think we should ban psychology PhDs from fixing AMC's price action to harm re…
