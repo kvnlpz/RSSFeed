@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @notseriousknown 
-date: 2021-07-13 17:30:36 
-categories: twitter 
---- 
-@InvestorsLive Texas 2019 population about 29 million        https://t.co/iA9dkbBrZ0
