@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-14 11:58:06 
+categories: twitter 
+--- 
+@gregpew glad you took advantage!
