@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @craigosullivan 
-date: 2021-07-13 20:17:08 
-categories: twitter 
---- 
-@alphatrends We already hit upper 20s on June 21st
