@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a hot wallet for Android created by Satoshi Nakamoto? 
-date: 2021-07-13 1626234631 
-categories: reddit 
---- 
-https://redd.it/ojw747
