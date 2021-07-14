@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-13 21:09:26 
-categories: twitter 
---- 
-@SpanishTrader88 great to hear!
