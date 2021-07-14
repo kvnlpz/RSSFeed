@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CarltonTrades 
-date: 2021-07-13 18:20:07 
-categories: twitter 
---- 
-@InvestorsLive You think it’ll bounce from here? (Not to sound like such a novice)
