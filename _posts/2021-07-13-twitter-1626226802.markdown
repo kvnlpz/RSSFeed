@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Marty1117 
-date: 2021-07-13 18:40:02 
-categories: twitter 
---- 
-@timothysykes 4:39am in africa! 🙌🏻 https://t.co/xo7eYuR4MJ
