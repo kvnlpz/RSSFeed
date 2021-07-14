@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Interoperability Project Connext Raises $12M 
-date: 2021-07-13 1626233123 
-categories: reddit 
---- 
-https://redd.it/ojvsoj
