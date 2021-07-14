@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DPermabear 
-date: 2021-07-13 14:31:52 
-categories: twitter 
---- 
-@nope_its_lily sounds transitory!
