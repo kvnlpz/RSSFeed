@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-07-14 14:49:59 
+categories: twitter 
+--- 
+Good take here.
