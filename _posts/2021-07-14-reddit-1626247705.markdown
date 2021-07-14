@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Halving the TezEdge node’s memory usage with an eBPF-based memory profiler 
-date: 2021-07-14 1626247705 
-categories: reddit 
---- 
-https://redd.it/ojz9y9
