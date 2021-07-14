@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I send this from my wallet. I’m on EOS authority and I downloaded scatter but nothing happens when I select scatter 
-date: 2021-07-14 1626262373 
-categories: reddit 
---- 
-https://redd.it/ok2goc
