@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KMAZ55335476 
-date: 2021-07-13 17:13:03 
-categories: twitter 
---- 
-@InvestorsLive Hospitalization statistics are now more important then cases...
