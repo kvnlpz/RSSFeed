@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase Wallet Adds Support for Ethereum Scaling Solution Polygon. 
-date: 2021-07-14 1626254906 
-categories: reddit 
---- 
-https://redd.it/ok0rhs
