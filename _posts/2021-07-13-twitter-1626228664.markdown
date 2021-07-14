@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-13 19:11:04 
-categories: twitter 
---- 
-@russellvalenti @Amp_Trades Happy Birthday!
