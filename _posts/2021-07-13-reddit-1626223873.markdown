@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should I be paying taxes for mining Ethereum? 
-date: 2021-07-13 1626223873 
-categories: reddit 
---- 
-https://redd.it/ojt6zh
