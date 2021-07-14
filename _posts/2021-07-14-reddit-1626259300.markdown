@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ObviousTip: when tracking trading vols make sure you're charting a good exchange for THAT time of day 
-date: 2021-07-14 1626259300 
-categories: reddit 
---- 
-https://redd.it/ok1pw3
