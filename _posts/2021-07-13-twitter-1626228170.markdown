@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markfIowchater 
-date: 2021-07-13 19:02:50 
-categories: twitter 
---- 
-RT @markflowchatter: Upcoming AAIC'21 Data to Highlight How Simufilam R&amp;D Strategy May be Pivoting Away from One That is Purely High-Risk/H…
