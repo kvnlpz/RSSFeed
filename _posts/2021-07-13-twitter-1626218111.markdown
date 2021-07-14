@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vwapnation 
-date: 2021-07-13 16:15:11 
-categories: twitter 
---- 
-@G_krupins $AVGO #AVGO #reactiveanalysis 
-Reactive analysis :) https://t.co/cVtvxU3Ci3
