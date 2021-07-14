@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AwesomusPrime 
-date: 2021-07-13 18:24:08 
-categories: twitter 
---- 
-@InvestorsLive Reverse splits are becoming an annual tradition for them.
