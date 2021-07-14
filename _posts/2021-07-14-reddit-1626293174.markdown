@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: After a 51% attack last week and due to a mining pool capturing 78% of Bitcoin SV's hashrate, several exchanges have halted all services for Bitcoin SV 
+date: 2021-07-14 1626293174 
+categories: reddit 
+--- 
+https://redd.it/okcfyi
