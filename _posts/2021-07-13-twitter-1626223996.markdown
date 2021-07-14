@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jimcollins 
-date: 2021-07-13 17:53:16 
-categories: twitter 
---- 
-RT @InvestorsLive: The numbers are rollin' in
-
-Texas reports 3,652 new coronavirus cases, up 264% from last week.
