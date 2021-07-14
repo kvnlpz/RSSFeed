@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TheTradeBlazer 
+date: 2021-07-14 15:40:45 
+categories: twitter 
+--- 
+@InvestorsLive Hmm, is this about liquidity or volume? Or are they synonymous?
