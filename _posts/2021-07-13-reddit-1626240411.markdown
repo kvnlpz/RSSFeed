@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So I had an interesting experience with Robinhood today that some folks might find useful (yes I know I should switch brokers) 
-date: 2021-07-13 1626240411 
-categories: reddit 
---- 
-https://redd.it/ojxnl4
