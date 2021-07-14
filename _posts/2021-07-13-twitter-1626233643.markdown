@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CasPiancey 
-date: 2021-07-13 20:34:03 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/RFsDfv2vmH
