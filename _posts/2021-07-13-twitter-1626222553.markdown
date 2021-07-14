@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphacharts365 
-date: 2021-07-13 17:29:13 
-categories: twitter 
---- 
-@RayTL_ Thanks Ray, I’m still trying to figure out if I like that format or not. Glad you liked them Ray
