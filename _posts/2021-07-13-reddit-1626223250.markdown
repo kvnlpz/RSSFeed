@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market share and price projection 
-date: 2021-07-13 1626223250 
-categories: reddit 
---- 
-https://redd.it/ojt0fi
