@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-13 17:45:45 
-categories: twitter 
---- 
-RT @lx21: What is this stock worth? (most recent 20-F) revenues = $7.3M; debt = $159.9M; Profit = -146.8M; dilution: nearly infinite. $NEWL
