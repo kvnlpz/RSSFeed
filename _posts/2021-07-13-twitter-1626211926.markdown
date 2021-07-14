@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tfeller 
-date: 2021-07-13 14:32:06 
-categories: twitter 
---- 
-@nope_its_lily I bought a fast food meal “deal” today - $10.00. I did not biggie size anything.
