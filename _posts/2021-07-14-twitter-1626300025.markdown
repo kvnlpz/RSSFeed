@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @saucn1 
+date: 2021-07-14 15:00:25 
+categories: twitter 
+--- 
+@nope_its_lily Put it all in ethereum and forget about it
