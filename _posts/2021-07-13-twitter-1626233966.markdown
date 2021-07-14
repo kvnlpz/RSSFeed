@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @inversebrah 
-date: 2021-07-13 20:39:26 
-categories: twitter 
---- 
-RT @nope_its_lily: Interesting post on problems with $HEX. Still reading them, but it's important even with small sums to know kind of what…
