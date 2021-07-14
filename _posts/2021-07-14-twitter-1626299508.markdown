@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DifficultNerd 
+date: 2021-07-14 14:51:48 
+categories: twitter 
+--- 
+@nope_its_lily Intel, selling 30 day covered calls at the 30 delta. Then I use that premium to buy other positions.
