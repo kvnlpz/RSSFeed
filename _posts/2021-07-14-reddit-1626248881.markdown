@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rocket Pool - Prater Testnet Launch 
-date: 2021-07-14 1626248881 
-categories: reddit 
---- 
-https://redd.it/ojziod
