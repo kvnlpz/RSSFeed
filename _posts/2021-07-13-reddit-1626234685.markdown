@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A lot of problems with transactions - Temple and Magma Wallets 
-date: 2021-07-13 1626234685 
-categories: reddit 
---- 
-https://redd.it/ojw7ns
