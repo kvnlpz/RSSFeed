@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JB__trades 
-date: 2021-07-13 14:09:13 
-categories: twitter 
---- 
-@InvestorsLive In fairness, your arrows are blocking the 3rd letter of the ticker.
