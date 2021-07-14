@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-13 17:48:17 
-categories: twitter 
---- 
-RT @lx21: This weekend I'll be hard at work doing a video lesson on why I don't do video lessons. Have a good weekend!
