@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can anyone explain fundamentally why ETH (or any other token) doesn’t have a hard cap? 
+date: 2021-07-14 1626306897 
+categories: reddit 
+--- 
+https://redd.it/okgw6p
