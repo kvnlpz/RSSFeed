@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @arnoldle 
-date: 2021-07-13 23:14:36 
-categories: twitter 
---- 
-RT @alphatrends: Keep an eye on $MTCH red arrow is where I would put a stop
-
-chart from @Marketsmith https://t.co/qRKta20ZAZ
