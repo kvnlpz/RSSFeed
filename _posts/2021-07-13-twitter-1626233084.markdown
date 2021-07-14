@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 20:24:44 
-categories: twitter 
---- 
-@NotQuiteMidlife Some altcoin, hit #3 market cap a bit ago, works kinda/theoretically like a certificate of deposit, but who knows
