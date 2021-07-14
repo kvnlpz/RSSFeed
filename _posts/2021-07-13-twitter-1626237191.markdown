@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @great_dix 
-date: 2021-07-13 21:33:11 
-categories: twitter 
---- 
-@timothysykes @RolandWolf86 You guys are doing your part to train people not to do that!
