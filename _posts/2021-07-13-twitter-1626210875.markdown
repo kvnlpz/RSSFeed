@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scottoftyana 
-date: 2021-07-13 14:14:35 
-categories: twitter 
---- 
-@nope_its_lily @therobotjames This is bad for tech
