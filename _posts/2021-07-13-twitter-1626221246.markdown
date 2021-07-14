@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @samirbarden 
-date: 2021-07-13 17:07:26 
-categories: twitter 
---- 
-@InvestorsLive I was in Barcelona last week and we had 37 Delta positives out of the first 250 crew testing samples. It is coming for sure.
