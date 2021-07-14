@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CasPiancey 
-date: 2021-07-13 20:42:44 
-categories: twitter 
---- 
-@nope_its_lily 1. Liquidity isn’t nearly as much of an issue, but 2. Richard won’t confirm or deny anything about the origin address.
