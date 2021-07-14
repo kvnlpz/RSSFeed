@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @setiriver 
-date: 2021-07-13 20:52:47 
-categories: twitter 
---- 
-@InvestorsLive Remember insiders were buying below $2 before the run up
