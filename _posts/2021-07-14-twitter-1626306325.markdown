@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @UraniumFarmer 
+date: 2021-07-14 16:45:25 
+categories: twitter 
+--- 
+@nope_its_lily Build a prototype of my rotary engine design. Hell, why not if they're paying?
