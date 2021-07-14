@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hey guys, it's important to remember that the market doesn't care about how you feel and that Bitcoin on lightning is being adopted very very rapidly. 100 BTC last week(?) were being added to the lightning network. 
-date: 2021-07-13 1626229745 
-categories: reddit 
---- 
-https://redd.it/ojuv9w
