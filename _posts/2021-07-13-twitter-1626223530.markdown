@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-13 17:45:30 
-categories: twitter 
---- 
-RT @lx21: $NEWL "loss from continuing operations was $146.8M and $402.1M for the years ended December 31, 2013 and 2012, respectively."
