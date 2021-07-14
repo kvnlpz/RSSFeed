@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Beginner to Liquidity Pool 
-date: 2021-07-13 1626222234 
-categories: reddit 
---- 
-https://redd.it/ojsq01
