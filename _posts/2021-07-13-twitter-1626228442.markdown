@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MoonboundTrades 
-date: 2021-07-13 19:07:22 
-categories: twitter 
---- 
-@InvestorsLive Turn off the TV son...
