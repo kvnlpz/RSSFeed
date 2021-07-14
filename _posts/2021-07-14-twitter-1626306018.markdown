@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @coloradotravis 
+date: 2021-07-14 16:40:18 
+categories: twitter 
+--- 
+@nope_its_lily Seed stage startup.
+
+It’s a freeroll, why not go big.
