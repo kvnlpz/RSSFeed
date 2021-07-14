@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-13 21:34:35 
-categories: twitter 
---- 
-RT @WesleyBKress: Further simplified, visualized &amp; supported as to why 
-The @ElrondNetwork $EGLD is the #Blockchain #ForThePeople #PeopleDe…
