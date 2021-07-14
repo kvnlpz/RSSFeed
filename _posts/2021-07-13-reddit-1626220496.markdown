@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Investors withdraw $66 million worth of Bitcoin from centralized exchanges daily 
-date: 2021-07-13 1626220496 
-categories: reddit 
---- 
-https://redd.it/ojs7s5
