@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos Defi is Next Up 
-date: 2021-07-14 1626268836 
-categories: reddit 
---- 
-https://redd.it/ok47ce
