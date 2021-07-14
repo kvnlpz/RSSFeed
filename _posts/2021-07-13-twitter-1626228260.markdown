@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OTigger10 
-date: 2021-07-13 19:04:20 
-categories: twitter 
---- 
-RT @InvestorsLive: $GALT filled the gap
