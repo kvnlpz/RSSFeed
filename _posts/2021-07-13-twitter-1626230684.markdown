@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BeCashBro 
-date: 2021-07-13 19:44:44 
-categories: twitter 
---- 
-@InvestorsLive @cuckmorris where ya at
