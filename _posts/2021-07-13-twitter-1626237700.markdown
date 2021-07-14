@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @somermike 
-date: 2021-07-13 21:41:40 
-categories: twitter 
---- 
-@timothysykes Pretty cool!
