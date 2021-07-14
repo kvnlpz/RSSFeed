@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @jimcollins 
+date: 2021-07-14 14:54:27 
+categories: twitter 
+--- 
+@nope_its_lily No I'd split it between nvda and tsla
