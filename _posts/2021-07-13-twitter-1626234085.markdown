@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 20:41:25 
-categories: twitter 
---- 
-@CasPiancey 2) Has it been confirmed about the origin address getting a percentage of all staked HEX earnings? Is t… https://t.co/2PUc6n5H0a
