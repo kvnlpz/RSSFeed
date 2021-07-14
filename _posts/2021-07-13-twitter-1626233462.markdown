@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @captlizianthus 
-date: 2021-07-13 20:31:02 
-categories: twitter 
---- 
-RT @nope_its_lily: Who knew asset inflation and widening income disparity across developed nations has led to insolvency economics being th…
