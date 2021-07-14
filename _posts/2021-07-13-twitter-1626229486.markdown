@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @andrew_elyod 
-date: 2021-07-13 19:24:46 
-categories: twitter 
---- 
-@alphatrends Final flush will be to zero
