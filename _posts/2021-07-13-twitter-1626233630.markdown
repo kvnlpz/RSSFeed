@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-13 20:33:50 
-categories: twitter 
---- 
-@danish003chand Any technical issues hit up https://t.co/6TxQYokG3r and my team will help you, otherwise study alll… https://t.co/qFJM4tiD6u
