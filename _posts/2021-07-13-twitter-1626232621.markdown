@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 20:17:01 
-categories: twitter 
---- 
-@CasPiancey I mean. I've heard that levelled at a large amount of projects. Is there anything uniquely problematic… https://t.co/OY3hBorors
