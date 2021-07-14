@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DhruvBole 
+date: 2021-07-14 11:47:48 
+categories: twitter 
+--- 
+@alphatrends Maybe with vWAPs but not so much with other TA like DeMark tools and price patterns
