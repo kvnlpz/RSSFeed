@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-13 17:42:40 
-categories: twitter 
---- 
-RT @lx21: $CDTI "Learning to Read": http://t.co/oX7eeX2D4d "current TSX and TL will be replaced by a single model known as the TLX"
