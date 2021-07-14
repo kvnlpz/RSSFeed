@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In addition to integration with Ethereum, Alium Finance DEX cooperated the same way with booming Polygon 
-date: 2021-07-14 1626257247 
-categories: reddit 
---- 
-https://redd.it/ok19ms
