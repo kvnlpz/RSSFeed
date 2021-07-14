@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-13 17:45:23 
-categories: twitter 
---- 
-RT @lx21: $NEWL has issued shares to MG Partners 18 times since the beginning of March. That's nearly once every three trading days.
