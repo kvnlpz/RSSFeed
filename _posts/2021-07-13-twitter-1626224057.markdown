@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IrascibleInvest 
-date: 2021-07-13 17:54:17 
-categories: twitter 
---- 
-@nope_its_lily $RKT
