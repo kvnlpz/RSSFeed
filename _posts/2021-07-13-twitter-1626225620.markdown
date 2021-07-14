@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @twittmypants 
-date: 2021-07-13 18:20:20 
-categories: twitter 
---- 
-RT @InvestorsLive: Holy $AHT sub $2s
