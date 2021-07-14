@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market Manipulation 
-date: 2021-07-14 1626265382 
-categories: reddit 
---- 
-https://redd.it/ok37vl
