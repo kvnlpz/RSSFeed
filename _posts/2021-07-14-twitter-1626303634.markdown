@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OffLiquid 
+date: 2021-07-14 16:00:34 
+categories: twitter 
+--- 
+@nope_its_lily Depends on the convexity profile of your long. Cash instead of puts is really just saying evaluate your position sizing.
