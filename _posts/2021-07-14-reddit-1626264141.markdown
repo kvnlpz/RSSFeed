@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can we have a pinned post with some relevant information (scam warning and moon info) for newcomers? 
-date: 2021-07-14 1626264141 
-categories: reddit 
---- 
-https://redd.it/ok2wi5
