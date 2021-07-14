@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @QuantVol 
+date: 2021-07-14 15:27:57 
+categories: twitter 
+--- 
+@nope_its_lily I usually look at the benchmark
+https://t.co/UsADksLZE4
+
+(and this is atm, u could do otm)
