@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-13 20:50:32 
-categories: twitter 
---- 
-@Michigandolf yeah someone's buying around 55
