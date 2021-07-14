@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JulianScurci 
-date: 2021-07-13 20:53:37 
-categories: twitter 
---- 
-RT @muddywatersre: Interesting article on $RIDE background, confirming what you’d suspect: Cursory DD by a RE investor needing to do a deal…
