@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @trader_il 
+date: 2021-07-14 10:40:55 
+categories: twitter 
+--- 
+@InvestorsLive LOL
