@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: zk proof of spend of an 'unknow amount' to an 'unknown address' 
-date: 2021-07-14 1626253766 
-categories: reddit 
---- 
-https://redd.it/ok0j1e
