@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-13 20:55:30 
-categories: twitter 
---- 
-@AntCan30 @StocksToTrade Sweeeeeet
