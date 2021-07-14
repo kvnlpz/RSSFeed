@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SREV - a Lowkey Gem. 
-date: 2021-07-14 1626262226 
-categories: reddit 
---- 
-https://redd.it/ok2fdc
