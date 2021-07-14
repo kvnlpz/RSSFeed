@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rexluv 
-date: 2021-07-13 17:30:01 
-categories: twitter 
---- 
-@InvestorsLive $amc short?
