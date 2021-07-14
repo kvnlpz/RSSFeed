@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Found this great tutorial on swing trading 
-date: 2021-07-13 1626223514 
-categories: reddit 
---- 
-https://redd.it/ojt35w
