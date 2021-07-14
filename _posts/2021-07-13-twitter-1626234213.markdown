@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sanfrantrader 
-date: 2021-07-13 20:43:33 
-categories: twitter 
---- 
-RT @timothysykes: I really worry about this latest generation of traders: stimulus check/gambling-funds galore,  ZERO discipline, gunslingi…
