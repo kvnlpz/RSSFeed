@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-13 21:27:57 
-categories: twitter 
---- 
-$VRAR and $SNAP oh my
