@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_krupins 
-date: 2021-07-13 19:10:23 
-categories: twitter 
---- 
-RT @ThetaWarrior: In case anyone missed it, below is a link to the recoding from the livestream this past weekend.
-
-A big thank you to @Tre…
