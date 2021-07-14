@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Would you use Square’s new hardware wallet when it comes out or is Square too centralized to risk it? 
-date: 2021-07-13 1626216680 
-categories: reddit 
---- 
-https://redd.it/ojr1nf
