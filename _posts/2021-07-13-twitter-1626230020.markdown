@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JusGiver 
-date: 2021-07-13 19:33:40 
-categories: twitter 
---- 
-@InvestorsLive Looks like bankruptcy is back on the table
