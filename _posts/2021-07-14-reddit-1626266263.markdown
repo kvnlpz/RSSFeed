@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I gather data from over 100 coins from 2013 and monero was at top 10 back in the days 
-date: 2021-07-14 1626266263 
-categories: reddit 
---- 
-https://redd.it/ok3gfb
