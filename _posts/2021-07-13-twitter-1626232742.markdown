@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-13 20:19:02 
-categories: twitter 
---- 
-RT @BrandonRiso: @timothysykes 2 weeks into the challenge...
-I feel like I'm going crazy because I am applying your techniques to my bigges…
