@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Funding LN wallet 
-date: 2021-07-14 1626251557 
-categories: reddit 
---- 
-https://redd.it/ok02t9
