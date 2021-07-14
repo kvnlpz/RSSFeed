@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaay_mun 
-date: 2021-07-13 20:38:32 
-categories: twitter 
---- 
-RT @timothysykes: 11:37pm study check, retweet/favorite this if you’re still up studying, making your watchlist for tomorrow or reviewing y…
