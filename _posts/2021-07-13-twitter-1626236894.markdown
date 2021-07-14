@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-13 21:28:14 
-categories: twitter 
---- 
-RT @BrandonRiso: @timothysykes 2 weeks into the challenge...
-I feel like I'm going crazy because I am applying your techniques to my bigges…
