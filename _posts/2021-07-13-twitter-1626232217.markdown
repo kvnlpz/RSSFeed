@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CasPiancey 
-date: 2021-07-13 20:10:17 
-categories: twitter 
---- 
-@nope_its_lily I’m just sad that’s all
