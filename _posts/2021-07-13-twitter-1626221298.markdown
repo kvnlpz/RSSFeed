@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheMarathon8320 
-date: 2021-07-13 17:08:18 
-categories: twitter 
---- 
-@InvestorsLive Do you think this will effect the market?
