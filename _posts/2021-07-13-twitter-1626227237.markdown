@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @sk_microcheap 
+date: 2021-07-13 18:47:17 
+categories: twitter 
+--- 
+@nope_its_lily Add taxes to the list.
