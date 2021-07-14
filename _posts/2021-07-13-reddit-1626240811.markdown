@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This was a Wendy's once. It can be again. 
-date: 2021-07-13 1626240811 
-categories: reddit 
---- 
-https://redd.it/ojxqs9
