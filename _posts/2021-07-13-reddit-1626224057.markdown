@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Dip - A view of previous years 
-date: 2021-07-13 1626224057 
-categories: reddit 
---- 
-https://redd.it/ojt8v0
