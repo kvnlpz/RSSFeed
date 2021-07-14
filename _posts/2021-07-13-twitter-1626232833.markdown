@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-13 20:20:33 
-categories: twitter 
---- 
-@mikechean It’s weak af lol
