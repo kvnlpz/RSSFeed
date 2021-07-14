@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Welcome to the party, pal 
-date: 2021-07-14 1626260146 
-categories: reddit 
---- 
-https://redd.it/ok1w6j
