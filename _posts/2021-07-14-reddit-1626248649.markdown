@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are there any downsides / reasons why somebody should not stake ETH they have? 
-date: 2021-07-14 1626248649 
-categories: reddit 
---- 
-https://redd.it/ojzh0c
