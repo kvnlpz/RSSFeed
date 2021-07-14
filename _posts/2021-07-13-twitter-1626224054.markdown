@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jtpptrade 
-date: 2021-07-13 17:54:14 
-categories: twitter 
---- 
-RT @InvestorsLive: When it's time to lock in profits 💰 https://t.co/bOhbjJAq6k
