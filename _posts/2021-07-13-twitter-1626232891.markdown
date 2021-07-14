@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-13 20:21:31 
-categories: twitter 
---- 
-RT @twoleftfeetango: Me and my boy’s at lake Travis . That was an epic week. https://t.co/FdIFpxmkyf
