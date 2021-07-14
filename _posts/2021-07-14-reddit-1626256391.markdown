@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking ETH 2.0: An Overview 
-date: 2021-07-14 1626256391 
-categories: reddit 
---- 
-https://redd.it/ok12hl
