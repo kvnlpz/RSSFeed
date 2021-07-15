@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ArnFaber 
+date: 2021-07-15 12:39:06 
+categories: twitter 
+--- 
+@InvestorsLive who
