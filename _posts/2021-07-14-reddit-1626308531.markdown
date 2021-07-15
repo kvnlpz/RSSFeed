@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is there an advantage to having multiple lightning nodes in a single location? Example, if I wanted to get paid to facilitate liquidity in the LN network, do I benefit by having many nodes, or it’s the same. More would matter if I opened up more btc liquidity per node? 
+date: 2021-07-14 1626308531 
+categories: reddit 
+--- 
+https://redd.it/okhcts
