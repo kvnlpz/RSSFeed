@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5 - cost per share calculation 
-date: 2021-07-14 1626272802 
-categories: reddit 
---- 
-https://redd.it/ok5gbh
