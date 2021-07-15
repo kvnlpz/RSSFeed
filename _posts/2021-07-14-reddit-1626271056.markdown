@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Valid Points: The Problem With MEV on Ethereum 
-date: 2021-07-14 1626271056 
-categories: reddit 
---- 
-https://redd.it/ok4vpk
