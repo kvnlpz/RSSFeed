@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What programming languages would I ideally need to master to be an Ethereum developer? 
-date: 2021-07-14 1626290729 
-categories: reddit 
---- 
-https://redd.it/okbm82
