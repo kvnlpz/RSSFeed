@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CardWallet with Florian and Tiago | Cardano Live #33 
-date: 2021-07-14 1626276252 
-categories: reddit 
---- 
-https://redd.it/ok6lfe
