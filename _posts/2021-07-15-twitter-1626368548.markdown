@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-15 10:02:28 
+categories: twitter 
+--- 
+$DTSS almost round trip
