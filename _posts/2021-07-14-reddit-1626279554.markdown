@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The bull and bear case for DiDi 
-date: 2021-07-14 1626279554 
-categories: reddit 
---- 
-https://redd.it/ok7rfa
