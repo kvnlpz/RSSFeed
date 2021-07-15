@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: XOM yolo 
-date: 2021-07-14 1626279477 
-categories: reddit 
---- 
-https://redd.it/ok7qdj
