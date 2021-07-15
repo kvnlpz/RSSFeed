@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Alonzo White Hardfork Welcome! 
-date: 2021-07-14 1626292678 
-categories: reddit 
---- 
-https://redd.it/okc9i5
