@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain use case question 
-date: 2021-07-14 1626280081 
-categories: reddit 
---- 
-https://redd.it/ok7y6o
