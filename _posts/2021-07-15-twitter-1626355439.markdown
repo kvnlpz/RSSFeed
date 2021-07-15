@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @JustStocksToday 
+date: 2021-07-15 06:23:59 
+categories: twitter 
+--- 
+RT @InvestorsLive: Kenny cuts the checks
+
+cc: @Qullamaggie
