@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos Alien’s Farm was launched. Pools are ready. Vaults are on the way. 
-date: 2021-07-14 1626273673 
-categories: reddit 
---- 
-https://redd.it/ok5qea
