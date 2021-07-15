@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Implementing changes to make my crypto more secure - how do I not mess up? What mistakes to avoid and what to watch out for? 
-date: 2021-07-14 1626274312 
-categories: reddit 
---- 
-https://redd.it/ok5xq6
