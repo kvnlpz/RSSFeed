@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: bIT 
-date: 2021-07-14 1626270501 
-categories: reddit 
---- 
-https://redd.it/ok4p9f
