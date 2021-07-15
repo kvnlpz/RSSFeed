@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anish Mohammed has been a medical doctor, a drone scientist, and a protocol architect, co-authoring the Ethereum Orange Paper and advising Ripple. He's now co-founded Panther Protocol, a tool to create privacy assets interoperable with DeFi! I for one am excited about this idea. 
-date: 2021-07-14 1626288381 
-categories: reddit 
---- 
-https://redd.it/okatib
