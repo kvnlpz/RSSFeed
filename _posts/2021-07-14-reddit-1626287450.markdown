@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I need help! 
-date: 2021-07-14 1626287450 
-categories: reddit 
---- 
-https://redd.it/okai77
