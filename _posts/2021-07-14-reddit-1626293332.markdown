@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Decentralized Identity - The Bitcoin blockchain as a passport 
-date: 2021-07-14 1626293332 
-categories: reddit 
---- 
-https://redd.it/okchtb
