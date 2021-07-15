@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Geth releases version with the London fork enabled at #12965000 
+date: 2021-07-15 1626342491 
+categories: reddit 
+--- 
+https://redd.it/okpky4
