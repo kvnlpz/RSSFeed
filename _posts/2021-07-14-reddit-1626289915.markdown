@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rusty Russell & Fiatjaf - Exploring Worlds of Lightning Development - OTC -LNJ046 
-date: 2021-07-14 1626289915 
-categories: reddit 
---- 
-https://redd.it/okbc89
