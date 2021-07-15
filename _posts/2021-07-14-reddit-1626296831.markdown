@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why does Bitcoin consume so much energy? 
-date: 2021-07-14 1626296831 
-categories: reddit 
---- 
-https://redd.it/okdpdq
