@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Increased volume at close 
-date: 2021-07-14 1626293964 
-categories: reddit 
---- 
-https://redd.it/okcpsg
