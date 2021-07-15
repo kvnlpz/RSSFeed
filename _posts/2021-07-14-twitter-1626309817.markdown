@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-07-14 17:43:37 
+categories: twitter 
+--- 
+@stockquants It's a very interesting viewpoint to consider.
