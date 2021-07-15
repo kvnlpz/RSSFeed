@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DeFi Startup Optimism Launches Alpha of Its Uniswap Layer-Two Solution 
-date: 2021-07-14 1626271540 
-categories: reddit 
---- 
-https://redd.it/ok51j0
