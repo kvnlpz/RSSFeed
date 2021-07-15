@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First PMCC - Am I setting this up right? 
-date: 2021-07-14 1626274035 
-categories: reddit 
---- 
-https://redd.it/ok5ujp
