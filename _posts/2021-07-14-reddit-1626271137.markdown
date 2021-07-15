@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain security firm CertiK raises $37M to combat DeFi and crypto risks 
-date: 2021-07-14 1626271137 
-categories: reddit 
---- 
-https://redd.it/ok4wlv
