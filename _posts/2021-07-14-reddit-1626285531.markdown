@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Know Your Entry and Exit Points 
-date: 2021-07-14 1626285531 
-categories: reddit 
---- 
-https://redd.it/ok9u1l
