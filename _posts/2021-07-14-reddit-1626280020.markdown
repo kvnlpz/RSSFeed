@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just sent BTC directly from debit card to cold storage for a 0.1% fee using Strike. 
-date: 2021-07-14 1626280020 
-categories: reddit 
---- 
-https://redd.it/ok7xex
