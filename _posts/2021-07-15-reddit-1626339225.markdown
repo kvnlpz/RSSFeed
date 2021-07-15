@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: IOHK announced that the Alonzo White hard fork was a success! Cardano is one step closer to releasing smart contracts. We explain each Alonzo testnet phase leading up to the mainnet release. 
+date: 2021-07-15 1626339225 
+categories: reddit 
+--- 
+https://redd.it/okn4h6
