@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Officially making the move 
-date: 2021-07-14 1626274046 
-categories: reddit 
---- 
-https://redd.it/ok5uom
