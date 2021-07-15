@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin is done in 3-5 yrs due to quantum computers, expert physicist says. Time to work on protocol upgrade to make Bitcoin quantum proof. 
-date: 2021-07-14 1626270994 
-categories: reddit 
---- 
-https://redd.it/ok4v0w
