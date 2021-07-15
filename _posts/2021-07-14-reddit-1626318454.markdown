@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Expected fees return with one bitcoin on the lightning channel? 
+date: 2021-07-14 1626318454 
+categories: reddit 
+--- 
+https://redd.it/okk3ec
