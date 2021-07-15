@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Dinowakes 
+date: 2021-07-14 18:00:14 
+categories: twitter 
+--- 
+@nope_its_lily @QuantVol A simple solution to this is to hold the strike ATM if it breaches your strike and you nee… https://t.co/H6fkwD1wIq
