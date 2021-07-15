@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can someone smarter than me help track down where some BNB has gone? It looks like it has gone to binance. If I'm right, is it a normal binance address or binance US? I was expecting it to be in an address of my hardware wallet...... 
+date: 2021-07-14 1626325081 
+categories: reddit 
+--- 
+https://redd.it/oklsoh
