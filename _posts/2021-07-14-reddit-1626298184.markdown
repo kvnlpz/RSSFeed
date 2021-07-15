@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Take 30 seconds to read the abstract of the Bitcoin white paper. 
-date: 2021-07-14 1626298184 
-categories: reddit 
---- 
-https://redd.it/oke5fy
