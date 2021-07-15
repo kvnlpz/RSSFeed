@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @codetravis 
+date: 2021-07-14 17:44:07 
+categories: twitter 
+--- 
+@OddStockTrader https://t.co/WNAqN7pB5g
