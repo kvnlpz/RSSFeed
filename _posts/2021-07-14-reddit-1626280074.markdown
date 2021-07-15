@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: No so good place 
-date: 2021-07-14 1626280074 
-categories: reddit 
---- 
-https://redd.it/ok7y38
