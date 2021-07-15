@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you give typewriters to monkeys, given enough time eventually one of them is going to write some Sheakespeare. 
-date: 2021-07-14 1626299729 
-categories: reddit 
---- 
-https://redd.it/okenkd
