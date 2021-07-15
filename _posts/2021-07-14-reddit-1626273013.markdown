@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Augmented Finance protocol to be strengthened further with Chainlink price feeds 
-date: 2021-07-14 1626273013 
-categories: reddit 
---- 
-https://redd.it/ok5imd
