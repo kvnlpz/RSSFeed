@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain what i just found on coinbase. 
-date: 2021-07-14 1626287950 
-categories: reddit 
---- 
-https://redd.it/okaobj
