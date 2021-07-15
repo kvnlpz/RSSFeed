@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I don’t understand why my transaction won’t confirm 
-date: 2021-07-14 1626276142 
-categories: reddit 
---- 
-https://redd.it/ok6jwi
