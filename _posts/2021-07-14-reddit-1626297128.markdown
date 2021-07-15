@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Haw can I get Karma, so that I can post comments and be a part of the conversation ? 
-date: 2021-07-14 1626297128 
-categories: reddit 
---- 
-https://redd.it/okdt1p
