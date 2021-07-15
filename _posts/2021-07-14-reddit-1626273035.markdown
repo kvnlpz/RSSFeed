@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CLOV Yolo 
-date: 2021-07-14 1626273035 
-categories: reddit 
---- 
-https://redd.it/ok5izr
