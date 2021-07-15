@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase Connects Wallet to Polygon Network For L2 Scaling 
-date: 2021-07-14 1626273213 
-categories: reddit 
---- 
-https://redd.it/ok46vb
