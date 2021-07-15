@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @gaffsimons 
+date: 2021-07-14 20:12:04 
+categories: twitter 
+--- 
+@OddStockTrader https://t.co/rFUI1bZQaW
