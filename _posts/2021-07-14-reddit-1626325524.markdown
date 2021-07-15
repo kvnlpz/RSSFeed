@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin’s Layer Two Lightning Network Hits 1,800 Record Capacity 
+date: 2021-07-14 1626325524 
+categories: reddit 
+--- 
+https://redd.it/oklwra
