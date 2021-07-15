@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Once we have smart contracts - our transactions will run 200 times cheaper and 112 times more environment friendly (for now) 
-date: 2021-07-14 1626281020 
-categories: reddit 
---- 
-https://redd.it/ok89v1
