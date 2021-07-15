@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Metal Company 
-date: 2021-07-14 1626277105 
-categories: reddit 
---- 
-https://redd.it/ok6vwn
