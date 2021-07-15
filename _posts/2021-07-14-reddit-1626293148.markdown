@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: All I see is red 
-date: 2021-07-14 1626293148 
-categories: reddit 
---- 
-https://redd.it/okcfnf
