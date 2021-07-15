@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: *checks Twitter, sighs* 
-date: 2021-07-14 1626303278 
-categories: reddit 
---- 
-https://redd.it/okfszh
