@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daedalus download 
-date: 2021-07-14 1626286396 
-categories: reddit 
---- 
-https://redd.it/oka50i
