@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @CElston 
+date: 2021-07-14 17:49:19 
+categories: twitter 
+--- 
+@nope_its_lily #bitcoin #future
