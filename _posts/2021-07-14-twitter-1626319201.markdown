@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @CallMyPut 
+date: 2021-07-14 20:20:01 
+categories: twitter 
+--- 
+@OddStockTrader https://t.co/3cjS7nVaIS
