@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: European Central Bank on Twitter - Anyone know of any blockchain that uses negligible amounts of electricity, has strong privacy features and tested by the European Central Bank? 
-date: 2021-07-14 1626280857 
-categories: reddit 
---- 
-https://redd.it/ok87vv
