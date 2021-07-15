@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daily Trade SPY 
-date: 2021-07-14 1626276731 
-categories: reddit 
---- 
-https://redd.it/ok6rdd
