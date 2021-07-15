@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to securely store your seed phrases nowadays? 
+date: 2021-07-15 1626338698 
+categories: reddit 
+--- 
+https://redd.it/okotnq
