@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why did SegWit2x not activate if over 90% of miners/nodes were signalling for it? 
-date: 2021-07-14 1626282998 
-categories: reddit 
---- 
-https://redd.it/ok8yba
