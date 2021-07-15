@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A charitable NFT project on Cardano? 
-date: 2021-07-14 1626282442 
-categories: reddit 
---- 
-https://redd.it/ok8rii
