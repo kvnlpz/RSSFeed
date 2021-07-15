@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can you efficiently ‘copy’ your coins to a new wallet? 
-date: 2021-07-14 1626272082 
-categories: reddit 
---- 
-https://redd.it/ok57ui
