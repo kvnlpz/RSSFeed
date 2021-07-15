@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "No worries, I had to learn this, too" 
-date: 2021-07-14 1626293467 
-categories: reddit 
---- 
-https://redd.it/okcjjw
