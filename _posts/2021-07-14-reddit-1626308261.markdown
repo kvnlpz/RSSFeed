@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to sign a psbt transaction with software wallets? [Electrum & Others] 
+date: 2021-07-14 1626308261 
+categories: reddit 
+--- 
+https://redd.it/okha29
