@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Has your PC or laptop developed strange habits? Does it not go to sleep/hibernate, is it getting too hot, is your performance sluggish? You may have a Cryptominer in your PC 
-date: 2021-07-14 1626292150 
-categories: reddit 
---- 
-https://redd.it/okc3b0
