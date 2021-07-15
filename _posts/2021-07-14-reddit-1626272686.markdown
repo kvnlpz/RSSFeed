@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In Q2 2021 Ethereum settled $2.5 trillion in transactions, putting us on pace to settle $8 trillion in 2021 
-date: 2021-07-14 1626272686 
-categories: reddit 
---- 
-https://redd.it/ok5ewv
