@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Article: What Is The Difference Between A Token And A Coin In Decentralized Finance? 
-date: 2021-07-14 1626289574 
-categories: reddit 
---- 
-https://redd.it/okb84x
