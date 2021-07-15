@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Please help a newbie to run a Eth node. 
+date: 2021-07-15 1626342517 
+categories: reddit 
+--- 
+https://redd.it/okpl8d
