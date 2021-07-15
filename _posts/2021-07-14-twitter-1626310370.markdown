@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @choffstein 
+date: 2021-07-14 17:52:50 
+categories: twitter 
+--- 
+@nope_its_lily "How does your team come up with new ideas?"
+
+"Well, you see, we propose seemingly innocuous, open-e… https://t.co/RulQFqvmZl
