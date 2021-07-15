@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here's the instant info 
-date: 2021-07-14 1626297095 
-categories: reddit 
---- 
-https://redd.it/okdsib
