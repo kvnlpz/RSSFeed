@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LoneStarEV 
-date: 2021-07-14 05:12:12 
-categories: twitter 
---- 
-RT @TraderTexMex: $JZXN "Pursuant to the LOI, the Company and CPT will jointly invest up to RMB 500 million within three years (RMB 200 mil…
