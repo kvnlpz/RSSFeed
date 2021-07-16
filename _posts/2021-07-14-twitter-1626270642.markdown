@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshVegas6 
-date: 2021-07-14 06:50:42 
-categories: twitter 
---- 
-@nope_its_lily Why? https://t.co/Jw8SUS4xmq
