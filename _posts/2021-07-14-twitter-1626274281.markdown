@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @notforyouse 
-date: 2021-07-14 07:51:21 
-categories: twitter 
---- 
-@nope_its_lily Thanks for sharing! Great and informative read :-)
