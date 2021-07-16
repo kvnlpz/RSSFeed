@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AchimLittlepage 
-date: 2021-07-14 07:44:48 
-categories: twitter 
---- 
-@nope_its_lily I don’t remember previous cycles as having such a Damoclean regulatory cloud overhead
