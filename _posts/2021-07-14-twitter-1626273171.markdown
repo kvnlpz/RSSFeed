@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cluelesstrader 
-date: 2021-07-14 07:32:51 
-categories: twitter 
---- 
-@nope_its_lily whats the reasoning? some options magic?
