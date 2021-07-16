@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vallieres_david 
-date: 2021-07-14 07:52:07 
-categories: twitter 
---- 
-@nope_its_lily 2,3, 5 std deviation vwap lines are well-suited for intraday setups. In this case +2 to -2. The vwap… https://t.co/qAJaiviAwk
