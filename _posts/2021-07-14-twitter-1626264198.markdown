@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-14 05:03:18 
-categories: twitter 
---- 
-RT @Metatron_Won11: @timothysykes Time to put in more technical time and study time, I love this! Thanks for showing me the way. You as wel…
