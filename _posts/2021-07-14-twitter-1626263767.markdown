@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DrWhozy 
-date: 2021-07-14 04:56:07 
-categories: twitter 
---- 
-@muddywatersre https://t.co/IbswOF6MD8
