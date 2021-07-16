@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ibigred 
-date: 2021-07-14 05:45:39 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/pS6pK7gTaF
