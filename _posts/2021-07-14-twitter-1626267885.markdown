@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ontheslabs 
-date: 2021-07-14 06:04:45 
-categories: twitter 
---- 
-@OddStockTrader They investigate. You are better off being brand new, as their is nothing to judge on.
