@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @funkt13 
-date: 2021-07-14 05:43:30 
-categories: twitter 
---- 
-@timothysykes Good morning….just finished watching premarket prep
