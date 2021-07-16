@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderEvil 
-date: 2021-07-14 06:57:55 
-categories: twitter 
---- 
-@InvestorsLive im shocked its not under 1 yet
