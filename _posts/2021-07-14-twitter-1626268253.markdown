@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoFemBoy 
-date: 2021-07-14 06:10:53 
-categories: twitter 
---- 
-@nope_its_lily 49% and jack gwei up to 200
