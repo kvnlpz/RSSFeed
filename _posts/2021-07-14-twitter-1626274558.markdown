@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChadRowland11 
-date: 2021-07-14 07:55:58 
-categories: twitter 
---- 
-@timothysykes @profitly Who is your brokerage Webull rarely lets me buy what you suggest
