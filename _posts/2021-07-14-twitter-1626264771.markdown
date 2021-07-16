@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jennstone3206 
-date: 2021-07-14 05:12:51 
-categories: twitter 
---- 
-@timothysykes What product do you use to boost your WiFi signal? We purchased something that doesn’t work. Returned
