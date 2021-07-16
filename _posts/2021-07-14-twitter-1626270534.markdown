@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xElm0 
-date: 2021-07-14 06:48:54 
-categories: twitter 
---- 
-@nope_its_lily THIS TWEET WONT AGE WELL @remindmetweets when we bottom
