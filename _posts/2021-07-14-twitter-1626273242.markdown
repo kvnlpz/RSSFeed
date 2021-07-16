@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MadThunderdome 
-date: 2021-07-14 07:34:02 
-categories: twitter 
---- 
-@nope_its_lily Meme stocks... https://t.co/oQ3st2TbGX
