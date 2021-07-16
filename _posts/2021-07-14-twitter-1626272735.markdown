@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iTurquoiseZebra 
-date: 2021-07-14 07:25:35 
-categories: twitter 
---- 
-RT @G_krupins: $YETI Looks like it wants to move https://t.co/VRI9zUhn5u
