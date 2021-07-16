@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sakeblues 
-date: 2021-07-14 07:35:00 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/G3HMm3R4H2
