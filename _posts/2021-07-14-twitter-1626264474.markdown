@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Marty1117 
-date: 2021-07-14 05:07:54 
-categories: twitter 
---- 
-@timothysykes 🙌🏻🙌🏻
