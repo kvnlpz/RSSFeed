@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tradingthebulls 
-date: 2021-07-14 07:59:21 
-categories: twitter 
---- 
-@InvestorsLive Hahahha
