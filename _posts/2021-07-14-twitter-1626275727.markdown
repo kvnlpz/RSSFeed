@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:15:27 
-categories: twitter 
---- 
-RT @lx21: What are the odds of trading 2 stocks on the same day run by presidential candidates? Gary Johnson #CBDS &amp; John McAfee #MGT
