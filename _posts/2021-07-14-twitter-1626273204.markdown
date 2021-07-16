@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @os996 
-date: 2021-07-14 07:33:24 
-categories: twitter 
---- 
-@InvestorsLive It will bounce to 45  after it touches 32
