@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @83Tryharder 
-date: 2021-07-14 00:15:34 
-categories: twitter 
---- 
-RT @InvestorsLive: Creating a routine can help you improve your efficiency as a trader https://t.co/h3UuiXCcC4 https://t.co/bOGzdgVBUP
