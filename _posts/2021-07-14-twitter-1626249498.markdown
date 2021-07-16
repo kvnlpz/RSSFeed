@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndrezMarcel 
-date: 2021-07-14 00:58:18 
-categories: twitter 
---- 
-@nope_its_lily @Paymo for project mngm, @WhimsicalPowers for mockups.
