@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OptionsBagger 
-date: 2021-07-14 05:03:22 
-categories: twitter 
---- 
-RT @TraderTexMex: $JZXN Jiuzi Holdings, Inc. Signs Letter of Intent with China Petrol Technology on the Development of Electric Vehicle Bat…
