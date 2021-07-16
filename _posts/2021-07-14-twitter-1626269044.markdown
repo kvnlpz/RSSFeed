@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jamesdison514 
-date: 2021-07-14 06:24:04 
-categories: twitter 
---- 
-@timothysykes @Trey_C $LCLP
