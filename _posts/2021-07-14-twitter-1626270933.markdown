@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @weston_moore 
-date: 2021-07-14 06:55:33 
-categories: twitter 
---- 
-@nope_its_lily It feels like summer of 2018, in which case we have another 2 months to wait for it to drop another 40%
