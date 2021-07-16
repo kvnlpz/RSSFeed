@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-14 07:44:12 
-categories: twitter 
---- 
-The only downside with futures is measuring your downside. Because of the way the signal works, it can hit max draw… https://t.co/IcL05WzZf5
