@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Purposely_Blank 
-date: 2021-07-14 02:27:01 
-categories: twitter 
---- 
-@InvestorsLive Jesus dude
