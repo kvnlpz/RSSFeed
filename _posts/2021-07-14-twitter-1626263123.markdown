@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @r0bchain 
-date: 2021-07-14 04:45:23 
-categories: twitter 
---- 
-@nope_its_lily I still just spent a small fortune on pine board and 2x4’s for a home project though 🤷‍♂️
