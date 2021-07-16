@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zakvee 
-date: 2021-07-14 07:31:25 
-categories: twitter 
---- 
-@InvestorsLive Major bounce at support
