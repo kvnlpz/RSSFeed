@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ive_m5 
-date: 2021-07-14 07:53:43 
-categories: twitter 
---- 
-@InvestorsLive another halt ....
