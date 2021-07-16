@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SailajaVenki 
-date: 2021-07-14 05:29:25 
-categories: twitter 
---- 
-RT @InvestorsLive: Holy $AHT sub $2s
