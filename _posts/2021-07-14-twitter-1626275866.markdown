@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:17:46 
-categories: twitter 
---- 
-RT @lx21: I'm heading off to vote again now (in Arizona you can re-vote on same day as long as you wait at least 5 hours between each ballo…
