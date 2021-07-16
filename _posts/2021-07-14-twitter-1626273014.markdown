@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeKingTrades 
-date: 2021-07-14 07:30:14 
-categories: twitter 
---- 
-@InvestorsLive Did you try blaming others yet?
