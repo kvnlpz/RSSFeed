@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ApisBullXXL 
-date: 2021-07-14 06:51:30 
-categories: twitter 
---- 
-@nope_its_lily I set my slippage tolerance to .5% on Metamask #HEX $HEX and try to wait for Saturday midnight if I can for lower gas fees.
