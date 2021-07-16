@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @edraluk 
-date: 2021-07-14 05:56:12 
-categories: twitter 
---- 
-@nope_its_lily @StrizziJ I hate it when mom and dad fight
