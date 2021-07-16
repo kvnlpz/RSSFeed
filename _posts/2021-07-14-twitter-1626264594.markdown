@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-14 05:09:54 
-categories: twitter 
---- 
-@redfuryrising @Jbadger24 My feed isn't my service - just in case you were confused.
