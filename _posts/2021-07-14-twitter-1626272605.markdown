@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-14 07:23:25 
-categories: twitter 
---- 
-Soooo many wifi, software issues today, was trying to unveil new @profitly feature, but oh well, the good news is I… https://t.co/IJXe1qVLNt
