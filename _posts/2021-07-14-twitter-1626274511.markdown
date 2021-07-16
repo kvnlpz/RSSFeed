@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jjtrades9 
-date: 2021-07-14 07:55:11 
-categories: twitter 
---- 
-@InvestorsLive Wheels down..
