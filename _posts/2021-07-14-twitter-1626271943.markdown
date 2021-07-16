@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Valasourus 
-date: 2021-07-14 07:12:23 
-categories: twitter 
---- 
-RT @Steven1_994: Check out the 3 essential approaches I wish I knew back when I started trading:  https://t.co/yTHnCIlZ8S
