@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Valasourus 
-date: 2021-07-14 07:18:41 
-categories: twitter 
---- 
-RT @Steven1_994: Black Friday Sale Going On Now. https://t.co/n1CSnAGgZA
