@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zakvee 
-date: 2021-07-14 07:50:36 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/Mnemse5MDP
