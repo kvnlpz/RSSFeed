@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WillyMeatsauce1 
-date: 2021-07-14 07:29:59 
-categories: twitter 
---- 
-@InvestorsLive Nathan Michaud, the fueler of all fires https://t.co/YIp3UnoL9V
