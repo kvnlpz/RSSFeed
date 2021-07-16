@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Marty1117 
-date: 2021-07-14 03:37:36 
-categories: twitter 
---- 
-@timothysykes do you have a whatsapp option for signing up for your alerts?
