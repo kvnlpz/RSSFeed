@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Valasourus 
-date: 2021-07-14 07:12:00 
-categories: twitter 
---- 
-RT @Steven1_994: Check out the recap on the trades that made me +$500,000 during the month of July here!: https://t.co/nJ2O3m7gxX
