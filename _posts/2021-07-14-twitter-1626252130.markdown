@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @morganefitz 
-date: 2021-07-14 01:42:10 
-categories: twitter 
---- 
-@super_trades $SNAP making deals with #AR companies in this area should be good for $VRAR too https://t.co/942lTBJgbR
