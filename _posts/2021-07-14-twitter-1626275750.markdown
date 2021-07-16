@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:15:50 
-categories: twitter 
---- 
-RT @lx21: Hit piece on $MGT just published with some great research! https://t.co/1cIuSGUMgR
