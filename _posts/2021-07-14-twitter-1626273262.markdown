@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pawtraks 
-date: 2021-07-14 07:34:22 
-categories: twitter 
---- 
-@InvestorsLive someone somewhere tweeting about a gap fill rn and how bullish it is
