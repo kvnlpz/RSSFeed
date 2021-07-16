@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Taylor72350938 
-date: 2021-07-14 07:29:45 
-categories: twitter 
---- 
-@nope_its_lily "Forget about Gamestop...Here's 10 other gaming companies nerding out"
