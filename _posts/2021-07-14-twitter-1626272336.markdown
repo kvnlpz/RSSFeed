@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-14 07:18:56 
-categories: twitter 
---- 
-$DTSS thanks pumpers
-
-#MyInvestingClub https://t.co/drTj8YmCzq
