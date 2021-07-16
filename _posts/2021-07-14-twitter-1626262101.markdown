@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anvesh067 
-date: 2021-07-14 04:28:21 
-categories: twitter 
---- 
-RT @nope_its_lily: if i remove food, cars, houses, goods and services from the CPI there is no inflation
