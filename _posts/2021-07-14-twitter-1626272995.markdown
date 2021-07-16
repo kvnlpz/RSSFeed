@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConejoCapital 
-date: 2021-07-14 07:29:55 
-categories: twitter 
---- 
-@nope_its_lily “Is [meme stock] a buy after sinking again this Wednesday?”
