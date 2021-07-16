@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-14 07:25:09 
-categories: twitter 
---- 
-Sold call against TWTR leap for 75C a month out. Position up around 110%.
