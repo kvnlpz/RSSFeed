@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BalarezoCapital 
-date: 2021-07-14 05:34:24 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ @tradingview Nice 👏. Looking forward to the update in TradingView.
