@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:16:10 
-categories: twitter 
---- 
-RT @lx21: McAfee's company just bought a company from McAfee's start up incubator and overpaid by an enormous amount, screwing $MGT shareho…
