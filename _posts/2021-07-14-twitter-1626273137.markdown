@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stone_fenced 
-date: 2021-07-14 07:32:17 
-categories: twitter 
---- 
-@InvestorsLive “Stocks don’t go negative like Oil last year so you can average down as much as you can and still be positive”
-
-Lol
