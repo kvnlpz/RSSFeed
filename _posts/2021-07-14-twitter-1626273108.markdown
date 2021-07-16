@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shortsRbent 
-date: 2021-07-14 07:31:48 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/IHwS45bVTN
