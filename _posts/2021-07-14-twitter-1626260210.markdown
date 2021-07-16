@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PaoloLeopardi 
-date: 2021-07-14 03:56:50 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ Additional details about breakouts and volume. Other than overwhelming volume edge cases, how… https://t.co/A0WcrplbJa
