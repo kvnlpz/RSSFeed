@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @aimchallenge 
-date: 2021-07-14 02:52:42 
-categories: twitter 
---- 
-@InvestorsLive Do you see it bouncing back today Nathan or strong pass on account of volatility? Great call
