@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Valasourus 
-date: 2021-07-14 07:17:31 
-categories: twitter 
---- 
-RT @Steven1_994: @TradeZer0 hey you guys mind verify this
