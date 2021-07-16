@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bbbbbboynan 
-date: 2021-07-14 07:27:55 
-categories: twitter 
---- 
-@nope_its_lily Never have been.
