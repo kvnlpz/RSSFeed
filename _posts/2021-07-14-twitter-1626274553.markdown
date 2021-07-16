@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markflowchatter 
-date: 2021-07-14 07:55:53 
-categories: twitter 
---- 
-$TWTR strong on   “Twitter for professionals   going mainstream. Strong monetization for Twitter   https://t.co/z6ltj9EtM1
