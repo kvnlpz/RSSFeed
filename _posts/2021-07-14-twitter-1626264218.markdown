@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-14 05:03:38 
-categories: twitter 
---- 
-@Metatron_Won11 @StocksToTrade It’s good to be real in an industry full of fakes :)
