@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @etthingofdevstn 
-date: 2021-07-14 05:29:51 
-categories: twitter 
---- 
-RT @nope_its_lily: Okay, next post I think I'm going to write about is the impact of volatility on the markets directionally. Specifically…
