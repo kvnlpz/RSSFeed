@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:16:48 
-categories: twitter 
---- 
-RT @lx21: $BRKO hit $0.25 target today. https://t.co/o15BCXgvcp
