@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @Cajoax1 
+date: 2021-07-16 19:00:02 
+categories: twitter 
+--- 
+@InvestorsLive Process 10%
+Screen Time 40%
+Patience 20%
+Risk Management 30%
