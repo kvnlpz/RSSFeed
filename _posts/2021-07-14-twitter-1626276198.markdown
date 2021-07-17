@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:23:18 
-categories: twitter 
---- 
-RT @lx21: Contratulations @CtironResearch! $LFIN mentions you by name in their 10-K risk disclosures.
