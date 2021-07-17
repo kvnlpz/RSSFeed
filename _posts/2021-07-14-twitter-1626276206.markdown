@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:23:26 
-categories: twitter 
---- 
-RT @lx21: It is interesting how $DXR uses a press release on April 19 to announce a study that was published on March 3.
