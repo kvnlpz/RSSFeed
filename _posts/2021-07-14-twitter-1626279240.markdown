@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FridayOrange 
-date: 2021-07-14 09:14:00 
-categories: twitter 
---- 
-@super_trades They are just stock cheerleaders after all.
-
-With CNBC it's ALWAYS a "BUY" no matter the market conditions.
