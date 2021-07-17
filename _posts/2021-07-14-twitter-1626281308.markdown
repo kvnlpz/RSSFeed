@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @offshorehunters 
-date: 2021-07-14 09:48:28 
-categories: twitter 
---- 
-$AXAS chart update, retest of the 200 day ma area like this long with a tightish stop https://t.co/lvKGWJSjxd
