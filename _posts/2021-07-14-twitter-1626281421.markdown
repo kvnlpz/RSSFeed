@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-14 09:50:21 
-categories: twitter 
---- 
-RT @GraemeTheInvstr: @nope_its_lily 46% DIX, high GEX, a bunch of NOPE bullish clusters....it's a beautiful thing
