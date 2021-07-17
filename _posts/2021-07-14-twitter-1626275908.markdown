@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:18:28 
-categories: twitter 
---- 
-RT @lx21: I just got off the phone with Nasdaq - They confirmed that it is possible for the $DRYS stock price to go negative by the close t…
