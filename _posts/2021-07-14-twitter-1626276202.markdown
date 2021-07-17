@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:23:22 
-categories: twitter 
---- 
-RT @lx21: Russell couldn't figure out LFIN's float, but $LFIN can't even figure out how many shares they have. Shares outstanding by date a…
