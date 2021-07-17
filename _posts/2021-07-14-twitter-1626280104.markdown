@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-14 09:28:24 
-categories: twitter 
---- 
-@darjohn25 It's probably related to gamma and hedging action. Overnight there really isn't any option trading and m… https://t.co/2bfxEHA1Lo
