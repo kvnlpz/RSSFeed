@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tymmot89 
-date: 2021-07-14 08:25:29 
-categories: twitter 
---- 
-@timothysykes crowd just starting to discover this one. https://t.co/w9njJqMms4
