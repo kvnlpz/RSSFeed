@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:19:22 
-categories: twitter 
---- 
-RT @lx21: $GLBS market cap (yesterday) = $21.7M; After the warrants are exercised (based on $7.00 RTQ) it will be $420M! #TheNextDRYS
