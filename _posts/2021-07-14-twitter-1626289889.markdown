@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tagomatech 
-date: 2021-07-14 12:11:29 
-categories: twitter 
---- 
-@nope_its_lily On a positive note, no chicken was actually hurt.
