@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradesTurbo 
-date: 2021-07-14 08:35:20 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/FEfJ2EuUsQ
