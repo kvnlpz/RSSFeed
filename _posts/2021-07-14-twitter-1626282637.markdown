@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bless_bottle 
-date: 2021-07-14 10:10:37 
-categories: twitter 
---- 
-@nope_its_lily Not even looking at Bitcoin again until it's below $20 K USD.
