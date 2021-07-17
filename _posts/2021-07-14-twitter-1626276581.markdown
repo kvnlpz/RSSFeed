@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Super_Tradies 
-date: 2021-07-14 08:29:41 
-categories: twitter 
---- 
-RT @super_trades: $VRAR eerily similar to $VERI which in 2017 was the only pure play low float and IPO for AI with enterprise solution and…
