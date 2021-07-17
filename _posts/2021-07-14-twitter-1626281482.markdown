@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RobBrienza 
-date: 2021-07-14 09:51:22 
-categories: twitter 
---- 
-@nope_its_lily It also astonishes me when you look at the last bull run, its clear BTC dropped another 50% from this point
