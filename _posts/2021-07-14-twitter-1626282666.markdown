@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnnyTrades1 
-date: 2021-07-14 10:11:06 
-categories: twitter 
---- 
-RT @InvestorsLive: $XELA nice leg up off their tweet https://t.co/rlorcWOHs1
