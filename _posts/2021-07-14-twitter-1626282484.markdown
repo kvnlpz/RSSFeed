@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-14 10:08:04 
-categories: twitter 
---- 
-@Spacul8r current year revs, valuation , lock up expirations etc etc much more to look at regarding SPAC’s in 2021 versus 2020
