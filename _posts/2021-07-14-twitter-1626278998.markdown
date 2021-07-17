@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndersChiTown 
-date: 2021-07-14 09:09:58 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/Mr2zE4QvPG
