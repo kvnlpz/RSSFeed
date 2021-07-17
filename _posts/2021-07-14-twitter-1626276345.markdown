@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Nrj_kr 
-date: 2021-07-14 08:25:45 
-categories: twitter 
---- 
-RT @nope_its_lily: One of my favorite articles I've written on meme stocks. Should give you some insight as to when you can probably cut th…
