@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @feldy55 
-date: 2021-07-14 08:51:53 
-categories: twitter 
---- 
-RT @timothysykes: Pretty cool that $LCLP has nearly doubled since this tweet just 80 minutes ago &amp; now nearly quintupled since my initial a…
