@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mv30006231 
-date: 2021-07-14 08:25:37 
-categories: twitter 
---- 
-@InvestorsLive We ll bounce
