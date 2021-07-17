@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_efbailey 
-date: 2021-07-14 09:12:00 
-categories: twitter 
---- 
-@super_trades About a year ago I stopped watching cnbc and tv in general while trading. It was a distraction.
