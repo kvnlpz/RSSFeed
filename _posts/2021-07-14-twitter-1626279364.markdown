@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @presboss 
-date: 2021-07-14 09:16:04 
-categories: twitter 
---- 
-@nope_its_lily @Post_Market 285 look 🤩
