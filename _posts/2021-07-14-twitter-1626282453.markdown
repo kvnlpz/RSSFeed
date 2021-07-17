@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AliYilm01506001 
-date: 2021-07-14 10:07:33 
-categories: twitter 
---- 
-RT @InvestorsLive: $AMC exits 👇
-
-01:02:49 pm InvestorsLive: done w/ AMC  for now
