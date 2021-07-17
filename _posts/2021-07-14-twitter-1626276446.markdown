@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GetSumChedda 
-date: 2021-07-14 08:27:26 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade I feel like once cciv merges it’s going to fall hard
