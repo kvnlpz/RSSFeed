@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-14 09:25:23 
-categories: twitter 
---- 
-@SoccerMomTrades I only partly speak crayon but it's when we open at one end of the range and close at the other
