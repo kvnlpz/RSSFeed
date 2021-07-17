@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RouxBourbon 
-date: 2021-07-14 09:16:26 
-categories: twitter 
---- 
-@InvestorsLive @UprightPose Nate how is it going?
