@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wb4me 
-date: 2021-07-14 08:40:16 
-categories: twitter 
---- 
-RT @timothysykes: Soooo many wifi, software issues today, was trying to unveil new @profitly feature, but oh well, the good news is I naile…
