@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PatrickM_33 
-date: 2021-07-14 08:57:32 
-categories: twitter 
---- 
-@InvestorsLive Can you do a reoccurring update on this, lol?  I have the same issue and was wondering if these work
