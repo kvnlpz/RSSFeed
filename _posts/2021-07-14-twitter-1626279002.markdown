@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-14 09:10:02 
-categories: twitter 
---- 
-@Qullamaggie so my total volume for today on every entry and exit?
-
-Noted.
