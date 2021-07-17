@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @plans_bad 
-date: 2021-07-14 09:41:18 
-categories: twitter 
---- 
-@RayTL_ Well, at least the stop saved capital for me.  Such fun.
