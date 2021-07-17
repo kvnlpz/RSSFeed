@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cliffy234 
-date: 2021-07-14 08:42:04 
-categories: twitter 
---- 
-@timothysykes I followed your notification, I nailed it! Thanks!
