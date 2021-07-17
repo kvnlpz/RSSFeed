@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xLukeRomerox 
-date: 2021-07-14 08:41:59 
-categories: twitter 
---- 
-RT @timothysykes: Pretty cool that $LCLP has nearly doubled since this tweet just 80 minutes ago &amp; now nearly quintupled since my initial a…
