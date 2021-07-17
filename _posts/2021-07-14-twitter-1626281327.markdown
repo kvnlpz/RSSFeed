@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hadrian342 
-date: 2021-07-14 09:48:47 
-categories: twitter 
---- 
-@offshorehunters looking good, was on my radar today as well
