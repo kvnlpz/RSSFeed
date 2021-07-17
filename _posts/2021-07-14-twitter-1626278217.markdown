@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-14 08:56:57 
-categories: twitter 
---- 
-You ridin' @Qullamaggie ?
