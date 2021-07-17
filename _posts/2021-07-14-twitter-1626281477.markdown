@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Conrad_DeJong 
-date: 2021-07-14 09:51:17 
-categories: twitter 
---- 
-@timothysykes Thank You, I sold way to soon though lol
