@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-14 08:25:26 
-categories: twitter 
---- 
-$SPCE sub $35s. The paper is real.
