@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PhillipsJohnJ 
-date: 2021-07-14 09:55:09 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/Eb9qY18PbR
