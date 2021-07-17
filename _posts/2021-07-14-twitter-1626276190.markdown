@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @themikedmedia 
-date: 2021-07-14 08:23:10 
-categories: twitter 
---- 
-@InvestorsLive stupid short ladder attacks make them stop @SEC_Enforcement https://t.co/Ydu5LH2hY1
