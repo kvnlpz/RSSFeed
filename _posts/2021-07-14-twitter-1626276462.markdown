@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DrunkenBanker 
-date: 2021-07-14 08:27:42 
-categories: twitter 
---- 
-@InvestorsLive @TripleDTrader Lol
