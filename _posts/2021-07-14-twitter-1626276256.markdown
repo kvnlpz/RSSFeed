@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:24:16 
-categories: twitter 
---- 
-RT @lx21: As of 3:00, $BNGO has traded 170 minutes out of a possible 330. It has been stuck in a volatility halt over 48% of the day.
