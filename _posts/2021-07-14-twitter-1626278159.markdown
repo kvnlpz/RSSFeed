@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @slipshodtrader 
-date: 2021-07-14 08:55:59 
-categories: twitter 
---- 
-@InvestorsLive Maybe need to raise the desk a little higher?
