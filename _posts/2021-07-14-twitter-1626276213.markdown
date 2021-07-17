@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:23:33 
-categories: twitter 
---- 
-RT @lx21: I've flown Southwest dozens of times without ever having an issue or complaint, but had a major problem 3 of the last 4 times wit…
