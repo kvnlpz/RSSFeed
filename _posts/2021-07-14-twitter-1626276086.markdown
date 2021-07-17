@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:21:26 
-categories: twitter 
---- 
-RT @lx21: $DPW launched a new website to sell their new product line of cryptocurrency mining hardware. Unfortunately, you have to wait unt…
