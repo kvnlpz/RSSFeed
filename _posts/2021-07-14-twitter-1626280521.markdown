@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FREAK0NAUT 
-date: 2021-07-14 09:35:21 
-categories: twitter 
---- 
-@nope_its_lily @StrizziJ two sided action is best action https://t.co/6s9Hd3XlAt
