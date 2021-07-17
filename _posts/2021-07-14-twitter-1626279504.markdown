@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-14 09:18:24 
-categories: twitter 
---- 
-@206BG did you not see me saying market go up?
