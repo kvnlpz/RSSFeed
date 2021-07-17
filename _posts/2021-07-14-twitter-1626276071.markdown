@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:21:11 
-categories: twitter 
---- 
-RT @lx21: $RGSE conference call just about to start (4:15 Eastern)
