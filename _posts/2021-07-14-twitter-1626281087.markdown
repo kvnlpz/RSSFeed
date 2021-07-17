@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Dani50187744 
-date: 2021-07-14 09:44:47 
-categories: twitter 
---- 
-@timothysykes Please explain your internet connection for me 😳
