@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Flatby11 
-date: 2021-07-14 08:30:00 
-categories: twitter 
---- 
-@InvestorsLive Completely out at $5.75
-Great trade yesterday and today
