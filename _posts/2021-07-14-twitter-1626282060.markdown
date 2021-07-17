@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tasha_tak 
-date: 2021-07-14 10:01:00 
-categories: twitter 
---- 
-RT @super_trades: they are clueless
