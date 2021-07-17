@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LX____21 
-date: 2021-07-14 08:23:57 
-categories: twitter 
---- 
-RT @lx21: $MTP is trading almost 200% over fair value, even AFTER dropping 34% so far today. Based on the close today in London, the value…
