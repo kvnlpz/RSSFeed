@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joe71900334 
-date: 2021-07-14 09:13:37 
-categories: twitter 
---- 
-@timothysykes https://t.co/XdkfHgjj22
