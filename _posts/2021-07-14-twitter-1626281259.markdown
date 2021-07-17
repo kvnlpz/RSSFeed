@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1M2022SBSC 
-date: 2021-07-14 09:47:39 
-categories: twitter 
---- 
-@modern_rock Which broker allows you to short DTSS? E*Trade won’t let me
