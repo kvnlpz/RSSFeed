@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stephendhooge 
-date: 2021-07-14 08:27:49 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Cut losses quickly!
