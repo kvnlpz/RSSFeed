@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-14 09:15:23 
-categories: twitter 
---- 
-Good thing I don't intraday trade; I'm terrible at timing these things.
