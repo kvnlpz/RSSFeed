@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tommyyayo1 
-date: 2021-07-14 11:51:00 
-categories: twitter 
---- 
-@alphatrends almost a perfect setup, yesterday even better
