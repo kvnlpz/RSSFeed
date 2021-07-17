@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @luemob 
-date: 2021-07-14 08:18:58 
-categories: twitter 
---- 
-@InvestorsLive if you bought under $20 then you good.
