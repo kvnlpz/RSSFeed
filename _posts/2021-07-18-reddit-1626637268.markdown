@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NAME MY GAME 
-date: 2021-07-18 1626637268 
-categories: reddit 
---- 
-https://redd.it/omxpx6
