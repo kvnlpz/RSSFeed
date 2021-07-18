@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @timothysykes 
+date: 2021-07-18 11:24:24 
+categories: twitter 
+--- 
+@stephendhooge No politics
