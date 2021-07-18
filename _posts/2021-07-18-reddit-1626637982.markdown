@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why no swing trading? 
-date: 2021-07-18 1626637982 
-categories: reddit 
---- 
-https://redd.it/omxy7k
