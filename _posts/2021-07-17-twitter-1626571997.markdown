@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-17 18:33:17 
-categories: twitter 
---- 
-@kunal00 Hard to argue

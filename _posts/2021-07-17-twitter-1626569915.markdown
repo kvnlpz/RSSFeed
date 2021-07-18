@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @acfltdxpr 
-date: 2021-07-17 17:58:35 
-categories: twitter 
---- 
-@InvestorsLive Can you explain the significance of the T+1,2,3 etc. I assume this is when shorts are kinda forced t… https://t.co/W3rAj2Ltj7

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 19:11:26 
-categories: twitter 
---- 
-@longskew @darjohn25 I kinda of have to, you know, since the whole NOPE reversion thing.

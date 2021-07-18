@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 10:22:50 
-categories: twitter 
---- 
-@JessicaNutt96 @goodalexander i write it on a napkin, OCR it, and then hand the txt file to Alex to code

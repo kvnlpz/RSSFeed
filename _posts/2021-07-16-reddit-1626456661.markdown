@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mircea Popescu, the millionaire who drowned Costa Rica leaving millions in bitcoins 
-date: 2021-07-16 1626456661 
-categories: reddit 
---- 
-https://redd.it/ollo22

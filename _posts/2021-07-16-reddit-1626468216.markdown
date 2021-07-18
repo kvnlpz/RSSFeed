@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We're hosting a FREE 3-week DApp developer bootcamp starting July 26th 
-date: 2021-07-16 1626468216 
-categories: reddit 
---- 
-https://redd.it/olpma2

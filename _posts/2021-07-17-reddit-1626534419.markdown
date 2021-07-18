@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Aave May Build “Twitter on Ethereum” 
-date: 2021-07-17 1626534419 
-categories: reddit 
---- 
-https://redd.it/om5zsc

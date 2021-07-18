@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kami7999 
-date: 2021-07-15 00:59:00 
-categories: twitter 
---- 
-@nope_its_lily Half in rental properties and other half in tech stocks.

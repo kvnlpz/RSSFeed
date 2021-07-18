@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Basic Security Tips 
-date: 2021-07-18 1626610021 
-categories: reddit 
---- 
-https://redd.it/ompb78

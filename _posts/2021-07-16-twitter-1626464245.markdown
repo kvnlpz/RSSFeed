@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 12:37:25 
-categories: twitter 
---- 
-RT @kroyrunner89: 4. Find 5k shares still short in account when stock is at $30

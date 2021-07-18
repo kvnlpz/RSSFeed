@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Netlist is the future of the big TECH. 
-date: 2021-07-15 1626374088 
-categories: reddit 
---- 
-https://redd.it/okyxqt

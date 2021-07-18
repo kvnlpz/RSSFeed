@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xLightcycle 
-date: 2021-07-16 23:03:38 
-categories: twitter 
---- 
-@nope_its_lily We need to break programming down into the two parts that it is: designing, and construction.
-
-- Des… https://t.co/CZ855AcIgy

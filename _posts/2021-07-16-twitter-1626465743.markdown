@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stickycapital 
-date: 2021-07-16 13:02:23 
-categories: twitter 
---- 
-@nope_its_lily Lol same

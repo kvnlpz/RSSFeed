@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @geovinyl 
-date: 2021-07-15 07:41:38 
-categories: twitter 
---- 
-@InvestorsLive @Qullamaggie https://t.co/8ezI3Gm2e9

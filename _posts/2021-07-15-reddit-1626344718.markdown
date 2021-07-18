@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is brave browser worth it? 
-date: 2021-07-15 1626344718 
-categories: reddit 
---- 
-https://redd.it/okq1xm

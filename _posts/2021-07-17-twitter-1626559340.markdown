@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StickerJon 
-date: 2021-07-17 15:02:20 
-categories: twitter 
---- 
-@timothysykes Yup! No time for lazy people. If you want to succeed you need to study hard! Thanks Tim!

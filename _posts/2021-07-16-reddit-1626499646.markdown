@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Square Sets Out to Bring DeFi to Bitcoin 
-date: 2021-07-16 1626499646 
-categories: reddit 
---- 
-https://redd.it/oly62n

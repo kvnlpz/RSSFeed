@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shoutout to Swissborg 
-date: 2021-07-15 1626401002 
-categories: reddit 
---- 
-https://redd.it/ol76vw

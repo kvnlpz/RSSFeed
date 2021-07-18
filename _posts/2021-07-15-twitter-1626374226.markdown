@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stephendhooge 
-date: 2021-07-15 11:37:06 
-categories: twitter 
---- 
-@timothysykes @sttbreakingnews Thx for the heads-up! I will be joining the bootcamp as well

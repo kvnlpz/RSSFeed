@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Have you ever tried automated trading scripts ? What if you could use your trading experience and have an experienced developer to work with to create a profitable automated script ? 
-date: 2021-07-16 1626435516 
-categories: reddit 
---- 
-https://redd.it/olf4qi

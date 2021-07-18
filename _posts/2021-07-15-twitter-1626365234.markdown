@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GuyAdamiFan 
-date: 2021-07-15 09:07:14 
-categories: twitter 
---- 
-@alphatrends Lot of churn inside that is not reflected in the indices. Wonder what he inside churn will look like w… https://t.co/9XOL4Vv5sO

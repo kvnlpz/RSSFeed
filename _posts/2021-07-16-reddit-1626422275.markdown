@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It is estimated that 4 million Bitcoins have been lost 
-date: 2021-07-16 1626422275 
-categories: reddit 
---- 
-https://redd.it/olcaz5

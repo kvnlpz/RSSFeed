@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: To know Satoshi is to know Prometheus 
-date: 2021-07-15 1626352705 
-categories: reddit 
---- 
-https://redd.it/okrz98

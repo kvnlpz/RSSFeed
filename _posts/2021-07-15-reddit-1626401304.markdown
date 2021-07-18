@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Did My First options trade today! Opened the margin options trading account and did a trade to learn by practicing. Not sure if I made the right call. Bought 1 contract of MRNA put that expires on aug 30th. 
-date: 2021-07-15 1626401304 
-categories: reddit 
---- 
-https://redd.it/ol79v5

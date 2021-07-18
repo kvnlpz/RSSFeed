@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockstream green wallet to blue wallet 
-date: 2021-07-17 1626558857 
-categories: reddit 
---- 
-https://redd.it/omdm9r

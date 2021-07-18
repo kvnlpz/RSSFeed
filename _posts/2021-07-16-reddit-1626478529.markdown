@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Doing my own research. 
-date: 2021-07-16 1626478529 
-categories: reddit 
---- 
-https://redd.it/olsu96

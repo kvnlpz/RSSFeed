@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 22:33:38 
-categories: twitter 
---- 
-@trumanshow Oh sure that’s a great analogy. I don’t understand that either, but I barely understand how my car drives.

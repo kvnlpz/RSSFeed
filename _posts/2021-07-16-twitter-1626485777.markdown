@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ctyrtzl507 
-date: 2021-07-16 18:36:17 
-categories: twitter 
---- 
-@nope_its_lily The way SPX is priced will change when it goes 24 hour trading.

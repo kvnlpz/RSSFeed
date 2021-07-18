@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Cardano Foundation partnered with Save the Children in Rwanda to launch a crypto charity platform! This will allow for ADA donations without intermediaries. We discuss the partnership and how blockchain technology is being used for social good. 
-date: 2021-07-15 1626365727 
-categories: reddit 
---- 
-https://redd.it/okup69

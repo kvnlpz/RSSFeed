@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paydabulls 
-date: 2021-07-15 05:38:26 
-categories: twitter 
---- 
-@InvestorsLive Wisdom always wins in the long run.

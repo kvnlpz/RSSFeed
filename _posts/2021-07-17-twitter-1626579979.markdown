@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PHA767 
-date: 2021-07-17 20:46:19 
-categories: twitter 
---- 
-RT @InvestorsLive: What happens when they pull the goalie? 🥅 https://t.co/WnIPWyvqp6

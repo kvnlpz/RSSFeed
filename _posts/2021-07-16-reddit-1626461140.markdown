@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PMCC on AAPL 
-date: 2021-07-16 1626461140 
-categories: reddit 
---- 
-https://redd.it/oln8aa

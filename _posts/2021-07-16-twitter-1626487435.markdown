@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheNOPEScalper 
-date: 2021-07-16 19:03:55 
-categories: twitter 
---- 
-@nope_its_lily This is your fault 😐 https://t.co/KX2z1xwdUY

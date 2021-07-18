@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Pladizow 
-date: 2021-07-15 08:41:42 
-categories: twitter 
---- 
-@alphatrends https://t.co/3uhvXbMPR8

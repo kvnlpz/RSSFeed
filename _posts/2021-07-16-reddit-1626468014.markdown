@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Helpful DeFi web app for calculating perfect pool ratio match 
-date: 2021-07-16 1626468014 
-categories: reddit 
---- 
-https://redd.it/olpjx0

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GaryBlades 
-date: 2021-07-15 20:40:47 
-categories: twitter 
---- 
-@super_trades https://t.co/iIx75nUQKH

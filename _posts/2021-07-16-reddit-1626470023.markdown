@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The current status of my spy calls 
-date: 2021-07-16 1626470023 
-categories: reddit 
---- 
-https://redd.it/olq6ti

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ForshtMike 
-date: 2021-07-15 10:54:23 
-categories: twitter 
---- 
-@OddStockTrader Tell Nathan @InvestorsLive 
-Happy wife, Happy life 😆

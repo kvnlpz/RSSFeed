@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VeritasGreen 
-date: 2021-07-15 04:50:53 
-categories: twitter 
---- 
-@InvestorsLive Appreciate the recommendation ordered one yesterday.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @traddr 
-date: 2021-07-17 10:12:50 
-categories: twitter 
---- 
-@InvestorsLive Is that the wife performing those chores?

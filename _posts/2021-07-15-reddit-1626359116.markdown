@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Free MIT crypto course available called: "BlockChain and Money" 
-date: 2021-07-15 1626359116 
-categories: reddit 
---- 
-https://redd.it/oktwfc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tqlimited 
-date: 2021-07-15 08:59:17 
-categories: twitter 
---- 
-@nope_its_lily That a really cool skill set! Good luck to your pal.

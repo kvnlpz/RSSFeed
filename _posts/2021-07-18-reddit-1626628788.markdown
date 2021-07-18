@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase question 
-date: 2021-07-18 1626628788 
-categories: reddit 
---- 
-https://redd.it/omuwz9

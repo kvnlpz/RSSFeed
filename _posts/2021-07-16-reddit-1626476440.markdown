@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Adding Ledger love to another computer? 
-date: 2021-07-16 1626476440 
-categories: reddit 
---- 
-https://redd.it/ols7nx

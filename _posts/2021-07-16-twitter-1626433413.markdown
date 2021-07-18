@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tylerdurdenca 
-date: 2021-07-16 04:03:33 
-categories: twitter 
---- 
-@timothysykes Okay okay I’m just asking in terms of company revenue and sales etc. I get it..

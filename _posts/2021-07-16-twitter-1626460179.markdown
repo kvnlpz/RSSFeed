@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @svper_trades 
-date: 2021-07-16 11:29:39 
-categories: twitter 
---- 
-RT @super_trades: Whining is not an effective stock strategy.  May I suggest following risk management rules and a trade plan as an alterna…

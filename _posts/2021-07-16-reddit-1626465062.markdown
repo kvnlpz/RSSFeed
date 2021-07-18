@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SOFI not looking so hot 
-date: 2021-07-16 1626465062 
-categories: reddit 
---- 
-https://redd.it/olnm21

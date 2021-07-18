@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:05:21 
-categories: twitter 
---- 
-RT @kroyrunner89: i guess volume told the story here

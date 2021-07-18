@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jisifu 
-date: 2021-07-16 17:26:56 
-categories: twitter 
---- 
-@nope_its_lily $clov all time high risk reward 6

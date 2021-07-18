@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_joemama 
-date: 2021-07-16 23:20:18 
-categories: twitter 
---- 
-@nope_its_lily Cooking is just the thing we do for sustenance? There’s much more to building actual software. One’s… https://t.co/hTvEjaLm1y

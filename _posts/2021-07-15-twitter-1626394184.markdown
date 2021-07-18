@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BigBearTrout 
-date: 2021-07-15 17:09:44 
-categories: twitter 
---- 
-@nope_its_lily investing . com NQ data wrong

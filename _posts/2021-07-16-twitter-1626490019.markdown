@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @night__ryder 
-date: 2021-07-16 19:46:59 
-categories: twitter 
---- 
-@nope_its_lily This is probably a very useful bit of information for a lot of people

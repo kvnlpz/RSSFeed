@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LBHinson 
-date: 2021-07-16 18:00:45 
-categories: twitter 
---- 
-@InvestorsLive Subscribe to investorslive just so you know if a ticker is about to drop hard and continue to drop

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BighandsDave 
-date: 2021-07-17 04:51:19 
-categories: twitter 
---- 
-@nope_its_lily $XRP

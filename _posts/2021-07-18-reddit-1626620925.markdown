@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Whats the difference between Shelley era and Byron era? Which one should I use? 
-date: 2021-07-18 1626620925 
-categories: reddit 
---- 
-https://redd.it/oms9yv

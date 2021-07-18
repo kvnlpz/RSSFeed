@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cambridge data shows Bitcoin mining on the move 
-date: 2021-07-15 1626371067 
-categories: reddit 
---- 
-https://redd.it/okxwjv

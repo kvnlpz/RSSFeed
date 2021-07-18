@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shortdestroyer 
-date: 2021-07-15 07:31:47 
-categories: twitter 
---- 
-@nope_its_lily 1994 used toyota

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mr06tp11 
-date: 2021-07-15 09:08:24 
-categories: twitter 
---- 
-@OddStockTrader What are your favorite nft stocks to hodl?

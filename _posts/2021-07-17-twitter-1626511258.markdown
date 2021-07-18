@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @empirezhu 
-date: 2021-07-17 01:40:58 
-categories: twitter 
---- 
-@nope_its_lily @v1ch0 Have you tried functional programming in the real world? It’s absolutely addictive and enjoyable.

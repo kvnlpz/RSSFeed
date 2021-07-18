@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Game Developers Guide to NFTs 
-date: 2021-07-17 1626536784 
-categories: reddit 
---- 
-https://redd.it/om6pvg

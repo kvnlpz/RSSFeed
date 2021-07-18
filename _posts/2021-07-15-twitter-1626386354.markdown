@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WaalStraater 
-date: 2021-07-15 14:59:14 
-categories: twitter 
---- 
-@MikeBellafiore Do NFTs count? You could hang them in your digital gallery and show them to your virtual guests.

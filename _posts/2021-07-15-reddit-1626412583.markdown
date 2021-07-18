@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Who’s buying this? 
-date: 2021-07-15 1626412583 
-categories: reddit 
---- 
-https://redd.it/ola7to

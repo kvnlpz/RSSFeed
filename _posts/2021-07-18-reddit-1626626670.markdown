@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Huge spikes on first candle of coin. Reasons? 
-date: 2021-07-18 1626626670 
-categories: reddit 
---- 
-https://redd.it/omu70x

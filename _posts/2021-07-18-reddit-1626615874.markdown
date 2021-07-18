@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The last 30 blocks of BSV was mined by the same miner 
-date: 2021-07-18 1626615874 
-categories: reddit 
---- 
-https://redd.it/omqs06

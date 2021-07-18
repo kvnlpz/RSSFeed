@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: According to cryptoquant, over 35,000 bitcoin have just been sent to exchanges. This is 30x larger than typical net inflows. This usually suggests a large increase in supply available for selling 
-date: 2021-07-16 1626489146 
-categories: reddit 
---- 
-https://redd.it/olvnl1

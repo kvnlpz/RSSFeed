@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConvexityCap 
-date: 2021-07-15 12:45:05 
-categories: twitter 
---- 
-@nope_its_lily @choffstein Don’t do this

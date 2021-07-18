@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Niels21398040 
-date: 2021-07-15 00:33:46 
-categories: twitter 
---- 
-@nope_its_lily $btc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Study Determines The Best Moving Average Crossover Trading Strategy - Thoughts? 
-date: 2021-07-15 1626351771 
-categories: reddit 
---- 
-https://redd.it/okrqcp

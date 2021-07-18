@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can the creation of CBDCs actually boost bitcoin adoption and usage in payments? 
-date: 2021-07-15 1626395092 
-categories: reddit 
---- 
-https://redd.it/ol5k3w

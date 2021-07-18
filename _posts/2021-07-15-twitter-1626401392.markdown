@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 19:09:52 
-categories: twitter 
---- 
-@BullRiderCap @JessicaNutt96 both my statement and your statement can be true at the same time, amazing

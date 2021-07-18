@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Whats going on with MATIC? 
-date: 2021-07-15 1626365002 
-categories: reddit 
---- 
-https://redd.it/okuhfh

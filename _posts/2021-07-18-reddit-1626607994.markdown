@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Friendly reminder of ETH low fees 
-date: 2021-07-18 1626607994 
-categories: reddit 
---- 
-https://redd.it/omouo8

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: University of Cambridge Bitcoin Mining Map Shows China's Hashrate Dropped to 46% – Mining Bitcoin News 
-date: 2021-07-15 1626379465 
-categories: reddit 
---- 
-https://redd.it/ol0qcc

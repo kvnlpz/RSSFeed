@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ultimatejingle 
-date: 2021-07-15 12:09:43 
-categories: twitter 
---- 
-@nope_its_lily 😅 https://t.co/AnwqVD1Yok

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-16 13:20:47 
-categories: twitter 
---- 
-@OddStockTrader You know @RampCapitalLLC is getting his started right now though.

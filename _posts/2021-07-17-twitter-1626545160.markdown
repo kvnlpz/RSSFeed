@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WillTeschII 
-date: 2021-07-17 11:06:00 
-categories: twitter 
---- 
-@timothysykes Was it Gary Busey 🤔🤔🤔

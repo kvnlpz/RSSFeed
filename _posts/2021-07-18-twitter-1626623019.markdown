@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SaidDoug 
-date: 2021-07-18 08:43:39 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Where y’at

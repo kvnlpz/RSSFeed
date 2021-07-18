@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jablannsky 
-date: 2021-07-15 21:34:10 
-categories: twitter 
---- 
-RT @super_trades: If you have to ask others when you should buy or sell a stock then you should NOT be trading with real money. You should…

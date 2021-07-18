@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @swedepilot 
-date: 2021-07-15 07:49:34 
-categories: twitter 
---- 
-@InvestorsLive Lake or ocean?

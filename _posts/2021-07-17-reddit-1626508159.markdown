@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wondering about opening wallets across different programs? 
-date: 2021-07-17 1626508159 
-categories: reddit 
---- 
-https://redd.it/olzxoj

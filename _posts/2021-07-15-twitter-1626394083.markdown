@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sanfrantrader 
-date: 2021-07-15 17:08:03 
-categories: twitter 
---- 
-RT @InvestorsLive: How I manage my swing trades 📈 https://t.co/7KfwyUxpLK

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CLNE - Back of the Envelope Valuation 
-date: 2021-07-17 1626507062 
-categories: reddit 
---- 
-https://redd.it/olzpz7

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Aave founder hints at developing ‘Twitter on Ethereum’ 
-date: 2021-07-17 1626540714 
-categories: reddit 
---- 
-https://redd.it/om7ycw

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin for the family. 
-date: 2021-07-16 1626449302 
-categories: reddit 
---- 
-https://redd.it/olj48a

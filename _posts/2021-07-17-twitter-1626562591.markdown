@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-17 15:56:31 
-categories: twitter 
---- 
-@Diana67530753 @Stock_Surfer357 Start with @30DayBoot

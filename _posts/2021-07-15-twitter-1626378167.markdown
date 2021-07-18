@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @midnitecoder 
-date: 2021-07-15 12:42:47 
-categories: twitter 
---- 
-@InvestorsLive Your very right.

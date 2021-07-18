@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-17 18:16:35 
-categories: twitter 
---- 
-@jscherniack so 3 or 4 🍸?

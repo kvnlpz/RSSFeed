@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 10:23:17 
-categories: twitter 
---- 
-red means you're making money right?

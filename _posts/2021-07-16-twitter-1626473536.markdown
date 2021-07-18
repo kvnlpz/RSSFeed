@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DrewFroling 
-date: 2021-07-16 15:12:16 
-categories: twitter 
---- 
-RT @OddStockTrader: Every public use restroom should have loud music always playing.
-
-Change my mind

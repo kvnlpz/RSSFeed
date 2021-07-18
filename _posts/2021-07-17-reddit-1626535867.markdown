@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What do you think the /r/cryptocurrency's BTC/ETH market cap is? 
-date: 2021-07-17 1626535867 
-categories: reddit 
---- 
-https://redd.it/om6fue

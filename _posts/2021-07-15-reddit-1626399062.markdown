@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why won’t my posts work on Cardano even tho they are within the rules? 
-date: 2021-07-15 1626399062 
-categories: reddit 
---- 
-https://redd.it/ol6o03

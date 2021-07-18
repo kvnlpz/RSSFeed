@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 11:39:13 
-categories: twitter 
---- 
-it's likely that calls are being bought by MMs (long gamma regime). Same with -NOPE correlating to increased rvol.

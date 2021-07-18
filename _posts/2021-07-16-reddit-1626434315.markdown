@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: From SRAC to XPEV 
-date: 2021-07-16 1626434315 
-categories: reddit 
---- 
-https://redd.it/oleu7i

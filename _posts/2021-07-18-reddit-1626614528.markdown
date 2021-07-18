@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An unbiased review of Hex, an ERC-20 token attempting to improve on Bitcoin's fallacies 
-date: 2021-07-18 1626614528 
-categories: reddit 
---- 
-https://redd.it/omqf4j

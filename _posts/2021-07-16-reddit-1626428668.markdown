@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cypherpunks write code 
-date: 2021-07-16 1626428668 
-categories: reddit 
---- 
-https://redd.it/oldm5p

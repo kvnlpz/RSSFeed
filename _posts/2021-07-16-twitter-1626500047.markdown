@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tszzl 
-date: 2021-07-16 22:34:07 
-categories: twitter 
---- 
-RT @nope_its_lily: My point here - I’m a software person by background - is I’ve always seen programming as a means to solve problems and b…

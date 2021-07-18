@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 07:28:23 
-categories: twitter 
---- 
-I wish there was a futures instrument that behaved like options. Basically unbridled leverage with unlimited upside… https://t.co/7YVJD25yF3

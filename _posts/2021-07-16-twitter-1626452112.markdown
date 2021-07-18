@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-16 09:15:12 
-categories: twitter 
---- 
-RT @lotterydotcom: HUGE news for #Powerball players! "Powerball is expanding its schedule to include a third weekly drawing of the massivel…

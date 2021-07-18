@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mostovic 
-date: 2021-07-15 08:09:33 
-categories: twitter 
---- 
-@nope_its_lily nah, its just some yolo of trader :P
-https://t.co/u6Mgp7VMMp

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WickJohn51 
-date: 2021-07-15 06:48:31 
-categories: twitter 
---- 
-@InvestorsLive $AMC too

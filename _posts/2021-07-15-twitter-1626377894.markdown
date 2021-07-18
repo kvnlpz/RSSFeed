@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeBellafiore 
-date: 2021-07-15 12:38:14 
-categories: twitter 
---- 
-@stevenplace NOT hired, but we will keep your resume on file if we need a comedian.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nullpointered 
-date: 2021-07-16 22:40:46 
-categories: twitter 
---- 
-@nope_its_lily @tszzl Same here I love the initial design process but the actual programming, while I don't mind it, isn't the fun part

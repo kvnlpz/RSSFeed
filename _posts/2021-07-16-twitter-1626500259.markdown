@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnthonyLeeZhang 
-date: 2021-07-16 22:37:39 
-categories: twitter 
---- 
-@nope_its_lily What is fun for me about coding is you solve a bunch of vaguely somewhat interesting mini-problems t… https://t.co/KpE30iTzKq

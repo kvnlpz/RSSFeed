@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This site sells Bitcoin wallet.dat files with lost passwords - if you can brute force your way in, you receive the bounty in Bitcoins! Anyone used this, or know if it's legitimate? 
-date: 2021-07-15 1626369337 
-categories: reddit 
---- 
-https://redd.it/okxbov

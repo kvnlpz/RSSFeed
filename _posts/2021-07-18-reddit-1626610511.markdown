@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: what you should need to know before deploying an erc 20 Token 
-date: 2021-07-18 1626610511 
-categories: reddit 
---- 
-https://redd.it/ompf7u

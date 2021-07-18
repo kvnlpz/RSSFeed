@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Look at these Erc20 transactions and tell me with a straight face that this person is not laundering money through Binance 
-date: 2021-07-16 1626466554 
-categories: reddit 
---- 
-https://redd.it/olp2ha

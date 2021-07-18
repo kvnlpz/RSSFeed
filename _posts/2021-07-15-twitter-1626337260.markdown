@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Clutchcaller 
-date: 2021-07-15 01:21:00 
-categories: twitter 
---- 
-@timothysykes Grinding 👍 perfecting my craft!!

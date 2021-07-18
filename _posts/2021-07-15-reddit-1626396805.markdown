@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In thinkorswim platform - what search criteria to use to pick the best stock which gives 2X best return in a year 
-date: 2021-07-15 1626396805 
-categories: reddit 
---- 
-https://redd.it/ol5evb

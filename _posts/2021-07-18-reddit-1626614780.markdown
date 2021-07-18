@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto mining without a GPU? 
-date: 2021-07-18 1626614780 
-categories: reddit 
---- 
-https://redd.it/omqhji

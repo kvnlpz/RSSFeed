@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wassertrades 
-date: 2021-07-16 07:27:17 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/udWG1haISG

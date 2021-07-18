@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @INFLATIONJPOW 
-date: 2021-07-17 07:01:58 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/kJ9ZYgr40M

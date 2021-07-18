@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ThorChain loses $7.6M in ‘Chaosnet’ Exploit, offers Hacker a Bounty to return Funds 
-date: 2021-07-15 1626403531 
-categories: reddit 
---- 
-https://redd.it/ol7vy8

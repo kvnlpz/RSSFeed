@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC/EUR value in binance lite vs pro 
-date: 2021-07-17 1626556971 
-categories: reddit 
---- 
-https://redd.it/omd298

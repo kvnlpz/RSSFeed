@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 'State model and state root' was merged on GitHub 🧑‍💻✨ 
-date: 2021-07-16 1626444192 
-categories: reddit 
---- 
-https://redd.it/olhgtz

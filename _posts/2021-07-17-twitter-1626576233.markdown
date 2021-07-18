@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stocksandspecs 
-date: 2021-07-17 19:43:53 
-categories: twitter 
---- 
-@InvestorsLive How to tell the difference between a dead cat bounce and a true breakout? Thanks for these awesome S… https://t.co/a2AK9jCp4p

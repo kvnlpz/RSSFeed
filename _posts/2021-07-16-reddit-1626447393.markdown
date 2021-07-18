@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: C# Corner and Stratis Announce Student Blockchain Hackathon 
-date: 2021-07-16 1626447393 
-categories: reddit 
---- 
-https://redd.it/olih1i

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s New in Eth2 - 16 July 2021 
-date: 2021-07-16 1626479920 
-categories: reddit 
---- 
-https://redd.it/olt8dy

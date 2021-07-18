@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is converting Bitcoin to a stablecoin such as USDC a taxable event? 
-date: 2021-07-17 1626579341 
-categories: reddit 
---- 
-https://redd.it/omiun3

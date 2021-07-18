@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @spammmmusubi 
-date: 2021-07-15 15:35:19 
-categories: twitter 
---- 
-@thehonestcroock you’ve been killing it the last few weeks! Seems like you’re past your rough patch.

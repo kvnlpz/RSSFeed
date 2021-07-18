@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just clone M-Pesa into a crypto app? 
-date: 2021-07-16 1626474719 
-categories: reddit 
---- 
-https://redd.it/olrorf

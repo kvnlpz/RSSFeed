@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @John_Hempton 
-date: 2021-07-15 11:28:02 
-categories: twitter 
---- 
-@goodetrades @sharesleuth @OksanaElbers2 @AlderLaneeggs @mcelarier yeah, so what?
-
-That does not mean it was inaccurate.

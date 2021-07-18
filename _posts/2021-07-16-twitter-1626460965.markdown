@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GrapefruitGals 
-date: 2021-07-16 11:42:45 
-categories: twitter 
---- 
-@muddywatersre https://t.co/4J0J3SLEP8

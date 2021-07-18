@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does it work that you can have the same Ethereum token, but on different chains? 
-date: 2021-07-16 1626429494 
-categories: reddit 
---- 
-https://redd.it/olds6l

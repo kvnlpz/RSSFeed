@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chartswhenbored 
-date: 2021-07-16 21:32:40 
-categories: twitter 
---- 
-@alphatrends @JasonLeavitt Cool. Have you seen these tunnels? https://t.co/VWA0g6UgL7

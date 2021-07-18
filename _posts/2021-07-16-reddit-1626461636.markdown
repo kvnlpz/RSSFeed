@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto Price Analysis & Overview July 16th: Bitcoin, Ethereum, Ripple, Cardano, & Polkadot. 
-date: 2021-07-16 1626461636 
-categories: reddit 
---- 
-https://redd.it/olnee6

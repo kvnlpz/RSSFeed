@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Got a message from someone asking if I wanted to import my wallet and earn “token reflections” on my coins. All they needed was my seed phrase. They still haven’t let me know if it worked 🤔 
-date: 2021-07-16 1626420874 
-categories: reddit 
---- 
-https://redd.it/olc0s4

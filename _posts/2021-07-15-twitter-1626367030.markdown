@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chessboxa 
-date: 2021-07-15 09:37:10 
-categories: twitter 
---- 
-RT @RayTL_: The last time I took an entry on a stock from a Twitter feed intraday with no prep - I was an unprofitable trader, who didn’t h…

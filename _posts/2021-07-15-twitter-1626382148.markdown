@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JeffrosMusic 
-date: 2021-07-15 13:49:08 
-categories: twitter 
---- 
-@InvestorsLive I'm trying to understand the "why" about everything I can, that's all

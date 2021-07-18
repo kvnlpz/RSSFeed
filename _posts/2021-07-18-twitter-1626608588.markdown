@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-18 04:43:08 
-categories: twitter 
---- 
-@doctrader7 @jpsmith5804 hit up https://t.co/6TxQYokG3r for details

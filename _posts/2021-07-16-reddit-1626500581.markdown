@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Who Has 1 or More Moons? 
-date: 2021-07-16 1626500581 
-categories: reddit 
---- 
-https://redd.it/olydrm

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OptionsGunner1 
-date: 2021-07-15 18:23:33 
-categories: twitter 
---- 
-@nope_its_lily Institutions are heavily hedged with puts going into OPEX. Markets don’t crash when everyone owns puts

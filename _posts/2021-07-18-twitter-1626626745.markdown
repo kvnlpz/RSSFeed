@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @triathletetrade 
-date: 2021-07-18 09:45:45 
-categories: twitter 
---- 
-@RayTL_ I’m hiring 😂

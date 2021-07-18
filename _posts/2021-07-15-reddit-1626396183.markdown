@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA: Don't use the Brave content creator/Gemini workaround. They will ban your account and steal your BAT 
-date: 2021-07-15 1626396183 
-categories: reddit 
---- 
-https://redd.it/ol5v6u

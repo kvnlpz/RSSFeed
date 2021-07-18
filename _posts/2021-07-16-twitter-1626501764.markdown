@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DrivenSports 
-date: 2021-07-16 23:02:44 
-categories: twitter 
---- 
-@nope_its_lily $MO, I’ll take the peace of mind and 7% divvy.

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-15 06:49:29 
-categories: twitter 
---- 
-$DRNG took off.
-
-Holy cow! https://t.co/mip3xk2klx

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-16 07:35:46 
-categories: twitter 
---- 
-Days off or finishing day early is like risk management - can talk a big game but it only matters if you do it 👌

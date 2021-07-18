@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BondTraderRehab 
-date: 2021-07-15 12:57:43 
-categories: twitter 
---- 
-@nope_its_lily even when handed to them, they fumble

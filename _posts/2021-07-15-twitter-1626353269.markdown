@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeMoreland19 
-date: 2021-07-15 05:47:49 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade At work :(

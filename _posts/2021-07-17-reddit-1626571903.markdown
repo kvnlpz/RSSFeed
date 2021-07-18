@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You can now earn 5% APY with yETH and yBTC on the Stellar network 
-date: 2021-07-17 1626571903 
-categories: reddit 
---- 
-https://redd.it/omh0tm

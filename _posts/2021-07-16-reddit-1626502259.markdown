@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reduce transaction cost sending coin from Binance to Kraken 
-date: 2021-07-16 1626502259 
-categories: reddit 
---- 
-https://redd.it/olyqwx

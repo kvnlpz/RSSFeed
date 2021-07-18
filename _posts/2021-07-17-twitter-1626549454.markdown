@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-17 12:17:34 
-categories: twitter 
---- 
-@gregdsports Read @JamesClear book its a whole new perspective. It's amazing.

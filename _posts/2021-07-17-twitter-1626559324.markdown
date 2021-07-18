@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PittBullTrading 
-date: 2021-07-17 15:02:04 
-categories: twitter 
---- 
-@InvestorsLive Not an opportunity right now. FOMO

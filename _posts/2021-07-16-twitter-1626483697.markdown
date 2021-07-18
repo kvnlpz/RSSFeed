@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TeddytheDudeMa1 
-date: 2021-07-16 18:01:37 
-categories: twitter 
---- 
-@nope_its_lily These situations are among the many reasons why the United States would benefit from a single payor health system.

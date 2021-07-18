@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SharmaG_KaLarka 
-date: 2021-07-15 10:36:18 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/mf9O2lg6XS

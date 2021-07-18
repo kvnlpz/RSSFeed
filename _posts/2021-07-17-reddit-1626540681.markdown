@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Sub Idea] Weekly security analysis "book club" 
-date: 2021-07-17 1626540681 
-categories: reddit 
---- 
-https://redd.it/om7y1e

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sonni_fx 
-date: 2021-07-15 01:40:31 
-categories: twitter 
---- 
-@timothysykes Are you in Italy?

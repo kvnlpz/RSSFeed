@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-16 08:01:42 
-categories: twitter 
---- 
-The mechanics of a move https://t.co/AsbWJ1xnqD https://t.co/IoKV4gzueL

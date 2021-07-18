@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano has successfully carried out a hard fork and upgraded its testnet from Alonzo Blue to Alonzo White. 
-date: 2021-07-16 1626460717 
-categories: reddit 
---- 
-https://redd.it/oln2xu

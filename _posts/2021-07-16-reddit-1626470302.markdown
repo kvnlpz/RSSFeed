@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I gathered data from over 100 cryptocurrencies from 2013 and created a racing chart video. Results are very surprising, especially is interesting to see where was DOGE in 2015! 
-date: 2021-07-16 1626470302 
-categories: reddit 
---- 
-https://redd.it/olq9us

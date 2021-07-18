@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @midnitecoder 
-date: 2021-07-15 10:52:50 
-categories: twitter 
---- 
-@OddStockTrader *Checks ticket language, can you short sell tickets?

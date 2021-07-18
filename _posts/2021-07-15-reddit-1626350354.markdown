@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cartesi staking, tested for a month it actually works. Have received 32 deposits so far. 
-date: 2021-07-15 1626350354 
-categories: reddit 
---- 
-https://redd.it/okrctm

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledger nano s questions 
-date: 2021-07-17 1626588866 
-categories: reddit 
---- 
-https://redd.it/oml04l

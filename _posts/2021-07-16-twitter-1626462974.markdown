@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-16 12:16:14 
-categories: twitter 
---- 
-RT @orangebook_: Raise the standards of your conversations to improve the quality of your life.

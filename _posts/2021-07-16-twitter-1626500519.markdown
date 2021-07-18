@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnthonyLeeZhang 
-date: 2021-07-16 22:41:59 
-categories: twitter 
---- 
-@nope_its_lily It is just about finding the right button to click, which sucks. I generally dislike Mathematica, be… https://t.co/BJb3stwqe4

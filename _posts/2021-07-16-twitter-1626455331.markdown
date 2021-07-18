@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BP9000 
-date: 2021-07-16 10:08:51 
-categories: twitter 
---- 
-RT @zer0estv: We are live with Noel Smith of Convex Asset Management where he dissects the reason convex payouts are a great strategy.
-
-Lea…

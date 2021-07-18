@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shrew Will Integrate Chainlink Price Feeds to Enable Real-time price conversions of SHREW reward points 
-date: 2021-07-16 1626465882 
-categories: reddit 
---- 
-https://redd.it/oloucy

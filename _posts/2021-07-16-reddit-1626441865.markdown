@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Satoshi message from 2008 
-date: 2021-07-16 1626441865 
-categories: reddit 
---- 
-https://redd.it/olgssj

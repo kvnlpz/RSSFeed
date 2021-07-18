@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bigbordel 
-date: 2021-07-16 00:23:48 
-categories: twitter 
---- 
-@nope_its_lily Humanity deserves SPX below a thousand

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Wolf_of_Stocks 
-date: 2021-07-15 23:08:18 
-categories: twitter 
---- 
-@timothysykes Trading Crypto rn and it's 2am here in Canada 😂

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: about staking rewards 
-date: 2021-07-15 1626374228 
-categories: reddit 
---- 
-https://redd.it/okyzhz

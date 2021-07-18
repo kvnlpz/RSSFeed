@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: News headline has 'Emergency', 'Dangerous' , 'Powell', 'Plunges' and 'New Low' in a single sentence 
-date: 2021-07-16 1626488997 
-categories: reddit 
---- 
-https://redd.it/olvm73

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Harmony Announces $1M Hackathon to Bridge TradFi and DeFi | “We can help them understand and harness the power of DeFi and teach them a lot as well. We want this to be a “we” thing, NOT TradFi vs DeFi. Our vision is that this hackathon becomes their onboarding vehicle.” 
-date: 2021-07-18 1626597602 
-categories: reddit 
---- 
-https://redd.it/ommrgq

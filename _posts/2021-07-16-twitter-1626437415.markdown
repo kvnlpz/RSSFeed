@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wormwood4 
-date: 2021-07-16 05:10:15 
-categories: twitter 
---- 
-@nope_its_lily Curious if you place any weight on the fact that credit spreads are close to their historical narrow… https://t.co/hguQfOK434

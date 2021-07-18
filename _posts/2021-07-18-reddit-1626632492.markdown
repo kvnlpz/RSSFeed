@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin: Longest Chain AND Outpacing the Attackers 
-date: 2021-07-18 1626632492 
-categories: reddit 
---- 
-https://redd.it/omtvj4

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WilliamGrobman 
-date: 2021-07-17 06:03:57 
-categories: twitter 
---- 
-@nope_its_lily Would you rather just buy software that does what you want or manage a team that builds it? I'm puzz… https://t.co/NFUjNWTt0w

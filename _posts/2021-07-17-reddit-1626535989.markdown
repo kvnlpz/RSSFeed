@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Takeaways: 5 years after The DAO crisis and Ethereum hard fork 
-date: 2021-07-17 1626535989 
-categories: reddit 
---- 
-https://redd.it/om6h3l

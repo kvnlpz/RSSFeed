@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sold a covered call option. It expired today, deep in the money, and no one called my shares away. Did I just get super lucky or can assignments happen after market close? 
-date: 2021-07-16 1626467067 
-categories: reddit 
---- 
-https://redd.it/olp8hm

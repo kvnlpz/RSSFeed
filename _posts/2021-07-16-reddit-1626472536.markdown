@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The News We Have All Been Waiting For! 
-date: 2021-07-16 1626472536 
-categories: reddit 
---- 
-https://redd.it/olqzau

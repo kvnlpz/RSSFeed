@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nick_dilorenzo 
-date: 2021-07-16 12:20:07 
-categories: twitter 
---- 
-@nope_its_lily Will be interesting to see if that holds or if OPEX negates that finding

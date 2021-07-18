@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ananthsrinivas 
-date: 2021-07-15 21:30:13 
-categories: twitter 
---- 
-@RayTL_ on the other hand, It's ok to take breaks , you are not going to miss much

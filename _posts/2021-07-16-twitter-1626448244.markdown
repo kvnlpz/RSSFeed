@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 08:10:44 
-categories: twitter 
---- 
-@_Chiplis_ It's a bit more complicated, but that's the jist of it. Essentially there is a modelable relationship be… https://t.co/1Vj8FxeaDZ

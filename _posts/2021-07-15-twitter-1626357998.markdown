@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nerdyblackdad 
-date: 2021-07-15 07:06:38 
-categories: twitter 
---- 
-@nope_its_lily Bitcoin. The greatest invention since HTTP.

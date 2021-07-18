@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ethanard 
-date: 2021-07-16 22:42:49 
-categories: twitter 
---- 
-@nope_its_lily I haven’t coded in years, but I found it to be a tremendous natural high.  It’s creative, and the on… https://t.co/rAUMTwFSQd

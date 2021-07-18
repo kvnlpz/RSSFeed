@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why does this chart look like this? 
-date: 2021-07-17 1626561558 
-categories: reddit 
---- 
-https://redd.it/omecn9

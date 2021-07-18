@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Massively Insane Move in BTC 
-date: 2021-07-17 1626523500 
-categories: reddit 
---- 
-https://redd.it/om2yno

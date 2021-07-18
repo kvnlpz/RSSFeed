@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 17:24:53 
-categories: twitter 
---- 
-It might not matter to like 95% of your employees, but on average it ends up with insufficient coverage meaning 10s… https://t.co/k5v5nTTXWw

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moons are Awesome 
-date: 2021-07-15 1626345616 
-categories: reddit 
---- 
-https://redd.it/okq8tl

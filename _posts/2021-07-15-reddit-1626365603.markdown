@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum, Binance Smart Chain DEXs are eating their centralized crypto counterparts 
-date: 2021-07-15 1626365603 
-categories: reddit 
---- 
-https://redd.it/okw26c

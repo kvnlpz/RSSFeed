@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I Built A Trading-bot w/ The Binance US API & Gave It $100 
-date: 2021-07-16 1626461053 
-categories: reddit 
---- 
-https://redd.it/oln754

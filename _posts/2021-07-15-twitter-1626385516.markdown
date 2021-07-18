@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-15 14:45:16 
-categories: twitter 
---- 
-How I manage my swing trades 📈 https://t.co/7KfwyUxpLK

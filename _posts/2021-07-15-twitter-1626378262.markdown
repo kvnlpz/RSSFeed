@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jimprima81 
-date: 2021-07-15 12:44:22 
-categories: twitter 
---- 
-RT @InvestorsLive: $ALZN nice save today

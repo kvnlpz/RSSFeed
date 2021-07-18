@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AchimLittlepage 
-date: 2021-07-15 10:54:31 
-categories: twitter 
---- 
-@nope_its_lily What a meme https://t.co/eAdXFZkEMU

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Square will launch non-custodial, permissionless DeFi on Bitcoin 
-date: 2021-07-16 1626420256 
-categories: reddit 
---- 
-https://redd.it/olbw4z

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LdM425 
-date: 2021-07-15 07:46:27 
-categories: twitter 
---- 
-@nope_its_lily Nasdaq september put 14k strike

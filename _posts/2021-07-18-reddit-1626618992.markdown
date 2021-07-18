@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinGecko vs. Coin Stats vs. Coin Bureau 
-date: 2021-07-18 1626618992 
-categories: reddit 
---- 
-https://redd.it/omro0e

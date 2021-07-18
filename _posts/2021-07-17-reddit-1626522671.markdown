@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proofs of work and bread pudding protocols - Pertinent patent from 2008 
-date: 2021-07-17 1626522671 
-categories: reddit 
---- 
-https://redd.it/om2riu

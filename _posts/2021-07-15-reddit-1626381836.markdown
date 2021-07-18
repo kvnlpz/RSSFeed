@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Opacity 2.0 Release Candidate Walkthrough: CEO Jason Coppola walks us through the Opacity 2.0 release candidate, showing the new features and talking about what's next! 
-date: 2021-07-15 1626381836 
-categories: reddit 
---- 
-https://redd.it/ol1ilv

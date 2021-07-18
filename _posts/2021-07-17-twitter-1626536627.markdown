@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-17 08:43:47 
-categories: twitter 
---- 
-imagine mansplaining how the standard model works to a literal physicist at Fermilab, never change Twitter

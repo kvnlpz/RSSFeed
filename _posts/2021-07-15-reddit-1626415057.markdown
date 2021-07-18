@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CPOP went from 70$ to 10$ 
-date: 2021-07-15 1626415057 
-categories: reddit 
---- 
-https://redd.it/olarsq

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Delegated Proof of Stake projects on Stellar 
-date: 2021-07-16 1626461878 
-categories: reddit 
---- 
-https://redd.it/olnh2j

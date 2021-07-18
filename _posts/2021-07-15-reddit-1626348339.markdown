@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Altcoin Subreddits 
-date: 2021-07-15 1626348339 
-categories: reddit 
---- 
-https://redd.it/okqvg5

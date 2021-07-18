@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndrewHillman1 
-date: 2021-07-17 09:08:50 
-categories: twitter 
---- 
-@InvestorsLive Pressure washing for sure

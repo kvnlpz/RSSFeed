@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So I’ve staked to meld pool 1 since the beginning. They’re supposed to turn all Ada rewards into MELD when it’s released. So why are ADA rewards still showing up in my delegation account… wondering if they will convert later. 
-date: 2021-07-17 1626537807 
-categories: reddit 
---- 
-https://redd.it/om71hx

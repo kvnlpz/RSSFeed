@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5: Not including specialized "funds," is it possible to buy or sell just a portion of an NFT, or by definition, are all NFTs "single owner" the same way that a piece of land would be? 
-date: 2021-07-16 1626485527 
-categories: reddit 
---- 
-https://redd.it/oluq01

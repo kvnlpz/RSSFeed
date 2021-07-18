@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @biggilfoot 
-date: 2021-07-15 06:59:55 
-categories: twitter 
---- 
-@RayTL_ right

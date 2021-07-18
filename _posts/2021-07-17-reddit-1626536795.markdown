@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My fist 1 year experience in stock market -- Lessons Learned 
-date: 2021-07-17 1626536795 
-categories: reddit 
---- 
-https://redd.it/om6q1p

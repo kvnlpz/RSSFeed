@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Live look at an Ape’s reaction this morning. 
-date: 2021-07-15 1626359409 
-categories: reddit 
---- 
-https://redd.it/oktzde

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ptrotrdr 
-date: 2021-07-16 11:24:08 
-categories: twitter 
---- 
-@modern_rock Bao's rant mode on today

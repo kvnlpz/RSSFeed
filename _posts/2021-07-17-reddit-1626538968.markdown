@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Frontrunning a Scammer - POV from the whitehat hacker who helped recover some of the funds 
-date: 2021-07-17 1626538968 
-categories: reddit 
---- 
-https://redd.it/om7ecc

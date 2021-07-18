@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @salr_nyc 
-date: 2021-07-15 12:47:17 
-categories: twitter 
---- 
-@nope_its_lily @choffstein 😂😂

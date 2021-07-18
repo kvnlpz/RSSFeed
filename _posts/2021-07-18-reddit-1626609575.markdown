@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Bitcoin an environmental disaster? 
-date: 2021-07-18 1626609575 
-categories: reddit 
---- 
-https://redd.it/omp4sz

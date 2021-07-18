@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JvxpressValero 
-date: 2021-07-16 06:24:00 
-categories: twitter 
---- 
-@InvestorsLive Hola!!!

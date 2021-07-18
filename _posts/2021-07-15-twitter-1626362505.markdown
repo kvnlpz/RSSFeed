@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 08:21:45 
-categories: twitter 
---- 
-@Jbuehler777 exactly

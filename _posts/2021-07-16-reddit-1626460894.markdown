@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This Weekend, Netlist And Chill 
-date: 2021-07-16 1626460894 
-categories: reddit 
---- 
-https://redd.it/oln592

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dterryn 
-date: 2021-07-17 08:56:43 
-categories: twitter 
---- 
-@nope_its_lily Well that's me told 😆

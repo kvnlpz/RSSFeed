@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader11t 
-date: 2021-07-15 04:47:39 
-categories: twitter 
---- 
-@InvestorsLive Very punny

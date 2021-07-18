@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a Metamask for BTC 
-date: 2021-07-17 1626574562 
-categories: reddit 
---- 
-https://redd.it/omho3w

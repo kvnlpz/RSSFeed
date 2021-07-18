@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can we revisit trading satoshi? 
-date: 2021-07-17 1626577777 
-categories: reddit 
---- 
-https://redd.it/omih01

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Learn from my mistake: Only add symbols to your TradingView list FROM THE EXCHANGE YOU'RE ON. 
-date: 2021-07-15 1626362909 
-categories: reddit 
---- 
-https://redd.it/okv5es

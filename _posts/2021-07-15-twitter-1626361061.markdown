@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stockrocketmoon 
-date: 2021-07-15 07:57:41 
-categories: twitter 
---- 
-@nope_its_lily Beer 🍺 you know why

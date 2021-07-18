@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If I sell a perpetual derivative contract, am I getting into a contract that I will buy the underlying security at that locked price? Or is it that I will sell that security at that locked price? I'm quite confused. 
-date: 2021-07-18 1626596570 
-categories: reddit 
---- 
-https://redd.it/ommk9s

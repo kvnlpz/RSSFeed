@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do you perceive Bitcoin? 
-date: 2021-07-15 1626356812 
-categories: reddit 
---- 
-https://redd.it/okt6aa

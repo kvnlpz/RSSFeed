@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StagehandMan 
-date: 2021-07-15 11:51:52 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/u0npWDCaTS this is specifically about eBay but same kinda stuff.

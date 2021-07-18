@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chiredev 
-date: 2021-07-17 14:31:42 
-categories: twitter 
---- 
-@InvestorsLive Its own*

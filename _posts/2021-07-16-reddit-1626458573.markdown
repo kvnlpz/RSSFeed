@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NPHC - DD 
-date: 2021-07-16 1626458573 
-categories: reddit 
---- 
-https://redd.it/olmc0a

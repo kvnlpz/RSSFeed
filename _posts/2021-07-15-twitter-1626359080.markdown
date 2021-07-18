@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HolyStonks 
-date: 2021-07-15 07:24:40 
-categories: twitter 
---- 
-@InvestorsLive You call it like you see it https://t.co/R9gi57HPLM

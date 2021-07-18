@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @unsound_advice 
-date: 2021-07-15 00:33:58 
-categories: twitter 
---- 
-@nope_its_lily Ice cream

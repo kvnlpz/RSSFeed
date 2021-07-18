@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @plntr33z 
-date: 2021-07-15 14:59:11 
-categories: twitter 
---- 
-RT @InvestorsLive: How I manage my swing trades 📈 https://t.co/7KfwyUxpLK

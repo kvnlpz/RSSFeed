@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @notseriousknown 
-date: 2021-07-15 03:50:32 
-categories: twitter 
---- 
-@InvestorsLive The window locks are driving me nuts lol

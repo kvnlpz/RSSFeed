@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thehonestcroock 
-date: 2021-07-15 18:58:52 
-categories: twitter 
---- 
-RT @EvolvedTrader: $NVDA chart breakdown was gorgeous today! Who caught part of the $50 handle down? Here were the real-time alerts for the…

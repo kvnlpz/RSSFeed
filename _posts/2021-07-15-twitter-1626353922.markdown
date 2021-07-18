@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @clown_honky 
-date: 2021-07-15 05:58:42 
-categories: twitter 
---- 
-RT @InvestorsLive: I am thankful for those who find these undiscovered companies with no news and no reason to go up before they go up "org…

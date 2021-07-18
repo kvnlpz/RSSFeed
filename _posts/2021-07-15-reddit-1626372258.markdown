@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ACB + GME Calls YOLO 
-date: 2021-07-15 1626372258 
-categories: reddit 
---- 
-https://redd.it/okybeg

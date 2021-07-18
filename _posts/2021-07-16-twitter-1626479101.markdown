@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-16 16:45:01 
-categories: twitter 
---- 
-I mean that's one way to spin it 🤷

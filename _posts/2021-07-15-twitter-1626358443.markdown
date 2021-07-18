@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @drakedanner 
-date: 2021-07-15 07:14:03 
-categories: twitter 
---- 
-@nope_its_lily Is this expensive

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cagit86619 
-date: 2021-07-15 11:15:36 
-categories: twitter 
---- 
-@nope_its_lily Jay sends his regards

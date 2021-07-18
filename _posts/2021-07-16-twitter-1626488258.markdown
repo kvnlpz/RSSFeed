@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StopFraud4 
-date: 2021-07-16 19:17:38 
-categories: twitter 
---- 
-@muddywatersre Ah....the fine print....."just a little change in language...

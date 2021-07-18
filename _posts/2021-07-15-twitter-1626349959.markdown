@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mikeyisback 
-date: 2021-07-15 04:52:39 
-categories: twitter 
---- 
-@InvestorsLive Haha 😂

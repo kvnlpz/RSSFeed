@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 19:02:13 
-categories: twitter 
---- 
-@PepeXBT whatever that number is, it's now that+1

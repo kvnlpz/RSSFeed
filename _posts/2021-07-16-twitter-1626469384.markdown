@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @macrocephalopod 
-date: 2021-07-16 14:03:04 
-categories: twitter 
---- 
-@nope_its_lily @salr_nyc Usual UK route to a PhD is 3y undergrad + 1y masters + 3y PhD - not sure how that compares… https://t.co/6UfnbAYjos

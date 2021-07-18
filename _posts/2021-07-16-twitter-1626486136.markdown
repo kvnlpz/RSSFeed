@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RedFebtober 
-date: 2021-07-16 18:42:16 
-categories: twitter 
---- 
-@alphatrends Great name 👍 https://t.co/F9SNhb9V49

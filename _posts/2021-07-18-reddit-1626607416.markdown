@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made 0.1 ETH just using DCA 
-date: 2021-07-18 1626607416 
-categories: reddit 
---- 
-https://redd.it/omoq9z

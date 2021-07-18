@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ROCon920 
-date: 2021-07-16 14:36:07 
-categories: twitter 
---- 
-@nope_its_lily @INArteCarloDoss's heart grew three sizes that day

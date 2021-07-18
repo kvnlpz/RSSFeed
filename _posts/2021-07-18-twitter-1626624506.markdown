@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eCOBB22 
-date: 2021-07-18 09:08:26 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Is that Mac new? I thought you used windows…

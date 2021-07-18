@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is Thorchain? The DeFi Bridge for Bitcoin, Ethereum and More 
-date: 2021-07-15 1626370089 
-categories: reddit 
---- 
-https://redd.it/okxkmr

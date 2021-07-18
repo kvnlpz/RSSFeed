@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Great explanation of Ripple/XRP 
-date: 2021-07-15 1626346535 
-categories: reddit 
---- 
-https://redd.it/okqfzb

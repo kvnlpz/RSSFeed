@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 11:45:51 
-categories: twitter 
---- 
-@JoeDubyk Probably, but I don't actually know. It performed pretty well in the COVID crash, since in a high volume… https://t.co/DIODAdza1x

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Predict the country / region you think will be next to make crypto legal. 
-date: 2021-07-17 1626529314 
-categories: reddit 
---- 
-https://redd.it/om4h43

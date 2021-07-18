@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 22:43:13 
-categories: twitter 
---- 
-@AnthonyLeeZhang They made the best engineers, I think. They cared the most simply and developed the best code. Tha… https://t.co/Fs8GVX8WM5

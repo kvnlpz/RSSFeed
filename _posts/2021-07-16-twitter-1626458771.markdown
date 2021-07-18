@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:06:11 
-categories: twitter 
---- 
-RT @kroyrunner89: Say what you want about $TSLA, and yes, they have their problems, but this self driving stuff is very very cool. I'd much…

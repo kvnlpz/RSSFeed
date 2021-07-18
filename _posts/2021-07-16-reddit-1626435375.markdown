@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I analyzed the performance of companies in the “best places to work list” over the past 10 years and benchmarked it against S&P 500. Here are the results. 
-date: 2021-07-16 1626435375 
-categories: reddit 
---- 
-https://redd.it/olf3mi

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YouLoveLag 
-date: 2021-07-17 00:43:25 
-categories: twitter 
---- 
-@nope_its_lily Every Stablecoin except for DAI

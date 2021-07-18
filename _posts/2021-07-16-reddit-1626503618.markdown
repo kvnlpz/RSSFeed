@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: One confirmation is now enough to secure even the largest multi billion dollar transactions on chain. 
-date: 2021-07-16 1626503618 
-categories: reddit 
---- 
-https://redd.it/olz0x9

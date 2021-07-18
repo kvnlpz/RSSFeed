@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-17 00:29:23 
-categories: twitter 
---- 
-RT @SublimeTrades: I’ve heard some people say the “trading lifestyle” some guru’s sell is fake. 
-
-I’ll just say I’ve experienced it. It’s r…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Algorand - The Potentially Perfect Middleman 
-date: 2021-07-15 1626377527 
-categories: reddit 
---- 
-https://redd.it/ol034o

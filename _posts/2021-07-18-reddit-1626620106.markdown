@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Quincoin: Decentralizing home-care services using blockchain — Steemit 
-date: 2021-07-18 1626620106 
-categories: reddit 
---- 
-https://redd.it/oms0ec

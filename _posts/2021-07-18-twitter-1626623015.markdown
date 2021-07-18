@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_ROCK1 
-date: 2021-07-18 08:43:35 
-categories: twitter 
---- 
-RT @modern_rock: I gave out tips, tricks, secrets a long time ago and it still holds true today. All in the trading fish Twitter account @m…

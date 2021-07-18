@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tradingview shows me tomorrow's price action of XELA in Germany and their market DID NOT EVEN OPEN YET. It predicts it will go up 22%. Error? or will it actually happen? 
-date: 2021-07-15 1626404468 
-categories: reddit 
---- 
-https://redd.it/ol8584

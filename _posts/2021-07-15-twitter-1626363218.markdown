@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeLambrakis 
-date: 2021-07-15 08:33:38 
-categories: twitter 
---- 
-@nope_its_lily Twitter ads. Gonna invest in myself.

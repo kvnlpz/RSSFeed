@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JibShah 
-date: 2021-07-15 08:03:16 
-categories: twitter 
---- 
-@InvestorsLive Are you the blue or the red for me ?

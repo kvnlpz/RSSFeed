@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ripple and SEC news! 
-date: 2021-07-17 1626562776 
-categories: reddit 
---- 
-https://redd.it/omeo4n

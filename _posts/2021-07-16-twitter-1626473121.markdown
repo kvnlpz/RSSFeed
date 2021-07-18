@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fintwit_news 
-date: 2021-07-16 15:05:21 
-categories: twitter 
---- 
-RT @goodalexander: Having a great week so I shall now opine on what not to do for quant trading. I shan't give you an edge but I'll show yo…

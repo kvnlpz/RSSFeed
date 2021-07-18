@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ResortWorkers 
-date: 2021-07-16 15:50:41 
-categories: twitter 
---- 
-@timothysykes @TraderBryce I think I may need you to shout orders at me. Loudly. 
-
-My results are lackluster lately.

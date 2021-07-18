@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I’ve tried to post something in this subreddit 3 times now 
-date: 2021-07-15 1626410954 
-categories: reddit 
---- 
-https://redd.it/ol9tp7

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeHsieh24 
-date: 2021-07-18 10:19:59 
-categories: twitter 
---- 
-RT @super_trades: Great advice for life and stocks !!! Impressive !

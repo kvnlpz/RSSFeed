@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-17 00:29:28 
-categories: twitter 
---- 
-RT @junpasion: Start the day with a cup of coffee with @jackdan_no7  and @timothysykes : https://t.co/CqdbbTNrng
-
-Keep grinding during even…

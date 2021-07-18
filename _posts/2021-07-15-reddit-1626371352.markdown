@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EIP-1559 Is Set To Go Live With London Upgrade in Early August Following Successful Testnet Deployment 
-date: 2021-07-15 1626371352 
-categories: reddit 
---- 
-https://redd.it/oky03k

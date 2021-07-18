@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @justsomeguytho 
-date: 2021-07-16 22:30:17 
-categories: twitter 
---- 
-@nope_its_lily It’s supremely satisfying imagining something, coding it, having it compile, and then spending hours fixing bugs 😂

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alana_8080 
-date: 2021-07-15 14:57:08 
-categories: twitter 
---- 
-@nope_its_lily Sad that it’s all about the eyebrow

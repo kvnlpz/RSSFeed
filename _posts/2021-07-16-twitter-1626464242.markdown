@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 12:37:22 
-categories: twitter 
---- 
-RT @kroyrunner89: 3. Peek today because I'm degenerate

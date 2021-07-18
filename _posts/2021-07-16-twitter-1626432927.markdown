@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tylerdurdenca 
-date: 2021-07-16 03:55:27 
-categories: twitter 
---- 
-@timothysykes How is CLOV and WISH junk ??

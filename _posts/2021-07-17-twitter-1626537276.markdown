@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SleepyCuppaJoe 
-date: 2021-07-17 08:54:36 
-categories: twitter 
---- 
-@nope_its_lily @AnthonyLeeZhang So you like eating cake but you can't understand why people would enjoy baking cake?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mauryscholl1 
-date: 2021-07-16 12:51:00 
-categories: twitter 
---- 
-@muddywatersre

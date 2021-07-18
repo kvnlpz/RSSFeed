@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I need advice. 
-date: 2021-07-17 1626537851 
-categories: reddit 
---- 
-https://redd.it/om71vh

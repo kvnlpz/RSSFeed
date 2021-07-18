@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LookAtTheVolume 
-date: 2021-07-16 15:37:43 
-categories: twitter 
---- 
-@nope_its_lily My longstanding view is that bears (myself included) get louder through the weekend as our puts aren’t going deeper red.

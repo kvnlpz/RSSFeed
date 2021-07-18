@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto Recommendation 
-date: 2021-07-16 1626498328 
-categories: reddit 
---- 
-https://redd.it/olxvlf

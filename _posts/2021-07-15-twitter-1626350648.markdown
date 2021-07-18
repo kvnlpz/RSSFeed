@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fantasywoahs 
-date: 2021-07-15 05:04:08 
-categories: twitter 
---- 
-@InvestorsLive 😂

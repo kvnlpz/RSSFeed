@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NASDAQ discussion. 
-date: 2021-07-15 1626377152 
-categories: reddit 
---- 
-https://redd.it/okzyk0

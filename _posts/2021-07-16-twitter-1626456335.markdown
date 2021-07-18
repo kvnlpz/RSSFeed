@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Amanita95934099 
-date: 2021-07-16 10:25:35 
-categories: twitter 
---- 
-@nope_its_lily You're a great coder.  Fork bitclout and right a new search Algo.

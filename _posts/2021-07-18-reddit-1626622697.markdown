@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proof of Work vs Proof of Stake - is Bitcoin sustainable? 
-date: 2021-07-18 1626622697 
-categories: reddit 
---- 
-https://redd.it/omsuxf

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LanceCorc81 
-date: 2021-07-17 08:26:42 
-categories: twitter 
---- 
-@timothysykes never a day off

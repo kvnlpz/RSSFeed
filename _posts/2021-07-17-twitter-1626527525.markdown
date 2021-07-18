@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StickerJon 
-date: 2021-07-17 06:12:05 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade @TraderBryce Watching the Jack 2 interview!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-15 04:54:08 
-categories: twitter 
---- 
-@bwells393 Yessssss

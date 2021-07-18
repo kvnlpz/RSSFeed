@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “Simon Dixon, Bitcoin Thinking” (My attempt at a backing track/montage to a 1min excerpt from Simon’s Public Commitment Day 81 talk “Surviving a #Bitcoin crash”). https://youtu.be/tnfep5nc_jo 
-date: 2021-07-17 1626517955 
-categories: reddit 
---- 
-https://redd.it/om1s7g

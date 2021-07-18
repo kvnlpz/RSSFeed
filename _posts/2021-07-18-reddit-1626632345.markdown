@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Miner cooling 
-date: 2021-07-18 1626632345 
-categories: reddit 
---- 
-https://redd.it/omw3nx

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 07:02:09 
-categories: twitter 
---- 
-A story in 2 acts

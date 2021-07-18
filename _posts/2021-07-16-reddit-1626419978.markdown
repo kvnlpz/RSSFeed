@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How will Bitcoin keep itself alive? 
-date: 2021-07-16 1626419978 
-categories: reddit 
---- 
-https://redd.it/olbu27

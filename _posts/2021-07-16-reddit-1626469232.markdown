@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Polkadot seems undervalued [key metric analysis] 
-date: 2021-07-16 1626469232 
-categories: reddit 
---- 
-https://redd.it/olpxi3

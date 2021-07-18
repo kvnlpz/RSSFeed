@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MotownF3 
-date: 2021-07-15 04:27:34 
-categories: twitter 
---- 
-@nope_its_lily $AMC calls

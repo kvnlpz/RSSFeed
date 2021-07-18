@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Decentralized finance is relatively a secure place, but a solution to hacking, thefts, and other fraudulent activities in DeFi projects is necessary for traders 
-date: 2021-07-15 1626343731 
-categories: reddit 
---- 
-https://redd.it/okpua2

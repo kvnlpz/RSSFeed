@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why was the block size set to 2 MB? Why not smaller? Why not larger? 
-date: 2021-07-16 1626479191 
-categories: reddit 
---- 
-https://redd.it/olt14w

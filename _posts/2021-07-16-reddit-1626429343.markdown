@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Executed my first iceberg-order today 😊 
-date: 2021-07-16 1626429343 
-categories: reddit 
---- 
-https://redd.it/oldr3d

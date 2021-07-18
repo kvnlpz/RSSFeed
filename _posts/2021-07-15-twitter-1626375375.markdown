@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vashlivin 
-date: 2021-07-15 11:56:15 
-categories: twitter 
---- 
-@timothysykes Hard to predict anything during unstable market. Kinda throws off analysis/strategy. I think most sma… https://t.co/611505H4k8

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-16 23:40:04 
-categories: twitter 
---- 
-RT @Malepio1: @timothysykes It is crazy when all the studying clicks ! This stuff like you say is easy ! You just have to study and want to…

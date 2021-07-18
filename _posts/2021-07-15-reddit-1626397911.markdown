@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: As Bitcoin & other cryptocurrencies flourish, the blockchain ecosystem has become flooded with CEXs & DEXs. This rise in the number of exchanges has led to a critical problem; the average user now has to manage several wallets across exchanges, which can be exhausting. Orion Protocol fixes this. 
-date: 2021-07-15 1626397911 
-categories: reddit 
---- 
-https://redd.it/ol6clv

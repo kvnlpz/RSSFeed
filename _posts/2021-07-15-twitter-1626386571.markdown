@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-15 15:02:51 
-categories: twitter 
---- 
-@zeeshaan101 real and alerted in realtime as with ALL my trades

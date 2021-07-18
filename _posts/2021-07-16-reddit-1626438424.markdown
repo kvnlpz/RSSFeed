@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How much are the ETH fees going to fall after complete 2.0 update? 
-date: 2021-07-16 1626438424 
-categories: reddit 
---- 
-https://redd.it/olfv34

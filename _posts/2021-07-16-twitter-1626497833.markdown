@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rob_sparks 
-date: 2021-07-16 21:57:13 
-categories: twitter 
---- 
-@nope_its_lily Compare to $ coins. Pennies, nickels, dimes... Those are still here.  They always will be.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Discussion: Quantum security apocalypse, is cryptocurrency at risk from quantum computers cracking public key encryption? 
-date: 2021-07-18 1626615261 
-categories: reddit 
---- 
-https://redd.it/omqlze

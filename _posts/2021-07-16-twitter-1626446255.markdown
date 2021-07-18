@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AveryTurnerJR 
-date: 2021-07-16 07:37:35 
-categories: twitter 
---- 
-@InvestorsLive Powerful!

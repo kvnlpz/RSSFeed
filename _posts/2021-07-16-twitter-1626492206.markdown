@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeBeIIafiore 
-date: 2021-07-16 20:23:26 
-categories: twitter 
---- 
-RT @MikeBellafiore: What if you career as a trader was not limited to just being a discretionary trader, but rather also potentially as an…

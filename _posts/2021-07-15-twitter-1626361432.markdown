@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-07-15 08:03:52 
-categories: twitter 
---- 
-@RayTL_ O'Neil Thread

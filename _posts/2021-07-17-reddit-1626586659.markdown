@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I created an algorithm to trade small caps stocks, this is how it did over last month | +17.22% gain (12R)(80% winrate) 
-date: 2021-07-17 1626586659 
-categories: reddit 
---- 
-https://redd.it/omkitn

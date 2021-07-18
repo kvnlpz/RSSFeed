@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wow! Just look at that support. We held the line for 3 weeks. Seems that support came in just under 1.17. My fear is if we drop under 1.15 we will inevitably reach 1.02 yet again… but that’s not a bad thing in the long run 😈 
-date: 2021-07-16 1626481938 
-categories: reddit 
---- 
-https://redd.it/olts6i

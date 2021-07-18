@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made a post earlier today with my Pre-Market scanner. I use 3 scanners total. These will be the other 2. In this post, you will see my Prior to Open scanner and another scanner I switch to roughly 15 mins into open. (6 pictures total) 
-date: 2021-07-17 1626538750 
-categories: reddit 
---- 
-https://redd.it/om7bll

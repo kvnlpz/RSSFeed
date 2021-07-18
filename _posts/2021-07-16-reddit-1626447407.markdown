@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shopping App for Android 
-date: 2021-07-16 1626447407 
-categories: reddit 
---- 
-https://redd.it/oliher

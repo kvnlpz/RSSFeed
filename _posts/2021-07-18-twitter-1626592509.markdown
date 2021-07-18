@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stephendhooge 
-date: 2021-07-18 00:15:09 
-categories: twitter 
---- 
-@timothysykes Stayed up till 1:30 am local time here. Got up at 8:45am to start again! Lets gooooo

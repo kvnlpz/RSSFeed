@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 22:59:48 
-categories: twitter 
---- 
-@bitcoinpanda69 @0xElm0 @palenciaj I like fooo tweet

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is it half as many active ads compared to last week? 
-date: 2021-07-18 1626600794 
-categories: reddit 
---- 
-https://redd.it/omne6l

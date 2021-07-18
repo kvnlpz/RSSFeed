@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:03:42 
-categories: twitter 
---- 
-RT @kroyrunner89: For all you data enthusiasts out there... in the last couple weeks I've worked a bit with https://t.co/1TUQLzr29l and I'm…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tesla Releases Full Self-Driving Subscription 
-date: 2021-07-17 1626537241 
-categories: reddit 
---- 
-https://redd.it/om6utc

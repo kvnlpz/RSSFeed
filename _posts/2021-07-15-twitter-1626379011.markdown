@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @plans_bad 
-date: 2021-07-15 12:56:51 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen Thank you.  Feels like we are at the "nomo momo" phase at the moment.  Always ready to be wrong, though.

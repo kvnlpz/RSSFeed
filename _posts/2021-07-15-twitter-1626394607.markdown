@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheNOPEScalper 
-date: 2021-07-15 17:16:47 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/bJNiTs6EwD

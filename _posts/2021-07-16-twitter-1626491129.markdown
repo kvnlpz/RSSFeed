@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alaskanmike2 
-date: 2021-07-16 20:05:29 
-categories: twitter 
---- 
-@InvestorsLive Pressure washing concrete but only slightly better.

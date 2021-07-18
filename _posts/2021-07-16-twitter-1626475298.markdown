@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @refgardentool 
-date: 2021-07-16 15:41:38 
-categories: twitter 
---- 
-RT @InvestorsLive: Outlier trades can end your career ⚠️ https://t.co/BIVP4tAdan

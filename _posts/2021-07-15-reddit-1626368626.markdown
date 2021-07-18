@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Recovery mode for spce 
-date: 2021-07-15 1626368626 
-categories: reddit 
---- 
-https://redd.it/okvoh3

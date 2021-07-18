@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s hot 
-date: 2021-07-17 1626565620 
-categories: reddit 
---- 
-https://redd.it/omff06

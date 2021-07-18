@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kelkun 
-date: 2021-07-16 16:10:17 
-categories: twitter 
---- 
-@OddStockTrader I agree with this wholeheartedly.

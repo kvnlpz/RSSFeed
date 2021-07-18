@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-15 06:38:41 
-categories: twitter 
---- 
-$MITQ sick one form yesterday load idea.

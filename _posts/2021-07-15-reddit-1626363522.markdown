@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moons and downvotes 
-date: 2021-07-15 1626363522 
-categories: reddit 
---- 
-https://redd.it/okvcyd

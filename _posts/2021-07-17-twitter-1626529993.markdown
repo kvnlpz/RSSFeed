@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rxstudentloans 
-date: 2021-07-17 06:53:13 
-categories: twitter 
---- 
-@nope_its_lily 69% of the top 100

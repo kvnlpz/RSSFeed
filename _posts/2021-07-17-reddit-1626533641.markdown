@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: UVXY hard to borrow/gamma squeeze time 
-date: 2021-07-17 1626533641 
-categories: reddit 
---- 
-https://redd.it/om5qty

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Got a message from someone asking me to import my wallet to this cool website and earn “token reflections” on all of my coins. All they needed was my seed phrase! 
-date: 2021-07-16 1626421888 
-categories: reddit 
---- 
-https://redd.it/olc87f

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 22:38:39 
-categories: twitter 
---- 
-@AnthonyLeeZhang Yeah but would you say you enjoy solving the problem or the actual coding involved?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jus10p 
-date: 2021-07-18 08:01:48 
-categories: twitter 
---- 
-@timothysykes Today’s the perfect day to take off

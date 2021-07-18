@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maui1230 
-date: 2021-07-15 07:25:03 
-categories: twitter 
---- 
-@nope_its_lily $AOUT August 20th call options

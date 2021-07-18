@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-18 08:54:02 
-categories: twitter 
---- 
-@LuisR_SE Electrical

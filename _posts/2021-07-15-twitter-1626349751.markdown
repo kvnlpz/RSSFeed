@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SeeBlueOranges 
-date: 2021-07-15 04:49:11 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/qcr1dcjMT6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bit_Lebowski 
-date: 2021-07-17 08:19:11 
-categories: twitter 
---- 
-@nope_its_lily Me walking into this thread: https://t.co/GFcAMP79YJ

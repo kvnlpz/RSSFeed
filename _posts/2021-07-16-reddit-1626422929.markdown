@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to store Monero safely on mobile? 
-date: 2021-07-16 1626422929 
-categories: reddit 
---- 
-https://redd.it/olbntl

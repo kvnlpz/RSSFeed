@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ForshtMike 
-date: 2021-07-18 09:18:20 
-categories: twitter 
---- 
-@InvestorsLive Please look at tweets directly to you. Would love to hear how you handle

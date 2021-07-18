@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @upbigly 
-date: 2021-07-16 20:40:41 
-categories: twitter 
---- 
-@nope_its_lily ICP because my dad bought it

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BackToRealty 
-date: 2021-07-16 07:04:03 
-categories: twitter 
---- 
-@nope_its_lily I feel better today https://t.co/ii7ZtFT3Iu

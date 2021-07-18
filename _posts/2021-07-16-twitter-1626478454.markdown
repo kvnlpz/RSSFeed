@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Marcetorres1010 
-date: 2021-07-16 16:34:14 
-categories: twitter 
---- 
-RT @InvestorsLive: Outlier trades can end your career ⚠️ https://t.co/BIVP4tAdan

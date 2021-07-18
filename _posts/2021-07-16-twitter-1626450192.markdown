@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 08:43:12 
-categories: twitter 
---- 
-@FREAK0NAUT Err AAPL price doesn't mean revert and also the simplest and usually a good estimator of the future spo… https://t.co/GD9dkce1y0

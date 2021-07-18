@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which do you like more from the tech standpoint, Ethereum or Polkadot? 
-date: 2021-07-15 1626391150 
-categories: reddit 
---- 
-https://redd.it/ol4f80

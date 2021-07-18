@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitboy: While no official deal has been signed yet, there is a very interesting paper trail connecting Cardano's development team with the European Union's digital identity project. 
-date: 2021-07-15 1626360992 
-categories: reddit 
---- 
-https://redd.it/okuhsc

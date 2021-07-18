@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-16 06:29:41 
-categories: twitter 
---- 
-Hasn't even come up for $AEHR yet
-
-h/t @D22_123

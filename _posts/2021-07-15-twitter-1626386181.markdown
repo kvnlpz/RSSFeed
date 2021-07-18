@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cpproaudio 
-date: 2021-07-15 14:56:21 
-categories: twitter 
---- 
-@InvestorsLive Do you then trade around a core and take some off premature rips / resize on dips?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bohlig_john 
-date: 2021-07-15 06:59:51 
-categories: twitter 
---- 
-@nope_its_lily Pay off debt while rates are low.

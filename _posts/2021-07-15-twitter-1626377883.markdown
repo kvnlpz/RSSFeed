@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kdub2323 
-date: 2021-07-15 12:38:03 
-categories: twitter 
---- 
-RT @timothysykes: @StocksToTrade OTCs ARE BY FAR THE EASIEST/MOST PREDICTABLE

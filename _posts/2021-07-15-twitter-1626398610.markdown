@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeDubyk 
-date: 2021-07-15 18:23:30 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/TIC1JL76cK

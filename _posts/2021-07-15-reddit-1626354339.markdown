@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lightning in the Wild: Victoria Kayak 
-date: 2021-07-15 1626354339 
-categories: reddit 
---- 
-https://redd.it/oksfqe

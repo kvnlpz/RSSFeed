@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-17 03:06:52 
-categories: twitter 
---- 
-RT @StocksToTrade: Like/retweet this if you're up studying to be a better trader on this Friday night when most others are out partying

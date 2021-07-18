@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stephendhooge 
-date: 2021-07-15 09:52:52 
-categories: twitter 
---- 
-@InvestorsLive @StocksThatGo What rms do you use? R3 or NT rms?

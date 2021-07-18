@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @redfuryrising 
-date: 2021-07-15 14:51:00 
-categories: twitter 
---- 
-@InvestorsLive I guess I don't fully understand difference between swings and day trades. Feels like many use those… https://t.co/OjJuGRktBi

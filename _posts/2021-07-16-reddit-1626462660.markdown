@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $CLOV yolo 
-date: 2021-07-16 1626462660 
-categories: reddit 
---- 
-https://redd.it/olnr4x

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Offering 100 moons to anyone who can modify an existing google app script on my spreadsheet so it can be used to calculate realized gains through FIFO method. Right now it is used for unrealized gains only. 
-date: 2021-07-18 1626635846 
-categories: reddit 
---- 
-https://redd.it/omx96k

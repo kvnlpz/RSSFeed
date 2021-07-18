@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Satoshi was right. History repeats itself. Here is a cool documentary to explain why we need bitcoin. 
-date: 2021-07-17 1626543882 
-categories: reddit 
---- 
-https://redd.it/om8z7p

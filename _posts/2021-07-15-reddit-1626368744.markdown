@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's the current PRUNED blockchain size? 
-date: 2021-07-15 1626368744 
-categories: reddit 
---- 
-https://redd.it/okt857

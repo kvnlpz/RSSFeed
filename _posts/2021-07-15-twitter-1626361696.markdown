@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 08:08:16 
-categories: twitter 
---- 
-I think some jerk is accumulating at 47.75. I don't do order flow though.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderTexMex 
-date: 2021-07-16 11:20:32 
-categories: twitter 
---- 
-$KDMN U.S. FDA Grants Full Approval of REZUROCK(TM) (belumosudil) for the Treatment of Patients with Chronic Graft-… https://t.co/WyPlRXMb4U

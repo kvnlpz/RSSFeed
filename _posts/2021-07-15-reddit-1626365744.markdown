@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New entry points? 
-date: 2021-07-15 1626365744 
-categories: reddit 
---- 
-https://redd.it/okw3zo

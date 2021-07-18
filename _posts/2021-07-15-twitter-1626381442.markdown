@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-15 13:37:22 
-categories: twitter 
---- 
-RT @WesleyBKress: (1\19) Since I have received a lot of new followers since the beginning of the year. From 200 to now almost 2,500, I figu…

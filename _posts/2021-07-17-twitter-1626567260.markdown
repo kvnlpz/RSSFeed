@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BullRiderCap 
-date: 2021-07-17 17:14:20 
-categories: twitter 
---- 
-@InvestorsLive You use support and resistance for entries and exits.
-
-Do you ever use candle bar closes or breakout… https://t.co/fWsPChRLC2

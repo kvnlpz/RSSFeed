@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Goguen Alonzo Development Update - 16 July 2021 - IOHK 
-date: 2021-07-16 1626462048 
-categories: reddit 
---- 
-https://redd.it/olnjd9

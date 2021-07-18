@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiccolosPiece 
-date: 2021-07-18 00:24:47 
-categories: twitter 
---- 
-@InvestorsLive I'd like to hear about trading the close and how to find opportunities late in the day. Cheers!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SeekingLightFX 
-date: 2021-07-16 06:54:23 
-categories: twitter 
---- 
-@nope_its_lily Everyone p

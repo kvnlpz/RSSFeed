@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-17 19:33:57 
-categories: twitter 
---- 
-This is a very simple analysis of Price, Volume, RS and few fundamentals. Takes folks many years or decades to get… https://t.co/kd6XgIVQLc

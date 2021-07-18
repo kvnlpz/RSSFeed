@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Californian nuclear energy provider partners with BTC miner Compass 
-date: 2021-07-15 1626380569 
-categories: reddit 
---- 
-https://redd.it/ol13ia

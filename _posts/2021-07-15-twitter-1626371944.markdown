@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kwonseo 
-date: 2021-07-15 10:59:04 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/P3scntjd4h

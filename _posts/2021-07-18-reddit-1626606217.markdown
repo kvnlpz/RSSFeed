@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This new generation of processors might definitely put an end to mining and cryptography. It’s scary. 
-date: 2021-07-18 1626606217 
-categories: reddit 
---- 
-https://redd.it/omoh4s

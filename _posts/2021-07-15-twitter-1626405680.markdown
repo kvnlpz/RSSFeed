@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 20:21:20 
-categories: twitter 
---- 
-@valueterminal see this is why I use my own face, it's not as attractive or believable

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @slipshodtrader 
-date: 2021-07-15 14:18:59 
-categories: twitter 
---- 
-@InvestorsLive Yankees and Red Sox postponed because of Covid as well

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Exchanges and mining pools: The Ethereum Classic☘️ Magneto hard-fork is expected next week. Please update your nodes ASAP and confirm! 
-date: 2021-07-15 1626376231 
-categories: reddit 
---- 
-https://redd.it/okzns0

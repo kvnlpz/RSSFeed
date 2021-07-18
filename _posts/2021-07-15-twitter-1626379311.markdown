@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-15 13:01:51 
-categories: twitter 
---- 
-Left for beach at right time?

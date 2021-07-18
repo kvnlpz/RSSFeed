@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @digitalnuke 
-date: 2021-07-15 14:49:21 
-categories: twitter 
---- 
-@InvestorsLive 💩

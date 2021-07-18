@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jackfromohio 
-date: 2021-07-17 05:14:13 
-categories: twitter 
---- 
-@nope_its_lily @v1ch0 I love it 😇

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I get my AGIX from Etherscan to Cardano blockchain ? 
-date: 2021-07-15 1626387799 
-categories: reddit 
---- 
-https://redd.it/oky617

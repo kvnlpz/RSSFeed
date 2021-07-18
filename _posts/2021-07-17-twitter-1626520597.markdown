@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Deebizness_ 
-date: 2021-07-17 04:16:37 
-categories: twitter 
---- 
-@muddywatersre Mostly peaceful.

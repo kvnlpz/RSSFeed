@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jake24892709 
-date: 2021-07-15 04:27:28 
-categories: twitter 
---- 
-@OddStockTrader Pretty tough

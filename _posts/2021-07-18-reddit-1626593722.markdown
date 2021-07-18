@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yield farming and liquidity mining - what's it all about 
-date: 2021-07-18 1626593722 
-categories: reddit 
---- 
-https://redd.it/omlzr8

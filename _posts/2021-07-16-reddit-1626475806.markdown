@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SLP292 Andrew Chow Output Script Descriptors for Bitcoin 
-date: 2021-07-16 1626475806 
-categories: reddit 
---- 
-https://redd.it/ols0hd

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The guys over on tastytrade are doing theta strategies for over 12 years, covering 2 market crashes. Meanwhile in here some folks that trade since the meme really this year: 
-date: 2021-07-16 1626427212 
-categories: reddit 
---- 
-https://redd.it/oldbbk

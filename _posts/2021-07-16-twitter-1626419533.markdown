@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mik_aele 
-date: 2021-07-16 00:12:13 
-categories: twitter 
---- 
-@alphatrends https://t.co/bzgR1l2wwM

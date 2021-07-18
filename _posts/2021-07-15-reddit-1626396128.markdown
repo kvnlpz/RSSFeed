@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fractions of Coins on Coinbase 
-date: 2021-07-15 1626396128 
-categories: reddit 
---- 
-https://redd.it/ol5uoy

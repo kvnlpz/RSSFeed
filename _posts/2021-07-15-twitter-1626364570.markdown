@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dara12659364 
-date: 2021-07-15 08:56:10 
-categories: twitter 
---- 
-@InvestorsLive @bdonny1324 @PJ_Matlock True

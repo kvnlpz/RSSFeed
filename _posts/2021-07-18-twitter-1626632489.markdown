@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stephendhooge 
-date: 2021-07-18 11:21:29 
-categories: twitter 
---- 
-@timothysykes @timothysykes for president?

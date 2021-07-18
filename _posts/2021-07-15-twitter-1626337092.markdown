@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IlkkaKasurinen 
-date: 2021-07-15 01:18:12 
-categories: twitter 
---- 
-@nope_its_lily #glo

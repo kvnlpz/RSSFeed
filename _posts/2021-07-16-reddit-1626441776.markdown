@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: China’s CBDC will use smart contracts to allow for programmability 
-date: 2021-07-16 1626441776 
-categories: reddit 
---- 
-https://redd.it/olgrsx

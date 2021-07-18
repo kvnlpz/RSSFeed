@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0x4C756B65 
-date: 2021-07-16 07:57:45 
-categories: twitter 
---- 
-@nope_its_lily you could make a bot for this but yeah would be nice to have more filtering options as a native feature

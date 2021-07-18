@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone use a *starname? 
-date: 2021-07-17 1626515340 
-categories: reddit 
---- 
-https://redd.it/om1a98

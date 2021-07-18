@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BitcoinBuddha69 
-date: 2021-07-16 22:29:11 
-categories: twitter 
---- 
-@nope_its_lily How do they compare to graphic designers arguing over serif vs sans-serif fonts?

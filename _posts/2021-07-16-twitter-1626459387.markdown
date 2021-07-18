@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:16:27 
-categories: twitter 
---- 
-RT @kroyrunner89: Twitter support is a joke. Every time a new fake account pops up it takes like 5 requests to have it removed. They try to…

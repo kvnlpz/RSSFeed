@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hans about the upcoming protocol changes 
-date: 2021-07-16 1626447124 
-categories: reddit 
---- 
-https://redd.it/olie1a

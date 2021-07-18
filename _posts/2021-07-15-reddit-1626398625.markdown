@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: OpenEthereum is on board for the London Upgrade! 
-date: 2021-07-15 1626398625 
-categories: reddit 
---- 
-https://redd.it/ol6jpc

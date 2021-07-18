@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 12:31:40 
-categories: twitter 
---- 
-RT @kroyrunner89: Whatever candidate eliminates volatility halts has my vote #makevolatilitygreatagain

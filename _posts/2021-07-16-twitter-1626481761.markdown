@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 17:29:21 
-categories: twitter 
---- 
-@Johnonstocks I mean in theory it sounds nice, but it has massive issues and leads to employee exploitation. See co… https://t.co/rYj74EwDxm

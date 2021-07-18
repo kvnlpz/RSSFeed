@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does one lazily subtract cumulative EPS from IPO price to find a good entry? Past performance is not indicative of future results? 
-date: 2021-07-16 1626456276 
-categories: reddit 
---- 
-https://redd.it/ollj5b

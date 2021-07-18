@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ChainSafe Receives Grant to Provide Modern Web Support for web3.js 
-date: 2021-07-16 1626446261 
-categories: reddit 
---- 
-https://redd.it/oli49a

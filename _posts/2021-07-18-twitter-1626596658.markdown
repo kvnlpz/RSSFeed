@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vamosconramos2 
-date: 2021-07-18 01:24:18 
-categories: twitter 
---- 
-@timothysykes Tim, go to sleep

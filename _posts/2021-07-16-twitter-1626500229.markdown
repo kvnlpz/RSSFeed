@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rndmtwitaccount 
-date: 2021-07-16 22:37:09 
-categories: twitter 
---- 
-@nope_its_lily Hardest part of my current job. Amazing and enjoyable when you solve your engineering problems with… https://t.co/g985b5SHii

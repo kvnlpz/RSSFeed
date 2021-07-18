@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lending club or MyConstant? 
-date: 2021-07-15 1626344158 
-categories: reddit 
---- 
-https://redd.it/okpxn9

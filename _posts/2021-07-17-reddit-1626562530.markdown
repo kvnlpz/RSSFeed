@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Flare Release. 
-date: 2021-07-17 1626562530 
-categories: reddit 
---- 
-https://redd.it/omem0a

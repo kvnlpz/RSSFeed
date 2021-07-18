@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheJonBall 
-date: 2021-07-16 20:59:03 
-categories: twitter 
---- 
-@nope_its_lily The quarter, dime,nickel, Penny

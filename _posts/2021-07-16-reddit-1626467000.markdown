@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Covid-19 (Novel coronavirus) information page 
-date: 2021-07-16 1626467000 
-categories: reddit 
---- 
-https://redd.it/olp7p1

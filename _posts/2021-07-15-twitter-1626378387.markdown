@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stevenplace 
-date: 2021-07-15 12:46:27 
-categories: twitter 
---- 
-@MikeBellafiore "What's the deal with the Fed balance sheet? Doesn't look very balanced to me."

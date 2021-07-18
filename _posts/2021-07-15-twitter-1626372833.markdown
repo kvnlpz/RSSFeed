@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chugarchugarr 
-date: 2021-07-15 11:13:53 
-categories: twitter 
---- 
-@nope_its_lily Glass half full I like it

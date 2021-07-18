@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @grhwatson 
-date: 2021-07-17 01:03:49 
-categories: twitter 
---- 
-@nope_its_lily At least for me, it feels like when doing some cleaning for example. It's not fulfilling on a deep l… https://t.co/958G7dvLd8

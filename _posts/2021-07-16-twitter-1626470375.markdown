@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 14:19:35 
-categories: twitter 
---- 
-RT @kroyrunner89: Was asking a while ago for recommendations for sites that update float quickly/accurately, this sounds like a great solut…

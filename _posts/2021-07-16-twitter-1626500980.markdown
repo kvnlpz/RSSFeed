@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @______surfin 
-date: 2021-07-16 22:49:40 
-categories: twitter 
---- 
-@nope_its_lily transition to networking and stare up from the abyss

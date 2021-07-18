@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-15 08:55:20 
-categories: twitter 
---- 
-@MichaelGKress @ElrondNetwork @Polkadot @beniaminmincu @getMaiar @seanybitcoins @blucero99 @RichardMulder19 super post !!!!  #Elrond $EGLD

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @upandtotherigh1 
-date: 2021-07-15 11:17:28 
-categories: twitter 
---- 
-@OddStockTrader I think we need more like 15-20%

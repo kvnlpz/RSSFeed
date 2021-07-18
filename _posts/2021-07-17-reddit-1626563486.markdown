@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which is "safer": a wallet that is a chrome extension or a "web" wallet? Are these both considered hot paper wallets? 
-date: 2021-07-17 1626563486 
-categories: reddit 
---- 
-https://redd.it/omev15

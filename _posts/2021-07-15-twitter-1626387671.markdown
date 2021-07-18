@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AdamTelkomsa 
-date: 2021-07-15 15:21:11 
-categories: twitter 
---- 
-RT @muddywatersre: In today’s edition of “Building The FDA Plane In Mid-Flight” cc: @US_FDA https://t.co/z60ESLgFw5

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Theta held to 7/16 expiration 
-date: 2021-07-16 1626470195 
-categories: reddit 
---- 
-https://redd.it/olq8nu

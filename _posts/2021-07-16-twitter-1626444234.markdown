@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BURHVN 
-date: 2021-07-16 07:03:54 
-categories: twitter 
---- 
-@InvestorsLive NEGG on a move

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin&#x27;s Lightning Network Node Count Doubles in 3 Months 
-date: 2021-07-15 1626354081 
-categories: reddit 
---- 
-https://redd.it/oksd43

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DoubleEagle49 
-date: 2021-07-17 11:56:02 
-categories: twitter 
---- 
-RT @muddywatersre: Bummer about those negative encounters that kill you. https://t.co/HX4pFV6ISa

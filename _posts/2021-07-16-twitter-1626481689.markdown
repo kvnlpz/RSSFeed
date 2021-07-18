@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @F1v3am 
-date: 2021-07-16 17:28:09 
-categories: twitter 
---- 
-@nope_its_lily Move to the UK! 😄

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sniperentry 
-date: 2021-07-17 09:49:07 
-categories: twitter 
---- 
-@super_trades What would be your top spac picks for this massive sell off? My picks are $sofi $geni $dm

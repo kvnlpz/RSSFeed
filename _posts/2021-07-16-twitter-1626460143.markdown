@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:29:03 
-categories: twitter 
---- 
-RT @kroyrunner89: Days like this are where it's most important to remember that something is not automatically a short because you think it…

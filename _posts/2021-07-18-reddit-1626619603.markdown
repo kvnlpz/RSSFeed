@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Need a real wallet....Ledger Nano X vs Trezor T 
-date: 2021-07-18 1626619603 
-categories: reddit 
---- 
-https://redd.it/omrute

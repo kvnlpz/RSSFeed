@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @oldauria 
-date: 2021-07-15 04:04:37 
-categories: twitter 
---- 
-@nope_its_lily Don’t ask the Simpson!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Trendspider_J 
-date: 2021-07-18 11:16:57 
-categories: twitter 
---- 
-@G_krupins @TrendSpider Thank you, Greg!! Happy to hear you are liking the app! :)

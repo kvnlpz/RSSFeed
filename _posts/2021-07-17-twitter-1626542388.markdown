@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KadinKerns 
-date: 2021-07-17 10:19:48 
-categories: twitter 
---- 
-@timothysykes whats your opinion on $wogi now $moni

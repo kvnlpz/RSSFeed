@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMC HODL 
-date: 2021-07-15 1626356572 
-categories: reddit 
---- 
-https://redd.it/okt3ir

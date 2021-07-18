@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: White hat hacker saves $117,000 in crypto from MetaMask phishing attack 
-date: 2021-07-17 1626525907 
-categories: reddit 
---- 
-https://redd.it/om3jvb

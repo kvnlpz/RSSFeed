@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nvariantcapital 
-date: 2021-07-16 23:10:20 
-categories: twitter 
---- 
-@muddywatersre Just an excuse for more Shark Parties.
-
-https://t.co/qyKeP141tg

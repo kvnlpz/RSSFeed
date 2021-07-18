@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joeschmo180 
-date: 2021-07-15 10:53:49 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/jePXIdjs0m

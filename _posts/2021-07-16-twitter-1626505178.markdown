@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GraziosoTony 
-date: 2021-07-16 23:59:38 
-categories: twitter 
---- 
-@timothysykes I'm always studying!! Very frustrated though!! May be my LAST WEEK!

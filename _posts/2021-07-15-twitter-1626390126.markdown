@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KerrisdaleCap 
-date: 2021-07-15 16:02:06 
-categories: twitter 
---- 
-RT @PlainviewLLC: We are short $FGEN and believe $FGEN's ASN 2019 pres on Fri Nov 8 will show lead drug roxadustat failed to achieve key en…

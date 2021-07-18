@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ANKR, a very strong project in the DeFi space enabling developers to easily build multi-chain applications 
-date: 2021-07-16 1626462560 
-categories: reddit 
---- 
-https://redd.it/olnq1h

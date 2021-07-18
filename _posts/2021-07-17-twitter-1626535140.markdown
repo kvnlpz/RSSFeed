@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scottschram 
-date: 2021-07-17 08:19:00 
-categories: twitter 
---- 
-@nope_its_lily It was more fun when it was like watch making.  Now it’s all imponderably complex buggy APIs.

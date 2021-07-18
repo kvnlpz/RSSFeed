@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ozwald1337 
-date: 2021-07-17 15:43:24 
-categories: twitter 
---- 
-@InvestorsLive 🧐

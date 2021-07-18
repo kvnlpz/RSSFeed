@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ontheslabs 
-date: 2021-07-15 12:43:57 
-categories: twitter 
---- 
-@modern_rock @f1teamboss it's surging.

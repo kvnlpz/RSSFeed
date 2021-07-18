@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @briandewell12 
-date: 2021-07-15 10:00:26 
-categories: twitter 
---- 
-@InvestorsLive For real

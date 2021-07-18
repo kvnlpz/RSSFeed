@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FrugalFast 
-date: 2021-07-16 01:26:49 
-categories: twitter 
---- 
-@MikeBellafiore @marcusmarritt creates beautiful work @MikeBellafiore worth a chat with him.

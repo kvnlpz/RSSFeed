@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This got reflected in my account, is there any way I can keep it? 
-date: 2021-07-16 1626463148 
-categories: reddit 
---- 
-https://redd.it/olnwyt

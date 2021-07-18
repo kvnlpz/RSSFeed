@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bwells393 
-date: 2021-07-15 03:05:10 
-categories: twitter 
---- 
-@timothysykes Really do love Positano don’t you bro

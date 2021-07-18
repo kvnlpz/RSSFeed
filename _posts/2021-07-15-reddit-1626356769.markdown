@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I want feedback from one project 
-date: 2021-07-15 1626356769 
-categories: reddit 
---- 
-https://redd.it/okt5qx

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I’m getting a bit tired of all the “Group X says that price will be Y by year Z” posts 
-date: 2021-07-16 1626495960 
-categories: reddit 
---- 
-https://redd.it/olxcdv

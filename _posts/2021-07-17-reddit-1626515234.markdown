@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: El Salvadore considering Cardano Stablecoin 
-date: 2021-07-17 1626515234 
-categories: reddit 
---- 
-https://redd.it/om19le

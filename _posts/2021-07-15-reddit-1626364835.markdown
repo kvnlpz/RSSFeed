@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC On-Chain Analysis: Stock-to-Flow and SSR Show Undervaluation 
-date: 2021-07-15 1626364835 
-categories: reddit 
---- 
-https://redd.it/okvsqf

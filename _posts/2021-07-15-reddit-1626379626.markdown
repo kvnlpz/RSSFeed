@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Need help transferring Ledger Nano X to new computer 
-date: 2021-07-15 1626379626 
-categories: reddit 
---- 
-https://redd.it/ol0s7m

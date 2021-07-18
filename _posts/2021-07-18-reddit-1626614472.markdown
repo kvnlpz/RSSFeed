@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Understanding risk/reward and position sizes 
-date: 2021-07-18 1626614472 
-categories: reddit 
---- 
-https://redd.it/omqein

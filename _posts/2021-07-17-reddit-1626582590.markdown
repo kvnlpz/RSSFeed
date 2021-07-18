@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Set up a new account on Kukai, it says it doesn't exist 
-date: 2021-07-17 1626582590 
-categories: reddit 
---- 
-https://redd.it/omjm7n

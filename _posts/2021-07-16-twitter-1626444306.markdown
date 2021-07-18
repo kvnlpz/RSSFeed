@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockMeat 
-date: 2021-07-16 07:05:06 
-categories: twitter 
---- 
-@InvestorsLive He is actually in this to make a living, not to "take down the hedge funds!"

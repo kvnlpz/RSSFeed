@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MathiasIrons 
-date: 2021-07-17 09:36:55 
-categories: twitter 
---- 
-@nope_its_lily Business idea: make programming fun, like videogames. Somehow.

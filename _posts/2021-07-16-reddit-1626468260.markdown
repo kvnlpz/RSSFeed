@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is the deal with SGOC? 
-date: 2021-07-16 1626468260 
-categories: reddit 
---- 
-https://redd.it/olpmsz

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeAbundo 
-date: 2021-07-16 22:29:41 
-categories: twitter 
---- 
-@nope_its_lily Guess you don't understand people who like creating.

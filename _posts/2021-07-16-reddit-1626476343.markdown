@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Underlying value on Non-Standard options 
-date: 2021-07-16 1626476343 
-categories: reddit 
---- 
-https://redd.it/ols6o7

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ElectricSanchez 
-date: 2021-07-15 08:21:37 
-categories: twitter 
---- 
-@nope_its_lily Give it first, il show after.

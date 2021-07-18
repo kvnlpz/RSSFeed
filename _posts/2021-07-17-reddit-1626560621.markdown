@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why do you need so much Cardano to vote 
-date: 2021-07-17 1626560621 
-categories: reddit 
---- 
-https://redd.it/ome3ki

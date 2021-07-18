@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HumbleOr 
-date: 2021-07-15 03:53:16 
-categories: twitter 
---- 
-@thehonestcroock Y'all need to push it up higher so I can get a better entry

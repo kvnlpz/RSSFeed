@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 22:26:31 
-categories: twitter 
---- 
-Can’t imagine people who like programming. Weird concept to me. It’s like being an aficionado of brushing your teeth.

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeBellafiore 
-date: 2021-07-17 19:34:57 
-categories: twitter 
---- 
-RT @T_Harth: Some more reasons Why You MUST Absolutely keep a Trading Journal!
-
-“As a professional trader and managing partner of a trading…

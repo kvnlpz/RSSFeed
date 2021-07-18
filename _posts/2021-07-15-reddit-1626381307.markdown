@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Don't kill me but HEX is pumping 
-date: 2021-07-15 1626381307 
-categories: reddit 
---- 
-https://redd.it/ol1ccu

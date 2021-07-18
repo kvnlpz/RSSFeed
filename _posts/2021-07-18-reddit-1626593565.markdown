@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Well, Bitcoin is stabilized at almost exactly $32k/coin.. 
-date: 2021-07-18 1626593565 
-categories: reddit 
---- 
-https://redd.it/omlyg2

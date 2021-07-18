@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BoxingSharp 
-date: 2021-07-16 20:45:45 
-categories: twitter 
---- 
-@nope_its_lily Nickles. I am trading all mine in for pennies. #inflation

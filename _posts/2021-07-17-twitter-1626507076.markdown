@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BollingerBeans 
-date: 2021-07-17 00:31:16 
-categories: twitter 
---- 
-RT @nope_its_lily: Can’t imagine people who like programming. Weird concept to me. It’s like being an aficionado of brushing your teeth.

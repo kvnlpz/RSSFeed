@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Square is building a decentralized finance business using bitcoin 
-date: 2021-07-16 1626446844 
-categories: reddit 
---- 
-https://redd.it/oliaur

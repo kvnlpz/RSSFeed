@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thinkornotswim 
-date: 2021-07-15 13:42:19 
-categories: twitter 
---- 
-@nope_its_lily lol so 5400 by dec ?

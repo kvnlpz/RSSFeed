@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why can't we wrap coins in a decentralized way? 
-date: 2021-07-18 1626619796 
-categories: reddit 
---- 
-https://redd.it/omrx6j

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnthonyLeeZhang 
-date: 2021-07-16 22:39:30 
-categories: twitter 
---- 
-@nope_its_lily Is there a meaningful distinction? I guess another way to put it: there are quirks of the language t… https://t.co/VTfVnUbkH5

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can somebody ELI5 this? - Data from pool.pm/whales 
-date: 2021-07-15 1626405238 
-categories: reddit 
---- 
-https://redd.it/ol8cz7

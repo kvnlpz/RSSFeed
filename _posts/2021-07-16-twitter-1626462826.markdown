@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anderpart 
-date: 2021-07-16 12:13:46 
-categories: twitter 
---- 
-RT @muddywatersre: As I said, I think that China is looking to reframe de-listings from the U.S. as having occurred on its terms. Step 1 is…

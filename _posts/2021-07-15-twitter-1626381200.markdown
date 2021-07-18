@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AmericanOnline0 
-date: 2021-07-15 13:33:20 
-categories: twitter 
---- 
-@InvestorsLive Tried to short it - no shares available though

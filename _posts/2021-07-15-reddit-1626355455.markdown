@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If people want a decentralized block chain why don't developers limit how much you can have in a single wallet? 
-date: 2021-07-15 1626355455 
-categories: reddit 
---- 
-https://redd.it/oksrg3

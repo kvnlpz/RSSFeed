@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 12:41:52 
-categories: twitter 
---- 
-RT @kroyrunner89: I’ll be doing question/answer during this, so reply to me with your questions! I’ll compile a list and answer as many as…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shrew to the moon 
-date: 2021-07-15 1626390276 
-categories: reddit 
---- 
-https://redd.it/ol45wb

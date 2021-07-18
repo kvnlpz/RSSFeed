@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Data shows China's bitcoin mining dominance fell ahead of the crackdown 
-date: 2021-07-15 1626352136 
-categories: reddit 
---- 
-https://redd.it/okrtrt

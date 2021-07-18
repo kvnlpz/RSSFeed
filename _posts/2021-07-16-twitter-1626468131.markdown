@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hardheadtrader 
-date: 2021-07-16 13:42:11 
-categories: twitter 
---- 
-@InvestorsLive Lol

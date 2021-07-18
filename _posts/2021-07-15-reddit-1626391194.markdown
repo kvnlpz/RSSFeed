@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Ethereum or Polkadot better? 
-date: 2021-07-15 1626391194 
-categories: reddit 
---- 
-https://redd.it/ol4fmd

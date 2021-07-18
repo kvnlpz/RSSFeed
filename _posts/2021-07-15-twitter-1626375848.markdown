@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Schmedley_ 
-date: 2021-07-15 12:04:08 
-categories: twitter 
---- 
-@modern_rock @f1teamboss Insanity?

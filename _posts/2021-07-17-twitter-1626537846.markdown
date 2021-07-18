@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-17 09:04:06 
-categories: twitter 
---- 
-@lightspringfox good thing sarcasm isn't allowed on the internet

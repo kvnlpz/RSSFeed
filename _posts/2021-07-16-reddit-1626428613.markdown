@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This subreddit used to have community points (Photons)? 
-date: 2021-07-16 1626428613 
-categories: reddit 
---- 
-https://redd.it/oldlsb

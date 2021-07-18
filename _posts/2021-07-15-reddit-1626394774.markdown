@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you cannot vote in governance with one version of Moons, but can with another, then you don't need a token. You need a point system. 
-date: 2021-07-15 1626394774 
-categories: reddit 
---- 
-https://redd.it/ol5gxm

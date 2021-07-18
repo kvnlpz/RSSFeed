@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stevendu1_94 
-date: 2021-07-17 03:21:35 
-categories: twitter 
---- 
-RT @Steven1_994: One of the easiest patterns to master that occured quite often lately: https://t.co/m6JhWZphZH

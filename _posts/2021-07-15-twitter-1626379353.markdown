@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TMcNasty 
-date: 2021-07-15 13:02:33 
-categories: twitter 
---- 
-@InvestorsLive Yes since there's not a wrong time to head to the beach.

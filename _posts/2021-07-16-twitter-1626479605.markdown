@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZillAndreas 
-date: 2021-07-16 16:53:25 
-categories: twitter 
---- 
-@InvestorsLive Outch! That’s gotta suck, in the last 30min.  (No position).

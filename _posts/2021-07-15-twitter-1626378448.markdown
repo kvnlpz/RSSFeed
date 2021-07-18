@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gilberto_TFC 
-date: 2021-07-15 12:47:28 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/PvFonNg5Of

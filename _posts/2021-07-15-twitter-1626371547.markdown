@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @daytrader_noobz 
-date: 2021-07-15 10:52:27 
-categories: twitter 
---- 
-@nope_its_lily Meh... https://t.co/LjnUlUzIvU

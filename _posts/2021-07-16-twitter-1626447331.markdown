@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TaluqdarL 
-date: 2021-07-16 07:55:31 
-categories: twitter 
---- 
-@timothysykes I promise I am gonna buy a apple pie now @timothysykes

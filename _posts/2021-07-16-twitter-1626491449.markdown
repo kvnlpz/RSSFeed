@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-16 20:10:49 
-categories: twitter 
---- 
-@realjeffbarker up thru Marble, rugged as always

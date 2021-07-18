@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EXP column in options profit calendar 
-date: 2021-07-16 1626460111 
-categories: reddit 
---- 
-https://redd.it/olmvth

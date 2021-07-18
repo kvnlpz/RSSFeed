@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I message someone knowing only their ETH address? 
-date: 2021-07-16 1626435118 
-categories: reddit 
---- 
-https://redd.it/olf1br

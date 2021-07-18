@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @clawrence 
-date: 2021-07-15 11:56:28 
-categories: twitter 
---- 
-@nope_its_lily You just used a random word generator to make that tweet, right?

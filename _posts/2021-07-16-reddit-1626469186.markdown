@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coin Stake Reminder. 
-date: 2021-07-16 1626469186 
-categories: reddit 
---- 
-https://redd.it/olpx2d

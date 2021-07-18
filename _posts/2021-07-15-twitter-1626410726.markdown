@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-15 21:45:26 
-categories: twitter 
---- 
-RT @Gavintrippe: Public service announcement. @modern_rock is a legit rad dude. Been following him since 2012 and had a great dinner with h…

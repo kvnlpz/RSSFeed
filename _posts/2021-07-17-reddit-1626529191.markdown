@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This looks funny but it's not. People are going through stuff 
-date: 2021-07-17 1626529191 
-categories: reddit 
---- 
-https://redd.it/om4foc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is what an ape looks like… 
-date: 2021-07-15 1626402184 
-categories: reddit 
---- 
-https://redd.it/ol7inx

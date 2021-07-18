@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 13:13:12 
-categories: twitter 
---- 
-RT @kroyrunner89: it really is amazing how the most basic of things never even occur to you until you see it for the first time

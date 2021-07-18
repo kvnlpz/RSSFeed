@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChiCityBrian 
-date: 2021-07-16 15:45:30 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ @TradingComposur Cc: @DavisTrades

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaveL452 
-date: 2021-07-15 06:02:09 
-categories: twitter 
---- 
-@nope_its_lily short   spy

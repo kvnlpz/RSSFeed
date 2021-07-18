@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do i recover a wallet i made on exodus into electrum? 
-date: 2021-07-15 1626413204 
-categories: reddit 
---- 
-https://redd.it/olacxr

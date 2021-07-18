@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JonathanColling 
-date: 2021-07-15 01:21:48 
-categories: twitter 
---- 
-@nope_its_lily #AMC $AMC because it’s on sale

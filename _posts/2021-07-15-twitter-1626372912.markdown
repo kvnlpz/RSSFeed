@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Benny_blanco85 
-date: 2021-07-15 11:15:12 
-categories: twitter 
---- 
-@nope_its_lily $wish to $1

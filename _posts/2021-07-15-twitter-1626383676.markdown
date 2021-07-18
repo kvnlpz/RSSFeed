@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tradeinvincible 
-date: 2021-07-15 14:14:36 
-categories: twitter 
---- 
-@InvestorsLive $WISH is

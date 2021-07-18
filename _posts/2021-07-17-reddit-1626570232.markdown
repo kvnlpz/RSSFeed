@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hard Forks Are Fan Fiction | Bradley Rettler 
-date: 2021-07-17 1626570232 
-categories: reddit 
---- 
-https://redd.it/omgm5g

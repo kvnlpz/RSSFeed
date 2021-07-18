@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bewdagaurav 
-date: 2021-07-15 10:59:00 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/lPFgi6vKAm

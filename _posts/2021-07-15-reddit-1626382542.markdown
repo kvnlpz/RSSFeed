@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shoutout to Kraken 
-date: 2021-07-15 1626382542 
-categories: reddit 
---- 
-https://redd.it/ol1qyr

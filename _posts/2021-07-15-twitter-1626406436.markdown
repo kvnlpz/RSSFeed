@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @colelysaught 
-date: 2021-07-15 20:33:56 
-categories: twitter 
---- 
-@nope_its_lily California McD’s prices folks…

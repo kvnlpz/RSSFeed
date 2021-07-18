@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-18 06:22:56 
-categories: twitter 
---- 
-RT @RayTL_: Few motivational pics. https://t.co/biCetBpWcv

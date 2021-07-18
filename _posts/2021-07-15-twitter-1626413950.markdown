@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rajasark 
-date: 2021-07-15 22:39:10 
-categories: twitter 
---- 
-@nope_its_lily I prefer robust time tested methods. https://t.co/0IuyRoahux

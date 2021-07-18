@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iLoveTheta1 
-date: 2021-07-16 17:49:29 
-categories: twitter 
---- 
-@InvestorsLive Nice! Did you get your Efoil board yet? Let us no how it does!

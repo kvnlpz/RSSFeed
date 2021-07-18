@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LilNortenos 
-date: 2021-07-17 14:12:14 
-categories: twitter 
---- 
-RT @timothysykes: @StocksToTrade YESSSSSSS!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anon_jumper 
-date: 2021-07-15 12:21:07 
-categories: twitter 
---- 
-@InvestorsLive Hello.🤙 https://t.co/pVK5CnsAsH

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A shoutout to Coin Bureau 
-date: 2021-07-18 1626610048 
-categories: reddit 
---- 
-https://redd.it/ompbgs

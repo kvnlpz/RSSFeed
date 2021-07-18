@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @daRickestRick 
-date: 2021-07-15 20:37:03 
-categories: twitter 
---- 
-@nope_its_lily @DukeDiligence Is time a flat circle?

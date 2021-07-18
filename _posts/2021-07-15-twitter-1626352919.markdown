@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BackpackFinanc1 
-date: 2021-07-15 05:41:59 
-categories: twitter 
---- 
-@nope_its_lily I'll need to check on Twitter first before answering.

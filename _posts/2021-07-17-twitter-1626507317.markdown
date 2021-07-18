@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Generalist_Lab 
-date: 2021-07-17 00:35:17 
-categories: twitter 
---- 
-@muddywatersre I don't like words that hide the truth - George Carlin
-https://t.co/Y3VXVo3IeW

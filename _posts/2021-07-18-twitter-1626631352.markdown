@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrMoneyMaker_se 
-date: 2021-07-18 11:02:32 
-categories: twitter 
---- 
-@RayTL_ @LuisR_SE https://t.co/bpiGEm0VPJ

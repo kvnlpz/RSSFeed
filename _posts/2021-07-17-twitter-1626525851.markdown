@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mnguyen3897 
-date: 2021-07-17 05:44:11 
-categories: twitter 
---- 
-@nope_its_lily $XEQ since it's among the most profitable coins for miner (and no nvda limit like eth)

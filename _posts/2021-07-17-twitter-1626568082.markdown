@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OndrejSlezak 
-date: 2021-07-17 17:28:02 
-categories: twitter 
---- 
-@modern_rock @AT09_Trader where is your SL mercedes ?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is this a win or a loss? 
-date: 2021-07-17 1626584114 
-categories: reddit 
---- 
-https://redd.it/omjyqi

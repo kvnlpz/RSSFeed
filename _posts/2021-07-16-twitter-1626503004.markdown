@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trumanshow 
-date: 2021-07-16 23:23:24 
-categories: twitter 
---- 
-@nope_its_lily I think it’s getting into that flow state. Perhaps you get that from math models (which to me sounds… https://t.co/8O8rHEoB01

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there any sentiment trader here? 
-date: 2021-07-17 1626544839 
-categories: reddit 
---- 
-https://redd.it/om99u0

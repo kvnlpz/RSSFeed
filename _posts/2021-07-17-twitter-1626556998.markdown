@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chiredev 
-date: 2021-07-17 14:23:18 
-categories: twitter 
---- 
-@InvestorsLive Every piece of real estate is unique and you have to decide on it's on merits. Location, current use, zoning, etc.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Busking for cryptocurrency 
-date: 2021-07-18 1626629491 
-categories: reddit 
---- 
-https://redd.it/omv5dn

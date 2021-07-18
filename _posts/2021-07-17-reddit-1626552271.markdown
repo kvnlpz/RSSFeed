@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Seed words and wallet theft 
-date: 2021-07-17 1626552271 
-categories: reddit 
---- 
-https://redd.it/ombmlu

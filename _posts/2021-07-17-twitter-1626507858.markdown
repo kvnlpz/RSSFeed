@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Solomoon71 
-date: 2021-07-17 00:44:18 
-categories: twitter 
---- 
-@nope_its_lily Most of them won't survive

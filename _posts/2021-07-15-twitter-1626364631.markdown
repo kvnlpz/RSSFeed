@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @geezdom 
-date: 2021-07-15 08:57:11 
-categories: twitter 
---- 
-RT @nope_its_lily: Seeing a lot of put answers rolling in. You do realize that except for actual hedging in general you’d be better off hol…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-16 07:21:55 
-categories: twitter 
---- 
-@inefficientmrkt Yikes. Hope all is well

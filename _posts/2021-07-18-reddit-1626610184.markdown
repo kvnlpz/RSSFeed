@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rescuing 'lost' bitcoins from a Lightning channel 
-date: 2021-07-18 1626610184 
-categories: reddit 
---- 
-https://redd.it/ompchv

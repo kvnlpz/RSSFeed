@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Jack Dorsey Announces New Square Division Aimed at DeFi on Bitcoin 
-date: 2021-07-15 1626402792 
-categories: reddit 
---- 
-https://redd.it/ol7okd

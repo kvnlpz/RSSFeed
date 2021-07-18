@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The basics of Cardano explained for beginners in 7 minutes - hope it helps 👍 
-date: 2021-07-17 1626521576 
-categories: reddit 
---- 
-https://redd.it/om2ia5

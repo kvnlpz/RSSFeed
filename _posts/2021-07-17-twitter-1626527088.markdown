@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @siangeeeo 
-date: 2021-07-17 06:04:48 
-categories: twitter 
---- 
-@OddStockTrader Ents.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is chainlink rates so low? 
-date: 2021-07-16 1626464863 
-categories: reddit 
---- 
-https://redd.it/olohtt

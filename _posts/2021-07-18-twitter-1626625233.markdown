@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WillingAndreT 
-date: 2021-07-18 09:20:33 
-categories: twitter 
---- 
-RT @SJosephBurns: There are too many amateur gamblers who think they are professional traders.

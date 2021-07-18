@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_donsimoun_ 
-date: 2021-07-17 19:36:48 
-categories: twitter 
---- 
-RT @RayTL_: This is a very simple analysis of Price, Volume, RS and few fundamentals. Takes folks many years or decades to get it down to t…

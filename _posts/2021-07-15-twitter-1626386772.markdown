@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gman1__ 
-date: 2021-07-15 15:06:12 
-categories: twitter 
---- 
-RT @OddStockTrader: Feels like market in need of a 10%+ correction soon.
-
-$SPY

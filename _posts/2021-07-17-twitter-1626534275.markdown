@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-17 08:04:35 
-categories: twitter 
---- 
-RT @InvestorsLive: Pretty amazing we've already sold out half early bird tickets 🙏 @Traders4ACause in just a few days. Don't wait if you've…

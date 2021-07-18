@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC candlestick in your command line with ohlc 
-date: 2021-07-17 1626537325 
-categories: reddit 
---- 
-https://redd.it/om6opc

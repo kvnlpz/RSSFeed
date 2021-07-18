@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jarellf 
-date: 2021-07-15 23:42:20 
-categories: twitter 
---- 
-@timothysykes https://t.co/VRz1cAZzAd

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-16 09:31:22 
-categories: twitter 
---- 
-RT @TheDayTrder: I’m just coming back to day trading stocks after a break, if you would like to join a community of straight talking trader…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Jack Dorsey wants to add DeFi to Bitcoin 
-date: 2021-07-17 1626514200 
-categories: reddit 
---- 
-https://redd.it/om12mi

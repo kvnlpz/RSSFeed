@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Explain to me a thing or two 
-date: 2021-07-15 1626417987 
-categories: reddit 
---- 
-https://redd.it/olbet0

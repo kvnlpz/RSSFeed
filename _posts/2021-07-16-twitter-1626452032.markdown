@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @toodaamoon 
-date: 2021-07-16 09:13:52 
-categories: twitter 
---- 
-@InvestorsLive Still watching tho🍿

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Certification 
-date: 2021-07-15 1626352993 
-categories: reddit 
---- 
-https://redd.it/oks240

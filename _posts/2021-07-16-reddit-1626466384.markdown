@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any reason for the jump in DNT and ATOM? 
-date: 2021-07-16 1626466384 
-categories: reddit 
---- 
-https://redd.it/olp0l1

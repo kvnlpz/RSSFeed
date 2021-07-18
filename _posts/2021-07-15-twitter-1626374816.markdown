@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marshallmason0 
-date: 2021-07-15 11:46:56 
-categories: twitter 
---- 
-@timothysykes CCIV has an impeccable future ahead

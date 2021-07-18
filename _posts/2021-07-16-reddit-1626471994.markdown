@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: To the moon! 
-date: 2021-07-16 1626471994 
-categories: reddit 
---- 
-https://redd.it/olqsrt

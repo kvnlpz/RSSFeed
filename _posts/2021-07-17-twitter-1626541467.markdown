@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OptionsBrian 
-date: 2021-07-17 10:04:27 
-categories: twitter 
---- 
-@nope_its_lily Weird you like doing math thou?

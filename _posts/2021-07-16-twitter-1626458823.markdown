@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:07:03 
-categories: twitter 
---- 
-RT @kroyrunner89: What exactly are volatility halts supposed to accomplish again? Don't see how this could be useful to anybody, just annoy…

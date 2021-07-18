@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blogpost from Stephen Fluin on leaving Google to join Chainlink 
-date: 2021-07-17 1626570359 
-categories: reddit 
---- 
-https://redd.it/omgn93

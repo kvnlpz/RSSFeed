@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BID/ASK Intraday Scalping 
-date: 2021-07-18 1626618966 
-categories: reddit 
---- 
-https://redd.it/omrns6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DLT platform Telos powered by EOS.IO software to integrate (ESG) environmental, social & governance with blockchain tech 
-date: 2021-07-16 1626425368 
-categories: reddit 
---- 
-https://redd.it/olcxih

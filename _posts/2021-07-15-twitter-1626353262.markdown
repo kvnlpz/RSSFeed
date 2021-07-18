@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderDan12 
-date: 2021-07-15 05:47:42 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/9Ls2YtnxCL

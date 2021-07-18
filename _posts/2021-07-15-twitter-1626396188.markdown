@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @psiklops 
-date: 2021-07-15 17:43:08 
-categories: twitter 
---- 
-@nope_its_lily @nic__carter Whatcha gonna do when they come for you? https://t.co/8RePXOVQWO

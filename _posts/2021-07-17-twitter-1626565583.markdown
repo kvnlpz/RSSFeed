@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ipgetov 
-date: 2021-07-17 16:46:23 
-categories: twitter 
---- 
-@InvestorsLive could you provide the stock to back test this 23 please

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Good dapps for staking cryptos like matic, vet, one, Algo 
-date: 2021-07-17 1626550673 
-categories: reddit 
---- 
-https://redd.it/omb3t4

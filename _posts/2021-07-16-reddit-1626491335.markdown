@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: God I love Bitcoin 
-date: 2021-07-16 1626491335 
-categories: reddit 
---- 
-https://redd.it/olw7nr

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Meiyubense 
-date: 2021-07-15 12:25:49 
-categories: twitter 
---- 
-@RayTL_ I let my stocks’ movement dictate my actions. If it’s down below 20ema, sell some, down below 50ema, sell a… https://t.co/Ka8W17HNjJ

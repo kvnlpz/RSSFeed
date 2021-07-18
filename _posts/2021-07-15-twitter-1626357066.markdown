@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @blockstertweets 
-date: 2021-07-15 06:51:06 
-categories: twitter 
---- 
-@nope_its_lily Roll it into my own business.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is cardano so resilient ? 
-date: 2021-07-18 1626603592 
-categories: reddit 
---- 
-https://redd.it/omnxsy

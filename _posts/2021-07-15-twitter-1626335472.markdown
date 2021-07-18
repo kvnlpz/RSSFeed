@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SuperSaftig 
-date: 2021-07-15 00:51:12 
-categories: twitter 
---- 
-@nope_its_lily 25k $btc 25k $dfi All in Liquidity Mining

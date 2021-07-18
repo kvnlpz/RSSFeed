@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stocks_N_Shit 
-date: 2021-07-15 08:02:59 
-categories: twitter 
---- 
-RT @nope_its_lily: Someone gives you $50,000 tomorrow. What investment do you put it in and why?

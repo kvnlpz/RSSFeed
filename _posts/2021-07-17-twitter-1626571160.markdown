@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YikesTrader1 
-date: 2021-07-17 18:19:20 
-categories: twitter 
---- 
-@InvestorsLive When you give a number and say “over/under” what gives you confidence to short after it breaks that… https://t.co/6QLLUk1L63

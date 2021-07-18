@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-17 15:09:24 
-categories: twitter 
---- 
-@clp528 Where aren't they?

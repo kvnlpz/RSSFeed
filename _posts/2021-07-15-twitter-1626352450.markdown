@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jydskatomkraft 
-date: 2021-07-15 05:34:10 
-categories: twitter 
---- 
-@nope_its_lily $FWT solid project, low MC and working product

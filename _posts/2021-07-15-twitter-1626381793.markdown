@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jbuehler777 
-date: 2021-07-15 13:43:13 
-categories: twitter 
---- 
-@nope_its_lily Why next month?
-
-I would say 4780 next month...

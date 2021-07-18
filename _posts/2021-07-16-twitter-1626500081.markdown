@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 22:34:41 
-categories: twitter 
---- 
-@v1ch0 No I mean I’ve seen some people who legit enjoy it. Like functional programmers, people who write Julia, Lis… https://t.co/Ekr9HBNQ3y

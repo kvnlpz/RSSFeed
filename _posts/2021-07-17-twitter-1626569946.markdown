@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @johnnykowal 
-date: 2021-07-17 17:59:06 
-categories: twitter 
---- 
-RT @timothysykes: Just had one of the most ridiculous conversations of my life with a famous actor, so much so by the end of the meal, the…

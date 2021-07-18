@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1Bytee 
-date: 2021-07-15 10:55:17 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/NS6YwdBjTO

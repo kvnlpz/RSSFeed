@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Get bitcoin 
-date: 2021-07-17 1626570298 
-categories: reddit 
---- 
-https://redd.it/omgmuc

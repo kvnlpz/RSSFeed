@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-16 15:57:31 
-categories: twitter 
---- 
-RT @neonvixen: @TraderBryce appreciation day! You've become an amazing teacher so many insightful lessons and ideas that I've picked up fro…

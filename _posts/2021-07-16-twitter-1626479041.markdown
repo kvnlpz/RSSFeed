@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stocksandspecs 
-date: 2021-07-16 16:44:01 
-categories: twitter 
---- 
-@InvestorsLive Ouch. No position thank God, but some folks gonna have a tough weekend.

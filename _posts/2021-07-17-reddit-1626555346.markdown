@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Miners heaven 
-date: 2021-07-17 1626555346 
-categories: reddit 
---- 
-https://redd.it/omckjs

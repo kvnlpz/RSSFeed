@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Join r/GoldenStocks 
-date: 2021-07-15 1626405272 
-categories: reddit 
---- 
-https://redd.it/ol8dco

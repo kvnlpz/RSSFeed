@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Research question. 
-date: 2021-07-17 1626544801 
-categories: reddit 
---- 
-https://redd.it/om99bw

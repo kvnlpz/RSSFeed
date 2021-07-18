@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible that ADA will implement coinburn like ETH? 
-date: 2021-07-16 1626425229 
-categories: reddit 
---- 
-https://redd.it/olcwjm

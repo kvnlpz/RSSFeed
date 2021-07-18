@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible to use Daedalus Wallet & TailsOS 
-date: 2021-07-15 1626394178 
-categories: reddit 
---- 
-https://redd.it/ol5az8

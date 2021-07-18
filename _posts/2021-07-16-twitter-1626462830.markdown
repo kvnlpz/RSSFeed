@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 12:13:50 
-categories: twitter 
---- 
-@nick_dilorenzo It's not a good idea to use NOPE today, simply because it gets overwhelmed with the gamma effects o… https://t.co/p140DNp6r2

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-15 07:05:53 
-categories: twitter 
---- 
-Nice call @OddStockTrader $YVR

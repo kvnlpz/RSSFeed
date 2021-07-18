@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sanfrantrader 
-date: 2021-07-17 18:56:27 
-categories: twitter 
---- 
-@InvestorsLive Do you find less of an edge longing low floats vs tickers with higher floats ? Say 10 mil shares Outstanding +

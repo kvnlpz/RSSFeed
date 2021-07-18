@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Computational power to solve real world problems 
-date: 2021-07-15 1626364890 
-categories: reddit 
---- 
-https://redd.it/okvto4

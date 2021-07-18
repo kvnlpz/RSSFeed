@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PTradero 
-date: 2021-07-17 18:18:03 
-categories: twitter 
---- 
-RT @StocksToTrade: Don’t forget ... Sometimes the best offense is a strong defense!
-
-Now that the market seems to be slowing down a bit, ma…

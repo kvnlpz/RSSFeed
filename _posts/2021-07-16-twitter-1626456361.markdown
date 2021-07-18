@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FroTrades 
-date: 2021-07-16 10:26:01 
-categories: twitter 
---- 
-@nope_its_lily Yes, this chart emoji is proof 📈

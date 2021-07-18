@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How would expiring CDC eviction moratorium impact the market? 
-date: 2021-07-17 1626539763 
-categories: reddit 
---- 
-https://redd.it/om7ndy

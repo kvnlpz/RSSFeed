@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: mBits: the preferred units for Bitcoin 
-date: 2021-07-17 1626564919 
-categories: reddit 
---- 
-https://redd.it/omf8gc

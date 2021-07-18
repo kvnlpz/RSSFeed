@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tam4shop 
-date: 2021-07-15 12:39:14 
-categories: twitter 
---- 
-@InvestorsLive Who?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrianLeeTrades 
-date: 2021-07-16 13:45:41 
-categories: twitter 
---- 
-@InvestorsLive Pretty damn satisfying

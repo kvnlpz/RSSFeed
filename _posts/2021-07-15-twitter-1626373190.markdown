@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trading_gen 
-date: 2021-07-15 11:19:50 
-categories: twitter 
---- 
-@InvestorsLive Swing signals, on my parameters, But have to wait until the end of the day.

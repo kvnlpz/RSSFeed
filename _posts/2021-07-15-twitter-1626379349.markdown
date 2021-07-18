@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MicheleTxshell 
-date: 2021-07-15 13:02:29 
-categories: twitter 
---- 
-@InvestorsLive Yes. I sat and watched the market all day and did nothing after that.

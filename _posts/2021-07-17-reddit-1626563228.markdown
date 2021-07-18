@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Full circle 
-date: 2021-07-17 1626563228 
-categories: reddit 
---- 
-https://redd.it/omesnf

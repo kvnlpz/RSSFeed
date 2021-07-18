@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @retheauditors 
-date: 2021-07-15 10:00:52 
-categories: twitter 
---- 
-RT @muddywatersre: Going on @SquawkCNBC at 8:10 EDT today to discuss what DIDI, VIE review could mean for the future of China listings in t…

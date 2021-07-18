@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My first crypto transaction (other than investing) 
-date: 2021-07-17 1626517733 
-categories: reddit 
---- 
-https://redd.it/om1qqr

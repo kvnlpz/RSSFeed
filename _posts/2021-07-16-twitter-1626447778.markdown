@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Click_Trades 
-date: 2021-07-16 08:02:58 
-categories: twitter 
---- 
-@RayTL_ Nicely done

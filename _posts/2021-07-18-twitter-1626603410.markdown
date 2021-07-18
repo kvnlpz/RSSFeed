@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HoleckaVladimir 
-date: 2021-07-18 03:16:50 
-categories: twitter 
---- 
-@Steven1_994 Greetings Steven, 
-
-It’s Vladimir from Youmaker, one of the developing video platforms based in the US… https://t.co/eADGCBApSQ

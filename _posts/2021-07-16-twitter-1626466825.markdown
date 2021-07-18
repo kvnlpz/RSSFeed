@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @guettsome 
-date: 2021-07-16 13:20:25 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/0QrW4Y30jF

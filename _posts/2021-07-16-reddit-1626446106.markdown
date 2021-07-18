@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin mofooos 
-date: 2021-07-16 1626446106 
-categories: reddit 
---- 
-https://redd.it/oli27m

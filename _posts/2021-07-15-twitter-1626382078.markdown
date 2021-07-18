@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JeffrosMusic 
-date: 2021-07-15 13:47:58 
-categories: twitter 
---- 
-@InvestorsLive I'm a new investor along for the ride, still learning about risk management etc. What do you make of… https://t.co/TgVATR9d0x

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @juliecbills 
-date: 2021-07-17 06:46:06 
-categories: twitter 
---- 
-@nope_its_lily Are these all just chat bot generated? 👀 I love it.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TzKT now fully supports Granada protocol! 
-date: 2021-07-16 1626447984 
-categories: reddit 
---- 
-https://redd.it/oliobr

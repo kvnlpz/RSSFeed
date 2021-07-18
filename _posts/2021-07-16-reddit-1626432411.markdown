@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The US Intends to Employ Crypto Tracing to Fight Ransomware Attacks 
-date: 2021-07-16 1626432411 
-categories: reddit 
---- 
-https://redd.it/oleeij

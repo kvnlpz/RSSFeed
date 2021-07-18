@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I need some help. Trying to sell for a diagonal on SPY - I have my head wrapped 90% of this strat but I went to sell the call and I'm seeing "Max Loss Infinite" and "Illegal - 1 shares" - Can I get some ELI 5? - Also not going through with this until I fully understand don't roast me pls. 
-date: 2021-07-16 1626458120 
-categories: reddit 
---- 
-https://redd.it/olm6ae

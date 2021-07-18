@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum network settled $2.5 trillion in transactions in the second quarter of 2021 
-date: 2021-07-17 1626546406 
-categories: reddit 
---- 
-https://redd.it/om9rvu

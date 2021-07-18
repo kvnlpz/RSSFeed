@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does anyone know what CopyMiner is? 
-date: 2021-07-15 1626364725 
-categories: reddit 
---- 
-https://redd.it/okvr9l

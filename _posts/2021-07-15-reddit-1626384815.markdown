@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TIP - forget about the value 
-date: 2021-07-15 1626384815 
-categories: reddit 
---- 
-https://redd.it/ol2hqx

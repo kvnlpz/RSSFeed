@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GoofyGoldstine 
-date: 2021-07-17 05:05:41 
-categories: twitter 
---- 
-@nope_its_lily That’s said. Try something like SICP to learn the joy of programming

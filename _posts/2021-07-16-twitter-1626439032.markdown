@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-16 05:37:12 
-categories: twitter 
---- 
-@TraderLion_ How has William O'Neil influenced your trading style?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Al_Maldives 
-date: 2021-07-16 18:52:12 
-categories: twitter 
---- 
-RT @muddywatersre: Bummer about those negative encounters that kill you. https://t.co/HX4pFV6ISa

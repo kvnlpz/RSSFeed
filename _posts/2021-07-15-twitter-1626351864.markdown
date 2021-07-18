@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimCanadaTrades 
-date: 2021-07-15 05:24:24 
-categories: twitter 
---- 
-@InvestorsLive Your commentary is frickin awesome.

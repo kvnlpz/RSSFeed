@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @allisontrades_ 
-date: 2021-07-16 10:43:38 
-categories: twitter 
---- 
-RT @modern_rock: Week 1 of day trading versus week 52
-
-#tradingIsEasy https://t.co/RVPHW7zllG

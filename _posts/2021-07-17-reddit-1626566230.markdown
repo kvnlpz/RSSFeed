@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ...the fight has been won 
-date: 2021-07-17 1626566230 
-categories: reddit 
---- 
-https://redd.it/omfkwf

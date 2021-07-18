@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PetruGabriel 
-date: 2021-07-15 16:02:23 
-categories: twitter 
---- 
-@RayTL_ What do you need?

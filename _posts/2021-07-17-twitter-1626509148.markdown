@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-17 01:05:48 
-categories: twitter 
---- 
-RT @StocksToTrade: Like/retweet this if you're up studying to be a better trader on this Friday night when most others are out partying

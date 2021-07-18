@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Matt71521518 
-date: 2021-07-15 14:18:47 
-categories: twitter 
---- 
-@nope_its_lily @choffstein https://t.co/MJV2qEBWSt

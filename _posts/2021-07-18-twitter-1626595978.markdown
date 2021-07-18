@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BobbyAxeAxelrod 
-date: 2021-07-18 01:12:58 
-categories: twitter 
---- 
-RT @WesleyBKress: Anyone else had a support ticket for @BinanceUS &amp; received an answer from @BinanceUShelp but issue not resolved? I have b…

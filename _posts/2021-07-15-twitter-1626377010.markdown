@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-15 12:23:30 
-categories: twitter 
---- 
-https://t.co/subylXzLmz Speculative here

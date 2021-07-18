@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My “foolish” Strategy 
-date: 2021-07-16 1626455843 
-categories: reddit 
---- 
-https://redd.it/olle6r

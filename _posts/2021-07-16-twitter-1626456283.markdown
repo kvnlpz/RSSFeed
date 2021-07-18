@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @survivalspence 
-date: 2021-07-16 10:24:43 
-categories: twitter 
---- 
-@nope_its_lily I love your account. Always good for a chuckle

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Intellia Therapeutics is a biotechnology company developing biopharmaceuticals using a CRISPR gene editing system invented by Jennifer Doudna (with colleagues at University of California, Berkeley) and Virginijus Šikšnys (with colleagues at Vilnius University). The company has partnerships with Nova 
-date: 2021-07-15 1626356915 
-categories: reddit 
---- 
-https://redd.it/okt7eh

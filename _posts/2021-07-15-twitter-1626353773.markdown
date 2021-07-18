@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MartyChargin 
-date: 2021-07-15 05:56:13 
-categories: twitter 
---- 
-@RayTL_ @IosephSanctus $RXRX Yo Ray.... check out this chart.... https://t.co/aT49Fiv9a8

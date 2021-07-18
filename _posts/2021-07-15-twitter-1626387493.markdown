@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NorCalPatrick 
-date: 2021-07-15 15:18:13 
-categories: twitter 
---- 
-@OddStockTrader What’s the problem?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AmitChokshi9 
-date: 2021-07-15 12:24:24 
-categories: twitter 
---- 
-@nope_its_lily @choffstein but he may not actually want that

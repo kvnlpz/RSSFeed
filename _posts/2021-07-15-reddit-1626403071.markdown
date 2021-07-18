@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Elon Musk tweet suggests caution with investments in Dogecoin 
-date: 2021-07-15 1626403071 
-categories: reddit 
---- 
-https://redd.it/ol7ray

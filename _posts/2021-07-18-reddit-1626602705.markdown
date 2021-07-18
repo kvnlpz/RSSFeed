@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why Kraken is so secure 
-date: 2021-07-18 1626602705 
-categories: reddit 
---- 
-https://redd.it/omnrcs

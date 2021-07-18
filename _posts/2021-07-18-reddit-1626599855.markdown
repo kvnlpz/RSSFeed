@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin DeFi is on the rise 
-date: 2021-07-18 1626599855 
-categories: reddit 
---- 
-https://redd.it/omn7n4

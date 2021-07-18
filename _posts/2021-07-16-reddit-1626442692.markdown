@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ZEDEDA Joins Initiative to Deliver Applications to the Distributed Edge with Google Cloud and Anthos | Business Wire 
-date: 2021-07-16 1626442692 
-categories: reddit 
---- 
-https://redd.it/olh0wb

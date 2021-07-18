@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @naturalbabes 
-date: 2021-07-16 22:00:45 
-categories: twitter 
---- 
-RT @nope_its_lily: ok, what coins will not be here next cycle

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Running a node on Oasis is easy and there are rewards of up to 20% depending on the length of time staked to help secure the network! Join the list of reputable, decentralized pool of validator nodes and support the growth of the network 
-date: 2021-07-17 1626512501 
-categories: reddit 
---- 
-https://redd.it/om0rc3

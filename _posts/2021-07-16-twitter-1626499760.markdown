@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1GazaDon 
-date: 2021-07-16 22:29:20 
-categories: twitter 
---- 
-@nope_its_lily Its the nerdier version of chess, if that's possible.

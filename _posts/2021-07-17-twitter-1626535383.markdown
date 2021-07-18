@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @patty_fi 
-date: 2021-07-17 08:23:03 
-categories: twitter 
---- 
-@nope_its_lily Hopefully fkng hex and ada will still be working on being useless

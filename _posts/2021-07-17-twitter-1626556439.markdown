@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @keithlaw32 
-date: 2021-07-17 14:13:59 
-categories: twitter 
---- 
-@InvestorsLive Warren buffett always says the guy that wins the auction is actually the loser

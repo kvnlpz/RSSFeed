@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markflowchatter 
-date: 2021-07-16 15:06:54 
-categories: twitter 
---- 
-@InvestorsLive Good to see you reppin' the next huge IPO

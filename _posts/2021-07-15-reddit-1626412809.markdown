@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stellar Development Foundation Q2 in Review - SDF Blog 
-date: 2021-07-15 1626412809 
-categories: reddit 
---- 
-https://redd.it/ola9kz

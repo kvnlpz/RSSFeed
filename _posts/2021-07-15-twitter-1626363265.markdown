@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Spartanfan171 
-date: 2021-07-15 08:34:25 
-categories: twitter 
---- 
-@InvestorsLive @Qullamaggie https://t.co/RMwqgr1sLV

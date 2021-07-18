@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RaphaRCarvalho 
-date: 2021-07-15 04:54:41 
-categories: twitter 
---- 
-RT @InvestorsLive: Now you see the bid, now you don't. 
-
-Harry $HUDI'ni

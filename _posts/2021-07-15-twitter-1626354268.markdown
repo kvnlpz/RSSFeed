@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BomsteinRick 
-date: 2021-07-15 06:04:28 
-categories: twitter 
---- 
-RT @nope_its_lily: Every time I talk about the damage of  many meme stock influencers, I’m called some choice words. I’ve talked about it b…

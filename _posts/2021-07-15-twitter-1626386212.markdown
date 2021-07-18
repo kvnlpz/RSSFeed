@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scalperryan 
-date: 2021-07-15 14:56:52 
-categories: twitter 
---- 
-RT @InvestorsLive: How I manage my swing trades 📈 https://t.co/7KfwyUxpLK

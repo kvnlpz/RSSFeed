@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RyanTPark 
-date: 2021-07-17 10:03:48 
-categories: twitter 
---- 
-@nope_its_lily Tell me my retarded calls will print thx

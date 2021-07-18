@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @waldo_iii 
-date: 2021-07-16 11:22:27 
-categories: twitter 
---- 
-@super_trades $VRAR is the play. Thanks for alerting!

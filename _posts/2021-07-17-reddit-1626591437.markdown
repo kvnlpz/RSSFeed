@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Harmony Announces $1M Hackathon to Bridge TradFi and DeFi 
-date: 2021-07-17 1626591437 
-categories: reddit 
---- 
-https://redd.it/omlivr

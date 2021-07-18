@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Converting ewallets (Venmo,PayPal,Apple Pay) to btc. Is there a good place to find people looking to liquidate their btc (aside from paxful)? 
-date: 2021-07-17 1626526784 
-categories: reddit 
---- 
-https://redd.it/om3rv3

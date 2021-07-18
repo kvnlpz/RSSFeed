@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Geomike10 
-date: 2021-07-15 11:17:39 
-categories: twitter 
---- 
-@InvestorsLive Beach time 👍

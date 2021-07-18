@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alishmaisani 
-date: 2021-07-15 20:34:45 
-categories: twitter 
---- 
-@nope_its_lily @valueterminal Challenge accepted....you single?

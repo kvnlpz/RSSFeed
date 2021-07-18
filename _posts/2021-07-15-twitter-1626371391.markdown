@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @swedepilot 
-date: 2021-07-15 10:49:51 
-categories: twitter 
---- 
-@OddStockTrader Are you thinking in terms of pesos?

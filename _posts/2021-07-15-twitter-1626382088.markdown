@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GTwittle 
-date: 2021-07-15 13:48:08 
-categories: twitter 
---- 
-@InvestorsLive $AMC Wickfill on the big fat gap yesterday- today's spike was an easy call :)

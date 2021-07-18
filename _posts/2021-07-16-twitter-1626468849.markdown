@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @salr_nyc 
-date: 2021-07-16 13:54:09 
-categories: twitter 
---- 
-@nope_its_lily @macrocephalopod The B level is faster in UK, and you might be more advanced than typical US by a bi… https://t.co/qYqhtESzTG

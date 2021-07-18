@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How nodes decide nonce for a block? 
-date: 2021-07-16 1626447589 
-categories: reddit 
---- 
-https://redd.it/olijgk

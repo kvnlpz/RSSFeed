@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Monaco_Kini 
-date: 2021-07-17 00:10:27 
-categories: twitter 
---- 
-RT @MikeBellafiore: The work you are doing to shape the trader your are becoming is more important than the trader you are.

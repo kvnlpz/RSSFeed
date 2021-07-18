@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NEM, Augur and District0x price push higher while Bitcoin trades below $32K 
-date: 2021-07-16 1626486013 
-categories: reddit 
---- 
-https://redd.it/oluuif

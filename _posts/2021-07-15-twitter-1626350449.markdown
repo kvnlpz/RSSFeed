@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JasonHa12105149 
-date: 2021-07-15 05:00:49 
-categories: twitter 
---- 
-@InvestorsLive Just to clarify, are you bearish or bullish on this right now?

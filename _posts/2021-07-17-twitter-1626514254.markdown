@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jayfintwit 
-date: 2021-07-17 02:30:54 
-categories: twitter 
---- 
-@nope_its_lily I like programming but don't brush my teeth. Checkmate

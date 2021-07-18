@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @weston_moore 
-date: 2021-07-15 15:41:21 
-categories: twitter 
---- 
-@nope_its_lily @choffstein Ruthless

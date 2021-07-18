@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yoroi with ledger?? 
-date: 2021-07-17 1626542838 
-categories: reddit 
---- 
-https://redd.it/om8n2x

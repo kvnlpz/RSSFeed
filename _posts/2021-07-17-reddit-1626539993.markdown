@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When your stack protects itself, jk. Just some new and old pours 
-date: 2021-07-17 1626539993 
-categories: reddit 
---- 
-https://redd.it/om7ps9

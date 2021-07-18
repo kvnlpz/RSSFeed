@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My position. Hodl. 
-date: 2021-07-16 1626497818 
-categories: reddit 
---- 
-https://redd.it/olxrcj

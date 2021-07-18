@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trumanshow 
-date: 2021-07-16 22:33:06 
-categories: twitter 
---- 
-@nope_its_lily perhaps a better analogy would be people who enjoy working on automobiles. it requires skill and has… https://t.co/WXW9lK69Eq

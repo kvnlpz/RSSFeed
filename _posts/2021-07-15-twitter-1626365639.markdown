@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @adstalker22 
-date: 2021-07-15 09:13:59 
-categories: twitter 
---- 
-RT @alphatrends: The market is extended, breadth is bad, that doesn't mean we're about to suffer a large decline (but anything is possible)…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Number of validators in the UNL published by the XRPL foundation is now 40. ( 3 new validators added and 2 removed ) 
-date: 2021-07-17 1626517698 
-categories: reddit 
---- 
-https://redd.it/om1qfi

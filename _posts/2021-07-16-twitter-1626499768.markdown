@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 22:29:28 
-categories: twitter 
---- 
-@Chookchook11 Yeah I like the part of building cool things and solving interesting problems, but I’ve just never be… https://t.co/yR2aLA7gHf

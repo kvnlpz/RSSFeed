@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MicheleTxshell 
-date: 2021-07-16 16:39:44 
-categories: twitter 
---- 
-@InvestorsLive Was thinking “ crap”, but luckily my sell order apparently filled today when I was not looking.

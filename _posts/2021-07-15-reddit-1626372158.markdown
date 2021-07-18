@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bull or Bear? 
-date: 2021-07-15 1626372158 
-categories: reddit 
---- 
-https://redd.it/okya4a

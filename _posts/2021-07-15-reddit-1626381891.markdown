@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A cautionary tale of lazy developers 
-date: 2021-07-15 1626381891 
-categories: reddit 
---- 
-https://redd.it/ol1jaj

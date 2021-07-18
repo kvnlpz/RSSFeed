@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @baz_star 
-date: 2021-07-16 20:48:26 
-categories: twitter 
---- 
-@nope_its_lily @0xElm0 And $BNB?

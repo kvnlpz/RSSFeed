@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stocksstudent1 
-date: 2021-07-16 14:46:14 
-categories: twitter 
---- 
-@timothysykes 📚🚀

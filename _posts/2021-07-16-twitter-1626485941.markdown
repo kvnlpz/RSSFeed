@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ES_F_Leo 
-date: 2021-07-16 18:39:01 
-categories: twitter 
---- 
-@nope_its_lily @sanntrades Nope

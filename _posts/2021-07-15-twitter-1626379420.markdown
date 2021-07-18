@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stonkbonk1 
-date: 2021-07-15 13:03:40 
-categories: twitter 
---- 
-@timothysykes I'm up 95% on cciv and ccivw/s and ozsc. I didn't get the others.

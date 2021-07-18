@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hendrikinvestor 
-date: 2021-07-17 00:09:05 
-categories: twitter 
---- 
-@nope_its_lily 'Merica is the only country on the planet that ties your health insurance to your employment.

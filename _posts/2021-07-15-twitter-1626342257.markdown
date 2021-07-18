@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RaysHereFolks 
-date: 2021-07-15 02:44:17 
-categories: twitter 
---- 
-@nope_its_lily Iluka

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a question for the developers here 
-date: 2021-07-18 1626597888 
-categories: reddit 
---- 
-https://redd.it/ommtil

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Custom langauges for smart contracts 
-date: 2021-07-16 1626423042 
-categories: reddit 
---- 
-https://redd.it/olcgnb

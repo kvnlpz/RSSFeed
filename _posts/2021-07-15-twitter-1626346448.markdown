@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DreyLegkiy 
-date: 2021-07-15 03:54:08 
-categories: twitter 
---- 
-@InvestorsLive More consistent than most humans.

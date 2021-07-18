@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scottybradford 
-date: 2021-07-15 21:17:15 
-categories: twitter 
---- 
-@OddStockTrader Holy shit.

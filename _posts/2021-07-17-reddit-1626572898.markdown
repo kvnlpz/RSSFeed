@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yield farming native coins. 
-date: 2021-07-17 1626572898 
-categories: reddit 
---- 
-https://redd.it/omh9eh

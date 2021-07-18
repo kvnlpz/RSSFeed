@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BitMain setting up mining training courses in the US 
-date: 2021-07-16 1626424776 
-categories: reddit 
---- 
-https://redd.it/olctac

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How quickly baseFeePerGas changes in EIP-1559 (gSheet and charts) 
-date: 2021-07-16 1626445898 
-categories: reddit 
---- 
-https://redd.it/olhzsq

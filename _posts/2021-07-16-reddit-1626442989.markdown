@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $MSPC question? 
-date: 2021-07-16 1626442989 
-categories: reddit 
---- 
-https://redd.it/olh3ts

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RalphClaytonUk 
-date: 2021-07-15 04:12:38 
-categories: twitter 
---- 
-@nope_its_lily #bitcoin

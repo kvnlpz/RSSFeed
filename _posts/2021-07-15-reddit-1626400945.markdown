@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best way to handle cryptocurrency taxes in the US? 
-date: 2021-07-15 1626400945 
-categories: reddit 
---- 
-https://redd.it/ol7681

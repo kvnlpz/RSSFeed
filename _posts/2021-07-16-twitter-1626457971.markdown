@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WallStChameleon 
-date: 2021-07-16 10:52:51 
-categories: twitter 
---- 
-@nope_its_lily Unless the futures curve is in backwardation right cuz how often do you get a VIX spike without the… https://t.co/4fVwOla7o3

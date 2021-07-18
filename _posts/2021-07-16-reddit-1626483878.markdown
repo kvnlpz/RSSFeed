@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Duckdice Gambling site now supports Cardano (Plus they have a free Cardano Faucet) 
-date: 2021-07-16 1626483878 
-categories: reddit 
---- 
-https://redd.it/oluajw

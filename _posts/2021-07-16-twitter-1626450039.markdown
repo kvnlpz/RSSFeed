@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 08:40:39 
-categories: twitter 
---- 
-A basic vol thread

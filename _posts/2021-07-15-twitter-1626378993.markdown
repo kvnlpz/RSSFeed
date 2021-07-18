@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @volatilitysmile 
-date: 2021-07-15 12:56:33 
-categories: twitter 
---- 
-@nope_its_lily Is this a 2 or are you happy to see me?

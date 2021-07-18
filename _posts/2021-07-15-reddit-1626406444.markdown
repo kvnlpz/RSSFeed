@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin as a Hyperobject 
-date: 2021-07-15 1626406444 
-categories: reddit 
---- 
-https://redd.it/ol8o9h

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlibadKE 
-date: 2021-07-15 03:02:10 
-categories: twitter 
---- 
-RT @modern_rock: Someone asked me a question that may benefit many so i thought i would detail it to him and share with everyone. Follow @m…

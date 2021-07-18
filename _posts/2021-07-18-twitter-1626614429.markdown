@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-18 06:20:29 
-categories: twitter 
---- 
-@CasualtyWar @TraderLion_ @RichardMoglen Thanks buddy, that is very kind of you!

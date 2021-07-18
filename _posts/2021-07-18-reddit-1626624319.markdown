@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Couldn't find a vector version of the color logo, so I made it myself 
-date: 2021-07-18 1626624319 
-categories: reddit 
---- 
-https://redd.it/omtecl

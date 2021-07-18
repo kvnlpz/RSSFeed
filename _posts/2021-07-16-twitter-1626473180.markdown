@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kyv123 
-date: 2021-07-16 15:06:20 
-categories: twitter 
---- 
-@timothysykes Are you primarily a day trader?no swing trades for you?

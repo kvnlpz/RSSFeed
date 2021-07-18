@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Taproot: Bitcoin's First Upgrade in Four Years 
-date: 2021-07-18 1626625998 
-categories: reddit 
---- 
-https://redd.it/omtyl3

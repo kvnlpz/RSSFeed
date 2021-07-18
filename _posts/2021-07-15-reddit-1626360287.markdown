@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: OpenSea stores NFTs with IPFS and Filecoin 
-date: 2021-07-15 1626360287 
-categories: reddit 
---- 
-https://redd.it/oku9kj

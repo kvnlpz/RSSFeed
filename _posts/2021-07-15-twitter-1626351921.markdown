@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SstyleF 
-date: 2021-07-15 05:25:21 
-categories: twitter 
---- 
-@InvestorsLive I missed this one

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @backyardshaper 
-date: 2021-07-15 20:42:57 
-categories: twitter 
---- 
-@nope_its_lily Collectible pogs for sure

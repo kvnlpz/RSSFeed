@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CorsicaTrader 
-date: 2021-07-15 11:00:59 
-categories: twitter 
---- 
-@OddStockTrader Tickets are Meme stock price adjusted these days

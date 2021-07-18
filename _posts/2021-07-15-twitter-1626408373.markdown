@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChristopherADV 
-date: 2021-07-15 21:06:13 
-categories: twitter 
---- 
-@alphatrends @APompliano If you know you know. #b

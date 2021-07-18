@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How would you divide an investment between BTC and ETH? 
-date: 2021-07-15 1626366335 
-categories: reddit 
---- 
-https://redd.it/okwaxf

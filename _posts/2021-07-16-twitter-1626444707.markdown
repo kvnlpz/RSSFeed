@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scolaire42 
-date: 2021-07-16 07:11:47 
-categories: twitter 
---- 
-@nope_its_lily yes, but i'm smart

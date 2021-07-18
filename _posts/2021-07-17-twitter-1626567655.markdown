@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Topsandbottom4 
-date: 2021-07-17 17:20:55 
-categories: twitter 
---- 
-RT @InvestorsLive: What happens when they pull the goalie? 🥅 https://t.co/WnIPWyvqp6

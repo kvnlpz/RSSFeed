@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Taking profits from BTC/ETH 
-date: 2021-07-17 1626520578 
-categories: reddit 
---- 
-https://redd.it/om2as3

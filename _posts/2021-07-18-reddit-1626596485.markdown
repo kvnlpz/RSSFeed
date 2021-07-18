@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Improved the meme 
-date: 2021-07-18 1626596485 
-categories: reddit 
---- 
-https://redd.it/ommjr6

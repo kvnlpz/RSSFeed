@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dstibbard 
-date: 2021-07-15 20:10:28 
-categories: twitter 
---- 
-@nope_its_lily Under the mattress

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LeoCheMingChang 
-date: 2021-07-16 19:46:37 
-categories: twitter 
---- 
-RT @RayTL_: If you didn't make large progress past 33-35 days you are pushing hard for progress here while env isn't right. That's a typica…

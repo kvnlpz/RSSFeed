@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rezamentals 
-date: 2021-07-15 16:05:44 
-categories: twitter 
---- 
-@RayTL_ Every task seems simple

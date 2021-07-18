@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HenryCSung1 
-date: 2021-07-15 17:51:13 
-categories: twitter 
---- 
-RT @nope_its_lily: Clearly, what the AH Is telling us is that the new risk off trade is to short tech due to inflation and flight to safety…

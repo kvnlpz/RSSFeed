@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 20:51:20 
-categories: twitter 
---- 
-@valueterminal ok sorry i can't make self-deprecating jokes

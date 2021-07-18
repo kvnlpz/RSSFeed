@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If the database of the company providing an antivirus were to be hacked could your seedphrase be stolen? 
-date: 2021-07-18 1626628289 
-categories: reddit 
---- 
-https://redd.it/omuqug

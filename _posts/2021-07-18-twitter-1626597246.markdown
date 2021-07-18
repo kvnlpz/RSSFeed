@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mark14093264 
-date: 2021-07-18 01:34:06 
-categories: twitter 
---- 
-RT @LiveStreamFX1: This is true in trading as well @Canny4 @steenbab @MikeBellafiore https://t.co/mfOPUE5R0J

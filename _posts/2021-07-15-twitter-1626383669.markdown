@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sell_The_Rip 
-date: 2021-07-15 14:14:29 
-categories: twitter 
---- 
-@InvestorsLive VVOS

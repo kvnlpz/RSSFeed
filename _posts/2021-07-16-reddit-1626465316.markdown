@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Tutorial] How to set stop-loss order for options position based on the underlying's price (on Interactive Brokers) 
-date: 2021-07-16 1626465316 
-categories: reddit 
---- 
-https://redd.it/olonv7

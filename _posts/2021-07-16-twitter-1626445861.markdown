@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StevenMandrapa 
-date: 2021-07-16 07:31:01 
-categories: twitter 
---- 
-@nope_its_lily there would be an entire section of twitter dedicated to shorting it

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @napayton18 
-date: 2021-07-16 07:33:56 
-categories: twitter 
---- 
-RT @nope_its_lily: Some of the best advice I ever got was on how to make difficult decisions, like if you have two offers or two choices to…

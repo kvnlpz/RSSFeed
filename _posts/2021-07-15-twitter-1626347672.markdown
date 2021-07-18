@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yablo2004 
-date: 2021-07-15 04:14:32 
-categories: twitter 
---- 
-@nope_its_lily 9500 total stock market, 9500 small cap value, 9500 savings account, 9500 long term bond ETF, 9500 gold, 2500 Bitcoin

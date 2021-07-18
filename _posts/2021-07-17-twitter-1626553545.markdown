@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-17 13:25:45 
-categories: twitter 
---- 
-RT @tonyfigueira16: A superb addition to the Leadership Blueprints course. Within seconds of registering you get the email with the charts.…

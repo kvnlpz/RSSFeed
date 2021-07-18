@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My WSB experience so far 
-date: 2021-07-15 1626372952 
-categories: reddit 
---- 
-https://redd.it/okyjq5

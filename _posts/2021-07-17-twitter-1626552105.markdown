@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rudRudy 
-date: 2021-07-17 13:01:45 
-categories: twitter 
---- 
-@timothysykes Can't wait lol

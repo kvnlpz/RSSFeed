@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IKnwWhtBoDntKnw 
-date: 2021-07-15 11:17:43 
-categories: twitter 
---- 
-@OddStockTrader Historically $SPY fills gaps 100% of the time. Still gap to fill from 403.50 down to 400.70. That's… https://t.co/vemOmWD0qm

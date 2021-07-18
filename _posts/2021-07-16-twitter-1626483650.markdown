@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ErdemTheMan 
-date: 2021-07-16 18:00:50 
-categories: twitter 
---- 
-@InvestorsLive Trusting the recipe! It’s a matter of time.

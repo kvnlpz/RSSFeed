@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZacharyAJohnson 
-date: 2021-07-15 08:19:46 
-categories: twitter 
---- 
-@nope_its_lily I’m buying jarrahdale pumpkin seeds

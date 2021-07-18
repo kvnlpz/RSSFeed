@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Bitcoin Standard book 
-date: 2021-07-15 1626358939 
-categories: reddit 
---- 
-https://redd.it/okskpd

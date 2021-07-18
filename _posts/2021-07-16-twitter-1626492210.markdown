@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeBeIIafiore 
-date: 2021-07-16 20:23:30 
-categories: twitter 
---- 
-RT @MikeBellafiore: We are looking to hire an artist to paint some of the walls in our new trading office or create paintings to hang.  If…

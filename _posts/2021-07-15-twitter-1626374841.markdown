@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @barrelfiend 
-date: 2021-07-15 11:47:21 
-categories: twitter 
---- 
-@InvestorsLive On a real note I heard these chairs are amazing for posture control - https://t.co/GW1H0ZvBws

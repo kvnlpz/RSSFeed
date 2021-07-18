@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano Alonzo Blue Testnet Hard Fork Is Done, White’s Next 
-date: 2021-07-16 1626429121 
-categories: reddit 
---- 
-https://redd.it/oldpdw

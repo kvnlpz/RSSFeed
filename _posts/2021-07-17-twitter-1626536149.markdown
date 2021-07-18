@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jscherniack 
-date: 2021-07-17 08:35:49 
-categories: twitter 
---- 
-RT @InvestorsLive: @jscherniack So you're bullish $DOGE?

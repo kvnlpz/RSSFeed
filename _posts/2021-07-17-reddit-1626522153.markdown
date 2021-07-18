@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cloud mining 
-date: 2021-07-17 1626522153 
-categories: reddit 
---- 
-https://redd.it/om2nfo

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking for ways to contribute to a Monero project? Haveno is looking for an experienced lead designer! 
-date: 2021-07-17 1626510852 
-categories: reddit 
---- 
-https://redd.it/olzu3n

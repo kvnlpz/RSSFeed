@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mikevanbus 
-date: 2021-07-15 10:51:03 
-categories: twitter 
---- 
-@nope_its_lily My hand barely listens to my brain anymore when trying to make paper words

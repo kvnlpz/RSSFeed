@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible to burn our own XLM? 
-date: 2021-07-17 1626558902 
-categories: reddit 
---- 
-https://redd.it/omdmnb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shortsRbent 
-date: 2021-07-15 12:01:49 
-categories: twitter 
---- 
-@InvestorsLive Yup, nailed it as well 👌

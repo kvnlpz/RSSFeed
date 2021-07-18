@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Register to vote and shape the future of Cardano! 
-date: 2021-07-15 1626392407 
-categories: reddit 
---- 
-https://redd.it/ol4sbl

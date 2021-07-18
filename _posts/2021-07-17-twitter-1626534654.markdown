@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-17 08:10:54 
-categories: twitter 
---- 
-Also I think the fundamental difference is an academic paper versus a primer. An academic paper in general needs to… https://t.co/wrfGIhiNbc

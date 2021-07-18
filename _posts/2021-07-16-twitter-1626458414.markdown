@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:00:14 
-categories: twitter 
---- 
-RT @kroyrunner89: My whole trading career I've relied on basic support/resistance/volume for technical analysis, with a little vwap mixed i…

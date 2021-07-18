@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano Successfully Deploys Alonzo White Hard Fork 
-date: 2021-07-15 1626344149 
-categories: reddit 
---- 
-https://redd.it/okpxig

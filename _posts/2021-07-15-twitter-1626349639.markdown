@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-15 04:47:19 
-categories: twitter 
---- 
-Now you see the bid, now you don't. 
-
-Harry $HUDI'ni

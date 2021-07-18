@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @somermike 
-date: 2021-07-15 19:33:08 
-categories: twitter 
---- 
-@thehonestcroock @timothysykes $AMC is such a terd

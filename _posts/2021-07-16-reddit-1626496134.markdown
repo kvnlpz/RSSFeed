@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blog and discussion site for Crypto not from experts but from Us normal folks 
-date: 2021-07-16 1626496134 
-categories: reddit 
---- 
-https://redd.it/olxdva

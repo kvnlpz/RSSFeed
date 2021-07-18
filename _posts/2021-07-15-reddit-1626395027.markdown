@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Am I doing this math right? A 73% win rate, 6.6% average win, 5.5% average loss, would return 2300% over 100 trades using 1x leverage on every trade? 
-date: 2021-07-15 1626395027 
-categories: reddit 
---- 
-https://redd.it/ol5jgx

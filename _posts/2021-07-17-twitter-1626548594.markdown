@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-17 12:03:14 
-categories: twitter 
---- 
-@TraderLion_ @PatternProfits https://t.co/hfkHTrIK6o

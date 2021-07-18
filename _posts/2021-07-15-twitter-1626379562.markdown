@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pnani456 
-date: 2021-07-15 13:06:02 
-categories: twitter 
---- 
-RT @TraderTexMex: $CRVS Corvus Pharmaceuticals Discontinues Phase 3 Study of Mupadolimab (Anti-CD73) for COVID-19 Due to Vaccine Effectiven…

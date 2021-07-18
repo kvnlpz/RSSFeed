@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The difference between Bitcoin and XRP 
-date: 2021-07-17 1626538063 
-categories: reddit 
---- 
-https://redd.it/om746o

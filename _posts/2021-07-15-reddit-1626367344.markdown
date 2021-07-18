@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What revenue do Chainlink projects create? 
-date: 2021-07-15 1626367344 
-categories: reddit 
---- 
-https://redd.it/okwnbx

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hayafirst 
-date: 2021-07-16 11:52:01 
-categories: twitter 
---- 
-@muddywatersre I’m happy either way

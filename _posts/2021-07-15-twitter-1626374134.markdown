@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrklondike1 
-date: 2021-07-15 11:35:34 
-categories: twitter 
---- 
-@OddStockTrader I have a feeling anything you buy on Amazon there is a 50/50 chance it’s the original brand and not a knock off.

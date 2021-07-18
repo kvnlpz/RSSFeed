@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Start an open convo 
-date: 2021-07-15 1626393659 
-categories: reddit 
---- 
-https://redd.it/ol55j4

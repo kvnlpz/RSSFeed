@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CervelloTrades 
-date: 2021-07-17 17:29:15 
-categories: twitter 
---- 
-@InvestorsLive How some stocks have a catalyst, low float, and volume prediction set to surpass previous high of da… https://t.co/MNgmH1TU9G

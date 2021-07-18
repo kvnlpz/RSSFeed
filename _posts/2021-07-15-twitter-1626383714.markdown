@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @notseriousknown 
-date: 2021-07-15 14:15:14 
-categories: twitter 
---- 
-@InvestorsLive $TUP short pitch. TP 14.00 https://t.co/GMAYh0acbd

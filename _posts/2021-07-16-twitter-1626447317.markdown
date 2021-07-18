@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ptrotrdr 
-date: 2021-07-16 07:55:17 
-categories: twitter 
---- 
-@modern_rock It may have been unfortunetely named but the idea behind it makes sense.

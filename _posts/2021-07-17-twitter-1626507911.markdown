@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @llc_beans 
-date: 2021-07-17 00:45:11 
-categories: twitter 
---- 
-@nope_its_lily Yikes... someone's lacking in imagination...

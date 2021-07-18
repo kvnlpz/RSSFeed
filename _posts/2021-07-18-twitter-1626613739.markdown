@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KianoushAbolha1 
-date: 2021-07-18 06:08:59 
-categories: twitter 
---- 
-@timothysykes Morning, which continent are you at now? Lol

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MunyariShepard 
-date: 2021-07-17 13:16:34 
-categories: twitter 
---- 
-@InvestorsLive Great read

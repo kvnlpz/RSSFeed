@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are we going to talk about Loopring's beautiful web3 Dapp browser built into its mobile app? 
-date: 2021-07-15 1626385356 
-categories: reddit 
---- 
-https://redd.it/ol2nzz

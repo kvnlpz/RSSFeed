@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Emeris: One dashboard to Rule them All 
-date: 2021-07-16 1626452294 
-categories: reddit 
---- 
-https://redd.it/olk57v

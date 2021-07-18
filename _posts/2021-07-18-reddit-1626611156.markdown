@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: e-Money Brings European Stablecoins on Polygon Network 
-date: 2021-07-18 1626611156 
-categories: reddit 
---- 
-https://redd.it/ompkm2

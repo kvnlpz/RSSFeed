@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Chiplis_ 
-date: 2021-07-16 08:13:25 
-categories: twitter 
---- 
-@nope_its_lily Do you know how those models perform when VIX is particularly high? Say, ~Corona levels?

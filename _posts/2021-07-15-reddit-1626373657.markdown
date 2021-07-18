@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can we at least try to spell correctly? "Why Bitcoin, Dogecoin, and Etherium Crashed Today" 
-date: 2021-07-15 1626373657 
-categories: reddit 
---- 
-https://redd.it/okyshj

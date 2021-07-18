@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-18 11:57:13 
-categories: twitter 
---- 
-Have a great Sunday 💪

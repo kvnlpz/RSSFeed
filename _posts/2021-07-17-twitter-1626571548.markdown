@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-17 18:25:48 
-categories: twitter 
---- 
-Tell me what you look like without telling me what you look like
-
-#tradingIsEasy https://t.co/VcbIwQDkEI

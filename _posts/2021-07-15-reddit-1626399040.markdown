@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here’s what our community has achieved 
-date: 2021-07-15 1626399040 
-categories: reddit 
---- 
-https://redd.it/ol6ntl

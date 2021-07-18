@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Mining Gets 5% Easier in Latest Difficulty Drop 
-date: 2021-07-18 1626613372 
-categories: reddit 
---- 
-https://redd.it/omq3wi

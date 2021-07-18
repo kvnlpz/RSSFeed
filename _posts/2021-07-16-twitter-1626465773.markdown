@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mr_Robot_Tradez 
-date: 2021-07-16 13:02:53 
-categories: twitter 
---- 
-@nope_its_lily These are a lot of smart person words

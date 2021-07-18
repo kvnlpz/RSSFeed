@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Doctabones 
-date: 2021-07-15 19:10:40 
-categories: twitter 
---- 
-@nope_its_lily @JessicaNutt96 https://t.co/bxBeecEnDb

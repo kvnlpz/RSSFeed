@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @capitalemployed 
-date: 2021-07-16 20:49:25 
-categories: twitter 
---- 
-@nope_its_lily US Dollar, Euro, Yen, Renminbi, Pound Sterling, list goes on... 🙃

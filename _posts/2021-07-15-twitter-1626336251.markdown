@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @drpps 
-date: 2021-07-15 01:04:11 
-categories: twitter 
---- 
-@nope_its_lily Buy a Zeiss Ophthalmic Microscope Lumira 300 or 700.

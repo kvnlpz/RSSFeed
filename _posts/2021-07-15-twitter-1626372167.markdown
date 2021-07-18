@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marketsgeek 
-date: 2021-07-15 11:02:47 
-categories: twitter 
---- 
-@nope_its_lily meanwhile I am trying.. https://t.co/1eyia0jJEu

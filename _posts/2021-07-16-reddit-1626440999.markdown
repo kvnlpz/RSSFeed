@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vault Disappeared from Options 
-date: 2021-07-16 1626440999 
-categories: reddit 
---- 
-https://redd.it/olgjzy

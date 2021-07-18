@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 👀 Shots Fired! 
-date: 2021-07-16 1626479358 
-categories: reddit 
---- 
-https://redd.it/olt2ja

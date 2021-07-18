@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: bitcoin 
-date: 2021-07-18 1626596748 
-categories: reddit 
---- 
-https://redd.it/ommll3

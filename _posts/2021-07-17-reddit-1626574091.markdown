@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Newbie question : do crypto wallets have the option of setting up a 2factor authentication ? 
-date: 2021-07-17 1626574091 
-categories: reddit 
---- 
-https://redd.it/omhjv6

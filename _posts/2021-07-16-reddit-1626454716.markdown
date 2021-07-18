@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Green and red lines on the bottom of the charts? 
-date: 2021-07-16 1626454716 
-categories: reddit 
---- 
-https://redd.it/olkznb

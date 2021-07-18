@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jmook12 
-date: 2021-07-15 11:11:20 
-categories: twitter 
---- 
-@OddStockTrader Sorry I jinxed them

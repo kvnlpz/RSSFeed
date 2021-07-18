@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Newb questions 
-date: 2021-07-15 1626345466 
-categories: reddit 
---- 
-https://redd.it/okq7mt

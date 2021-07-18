@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @closingbasis 
-date: 2021-07-15 20:36:53 
-categories: twitter 
---- 
-@nope_its_lily @valueterminal Oh and.... https://t.co/HNl31zN5XG

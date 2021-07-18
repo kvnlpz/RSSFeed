@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to recover from a stolen seed? 
-date: 2021-07-18 1626627319 
-categories: reddit 
---- 
-https://redd.it/omuexi

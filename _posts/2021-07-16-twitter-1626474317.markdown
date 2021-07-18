@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @colelchris 
-date: 2021-07-16 15:25:17 
-categories: twitter 
---- 
-@nope_its_lily Are you really subtweeting @coloradotravis if everyone knows it’s about him?

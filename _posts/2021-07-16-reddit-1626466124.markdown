@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Question About repositioning 
-date: 2021-07-16 1626466124 
-categories: reddit 
---- 
-https://redd.it/oloxbg

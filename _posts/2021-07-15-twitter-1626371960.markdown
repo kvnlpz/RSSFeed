@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stephendhooge 
-date: 2021-07-15 10:59:20 
-categories: twitter 
---- 
-@timothysykes Hey Tim, How do you find recognize promoters?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit username on verified creator account channel shows up wrong when trying to tip 
-date: 2021-07-16 1626504373 
-categories: reddit 
---- 
-https://redd.it/olz6h3

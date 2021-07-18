@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let’s say I’ve found a stock I like. 
-date: 2021-07-16 1626496268 
-categories: reddit 
---- 
-https://redd.it/olxey4

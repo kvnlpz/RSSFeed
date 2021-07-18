@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-15 15:09:28 
-categories: twitter 
---- 
-@WakeBets Probably builds a space station to block out parts of the sunlight that lands on earth.
-
-Rendering panels useless lol

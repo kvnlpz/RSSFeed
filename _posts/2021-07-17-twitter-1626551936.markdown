@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CherylCzerwins1 
-date: 2021-07-17 12:58:56 
-categories: twitter 
---- 
-@timothysykes Putting in some hours over the weekend.

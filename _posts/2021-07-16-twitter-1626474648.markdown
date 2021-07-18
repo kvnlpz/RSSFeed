@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jmftattoo 
-date: 2021-07-16 15:30:48 
-categories: twitter 
---- 
-@modern_rock https://t.co/1nIFRoc7ur

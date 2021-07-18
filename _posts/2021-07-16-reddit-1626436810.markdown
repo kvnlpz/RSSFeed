@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Losing my mind with electrum 
-date: 2021-07-16 1626436810 
-categories: reddit 
---- 
-https://redd.it/olfg0j

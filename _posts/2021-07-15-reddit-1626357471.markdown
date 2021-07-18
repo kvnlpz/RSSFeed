@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moon Maths 
-date: 2021-07-15 1626357471 
-categories: reddit 
---- 
-https://redd.it/oktdih

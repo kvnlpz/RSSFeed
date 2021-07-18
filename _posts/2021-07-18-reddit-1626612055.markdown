@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What am I doing wrong? 
-date: 2021-07-18 1626612055 
-categories: reddit 
---- 
-https://redd.it/omps2h

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-15 10:20:44 
-categories: twitter 
---- 
-https://t.co/reUDgrd08s CLASSIC https://t.co/aICa7zhCLS here

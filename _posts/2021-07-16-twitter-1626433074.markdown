@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @opposite_george 
-date: 2021-07-16 03:57:54 
-categories: twitter 
---- 
-@super_trades I’ve tried yelling at stocks to go up. Works sometimes.

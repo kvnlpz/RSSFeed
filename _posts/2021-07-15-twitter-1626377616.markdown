@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-15 12:33:36 
-categories: twitter 
---- 
-$JSDA biggest volume day in nearly 9 years off CBD news. https://t.co/J8Adr2ymMv

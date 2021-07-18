@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bangatrader 
-date: 2021-07-15 09:04:35 
-categories: twitter 
---- 
-@alphatrends I would like to see indices hold and digest the move and correct via time not by price. That will be a… https://t.co/dw8BnHYZNa

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Finally have .0000001 eth 
-date: 2021-07-17 1626572996 
-categories: reddit 
---- 
-https://redd.it/omha8r

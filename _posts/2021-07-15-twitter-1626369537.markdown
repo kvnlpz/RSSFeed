@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gambiste1 
-date: 2021-07-15 10:18:57 
-categories: twitter 
---- 
-RT @InvestorsLive: $DTSS almost round trip

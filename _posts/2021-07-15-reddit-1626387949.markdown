@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How much crypto is reasonable to store on an exchange? When do you move to a cold wallet? 
-date: 2021-07-15 1626387949 
-categories: reddit 
---- 
-https://redd.it/ol3gxi

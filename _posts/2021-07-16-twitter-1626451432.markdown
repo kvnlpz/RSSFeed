@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vwapnation 
-date: 2021-07-16 09:03:52 
-categories: twitter 
---- 
-RT @alphatrends: near term path of least resistance is lower
-$SPY trying to hold MTD VWAP but not too convincing of an attempt https://t.co…

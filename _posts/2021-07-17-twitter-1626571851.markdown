@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jags239 
-date: 2021-07-17 18:30:51 
-categories: twitter 
---- 
-@InvestorsLive Kids?

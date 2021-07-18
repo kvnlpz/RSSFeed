@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LDrogen 
-date: 2021-07-16 22:12:02 
-categories: twitter 
---- 
-@alphatrends Same issue as indoor roomba, that thing will chew up your harden hose in the lawn

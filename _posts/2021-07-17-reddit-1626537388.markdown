@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hash rate 
-date: 2021-07-17 1626537388 
-categories: reddit 
---- 
-https://redd.it/om2z7s

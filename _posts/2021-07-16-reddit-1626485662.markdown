@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nice 
-date: 2021-07-16 1626485662 
-categories: reddit 
---- 
-https://redd.it/olurbk

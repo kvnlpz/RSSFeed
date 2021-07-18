@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ImRexo 
-date: 2021-07-15 04:56:43 
-categories: twitter 
---- 
-@nope_its_lily Toyota Corolla

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-15 07:19:28 
-categories: twitter 
---- 
-$AURI Inc to become fully reporting company on OTC

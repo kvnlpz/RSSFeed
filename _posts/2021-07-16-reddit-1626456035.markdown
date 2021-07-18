@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The case for using bits and sats 
-date: 2021-07-16 1626456035 
-categories: reddit 
---- 
-https://redd.it/ollgbs

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @socko5012 
-date: 2021-07-17 09:52:55 
-categories: twitter 
---- 
-@muddywatersre Every day on the interstate is a million more negative encounters that almost kill you.

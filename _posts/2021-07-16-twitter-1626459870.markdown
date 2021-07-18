@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gilberto_TFC 
-date: 2021-07-16 11:24:30 
-categories: twitter 
---- 
-@super_trades $FTCV etoro is booming on revenues. Best YoY growth

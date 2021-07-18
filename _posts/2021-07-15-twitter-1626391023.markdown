@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Ryan94663315 
-date: 2021-07-15 16:17:03 
-categories: twitter 
---- 
-RT @super_trades: what he said : https://t.co/rvF7ubX3a9

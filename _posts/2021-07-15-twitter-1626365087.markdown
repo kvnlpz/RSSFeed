@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theamateurbball 
-date: 2021-07-15 09:04:47 
-categories: twitter 
---- 
-@nope_its_lily A pure math masters student that doesn't think coding is beneath him? Impressive

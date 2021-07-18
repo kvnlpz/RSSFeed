@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: this is the way? 
-date: 2021-07-17 1626535122 
-categories: reddit 
---- 
-https://redd.it/om67ca

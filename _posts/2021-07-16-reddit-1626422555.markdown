@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nice article about Brave on MakeUseOf 
-date: 2021-07-16 1626422555 
-categories: reddit 
---- 
-https://redd.it/okz68g

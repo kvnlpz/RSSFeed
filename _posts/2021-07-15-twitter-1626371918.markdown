@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 10:58:38 
-categories: twitter 
---- 
-@JohnSerwach fancy

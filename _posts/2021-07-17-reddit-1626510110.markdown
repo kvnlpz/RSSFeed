@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ways to keep you seed phrase (serious) 
-date: 2021-07-17 1626510110 
-categories: reddit 
---- 
-https://redd.it/om0b73

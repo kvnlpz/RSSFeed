@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HervTrades 
-date: 2021-07-16 13:24:48 
-categories: twitter 
---- 
-@InvestorsLive r/powerwashingporn right there

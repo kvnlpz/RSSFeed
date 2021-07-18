@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JacksonTimothyJ 
-date: 2021-07-16 09:21:49 
-categories: twitter 
---- 
-@RayTL_ What does env stand for?

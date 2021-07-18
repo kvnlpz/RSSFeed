@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bookazoid_ 
-date: 2021-07-17 05:52:50 
-categories: twitter 
---- 
-@InvestorsLive You should buy a boat https://t.co/T83l56nNa1

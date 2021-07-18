@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mmqq93 
-date: 2021-07-16 17:52:02 
-categories: twitter 
---- 
-@nope_its_lily Coffee is more important than dental insurance imho

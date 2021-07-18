@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dot Finance integrates Chainlink Price Feeds on BSC to power its DeFi yield aggregator solution. 
-date: 2021-07-15 1626356068 
-categories: reddit 
---- 
-https://redd.it/okog47

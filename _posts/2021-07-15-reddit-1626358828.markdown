@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I got into a dead end in a Bitcoin debate 
-date: 2021-07-15 1626358828 
-categories: reddit 
---- 
-https://redd.it/oktt0x

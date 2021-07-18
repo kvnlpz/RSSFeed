@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-16 15:15:21 
-categories: twitter 
---- 
-RT @StocksToTrade: Knowledge is the most valuable asset you will ever come across during the course of your life. Obtain and use it wisely

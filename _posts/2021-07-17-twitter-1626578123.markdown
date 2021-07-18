@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jcabrer 
-date: 2021-07-17 20:15:23 
-categories: twitter 
---- 
-@OddStockTrader Aaand it’s gone

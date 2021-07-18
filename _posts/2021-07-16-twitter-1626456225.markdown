@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HankMFRearden 
-date: 2021-07-16 10:23:45 
-categories: twitter 
---- 
-@nope_its_lily Current market forecast - much Visine needed.

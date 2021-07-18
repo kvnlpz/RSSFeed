@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hoffak2 
-date: 2021-07-16 20:21:42 
-categories: twitter 
---- 
-@nope_its_lily If this is true, not long before I become a millionaire

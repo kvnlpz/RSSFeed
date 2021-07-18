@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FridayOrange 
-date: 2021-07-15 13:22:32 
-categories: twitter 
---- 
-@super_trades ...and also from retail traders to insiders to a large extent

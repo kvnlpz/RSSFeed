@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Super_Tradies 
-date: 2021-07-16 10:19:17 
-categories: twitter 
---- 
-RT @super_trades: https://t.co/lQBcNCvy1S - Posted a New Video Lesson: Video #1291. Friday Video Update !!

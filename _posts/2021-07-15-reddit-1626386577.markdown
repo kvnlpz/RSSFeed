@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What software do you use to track your trades? 
-date: 2021-07-15 1626386577 
-categories: reddit 
---- 
-https://redd.it/ol31tw

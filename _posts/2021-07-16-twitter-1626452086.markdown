@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lukebrux 
-date: 2021-07-16 09:14:46 
-categories: twitter 
---- 
-RT @OddStockTrader: Well this is something... #Covid https://t.co/mfPIwqzI65

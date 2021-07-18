@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: i sold 
-date: 2021-07-17 1626534697 
-categories: reddit 
---- 
-https://redd.it/om4axl

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @swedepilot 
-date: 2021-07-17 15:05:44 
-categories: twitter 
---- 
-@InvestorsLive Come on down. Lol.

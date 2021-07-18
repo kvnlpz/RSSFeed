@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hootintooters1 
-date: 2021-07-16 05:12:15 
-categories: twitter 
---- 
-RT @TheIpHawk: A beautiful opex morning for stocks to ramp back to all time highs.

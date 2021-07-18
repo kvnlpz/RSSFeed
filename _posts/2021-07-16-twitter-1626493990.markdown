@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptorabbitt 
-date: 2021-07-16 20:53:10 
-categories: twitter 
---- 
-@nope_its_lily Does it beat buy and hold for 1 year with long term capital gains?

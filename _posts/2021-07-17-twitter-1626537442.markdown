@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-17 08:57:22 
-categories: twitter 
---- 
-@NeerajKA @eightsleep no you need to put #ad in this or the FCC is going to get you

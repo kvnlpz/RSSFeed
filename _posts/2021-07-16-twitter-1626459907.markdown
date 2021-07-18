@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-16 11:25:07 
-categories: twitter 
---- 
-RT @SeanNelsonPhoto: Caption this photo: 
-
-#fitnessmodel https://t.co/rCL4L8pk7X

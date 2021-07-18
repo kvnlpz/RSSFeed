@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theDebitDon 
-date: 2021-07-17 07:53:24 
-categories: twitter 
---- 
-@nope_its_lily How do u build it 🧐

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JustStocksToday 
-date: 2021-07-16 13:18:38 
-categories: twitter 
---- 
-RT @InvestorsLive: Is there anything more satisfying than this and leaf blowing? 😏 #SaltWaterAir https://t.co/62PDvBdHv2

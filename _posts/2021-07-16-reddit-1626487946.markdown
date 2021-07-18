@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ⟠ Latest Week in Ethereum News! 
-date: 2021-07-16 1626487946 
-categories: reddit 
---- 
-https://redd.it/olvcdq

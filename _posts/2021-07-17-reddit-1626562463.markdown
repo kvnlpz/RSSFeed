@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s your favorite deadcoin? 
-date: 2021-07-17 1626562463 
-categories: reddit 
---- 
-https://redd.it/omelbj

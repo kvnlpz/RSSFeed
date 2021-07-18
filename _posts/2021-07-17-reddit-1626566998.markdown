@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Expected Value 
-date: 2021-07-17 1626566998 
-categories: reddit 
---- 
-https://redd.it/omfshz

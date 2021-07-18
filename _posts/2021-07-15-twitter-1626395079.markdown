@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnthonyGasbarro 
-date: 2021-07-15 17:24:39 
-categories: twitter 
---- 
-RT @super_trades: follow the rules !!!  ignore the rules to your detriment !!!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-16 15:32:30 
-categories: twitter 
---- 
-RT @RolandWolf86: @modern_rock Bro you inspired me massively when I was getting started. Fuck the haters.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trading Question: Is it viable to keep piling into a long position to keep it from getting liquidated? Or is it usually better to close out? 
-date: 2021-07-16 1626453272 
-categories: reddit 
---- 
-https://redd.it/olkhlx

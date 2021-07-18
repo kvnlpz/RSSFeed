@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hard fork of Ethereum. Put all your erc-20 on your own wallet and you will get them copied on the Pulsechain. You never know if they will be of any value. But you can't lose on this 
-date: 2021-07-15 1626346292 
-categories: reddit 
---- 
-https://redd.it/okqe1b

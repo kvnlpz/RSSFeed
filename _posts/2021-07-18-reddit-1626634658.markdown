@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Newcomers FAQ - Please read! 
-date: 2021-07-18 1626634658 
-categories: reddit 
---- 
-https://redd.it/omwu51

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BullFlexDaily 
-date: 2021-07-15 05:24:17 
-categories: twitter 
---- 
-@InvestorsLive Smh…

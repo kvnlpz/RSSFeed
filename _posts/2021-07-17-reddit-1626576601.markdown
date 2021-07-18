@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Calculating tax burden of DeFi holdings? 
-date: 2021-07-17 1626576601 
-categories: reddit 
---- 
-https://redd.it/omi69n

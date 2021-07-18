@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnthonyLeeZhang 
-date: 2021-07-16 22:41:19 
-categories: twitter 
---- 
-@nope_its_lily I definitely don't like, for example, string handling in R, where there is absolutely no elegance in… https://t.co/TdrDaKEOF6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Augmented Finance to Source Data from Chainlink’s network 
-date: 2021-07-15 1626346884 
-categories: reddit 
---- 
-https://redd.it/okqiw8

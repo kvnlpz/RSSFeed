@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I didn't receive the correct number of moons 
-date: 2021-07-15 1626384339 
-categories: reddit 
---- 
-https://redd.it/ol2c5q

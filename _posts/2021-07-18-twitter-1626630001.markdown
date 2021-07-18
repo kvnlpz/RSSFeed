@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-18 10:40:01 
-categories: twitter 
---- 
-@TraderLion_ @RossHaber_ @RichardMoglen https://t.co/TDQqW7hyD0

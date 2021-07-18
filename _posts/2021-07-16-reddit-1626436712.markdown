@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stock ticker with company financials data 
-date: 2021-07-16 1626436712 
-categories: reddit 
---- 
-https://redd.it/olffa6

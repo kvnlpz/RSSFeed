@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cruzvzw 
-date: 2021-07-15 14:20:22 
-categories: twitter 
---- 
-@InvestorsLive I $WISH

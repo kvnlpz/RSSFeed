@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EMURGO: New update for Yoroi Wallet edge users 
-date: 2021-07-16 1626448329 
-categories: reddit 
---- 
-https://redd.it/olisk7

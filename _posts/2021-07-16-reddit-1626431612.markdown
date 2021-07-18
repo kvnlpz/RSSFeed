@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What Is Cardano’s Alonzo Rollout and What Does It Mean for Ethereum? - Decrypt 
-date: 2021-07-16 1626431612 
-categories: reddit 
---- 
-https://redd.it/ole8ec

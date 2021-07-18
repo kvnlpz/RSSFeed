@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @greenthumbtrade 
-date: 2021-07-18 09:43:47 
-categories: twitter 
---- 
-RT @super_trades: Great advice for life and stocks !!! Impressive !

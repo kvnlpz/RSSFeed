@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Health insurance 
-date: 2021-07-17 1626566607 
-categories: reddit 
---- 
-https://redd.it/omfomc

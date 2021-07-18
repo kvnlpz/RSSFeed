@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fxtech21 
-date: 2021-07-16 07:26:58 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/ukVKmL9TqA

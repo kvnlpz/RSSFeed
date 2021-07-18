@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are they up or are they down? 
-date: 2021-07-16 1626445942 
-categories: reddit 
---- 
-https://redd.it/oli02e

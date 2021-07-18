@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CharlieLucatero 
-date: 2021-07-16 17:51:53 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause All signed up. See you there Nate! 
-@albertoctrades... here's the code

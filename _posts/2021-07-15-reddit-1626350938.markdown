@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monero --> Bitcoin technical question 
-date: 2021-07-15 1626350938 
-categories: reddit 
---- 
-https://redd.it/okriix

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 13:07:52 
-categories: twitter 
---- 
-@Joe71452379 I'm sorry.

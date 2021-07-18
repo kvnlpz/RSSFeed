@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cambridge research shows that China's Bitcoin mining power fell by 40% before the crackdown, while the United States hash power has quadrupled 
-date: 2021-07-15 1626347470 
-categories: reddit 
---- 
-https://redd.it/okqnzc

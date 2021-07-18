@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VeryTraumatic 
-date: 2021-07-15 14:58:13 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/hFJfZ5ogjE

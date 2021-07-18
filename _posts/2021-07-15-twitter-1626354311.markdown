@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RumpleDumpski 
-date: 2021-07-15 06:05:11 
-categories: twitter 
---- 
-@thehonestcroock And when it bounces they all turn into “ToLd yoU sO”

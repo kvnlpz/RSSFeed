@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A proposal to move self-story posts to their own thread 
-date: 2021-07-18 1626618581 
-categories: reddit 
---- 
-https://redd.it/omrjma

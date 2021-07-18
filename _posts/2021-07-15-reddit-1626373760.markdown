@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Charles and Polymarket getting into it about smart contract deployment on Cardano 
-date: 2021-07-15 1626373760 
-categories: reddit 
---- 
-https://redd.it/okxdip

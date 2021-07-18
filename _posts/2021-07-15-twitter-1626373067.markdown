@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @augiemo32 
-date: 2021-07-15 11:17:47 
-categories: twitter 
---- 
-@timothysykes @Tvengineer12 The fuck is JB?

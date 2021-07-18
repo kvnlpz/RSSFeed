@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GoldmanAdvisor 
-date: 2021-07-15 07:43:51 
-categories: twitter 
---- 
-RT @OddStockTrader: ONLY TOOK THEM 3 Years $JSDA https://t.co/RN7MdaT0JI

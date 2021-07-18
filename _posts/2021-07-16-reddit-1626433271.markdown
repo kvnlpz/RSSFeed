@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When do NDX monthly options exp. ( non weeklys) 
-date: 2021-07-16 1626433271 
-categories: reddit 
---- 
-https://redd.it/oleljs

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin may do this now 
-date: 2021-07-17 1626577419 
-categories: reddit 
---- 
-https://redd.it/omido5

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0x_3b 
-date: 2021-07-16 22:35:42 
-categories: twitter 
---- 
-@nope_its_lily As a dev, I agree. If you like the syntactical nuances of code, chances are you’re paying too much a… https://t.co/zAUH0Ha98G

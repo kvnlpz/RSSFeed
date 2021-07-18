@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 18:22:10 
-categories: twitter 
---- 
-Some of the best advice I ever got was on how to make difficult decisions, like if you have two offers or two choic… https://t.co/dyNGFRgqBB

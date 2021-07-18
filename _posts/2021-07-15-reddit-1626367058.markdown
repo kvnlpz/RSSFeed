@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Good to see mainstream media covering cardano 
-date: 2021-07-15 1626367058 
-categories: reddit 
---- 
-https://redd.it/okwjp1

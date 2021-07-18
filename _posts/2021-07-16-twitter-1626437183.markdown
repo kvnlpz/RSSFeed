@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jsnone1 
-date: 2021-07-16 05:06:23 
-categories: twitter 
---- 
-@nope_its_lily @deeper_network because reasons

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Marty1117 
-date: 2021-07-18 00:45:29 
-categories: twitter 
---- 
-@timothysykes I also set a trading goal for the week of $1500!

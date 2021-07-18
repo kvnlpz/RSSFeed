@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Zacks_trades 
-date: 2021-07-15 17:24:59 
-categories: twitter 
---- 
-@InvestorsLive On days when your swing position is moving on volume, do you ever find yourself intra-day trading th… https://t.co/n1wEv0Lb5a

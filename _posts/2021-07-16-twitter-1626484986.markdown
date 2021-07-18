@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 18:23:06 
-categories: twitter 
---- 
-RT @OnrampAcademy: 🚨 THIS JUST IN 🚨
-
-Our Onramp Academy tools page now has a new look👀 and new functionalities🔥 to power your cryptoasset r…

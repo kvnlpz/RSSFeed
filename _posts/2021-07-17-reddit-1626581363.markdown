@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin sent problem 
-date: 2021-07-17 1626581363 
-categories: reddit 
---- 
-https://redd.it/omjbuz

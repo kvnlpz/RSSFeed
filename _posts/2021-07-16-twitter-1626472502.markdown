@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FitTrader2021 
-date: 2021-07-16 14:55:02 
-categories: twitter 
---- 
-RT @thehonestcroock: Yesssss $NVDA paying bills

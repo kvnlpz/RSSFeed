@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thinkornotswim 
-date: 2021-07-15 08:40:26 
-categories: twitter 
---- 
-@nope_its_lily Buy a small piece of land &amp; seeds/plant of tomato https://t.co/LM40CUt1Ts

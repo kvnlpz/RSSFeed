@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @therobotjames 
-date: 2021-07-16 18:36:24 
-categories: twitter 
---- 
-@nope_its_lily @goodalexander imagine writing code to short ripple

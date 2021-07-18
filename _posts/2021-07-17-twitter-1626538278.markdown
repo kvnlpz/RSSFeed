@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Dani50187744 
-date: 2021-07-17 09:11:18 
-categories: twitter 
---- 
-@InvestorsLive Discipline should probably be on that list

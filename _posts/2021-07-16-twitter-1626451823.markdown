@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pavanarise 
-date: 2021-07-16 09:10:23 
-categories: twitter 
---- 
-@RayTL_ Hi Ray, can you explain what is 90M IPO?

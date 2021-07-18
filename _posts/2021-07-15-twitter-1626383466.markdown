@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1nv3stor 
-date: 2021-07-15 14:11:06 
-categories: twitter 
---- 
-@timothysykes Completely agree! Right on @timothysykes !

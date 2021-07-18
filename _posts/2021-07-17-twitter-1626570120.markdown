@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-17 18:02:00 
-categories: twitter 
---- 
-@god_hedge https://t.co/b9jNB6Da0V

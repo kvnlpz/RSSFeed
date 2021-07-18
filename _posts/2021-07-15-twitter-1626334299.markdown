@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wavepalmeth 
-date: 2021-07-15 00:31:39 
-categories: twitter 
---- 
-@nope_its_lily yas queen

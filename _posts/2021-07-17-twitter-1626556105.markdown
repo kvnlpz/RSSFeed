@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-07-17 14:08:25 
-categories: twitter 
---- 
-RT @sosofancy: Excellent work by the @NewYorker to explain Sustainable and "ESG" ETFs to the general public 😂 https://t.co/VfuxC4CfaT

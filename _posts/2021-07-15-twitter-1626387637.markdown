@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodetrades 
-date: 2021-07-15 15:20:37 
-categories: twitter 
---- 
-https://t.co/eP8Hr5zAJR

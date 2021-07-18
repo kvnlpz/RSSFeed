@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When staking LPs do you still earn fees or do you only get your rewards? 
-date: 2021-07-15 1626374022 
-categories: reddit 
---- 
-https://redd.it/okywyi

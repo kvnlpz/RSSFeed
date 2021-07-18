@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mokojumby 
-date: 2021-07-16 20:37:29 
-categories: twitter 
---- 
-@nope_its_lily hopefully shiba but i think that's naive

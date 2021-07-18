@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stocks for BTC 
-date: 2021-07-15 1626371976 
-categories: reddit 
---- 
-https://redd.it/oky7lw

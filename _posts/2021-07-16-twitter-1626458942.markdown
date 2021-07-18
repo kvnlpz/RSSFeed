@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:09:02 
-categories: twitter 
---- 
-RT @kroyrunner89: not sure this will mean much for today anyway given the way they've supported it, but definitely a close watch for me int…

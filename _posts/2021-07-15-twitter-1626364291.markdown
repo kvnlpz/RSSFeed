@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 08:51:31 
-categories: twitter 
---- 
-@adeboom1 In general you'll be better off not fighting momentum

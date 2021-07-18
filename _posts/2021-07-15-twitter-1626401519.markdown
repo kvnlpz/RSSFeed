@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LifesABeta 
-date: 2021-07-15 19:11:59 
-categories: twitter 
---- 
-@nope_its_lily Ahhh shit here we go again

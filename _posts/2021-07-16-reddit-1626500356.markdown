@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This guys prediction seems happening 
-date: 2021-07-16 1626500356 
-categories: reddit 
---- 
-https://redd.it/olybu7

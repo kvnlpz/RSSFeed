@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "Looking at ways to add more anonymity to bitcoin" - Hal Finney only days after completing the first BTC transaction ever 
-date: 2021-07-15 1626347108 
-categories: reddit 
---- 
-https://redd.it/okqku6

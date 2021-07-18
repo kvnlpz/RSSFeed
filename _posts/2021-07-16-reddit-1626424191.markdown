@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone tell me what happened? I was trying to cash out 100$ but the 37$ I sent from trust wallet hasn’t shown up in coinbase 
-date: 2021-07-16 1626424191 
-categories: reddit 
---- 
-https://redd.it/olcp0q

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @unsettledSky 
-date: 2021-07-15 13:14:33 
-categories: twitter 
---- 
-@alphatrends How do technicians fit in liquidity into the chart. That continues to grow exponentially and appetite… https://t.co/hCSzoLQG7Z

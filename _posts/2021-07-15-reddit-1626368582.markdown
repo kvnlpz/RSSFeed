@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Opinion on Pivot Points 
-date: 2021-07-15 1626368582 
-categories: reddit 
---- 
-https://redd.it/okx2eg

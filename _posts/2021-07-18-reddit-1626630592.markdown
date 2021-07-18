@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum price forecasting. 2972 if we go up. 1282 if we go down. 
-date: 2021-07-18 1626630592 
-categories: reddit 
---- 
-https://redd.it/omvinl

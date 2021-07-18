@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_unknownartista 
-date: 2021-07-17 01:10:42 
-categories: twitter 
---- 
-RT @timothysykes: @StocksToTrade @TraderBryce NO FUCKEN DAYS OFF!

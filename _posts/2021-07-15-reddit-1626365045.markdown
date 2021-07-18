@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here's Who Successfully Attacked Bitcoin SV 
-date: 2021-07-15 1626365045 
-categories: reddit 
---- 
-https://redd.it/okviip

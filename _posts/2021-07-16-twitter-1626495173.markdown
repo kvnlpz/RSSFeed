@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MidwestHedgie 
-date: 2021-07-16 21:12:53 
-categories: twitter 
---- 
-@nope_its_lily Internal Medicine @ Uniformed Services University of the Health Sciences

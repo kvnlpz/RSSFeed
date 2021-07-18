@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bubeymiles21 
-date: 2021-07-17 08:18:18 
-categories: twitter 
---- 
-@nope_its_lily @shortablestocks @kerberos007 @TicTocTick We will see

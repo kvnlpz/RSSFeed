@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-15 07:57:33 
-categories: twitter 
---- 
-@RichardMoglen I'm coding a new chart titled "Momentum-Breadth" 🤷‍♂️

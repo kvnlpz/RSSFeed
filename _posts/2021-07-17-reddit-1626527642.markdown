@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin intrinsic Value. 
-date: 2021-07-17 1626527642 
-categories: reddit 
---- 
-https://redd.it/om40h8

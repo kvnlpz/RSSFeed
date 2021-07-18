@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodalexander 
-date: 2021-07-15 13:35:23 
-categories: twitter 
---- 
-@nope_its_lily @Post_Market @cap_zay in the depths of the abyss there is only book value and quarterly cash generation

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A new way to earn Cryptos! URL Shortener paying through PayPal and FaucetPay 
-date: 2021-07-17 1626532051 
-categories: reddit 
---- 
-https://redd.it/om59wo

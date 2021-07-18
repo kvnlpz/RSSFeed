@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ssoss911 
-date: 2021-07-16 19:02:08 
-categories: twitter 
---- 
-@muddywatersre If you survive, it must be a positive encounter.

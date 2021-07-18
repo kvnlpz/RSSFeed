@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @XGreat_Full 
-date: 2021-07-15 05:45:17 
-categories: twitter 
---- 
-RT @InvestorsLive: A good rule of thumb is if you can't talk about it at Thanksgiving dinner w/ the family saying YOU WHAT? You probably sh…

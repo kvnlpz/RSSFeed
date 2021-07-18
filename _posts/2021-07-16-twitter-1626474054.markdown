@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-16 15:20:54 
-categories: twitter 
---- 
-@swedepilot Easy. "I'm a pilot that uses uber probably   nonstop lol" https://t.co/3RdLvDFlU6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @realMikeRab 
-date: 2021-07-15 04:36:32 
-categories: twitter 
---- 
-@nope_its_lily $AAPL, because I’m wise.

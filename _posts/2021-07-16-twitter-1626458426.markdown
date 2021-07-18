@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:00:26 
-categories: twitter 
---- 
-RT @kroyrunner89: $BNGO once again reminding everyone that volatility halts are the stupidest thing in the market

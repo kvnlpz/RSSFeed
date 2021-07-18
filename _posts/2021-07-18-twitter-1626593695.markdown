@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-18 00:34:55 
-categories: twitter 
---- 
-@jpsmith5804 Niiiiice, happy anniversary!

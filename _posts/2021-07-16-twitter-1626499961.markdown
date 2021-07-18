@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hrtlndbitcoin 
-date: 2021-07-16 22:32:41 
-categories: twitter 
---- 
-@nope_its_lily If you’re good at programming it’s like being a talented stone mason but for the digital world. It’s… https://t.co/8a3ut49aTt

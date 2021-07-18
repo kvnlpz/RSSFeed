@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: El Salvador government plans to launch its own Stablecoin 
-date: 2021-07-17 1626515709 
-categories: reddit 
---- 
-https://redd.it/om1cn9

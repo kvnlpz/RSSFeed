@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zhugo16 
-date: 2021-07-16 23:47:19 
-categories: twitter 
---- 
-@muddywatersre It’s Hwang. One spelling is Chinese the other is Korean.

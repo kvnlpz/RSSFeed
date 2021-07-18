@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IniKamoze1 
-date: 2021-07-15 05:31:09 
-categories: twitter 
---- 
-@nope_its_lily easy: $uvxy

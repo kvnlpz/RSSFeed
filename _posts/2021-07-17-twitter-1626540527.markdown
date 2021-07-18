@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pawtraks 
-date: 2021-07-17 09:48:47 
-categories: twitter 
---- 
-@InvestorsLive this is why i stick to lakes too

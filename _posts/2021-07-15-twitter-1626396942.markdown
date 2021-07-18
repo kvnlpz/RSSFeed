@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NancyTrading 
-date: 2021-07-15 17:55:42 
-categories: twitter 
---- 
-@nope_its_lily The bears just needed a little dip in the lake to cool off.
-
-https://t.co/Zd0xvl1ytk

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Would you want an app that lets you track crypto prices by displaying their prices as floating tabs on the edge of your screen? 
-date: 2021-07-16 1626490376 
-categories: reddit 
---- 
-https://redd.it/olvynw

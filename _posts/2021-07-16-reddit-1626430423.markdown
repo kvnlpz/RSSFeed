@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Mayor of Jackson, Tennessee: We are looking into adding BTC payments for taxes, employees might be allowed to buy BTC through DCA 
-date: 2021-07-16 1626430423 
-categories: reddit 
---- 
-https://redd.it/oldzdz

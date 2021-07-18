@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why do The Wheel instead of just Covered Calls? 
-date: 2021-07-16 1626454388 
-categories: reddit 
---- 
-https://redd.it/olkvbw

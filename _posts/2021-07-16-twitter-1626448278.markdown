@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cafesoiree 
-date: 2021-07-16 08:11:18 
-categories: twitter 
---- 
-@RayTL_ @TLPrivate_ Break above VWAP and ORH shows good strength today. Keeping it on watch

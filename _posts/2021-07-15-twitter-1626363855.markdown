@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TannerLChristal 
-date: 2021-07-15 08:44:15 
-categories: twitter 
---- 
-@alphatrends Hi Brian, how do you account for the different volume on different exchanges? You are chatting Gemini,… https://t.co/Qe52tqFQcR

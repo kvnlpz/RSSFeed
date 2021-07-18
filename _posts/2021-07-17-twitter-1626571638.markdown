@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mates_cheers 
-date: 2021-07-17 18:27:18 
-categories: twitter 
---- 
-@modern_rock Are you in Houston mate?

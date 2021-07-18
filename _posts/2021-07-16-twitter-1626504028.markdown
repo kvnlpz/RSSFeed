@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-16 23:40:28 
-categories: twitter 
---- 
-@Malepio1 The harder you work the “luckier” you get!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Decentralized Messaging Platform 
-date: 2021-07-16 1626464868 
-categories: reddit 
---- 
-https://redd.it/oloi0y

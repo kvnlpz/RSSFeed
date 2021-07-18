@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CindyCuccaro 
-date: 2021-07-15 08:52:09 
-categories: twitter 
---- 
-@timothysykes Do you availability in your challenge?

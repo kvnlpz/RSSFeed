@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Interoperability Platform "Interlay" Raises $3Million In Seed Funding. 
-date: 2021-07-17 1626541830 
-categories: reddit 
---- 
-https://redd.it/om8b93

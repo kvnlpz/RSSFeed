@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @saanglee 
-date: 2021-07-16 07:36:44 
-categories: twitter 
---- 
-@nope_its_lily That's the holy grail strat... +ve/zero carry with upside convexity.
-
-Very rare to see outside quant… https://t.co/LgA8j0s60Z

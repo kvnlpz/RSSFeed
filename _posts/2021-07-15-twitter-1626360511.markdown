@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidDriedger1 
-date: 2021-07-15 07:48:31 
-categories: twitter 
---- 
-@OddStockTrader @InvestorsLive Thank you, I will definitely check it out👍

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A well put and detailed technical video made by InvestAnswers on how to convince someone to invest into Bitcoin, be it your family, friends or colleagues. Seeing a lot of posts about holders introducing someone to crypto only for them to either dismiss the idea or make mistakes when investing. 
-date: 2021-07-15 1626359442 
-categories: reddit 
---- 
-https://redd.it/oku04w

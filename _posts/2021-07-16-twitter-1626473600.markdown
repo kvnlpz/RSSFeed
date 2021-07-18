@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ctyrtzl507 
-date: 2021-07-16 15:13:20 
-categories: twitter 
---- 
-@OddStockTrader Why you dropping bombs in there?

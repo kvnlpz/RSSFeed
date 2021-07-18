@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @treysorrells2 
-date: 2021-07-16 03:09:21 
-categories: twitter 
---- 
-@timothysykes Are you betting for it to go up or down in the am ???

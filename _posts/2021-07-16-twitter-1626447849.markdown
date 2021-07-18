@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnSerwach 
-date: 2021-07-16 08:04:09 
-categories: twitter 
---- 
-@nope_its_lily It would@only work if everyone typed /A
- or /S on every post- and what would be the fun of that ?

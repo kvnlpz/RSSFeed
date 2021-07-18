@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_donsimoun_ 
-date: 2021-07-15 14:59:48 
-categories: twitter 
---- 
-RT @RayTL_: If down days don't make you work harder you might not be built for this. 🤷‍♂️

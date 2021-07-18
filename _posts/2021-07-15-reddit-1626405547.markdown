@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How would Moons ever get to mainnet? 
-date: 2021-07-15 1626405547 
-categories: reddit 
---- 
-https://redd.it/ol8g29

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Check out NRZ 
-date: 2021-07-15 1626397997 
-categories: reddit 
---- 
-https://redd.it/ol6dgo

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @satoshiheist 
-date: 2021-07-16 13:11:13 
-categories: twitter 
---- 
-RT @nope_its_lily: https://t.co/TOAGGeGJ96

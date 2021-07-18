@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Beating the index 
-date: 2021-07-16 1626439866 
-categories: reddit 
---- 
-https://redd.it/olg8sw

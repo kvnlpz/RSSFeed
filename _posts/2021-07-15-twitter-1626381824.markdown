@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @__sharpe 
-date: 2021-07-15 13:43:44 
-categories: twitter 
---- 
-@InvestorsLive nice fft, just wish I held some longer lol https://t.co/EMCflr6Ajw

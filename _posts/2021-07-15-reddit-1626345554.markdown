@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DCA Moons 
-date: 2021-07-15 1626345554 
-categories: reddit 
---- 
-https://redd.it/okq8d5

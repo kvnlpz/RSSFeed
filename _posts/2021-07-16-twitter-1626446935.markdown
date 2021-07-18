@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @epaveseDC 
-date: 2021-07-16 07:48:55 
-categories: twitter 
---- 
-@InvestorsLive aaaaand here comes the dump again

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xElm0 
-date: 2021-07-16 07:55:35 
-categories: twitter 
---- 
-@nope_its_lily @ApeMayne Like, filter an individuals specific posts for noise/signal?

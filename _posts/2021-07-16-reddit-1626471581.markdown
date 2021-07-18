@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Absolute State of WSB 
-date: 2021-07-16 1626471581 
-categories: reddit 
---- 
-https://redd.it/olqn7e

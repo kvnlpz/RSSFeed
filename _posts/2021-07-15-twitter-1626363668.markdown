@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @realpetejohnso 
-date: 2021-07-15 08:41:08 
-categories: twitter 
---- 
-@nope_its_lily @OnRallyRd It's the ticket to the free world https://t.co/kVLETkRrcM

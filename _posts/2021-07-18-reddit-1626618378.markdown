@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Volume to marketcap ratio hitting all time lows. In terms of USD, trading volume is sinking back to 2018-2020 levels despite the marketcap being 6 times higher 
-date: 2021-07-18 1626618378 
-categories: reddit 
---- 
-https://redd.it/omrhow

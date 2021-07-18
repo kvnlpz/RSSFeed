@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @damon_popovics 
-date: 2021-07-16 16:43:13 
-categories: twitter 
---- 
-@InvestorsLive Short at almost the top.

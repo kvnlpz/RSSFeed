@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @realjeffbarker 
-date: 2021-07-16 19:47:16 
-categories: twitter 
---- 
-@alphatrends How did you go up to Cristal? How is the path these days?

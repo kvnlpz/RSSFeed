@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cafesoiree 
-date: 2021-07-15 20:48:04 
-categories: twitter 
---- 
-@RayTL_ $MRNA I’m guessing?

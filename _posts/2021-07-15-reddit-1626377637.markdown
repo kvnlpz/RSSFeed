@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Every time there is a dip 
-date: 2021-07-15 1626377637 
-categories: reddit 
---- 
-https://redd.it/ol04jx

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many different coins is enough 
-date: 2021-07-16 1626450598 
-categories: reddit 
---- 
-https://redd.it/oljk63

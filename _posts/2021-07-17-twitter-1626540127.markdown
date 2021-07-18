@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dougclinton 
-date: 2021-07-17 09:42:07 
-categories: twitter 
---- 
-@muddywatersre Can we rebrand “short ladder attack” to “short ladder negative encounter”?

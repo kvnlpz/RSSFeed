@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stevenplace 
-date: 2021-07-15 12:36:27 
-categories: twitter 
---- 
-@MikeBellafiore https://t.co/OMZW6HxPD9

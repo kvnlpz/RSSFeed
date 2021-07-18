@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BruceSelby 
-date: 2021-07-16 18:54:59 
-categories: twitter 
---- 
-RT @muddywatersre: Bummer about those negative encounters that kill you. https://t.co/HX4pFV6ISa

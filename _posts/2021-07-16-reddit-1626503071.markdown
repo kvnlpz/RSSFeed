@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sign the Petition 
-date: 2021-07-16 1626503071 
-categories: reddit 
---- 
-https://redd.it/olywxw

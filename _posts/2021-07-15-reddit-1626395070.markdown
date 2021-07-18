@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which hardware wallet to safely store and stake Cardano 
-date: 2021-07-15 1626395070 
-categories: reddit 
---- 
-https://redd.it/ol3ijs

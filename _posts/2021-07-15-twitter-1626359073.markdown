@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ramseenu 
-date: 2021-07-15 07:24:33 
-categories: twitter 
---- 
-RT @RayTL_: Check out the TL Blog - the basics section has some great write-ups by the team. 👇
-
-https://t.co/eN8lBselhZ https://t.co/Zl0eVl…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin price "targets" based on exactly what? 
-date: 2021-07-15 1626375181 
-categories: reddit 
---- 
-https://redd.it/okzawd

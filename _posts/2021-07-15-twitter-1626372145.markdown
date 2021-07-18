@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zeynabii 
-date: 2021-07-15 11:02:25 
-categories: twitter 
---- 
-@timothysykes WHO are promoters ?

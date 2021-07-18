@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 19:01:58 
-categories: twitter 
---- 
-@PepeXBT how many times have you been cancelled so far

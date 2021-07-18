@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KeyPaganRush 
-date: 2021-07-17 10:11:22 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/3dx3pFWnbb

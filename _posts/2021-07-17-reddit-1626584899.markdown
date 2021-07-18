@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin mining difficulty fallen 
-date: 2021-07-17 1626584899 
-categories: reddit 
---- 
-https://redd.it/omk55b

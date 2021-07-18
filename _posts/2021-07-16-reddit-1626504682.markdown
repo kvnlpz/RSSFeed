@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which coin do you think will grow the most in terms of growth percentage? The calculation must start from today. 
-date: 2021-07-16 1626504682 
-categories: reddit 
---- 
-https://redd.it/olz8mg

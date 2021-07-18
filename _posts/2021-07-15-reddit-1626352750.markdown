@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Layer 2 and the current problem 
-date: 2021-07-15 1626352750 
-categories: reddit 
---- 
-https://redd.it/okrzou

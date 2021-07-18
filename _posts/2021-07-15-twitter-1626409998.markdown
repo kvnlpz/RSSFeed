@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jablannsky 
-date: 2021-07-15 21:33:18 
-categories: twitter 
---- 
-RT @super_trades: one of $VRAR companies

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is there little to no dapp development for waves? 
-date: 2021-07-18 1626619543 
-categories: reddit 
---- 
-https://redd.it/omrub7

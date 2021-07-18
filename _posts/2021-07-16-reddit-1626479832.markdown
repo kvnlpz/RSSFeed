@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Was Moon Week a success? I collected all the governance poll data and took a look. 
-date: 2021-07-16 1626479832 
-categories: reddit 
---- 
-https://redd.it/olt7hk

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shit month 
-date: 2021-07-16 1626485888 
-categories: reddit 
---- 
-https://redd.it/olutc0

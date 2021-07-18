@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: On the mobile browser, does enabling 'show sponsored images' improve BAT earnings? 
-date: 2021-07-17 1626538051 
-categories: reddit 
---- 
-https://redd.it/om742i

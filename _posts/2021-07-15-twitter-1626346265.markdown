@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GrittyBully 
-date: 2021-07-15 03:51:05 
-categories: twitter 
---- 
-@InvestorsLive This monkey is consistently stealing my trash https://t.co/RnSRLqXFMC

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ForshtMike 
-date: 2021-07-17 13:17:18 
-categories: twitter 
---- 
-@InvestorsLive House fomo

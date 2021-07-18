@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @feldy55 
-date: 2021-07-15 03:38:05 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade 😳

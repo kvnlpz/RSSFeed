@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 14:19:04 
-categories: twitter 
---- 
-RT @kroyrunner89: It’s official, Trading Tickers 2 is coming! https://t.co/kysRz7nP3f

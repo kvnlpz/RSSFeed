@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pontem to Use Polkadot to Connect Diem and DeFi - Why are we not talking about this? 
-date: 2021-07-17 1626535967 
-categories: reddit 
---- 
-https://redd.it/om6gx6

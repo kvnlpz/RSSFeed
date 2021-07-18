@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_krupins 
-date: 2021-07-17 08:00:47 
-categories: twitter 
---- 
-RT @alphacharts365: State of the Market Video where I go over $SPX $RSP $QQQ $IWM $SMH $XLF $WOOD $PCCE $IEI / $HYG $VIX $VALUG $BTC and tr…

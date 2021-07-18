@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 13:04:33 
-categories: twitter 
---- 
-Not exactly sure how to compute value at risk, but it's substantially less than 1800 (also ignore mark to market).… https://t.co/QOrx10I2s5

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First Ever: Nuclear BTC Mining Slated For December 
-date: 2021-07-15 1626400777 
-categories: reddit 
---- 
-https://redd.it/ol74iz

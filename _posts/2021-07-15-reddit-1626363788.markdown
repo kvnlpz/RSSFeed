@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NFT trading platforms on Cardano 
-date: 2021-07-15 1626363788 
-categories: reddit 
---- 
-https://redd.it/oktia0

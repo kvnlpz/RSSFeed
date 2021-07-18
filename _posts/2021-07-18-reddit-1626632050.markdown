@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Interviewing Ergo — a DeFi platform with highly secure dApps and smart contracts—Gridsourced 
-date: 2021-07-18 1626632050 
-categories: reddit 
---- 
-https://redd.it/omw08j

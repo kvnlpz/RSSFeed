@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Entering the smart contract for Bitcoin cluster 
-date: 2021-07-17 1626561475 
-categories: reddit 
---- 
-https://redd.it/omebum

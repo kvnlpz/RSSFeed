@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TaylorTrader923 
-date: 2021-07-16 13:16:20 
-categories: twitter 
---- 
-@nope_its_lily Can you go over this in detail? 
-
-I’m genuinely amazed by your knowledge of the Greeks &amp; how to hedge with them

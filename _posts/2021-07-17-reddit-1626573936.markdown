@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I did some DD, here’s what I found. 
-date: 2021-07-17 1626573936 
-categories: reddit 
---- 
-https://redd.it/omhihz

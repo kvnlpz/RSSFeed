@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Lanegsbo 
-date: 2021-07-15 03:45:32 
-categories: twitter 
---- 
-@InvestorsLive Enjoy his company.

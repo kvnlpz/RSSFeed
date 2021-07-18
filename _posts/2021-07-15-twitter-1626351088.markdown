@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kliphee 
-date: 2021-07-15 05:11:28 
-categories: twitter 
---- 
-@InvestorsLive I missed the initial run up.  Dang it

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 12:46:53 
-categories: twitter 
---- 
-@therobotjames now make him derive a poisson point process to describe how the best bid/ask order queue size develo… https://t.co/u5zptOjGdz

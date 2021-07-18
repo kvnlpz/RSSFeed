@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Medium Should be the Next Supported Platform for BAT Tipping 
-date: 2021-07-16 1626459519 
-categories: reddit 
---- 
-https://redd.it/olmnuq

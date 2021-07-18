@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin trading volumes are scary low right now. Lowest volume all year for a weekday 
-date: 2021-07-15 1626365548 
-categories: reddit 
---- 
-https://redd.it/okw1hh

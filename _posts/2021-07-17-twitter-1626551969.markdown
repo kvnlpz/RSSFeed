@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bubstron 
-date: 2021-07-17 12:59:29 
-categories: twitter 
---- 
-@InvestorsLive I'm waiting a couple more months. We're in a unique situation after a pandemic.

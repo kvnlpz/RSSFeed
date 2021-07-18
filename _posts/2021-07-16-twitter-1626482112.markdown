@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndersChiTown 
-date: 2021-07-16 17:35:12 
-categories: twitter 
---- 
-@nope_its_lily This is true.

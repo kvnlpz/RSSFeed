@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joseph_cook1 
-date: 2021-07-15 01:08:29 
-categories: twitter 
---- 
-@nope_its_lily $QSI Because that’s where the future is 👁

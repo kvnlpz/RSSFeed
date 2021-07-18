@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @abydnave 
-date: 2021-07-15 15:30:15 
-categories: twitter 
---- 
-RT @nope_its_lily: one day, i'm going to tell my children that there was a before time when you could see other peoples' mouths

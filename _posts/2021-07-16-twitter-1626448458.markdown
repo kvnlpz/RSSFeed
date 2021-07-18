@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 08:14:18 
-categories: twitter 
---- 
-@_Chiplis_ @SinclairEuan @bennpeifert in general the only constancy of vol models is replication of stylized facts… https://t.co/CTKyGFnqTa

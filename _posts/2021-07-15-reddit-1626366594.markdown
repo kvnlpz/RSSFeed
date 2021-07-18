@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why Nuclear Bitcoin Mining Is Not The Way 
-date: 2021-07-15 1626366594 
-categories: reddit 
---- 
-https://redd.it/okwdyh

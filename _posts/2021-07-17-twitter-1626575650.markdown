@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-17 19:34:10 
-categories: twitter 
---- 
-RT @WesleyBKress: Anyone else had a support ticket for @BinanceUS &amp; received an answer from @BinanceUShelp but issue not resolved? I have b…

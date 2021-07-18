@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-07-15 17:03:56 
-categories: twitter 
---- 
-RT @InvestorsLive: Now for the next illusion - onto the dunk tank $HUDI brb. https://t.co/pP6Nh4l3ih

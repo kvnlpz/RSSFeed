@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum price crash with ETH2.0 
-date: 2021-07-16 1626432423 
-categories: reddit 
---- 
-https://redd.it/oleelw

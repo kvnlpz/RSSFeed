@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaspercty 
-date: 2021-07-16 06:20:55 
-categories: twitter 
---- 
-@timothysykes @TessaLamping @sttbreakingnews Thanks for reminding me to be self sufficient. Sometimes I blindly fol… https://t.co/vNbOcXeBIk

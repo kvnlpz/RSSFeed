@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 07:41:23 
-categories: twitter 
---- 
-@nic__carter @pedrodelacadena i thought as a bitcoiner
-you got laser eyes

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_xx00xx00xx_ 
-date: 2021-07-15 02:08:10 
-categories: twitter 
---- 
-@nope_its_lily $WISH 😉

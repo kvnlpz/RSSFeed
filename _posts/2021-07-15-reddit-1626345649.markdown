@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New crypto website for finding new coins 
-date: 2021-07-15 1626345649 
-categories: reddit 
---- 
-https://redd.it/okq94f

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @i_duno_dude 
-date: 2021-07-15 13:01:40 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/xX5KT1BN6N

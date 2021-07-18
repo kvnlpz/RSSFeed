@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @investorintel21 
-date: 2021-07-16 04:20:30 
-categories: twitter 
---- 
-@timothysykes $MATIC
-
-buy zone

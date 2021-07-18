@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Clutchcaller 
-date: 2021-07-16 00:16:54 
-categories: twitter 
---- 
-@timothysykes Great!!!

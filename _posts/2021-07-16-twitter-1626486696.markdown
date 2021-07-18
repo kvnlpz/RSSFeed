@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trevmilt81 
-date: 2021-07-16 18:51:36 
-categories: twitter 
---- 
-@nope_its_lily A lot of companies are full of shit

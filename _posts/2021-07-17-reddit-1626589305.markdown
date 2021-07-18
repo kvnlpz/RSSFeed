@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain is the future 
-date: 2021-07-17 1626589305 
-categories: reddit 
---- 
-https://redd.it/oml3fr

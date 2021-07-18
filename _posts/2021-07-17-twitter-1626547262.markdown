@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-17 11:41:02 
-categories: twitter 
---- 
-RT @PleaXureS_PXS: https://t.co/Eri7PThAtQ via @timothysykes

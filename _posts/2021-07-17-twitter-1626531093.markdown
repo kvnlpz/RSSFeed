@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tradesbeta 
-date: 2021-07-17 07:11:33 
-categories: twitter 
---- 
-@alphatrends Wow this is real?!

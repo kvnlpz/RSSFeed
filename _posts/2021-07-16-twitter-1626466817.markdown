@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeffvietri 
-date: 2021-07-16 13:20:17 
-categories: twitter 
---- 
-@InvestorsLive Pressure washing is #1 dad therapy

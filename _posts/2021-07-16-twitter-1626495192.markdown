@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 21:13:12 
-categories: twitter 
---- 
-@MidwestHedgie super cool, dad was a path

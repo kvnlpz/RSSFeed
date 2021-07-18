@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TessaLamping 
-date: 2021-07-15 10:25:47 
-categories: twitter 
---- 
-RT @PartnersRelief: Malaekat Al-Raqqa Kindergarten is now ready to serve 110 students from a neighborhood in this city of 700,000 people.…

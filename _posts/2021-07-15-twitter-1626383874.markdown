@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jonwestbay 
-date: 2021-07-15 14:17:54 
-categories: twitter 
---- 
-@InvestorsLive Wow he stays in one place without wandering off?

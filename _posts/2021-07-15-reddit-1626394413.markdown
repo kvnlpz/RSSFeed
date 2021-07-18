@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 10 Random stocks a week since Feb 
-date: 2021-07-15 1626394413 
-categories: reddit 
---- 
-https://redd.it/ol5cmr

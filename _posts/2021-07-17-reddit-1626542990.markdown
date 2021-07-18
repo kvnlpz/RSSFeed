@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin fungibility 
-date: 2021-07-17 1626542990 
-categories: reddit 
---- 
-https://redd.it/om8ora

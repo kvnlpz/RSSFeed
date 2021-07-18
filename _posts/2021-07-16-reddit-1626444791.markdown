@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blinded by Bias - The Daily Gwei #292 
-date: 2021-07-16 1626444791 
-categories: reddit 
---- 
-https://redd.it/olhnmz

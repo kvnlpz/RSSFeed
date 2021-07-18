@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ARVL 
-date: 2021-07-15 1626385702 
-categories: reddit 
---- 
-https://redd.it/ol2ro2

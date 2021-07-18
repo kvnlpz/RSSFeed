@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PUBM + MGNI YOLO 
-date: 2021-07-18 1626621725 
-categories: reddit 
---- 
-https://redd.it/omsji3

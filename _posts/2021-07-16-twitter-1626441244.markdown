@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trippmehew 
-date: 2021-07-16 06:14:04 
-categories: twitter 
---- 
-@timothysykes ready

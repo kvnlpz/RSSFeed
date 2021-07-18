@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Report scammer emptying trust wallets - 
-date: 2021-07-15 1626396760 
-categories: reddit 
---- 
-https://redd.it/ol60rq

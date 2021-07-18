@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Today (7/17): InterPop Block Party | Tezos-powered Comic Con 
-date: 2021-07-17 1626532250 
-categories: reddit 
---- 
-https://redd.it/om5buv

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: San Marino’s unique vaccination passport is produced on Vechain Thor’s Blockchain 
-date: 2021-07-15 1626347865 
-categories: reddit 
---- 
-https://redd.it/okqrb1

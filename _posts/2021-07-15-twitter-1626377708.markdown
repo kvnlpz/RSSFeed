@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodalexander 
-date: 2021-07-15 12:35:08 
-categories: twitter 
---- 
-@nope_its_lily @davidbelle_ Canada is 53rd state

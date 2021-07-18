@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MMAT strange option pricing 
-date: 2021-07-16 1626447012 
-categories: reddit 
---- 
-https://redd.it/olicpz

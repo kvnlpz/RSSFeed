@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 12:38:08 
-categories: twitter 
---- 
-RT @kroyrunner89: weird $GNUS conference call, i feel like i'm listening to a stan lee eulogy

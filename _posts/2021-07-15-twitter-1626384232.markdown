@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DDaveTrades 
-date: 2021-07-15 14:23:52 
-categories: twitter 
---- 
-@MikeBellafiore @stoxart does awesome work. Check it out @MikeBellafiore

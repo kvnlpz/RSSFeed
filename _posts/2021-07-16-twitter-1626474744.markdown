@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sol_trader 
-date: 2021-07-16 15:32:24 
-categories: twitter 
---- 
-RT @timothysykes: @StocksToTrade BUILD YOUR KNOWLEDGE ACCOUNT FIRST!

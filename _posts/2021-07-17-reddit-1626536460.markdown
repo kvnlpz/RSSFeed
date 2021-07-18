@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EOS Project voting / funding portal proposal 
-date: 2021-07-17 1626536460 
-categories: reddit 
---- 
-https://redd.it/om5j2t

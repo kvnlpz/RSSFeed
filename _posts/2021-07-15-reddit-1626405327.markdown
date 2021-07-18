@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are Liquidity Pools more profitable than individual staking? 
-date: 2021-07-15 1626405327 
-categories: reddit 
---- 
-https://redd.it/ol8dv1

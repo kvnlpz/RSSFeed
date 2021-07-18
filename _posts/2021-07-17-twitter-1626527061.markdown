@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bullgroomer_eth 
-date: 2021-07-17 06:04:21 
-categories: twitter 
---- 
-@nope_its_lily 1 for every 100 coins/tokens

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can any network be sustained on fees only ? 
-date: 2021-07-18 1626631428 
-categories: reddit 
---- 
-https://redd.it/omvsla

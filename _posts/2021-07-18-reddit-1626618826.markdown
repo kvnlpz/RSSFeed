@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Sees Longest Streak of Negative Difficulty Adjustments in Its History 
-date: 2021-07-18 1626618826 
-categories: reddit 
---- 
-https://redd.it/omrglv

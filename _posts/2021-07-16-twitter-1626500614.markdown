@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 22:43:34 
-categories: twitter 
---- 
-@AnthonyLeeZhang There are many jobs that use code as a tool, and I learned I was better suited there.

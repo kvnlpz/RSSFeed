@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BracBank's 2020 annual report notes they are planning to launch "a blockchain-based remittance gateway in partnership with Ripple.” 
-date: 2021-07-16 1626442060 
-categories: reddit 
---- 
-https://redd.it/olgupa

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is the foundation for stock prices? 
-date: 2021-07-18 1626603004 
-categories: reddit 
---- 
-https://redd.it/omntje

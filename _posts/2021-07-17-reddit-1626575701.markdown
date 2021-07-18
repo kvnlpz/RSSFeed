@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A transaction fee is 1-2 sats/byte, is it real? 
-date: 2021-07-17 1626575701 
-categories: reddit 
---- 
-https://redd.it/omhydy

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrJJB 
-date: 2021-07-15 17:12:05 
-categories: twitter 
---- 
-RT @InvestorsLive: When is it time to take profits? https://t.co/2HgsUembuX https://t.co/CZrOWWh28X

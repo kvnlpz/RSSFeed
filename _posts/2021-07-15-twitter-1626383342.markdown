@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KowalskiJordan4 
-date: 2021-07-15 14:09:02 
-categories: twitter 
---- 
-@super_trades Didn’t follow the rules the first time snd learned a lot but followed the trade plans and rules this time

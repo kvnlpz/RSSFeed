@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New to this - Apps 
-date: 2021-07-18 1626623841 
-categories: reddit 
---- 
-https://redd.it/omt8h6

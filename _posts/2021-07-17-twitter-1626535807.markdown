@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-17 08:30:07 
-categories: twitter 
---- 
-https://t.co/MGBcykUp93 - Posted a New Webinar: Challenge Webinar 7-15 [On Demand] $VERB $XELA

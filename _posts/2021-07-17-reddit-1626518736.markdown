@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 13,003 BTC Transferred In Coinbase 
-date: 2021-07-17 1626518736 
-categories: reddit 
---- 
-https://redd.it/om1xjq

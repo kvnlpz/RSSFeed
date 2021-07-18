@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 13:11:47 
-categories: twitter 
---- 
-RT @kroyrunner89: If you're paying someone who even tries to suggest this is "low float" (god help you if you are) - i suggest cancelling t…

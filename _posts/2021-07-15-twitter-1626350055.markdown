@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnSilverber15 
-date: 2021-07-15 04:54:15 
-categories: twitter 
---- 
-RT @nope_its_lily: Someone gives you $50,000 tomorrow. What investment do you put it in and why?

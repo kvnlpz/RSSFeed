@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stas70699731 
-date: 2021-07-16 11:00:04 
-categories: twitter 
---- 
-@nope_its_lily That is a fantastic idea!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WallStChameleon 
-date: 2021-07-15 11:11:09 
-categories: twitter 
---- 
-@nope_its_lily That Twitter spaces for AMC made me go all in too

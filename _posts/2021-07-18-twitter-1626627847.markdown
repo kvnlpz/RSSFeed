@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JamesRobertsco5 
-date: 2021-07-18 10:04:07 
-categories: twitter 
---- 
-@InvestorsLive If you're thinking about picking up anther property 
-I'd do it now before the price doubles again.

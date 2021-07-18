@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Between ETH and gas fee 
-date: 2021-07-16 1626504524 
-categories: reddit 
---- 
-https://redd.it/olz7gv

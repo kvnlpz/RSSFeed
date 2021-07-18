@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FinancialMeh 
-date: 2021-07-15 14:59:44 
-categories: twitter 
---- 
-@muddywatersre @US_FDA Unfortunately not news. Exact same result as the ADCOM from before the PDUFA decision...

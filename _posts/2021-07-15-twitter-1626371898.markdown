@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @augiemo32 
-date: 2021-07-15 10:58:18 
-categories: twitter 
---- 
-@timothysykes Let’s bet $1,000 that CCIV, HMBL, WISH are all higher by at least 25% in one year than they are today...

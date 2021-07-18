@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thoughts on day trading ATM puts and calls on meme stocks 
-date: 2021-07-16 1626489201 
-categories: reddit 
---- 
-https://redd.it/olvo4g

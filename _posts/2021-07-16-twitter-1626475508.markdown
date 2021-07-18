@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stockprohudson 
-date: 2021-07-16 15:45:08 
-categories: twitter 
---- 
-@OddStockTrader Yes especially airport bathrooms lol

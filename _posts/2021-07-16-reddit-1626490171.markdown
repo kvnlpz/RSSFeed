@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Benefits of Distributed over Federated Network: Autonomous Cars 
-date: 2021-07-16 1626490171 
-categories: reddit 
---- 
-https://redd.it/olvwrd

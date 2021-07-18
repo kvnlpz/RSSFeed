@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KGB197 
-date: 2021-07-15 15:00:05 
-categories: twitter 
---- 
-@InvestorsLive Only 8pm can stop it  😉

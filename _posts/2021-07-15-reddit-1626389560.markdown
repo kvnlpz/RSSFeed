@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "Low risk, low reward" - strategies for IB margin accounts 
-date: 2021-07-15 1626389560 
-categories: reddit 
---- 
-https://redd.it/ol3y5i

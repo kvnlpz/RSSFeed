@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @filio_888 
-date: 2021-07-18 02:21:42 
-categories: twitter 
---- 
-@InvestorsLive Hi, Nathan!
-How many setups do you have that you trade?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mortid0 
-date: 2021-07-16 22:35:22 
-categories: twitter 
---- 
-@nope_its_lily More like working out. Makes your life easier, but you don’t do it for it’s own sake.

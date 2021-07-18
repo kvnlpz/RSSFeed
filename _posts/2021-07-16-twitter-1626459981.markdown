@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TerribleOne06 
-date: 2021-07-16 11:26:21 
-categories: twitter 
---- 
-@super_trades What's your opinion on GGPI with the Polestar merger rumors?

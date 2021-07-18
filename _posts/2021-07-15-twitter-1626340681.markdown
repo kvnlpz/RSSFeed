@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kanecrypto3 
-date: 2021-07-15 02:18:01 
-categories: twitter 
---- 
-@nope_its_lily Cardano

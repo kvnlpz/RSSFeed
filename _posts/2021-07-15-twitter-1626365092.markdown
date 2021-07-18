@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kspoon09 
-date: 2021-07-15 09:04:52 
-categories: twitter 
---- 
-@nope_its_lily That's a no brainer. https://t.co/7hY7L80Sdl

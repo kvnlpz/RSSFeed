@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @adiplayer 
-date: 2021-07-17 08:04:43 
-categories: twitter 
---- 
-RT @JessicaNutt96: Cases now doubling every 12 days in the US. Most troubling is high case growth in highly vaccinated counties like Miami-…

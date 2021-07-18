@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @raj1a 
-date: 2021-07-15 10:43:50 
-categories: twitter 
---- 
-RT @alphatrends: The market is extended, breadth is bad, that doesn't mean we're about to suffer a large decline (but anything is possible)…

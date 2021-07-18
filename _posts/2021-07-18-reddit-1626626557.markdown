@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do you solve a problem like Bitcoin scaling? 
-date: 2021-07-18 1626626557 
-categories: reddit 
---- 
-https://redd.it/omu5iu

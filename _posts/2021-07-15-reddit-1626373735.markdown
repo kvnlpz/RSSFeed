@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Glpg 
-date: 2021-07-15 1626373735 
-categories: reddit 
---- 
-https://redd.it/okythb

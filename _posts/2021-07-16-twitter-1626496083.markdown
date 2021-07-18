@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidWalshXRP 
-date: 2021-07-16 21:28:03 
-categories: twitter 
---- 
-@nope_its_lily 90% of them

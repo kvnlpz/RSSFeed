@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GregMar03023295 
-date: 2021-07-16 20:18:12 
-categories: twitter 
---- 
-@InvestorsLive People trying to find reason in the unreasonable.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @feldy55 
-date: 2021-07-17 11:20:22 
-categories: twitter 
---- 
-@timothysykes Can’t wait

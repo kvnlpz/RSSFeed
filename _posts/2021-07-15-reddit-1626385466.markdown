@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: #ARVL 
-date: 2021-07-15 1626385466 
-categories: reddit 
---- 
-https://redd.it/ol2p6w

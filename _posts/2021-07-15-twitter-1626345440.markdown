@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rivsplace 
-date: 2021-07-15 03:37:20 
-categories: twitter 
---- 
-@nope_its_lily YOLO

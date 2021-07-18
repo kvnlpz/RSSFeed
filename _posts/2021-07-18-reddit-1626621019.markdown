@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should money expire? 
-date: 2021-07-18 1626621019 
-categories: reddit 
---- 
-https://redd.it/omsb5b

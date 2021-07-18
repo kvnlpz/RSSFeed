@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-16 13:52:07 
-categories: twitter 
---- 
-@erictrades53 @TraderBryce @mono_trader Nice job!

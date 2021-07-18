@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GreggyGainz 
-date: 2021-07-16 02:23:28 
-categories: twitter 
---- 
-@timothysykes Paper hands  📄 🙌

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-16 03:50:48 
-categories: twitter 
---- 
-@HimmenyDStocks @profitly glad to help, sorry about tech issues!

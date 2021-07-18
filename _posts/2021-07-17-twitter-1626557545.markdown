@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrMirGalib 
-date: 2021-07-17 14:32:25 
-categories: twitter 
---- 
-@timothysykes Education should be free, can you provide your materials for free?

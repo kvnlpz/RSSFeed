@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnthonyLeeZhang 
-date: 2021-07-16 22:38:03 
-categories: twitter 
---- 
-@nope_its_lily Some coding tasks definitely suck. But coding up a simple model simulation or something which takes… https://t.co/BcJtnqKCgx

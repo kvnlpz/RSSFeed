@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: -478 confirmations left / in 478 blocks left (help) 
-date: 2021-07-16 1626470109 
-categories: reddit 
---- 
-https://redd.it/olq7od

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xQTpie 
-date: 2021-07-16 10:24:54 
-categories: twitter 
---- 
-@nope_its_lily @JessicaNutt96 @goodalexander i use butterflies https://t.co/wWpbjWFvxc

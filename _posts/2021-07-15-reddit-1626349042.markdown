@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vent Finance IDO Launchpad and Polygon Cardano Bridge 
-date: 2021-07-15 1626349042 
-categories: reddit 
---- 
-https://redd.it/okphas

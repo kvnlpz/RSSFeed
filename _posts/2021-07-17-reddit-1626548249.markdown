@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A detailed review on SwapCC with the new Fixed Swap mode! 
-date: 2021-07-17 1626548249 
-categories: reddit 
---- 
-https://redd.it/omacuv

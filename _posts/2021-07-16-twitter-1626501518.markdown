@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xwiji 
-date: 2021-07-16 22:58:38 
-categories: twitter 
---- 
-@nope_its_lily CS104 🤮

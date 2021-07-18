@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hocksiewChua1 
-date: 2021-07-16 14:05:39 
-categories: twitter 
---- 
-@muddywatersre Investors lost $175 billion in Worldcom and $75 billion in Enron.

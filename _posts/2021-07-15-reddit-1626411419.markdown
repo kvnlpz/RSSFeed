@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How I try to structure my portfolio. 
-date: 2021-07-15 1626411419 
-categories: reddit 
---- 
-https://redd.it/ol9xqi

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The difference between Coins and Tokens 
-date: 2021-07-18 1626602787 
-categories: reddit 
---- 
-https://redd.it/omnrwd

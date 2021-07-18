@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I want to do liquid staking - How to do with staked ATOMs? 
-date: 2021-07-17 1626563656 
-categories: reddit 
---- 
-https://redd.it/omewpb

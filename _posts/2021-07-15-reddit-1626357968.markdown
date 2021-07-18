@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Super nice 
-date: 2021-07-15 1626357968 
-categories: reddit 
---- 
-https://redd.it/oktjip

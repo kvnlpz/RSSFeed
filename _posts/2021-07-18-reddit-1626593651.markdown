@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Walk-through] The discord bot for swapping between 300+ CryptoCurrencies 
-date: 2021-07-18 1626593651 
-categories: reddit 
---- 
-https://redd.it/omlz5c

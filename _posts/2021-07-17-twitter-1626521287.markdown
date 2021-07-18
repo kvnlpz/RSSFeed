@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jimduey 
-date: 2021-07-17 04:28:07 
-categories: twitter 
---- 
-@nope_its_lily For some (me, at least) it can be like doing a crossword puzzle depending on the task. Some intellec… https://t.co/Tj2ZjK9hbV

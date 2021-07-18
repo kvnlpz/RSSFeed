@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just some of the reasons Upland is built on EOS: EOSIO’s elaborate permissions scheme, enabling the technological innovation in making - Upland is accessible to players who are not tech-savvy, while still maintaining the benefits of True Ownership and an open economy 
-date: 2021-07-16 1626445920 
-categories: reddit 
---- 
-https://redd.it/oli04r

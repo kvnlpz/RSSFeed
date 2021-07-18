@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @silentmax 
-date: 2021-07-15 09:01:36 
-categories: twitter 
---- 
-RT @alphatrends: The market is extended, breadth is bad, that doesn't mean we're about to suffer a large decline (but anything is possible)…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This could be interesting… 
-date: 2021-07-18 1626611877 
-categories: reddit 
---- 
-https://redd.it/ompqjw

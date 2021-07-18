@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @XCapTrader 
-date: 2021-07-16 08:35:44 
-categories: twitter 
---- 
-@alphatrends @CooperJordan35 done!

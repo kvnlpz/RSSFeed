@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Women Scaling Blockchains: The Vision Behind Ethereum Layer 2 Solution Metis 
-date: 2021-07-15 1626361058 
-categories: reddit 
---- 
-https://redd.it/okuiqj

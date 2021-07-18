@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: QS: covered calls 
-date: 2021-07-15 1626356970 
-categories: reddit 
---- 
-https://redd.it/okt7vp

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinMarketCap now has this new page: ‘Countries Which Allow Cryptocurrency As Legal Tender’. You can vote on countries you think will be next to make crypto legal. 
-date: 2021-07-15 1626380354 
-categories: reddit 
---- 
-https://redd.it/ol10v1

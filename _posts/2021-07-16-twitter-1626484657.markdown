@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 18:17:37 
-categories: twitter 
---- 
-RT @jeffthedunker: Hmm so @BlockforceCap is introducing a DeFi growth fund that routes 100% of assets through Vesper. They are also putting…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @galaxyblu3 
-date: 2021-07-15 01:29:42 
-categories: twitter 
---- 
-@nope_its_lily Nobody is giving you 50k tomorrow.

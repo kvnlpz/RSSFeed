@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bagholdershort 
-date: 2021-07-17 20:12:59 
-categories: twitter 
---- 
-RT @modern_rock: @ptrotrdr @f1teamboss My motto is I either Win or I LEARN!

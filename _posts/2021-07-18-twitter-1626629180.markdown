@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @drugMAMA 
-date: 2021-07-18 10:26:20 
-categories: twitter 
---- 
-@InvestorsLive Flood insurance

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-15 10:02:53 
-categories: twitter 
---- 
-@markminervini If you lose the least amount of money you'll eventually make money. https://t.co/BAUImSyHQ7

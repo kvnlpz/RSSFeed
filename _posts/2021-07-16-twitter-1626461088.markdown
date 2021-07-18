@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GrapefruitGals 
-date: 2021-07-16 11:44:48 
-categories: twitter 
---- 
-@muddywatersre Goodbye and good riddance. https://t.co/7dvrAGCYlE

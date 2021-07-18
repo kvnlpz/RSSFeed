@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stone_fenced 
-date: 2021-07-15 20:43:33 
-categories: twitter 
---- 
-@OddStockTrader Didn’t you say a few weeks ago that the issue now is not in Tesla but some local regulations not “recognizing” them?

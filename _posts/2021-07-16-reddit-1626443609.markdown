@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My Fellow Apes 🦧 
-date: 2021-07-16 1626443609 
-categories: reddit 
---- 
-https://redd.it/olha8u

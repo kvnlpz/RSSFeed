@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A puzzle... 
-date: 2021-07-18 1626599579 
-categories: reddit 
---- 
-https://redd.it/omn5pj

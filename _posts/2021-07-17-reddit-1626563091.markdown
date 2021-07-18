@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Funds on Metamask not showing 
-date: 2021-07-17 1626563091 
-categories: reddit 
---- 
-https://redd.it/omerar

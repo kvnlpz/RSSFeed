@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JasonLeavitt 
-date: 2021-07-16 20:51:35 
-categories: twitter 
---- 
-@alphatrends I have that first picture hanging on the wall in my bedroom, but I have no idea where it is. Help me.

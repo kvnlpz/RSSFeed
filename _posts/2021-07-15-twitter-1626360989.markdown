@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JamesRobertsco5 
-date: 2021-07-15 07:56:29 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/DQguX2ymnd

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Don't be like Nick 
-date: 2021-07-17 1626543075 
-categories: reddit 
---- 
-https://redd.it/om8pnb

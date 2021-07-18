@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-15 14:13:51 
-categories: twitter 
---- 
-Funds cleared /WSB back in biz?

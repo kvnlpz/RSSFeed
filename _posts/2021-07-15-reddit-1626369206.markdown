@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: China’s total computing power linked to the Bitcoin network, dropped from 75.5 percent in September 2019 to 46 percent in April 2021. 
-date: 2021-07-15 1626369206 
-categories: reddit 
---- 
-https://redd.it/okxa2s

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 07:53:31 
-categories: twitter 
---- 
-As someone who is proudly 90-95% noise vs signal, I wish Twitter had a way to filter your follows in a way you coul… https://t.co/EsqHqOG78u

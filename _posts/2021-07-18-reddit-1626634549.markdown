@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto Tracking Google Spreadsheet 
-date: 2021-07-18 1626634549 
-categories: reddit 
---- 
-https://redd.it/omwtn8

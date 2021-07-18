@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @carlosortigoza1 
-date: 2021-07-15 04:57:54 
-categories: twitter 
---- 
-@InvestorsLive Good way to keep green p/l

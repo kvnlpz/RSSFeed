@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Dangers of Cryptocurrency 
-date: 2021-07-16 1626458495 
-categories: reddit 
---- 
-https://redd.it/olm9vv

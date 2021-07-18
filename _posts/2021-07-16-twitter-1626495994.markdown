@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nikolaithemvp 
-date: 2021-07-16 21:26:34 
-categories: twitter 
---- 
-RT @nope_its_lily: Go hug your favorite permabear and tell him he did a good job today.

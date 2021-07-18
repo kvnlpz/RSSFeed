@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Brian49575531 
-date: 2021-07-18 11:05:48 
-categories: twitter 
---- 
-@RayTL_ Would be interesting to see routines, daily and weekend.

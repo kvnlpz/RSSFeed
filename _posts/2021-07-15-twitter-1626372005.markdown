@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YannickKae 
-date: 2021-07-15 11:00:05 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/ejC4i4TTU5

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockProfitCash 
-date: 2021-07-15 05:14:02 
-categories: twitter 
---- 
-RT @super_trades: the Indices are not real life, remember that

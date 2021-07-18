@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Porteno85 
-date: 2021-07-15 08:40:07 
-categories: twitter 
---- 
-RT @OddStockTrader: Joined $IMTL swing - recent NFT news https://t.co/vGEMPyO05E

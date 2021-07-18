@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:27:07 
-categories: twitter 
---- 
-RT @kroyrunner89: Anyone have a good recommendation of where to watch the @SpaceX Falcon Heavy Launch next week other than the Kennedy Cent…

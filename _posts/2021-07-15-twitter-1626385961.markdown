@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DigitalOct0pus 
-date: 2021-07-15 14:52:41 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/RwOql3u6Lj

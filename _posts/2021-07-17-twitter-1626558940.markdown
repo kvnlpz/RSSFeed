@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_justinshaw 
-date: 2021-07-17 14:55:40 
-categories: twitter 
---- 
-@InvestorsLive 😜 https://t.co/inf7rV3hNy

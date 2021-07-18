@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: THORChain hack causes RUNE price to plummet 
-date: 2021-07-17 1626552472 
-categories: reddit 
---- 
-https://redd.it/omboyp

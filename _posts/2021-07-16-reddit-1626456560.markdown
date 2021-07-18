@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Odd stock - what is going on here 
-date: 2021-07-16 1626456560 
-categories: reddit 
---- 
-https://redd.it/ollmm3

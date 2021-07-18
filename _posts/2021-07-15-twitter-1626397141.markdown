@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NancyTrading 
-date: 2021-07-15 17:59:01 
-categories: twitter 
---- 
-@nope_its_lily some more info with a more serious undertone:
-https://t.co/1mXsynIXHd

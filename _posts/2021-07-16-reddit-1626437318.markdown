@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Somebody posted this on the Osmosis sub and I thought it was a very interesting read. 
-date: 2021-07-16 1626437318 
-categories: reddit 
---- 
-https://redd.it/olfkz5

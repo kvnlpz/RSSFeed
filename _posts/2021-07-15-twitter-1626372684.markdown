@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @80sMvSoundtrack 
-date: 2021-07-15 11:11:24 
-categories: twitter 
---- 
-@timothysykes I sold DPLS at .02 and missed out on 45k in profit

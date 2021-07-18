@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scolaire42 
-date: 2021-07-16 06:17:43 
-categories: twitter 
---- 
-@nope_its_lily an inflation hedge can be built in the period (t,t+p) if one's wealth W is so that W = 0

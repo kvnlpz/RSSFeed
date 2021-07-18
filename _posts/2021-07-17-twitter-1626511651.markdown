@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RokoMijic 
-date: 2021-07-17 01:47:31 
-categories: twitter 
---- 
-@nope_its_lily Out of the top 10, the riskiest one is probably DOT. Matic looks risky too, then ICP Theta VET FIL SHIB are all at risk.

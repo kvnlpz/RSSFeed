@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DYTRDR1 
-date: 2021-07-16 21:14:42 
-categories: twitter 
---- 
-@alphatrends Thanks, man!👊

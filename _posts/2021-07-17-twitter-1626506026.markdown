@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bigsmelly 
-date: 2021-07-17 00:13:46 
-categories: twitter 
---- 
-@nope_its_lily For me it's about producing an elegant solution -measured against many dimensions. E.g reducing comp… https://t.co/xZ3tw1lDFc

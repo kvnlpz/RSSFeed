@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheLOBO522 
-date: 2021-07-15 18:30:18 
-categories: twitter 
---- 
-@nope_its_lily What if it lands on its side?

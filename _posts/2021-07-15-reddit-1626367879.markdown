@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any Change to Recommendations Based on Current Political Attention? 
-date: 2021-07-15 1626367879 
-categories: reddit 
---- 
-https://redd.it/okwtrp

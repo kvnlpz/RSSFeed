@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrleee138 
-date: 2021-07-16 13:30:46 
-categories: twitter 
---- 
-@InvestorsLive I hate that ticker.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnFli05364171 
-date: 2021-07-17 01:11:30 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade @TraderBryce Hell ya

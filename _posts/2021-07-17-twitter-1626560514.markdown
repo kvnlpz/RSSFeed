@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ontheslabs 
-date: 2021-07-17 15:21:54 
-categories: twitter 
---- 
-@modern_rock @AT09_Trader My 9 year old cousin sees patterns better than me. She's like: there's one right there, t… https://t.co/E9bdueTT3m

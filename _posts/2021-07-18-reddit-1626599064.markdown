@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here is how to hold smaller amounts of coins with high fees (like ETH and BTC) safe outside of exchanges and trade it basically for free without paying high fees. 
-date: 2021-07-18 1626599064 
-categories: reddit 
---- 
-https://redd.it/omn1y7

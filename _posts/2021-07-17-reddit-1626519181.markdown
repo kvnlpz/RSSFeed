@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It’s about time 
-date: 2021-07-17 1626519181 
-categories: reddit 
---- 
-https://redd.it/om20i8

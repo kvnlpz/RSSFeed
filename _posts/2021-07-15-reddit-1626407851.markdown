@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If a stock isn't available to short on Fidelity, then is it shortable on a different brokerage account? Also, how do I tell how much of a stock is available to short? 
-date: 2021-07-15 1626407851 
-categories: reddit 
---- 
-https://redd.it/ol90y9

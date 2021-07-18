@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @empirezhu 
-date: 2021-07-17 01:39:29 
-categories: twitter 
---- 
-@nope_its_lily This just tells me you haven’t been involved in challenging problem domains… in which programming is… https://t.co/UrfXq67jYa

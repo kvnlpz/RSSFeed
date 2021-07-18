@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Eden Election: Smart Start proposal by Douglas Butner of cXc.world (Eden Mock Election 2) - EdenOnEOS 
-date: 2021-07-17 1626536876 
-categories: reddit 
---- 
-https://redd.it/om6r0q

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Revolut as a method for FIAT on-ramp? What's your experience? 
-date: 2021-07-15 1626364869 
-categories: reddit 
---- 
-https://redd.it/okvtae

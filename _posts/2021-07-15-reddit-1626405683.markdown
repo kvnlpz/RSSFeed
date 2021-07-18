@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trading to DCA 
-date: 2021-07-15 1626405683 
-categories: reddit 
---- 
-https://redd.it/ol8hc3

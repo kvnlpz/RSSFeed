@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Retail_Whale 
-date: 2021-07-17 12:49:14 
-categories: twitter 
---- 
-RT @InvestorsLive: Real estate prices in a nutshell = premium you're willing to pay to NOT miss the opportunity.

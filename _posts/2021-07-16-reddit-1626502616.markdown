@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ICO Admin Template Bootstrap Admin Dashboard with Light Theme 
-date: 2021-07-16 1626502616 
-categories: reddit 
---- 
-https://redd.it/olytly

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledgermatic’s treasury and custody services now live for the Algorand ecosystem 
-date: 2021-07-18 1626615717 
-categories: reddit 
---- 
-https://redd.it/omqqgm

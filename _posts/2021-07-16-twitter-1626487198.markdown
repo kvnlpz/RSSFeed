@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @samdruss 
-date: 2021-07-16 18:59:58 
-categories: twitter 
---- 
-@nope_its_lily So free!

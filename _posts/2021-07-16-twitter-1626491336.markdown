@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 20:08:56 
-categories: twitter 
---- 
-RT @choffstein: @Ksidiii https://t.co/EnxQD5HXfj

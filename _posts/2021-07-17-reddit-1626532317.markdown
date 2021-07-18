@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Article from 2013: Bitcoin Is Doomed to Fail 
-date: 2021-07-17 1626532317 
-categories: reddit 
---- 
-https://redd.it/om5ci4

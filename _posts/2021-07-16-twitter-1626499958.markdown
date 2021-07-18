@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 22:32:38 
-categories: twitter 
---- 
-@AnthonyLeeZhang But what I mean here is I take no enjoyment in the usage of the tool I use to create - it’s the sa… https://t.co/ijSxIjstcL

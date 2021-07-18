@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WickedDip 
-date: 2021-07-16 15:11:51 
-categories: twitter 
---- 
-@InvestorsLive That’s no bull shirt 😎

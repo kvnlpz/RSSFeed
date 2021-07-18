@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnthonyLeeZhang 
-date: 2021-07-16 22:44:52 
-categories: twitter 
---- 
-@nope_its_lily I sort of sympathize. Googling solutions sucks. Solving things with a small set of tools used clever… https://t.co/KAA48NsZv6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How difficult was the invention of Blockchain by Satoshi Nakamoto? Was is it a novelty that SN happened to pursue but the invention of which was fairly easy and someone else could have done or was it a technical breakthrough that others might not have made? 
-date: 2021-07-15 1626412913 
-categories: reddit 
---- 
-https://redd.it/olaaim

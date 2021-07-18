@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PepeXBT 
-date: 2021-07-16 19:02:36 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/uZYk2PZ8YM

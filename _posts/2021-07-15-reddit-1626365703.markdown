@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ‎Stephen Wolfram on Computation, Hypergraphs, and Fundamental Physics 
-date: 2021-07-15 1626365703 
-categories: reddit 
---- 
-https://redd.it/okw3gc

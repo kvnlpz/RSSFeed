@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MauARES 
-date: 2021-07-16 07:29:15 
-categories: twitter 
---- 
-@nope_its_lily 👉👈

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_ROCK1 
-date: 2021-07-18 08:42:56 
-categories: twitter 
---- 
-RT @modern_rock: Dang I traded a ton of volume and paid a ton in fees that day trading $FNMA https://t.co/CowwBDKe5R

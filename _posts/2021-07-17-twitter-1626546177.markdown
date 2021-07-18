@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-17 11:22:57 
-categories: twitter 
---- 
-When I started to first tweet! Wow https://t.co/WBfQpKBn3c

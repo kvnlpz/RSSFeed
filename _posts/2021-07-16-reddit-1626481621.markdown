@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do hedge funds and ETFs respond when a new stock is included into the S&P 500? 
-date: 2021-07-16 1626481621 
-categories: reddit 
---- 
-https://redd.it/oltp9e

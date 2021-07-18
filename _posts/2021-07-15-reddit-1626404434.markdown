@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are the infrastructure issues that block chain is currently facing 
-date: 2021-07-15 1626404434 
-categories: reddit 
---- 
-https://redd.it/ol84ve

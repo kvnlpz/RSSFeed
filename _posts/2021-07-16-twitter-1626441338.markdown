@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @flyingcamel56 
-date: 2021-07-16 06:15:38 
-categories: twitter 
---- 
-@InvestorsLive Spending summers at beach is one of the best experiences any kid could have

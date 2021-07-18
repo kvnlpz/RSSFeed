@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Happy belated 20th Birthday to BitTorrent protocol, originally authored by Bram Cohen. You have changed the world forever, and gave us an early glimpse of a decentralized future. It's a shame how Justin is absolutely destroying the project. 
-date: 2021-07-15 1626354238 
-categories: reddit 
---- 
-https://redd.it/oksekb

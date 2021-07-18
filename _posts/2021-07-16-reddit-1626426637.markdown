@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can you withdraw ETC from coinbase? 
-date: 2021-07-16 1626426637 
-categories: reddit 
---- 
-https://redd.it/old72z

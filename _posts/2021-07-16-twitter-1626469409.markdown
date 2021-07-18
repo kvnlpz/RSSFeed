@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hocksiewChua1 
-date: 2021-07-16 14:03:29 
-categories: twitter 
---- 
-@muddywatersre Enron alone cost investors $75 billion or more.

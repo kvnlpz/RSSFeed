@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DelishsMilishs 
-date: 2021-07-15 18:35:31 
-categories: twitter 
---- 
-@nope_its_lily Stonks BEHAVE!!

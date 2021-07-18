@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: User Moderation of Posts on r/CryptoCurrency 
-date: 2021-07-15 1626379584 
-categories: reddit 
---- 
-https://redd.it/ol0ru9

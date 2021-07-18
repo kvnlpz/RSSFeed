@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Learn how to stake Cosmos ATOM on Osmosis Zone via Keplr wallet by Everstake Team 
-date: 2021-07-16 1626436511 
-categories: reddit 
---- 
-https://redd.it/olfdi5

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nic__carter 
-date: 2021-07-15 08:40:11 
-categories: twitter 
---- 
-@nope_its_lily i made a lightning txn without a valid money transmitter license in 30 states they're coming for my ass

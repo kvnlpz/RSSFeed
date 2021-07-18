@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @the_todd2 
-date: 2021-07-17 14:31:30 
-categories: twitter 
---- 
-@timothysykes HERDAT!!!!

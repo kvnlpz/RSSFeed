@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm trying to trade a token on Uniswap. My wallet say's I have $10,000 in value, but Uniswap offers only $20 for the trade. What gives? 
-date: 2021-07-17 1626560599 
-categories: reddit 
---- 
-https://redd.it/ome39x

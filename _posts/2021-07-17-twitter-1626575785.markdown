@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ScalpersEdge 
-date: 2021-07-17 19:36:25 
-categories: twitter 
---- 
-RT @InvestorsLive: What happens when they pull the goalie? 🥅 https://t.co/WnIPWyvqp6

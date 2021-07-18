@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @defiantgti 
-date: 2021-07-15 12:03:17 
-categories: twitter 
---- 
-@timothysykes dip buy morning panic $DPLS 0.145

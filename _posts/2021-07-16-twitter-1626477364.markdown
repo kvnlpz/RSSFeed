@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Clutchcaller 
-date: 2021-07-16 16:16:04 
-categories: twitter 
---- 
-@modern_rock That’s what’s up👍

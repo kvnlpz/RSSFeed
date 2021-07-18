@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 10:51:58 
-categories: twitter 
---- 
-@jackfromohio @macrocephalopod i'd rather die than learn how to use git

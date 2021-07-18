@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why does banking & finance require 3rd parties? How does proof of work & the bitcoin blockchain remove any need for this? Why is bitcoin's decentralization an emergent property? 
-date: 2021-07-16 1626434830 
-categories: reddit 
---- 
-https://redd.it/oleytb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many of you use hard wallets? 
-date: 2021-07-18 1626597970 
-categories: reddit 
---- 
-https://redd.it/ommu75

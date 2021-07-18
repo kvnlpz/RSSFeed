@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lo2hi 
-date: 2021-07-16 05:50:25 
-categories: twitter 
---- 
-@nope_its_lily why do you want to know?

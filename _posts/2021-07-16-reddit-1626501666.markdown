@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BAT use cases 
-date: 2021-07-16 1626501666 
-categories: reddit 
---- 
-https://redd.it/olymgn

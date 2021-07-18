@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Carlos___Matos 
-date: 2021-07-15 22:21:08 
-categories: twitter 
---- 
-@nope_its_lily @valueterminal always tweeting the truth

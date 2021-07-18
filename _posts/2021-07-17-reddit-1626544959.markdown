@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Slightly cheaper Bitcoin? 
-date: 2021-07-17 1626544959 
-categories: reddit 
---- 
-https://redd.it/om9blm

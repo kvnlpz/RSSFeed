@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 09:08:28 
-categories: twitter 
---- 
-@volmagorov @jmccart10 I mean. Same.

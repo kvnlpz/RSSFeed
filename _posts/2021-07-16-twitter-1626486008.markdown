@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-16 18:40:08 
-categories: twitter 
---- 
-ZZ convinced me to take most of the day off for non market fun today https://t.co/v7soGMnSCy

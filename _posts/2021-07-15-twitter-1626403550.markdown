@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-15 19:45:50 
-categories: twitter 
---- 
-@scottybradford Yep can't wait for tomorrow 👍

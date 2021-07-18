@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Recordo 
-date: 2021-07-15 07:31:07 
-categories: twitter 
---- 
-@nope_its_lily $TGT Becky Mecca

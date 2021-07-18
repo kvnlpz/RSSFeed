@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For the blockchain developers wannabes: create a game to learn 
-date: 2021-07-15 1626394589 
-categories: reddit 
---- 
-https://redd.it/ol5ez5

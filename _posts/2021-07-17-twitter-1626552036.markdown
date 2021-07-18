@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockMeat 
-date: 2021-07-17 13:00:36 
-categories: twitter 
---- 
-@InvestorsLive Even smarter now because so many people are becoming permanent remote workers, so they can finally p… https://t.co/8azjQqts9w

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bullchaser2 
-date: 2021-07-17 03:41:41 
-categories: twitter 
---- 
-RT @nope_its_lily: red means you're making money right?

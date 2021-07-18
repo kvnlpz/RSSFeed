@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Creating a watch only wallet 
-date: 2021-07-16 1626493186 
-categories: reddit 
---- 
-https://redd.it/olwohf

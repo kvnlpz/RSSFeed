@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: r/CC Cointest {{date %B %Y}} - Community Favs: Bitcoin Cash Pro-Arguments 
-date: 2021-07-17 1626550513 
-categories: reddit 
---- 
-https://redd.it/omb1ty

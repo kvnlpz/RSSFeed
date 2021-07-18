@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @notseriousknown 
-date: 2021-07-17 15:23:32 
-categories: twitter 
---- 
-RT @InvestorsLive: What happens when they pull the goalie? 🥅 https://t.co/WnIPWyvqp6

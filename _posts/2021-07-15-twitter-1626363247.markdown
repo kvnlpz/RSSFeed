@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Spartanfan171 
-date: 2021-07-15 08:34:07 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/TBu2w0gCvK

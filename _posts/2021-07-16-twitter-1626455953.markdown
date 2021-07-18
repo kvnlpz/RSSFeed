@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Super_Tradies 
-date: 2021-07-16 10:19:13 
-categories: twitter 
---- 
-RT @super_trades: https://t.co/d9Gy0p1DUf - Posted a New Watchlist: Friday Focus List !!!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @realjeffbarker 
-date: 2021-07-16 19:46:14 
-categories: twitter 
---- 
-@alphatrends https://t.co/AJxqK89nbK

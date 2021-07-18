@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @beforethecrowd 
-date: 2021-07-15 04:59:11 
-categories: twitter 
---- 
-RT @InvestorsLive: I am thankful for those who find these undiscovered companies with no news and no reason to go up before they go up "org…

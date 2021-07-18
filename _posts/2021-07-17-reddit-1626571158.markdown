@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Dragon 
-date: 2021-07-17 1626571158 
-categories: reddit 
---- 
-https://redd.it/omgu9c

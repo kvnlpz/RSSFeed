@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mattyfriedman_ 
-date: 2021-07-15 10:49:23 
-categories: twitter 
---- 
-@OddStockTrader ETH 1300-1400?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Apparent copy/paste malware that can change you your copied wallet address to a different address upon paste function. 
-date: 2021-07-17 1626528164 
-categories: reddit 
---- 
-https://redd.it/om45y7

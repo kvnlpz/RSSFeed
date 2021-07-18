@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5: PoW vs PoS - help me fill in the gaps? 
-date: 2021-07-15 1626360737 
-categories: reddit 
---- 
-https://redd.it/okuerb

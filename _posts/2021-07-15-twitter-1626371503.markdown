@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @frasiertrades 
-date: 2021-07-15 10:51:43 
-categories: twitter 
---- 
-@InvestorsLive Must be French

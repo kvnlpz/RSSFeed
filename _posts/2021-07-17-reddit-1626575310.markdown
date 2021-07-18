@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Disable JavaScript to Harden Digital Security and keep your assets safe. 
-date: 2021-07-17 1626575310 
-categories: reddit 
---- 
-https://redd.it/omhurr

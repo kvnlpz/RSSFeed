@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @itenginerd 
-date: 2021-07-16 13:24:52 
-categories: twitter 
---- 
-@nope_its_lily Might be something TweetDeck solves. I haven't used in forever (and they got breached and hacked my… https://t.co/oEnBrBptzP

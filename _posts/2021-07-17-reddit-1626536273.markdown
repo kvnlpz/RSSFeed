@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My Experience in Last one year 
-date: 2021-07-17 1626536273 
-categories: reddit 
---- 
-https://redd.it/om6k0t

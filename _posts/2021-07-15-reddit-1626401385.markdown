@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I want to buy! 
-date: 2021-07-15 1626401385 
-categories: reddit 
---- 
-https://redd.it/ol7akt

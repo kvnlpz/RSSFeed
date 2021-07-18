@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking pool rug pull 
-date: 2021-07-15 1626394915 
-categories: reddit 
---- 
-https://redd.it/ol0npv

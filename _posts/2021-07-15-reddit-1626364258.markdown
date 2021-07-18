@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New CoinBase debit card type to spend your crypto. 
-date: 2021-07-15 1626364258 
-categories: reddit 
---- 
-https://redd.it/okvltd

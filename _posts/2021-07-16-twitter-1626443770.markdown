@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joe71900334 
-date: 2021-07-16 06:56:10 
-categories: twitter 
---- 
-@timothysykes Congrats sweet job

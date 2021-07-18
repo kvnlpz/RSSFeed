@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-15 04:36:51 
-categories: twitter 
---- 
-@JasonHa12105149 It will make sense for you in time.

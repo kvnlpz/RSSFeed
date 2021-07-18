@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 10:55:58 
-categories: twitter 
---- 
-@J09895359 Kk

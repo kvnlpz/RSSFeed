@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: my own ERC 20 Token is now live on Uniswap [still testnet] 
-date: 2021-07-15 1626362281 
-categories: reddit 
---- 
-https://redd.it/okuxx5

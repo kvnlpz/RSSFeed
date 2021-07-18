@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My most degenerate possible upcoming YOLO. 
-date: 2021-07-16 1626464413 
-categories: reddit 
---- 
-https://redd.it/olocan

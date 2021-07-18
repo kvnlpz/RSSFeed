@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @adiplayer 
-date: 2021-07-16 20:01:01 
-categories: twitter 
---- 
-@nope_its_lily Did your covid shot make you grow a tail like mine did?

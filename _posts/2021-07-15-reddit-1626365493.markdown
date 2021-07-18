@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does the Comex futures market affect the price of Bitcoin? 
-date: 2021-07-15 1626365493 
-categories: reddit 
---- 
-https://redd.it/okw0wk

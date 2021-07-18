@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Minswap July update: Multi-pool swap with Plutus and eUTxO model 
-date: 2021-07-15 1626366476 
-categories: reddit 
---- 
-https://redd.it/okwciu

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: META 
-date: 2021-07-15 1626366856 
-categories: reddit 
---- 
-https://redd.it/okwh6t

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FREAK0NAUT 
-date: 2021-07-16 08:21:44 
-categories: twitter 
---- 
-@nope_its_lily no options expire instantly Lily and they are all priced based on the forward price of the underlyin… https://t.co/b41UbKC1f7

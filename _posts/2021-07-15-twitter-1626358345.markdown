@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FrankLivingItUp 
-date: 2021-07-15 07:12:25 
-categories: twitter 
---- 
-@timothysykes Happy Birthday to your Mom 🎉 shes proud of you!

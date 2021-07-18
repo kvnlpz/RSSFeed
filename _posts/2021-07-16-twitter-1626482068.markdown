@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kunal00 
-date: 2021-07-16 17:34:28 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause Do you have any Smediums for @jscherniack ?

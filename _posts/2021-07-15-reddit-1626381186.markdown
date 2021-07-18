@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are your thoughts on 0xBTC? 
-date: 2021-07-15 1626381186 
-categories: reddit 
---- 
-https://redd.it/ol1ati

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question on ITM SPX credit spreads on expiration 
-date: 2021-07-16 1626495901 
-categories: reddit 
---- 
-https://redd.it/olxbza

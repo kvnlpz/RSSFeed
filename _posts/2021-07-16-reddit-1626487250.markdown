@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is this good? 
-date: 2021-07-16 1626487250 
-categories: reddit 
---- 
-https://redd.it/olv5ue

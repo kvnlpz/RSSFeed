@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dorsey Plans DeFi on Bitcoin, Critics Point to Ethereum 
-date: 2021-07-16 1626432399 
-categories: reddit 
---- 
-https://redd.it/oleeda

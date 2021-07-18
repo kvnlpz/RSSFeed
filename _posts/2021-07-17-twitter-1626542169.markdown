@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-17 10:16:09 
-categories: twitter 
---- 
-@ericdavis221 Glad you liked it!

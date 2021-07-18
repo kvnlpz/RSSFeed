@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-16 07:37:43 
-categories: twitter 
---- 
-@shortsRbent $XELA wasn't a main focus https://t.co/Mje6zHVRHR

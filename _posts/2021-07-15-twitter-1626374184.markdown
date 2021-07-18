@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TaPlot 
-date: 2021-07-15 11:36:24 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen @anishsikri @NickSchmidt_ @gregdsports @gmorton512 @SAC66 @JasonAThomson @DarvasTrading Mayb… https://t.co/bDreUkBnVk

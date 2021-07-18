@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @robbrutvan 
-date: 2021-07-15 00:16:22 
-categories: twitter 
---- 
-@nope_its_lily Half on $GME shares to sell covered calls on and the other half on ATM leaps

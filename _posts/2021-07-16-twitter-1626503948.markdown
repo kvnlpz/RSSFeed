@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mellamosticky 
-date: 2021-07-16 23:39:08 
-categories: twitter 
---- 
-@nope_its_lily @0xElm0 @inversebrah

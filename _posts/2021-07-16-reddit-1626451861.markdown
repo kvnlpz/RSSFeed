@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Network Status Update Friday, July 16, 2021 
-date: 2021-07-16 1626451861 
-categories: reddit 
---- 
-https://redd.it/oljzm9

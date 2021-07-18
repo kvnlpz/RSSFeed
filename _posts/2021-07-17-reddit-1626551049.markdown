@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mixed stocks and options portfolio 
-date: 2021-07-17 1626551049 
-categories: reddit 
---- 
-https://redd.it/omb8xt

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @no_pullbacks 
-date: 2021-07-15 12:58:01 
-categories: twitter 
---- 
-RT @nope_its_lily: Today was such a crap showing by bears that they honestly deserve SPX 4500 next month.

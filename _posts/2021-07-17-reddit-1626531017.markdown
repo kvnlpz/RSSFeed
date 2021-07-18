@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gifting paper wallets, no seed phrase? 
-date: 2021-07-17 1626531017 
-categories: reddit 
---- 
-https://redd.it/om4yp3

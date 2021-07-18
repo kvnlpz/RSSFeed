@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Maximus_Holla 
-date: 2021-07-15 15:04:14 
-categories: twitter 
---- 
-RT @iancassel: The goal of investment is to buy the things everyone else will want to own later.

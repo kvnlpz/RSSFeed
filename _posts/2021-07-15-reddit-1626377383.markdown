@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin in Your IRA? What Could Possibly Go Wrong? 
-date: 2021-07-15 1626377383 
-categories: reddit 
---- 
-https://redd.it/ol01be

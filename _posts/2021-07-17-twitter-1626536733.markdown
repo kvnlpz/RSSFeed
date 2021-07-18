@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-17 08:45:33 
-categories: twitter 
---- 
-my very mini-version was last night people trying to explain to me programming in my "I dislike programming" rant e… https://t.co/F8bGAVADf0

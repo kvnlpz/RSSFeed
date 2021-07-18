@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Trunk11291 
-date: 2021-07-16 22:44:19 
-categories: twitter 
---- 
-@nope_its_lily I would argue good programming is more akin to writing or making art than brushing your teeth.

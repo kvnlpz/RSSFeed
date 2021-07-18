@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xandercino 
-date: 2021-07-15 01:43:03 
-categories: twitter 
---- 
-RT @nope_its_lily: I’m really glad this inflation is transitory or I’d be scared I just paid $13 for a McDonalds chicken nuggets and French…

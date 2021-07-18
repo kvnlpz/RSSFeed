@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 1sat/byte getting confirmed 
-date: 2021-07-15 1626352347 
-categories: reddit 
---- 
-https://redd.it/okrvu3

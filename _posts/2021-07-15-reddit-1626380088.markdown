@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TezTalks Radio #22: Built on Tezos - a discussion with AmplifyX's CEO, Adam Cowherd 
-date: 2021-07-15 1626380088 
-categories: reddit 
---- 
-https://redd.it/ol0xsl

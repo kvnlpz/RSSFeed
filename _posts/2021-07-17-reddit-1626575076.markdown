@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin bounce back 
-date: 2021-07-17 1626575076 
-categories: reddit 
---- 
-https://redd.it/omhspt

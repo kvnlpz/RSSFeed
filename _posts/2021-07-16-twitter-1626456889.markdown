@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @heavyequiptrade 
-date: 2021-07-16 10:34:49 
-categories: twitter 
---- 
-RT @nope_its_lily: this proves no-arb does not exist https://t.co/9DWAfCM33e

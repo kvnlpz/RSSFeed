@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheCGerb 
-date: 2021-07-17 12:32:43 
-categories: twitter 
---- 
-@muddywatersre 🤔 Indeed.

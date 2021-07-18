@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My currency is stuck in a “Sidechain Gateway Manager”. Help me! 
-date: 2021-07-16 1626486203 
-categories: reddit 
---- 
-https://redd.it/oluwb4

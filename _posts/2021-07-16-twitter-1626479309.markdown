@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @colin_gladman 
-date: 2021-07-16 16:48:29 
-categories: twitter 
---- 
-@OddStockTrader This is the most on point thing I’ve seen today 😂

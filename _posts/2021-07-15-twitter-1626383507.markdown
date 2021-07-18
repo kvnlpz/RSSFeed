@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @saint_trades 
-date: 2021-07-15 14:11:47 
-categories: twitter 
---- 
-RT @TraderTexMex: $IBIO iBio Reports Successful Preclinical Immunization Studies with Next-Gen Nucleocapsid COVID-19 Vaccine Candidate

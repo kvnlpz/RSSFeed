@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DeusThanato 
-date: 2021-07-16 10:56:06 
-categories: twitter 
---- 
-@nope_its_lily Yes, but not for yourself.

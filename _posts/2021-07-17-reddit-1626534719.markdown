@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Airbnb outlook 
-date: 2021-07-17 1626534719 
-categories: reddit 
---- 
-https://redd.it/om62v6

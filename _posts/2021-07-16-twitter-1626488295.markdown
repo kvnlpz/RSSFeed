@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xparkerbyronx 
-date: 2021-07-16 19:18:15 
-categories: twitter 
---- 
-RT @muddywatersre: Bummer about those negative encounters that kill you. https://t.co/HX4pFV6ISa

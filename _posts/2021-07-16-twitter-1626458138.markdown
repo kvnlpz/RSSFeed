@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bitwise_bob 
-date: 2021-07-16 10:55:38 
-categories: twitter 
---- 
-RT @nope_its_lily: I wonder if you could make a composite index of SPACs pre-LOI/sitting at NAV, and use it as a leading demand for liquidi…

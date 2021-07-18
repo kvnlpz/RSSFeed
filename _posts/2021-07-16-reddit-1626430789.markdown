@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The king is still the king. 
-date: 2021-07-16 1626430789 
-categories: reddit 
---- 
-https://redd.it/ole232

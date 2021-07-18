@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @advertisement 
-date: 2021-07-15 07:32:33 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/rpLgttJAvX

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-15 08:32:03 
-categories: twitter 
---- 
-amazing how well the VWAP anchored to the 7/20 breakout (black line on chart) has held as support for #Bitcoin 
-
-I… https://t.co/ZIHmZFyfqf

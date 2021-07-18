@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How is it that most launchpads STILL don't offer guaranteed allocations? This simply baffles me 
-date: 2021-07-17 1626564797 
-categories: reddit 
---- 
-https://redd.it/omf7b9

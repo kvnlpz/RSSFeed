@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stone_fenced 
-date: 2021-07-18 00:25:50 
-categories: twitter 
---- 
-@modern_rock @AT09_Trader Is he paper trading or did you give him a small account?

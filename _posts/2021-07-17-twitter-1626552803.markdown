@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anothrssmith 
-date: 2021-07-17 13:13:23 
-categories: twitter 
---- 
-@muddywatersre Negative has such a negative ring to it. How about "non-positive interactions"?

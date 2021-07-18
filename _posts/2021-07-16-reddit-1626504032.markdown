@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can I make the data provided by some ChainLink aggregator get updated every time I click on my “getLatestPrice” button? 
-date: 2021-07-16 1626504032 
-categories: reddit 
---- 
-https://redd.it/olz42l

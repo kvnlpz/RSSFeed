@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tellkyle 
-date: 2021-07-17 07:20:21 
-categories: twitter 
---- 
-@nope_its_lily @Johnonstocks It's a super unsexy way to retain and capture talent!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrFourtToeight 
-date: 2021-07-15 20:15:46 
-categories: twitter 
---- 
-RT @alphatrends: It has become more difficult to find low risk/ high probability swing trade setups the last few days

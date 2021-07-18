@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hoskhalil 
-date: 2021-07-15 10:11:38 
-categories: twitter 
---- 
-RT @InvestorsLive: $NVOS has had a bid since Benzinga article 30 min ago
-
-Novo Integrated Sciences' Patented Zgraft Platform can Predict Ca…

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-16 07:25:56 
-categories: twitter 
---- 
-$AEHR nice range
-
-#MyInvestingClub https://t.co/lYkE7f2pWl

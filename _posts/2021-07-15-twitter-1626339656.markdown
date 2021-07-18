@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @clijsters_dom 
-date: 2021-07-15 02:00:56 
-categories: twitter 
---- 
-RT @nope_its_lily: goodnight, sleep tight, don't let the tendency of the european markets to drag futures down into the abyss bite

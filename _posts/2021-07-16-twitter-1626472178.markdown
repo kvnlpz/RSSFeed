@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LewisPyer 
-date: 2021-07-16 14:49:38 
-categories: twitter 
---- 
-@nope_its_lily When you are running a long/short portfolio with 8-10 positions, all is well😌

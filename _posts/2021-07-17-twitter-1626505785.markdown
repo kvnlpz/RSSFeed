@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joe_r_Odonnell 
-date: 2021-07-17 00:09:45 
-categories: twitter 
---- 
-@nope_its_lily do you like writing?

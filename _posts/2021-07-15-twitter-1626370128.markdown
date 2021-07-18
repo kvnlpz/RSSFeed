@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddydirt 
-date: 2021-07-15 10:28:48 
-categories: twitter 
---- 
-@InvestorsLive We all I think...

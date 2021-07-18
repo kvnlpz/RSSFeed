@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lightning just doesn't work consistently 
-date: 2021-07-17 1626545808 
-categories: reddit 
---- 
-https://redd.it/om9kyb

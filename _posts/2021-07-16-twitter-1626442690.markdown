@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @760trader 
-date: 2021-07-16 06:38:10 
-categories: twitter 
---- 
-@OddStockTrader I was at autozone and they had an uber pickup for parts.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 14:19:20 
-categories: twitter 
---- 
-RT @kroyrunner89: Secondly, Trading Tickers 2 is a mix of updating the first, as well as introducing a few new strategies that I've added t…

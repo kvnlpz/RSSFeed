@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-16 15:57:23 
-categories: twitter 
---- 
-RT @StocksToTrade: Happy Friday to all! Today looks to be a little bit slow, so be sure to trade safe, be smart, and don’t chase! Test your…

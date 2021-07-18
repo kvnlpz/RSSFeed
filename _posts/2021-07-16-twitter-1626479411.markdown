@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 16:50:11 
-categories: twitter 
---- 
-@JKevin2011 I mean yeah you can, there's papers on this lol

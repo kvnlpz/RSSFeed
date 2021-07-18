@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking help 
-date: 2021-07-17 1626580541 
-categories: reddit 
---- 
-https://redd.it/omj4xs

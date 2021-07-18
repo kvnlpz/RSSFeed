@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thoughts on HEX 
-date: 2021-07-17 1626508516 
-categories: reddit 
---- 
-https://redd.it/olzzyh

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Price Action Today 
-date: 2021-07-15 1626356693 
-categories: reddit 
---- 
-https://redd.it/okt4ye

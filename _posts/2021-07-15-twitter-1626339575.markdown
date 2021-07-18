@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AdrianSaw2 
-date: 2021-07-15 01:59:35 
-categories: twitter 
---- 
-@nope_its_lily ETS Carbon credits

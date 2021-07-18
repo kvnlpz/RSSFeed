@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @d8tr8r 
-date: 2021-07-16 23:55:29 
-categories: twitter 
---- 
-@timothysykes Just wrapping up! Logged on at 0300 this morning for Pre &amp; shutting it down at midnight.

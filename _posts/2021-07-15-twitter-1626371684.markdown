@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrklondike1 
-date: 2021-07-15 10:54:44 
-categories: twitter 
---- 
-@OddStockTrader Although Bitcoin has had huge drops in the past, there was always a supply of new people who hadn’t… https://t.co/HaagyEu1j1

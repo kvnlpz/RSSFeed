@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 14:29:37 
-categories: twitter 
---- 
-Go hug your favorite permabear and tell him he did a good job today.

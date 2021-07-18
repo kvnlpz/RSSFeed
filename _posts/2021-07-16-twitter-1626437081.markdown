@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dopegraf 
-date: 2021-07-16 05:04:41 
-categories: twitter 
---- 
-@timothysykes let's watch some Tim TV

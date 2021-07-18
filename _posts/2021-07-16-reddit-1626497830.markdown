@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: London bridge may be falling down, but fear not; Ethereum is here to fix it! Let me introduce the 5 EIP’s of the London Hardfork. 🐬 
-date: 2021-07-16 1626497830 
-categories: reddit 
---- 
-https://redd.it/olxrik

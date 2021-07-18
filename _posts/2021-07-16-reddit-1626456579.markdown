@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Lambo in Toronto 
-date: 2021-07-16 1626456579 
-categories: reddit 
---- 
-https://redd.it/ollmw3

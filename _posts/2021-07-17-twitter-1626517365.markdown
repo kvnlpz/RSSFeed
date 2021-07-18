@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stevendu1_94 
-date: 2021-07-17 03:22:45 
-categories: twitter 
---- 
-RT @Steven1_994: $SCKT robinhooders has joined the chat

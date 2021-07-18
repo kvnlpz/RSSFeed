@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: YOLO on the Devil's Lettuce 
-date: 2021-07-15 1626374401 
-categories: reddit 
---- 
-https://redd.it/okz1ig

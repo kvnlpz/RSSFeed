@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrBulgaria23 
-date: 2021-07-15 13:21:32 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/tujmXIEsSy

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Would it be unethical to save a second copy of the seed phrase or private key to gifted crypto? 
-date: 2021-07-16 1626487217 
-categories: reddit 
---- 
-https://redd.it/olv5af

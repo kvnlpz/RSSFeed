@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnSerwach 
-date: 2021-07-15 17:03:25 
-categories: twitter 
---- 
-@nope_its_lily Makes sense. I heard McDonald’s is really raking in the dough too

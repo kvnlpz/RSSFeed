@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Auto upvote every time we reply to a comment 
-date: 2021-07-16 1626420555 
-categories: reddit 
---- 
-https://redd.it/olbybi

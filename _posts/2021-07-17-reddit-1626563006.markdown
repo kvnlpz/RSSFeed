@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are there any projects using blockchain to prove cash is used on a specific purpose? 
-date: 2021-07-17 1626563006 
-categories: reddit 
---- 
-https://redd.it/omeqmq

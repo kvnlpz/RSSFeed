@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monero nodes ~15k, Bitcoin nodes ~13k,.. 
-date: 2021-07-15 1626416850 
-categories: reddit 
---- 
-https://redd.it/olb651

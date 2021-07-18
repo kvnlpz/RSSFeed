@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nvFede 
-date: 2021-07-15 07:22:05 
-categories: twitter 
---- 
-@nope_its_lily used cars 🙄🙄

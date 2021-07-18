@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $DROP a Ticker that may do the opposite 
-date: 2021-07-15 1626369985 
-categories: reddit 
---- 
-https://redd.it/okxjik

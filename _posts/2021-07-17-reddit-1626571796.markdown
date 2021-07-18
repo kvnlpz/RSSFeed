@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Making sure Hardware Wallet is Uncompromised? 
-date: 2021-07-17 1626571796 
-categories: reddit 
---- 
-https://redd.it/omgzps

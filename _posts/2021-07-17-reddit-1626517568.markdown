@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin the Perfect storm 
-date: 2021-07-17 1626517568 
-categories: reddit 
---- 
-https://redd.it/om1pj7

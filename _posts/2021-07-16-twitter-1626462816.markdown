@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @duke78987995 
-date: 2021-07-16 12:13:36 
-categories: twitter 
---- 
-@nope_its_lily Spec trading using the human mind as a signal on a intraday basis is impossible

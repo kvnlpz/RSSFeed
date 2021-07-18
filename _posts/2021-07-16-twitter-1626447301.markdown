@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @snootypigeon 
-date: 2021-07-16 07:55:01 
-categories: twitter 
---- 
-@nope_its_lily i think this would be the end of twitter

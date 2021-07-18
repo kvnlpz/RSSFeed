@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fox88279836 
-date: 2021-07-15 03:58:31 
-categories: twitter 
---- 
-@nope_its_lily NVIDIA and AMD. The chip shortage will continue to make them extremely profitable

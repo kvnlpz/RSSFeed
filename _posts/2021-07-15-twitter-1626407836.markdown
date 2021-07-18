@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JDan30 
-date: 2021-07-15 20:57:16 
-categories: twitter 
---- 
-RT @iancassel: If you did the work that others didn’t do then don’t be intimidated by the critics that can’t see what you see.

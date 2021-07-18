@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Unable to restore Cardano wallet 
-date: 2021-07-16 1626421987 
-categories: reddit 
---- 
-https://redd.it/olc8xa

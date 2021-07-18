@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @crypt0ee 
-date: 2021-07-16 23:35:43 
-categories: twitter 
---- 
-@OddStockTrader Better take here. https://t.co/yujyxlOsLB

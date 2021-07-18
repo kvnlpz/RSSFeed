@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 'brave browser' Another piece I did with the help of the Brave community team in Japan. (it's basically a coloring and texturing of my prior piece Brave accountant). 
-date: 2021-07-16 1626467089 
-categories: reddit 
---- 
-https://redd.it/olp8sk

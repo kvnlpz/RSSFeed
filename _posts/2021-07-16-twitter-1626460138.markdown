@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kunal00 
-date: 2021-07-16 11:28:58 
-categories: twitter 
---- 
-@modern_rock @AT09_Trader i know

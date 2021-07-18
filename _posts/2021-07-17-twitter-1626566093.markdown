@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Chuck10959618 
-date: 2021-07-17 16:54:53 
-categories: twitter 
---- 
-RT @LiveStreamFX1: This is true in trading as well @Canny4 @steenbab @MikeBellafiore

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I found a great team of developers on Reddit and we're building our own automated cryptocurrency trading platform 
-date: 2021-07-15 1626383152 
-categories: reddit 
---- 
-https://redd.it/ol1y6i

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Who is controlling the controllers? 
-date: 2021-07-15 1626375160 
-categories: reddit 
---- 
-https://redd.it/okzanm

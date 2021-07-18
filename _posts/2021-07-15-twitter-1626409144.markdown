@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-15 21:19:04 
-categories: twitter 
---- 
-RT @gregdsports: $ASAN is the next $STUDY in the #WinningCharacteristics series. Another late night post but had to get one study in per da…

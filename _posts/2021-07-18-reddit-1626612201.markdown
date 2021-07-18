@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made my own cryptocurrency in 2 minutes — here’s why that’s dangerous 
-date: 2021-07-18 1626612201 
-categories: reddit 
---- 
-https://redd.it/ompte6

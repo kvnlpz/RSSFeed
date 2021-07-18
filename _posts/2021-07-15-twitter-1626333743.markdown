@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stefanoscardia 
-date: 2021-07-15 00:22:23 
-categories: twitter 
---- 
-@RayTL_ $GATO break out 3days a go and then plunged -28%😬

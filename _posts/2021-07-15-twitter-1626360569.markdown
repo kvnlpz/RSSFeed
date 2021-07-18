@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Qullamaggie 
-date: 2021-07-15 07:49:29 
-categories: twitter 
---- 
-@InvestorsLive $TQQQ to the basement!

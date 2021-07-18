@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does Proof of Stake really work? 
-date: 2021-07-17 1626519284 
-categories: reddit 
---- 
-https://redd.it/om215o

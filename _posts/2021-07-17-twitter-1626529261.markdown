@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kcirtsew 
-date: 2021-07-17 06:41:01 
-categories: twitter 
---- 
-@nope_its_lily There’s joy in expressing an idea clearly. Mostly programming is more like filling in forms than pro… https://t.co/LmSm80f0cK

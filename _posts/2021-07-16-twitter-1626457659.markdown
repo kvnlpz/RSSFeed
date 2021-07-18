@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 10:47:39 
-categories: twitter 
---- 
-@macrocephalopod then accidentally overwriting your repo and messing up git history, and spending hours trying to r… https://t.co/ZcljcB6zVt

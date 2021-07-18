@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit Post from 2013 about a Person losing 384 Bitcoin (worth $12194411,52 Today) 
-date: 2021-07-17 1626533050 
-categories: reddit 
---- 
-https://redd.it/om5koi

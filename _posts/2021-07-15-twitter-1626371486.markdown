@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-15 10:51:26 
-categories: twitter 
---- 
-@RichardMoglen @anishsikri @NickSchmidt_ @gregdsports @gmorton512 @SAC66 @JasonAThomson @DarvasTrading Great list.

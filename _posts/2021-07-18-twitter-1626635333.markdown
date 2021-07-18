@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ASwingTrader 
-date: 2021-07-18 12:08:53 
-categories: twitter 
---- 
-@RayTL_ 👏👏👏. What is the characteristics of Launchpad?

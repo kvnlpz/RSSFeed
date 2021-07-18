@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WolfOfWestonRd 
-date: 2021-07-16 05:27:23 
-categories: twitter 
---- 
-@timothysykes $DPLS #1 ...Called it here first
-
-https://t.co/Y1F75WQAyO

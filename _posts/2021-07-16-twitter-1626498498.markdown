@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YodaTheThing 
-date: 2021-07-16 22:08:18 
-categories: twitter 
---- 
-@nope_its_lily ADA will be gone with any luck, right before xrp

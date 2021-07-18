@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I Build a Price Alert Web for Exchanges 
-date: 2021-07-15 1626371533 
-categories: reddit 
---- 
-https://redd.it/oky2bs

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proposal - Dedicated Subreddit for Moons v0.1 DRAFT 
-date: 2021-07-16 1626494013 
-categories: reddit 
---- 
-https://redd.it/olwvsd

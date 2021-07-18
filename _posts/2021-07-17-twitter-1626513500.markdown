@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MConvexity 
-date: 2021-07-17 02:18:20 
-categories: twitter 
---- 
-@nope_its_lily Coding is a means to an end, not an end in itself.

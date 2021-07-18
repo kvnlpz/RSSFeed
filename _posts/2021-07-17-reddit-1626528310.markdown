@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: As ADA proponents, we delegate our ADA to stake pools, making us part of the overall Cardano Infrastructure earnings model. 
-date: 2021-07-17 1626528310 
-categories: reddit 
---- 
-https://redd.it/om477p

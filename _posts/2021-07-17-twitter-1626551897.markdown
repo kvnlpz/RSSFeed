@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-17 12:58:17 
-categories: twitter 
---- 
-@paulsam68281414 @YouTube glad you enjoyed it!

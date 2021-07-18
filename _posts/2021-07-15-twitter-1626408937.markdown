@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-15 21:15:37 
-categories: twitter 
---- 
-@tolstoybb I feel you and @rachdele need to be best friends

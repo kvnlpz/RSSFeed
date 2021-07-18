@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Lou_Crusoe 
-date: 2021-07-15 07:59:08 
-categories: twitter 
---- 
-@nope_its_lily the only true commentary is shitposts

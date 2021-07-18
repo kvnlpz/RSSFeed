@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kroyrunner_89 
-date: 2021-07-16 11:17:28 
-categories: twitter 
---- 
-RT @kroyrunner89: Just test drove a @Tesla Model X... and WOW! That is one fun car, autopilot is pretty damn cool!

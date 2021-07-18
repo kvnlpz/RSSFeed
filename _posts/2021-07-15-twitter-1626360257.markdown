@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-15 07:44:17 
-categories: twitter 
---- 
-@DavidDriedger1 I'd start with the free @InvestorsLive Youtube video series

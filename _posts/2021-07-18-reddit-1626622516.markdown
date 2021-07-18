@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Perspective 
-date: 2021-07-18 1626622516 
-categories: reddit 
---- 
-https://redd.it/omssn2

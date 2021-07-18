@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bradypomeroy 
-date: 2021-07-15 10:18:33 
-categories: twitter 
---- 
-@alphatrends Thanks!

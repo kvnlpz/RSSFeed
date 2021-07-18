@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Las Vegas Strip Club Now Accepts Bitcoin Payments Over the Lightning Network 
-date: 2021-07-15 1626349862 
-categories: reddit 
---- 
-https://redd.it/okr8fm

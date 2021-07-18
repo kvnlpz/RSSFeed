@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AllianceBlock successfully launched its decentralized blockchain interaction platform AllianceBridge 
-date: 2021-07-16 1626504225 
-categories: reddit 
---- 
-https://redd.it/olz5ee

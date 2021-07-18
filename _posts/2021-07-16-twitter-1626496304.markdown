@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AStuart128 
-date: 2021-07-16 21:31:44 
-categories: twitter 
---- 
-@RayTL_ Hi @RayTL_  is the RS line on tradingview set up to be used on other exchanges? 
-
-I’ve tried using it for t… https://t.co/rivtcz6Qzj

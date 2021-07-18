@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheMarathon8320 
-date: 2021-07-17 12:52:27 
-categories: twitter 
---- 
-@InvestorsLive Bubble or nah?

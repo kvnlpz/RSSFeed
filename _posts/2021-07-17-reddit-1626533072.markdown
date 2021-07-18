@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA: Gate.io and transferring LTC 
-date: 2021-07-17 1626533072 
-categories: reddit 
---- 
-https://redd.it/om5kzn

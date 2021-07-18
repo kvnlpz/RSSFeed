@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jon_soulia 
-date: 2021-07-17 10:15:29 
-categories: twitter 
---- 
-@timothysykes Challenge Newbie here..1st full day in the program Thurs 7/15.  Chewed up the orientation videos, now… https://t.co/wpO5qWiJF9

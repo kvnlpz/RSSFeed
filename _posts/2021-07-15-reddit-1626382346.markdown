@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is the price of Bitcoin so different between USDT and EUR? 
-date: 2021-07-15 1626382346 
-categories: reddit 
---- 
-https://redd.it/ol1org

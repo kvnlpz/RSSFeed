@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mirroring Bitcoin. 
-date: 2021-07-17 1626582535 
-categories: reddit 
---- 
-https://redd.it/omjlrh

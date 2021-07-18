@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-18 06:53:40 
-categories: twitter 
---- 
-@JasonNance77 Nice!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iamspclientele 
-date: 2021-07-18 06:14:17 
-categories: twitter 
---- 
-@timothysykes Good Morning 25/8 that's the mindstate.....

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChrisHammarborg 
-date: 2021-07-15 01:27:26 
-categories: twitter 
---- 
-@nope_its_lily Chevron and Kazatompron

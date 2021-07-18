@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnVieira25 
-date: 2021-07-17 14:29:50 
-categories: twitter 
---- 
-RT @InvestorsLive: Real estate prices in a nutshell = premium you're willing to pay to NOT miss the opportunity.

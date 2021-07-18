@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's this sub's opinion on chainlink? 
-date: 2021-07-17 1626529780 
-categories: reddit 
---- 
-https://redd.it/om4lwn

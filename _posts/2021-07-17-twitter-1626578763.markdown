@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LeeWebb95915642 
-date: 2021-07-17 20:26:03 
-categories: twitter 
---- 
-@offshorehunters hi,im trying to find an earnings release date but nowhere seems to have it available.any idea why that would be.thank you

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This past week in the market 
-date: 2021-07-17 1626561705 
-categories: reddit 
---- 
-https://redd.it/omedkc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First time I have ever seen Bitcoin at 0.0% gains or loss 
-date: 2021-07-16 1626474274 
-categories: reddit 
---- 
-https://redd.it/olrj7c

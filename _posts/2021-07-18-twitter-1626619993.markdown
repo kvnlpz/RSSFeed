@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AmbreenWasi 
-date: 2021-07-18 07:53:13 
-categories: twitter 
---- 
-RT @timothysykes: @StocksToTrade YESSSSS!

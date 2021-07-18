@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @electricessence 
-date: 2021-07-17 21:45:10 
-categories: twitter 
---- 
-@alphatrends 🤣 https://t.co/7Ao7IkpHfu

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Ozhar 
-date: 2021-07-15 19:08:44 
-categories: twitter 
---- 
-@nope_its_lily Not gonna lie you had me in the first half

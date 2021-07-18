@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gtrdude6 
-date: 2021-07-17 13:04:55 
-categories: twitter 
---- 
-@InvestorsLive Just sold a rental. Too good to pass up.

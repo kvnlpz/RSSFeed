@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FroTrades 
-date: 2021-07-15 20:57:41 
-categories: twitter 
---- 
-RT @nope_its_lily: this made me lol https://t.co/hDVHKfWSUo

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can anyone help me understand why they call The Graph (GRT) the Google of blockchains? 
-date: 2021-07-16 1626456571 
-categories: reddit 
---- 
-https://redd.it/ollms0

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @emerarudosplash 
-date: 2021-07-15 10:51:13 
-categories: twitter 
---- 
-@nope_its_lily Who tf taught you how to write an 8

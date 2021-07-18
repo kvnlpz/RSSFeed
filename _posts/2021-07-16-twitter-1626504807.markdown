@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ratzchow8 
-date: 2021-07-16 23:53:27 
-categories: twitter 
---- 
-@timothysykes Finished an hour back! Will start tomorrow again.

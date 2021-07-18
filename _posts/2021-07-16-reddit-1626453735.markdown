@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: can a scrypt aspic miner mine Bitcoin? 
-date: 2021-07-16 1626453735 
-categories: reddit 
---- 
-https://redd.it/olknd4

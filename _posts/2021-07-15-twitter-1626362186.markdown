@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Noob_Stock 
-date: 2021-07-15 08:16:26 
-categories: twitter 
---- 
-@OddStockTrader Bummer my major position in sector is in cwrk, timing couldn’t have been worse

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @laurentzeimes 
-date: 2021-07-16 23:35:24 
-categories: twitter 
---- 
-@nope_its_lily I love programming and writing pretty code makes me feel good. My fingers pressing on the keyboard a… https://t.co/ftcwyuNrYJ

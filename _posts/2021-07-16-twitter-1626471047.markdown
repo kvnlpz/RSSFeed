@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @svper_trades 
-date: 2021-07-16 14:30:47 
-categories: twitter 
---- 
-RT @super_trades: Funny to me how people are seriously comparing their SPACs with no substantial revenues for years with SPACs that have a…

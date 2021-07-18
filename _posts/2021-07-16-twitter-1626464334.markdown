@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DubRhino77 
-date: 2021-07-16 12:38:54 
-categories: twitter 
---- 
-@InvestorsLive With approval now given, what's the pt?

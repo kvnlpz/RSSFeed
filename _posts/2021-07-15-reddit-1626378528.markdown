@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stop scrolling 
-date: 2021-07-15 1626378528 
-categories: reddit 
---- 
-https://redd.it/ol0f3t

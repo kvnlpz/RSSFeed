@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best time to buy 
-date: 2021-07-15 1626347802 
-categories: reddit 
---- 
-https://redd.it/okqqvb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mzb__o_o_ 
-date: 2021-07-15 00:10:04 
-categories: twitter 
---- 
-@nope_its_lily prediction advice

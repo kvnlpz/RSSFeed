@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-15 11:49:22 
-categories: twitter 
---- 
-*Throws out all bread products in the house*

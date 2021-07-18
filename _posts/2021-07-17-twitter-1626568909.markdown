@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Lenyn77 
-date: 2021-07-17 17:41:49 
-categories: twitter 
---- 
-@InvestorsLive What setups have been working for you in the last 3 months?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Deitrichfarms 
-date: 2021-07-15 05:08:02 
-categories: twitter 
---- 
-@nope_its_lily Rubber dog sh!t

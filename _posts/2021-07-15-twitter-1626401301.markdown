@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SDonachiue 
-date: 2021-07-15 19:08:21 
-categories: twitter 
---- 
-@nope_its_lily Great way to make decisions impulsively

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NedTwigg 
-date: 2021-07-15 18:26:03 
-categories: twitter 
---- 
-@nope_its_lily Psychics! They provide a real service, by throwing stuff on the wall and seeing what sticks based on facial expressions.

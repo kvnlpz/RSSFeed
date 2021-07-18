@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: POS Comparison 
-date: 2021-07-16 1626473221 
-categories: reddit 
---- 
-https://redd.it/olr78c

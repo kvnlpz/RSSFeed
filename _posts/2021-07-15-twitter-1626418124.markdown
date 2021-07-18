@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gohar_shah 
-date: 2021-07-15 23:48:44 
-categories: twitter 
---- 
-@TraderTexMex Is this bad news for all trials in phase 3 for covid antibodies?

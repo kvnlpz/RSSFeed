@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-18 12:09:56 
-categories: twitter 
---- 
-@ASwingTrader See link above.

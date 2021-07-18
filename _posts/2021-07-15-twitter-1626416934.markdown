@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1amDom 
-date: 2021-07-15 23:28:54 
-categories: twitter 
---- 
-@RayTL_ Or an architect

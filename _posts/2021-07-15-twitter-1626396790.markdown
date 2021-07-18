@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlexSalfetnik 
-date: 2021-07-15 17:53:10 
-categories: twitter 
---- 
-RT @timothysykes: Retweet only if you've read this crucial book https://t.co/5cw7ALL8sI and its helped you learn the basics of trading, let…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-15 10:20:15 
-categories: twitter 
---- 
-$VERB fresh highs

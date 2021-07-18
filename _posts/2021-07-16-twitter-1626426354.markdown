@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NaumanVincent 
-date: 2021-07-16 02:05:54 
-categories: twitter 
---- 
-@timothysykes Hell yes been refreshing the page since 0200 just to be sure not to miss it

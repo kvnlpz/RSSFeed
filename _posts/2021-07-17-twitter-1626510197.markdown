@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Clutchcaller 
-date: 2021-07-17 01:23:17 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade @TraderBryce https://t.co/axUB06kjcv

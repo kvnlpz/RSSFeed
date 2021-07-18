@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Information on POET Technologies 
-date: 2021-07-16 1626442653 
-categories: reddit 
---- 
-https://redd.it/olh0fw

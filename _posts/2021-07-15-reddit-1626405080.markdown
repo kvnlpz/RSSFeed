@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tell me where I’m wrong on hex 
-date: 2021-07-15 1626405080 
-categories: reddit 
---- 
-https://redd.it/ol8bbk

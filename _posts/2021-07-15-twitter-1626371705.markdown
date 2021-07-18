@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheNeoYo 
-date: 2021-07-15 10:55:05 
-categories: twitter 
---- 
-@nope_its_lily Multi Var calc https://t.co/Hsi4SaUbFj

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What app should I use? 
-date: 2021-07-18 1626595780 
-categories: reddit 
---- 
-https://redd.it/ommepl

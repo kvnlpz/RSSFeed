@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrTonyMontana_ 
-date: 2021-07-15 10:00:48 
-categories: twitter 
---- 
-@InvestorsLive I sharted. Sorry.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance Floating Window Feature 
-date: 2021-07-17 1626563401 
-categories: reddit 
---- 
-https://redd.it/omeu77

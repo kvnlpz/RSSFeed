@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaycee393 
-date: 2021-07-16 21:13:32 
-categories: twitter 
---- 
-RT @nope_its_lily: I won't believe volatility has returned until I see people asking about the overnight effect again on SPX. (it's free mo…

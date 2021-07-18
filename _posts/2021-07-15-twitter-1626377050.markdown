@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-15 12:24:10 
-categories: twitter 
---- 
-@ptrotrdr @f1teamboss My motto is I either Win or I LEARN!

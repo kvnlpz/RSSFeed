@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My crypto trading algorithm that detects surges across all coins on Binance is getting its own app and it's made by redditors 
-date: 2021-07-16 1626423108 
-categories: reddit 
---- 
-https://redd.it/olch4x

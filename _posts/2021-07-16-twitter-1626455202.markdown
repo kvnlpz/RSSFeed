@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrCMCguy 
-date: 2021-07-16 10:06:42 
-categories: twitter 
---- 
-@RayTL_ Almost spitter images

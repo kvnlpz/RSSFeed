@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lostcoastsurf 
-date: 2021-07-16 17:00:36 
-categories: twitter 
---- 
-@OddStockTrader Too musical already?

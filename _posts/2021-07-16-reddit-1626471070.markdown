@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone else glad CoinBase changed to auto dark mode and turned off that horrible haptic feedback? 
-date: 2021-07-16 1626471070 
-categories: reddit 
---- 
-https://redd.it/olqiax

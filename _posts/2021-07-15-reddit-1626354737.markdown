@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The absolute state of memes 
-date: 2021-07-15 1626354737 
-categories: reddit 
---- 
-https://redd.it/oksju7

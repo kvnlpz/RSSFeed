@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yo_diplo 
-date: 2021-07-16 16:55:57 
-categories: twitter 
---- 
-@nope_its_lily Why you think cryptos so volatile?
-100x leveraged futures with auto stop loss.
-Ultra leveraged punti… https://t.co/EHgMDouOkb

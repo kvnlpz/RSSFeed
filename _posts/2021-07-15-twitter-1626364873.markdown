@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @volmagorov 
-date: 2021-07-15 09:01:13 
-categories: twitter 
---- 
-@nope_its_lily symplectic geometry? gross. would. not. hire. https://t.co/oA4cgueUqP

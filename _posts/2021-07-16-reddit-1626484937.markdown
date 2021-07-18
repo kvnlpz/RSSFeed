@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: F-O-W (Fog of War) & Know Your Enemy 
-date: 2021-07-16 1626484937 
-categories: reddit 
---- 
-https://redd.it/olukfz

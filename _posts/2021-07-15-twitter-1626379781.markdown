@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @themikedmedia 
-date: 2021-07-15 13:09:41 
-categories: twitter 
---- 
-@InvestorsLive wow!!!!!

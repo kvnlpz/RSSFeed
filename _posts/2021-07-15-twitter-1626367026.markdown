@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JunkieOptions 
-date: 2021-07-15 09:37:06 
-categories: twitter 
---- 
-@nope_its_lily $PLTR for 10 years.

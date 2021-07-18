@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do I need a lightning channel to accept payments? 
-date: 2021-07-15 1626358300 
-categories: reddit 
---- 
-https://redd.it/oktn6n

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any working ETH Rinkeby Faucets i could use? 
-date: 2021-07-16 1626493554 
-categories: reddit 
---- 
-https://redd.it/olwrsg

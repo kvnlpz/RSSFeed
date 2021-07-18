@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @i_AmTheMachine 
-date: 2021-07-16 08:00:49 
-categories: twitter 
---- 
-@OddStockTrader Oh look someone calling for a crash for the millionth time and eventually they’ll be right… https://t.co/QOyc5mBTka

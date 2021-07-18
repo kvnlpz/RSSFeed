@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RussSTzu 
-date: 2021-07-17 03:49:39 
-categories: twitter 
---- 
-@alphatrends Wow that’s beautiful man

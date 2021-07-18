@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Breeze25881478 
-date: 2021-07-15 14:41:34 
-categories: twitter 
---- 
-@MikeBellafiore Hi Mike, Please check your mailbox. https://t.co/QbIr1ljkcM

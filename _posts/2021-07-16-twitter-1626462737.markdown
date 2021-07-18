@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jedimarkus77 
-date: 2021-07-16 12:12:17 
-categories: twitter 
---- 
-@nope_its_lily "We don't guess....." https://t.co/GDHBeuyrm4

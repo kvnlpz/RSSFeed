@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An Argument Against PDT Rules 
-date: 2021-07-15 1626382029 
-categories: reddit 
---- 
-https://redd.it/ol1kyl

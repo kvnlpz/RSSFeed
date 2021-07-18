@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: There should be an option to hide how many MOONs we have 
-date: 2021-07-15 1626412651 
-categories: reddit 
---- 
-https://redd.it/ola8df

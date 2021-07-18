@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @unusual_whales 
-date: 2021-07-15 00:18:56 
-categories: twitter 
---- 
-@nope_its_lily Ready for the art Lily! Excited to read it!

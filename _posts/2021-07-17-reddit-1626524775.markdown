@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New tradingview logo 
-date: 2021-07-17 1626524775 
-categories: reddit 
---- 
-https://redd.it/om39wh

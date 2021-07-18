@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sent a Binance-peg Tether to Atomic Wallet. (I Think I Messed Up) 
-date: 2021-07-17 1626536721 
-categories: reddit 
---- 
-https://redd.it/om6p2e

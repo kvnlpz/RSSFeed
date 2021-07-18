@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pontem and Pinknode Team Up to Bridge Polkadot and Facebook's Diem 
-date: 2021-07-16 1626487006 
-categories: reddit 
---- 
-https://redd.it/olv3hz

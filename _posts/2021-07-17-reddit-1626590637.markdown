@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First Bitcoin 
-date: 2021-07-17 1626590637 
-categories: reddit 
---- 
-https://redd.it/omld6q

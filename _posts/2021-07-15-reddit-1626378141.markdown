@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I need help with ethereum external wallet transfer? 
-date: 2021-07-15 1626378141 
-categories: reddit 
---- 
-https://redd.it/ol0af5

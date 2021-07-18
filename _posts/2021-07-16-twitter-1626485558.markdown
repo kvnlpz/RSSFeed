@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockProfitCash 
-date: 2021-07-16 18:32:38 
-categories: twitter 
---- 
-RT @OddStockTrader: Feels like market in need of a 10%+ correction soon.
-
-$SPY

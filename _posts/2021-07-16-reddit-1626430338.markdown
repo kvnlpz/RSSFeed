@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Brave will challenge Chrome and Edge to implement blockchain 
-date: 2021-07-16 1626430338 
-categories: reddit 
---- 
-https://redd.it/oldytk

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Classic Magneto Upgrade Countdown 
-date: 2021-07-17 1626543775 
-categories: reddit 
---- 
-https://redd.it/om8y19

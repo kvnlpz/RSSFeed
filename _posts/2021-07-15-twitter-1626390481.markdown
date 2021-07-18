@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MicrolyticsLLC 
-date: 2021-07-15 16:08:01 
-categories: twitter 
---- 
-@OddStockTrader $CAPC - 23M Float w/ international product launch days away. https://t.co/519tw7FfQS

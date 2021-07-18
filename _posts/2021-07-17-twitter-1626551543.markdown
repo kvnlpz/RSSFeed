@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Anton84705418 
-date: 2021-07-17 12:52:23 
-categories: twitter 
---- 
-RT @InvestorsLive: I missed you https://t.co/IDUgSrdIZi

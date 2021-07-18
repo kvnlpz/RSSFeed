@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-16 08:43:43 
-categories: twitter 
---- 
-@FREAK0NAUT VIX is mean reverting and locally stationary enough so I agree if time to expiry is short enough it wil… https://t.co/J9i56Te15S

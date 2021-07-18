@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tracer DAO will integrate Chainlink Price Feeds to secure its permissionless derivatives contracts 
-date: 2021-07-16 1626446226 
-categories: reddit 
---- 
-https://redd.it/oli3pi

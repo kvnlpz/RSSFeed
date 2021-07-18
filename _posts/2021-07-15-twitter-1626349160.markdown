@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CathyFerraro3 
-date: 2021-07-15 04:39:20 
-categories: twitter 
---- 
-@InvestorsLive I guess so I am still holding.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FinancialBs 
-date: 2021-07-15 05:14:30 
-categories: twitter 
---- 
-@nope_its_lily I'd gather up my friends, go 'buy' some used cars in Mexico, then drive them to the US to sell.

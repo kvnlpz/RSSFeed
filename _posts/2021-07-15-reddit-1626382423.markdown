@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best classes to get started 
-date: 2021-07-15 1626382423 
-categories: reddit 
---- 
-https://redd.it/ol1poq

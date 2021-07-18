@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Accounts in the Ethereum Name Service (ENS) increased 30 times in four months, according to data. 
-date: 2021-07-16 1626456456 
-categories: reddit 
---- 
-https://redd.it/olllfc

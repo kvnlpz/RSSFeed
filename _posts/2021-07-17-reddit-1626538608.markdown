@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Miner Extractable Value (Explained) 
-date: 2021-07-17 1626538608 
-categories: reddit 
---- 
-https://redd.it/om7a0e

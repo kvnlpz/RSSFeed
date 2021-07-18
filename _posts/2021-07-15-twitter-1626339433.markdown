@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradeCharity 
-date: 2021-07-15 01:57:13 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/izVKMW3KsY

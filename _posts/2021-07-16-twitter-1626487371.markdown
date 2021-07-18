@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-07-16 19:02:51 
-categories: twitter 
---- 
-@nope_its_lily @Bonecondor Fear not.
-
-They know nothing of the winter in these frozen wastes.

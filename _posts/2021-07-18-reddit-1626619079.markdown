@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Techlead's Million Token (MM) 
-date: 2021-07-18 1626619079 
-categories: reddit 
---- 
-https://redd.it/omrozq

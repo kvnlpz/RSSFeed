@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DreamsAndLogic 
-date: 2021-07-16 12:33:50 
-categories: twitter 
---- 
-@nope_its_lily 
-https://t.co/7mt32L6MKB

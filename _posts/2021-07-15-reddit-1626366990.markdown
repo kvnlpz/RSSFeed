@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Turn rvn into paypal or something similar 
-date: 2021-07-15 1626366990 
-categories: reddit 
---- 
-https://redd.it/okwivt

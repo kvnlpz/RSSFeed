@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @spmalcolm 
-date: 2021-07-17 21:31:43 
-categories: twitter 
---- 
-@timothysykes Looking forward to hearing the full story Tim.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stocknews101 
-date: 2021-07-16 11:18:28 
-categories: twitter 
---- 
-RT @super_trades: SPACs with no substantial 2021 revenue ?  Chances are they ARE overvalued and that’s why they are not trading well de-SPA…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SaliniKing 
-date: 2021-07-17 06:24:40 
-categories: twitter 
---- 
-@timothysykes Top of the morning GuruYoda

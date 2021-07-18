@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BAT - surely at least the concept is solid? 
-date: 2021-07-15 1626373359 
-categories: reddit 
---- 
-https://redd.it/okyoxs

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Never forget about the Survivorship Bias. 
-date: 2021-07-15 1626365309 
-categories: reddit 
---- 
-https://redd.it/okvyj7

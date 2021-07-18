@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SleepyCuppaJoe 
-date: 2021-07-15 05:55:30 
-categories: twitter 
---- 
-@nope_its_lily Would you please define: meme stock? Seems like it's become a catch all for whatever the hell anyone wants these days.

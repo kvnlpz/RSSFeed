@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hey, hear me out. 
-date: 2021-07-15 1626386173 
-categories: reddit 
---- 
-https://redd.it/ol2x3p

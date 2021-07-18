@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Candlestick charts! 
-date: 2021-07-18 1626596368 
-categories: reddit 
---- 
-https://redd.it/ommj0d

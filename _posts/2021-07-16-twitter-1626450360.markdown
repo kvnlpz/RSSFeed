@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NYSportsGuy210 
-date: 2021-07-16 08:46:00 
-categories: twitter 
---- 
-@alphatrends How does it help a trader if they have four different VWAP levels to decide and choose from?
-
-At the e… https://t.co/z9z0x6Ndpc

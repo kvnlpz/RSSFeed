@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CHISUM07 
-date: 2021-07-16 06:56:14 
-categories: twitter 
---- 
-@timothysykes https://t.co/6qPaWY2HRS

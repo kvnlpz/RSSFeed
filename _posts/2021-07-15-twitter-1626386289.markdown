@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CaptainAmeric3a 
-date: 2021-07-15 14:58:09 
-categories: twitter 
---- 
-@InvestorsLive This you? https://t.co/F7aXzr7aEC

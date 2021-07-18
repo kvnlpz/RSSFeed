@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I like Coinbase/Pro, but refuse to use Plaid to link my bank account. Options? 
-date: 2021-07-18 1626619780 
-categories: reddit 
---- 
-https://redd.it/omrwxd

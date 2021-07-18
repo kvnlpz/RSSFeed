@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rmodsarefatcoo1 
-date: 2021-07-15 11:23:05 
-categories: twitter 
---- 
-@nope_its_lily looking at REIT

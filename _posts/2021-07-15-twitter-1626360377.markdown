@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shalomnissim11 
-date: 2021-07-15 07:46:17 
-categories: twitter 
---- 
-@nope_its_lily S&amp;P 500

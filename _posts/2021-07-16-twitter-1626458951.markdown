@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thehonestcroock 
-date: 2021-07-16 11:09:11 
-categories: twitter 
---- 
-@SpottingTrade @EvolvedTrader https://t.co/fBu7QKCfPt

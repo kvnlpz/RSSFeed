@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are my options trading at less than the intrinsic value? 
-date: 2021-07-16 1626462627 
-categories: reddit 
---- 
-https://redd.it/olnqoc

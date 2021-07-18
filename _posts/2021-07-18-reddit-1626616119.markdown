@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We are in a dip. 
-date: 2021-07-18 1626616119 
-categories: reddit 
---- 
-https://redd.it/omqufr

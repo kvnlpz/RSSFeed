@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-17 14:11:03 
-categories: twitter 
---- 
-RT @StocksToTrade: One-Third of millionaires never made more than $100K a year.
-
-It's not about how much money you make, but what you do (a…

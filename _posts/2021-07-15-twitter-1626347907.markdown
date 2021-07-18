@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nmillions25 
-date: 2021-07-15 04:18:27 
-categories: twitter 
---- 
-@nope_its_lily passenger air travel

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Getting the list of public companies tickets satisfying particular cryteria 
-date: 2021-07-15 1626381328 
-categories: reddit 
---- 
-https://redd.it/ol1cm7

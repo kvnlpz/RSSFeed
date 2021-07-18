@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Jay on Twitter 
-date: 2021-07-15 1626358200 
-categories: reddit 
---- 
-https://redd.it/oktlzd

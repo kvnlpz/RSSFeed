@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano milestones keep piling up as it approaches smart contract rollout 
-date: 2021-07-15 1626346470 
-categories: reddit 
---- 
-https://redd.it/okqfhl

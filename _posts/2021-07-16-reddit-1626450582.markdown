@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happens to my data and coins if I delete Reddit data? 
-date: 2021-07-16 1626450582 
-categories: reddit 
---- 
-https://redd.it/oljjzj

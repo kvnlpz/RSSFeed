@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone help me understand the difference between launching a token these ways? 
-date: 2021-07-16 1626458409 
-categories: reddit 
---- 
-https://redd.it/olm9kh

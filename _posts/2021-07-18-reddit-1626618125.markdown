@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hey you! Quit checking the charts every five minutes! 
-date: 2021-07-18 1626618125 
-categories: reddit 
---- 
-https://redd.it/omrfd7

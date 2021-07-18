@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cglowka9 
-date: 2021-07-17 13:41:05 
-categories: twitter 
---- 
-@InvestorsLive Lumber in the 500s after a May peak of 1600+
-Once supply chain works itself out, homes will be back down again

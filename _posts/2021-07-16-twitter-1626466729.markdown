@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lockingains 
-date: 2021-07-16 13:18:49 
-categories: twitter 
---- 
-@InvestorsLive Is there any soap in there or just all water?

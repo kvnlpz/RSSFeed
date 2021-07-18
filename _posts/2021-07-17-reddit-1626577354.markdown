@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tip: An easy way to check for keyloggers 
-date: 2021-07-17 1626577354 
-categories: reddit 
---- 
-https://redd.it/omid18

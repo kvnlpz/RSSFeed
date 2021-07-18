@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockstinP 
-date: 2021-07-15 15:08:12 
-categories: twitter 
---- 
-@OddStockTrader Try ordering a Model S in December and still not getting it to this day

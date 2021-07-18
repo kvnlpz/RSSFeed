@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mb22283 
-date: 2021-07-15 08:19:33 
-categories: twitter 
---- 
-@nope_its_lily You see me.

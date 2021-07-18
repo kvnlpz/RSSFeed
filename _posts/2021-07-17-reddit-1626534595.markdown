@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SHIB reached its peak 
-date: 2021-07-17 1626534595 
-categories: reddit 
---- 
-https://redd.it/om61m0

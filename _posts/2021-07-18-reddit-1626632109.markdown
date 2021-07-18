@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to cheaply consolidate all coins (Inputs) into a single one, especially if all the inputs combined become larger than 100 KB? 
-date: 2021-07-18 1626632109 
-categories: reddit 
---- 
-https://redd.it/omw10d

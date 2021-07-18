@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I though Airlines fly 
-date: 2021-07-15 1626376287 
-categories: reddit 
---- 
-https://redd.it/okzogy

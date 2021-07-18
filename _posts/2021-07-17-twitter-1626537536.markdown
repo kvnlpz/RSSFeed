@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-17 08:58:56 
-categories: twitter 
---- 
-@FlowTraderTM Sure, but the key I guess is to be respectful. When I talk to a quantlord or a vol wizard I'm usually… https://t.co/RssLvqTW0E

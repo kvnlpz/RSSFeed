@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pmontu33 
-date: 2021-07-16 07:30:35 
-categories: twitter 
---- 
-@nope_its_lily Any non linear exposure needs to include volatility, no?

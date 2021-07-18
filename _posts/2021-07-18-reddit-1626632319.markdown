@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are there worthwhile crypto projects that can be run on a raspberry pi? 
-date: 2021-07-18 1626632319 
-categories: reddit 
---- 
-https://redd.it/omw3dv

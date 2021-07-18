@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Brave nightly and brave integration of brave 
-date: 2021-07-18 1626627455 
-categories: reddit 
---- 
-https://redd.it/omuggr

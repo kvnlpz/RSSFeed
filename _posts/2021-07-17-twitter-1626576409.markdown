@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-17 19:46:49 
-categories: twitter 
---- 
-@BigOmoves @gregdsports @TraderLion_ @TLPrivate_ @RichardMoglen https://t.co/QS4A7lGiQn

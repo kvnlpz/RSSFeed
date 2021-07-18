@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TrystonPerry 
-date: 2021-07-16 10:32:39 
-categories: twitter 
---- 
-RT @nope_its_lily: the absolute value of my returns today are excellent

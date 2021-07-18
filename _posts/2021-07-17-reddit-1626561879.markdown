@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are your views on investing in uniswap ? Will it price increase if Eth 2.0 was to be released ? 
-date: 2021-07-17 1626561879 
-categories: reddit 
---- 
-https://redd.it/omefqf
