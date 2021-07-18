@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can a blockchain shrink ? 
-date: 2021-07-18 1626636675 
-categories: reddit 
---- 
-https://redd.it/omxis4
