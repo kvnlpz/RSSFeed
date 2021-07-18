@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ramonngene 
+date: 2021-07-18 15:55:38 
+categories: twitter 
+--- 
+@RayTL_ React is great. I switched from Angular to React and didn't like at first but now I do. I suggest you use T… https://t.co/Vl9di9wG0w
