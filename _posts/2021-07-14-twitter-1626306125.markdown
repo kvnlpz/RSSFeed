@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-14 16:42:05 
-categories: twitter 
---- 
-@Paul__Walsh Never seen this one.
-
-Cc @BraveSampson
