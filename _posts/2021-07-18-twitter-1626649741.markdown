@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-18 16:09:01 
+categories: twitter 
+--- 
+ICYMI
