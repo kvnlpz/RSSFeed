@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CannabisMister 
-date: 2021-07-14 17:43:44 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/rTVqFSkaKc
