@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CoradiRick 
-date: 2021-07-14 17:55:36 
-categories: twitter 
---- 
-@nope_its_lily Uranium  totally out of favor
