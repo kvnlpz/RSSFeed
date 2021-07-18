@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Moment of Zen: With PoW networks you own the coins but not the network, with PoS networks you own both coins and the network 
+date: 2021-07-18 1626635685 
+categories: reddit 
+--- 
+https://redd.it/omx797
