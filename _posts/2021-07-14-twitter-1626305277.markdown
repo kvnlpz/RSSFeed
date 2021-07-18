@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshTreetop 
-date: 2021-07-14 16:27:57 
-categories: twitter 
---- 
-@InvestorsLive Lol
