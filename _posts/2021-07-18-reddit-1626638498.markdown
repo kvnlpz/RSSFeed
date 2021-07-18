@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If lightning network solves a problem with bitcoin, why not just fix bitcoin? 
+date: 2021-07-18 1626638498 
+categories: reddit 
+--- 
+https://redd.it/omy44m
