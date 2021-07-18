@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It it really reasonable to say that the bitcoin cap is 21 million? 
-date: 2021-07-18 1626638719 
-categories: reddit 
---- 
-https://redd.it/omy6tt
