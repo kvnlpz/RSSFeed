@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @JustStocksToday 
+date: 2021-07-18 15:58:09 
+categories: twitter 
+--- 
+RT @InvestorsLive: We're working on fixing a technical issue for Sunday Scan access. 
+
+In the meantime, the scan and video can be accessed…
