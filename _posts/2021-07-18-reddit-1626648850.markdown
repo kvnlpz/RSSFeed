@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Partially Covered Calls with Portfolio Margin 
+date: 2021-07-18 1626648850 
+categories: reddit 
+--- 
+https://redd.it/on1f72
