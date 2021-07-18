@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: [bitcoin-dev] Travel rule, VASP UID and bitcoin URI - A new BIP 🤡🤡🤡 
+date: 2021-07-18 1626643904 
+categories: reddit 
+--- 
+https://redd.it/omzv9l
