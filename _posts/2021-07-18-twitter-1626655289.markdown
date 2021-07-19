@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RedFebtober 
-date: 2021-07-18 17:41:29 
-categories: twitter 
---- 
-@alphatrends Try turning it upsidedown.
