@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For everyone talking about Aave building twitter on Ethereum... Ya'll know it already exists right? 
-date: 2021-07-19 1626682766 
-categories: reddit 
---- 
-https://redd.it/on9sf7
