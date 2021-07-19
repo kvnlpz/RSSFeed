@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What a smart contract really is 
+date: 2021-07-19 1626727813 
+categories: reddit 
+--- 
+https://redd.it/onmxac
