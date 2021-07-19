@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DetectivePikcho 
-date: 2021-07-18 16:31:50 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/ZcZIJsITXT
