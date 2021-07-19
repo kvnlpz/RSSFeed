@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MYellow28 
-date: 2021-07-18 12:26:02 
-categories: twitter 
---- 
-RT @InvestorsLive: What happens when they pull the goalie? 🥅 https://t.co/WnIPWyvqp6
