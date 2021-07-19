@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Current Zcash team 
-date: 2021-07-18 1626666347 
-categories: reddit 
---- 
-https://redd.it/on65x8
