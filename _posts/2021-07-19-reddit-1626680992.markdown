@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many on-chain transactions have you made this month? 
-date: 2021-07-19 1626680992 
-categories: reddit 
---- 
-https://redd.it/on9fk7
