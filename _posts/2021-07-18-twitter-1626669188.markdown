@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TessaLamping 
-date: 2021-07-18 21:33:08 
-categories: twitter 
---- 
-RT @HarleyRKidd: The first book I read that got me interested in the market, had to buy a physical copy for my little personal library, and…
