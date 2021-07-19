@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_kylecc 
-date: 2021-07-18 14:45:37 
-categories: twitter 
---- 
-RT @timothysykes: I'm proud to announce $90,000 in donations from my charity @karmagawa to 3 great charities @SDFoodBank @austinhumane @Aus…
