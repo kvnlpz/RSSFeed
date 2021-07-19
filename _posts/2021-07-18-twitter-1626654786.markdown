@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DrDave 
-date: 2021-07-18 17:33:06 
-categories: twitter 
---- 
-@alphatrends Who?
