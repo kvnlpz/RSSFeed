@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @pdxJG 
+date: 2021-07-19 10:40:38 
+categories: twitter 
+--- 
+@OddStockTrader I think you meant to use strikeout font for 'delta'
