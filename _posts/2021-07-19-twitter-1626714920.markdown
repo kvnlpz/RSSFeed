@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @newUSAoligarch 
+date: 2021-07-19 10:15:20 
+categories: twitter 
+--- 
+RT @OddStockTrader: A phrase uttered in the future:
+
+"What antivirus software is your body subscribed to?"
