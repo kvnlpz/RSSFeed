@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @jimcollins 
+date: 2021-07-19 15:18:55 
+categories: twitter 
+--- 
+@InvestorsLive @Traders4ACause Nathan will this be available as a virtual event?
