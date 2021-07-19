@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Concerns regarding security of wallets with respect to seed phrases 
+date: 2021-07-19 1626682687 
+categories: reddit 
+--- 
+https://redd.it/on9rvq
