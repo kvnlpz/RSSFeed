@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrklondike1 
-date: 2021-07-18 21:11:29 
-categories: twitter 
---- 
-@OddStockTrader People seem to forget often that resources are finite. It’s easy to forget when grocery stores are… https://t.co/apvB95POSi
