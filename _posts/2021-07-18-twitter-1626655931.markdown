@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-18 17:52:11 
-categories: twitter 
---- 
-@MissTrade seems improbable to me, but as you know, improbable happens all the time Matt
-thanks for the look
