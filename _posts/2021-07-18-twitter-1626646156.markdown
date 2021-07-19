@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-18 15:09:16 
-categories: twitter 
---- 
-We're working on fixing a technical issue for Sunday Scan access. 
-
-In the meantime, the scan and video can be acce… https://t.co/laGaHGcPTg
