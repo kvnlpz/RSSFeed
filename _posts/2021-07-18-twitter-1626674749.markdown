@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fairwarning1977 
-date: 2021-07-18 23:05:49 
-categories: twitter 
---- 
-RT @alphatrends: This is a Point and Figure chart for #Bitcoin  
-
-it is not bullish https://t.co/ljGiIObLgs
