@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-18 17:44:38 
-categories: twitter 
---- 
-@devnull_ar because it is an elegant representation of price and time
