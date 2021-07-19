@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cafesoiree 
-date: 2021-07-18 17:50:00 
-categories: twitter 
---- 
-@alphatrends Hey Brian! Really trying to pick up a copy of your book. Does the alphatrends/599special link still wo… https://t.co/t9Hy2qECsY
