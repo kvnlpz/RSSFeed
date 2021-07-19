@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-19 07:47:04 
+categories: twitter 
+--- 
+Nothing better than premium decay on volatility products.
