@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshSteen12 
-date: 2021-07-18 20:40:34 
-categories: twitter 
---- 
-@OddStockTrader With more float than a lazy river
