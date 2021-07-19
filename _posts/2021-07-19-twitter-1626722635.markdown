@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-19 12:23:55 
+categories: twitter 
+--- 
+Got 'em
