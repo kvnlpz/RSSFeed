@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin es... 
-date: 2021-07-18 1626647008 
-categories: reddit 
---- 
-https://redd.it/on0viu
