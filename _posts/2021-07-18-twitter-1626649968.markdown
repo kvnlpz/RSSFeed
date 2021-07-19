@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-18 16:12:48 
-categories: twitter 
---- 
-RT @howardlindzon: I have a weekly podcast called 'Panic With Friends' talking with traders, venture capitalists and founders you can subsc…
