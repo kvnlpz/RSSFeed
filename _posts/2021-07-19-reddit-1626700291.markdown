@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Historical BTC price dataset (going back to 2009-10-05) 
+date: 2021-07-19 1626700291 
+categories: reddit 
+--- 
+https://redd.it/ondret
