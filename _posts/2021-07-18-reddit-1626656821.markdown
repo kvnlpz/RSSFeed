@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Discussion: How does ADA actually compare to ETH/BNB? 
-date: 2021-07-18 1626656821 
-categories: reddit 
---- 
-https://redd.it/on3nah
