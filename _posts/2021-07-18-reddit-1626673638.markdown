@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Make me rich 
-date: 2021-07-18 1626673638 
-categories: reddit 
---- 
-https://redd.it/on7w34
