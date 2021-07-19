@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Will robinhood automatically understand that you are doing a spread if you sell a call on an existing call option? 
-date: 2021-07-18 1626642829 
-categories: reddit 
---- 
-https://redd.it/omziy0
