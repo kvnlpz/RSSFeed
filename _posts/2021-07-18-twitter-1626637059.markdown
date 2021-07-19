@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shrederickson 
-date: 2021-07-18 12:37:39 
-categories: twitter 
---- 
-@RayTL_ @ASwingTrader @RayTL_ what phone app are you using.  Looks very customizable.
