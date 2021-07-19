@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Bulls 
-date: 2021-07-18 1626651996 
-categories: reddit 
---- 
-https://redd.it/on2bpv
