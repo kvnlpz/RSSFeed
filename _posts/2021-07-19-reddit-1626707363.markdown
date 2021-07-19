@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Portfolio Visualisation Tool 
+date: 2021-07-19 1626707363 
+categories: reddit 
+--- 
+https://redd.it/onfxs6
