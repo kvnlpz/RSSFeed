@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @trend_bullish 
+date: 2021-07-18 17:42:51 
+categories: twitter 
+--- 
+@alphatrends This is ugly
