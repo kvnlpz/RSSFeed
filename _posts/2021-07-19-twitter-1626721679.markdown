@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @R_DaneelSeldon 
+date: 2021-07-19 12:07:59 
+categories: twitter 
+--- 
+@nope_its_lily What made you take long vix? What's the difference between index puts and long vix from a directional pov?
