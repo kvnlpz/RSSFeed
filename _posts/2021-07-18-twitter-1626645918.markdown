@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marcocarezzano 
-date: 2021-07-18 15:05:18 
-categories: twitter 
---- 
-RT @fallondpicks: 7 #stockbreakouts All 7 were penny stocks - an unusual (and bearish) setup
