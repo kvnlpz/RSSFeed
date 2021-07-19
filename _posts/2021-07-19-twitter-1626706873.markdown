@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @modern_rock 
+date: 2021-07-19 08:01:13 
+categories: twitter 
+--- 
+RT @BenkinsStephen: My second trading day worked well. Thanks to @AT09_Trader. https://t.co/mUqcj5FS6f
