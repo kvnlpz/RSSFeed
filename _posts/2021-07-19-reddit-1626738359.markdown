@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Where can I find out more about Alonzo white and smart contract development on ADA? 
+date: 2021-07-19 1626738359 
+categories: reddit 
+--- 
+https://redd.it/onq93d
