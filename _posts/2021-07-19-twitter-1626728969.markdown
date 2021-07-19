@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @aClient21 
+date: 2021-07-19 14:09:29 
+categories: twitter 
+--- 
+RT @alphatrends: How to use the Alphatrends Anchored VWAP https://t.co/GnS1qUDS80
+
+Available in TC2000 https://t.co/bKavYcNyTJ and @TrendSp…
