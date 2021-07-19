@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: My Yoroi extension seems incredibly slow, do I need to update this? 
+date: 2021-07-19 1626733090 
+categories: reddit 
+--- 
+https://redd.it/onoo2b
