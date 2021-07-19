@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chain versus Quant 
-date: 2021-07-18 1626649100 
-categories: reddit 
---- 
-https://redd.it/on1hrr
