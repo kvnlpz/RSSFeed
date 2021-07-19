@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Angel_Alonso22 
+date: 2021-07-19 16:35:41 
+categories: twitter 
+--- 
+@alphatrends Hi , Brian , what is the vwap configuration? Greetings
