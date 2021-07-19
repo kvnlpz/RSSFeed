@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @moylal09 
-date: 2021-07-18 18:37:44 
-categories: twitter 
---- 
-@RayTL_ @tradingview How does the launchpad work?
