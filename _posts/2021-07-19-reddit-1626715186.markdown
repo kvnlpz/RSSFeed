@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If I do a PMCC and the short call expires ITM will my brokerage just sell my long call? 
+date: 2021-07-19 1626715186 
+categories: reddit 
+--- 
+https://redd.it/onimiq
