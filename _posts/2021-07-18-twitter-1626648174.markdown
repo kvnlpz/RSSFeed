@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ForshtMike 
-date: 2021-07-18 15:42:54 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/tbY87j7V3F
