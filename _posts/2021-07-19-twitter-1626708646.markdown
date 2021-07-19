@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BlackSwanDevGru 
+date: 2021-07-19 08:30:46 
+categories: twitter 
+--- 
+@nope_its_lily Do you have any backtests with target and stop loss values? Success rate?
