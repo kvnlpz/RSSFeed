@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A few questions about Trezor vs Ledger 
+date: 2021-07-19 1626722001 
+categories: reddit 
+--- 
+https://redd.it/onkyt7
