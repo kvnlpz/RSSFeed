@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New BIP (Bitcoin Improvement Proposal) suggests including VASP UID at the Protocol layer in Bitcoin URI to de-anonymise and trace transactions for "compliance" with FATF travel rule. This kind of proposals must be defeated! 
-date: 2021-07-18 1626644719 
-categories: reddit 
---- 
-https://redd.it/on04sr
