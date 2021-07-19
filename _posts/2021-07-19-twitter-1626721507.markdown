@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-19 12:05:07 
+categories: twitter 
+--- 
+RT @TortugaStaking: When you have a product like @getMaiar and $egld the people will follow, they found real value in the @ElrondNetwork an…
