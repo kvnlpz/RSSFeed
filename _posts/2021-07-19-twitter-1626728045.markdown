@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @NateFromChicago 
+date: 2021-07-19 13:54:05 
+categories: twitter 
+--- 
+@nope_its_lily What's the platform?
