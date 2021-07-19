@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cperruna 
-date: 2021-07-18 17:44:00 
-categories: twitter 
---- 
-@alphatrends Love it, using the P&amp;F chart that is.
