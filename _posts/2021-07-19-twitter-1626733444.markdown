@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @nhfortini 
+date: 2021-07-19 15:24:04 
+categories: twitter 
+--- 
+RT @Traders4ACause: Early bird tickets for #T4AC21 available now!
+
+https://t.co/Ks8wnumj9X
