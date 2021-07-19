@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to set up rewards for another sub 
-date: 2021-07-18 1626651245 
-categories: reddit 
---- 
-https://redd.it/on24ej
