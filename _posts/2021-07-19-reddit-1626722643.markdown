@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can smart contract be used to prevent monetary losses when seed is lost? 
+date: 2021-07-19 1626722643 
+categories: reddit 
+--- 
+https://redd.it/onl6mp
