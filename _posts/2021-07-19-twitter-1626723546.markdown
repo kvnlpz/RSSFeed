@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @AndrewThrasher 
+date: 2021-07-19 12:39:06 
+categories: twitter 
+--- 
+RT @CMTAssociation: The CMT Program curriculum is the authoritative source for market analysis professionals who desire comprehensive #tech…
