@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking crypto is a zero-sum game. Don't fool yourself. 
-date: 2021-07-18 1626672951 
-categories: reddit 
---- 
-https://redd.it/on7ql9
