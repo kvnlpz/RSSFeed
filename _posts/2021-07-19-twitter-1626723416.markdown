@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BigCheds 
+date: 2021-07-19 12:36:56 
+categories: twitter 
+--- 
+RT @CMTAssociation: The CMT Program curriculum is the authoritative source for market analysis professionals who desire comprehensive #tech…
