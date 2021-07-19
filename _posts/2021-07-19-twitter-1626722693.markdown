@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @finsats 
+date: 2021-07-19 12:24:53 
+categories: twitter 
+--- 
+RT @beniaminmincu: Accelerating the deployment of tokenized business cases on the @ElrondNetwork.
+
+@StoboxCompany to bring compliant tokeni…
