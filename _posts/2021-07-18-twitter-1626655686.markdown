@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hubs 
-date: 2021-07-18 17:48:06 
-categories: twitter 
---- 
-@alphatrends Last big fall happened on a Sunday night.
