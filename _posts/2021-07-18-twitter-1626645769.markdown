@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IU_Chat 
-date: 2021-07-18 15:02:49 
-categories: twitter 
---- 
-@StrongInvests @InvestorsLive Issue for some people on the site - we're working on fixing - nothing to do with you specifically 👍
