@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bondly Attack: July 14th 2021 Postmortem 
+date: 2021-07-19 1626737414 
+categories: reddit 
+--- 
+https://redd.it/onpzao
