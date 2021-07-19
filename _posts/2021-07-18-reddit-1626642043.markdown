@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proto.Gold Governance Dapp V1 
-date: 2021-07-18 1626642043 
-categories: reddit 
---- 
-https://redd.it/omz9q9
