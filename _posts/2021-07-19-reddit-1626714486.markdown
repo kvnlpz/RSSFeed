@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What I learned from 2-3 years paper trade bot experiment 
+date: 2021-07-19 1626714486 
+categories: reddit 
+--- 
+https://redd.it/onidkt
