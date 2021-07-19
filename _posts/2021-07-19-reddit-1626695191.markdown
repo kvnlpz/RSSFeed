@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I made an app that predicts crypto performance 
+date: 2021-07-19 1626695191 
+categories: reddit 
+--- 
+https://redd.it/oncffj
