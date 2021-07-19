@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-18 17:04:06 
-categories: twitter 
---- 
-@KellerTrading @InvestorsLive @MomoTraders @FINVIZ_com I see that $JSDA
