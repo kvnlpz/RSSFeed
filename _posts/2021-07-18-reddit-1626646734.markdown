@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mining after the Magneto upgrade 
-date: 2021-07-18 1626646734 
-categories: reddit 
---- 
-https://redd.it/on0skc
