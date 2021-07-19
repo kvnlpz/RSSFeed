@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Yaz17657882 
-date: 2021-07-18 17:41:01 
-categories: twitter 
---- 
-RT @alphatrends: This is a Point and Figure chart for #Bitcoin  
-
-it is not bullish https://t.co/ljGiIObLgs
