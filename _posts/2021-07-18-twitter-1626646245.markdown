@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CarolSciurus 
-date: 2021-07-18 15:10:45 
-categories: twitter 
---- 
-RT @InvestorsLive: Remember your purpose ✅ https://t.co/6X2dpb8zo0
