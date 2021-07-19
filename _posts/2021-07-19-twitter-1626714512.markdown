@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-19 10:08:32 
+categories: twitter 
+--- 
+RT @iancassel: Nothing tests your conviction like falling stock prices. Conviction isn’t proven on the mountaintop, it’s proven in the vall…
