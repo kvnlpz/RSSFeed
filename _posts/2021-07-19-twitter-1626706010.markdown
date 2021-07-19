@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-19 07:46:50 
+categories: twitter 
+--- 
+@cryptomook definitely the oddest VWAP question I have received...
