@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OneLastRONIN 
-date: 2021-07-18 23:34:22 
-categories: twitter 
---- 
-RT @RayTL_: You cannot borrow confidence, conviction, and execution.
