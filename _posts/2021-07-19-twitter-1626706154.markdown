@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @srcbrain 
+date: 2021-07-19 07:49:14 
+categories: twitter 
+--- 
+@nope_its_lily I've never felt so validated.
