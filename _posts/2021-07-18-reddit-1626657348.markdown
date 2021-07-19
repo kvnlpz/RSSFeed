@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “My Better Half” 
-date: 2021-07-18 1626657348 
-categories: reddit 
---- 
-https://redd.it/on3sk5
