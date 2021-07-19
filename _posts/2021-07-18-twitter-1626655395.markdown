@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @livingrightco 
-date: 2021-07-18 17:43:15 
-categories: twitter 
---- 
-@alphatrends https://t.co/DXbLKUw2Bs
