@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @rawchartist 
+date: 2021-07-19 12:31:00 
+categories: twitter 
+--- 
+RT @RayTL_: Every successful trader has their own voice. They don't say "this fella tweeted so I'll be cautious". Folks like Minervini/Davi…
