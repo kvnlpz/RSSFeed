@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-19 12:22:20 
+categories: twitter 
+--- 
+RT @beniaminmincu: Accelerating the deployment of tokenized business cases on the @ElrondNetwork.
+
+@StoboxCompany to bring compliant tokeni…
