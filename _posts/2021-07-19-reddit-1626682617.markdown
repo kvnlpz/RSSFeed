@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ever wondered why 90% of the posts you see in this sub are about Bitcoin and Ethereum? 
-date: 2021-07-19 1626682617 
-categories: reddit 
---- 
-https://redd.it/on9rdm
