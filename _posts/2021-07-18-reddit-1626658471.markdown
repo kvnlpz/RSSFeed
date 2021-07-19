@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Alright I'm stupid. Now I need help. I use trust wallet and use pancakeswap. I was trying to buy a new coin safeearn. I entered the wrong address and now I'm out money because of my lack of paying attention. Is there a way to reverse the transaction? 
-date: 2021-07-18 1626658471 
-categories: reddit 
---- 
-https://redd.it/on43i5
