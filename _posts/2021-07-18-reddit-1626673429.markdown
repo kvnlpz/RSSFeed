@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My first Monero transaction! I know for this subreddit it’s nothing special as you guys have probably done thousands. But for me this is start of my Monero journey. So glad to now be apart of the greatest currency in the world! (As a bonus, I obtained this Monero anonymously, in true Monero fashion) 
-date: 2021-07-18 1626673429 
-categories: reddit 
---- 
-https://redd.it/on0hqj
