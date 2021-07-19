@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-19 12:36:13 
+categories: twitter 
+--- 
+RT @CMTAssociation: The CMT Program curriculum is the authoritative source for market analysis professionals who desire comprehensive #tech…
