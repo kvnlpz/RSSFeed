@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BizCycles 
+date: 2021-07-19 06:34:26 
+categories: twitter 
+--- 
+RT @RayTL_: Gap Down = Making notes on "What's green or near green on my screen"? 🧐
