@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tradesbeta 
-date: 2021-07-18 17:49:29 
-categories: twitter 
---- 
-@alphatrends That’s why I value your opinion
