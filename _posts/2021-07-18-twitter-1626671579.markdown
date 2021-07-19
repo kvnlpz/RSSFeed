@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-18 22:12:59 
-categories: twitter 
---- 
-RT @WesleyBKress: (3\3) solve the biggest friction point of extreme complexity (MetaMask) &amp; high gas costs on $ETH network trying to buy $C…
