@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Joelradz 
+date: 2021-07-19 10:55:11 
+categories: twitter 
+--- 
+@timothysykes @30DayBoot Working on it. It's all in the dashboard
