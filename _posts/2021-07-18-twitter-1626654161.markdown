@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-18 17:22:41 
-categories: twitter 
---- 
-RT @peitchy_T: Shout out to @TraderLion_ and @RayTL_  for publishing another great TradingView customizable indicator for KMAs with labels…
