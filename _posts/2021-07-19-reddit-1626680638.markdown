@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is everybody’s day job? 
-date: 2021-07-19 1626680638 
-categories: reddit 
---- 
-https://redd.it/on9d71
