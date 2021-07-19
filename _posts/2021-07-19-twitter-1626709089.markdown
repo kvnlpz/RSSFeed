@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ScottHackingMD 
+date: 2021-07-19 08:38:09 
+categories: twitter 
+--- 
+@InvestorsLive Thanks!
