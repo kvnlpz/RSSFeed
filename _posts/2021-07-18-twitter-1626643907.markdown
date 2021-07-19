@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mark1paul 
-date: 2021-07-18 14:31:47 
-categories: twitter 
---- 
-@RayTL_ @MartyChargin So, what's the alternative?
-90 day RS?
