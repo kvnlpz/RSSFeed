@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodetrades 
-date: 2021-07-18 19:09:28 
-categories: twitter 
---- 
-@planert41 The only data on previously-infected picking up delta I have seen: https://t.co/RYQx3NnqIl
