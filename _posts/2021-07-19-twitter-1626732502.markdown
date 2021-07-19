@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @shortylong99 
+date: 2021-07-19 15:08:22 
+categories: twitter 
+--- 
+@nope_its_lily Will Nope service be impacted by this?
