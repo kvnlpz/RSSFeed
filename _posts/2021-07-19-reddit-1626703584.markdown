@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Starkware releases StarkNet Alpha 1 to deploy smart contracts on ZK-Rollup, now includes an L1<>L2 messaging 
+date: 2021-07-19 1626703584 
+categories: reddit 
+--- 
+https://redd.it/oneq3n
