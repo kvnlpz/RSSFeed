@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You woke up to having 1 whole BTC sent to your wallet. 
-date: 2021-07-18 1626667734 
-categories: reddit 
---- 
-https://redd.it/on6ini
