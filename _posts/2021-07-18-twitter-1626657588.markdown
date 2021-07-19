@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Daw_Conway 
-date: 2021-07-18 18:19:48 
-categories: twitter 
---- 
-@alphatrends Some analysts see this as a possible scenario for #Bitcoin ; do you think the bull run will continue b… https://t.co/DdQTOwecAN
