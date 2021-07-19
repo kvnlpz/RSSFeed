@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlibadKE 
-date: 2021-07-18 14:35:12 
-categories: twitter 
---- 
-RT @modern_rock: @EpicaCapital Hmmmm https://t.co/y8LfbDLtu8
