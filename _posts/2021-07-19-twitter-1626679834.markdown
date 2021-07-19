@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @QuantUnusual 
+date: 2021-07-19 00:30:34 
+categories: twitter 
+--- 
+@timothysykes no watchlist for me #algotrader
