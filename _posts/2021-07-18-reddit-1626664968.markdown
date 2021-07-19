@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I analysed the SafeMoon contract and it can be made a Rug Pull 
-date: 2021-07-18 1626664968 
-categories: reddit 
---- 
-https://redd.it/on5tde
