@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Thayee2506 
-date: 2021-07-18 23:51:30 
-categories: twitter 
---- 
-RT @alphatrends: 10 Steps To Building A Winning Trading Plan (Infographic) #stocks #trading https://t.co/FKypCEO2Cq
