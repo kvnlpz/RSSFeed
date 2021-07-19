@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @lilnickysmith 
+date: 2021-07-19 13:32:46 
+categories: twitter 
+--- 
+RT @TraderTexMex: $ARDX resumes down 77%
