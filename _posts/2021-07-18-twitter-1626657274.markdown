@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @offshorehunters 
-date: 2021-07-18 18:14:34 
-categories: twitter 
---- 
-@hinmanx5 👍
