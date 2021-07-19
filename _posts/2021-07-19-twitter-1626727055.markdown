@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @jimcollins 
+date: 2021-07-19 13:37:35 
+categories: twitter 
+--- 
+@InvestorsLive the dog is a nice touch.
