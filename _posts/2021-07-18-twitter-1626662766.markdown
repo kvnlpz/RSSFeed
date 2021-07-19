@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @offshorehunters 
-date: 2021-07-18 19:46:06 
-categories: twitter 
---- 
-Nice Westslope Cutthroat from today https://t.co/2cMsXKiywD
