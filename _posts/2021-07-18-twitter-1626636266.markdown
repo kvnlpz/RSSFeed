@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gae_mon 
-date: 2021-07-18 12:24:26 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade I'd rather buy a cat then sleep under my laptop
