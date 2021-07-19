@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-18 22:12:52 
-categories: twitter 
---- 
-RT @WesleyBKress: (2\3) existing #Celsians to buy $CEL token in the cheapest ($.01) &amp; easiest (Best UX/UI of @getMaiar) #Decentralized mann…
