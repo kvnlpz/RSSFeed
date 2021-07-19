@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-18 17:48:21 
-categories: twitter 
---- 
-@tradesbeta why would I care what he thinks?  he is just one person, Im interested in the crowd, as represented by price action on a chart
