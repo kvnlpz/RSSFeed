@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano Smart Contracts: Betting on Alonzo 
-date: 2021-07-19 1626690217 
-categories: reddit 
---- 
-https://redd.it/onbada
