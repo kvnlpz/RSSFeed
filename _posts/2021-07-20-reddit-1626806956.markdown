@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Understanding BSC, pegged tokens and IOU. 
+date: 2021-07-20 1626806956 
+categories: reddit 
+--- 
+https://redd.it/oo8dqb
