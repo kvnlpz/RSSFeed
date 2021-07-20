@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @profitly 
+date: 2021-07-20 01:25:08 
+categories: twitter 
+--- 
+RT @tenmike: @timothysykes Tim that 30 day bootcamp you did with @mono_trader was fantastic. Any trader, new or experienced could learn a t…
