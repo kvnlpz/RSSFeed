@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can new tokens on any block chain avoid over accumulation or pump and dump schemes? 
-date: 2021-07-19 1626709112 
-categories: reddit 
---- 
-https://redd.it/ongitu
