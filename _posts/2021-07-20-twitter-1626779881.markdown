@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @andrewhorowitz 
+date: 2021-07-20 04:18:01 
+categories: twitter 
+--- 
+@alphatrends @TrendSpider Also Tradestation - multiplex anchors on a chart
