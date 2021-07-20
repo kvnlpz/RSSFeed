@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MyTwitt3rTalk 
+date: 2021-07-19 20:06:26 
+categories: twitter 
+--- 
+@RayTL_ @RichardMoglen Ray - What script is it for using RS as a column to filter/sort by higher RS stocks?
