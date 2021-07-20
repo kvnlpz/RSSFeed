@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: NVDA split not reflecting correct number of shares on TD WebBroker? 
+date: 2021-07-20 1626793335 
+categories: reddit 
+--- 
+https://redd.it/oo3rg6
