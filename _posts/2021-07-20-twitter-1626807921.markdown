@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @donjulio101 
+date: 2021-07-20 12:05:21 
+categories: twitter 
+--- 
+RT @RayTL_: Been asked this more than once today, volume/liquidity on downside in market has always been higher then upside in market in an…
