@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-20 07:17:02 
+categories: twitter 
+--- 
+I just made a new trade: https://t.co/bOirg4Zdrq
