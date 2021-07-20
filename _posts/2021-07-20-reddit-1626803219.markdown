@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Moving my ada, in yoroi, to trezor, while staked. 
+date: 2021-07-20 1626803219 
+categories: reddit 
+--- 
+https://redd.it/oo7405
