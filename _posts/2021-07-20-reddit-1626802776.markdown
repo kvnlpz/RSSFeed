@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: DAG vs Blockchain 
+date: 2021-07-20 1626802776 
+categories: reddit 
+--- 
+https://redd.it/oo6yn7
