@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @_Chiplis_ 
+date: 2021-07-20 13:02:26 
+categories: twitter 
+--- 
+@nope_its_lily Do you think spikes in meme stocks merely trail vol spikes or could they be used to model predictions as well?
