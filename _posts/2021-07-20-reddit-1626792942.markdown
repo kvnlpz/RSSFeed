@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: TradingView/ ThinkorSwim- is there a indicator to highlight full days green/red based on close? 
+date: 2021-07-20 1626792942 
+categories: reddit 
+--- 
+https://redd.it/oo3mq2
