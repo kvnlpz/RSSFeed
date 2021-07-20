@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why are some POW coins more Efficient than others? Are some algorithms better than others? 
+date: 2021-07-20 1626793562 
+categories: reddit 
+--- 
+https://redd.it/oo3u70
