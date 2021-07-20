@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Small fractions of a bitcoin have real value, but it’s maddening to interpret minuscule numbers like 0.0000642. Here's a proposal to make bitcoin readable again. 
+date: 2021-07-20 1626801475 
+categories: reddit 
+--- 
+https://redd.it/oo6iz4
