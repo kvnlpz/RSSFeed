@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Foresight - The Daily Gwei #293 
-date: 2021-07-19 1626704035 
-categories: reddit 
---- 
-https://redd.it/onevbg
