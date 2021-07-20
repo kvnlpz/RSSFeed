@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Stock Tracker and Analysis App 
+date: 2021-07-20 1626791469 
+categories: reddit 
+--- 
+https://redd.it/oo366c
