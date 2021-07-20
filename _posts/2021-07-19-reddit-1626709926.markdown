@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daily Bitcoin News July 17th 2021 
-date: 2021-07-19 1626709926 
-categories: reddit 
---- 
-https://redd.it/ongszt
