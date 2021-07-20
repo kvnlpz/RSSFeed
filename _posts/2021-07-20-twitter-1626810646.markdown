@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-20 12:50:46 
+categories: twitter 
+--- 
+RT @tonydimatteo: This is in the works and is part of our investor presentation.   Lottery EVERYWHERE.  A global blockchain platform, crypt…
