@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin hash rate begins to recover. With over 40% of the network's mining machines going offline, this migration became one of the largest infrastructure displacements in modern history. Bitcoin passed the stress test. 
+date: 2021-07-20 1626800840 
+categories: reddit 
+--- 
+https://redd.it/oo6b3x
