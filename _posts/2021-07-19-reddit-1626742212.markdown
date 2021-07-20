@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Hello everyone, here is an early look at our new product called CryptoCount! CryptoCount is a crypto block reward income tax calculator for Tezos delegators. We'll be releasing V0.0 soon. We hope that CryptoCount makes counting your crypto easier in your country's currency. (Supports 40 countries). 
+date: 2021-07-19 1626742212 
+categories: reddit 
+--- 
+https://redd.it/onqyju
