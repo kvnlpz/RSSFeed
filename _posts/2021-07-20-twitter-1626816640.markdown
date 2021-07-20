@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DelishsMilishs 
+date: 2021-07-20 14:30:40 
+categories: twitter 
+--- 
+@nope_its_lily "Jimmy" is The Chosen One.
