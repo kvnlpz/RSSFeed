@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can anyone explain the mechanism that makes every chart (or almost every chart) replicate the exact same movements as the BTC chart? 
+date: 2021-07-20 1626774317 
+categories: reddit 
+--- 
+https://redd.it/onyvdf
