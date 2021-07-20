@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If I make a paper wallet on my laptop, but then later buy a Ledger and restore that wallet on my Ledger, is it still "safe" or will the fact that it was made on the web mean there's always another way in? 
+date: 2021-07-20 1626814340 
+categories: reddit 
+--- 
+https://redd.it/ooaub4
