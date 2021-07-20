@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ASwingTrader 
+date: 2021-07-20 14:21:39 
+categories: twitter 
+--- 
+@RayTL_ Thank you for explaning this, I was struggling with it today.
