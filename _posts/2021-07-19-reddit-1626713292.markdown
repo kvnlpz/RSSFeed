@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mining with Betterhash - Put Your PC to Work 
-date: 2021-07-19 1626713292 
-categories: reddit 
---- 
-https://redd.it/onhy4s
