@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Erin Malone on Twitter - "10 weeks ago, I joined the @lightning network barely knowing how to open a channel. Last week I became a profitable lightning network routing node. Here's a thread on the ultimate strategy game for LN node operators from one #Bitcoin pleb to another." 
-date: 2021-07-19 1626683785 
-categories: reddit 
---- 
-https://redd.it/on9zg9
