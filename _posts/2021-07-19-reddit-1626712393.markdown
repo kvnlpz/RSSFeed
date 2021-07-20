@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bull case for Bitcoin summary, by Glassnode 
-date: 2021-07-19 1626712393 
-categories: reddit 
---- 
-https://redd.it/onhmtg
