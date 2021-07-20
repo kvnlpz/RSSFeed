@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a pretty amzing use-case for blockchain technology and incentivized nodes: smart routing for data 
-date: 2021-07-19 1626701722 
-categories: reddit 
---- 
-https://redd.it/one61d
