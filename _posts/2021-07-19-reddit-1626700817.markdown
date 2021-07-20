@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Many new Tezos DeFi platforms have farms where you can stake Quipuswap liquidity tokens for certain pairs. This guide will teach you how. It can be used by complete beginners, or by more advanced Tezos users who can skip sections by clicking on the ‘Quick Jump’ links provided. 
-date: 2021-07-19 1626700817 
-categories: reddit 
---- 
-https://redd.it/ondwsl
