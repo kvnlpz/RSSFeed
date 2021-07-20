@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ethereum reorgs after the merge. A writeup by Vitalik Buterin 
+date: 2021-07-20 1626790581 
+categories: reddit 
+--- 
+https://redd.it/oo2w2d
