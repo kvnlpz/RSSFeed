@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The University of Stirling has publish a blog post on EmFi, a new emergency finance tool for crisis scenarios built on Algorand 
-date: 2021-07-19 1626700692 
-categories: reddit 
---- 
-https://redd.it/ondvi5
