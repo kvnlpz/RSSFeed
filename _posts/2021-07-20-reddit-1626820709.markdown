@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I want to think that I'm just being naive but, I have some serious doubts the Lightning Network can solve Bitcoin's scalability issues. 
+date: 2021-07-20 1626820709 
+categories: reddit 
+--- 
+https://redd.it/oocwah
