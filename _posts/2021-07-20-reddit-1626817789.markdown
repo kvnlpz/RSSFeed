@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Will security ever become an issue for DAGs? 
+date: 2021-07-20 1626817789 
+categories: reddit 
+--- 
+https://redd.it/oobysk
