@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Some help pls 
-date: 2021-07-19 1626707902 
-categories: reddit 
---- 
-https://redd.it/ong487
