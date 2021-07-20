@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BobTendle 
+date: 2021-07-20 10:04:53 
+categories: twitter 
+--- 
+@OddStockTrader https://t.co/5La9KJ9uB9
