@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a difference between these two DCA strategies? 
-date: 2021-07-19 1626696266 
-categories: reddit 
---- 
-https://redd.it/oncowu
