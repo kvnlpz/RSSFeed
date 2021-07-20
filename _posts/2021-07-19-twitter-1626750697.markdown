@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @FlanTheMan31 
+date: 2021-07-19 20:11:37 
+categories: twitter 
+--- 
+@CitronResearch any update on $root ?
