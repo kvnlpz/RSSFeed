@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Introducing Cronos, the Crypto.org EVM chain, and its new testnet: 📃Smart contracts ⚡️Instant DApp portability 💰$100m fund to support devs building on Cronos. 
+date: 2021-07-20 1626790743 
+categories: reddit 
+--- 
+https://redd.it/oo2xy0
