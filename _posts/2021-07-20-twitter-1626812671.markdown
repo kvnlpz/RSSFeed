@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @max_damore 
+date: 2021-07-20 13:24:31 
+categories: twitter 
+--- 
+@RayTL_ Appreciate you sharing my $S deep-dive. Look forward to getting your technical perspective Ray!
