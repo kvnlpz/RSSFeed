@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I want 80% SegWit usage until the end of the year. We only have 75% right now. 
-date: 2021-07-19 1626711024 
-categories: reddit 
---- 
-https://redd.it/onh64o
