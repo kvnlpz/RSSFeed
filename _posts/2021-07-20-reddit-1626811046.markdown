@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: IOHK Founder & CEO Charles Hoskinson gave a brief update today on Djed and Mithril. We go in depth on the Mithril light client project and what this update means for the Cardano community! 
+date: 2021-07-20 1626811046 
+categories: reddit 
+--- 
+https://redd.it/oo9rhr
