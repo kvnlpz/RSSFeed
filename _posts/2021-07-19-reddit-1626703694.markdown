@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If trezor and ledger went down 
-date: 2021-07-19 1626703694 
-categories: reddit 
---- 
-https://redd.it/onerfn
