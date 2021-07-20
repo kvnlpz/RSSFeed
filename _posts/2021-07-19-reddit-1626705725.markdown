@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why crash now? 
-date: 2021-07-19 1626705725 
-categories: reddit 
---- 
-https://redd.it/onfebd
