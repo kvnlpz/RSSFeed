@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bassdropps 
+date: 2021-07-20 12:21:19 
+categories: twitter 
+--- 
+@InvestorsLive Could you please explain what just happened to $NURO with that death candle/halt?
