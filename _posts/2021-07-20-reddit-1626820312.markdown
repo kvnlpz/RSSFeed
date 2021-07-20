@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can not find bitcoin.conf file? 
+date: 2021-07-20 1626820312 
+categories: reddit 
+--- 
+https://redd.it/oocrot
