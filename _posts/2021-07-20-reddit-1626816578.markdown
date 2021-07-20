@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Been playing around on paper trading, How did they expire before the expiration date? 
+date: 2021-07-20 1626816578 
+categories: reddit 
+--- 
+https://redd.it/oobktl
