@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin on chain analysis 
-date: 2021-07-19 1626697999 
-categories: reddit 
---- 
-https://redd.it/ond4vk
