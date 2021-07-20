@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-20 09:00:06 
+categories: twitter 
+--- 
+Happy to hear 😏
