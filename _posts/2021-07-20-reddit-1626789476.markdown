@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: DFSocial Implements Chainlink VRF to Secure Randomized Outcomes on Its Gaming Protocol 
+date: 2021-07-20 1626789476 
+categories: reddit 
+--- 
+https://redd.it/oo2jjj
