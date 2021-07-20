@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A YouTube post by Rayner Teo about Technical Analysis 101. It’s a simple guide that I thought would help folks who are just starting out. 
+date: 2021-07-20 1626805088 
+categories: reddit 
+--- 
+https://redd.it/oo7rcd
