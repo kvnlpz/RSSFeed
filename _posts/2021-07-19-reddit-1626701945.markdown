@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin vs Fiat currencies 
-date: 2021-07-19 1626701945 
-categories: reddit 
---- 
-https://redd.it/one81h
