@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Does anyone know why these two displayed volumes are different? noticing this small difference on all stocks. chart has out of hours data included(4am-8pm). TWS platform with IB. 
+date: 2021-07-20 1626778452 
+categories: reddit 
+--- 
+https://redd.it/onzq1c
