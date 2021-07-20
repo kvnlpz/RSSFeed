@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Swap Moons for XLM using Celesti! 
-date: 2021-07-19 1626702586 
-categories: reddit 
---- 
-https://redd.it/onefb3
