@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Eden Test Election #2: We Have a New Satoshi 
-date: 2021-07-19 1626707801 
-categories: reddit 
---- 
-https://redd.it/ong30m
