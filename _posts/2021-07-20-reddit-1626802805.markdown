@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Moved ADA to Ledger Nano X. Using Yoroi - but cannot stake from newly created Ledger wallet. Halp! 
+date: 2021-07-20 1626802805 
+categories: reddit 
+--- 
+https://redd.it/oo6z19
