@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-20 08:03:31 
+categories: twitter 
+--- 
+RT @AlphaTrader00: $QUBT is the first pure-play #QuantumComputing company listed on the NASDAQ. 
+
+Up +20% today https://t.co/HEQdqakq1M
