@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @Sell_it_all_now 
+date: 2021-07-19 18:10:24 
+categories: twitter 
+--- 
+@nope_its_lily What's the point of buying options on triple leveraged ETFs?
+
+Doesn't the IV negate that leverage?
