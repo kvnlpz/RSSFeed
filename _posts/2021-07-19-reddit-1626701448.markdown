@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What Are Mempools: Dark Forest of Blockchains? 
-date: 2021-07-19 1626701448 
-categories: reddit 
---- 
-https://redd.it/one37s
