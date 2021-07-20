@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MSollender 
+date: 2021-07-20 12:23:08 
+categories: twitter 
+--- 
+RT @TradeHawk: $ALBO Albireo Pharma gets FDA approval of Bylvay for the treatment of pruritus in patients with progressive familial intrahe…
