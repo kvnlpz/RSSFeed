@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin and Ethereum – Weekly Technical Analysis – July 19th, 2021 
-date: 2021-07-19 1626684242 
-categories: reddit 
---- 
-https://redd.it/on9ose
