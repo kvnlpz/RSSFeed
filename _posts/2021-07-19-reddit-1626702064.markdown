@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I temporarily used my Daedalus wallet on another computer - but now I want to remove all traces of this activity on that computer. What steps do I need to follow? 
-date: 2021-07-19 1626702064 
-categories: reddit 
---- 
-https://redd.it/one9pg
