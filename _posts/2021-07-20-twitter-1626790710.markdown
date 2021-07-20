@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @kcmac38 
+date: 2021-07-20 07:18:30 
+categories: twitter 
+--- 
+@super_trades That is cool
