@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Green bean 
-date: 2021-07-19 1626712933 
-categories: reddit 
---- 
-https://redd.it/onhtg9
