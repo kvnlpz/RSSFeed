@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Network Status Update Monday, July 19, 2021 
-date: 2021-07-19 1626711068 
-categories: reddit 
---- 
-https://redd.it/onh6kt
