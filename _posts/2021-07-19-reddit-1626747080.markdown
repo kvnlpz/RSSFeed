@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Hey guys on Osmosis I unbonded my liquidity from a pool, but when I try to remove liquidity I get a “transaction failed” error message and it shows my liquidity is still bonded in the pool but I’m not getting rewards. 
+date: 2021-07-19 1626747080 
+categories: reddit 
+--- 
+https://redd.it/onspqy
