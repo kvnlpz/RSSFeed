@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MortWeaz 
+date: 2021-07-19 19:46:46 
+categories: twitter 
+--- 
+@nope_its_lily It can be very predictive if you use its 42 day (2 month) RoC (lower pane) for spotting divergences… https://t.co/kyoE9SkOGr
