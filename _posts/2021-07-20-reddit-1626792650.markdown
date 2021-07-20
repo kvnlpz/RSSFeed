@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ethereum 2.0 will prevent bribed miners from modifying the chain 
+date: 2021-07-20 1626792650 
+categories: reddit 
+--- 
+https://redd.it/oo3jgc
