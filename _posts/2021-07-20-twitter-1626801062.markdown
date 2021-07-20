@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trade__ 
+date: 2021-07-20 10:11:02 
+categories: twitter 
+--- 
+RT @super_trades: I love the block function on twitter !!!
