@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Your thoughts on the Taproot upgrade coming in November? 
-date: 2021-07-19 1626710109 
-categories: reddit 
---- 
-https://redd.it/ongv4h
