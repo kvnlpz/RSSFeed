@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Error sending NFT via Yoroi wallet with Ledger Nano X 
+date: 2021-07-21 1626867115 
+categories: reddit 
+--- 
+https://redd.it/oolszs
