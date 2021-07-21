@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The bandwidth of the Bitcoin Lightning Network is growing exponentially 
+date: 2021-07-21 1626874353 
+categories: reddit 
+--- 
+https://redd.it/oopyp4
