@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @UngerRamos 
+date: 2021-07-21 01:02:30 
+categories: twitter 
+--- 
+@nope_its_lily Wallet Connect is pretty good
