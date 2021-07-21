@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to recover bitcoin from only 12 word pass phrase (dont know wallet created) 
+date: 2021-07-21 1626860579 
+categories: reddit 
+--- 
+https://redd.it/oomk5t
