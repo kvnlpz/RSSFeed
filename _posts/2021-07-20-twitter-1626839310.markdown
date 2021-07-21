@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @theemilyaccount 
+date: 2021-07-20 20:48:30 
+categories: twitter 
+--- 
+@nope_its_lily @lightspringfox this is a common approach, you precompute as much as you can but still not instant
