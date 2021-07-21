@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-20 20:51:04 
+categories: twitter 
+--- 
+RT @iancassel: The more you know what you own the more volatility goes from being a risk to an opportunity.
