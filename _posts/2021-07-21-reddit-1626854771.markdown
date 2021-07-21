@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Curious Question: Is It Possible For a Stake Pool To Be Assigned A Slot But Not Be A Slot Leader Or The Slot Not Produce A Block? 
+date: 2021-07-21 1626854771 
+categories: reddit 
+--- 
+https://redd.it/ool2mw
