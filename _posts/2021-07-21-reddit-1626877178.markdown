@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Noob question. Can ı send BTC from P2PKH to P2SH or viceversa? 
+date: 2021-07-21 1626877178 
+categories: reddit 
+--- 
+https://redd.it/ooqtry
