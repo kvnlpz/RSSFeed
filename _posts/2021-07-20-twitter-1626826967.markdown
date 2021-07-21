@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @skajbaje 
+date: 2021-07-20 17:22:47 
+categories: twitter 
+--- 
+@nope_its_lily Sometimes I feel like the finance guys use mathematical formalism just to obscure the central idea.
