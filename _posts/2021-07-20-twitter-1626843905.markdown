@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ripntear6 
+date: 2021-07-20 22:05:05 
+categories: twitter 
+--- 
+@nope_its_lily So they could most likely be stationary with I(d), where d can be a fraction less 1.
