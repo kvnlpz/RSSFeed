@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MichaelErisman 
+date: 2021-07-21 08:33:03 
+categories: twitter 
+--- 
+@RayTL_ Do you consider the full position size based on Port % or based on risk management?
