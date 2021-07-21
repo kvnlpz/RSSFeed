@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DrewHaninger 
+date: 2021-07-20 21:11:06 
+categories: twitter 
+--- 
+RT @alphatrends: favorite chart of the day https://t.co/ESgGx4eqSt
