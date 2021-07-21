@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @svper_trades 
+date: 2021-07-20 19:15:08 
+categories: twitter 
+--- 
+RT @super_trades: 😂
