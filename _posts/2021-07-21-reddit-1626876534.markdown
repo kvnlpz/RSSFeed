@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If I buy into a circuit breaker halt going up, and place my sell order while it's halted, does it matter when that order was placed? 
+date: 2021-07-21 1626876534 
+categories: reddit 
+--- 
+https://redd.it/ooqmfb
