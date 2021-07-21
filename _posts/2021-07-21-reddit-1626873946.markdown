@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Are trusted online wallets as safe as hardware wallets if there's no activity on them for years? 
+date: 2021-07-21 1626873946 
+categories: reddit 
+--- 
+https://redd.it/oopuef
