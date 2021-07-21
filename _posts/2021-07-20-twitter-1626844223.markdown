@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @LonJandis 
+date: 2021-07-20 22:10:23 
+categories: twitter 
+--- 
+@nope_its_lily It's a feature, not a bug.
