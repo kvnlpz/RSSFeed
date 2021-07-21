@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @modern_rock 
+date: 2021-07-21 09:04:43 
+categories: twitter 
+--- 
+RT @modern_rock: Less (size) may actually be more (profits)
+
+If you are having difficulty with always stopping out too soon, this bit of ad…
