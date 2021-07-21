@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Looking for opinions on this option strategy. I'm thinking about selling puts short term and leaping a call option on CLOV. I'm bullish on the stock. Who has a better strategy? 
+date: 2021-07-21 1626906448 
+categories: reddit 
+--- 
+https://redd.it/op0mdr
