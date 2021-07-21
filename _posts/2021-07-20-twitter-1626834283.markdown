@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JasonKrutzky 
+date: 2021-07-20 19:24:43 
+categories: twitter 
+--- 
+@alphatrends Amen
