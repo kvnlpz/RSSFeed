@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: DCA vs. Lump-sum vs. Value Averaging. A real data backtest and comparison 
+date: 2021-07-21 1626860788 
+categories: reddit 
+--- 
+https://redd.it/oomlpn
