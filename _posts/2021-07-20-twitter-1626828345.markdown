@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-07-20 17:45:45 
+categories: twitter 
+--- 
+@mrileytrades Very interesting insight.
