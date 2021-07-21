@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ForteCharts 
+date: 2021-07-20 22:41:00 
+categories: twitter 
+--- 
+@alphatrends @PatternProfits @JonahLupton Brian, are you going to be there?
