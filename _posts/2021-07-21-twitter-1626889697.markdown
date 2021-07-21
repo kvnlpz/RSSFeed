@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-21 10:48:17 
+categories: twitter 
+--- 
+great to hear!
