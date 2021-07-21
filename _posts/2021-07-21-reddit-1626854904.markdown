@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Understanding Options Value And How To Calculate It? 
+date: 2021-07-21 1626854904 
+categories: reddit 
+--- 
+https://redd.it/ool521
