@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Understanding a 51% Attack? 
+date: 2021-07-21 1626858971 
+categories: reddit 
+--- 
+https://redd.it/oom840
