@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @altaicbum 
-date: 2021-07-19 12:30:15 
-categories: twitter 
---- 
-@nope_its_lily Congratulations!
