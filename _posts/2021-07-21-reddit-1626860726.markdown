@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What happens with Mining rewards if two Blocks are mined simultaneously? 
+date: 2021-07-21 1626860726 
+categories: reddit 
+--- 
+https://redd.it/ooml8j
