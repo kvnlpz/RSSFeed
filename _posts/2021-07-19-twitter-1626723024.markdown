@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @danlo123 
-date: 2021-07-19 12:30:24 
-categories: twitter 
---- 
-@nope_its_lily Congratulations!
