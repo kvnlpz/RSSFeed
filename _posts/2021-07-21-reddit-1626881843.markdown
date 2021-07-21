@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Simplestaking isn't working anymore (Trezor) 
+date: 2021-07-21 1626881843 
+categories: reddit 
+--- 
+https://redd.it/oosdx4
