@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TruthTalkonly2 
-date: 2021-07-19 11:54:18 
-categories: twitter 
---- 
-@InvestorsLive checkout $nuwe
