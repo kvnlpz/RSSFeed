@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaKleined 
-date: 2021-07-19 08:23:45 
-categories: twitter 
---- 
-@alphatrends $Shop?
