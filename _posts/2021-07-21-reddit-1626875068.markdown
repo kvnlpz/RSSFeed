@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why are my credit spreads taking up so much collateral? 
+date: 2021-07-21 1626875068 
+categories: reddit 
+--- 
+https://redd.it/ooq674
