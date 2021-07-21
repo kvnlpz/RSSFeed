@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @SirBosch 
+date: 2021-07-21 00:50:20 
+categories: twitter 
+--- 
+@alphatrends Also reclaimed the 100D SMA
