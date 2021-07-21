@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How are miner incentivised to mine if the lighting network becomes mainstream? 
+date: 2021-07-20 1626827347 
+categories: reddit 
+--- 
+https://redd.it/ooevsc
