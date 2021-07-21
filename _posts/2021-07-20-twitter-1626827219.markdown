@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @RayTL_ 
+date: 2021-07-20 17:26:59 
+categories: twitter 
+--- 
+@RichardMoglen @michaelbatnick @RossHaber_ “I digress”
