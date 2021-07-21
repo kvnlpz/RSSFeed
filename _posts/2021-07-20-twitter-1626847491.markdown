@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bartbtc 
+date: 2021-07-20 23:04:51 
+categories: twitter 
+--- 
+@nope_its_lily This is true, though I would say over 99% of DeFi users have some kind of CEX account. There are alm… https://t.co/6rJ8S2QVhS
