@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @choffstein 
+date: 2021-07-21 05:16:39 
+categories: twitter 
+--- 
+@nope_its_lily “What’s your edge?”
+
+“I can navigate the UX."
