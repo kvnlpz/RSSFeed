@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @heibtc 
+date: 2021-07-21 12:31:31 
+categories: twitter 
+--- 
+@nope_its_lily @nic__carter bitcoin mining can incentivize the adoption of renewables and better stabilize the grid… https://t.co/4Nf0EopAls
