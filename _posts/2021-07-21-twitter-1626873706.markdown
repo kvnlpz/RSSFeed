@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @funstocks1 
+date: 2021-07-21 06:21:46 
+categories: twitter 
+--- 
+RT @KerrisdaleCap: In early trials and studies AcQMap dramatically increased success rates in ablation of persistent AF vs legacy methods.…
