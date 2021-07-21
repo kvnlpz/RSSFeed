@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @f_rd1 
+date: 2021-07-21 07:27:00 
+categories: twitter 
+--- 
+@timothysykes what platform can I use to trade #Pennystocks ?
