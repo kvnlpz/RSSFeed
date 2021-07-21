@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @unusual_whales 
+date: 2021-07-20 18:52:10 
+categories: twitter 
+--- 
+@alphatrends Can’t wait!
