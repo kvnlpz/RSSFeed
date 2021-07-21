@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: bitcoind is failing 
+date: 2021-07-21 1626903106 
+categories: reddit 
+--- 
+https://redd.it/oozjjg
