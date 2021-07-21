@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What am I missing? It seems the way DeFi is currently set up it could potentially take down the entire crypto market. The whole ecosystem is over-leveraged, dependent on constant liquidity and rising token values. If that liquidity dries up, or the collateral value drops, it's game over. 
+date: 2021-07-20 1626838386 
+categories: reddit 
+--- 
+https://redd.it/oohw3s
