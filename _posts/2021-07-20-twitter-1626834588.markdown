@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @HourOptions 
+date: 2021-07-20 19:29:48 
+categories: twitter 
+--- 
+@alphatrends Looks bullish.
