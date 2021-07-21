@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @noonespecialno 
+date: 2021-07-21 15:30:55 
+categories: twitter 
+--- 
+@timothysykes Do you post trades as you enter them?
