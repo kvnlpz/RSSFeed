@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Introducing EAS: The Ethereum Attestation Service - A base layer for Trust, Identity, Reputation, Voting, and more (Presenting at EthCC) 
+date: 2021-07-20 1626830544 
+categories: reddit 
+--- 
+https://redd.it/oofs6h
