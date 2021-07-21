@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Fastly brings JavaScript to server less environments 
+date: 2021-07-21 1626902696 
+categories: reddit 
+--- 
+https://redd.it/oozet6
