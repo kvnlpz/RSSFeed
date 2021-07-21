@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-20 20:04:41 
+categories: twitter 
+--- 
+@PatternProfits @JonahLupton will be great to meet you in person Ben!
