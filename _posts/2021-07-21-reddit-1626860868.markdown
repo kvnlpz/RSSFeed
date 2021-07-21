@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is there any backtest study to show the performance of managing winners at 20%, 30%, 40%? 
+date: 2021-07-21 1626860868 
+categories: reddit 
+--- 
+https://redd.it/oomm7l
