@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RishardRTK 
-date: 2021-07-21 23:42:56 
-categories: twitter 
---- 
-@OddStockTrader Yo this opensea update is there no more gas or is that an option on side chain? And it seems like u… https://t.co/9KaCkuZOwf
