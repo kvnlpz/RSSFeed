@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @kainarivera1 
+date: 2021-07-22 00:34:50 
+categories: twitter 
+--- 
+@timothysykes I just looked at your program and it specifically tells people that alerts aren't real time and to no… https://t.co/MjGcHzl1Px
