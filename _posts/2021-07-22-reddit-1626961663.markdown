@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Today's feeling 
-date: 2021-07-22 1626961663 
-categories: reddit 
---- 
-https://redd.it/ope5se
