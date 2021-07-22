@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-21 17:58:31 
-categories: twitter 
---- 
-@PatternProfits @Bradaxel13 Yes, Green PP and Orange reverse PP
