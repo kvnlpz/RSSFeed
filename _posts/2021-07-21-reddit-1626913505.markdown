@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Storing a Seed, advice and suggestions. 
-date: 2021-07-21 1626913505 
-categories: reddit 
---- 
-https://redd.it/op2plt
