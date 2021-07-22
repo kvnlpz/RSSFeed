@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nick_dilorenzo 
-date: 2021-07-21 19:26:03 
-categories: twitter 
---- 
-@nope_its_lily was looking at this yesterday, did you see this thread?
