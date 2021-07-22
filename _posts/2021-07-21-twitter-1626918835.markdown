@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JayK48237796 
-date: 2021-07-21 18:53:55 
-categories: twitter 
---- 
-@InvestorsLive What’s the purpose of posting this scan scan when it’s not accessible for public?
