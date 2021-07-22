@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Hey guys👋🏻, I developed https://cryptfolio.in, here you can track your crypto portfolio from different exchanges on a single dashboard📊. It shows a lot of information about your investments to make decisions about buying or selling🧾 New features like triggers and custom notifications coming soon 
+date: 2021-07-22 1626961262 
+categories: reddit 
+--- 
+https://redd.it/ope1m8
