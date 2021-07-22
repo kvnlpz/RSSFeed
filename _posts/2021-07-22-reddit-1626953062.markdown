@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lightning Network Request for Deficiency Clean-Up 
-date: 2021-07-22 1626953062 
-categories: reddit 
---- 
-https://redd.it/opbv7j
