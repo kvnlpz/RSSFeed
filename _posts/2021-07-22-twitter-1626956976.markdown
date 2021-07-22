@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TwitchyTrader 
+date: 2021-07-22 05:29:36 
+categories: twitter 
+--- 
+@timothysykes Morning boss
