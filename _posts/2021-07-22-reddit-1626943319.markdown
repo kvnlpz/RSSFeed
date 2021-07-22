@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hassles with banks stopping outbound fiat transfers 
-date: 2021-07-22 1626943319 
-categories: reddit 
---- 
-https://redd.it/op9v5z
