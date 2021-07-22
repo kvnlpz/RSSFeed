@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This will end in a fatal od if I don't do something. 
-date: 2021-07-21 1626921120 
-categories: reddit 
---- 
-https://redd.it/op4tem
