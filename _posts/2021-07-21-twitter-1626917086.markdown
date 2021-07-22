@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-21 18:24:46 
-categories: twitter 
---- 
-@jokon888 👀 https://t.co/WBOhFlIj1q
