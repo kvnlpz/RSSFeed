@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cosimodimedici 
-date: 2021-07-19 15:53:17 
-categories: twitter 
---- 
-@nope_its_lily Congrats

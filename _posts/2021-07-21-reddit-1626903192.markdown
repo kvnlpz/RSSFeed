@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Update $AMD position 
-date: 2021-07-21 1626903192 
-categories: reddit 
---- 
-https://redd.it/oozklw

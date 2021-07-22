@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-21 13:18:15 
-categories: twitter 
---- 
-$CEMI continues down AHs
-
-03:55:41 pm InvestorsLive: CEMI prob floats $4.80s AHs maybe raise by morning we'll see

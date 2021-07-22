@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts 
-date: 2021-07-20 1626809479 
-categories: reddit 
---- 
-https://redd.it/oo98dx

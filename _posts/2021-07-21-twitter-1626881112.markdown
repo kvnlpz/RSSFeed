@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-21 08:25:12 
-categories: twitter 
---- 
-RT @EdwardVMTrader: My mentor @modern_rock taught me how to do it and when to do it. Today on $CEMI the #First_Bounce
-
-Variables in our fav…

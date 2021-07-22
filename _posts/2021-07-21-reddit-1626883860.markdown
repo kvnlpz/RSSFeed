@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Network Status Update Wednesday, July 21, 2021 
-date: 2021-07-21 1626883860 
-categories: reddit 
---- 
-https://redd.it/oot2s3

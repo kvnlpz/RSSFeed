@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why prices have jumped 
-date: 2021-07-21 1626909542 
-categories: reddit 
---- 
-https://redd.it/op1ket

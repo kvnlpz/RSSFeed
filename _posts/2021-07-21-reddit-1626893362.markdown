@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mining Help 
-date: 2021-07-21 1626893362 
-categories: reddit 
---- 
-https://redd.it/oowb2j

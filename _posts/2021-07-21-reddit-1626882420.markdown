@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The !remindme bot notified me today of this gentleman’s prediction, I will credit him for being right anyway. 
-date: 2021-07-21 1626882420 
-categories: reddit 
---- 
-https://redd.it/oosl0y

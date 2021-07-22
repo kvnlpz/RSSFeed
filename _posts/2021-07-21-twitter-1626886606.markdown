@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CoryTrades 
-date: 2021-07-21 09:56:46 
-categories: twitter 
---- 
-@OddStockTrader December January and February was insane https://t.co/IeXpDSpZx5

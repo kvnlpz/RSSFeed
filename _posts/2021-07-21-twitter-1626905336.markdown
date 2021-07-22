@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KoJoMos 
-date: 2021-07-21 15:08:56 
-categories: twitter 
---- 
-@super_trades Welcome to Boston @super_trades.

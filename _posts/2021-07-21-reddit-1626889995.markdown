@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Zcash Wallet is available on Guarda. You can store, $ZEC and swap it to 50+ coins and 10K tokens. 
-date: 2021-07-21 1626889995 
-categories: reddit 
---- 
-https://redd.it/oov6dv

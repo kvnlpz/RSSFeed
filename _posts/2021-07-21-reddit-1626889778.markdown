@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Triple Bottom Pattern 
-date: 2021-07-21 1626889778 
-categories: reddit 
---- 
-https://redd.it/oov3qg

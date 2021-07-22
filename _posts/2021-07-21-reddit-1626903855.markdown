@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Confluent Is Named Google Cloud Technology Partner of the Year for the Third Year in a Row 
-date: 2021-07-21 1626903855 
-categories: reddit 
---- 
-https://redd.it/oozs9q

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MSFT Head and Shoulders Pattern - Analysis 
-date: 2021-07-21 1626886529 
-categories: reddit 
---- 
-https://redd.it/ootzxi

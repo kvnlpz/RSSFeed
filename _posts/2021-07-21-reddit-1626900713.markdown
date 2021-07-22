@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Joe Rogan uses Brave Search 
-date: 2021-07-21 1626900713 
-categories: reddit 
---- 
-https://redd.it/ooyr7r

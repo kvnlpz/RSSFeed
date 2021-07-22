@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-20 20:47:43 
-categories: twitter 
---- 
-Words of wisdom from the champ! https://t.co/OQwjtaQVHv

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMC real Battle 
-date: 2021-07-21 1626905276 
-categories: reddit 
---- 
-https://redd.it/op08tc

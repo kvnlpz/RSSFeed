@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Lefortaments 
-date: 2021-07-21 10:27:17 
-categories: twitter 
---- 
-@RayTL_ @801010athlete Choose your own $PATH 🤪

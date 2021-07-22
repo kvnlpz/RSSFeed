@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DQinvestor 
-date: 2021-07-20 18:55:05 
-categories: twitter 
---- 
-@InvestorsLive @JeffBezos 😁

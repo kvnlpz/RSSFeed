@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SureShankRedemp 
-date: 2021-07-21 11:13:57 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/IXeubwTr79
-There, no more cryptic bs

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeKingTrades 
-date: 2021-07-21 10:08:00 
-categories: twitter 
---- 
-@OddStockTrader Had my brain revert to this after one day recently. Silly.

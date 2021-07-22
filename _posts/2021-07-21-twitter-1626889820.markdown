@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-21 10:50:20 
-categories: twitter 
---- 
-Bezos' 10 minute journey into space just cost $5.5 billion, which had he instead donated to a charity like… https://t.co/sVlvlcMQCA

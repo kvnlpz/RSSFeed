@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheUncleEddy 
-date: 2021-07-21 14:33:34 
-categories: twitter 
---- 
-@InvestorsLive Let’s get it Nate Dawg

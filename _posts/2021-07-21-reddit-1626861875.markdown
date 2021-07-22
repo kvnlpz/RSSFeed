@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We aren't ready yet. 
-date: 2021-07-21 1626861875 
-categories: reddit 
---- 
-https://redd.it/oomu0t

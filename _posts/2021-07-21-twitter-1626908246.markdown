@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fasanlujan 
-date: 2021-07-21 15:57:26 
-categories: twitter 
---- 
-RT @Steven1_994: One of the easiest patterns to master that occured quite often lately: https://t.co/m6JhWZphZH

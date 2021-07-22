@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @seansogonzo 
-date: 2021-07-21 08:25:38 
-categories: twitter 
---- 
-@nope_its_lily and mess up any step of the way and you send your tokens into oblivion. Fun!

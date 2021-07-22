@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HattyBig 
-date: 2021-07-21 11:03:35 
-categories: twitter 
---- 
-@super_trades https://t.co/rMEkGqmJaO

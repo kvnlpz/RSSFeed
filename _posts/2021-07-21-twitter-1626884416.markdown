@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-07-21 09:20:16 
-categories: twitter 
---- 
-@RayTL_ I'll start the google doc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto website 
-date: 2021-07-21 1626905917 
-categories: reddit 
---- 
-https://redd.it/op0g5g

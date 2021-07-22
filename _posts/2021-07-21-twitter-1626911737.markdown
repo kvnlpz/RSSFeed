@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SpacLLC 
-date: 2021-07-21 16:55:37 
-categories: twitter 
---- 
-RT @super_trades: $CMLF $THCB $TDAC exciting growth SPAC’s with real revenue now and big TAM , needs tech.

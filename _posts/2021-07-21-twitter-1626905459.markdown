@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thehonestcrook5 
-date: 2021-07-21 15:10:59 
-categories: twitter 
---- 
-RT @thehonestcroock: $AMC welcome back to the 40's so glad to see you here again :)

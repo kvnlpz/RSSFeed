@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Twin_Trades 
-date: 2021-07-21 10:52:46 
-categories: twitter 
---- 
-@OddStockTrader 250$ investment https://t.co/rAtBEb87EP

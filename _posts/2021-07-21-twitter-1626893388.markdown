@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @supar__trade 
-date: 2021-07-21 11:49:48 
-categories: twitter 
---- 
-RT @super_trades: None of my tweets are investment advice

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jamesechambers 
-date: 2021-07-21 15:04:05 
-categories: twitter 
---- 
-@nope_its_lily Can’t you just extract it from thinkorswim straight into excel? It updates automatically.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @notseriousknown 
-date: 2021-07-21 14:01:56 
-categories: twitter 
---- 
-@InvestorsLive I had 80 shares

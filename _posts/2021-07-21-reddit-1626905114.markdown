@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can a business or someone track you down by your wallet? Say you buy on an exchange bitcoin and send it then you buy bitcoin cash. Can someone know thats you by the transaction? 
-date: 2021-07-21 1626905114 
-categories: reddit 
---- 
-https://redd.it/op06ur

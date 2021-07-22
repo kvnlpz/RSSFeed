@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @aikida3k 
-date: 2021-07-21 10:48:23 
-categories: twitter 
---- 
-@nope_its_lily Best post ever. Always be suspicious of a software platform that tries to do everything. Generally i… https://t.co/BVQYvUBMXE

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-21 08:56:47 
-categories: twitter 
---- 
-RT @ImgrundShaun: Awesome webinar and thank you for the shout out. Made my day. @timothysykes

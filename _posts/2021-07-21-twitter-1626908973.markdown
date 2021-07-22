@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @javi_sapien 
-date: 2021-07-21 16:09:33 
-categories: twitter 
---- 
-@modern_rock You're a good man...

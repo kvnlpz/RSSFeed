@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JonahLupton 
-date: 2021-07-21 15:01:22 
-categories: twitter 
---- 
-@super_trades I might be back in boston soon — you in the city or the burbs?

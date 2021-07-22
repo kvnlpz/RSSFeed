@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1Mind_the_Gap 
-date: 2021-07-21 10:53:05 
-categories: twitter 
---- 
-@timothysykes I know one who does a lot of good in the world.
-Thanks :)

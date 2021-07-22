@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_jabobeast 
-date: 2021-07-21 07:52:28 
-categories: twitter 
---- 
-@InvestorsLive great call again Nate!

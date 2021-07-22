@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trust wallet glitch 
-date: 2021-07-20 1626840435 
-categories: reddit 
---- 
-https://redd.it/ooifk9

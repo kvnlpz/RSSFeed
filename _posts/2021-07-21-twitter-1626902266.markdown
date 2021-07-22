@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tradecruz 
-date: 2021-07-21 14:17:46 
-categories: twitter 
---- 
-@alphatrends Cloud computing?

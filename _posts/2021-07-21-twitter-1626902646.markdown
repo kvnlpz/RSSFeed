@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZacksTrades 
-date: 2021-07-21 14:24:06 
-categories: twitter 
---- 
-@modern_rock Lmfaooooo

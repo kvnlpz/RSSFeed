@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @plocktor 
-date: 2021-07-21 09:31:22 
-categories: twitter 
---- 
-@nope_its_lily @ekrii3 ty both for clarifying!

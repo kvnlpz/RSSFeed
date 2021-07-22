@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TotalErrHead 
-date: 2021-07-21 11:52:29 
-categories: twitter 
---- 
-@InvestorsLive People have weird goals.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @asucy 
-date: 2021-07-21 14:23:12 
-categories: twitter 
---- 
-@InvestorsLive You holding into tomorrow?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Elon mentions Tezos on “Bword” live stream 
-date: 2021-07-21 1626894312 
-categories: reddit 
---- 
-https://redd.it/oowmrz

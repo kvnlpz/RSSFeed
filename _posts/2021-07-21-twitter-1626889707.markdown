@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OTCMartian 
-date: 2021-07-21 10:48:27 
-categories: twitter 
---- 
-@timothysykes https://t.co/GaHUsYlWaN

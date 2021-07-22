@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Ozhar 
-date: 2021-07-21 15:03:53 
-categories: twitter 
---- 
-@nope_its_lily Following. I have yet to find a historical dataset that is free. You pretty much have to build your own database for it

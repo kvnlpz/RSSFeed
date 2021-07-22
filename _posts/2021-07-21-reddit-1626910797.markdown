@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tales from the Crypt: Citadel Dispatch e0.3.1 - getting started with bitcoin mining with @diverter_nokyc, @econoalchemist, and @roninminer 
-date: 2021-07-21 1626910797 
-categories: reddit 
---- 
-https://redd.it/op1y3k

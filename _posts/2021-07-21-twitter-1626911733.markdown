@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidCa04902593 
-date: 2021-07-21 16:55:33 
-categories: twitter 
---- 
-@InvestorsLive That’s a Fact.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshOtero_ 
-date: 2021-07-21 12:00:01 
-categories: twitter 
---- 
-RT @timothysykes: I'm inspired by the billionaire space race, but I can't help but wonder how many families here on earth could benefit fro…

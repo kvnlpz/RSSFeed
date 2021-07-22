@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 20k deep in LC (LendingClub). Room to run. DD posted yesterday. 
-date: 2021-07-21 1626877283 
-categories: reddit 
---- 
-https://redd.it/ooquz7

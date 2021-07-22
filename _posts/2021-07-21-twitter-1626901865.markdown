@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Pharmdca 
-date: 2021-07-21 14:11:05 
-categories: twitter 
---- 
-@super_trades Well Said

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Got stuck in trading halt on NURO today. I was short 60 shares with an average around $17. Stock massively ran at open and got stuck in the first halt, and got out when it finally ended at around $22. I lost $450 on the trade, but at one stage during the halt my p&l was down -30,000k!!!! WTF!? 
-date: 2021-07-21 1626889875 
-categories: reddit 
---- 
-https://redd.it/oov4x7

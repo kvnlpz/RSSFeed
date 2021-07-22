@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-21 14:30:28 
-categories: twitter 
---- 
-Lessons learned from a $200,000 loss https://t.co/ikFWjqDLMm https://t.co/PKanUVfd1T

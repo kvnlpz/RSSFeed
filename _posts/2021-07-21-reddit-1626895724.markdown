@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In which block will Granada go live? 
-date: 2021-07-21 1626895724 
-categories: reddit 
---- 
-https://redd.it/oox3uj

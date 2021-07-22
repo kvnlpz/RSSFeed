@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: test post to see if i can post 
-date: 2021-07-21 1626897761 
-categories: reddit 
---- 
-https://redd.it/ooxs95

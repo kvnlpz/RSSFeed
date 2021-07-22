@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dridy 
-date: 2021-07-21 16:50:12 
-categories: twitter 
---- 
-RT @kroyrunner89: Been looking through some toxic dilution examples and looking for more I may have missed in the last few years, so far ha…

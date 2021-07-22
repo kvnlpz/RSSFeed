@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gemini Now Supports Tezos | Gemini 
-date: 2021-07-21 1626902778 
-categories: reddit 
---- 
-https://redd.it/oozfq5

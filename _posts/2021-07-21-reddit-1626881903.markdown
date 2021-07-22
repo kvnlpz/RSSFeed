@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How freakishly accurate this Bitcoin price chart from 2014 has been until now and why you shouldn't worry about the current volatility 
-date: 2021-07-21 1626881903 
-categories: reddit 
---- 
-https://redd.it/oosenl

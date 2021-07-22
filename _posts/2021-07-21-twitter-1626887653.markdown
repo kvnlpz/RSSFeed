@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RMXD 
-date: 2021-07-21 10:14:13 
-categories: twitter 
---- 
-@InvestorsLive @Microsoft Enable active hours for Windows Update and it won't happen again https://t.co/n6Hovp0M05

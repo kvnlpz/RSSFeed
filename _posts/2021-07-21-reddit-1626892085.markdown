@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stock price goes down as soon as I buy it 
-date: 2021-07-21 1626892085 
-categories: reddit 
---- 
-https://redd.it/oovvze

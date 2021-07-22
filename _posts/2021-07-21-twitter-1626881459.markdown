@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jewelssjuliet 
-date: 2021-07-21 08:30:59 
-categories: twitter 
---- 
-@nope_its_lily I agree, eth gas fees are ridiculous. I hope it improves with 2.0.

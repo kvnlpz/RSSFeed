@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KimHashemi 
-date: 2021-07-21 15:42:18 
-categories: twitter 
---- 
-@timothysykes You inspire me

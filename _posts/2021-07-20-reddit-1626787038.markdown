@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blue Origin launch success 
-date: 2021-07-20 1626787038 
-categories: reddit 
---- 
-https://redd.it/oo1uht

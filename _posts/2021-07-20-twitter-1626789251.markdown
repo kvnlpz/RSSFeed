@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @biostockxpert 
-date: 2021-07-20 06:54:11 
-categories: twitter 
---- 
-@OddStockTrader Thoughts on NFT stocks? Pong, ipnff, etc

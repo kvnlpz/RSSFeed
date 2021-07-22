@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-21 11:23:50 
-categories: twitter 
---- 
-RT @MaratteoTrade: @modern_rock @Miamisalsero @MyInvestingClub @AT09_Trader That’s why we are learning in MIC. The good teacher is not the…

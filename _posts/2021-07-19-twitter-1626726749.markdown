@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderTexMex 
-date: 2021-07-19 13:32:29 
-categories: twitter 
---- 
-$ARDX resumes down 77%

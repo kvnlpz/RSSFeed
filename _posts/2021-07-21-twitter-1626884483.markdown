@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WhoIsDit 
-date: 2021-07-21 09:21:23 
-categories: twitter 
---- 
-@RayTL_ This is the opposite of what Mark says in the tweet that you praised just today.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NiftyTrades503 
-date: 2021-07-20 13:46:58 
-categories: twitter 
---- 
-@OddStockTrader I was gonna tweet something similar

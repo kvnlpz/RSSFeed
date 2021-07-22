@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @opiateofblame 
-date: 2021-07-21 12:43:53 
-categories: twitter 
---- 
-@timothysykes Thank you for saying this!

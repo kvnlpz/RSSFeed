@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Microsoft acquires security start-up CloudKnox 
-date: 2021-07-21 1626885570 
-categories: reddit 
---- 
-https://redd.it/ootnzz

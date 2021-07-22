@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitpay? 
-date: 2021-07-21 1626890174 
-categories: reddit 
---- 
-https://redd.it/oov8mz

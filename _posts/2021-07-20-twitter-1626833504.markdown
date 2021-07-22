@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @martinjlm 
-date: 2021-07-20 19:11:44 
-categories: twitter 
---- 
-@InvestorsLive Up. Only.

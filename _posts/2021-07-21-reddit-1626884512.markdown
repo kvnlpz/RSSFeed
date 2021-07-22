@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ladies and Gentlemen, Exhibit A 
-date: 2021-07-21 1626884512 
-categories: reddit 
---- 
-https://redd.it/ootagr

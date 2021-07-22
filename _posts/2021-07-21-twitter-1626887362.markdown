@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DeedSpaceSimian 
-date: 2021-07-21 10:09:22 
-categories: twitter 
---- 
-@InvestorsLive @Microsoft And that’s why you don’t use Windows professionally…

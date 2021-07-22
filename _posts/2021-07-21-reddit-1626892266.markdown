@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Elon musk said... 
-date: 2021-07-21 1626892266 
-categories: reddit 
---- 
-https://redd.it/oovy9k

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-21 14:14:28 
-categories: twitter 
---- 
-RT @beniaminmincu: Create scalable business workflows &amp; applications with real-time @ElrondNetwork data using the @parsiq_net off-chain aut…

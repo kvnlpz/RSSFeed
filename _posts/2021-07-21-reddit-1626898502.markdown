@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is "On-chain Analysis" and why do I prefer it to Technical Analysis for Bitcoin? (my explainer video) 
-date: 2021-07-21 1626898502 
-categories: reddit 
---- 
-https://redd.it/ooy0pi

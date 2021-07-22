@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dw_rtr 
-date: 2021-07-21 11:30:59 
-categories: twitter 
---- 
-RT @InvestorsLive: Fair enough.

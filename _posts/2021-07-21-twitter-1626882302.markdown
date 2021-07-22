@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RaymondMagoo 
-date: 2021-07-21 08:45:02 
-categories: twitter 
---- 
-@timothysykes You usually say don’t go long.

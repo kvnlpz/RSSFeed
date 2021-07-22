@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-21 14:14:44 
-categories: twitter 
---- 
-RT @CryptoPeerless: Elon Musk looks intrigued by my comment today at 'The B Word' Bitcoin Conference... ⚡
-
-@elonmusk @beniaminmincu @Elrond…

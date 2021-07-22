@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bassdropps 
-date: 2021-07-21 06:13:52 
-categories: twitter 
---- 
-@InvestorsLive I 100% agree

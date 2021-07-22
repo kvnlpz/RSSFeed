@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A great conversation on how Bitcoin can be used as legal tender, with the person running Strike. With El Salvador and other smaller countries announcing their love for BTC, this shows how Transaction costs are addressed. 
-date: 2021-07-21 1626897828 
-categories: reddit 
---- 
-https://redd.it/ooxsz7

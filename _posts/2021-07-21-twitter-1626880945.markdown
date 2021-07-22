@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RealSethBaker 
-date: 2021-07-21 08:22:25 
-categories: twitter 
---- 
-@nope_its_lily We're you ordering Freedom Fries with Ketchup?

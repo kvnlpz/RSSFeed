@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-21 11:37:36 
-categories: twitter 
---- 
-$CEMO d/g at COLLIER, Downgrading to Neutral, We believe the current share price of ~$6.25 is too aggressive given… https://t.co/VytylzT9nu

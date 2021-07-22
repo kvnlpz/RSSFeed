@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @friar_shaun 
-date: 2021-07-21 14:35:44 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/UoYGnqTr8D

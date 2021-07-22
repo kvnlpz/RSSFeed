@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RightAtOkay 
-date: 2021-07-21 11:33:17 
-categories: twitter 
---- 
-@timothysykes @shrimptank @chefjoseandres @WCKitchen And this is coming from someone who only survives because they… https://t.co/gMh5AgvpWX

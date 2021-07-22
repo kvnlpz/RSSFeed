@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EU Regulation proposal: require KYC on crypto transfers. 
-date: 2021-07-21 1626887556 
-categories: reddit 
---- 
-https://redd.it/ooucs2

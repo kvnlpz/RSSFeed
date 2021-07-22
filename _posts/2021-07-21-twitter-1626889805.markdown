@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sludad1 
-date: 2021-07-21 10:50:05 
-categories: twitter 
---- 
-@timothysykes Donating to help those in need don’t have to be proclaimed but done is silence

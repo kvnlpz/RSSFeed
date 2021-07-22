@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @santiagotwin 
-date: 2021-07-20 11:02:30 
-categories: twitter 
---- 
-@nope_its_lily We are not in China. Yet.

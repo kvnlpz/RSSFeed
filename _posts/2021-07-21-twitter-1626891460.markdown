@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheWolfOfChampa 
-date: 2021-07-21 11:17:40 
-categories: twitter 
---- 
-@timothysykes They help these families by employing thousands of people who can have full time jobs

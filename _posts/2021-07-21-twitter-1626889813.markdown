@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MaratteoTrade 
-date: 2021-07-21 10:50:13 
-categories: twitter 
---- 
-@modern_rock @AT09_Trader @MyInvestingClub https://t.co/XipVbghAjC

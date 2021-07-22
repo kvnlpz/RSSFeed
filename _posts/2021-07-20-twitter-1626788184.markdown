@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stockswithcole 
-date: 2021-07-20 06:36:24 
-categories: twitter 
---- 
-@OddStockTrader 😂😂😂😂

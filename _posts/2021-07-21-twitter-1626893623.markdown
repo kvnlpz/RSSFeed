@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-21 11:53:43 
-categories: twitter 
---- 
-Do you have a generator?

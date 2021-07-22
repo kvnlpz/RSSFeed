@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hi there, new to Bitcoin and have a question 
-date: 2021-07-21 1626891417 
-categories: reddit 
---- 
-https://redd.it/oovnyv

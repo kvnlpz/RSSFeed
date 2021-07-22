@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-21 10:08:41 
-categories: twitter 
---- 
-Nice 👌 @Microsoft 😡 https://t.co/bu5wFcAkyk

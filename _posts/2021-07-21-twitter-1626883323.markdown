@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-21 09:02:03 
-categories: twitter 
---- 
-@SteveMatador I think I can do this in any market. Focus is to lower risk when progress is made to turn positions into risk-free trades.

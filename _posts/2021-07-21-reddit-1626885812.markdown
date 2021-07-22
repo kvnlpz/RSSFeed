@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BRD Enables Human-Readable Cryptocurrency Addresses 
-date: 2021-07-21 1626885812 
-categories: reddit 
---- 
-https://redd.it/ootqz9

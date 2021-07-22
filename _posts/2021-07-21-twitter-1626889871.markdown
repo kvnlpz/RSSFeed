@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Herzins1 
-date: 2021-07-21 10:51:11 
-categories: twitter 
---- 
-@timothysykes @BaliChildrensPr Insane!

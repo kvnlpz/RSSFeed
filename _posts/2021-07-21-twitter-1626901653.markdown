@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paxtrader777 
-date: 2021-07-21 14:07:33 
-categories: twitter 
---- 
-@alphatrends That’s awesome Brian

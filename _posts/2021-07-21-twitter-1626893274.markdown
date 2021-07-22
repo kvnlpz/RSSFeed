@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @supar__trade 
-date: 2021-07-21 11:47:54 
-categories: twitter 
---- 
-RT @super_trades: recent gene editing IPO $GRPH halted on price volume

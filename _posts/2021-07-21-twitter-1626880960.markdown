@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @skynetcap 
-date: 2021-07-21 08:22:40 
-categories: twitter 
---- 
-@nope_its_lily I think you mentioned $FTT staking. In that case you'll need half Wormhole-wrapped $FTT, half Sollet… https://t.co/jcB354yLES

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stop loss on ETFs? 
-date: 2021-07-21 1626881728 
-categories: reddit 
---- 
-https://redd.it/oosch3

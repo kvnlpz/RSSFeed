@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tiptopthomps 
-date: 2021-07-20 13:04:18 
-categories: twitter 
---- 
-@KerrisdaleCap $VUZI

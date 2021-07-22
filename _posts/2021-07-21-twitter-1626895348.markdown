@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @biotech_jack 
-date: 2021-07-21 12:22:28 
-categories: twitter 
---- 
-@alphatrends https://t.co/TMT1YPVlz2

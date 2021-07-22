@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jmachado125 
-date: 2021-07-21 15:43:59 
-categories: twitter 
---- 
-@super_trades 💯

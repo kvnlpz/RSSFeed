@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New projects: MatrixSwap and Spores 
-date: 2021-07-21 1626869648 
-categories: reddit 
---- 
-https://redd.it/ooonb5

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @optionwaves 
-date: 2021-07-21 14:46:43 
-categories: twitter 
---- 
-@InvestorsLive Thank you for the info!

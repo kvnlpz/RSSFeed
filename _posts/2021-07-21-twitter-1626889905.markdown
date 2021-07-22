@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @i_feel_bullish 
-date: 2021-07-21 10:51:45 
-categories: twitter 
---- 
-@timothysykes AMEN BOSS!

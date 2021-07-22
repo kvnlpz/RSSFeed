@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Taxing staked earnings makes no sense 
-date: 2021-07-21 1626882268 
-categories: reddit 
---- 
-https://redd.it/oosizu

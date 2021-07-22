@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fasanlujan 
-date: 2021-07-21 15:55:11 
-categories: twitter 
---- 
-RT @Steven1_994: @TradeZer0 hey you guys mind verify this

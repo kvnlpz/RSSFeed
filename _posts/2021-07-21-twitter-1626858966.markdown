@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-21 02:16:06 
-categories: twitter 
---- 
-@badsushistocks @StocksToTrade Goooood!

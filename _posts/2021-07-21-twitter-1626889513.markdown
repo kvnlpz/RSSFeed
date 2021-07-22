@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Screech10307262 
-date: 2021-07-21 10:45:13 
-categories: twitter 
---- 
-@InvestorsLive Wish is better

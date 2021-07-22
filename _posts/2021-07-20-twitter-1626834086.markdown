@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jzap1024 
-date: 2021-07-20 19:21:26 
-categories: twitter 
---- 
-@alphatrends Fibonacci variety

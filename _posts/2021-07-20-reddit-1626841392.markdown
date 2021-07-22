@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I’m addicted... 
-date: 2021-07-20 1626841392 
-categories: reddit 
---- 
-https://redd.it/ooiohe

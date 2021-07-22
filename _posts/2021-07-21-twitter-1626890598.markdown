@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JStantonLV 
-date: 2021-07-21 11:03:18 
-categories: twitter 
---- 
-@timothysykes @RightAtOkay Saint Tim

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PepeXBT 
-date: 2021-07-21 14:45:50 
-categories: twitter 
---- 
-@nope_its_lily that’s just sunlight lol

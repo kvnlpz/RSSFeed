@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-21 10:15:42 
-categories: twitter 
---- 
-@RMXD @Microsoft That wasn't the actual issue it just froze for whatever reason and did those during that time. Hap… https://t.co/BJeVWIZPSx

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PTradeaway 
-date: 2021-07-21 10:24:48 
-categories: twitter 
---- 
-@InvestorsLive What ?!

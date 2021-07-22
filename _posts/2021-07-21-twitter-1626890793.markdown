@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iramorze 
-date: 2021-07-21 11:06:33 
-categories: twitter 
---- 
-@timothysykes I just don't think Jeff tweets about every donation he makes...

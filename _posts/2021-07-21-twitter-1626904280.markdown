@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ArnauTrading 
-date: 2021-07-21 14:51:20 
-categories: twitter 
---- 
-@modern_rock looks good to me. Missing the beer tho.

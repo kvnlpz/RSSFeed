@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Alexis Ohanian (co-founder of Reddit) tweets about InterPop' Block Party! #Tezos #Emergents #TCG 
-date: 2021-07-21 1626882037 
-categories: reddit 
---- 
-https://redd.it/oosg6m

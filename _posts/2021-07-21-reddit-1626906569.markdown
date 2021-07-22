@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Introducing the Excel Spreadsheet, I have created for cryptocurrency tracking with live crypto Price updates features, moon math, history of your Portfolio, trading performance and much more... 
-date: 2021-07-21 1626906569 
-categories: reddit 
---- 
-https://redd.it/op0nmq

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IsherSweet 
-date: 2021-07-20 13:02:45 
-categories: twitter 
---- 
-@KerrisdaleCap HMNY? 🤯

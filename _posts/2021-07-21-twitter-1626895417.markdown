@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @peyos9 
-date: 2021-07-21 12:23:37 
-categories: twitter 
---- 
-@timothysykes Truth!!!! Respect.

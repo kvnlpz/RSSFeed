@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tkft7 
-date: 2021-07-21 12:31:19 
-categories: twitter 
---- 
-@InvestorsLive boom...great idea, thanks!

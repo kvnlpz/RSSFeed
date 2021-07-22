@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DUO 2 FA back it up 
-date: 2021-07-21 1626878202 
-categories: reddit 
---- 
-https://redd.it/oor5kt

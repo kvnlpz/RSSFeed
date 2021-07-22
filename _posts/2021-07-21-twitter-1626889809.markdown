@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RightAtOkay 
-date: 2021-07-21 10:50:09 
-categories: twitter 
---- 
-@timothysykes A good way to look at it is that between Blue Origin and Virgin Galactic they employ a little over 4,… https://t.co/6JYJ2pKlEZ

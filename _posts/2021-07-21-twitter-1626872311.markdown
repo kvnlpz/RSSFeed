@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-21 05:58:31 
-categories: twitter 
---- 
-@leadlagreport fuel for "green cars"
-
-few..

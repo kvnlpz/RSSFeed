@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @optionrats 
-date: 2021-07-21 16:15:40 
-categories: twitter 
---- 
-@nope_its_lily We may be able to help Lily.

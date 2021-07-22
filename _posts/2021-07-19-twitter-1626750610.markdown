@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-19 20:10:10 
-categories: twitter 
---- 
-@david_9illies on youtube?  never heard of that...

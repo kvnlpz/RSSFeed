@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_SwiftTrades_ 
-date: 2021-07-21 12:43:01 
-categories: twitter 
---- 
-@modern_rock I’m a believer 🤙 Sweet view!

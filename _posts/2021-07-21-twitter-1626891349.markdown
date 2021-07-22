@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GuilleAngeris 
-date: 2021-07-21 11:15:49 
-categories: twitter 
---- 
-@nope_its_lily what did he do this time

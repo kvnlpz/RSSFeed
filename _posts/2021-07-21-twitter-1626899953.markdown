@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-21 13:39:13 
-categories: twitter 
---- 
-RT @MattJoseph: I'm literally screaming inside listening to @elonmusk talking about how we need a low latency high bandwidth Blockchain , W…

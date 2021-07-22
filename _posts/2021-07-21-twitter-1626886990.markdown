@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @canttunafish 
-date: 2021-07-21 10:03:10 
-categories: twitter 
---- 
-@nope_its_lily My favourite thing about this post is how regulators are now exogenous shocks. Remember when regulat… https://t.co/QOPDf9QY3k

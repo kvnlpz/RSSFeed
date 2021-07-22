@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joko12345 
-date: 2021-07-21 16:21:40 
-categories: twitter 
---- 
-RT @RayTL_: Words of wisdom from the champ! https://t.co/OQwjtaQVHv

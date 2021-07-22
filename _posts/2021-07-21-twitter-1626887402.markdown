@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Chano26148630 
-date: 2021-07-21 10:10:02 
-categories: twitter 
---- 
-@InvestorsLive @Microsoft you can set active hours you work so the windows update won't bother you during that peri… https://t.co/qzSHS0usUe
