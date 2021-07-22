@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Setting up vault Solution for no option by the alien 
-date: 2021-07-22 1626947293 
-categories: reddit 
---- 
-https://redd.it/opan3r
