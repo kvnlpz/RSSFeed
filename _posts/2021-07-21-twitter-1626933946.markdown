@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @83Tryharder 
-date: 2021-07-21 23:05:46 
-categories: twitter 
---- 
-RT @InvestorsLive: Lessons learned from a $200,000 loss https://t.co/ikFWjqDLMm https://t.co/PKanUVfd1T
