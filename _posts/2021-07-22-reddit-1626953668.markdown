@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why? 
-date: 2021-07-22 1626953668 
-categories: reddit 
---- 
-https://redd.it/opc07l
