@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AJTradess 
-date: 2021-07-21 17:02:48 
-categories: twitter 
---- 
-@OddStockTrader I thought bad months were just for newbies. This gives me hope
