@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WRXLESS_ 
-date: 2021-07-21 18:24:11 
-categories: twitter 
---- 
-RT @InvestorsLive: @tbohen You remind me of @OddStockTrader when he quit Twitter for a week and tweeted an hour later.
