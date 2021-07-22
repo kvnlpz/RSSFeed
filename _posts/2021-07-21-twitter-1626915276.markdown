@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anothernewslav 
-date: 2021-07-21 17:54:36 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/RWOI4EVX2v
