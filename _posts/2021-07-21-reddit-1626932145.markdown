@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Chart for the newbies and veterans alike 
-date: 2021-07-21 1626932145 
-categories: reddit 
---- 
-https://redd.it/op7lfl
