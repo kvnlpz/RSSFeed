@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: HAPI joins Solbridge - HAPI is a protocol to track cryptocurrency scammers, and Solbridge is a new multichain bridge connecting various chains, helping to follow scammers and stop at exchanges 
-date: 2021-07-21 1626936902 
-categories: reddit 
---- 
-https://redd.it/op8lu0
