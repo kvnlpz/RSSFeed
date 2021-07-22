@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The real meaning of DIP 
-date: 2021-07-21 1626935457 
-categories: reddit 
---- 
-https://redd.it/op8b0e
