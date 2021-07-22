@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: So what’s after Alonzo hard fork? Answer. Babbage. 
+date: 2021-07-22 1626974714 
+categories: reddit 
+--- 
+https://redd.it/opikur
