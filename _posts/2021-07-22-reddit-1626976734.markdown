@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Reddit is scaling its two tokens using Layer 2 solution Arbitrum 
+date: 2021-07-22 1626976734 
+categories: reddit 
+--- 
+https://redd.it/opja33
