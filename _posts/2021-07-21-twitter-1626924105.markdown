@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NoCapitulation 
-date: 2021-07-21 20:21:45 
-categories: twitter 
---- 
-@nope_its_lily @ZR1Trader Do you even have any clue how difficult it is for doctors to submit info into the system,… https://t.co/kTcKfKHpr1
