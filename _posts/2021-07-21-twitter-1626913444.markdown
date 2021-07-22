@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MoneyPrinter21 
-date: 2021-07-21 17:24:04 
-categories: twitter 
---- 
-@OddStockTrader Yes
