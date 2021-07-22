@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Getting into bitcoin 
-date: 2021-07-21 1626919129 
-categories: reddit 
---- 
-https://redd.it/op49iv
