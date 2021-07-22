@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @taxman7777 
-date: 2021-07-21 17:53:26 
-categories: twitter 
---- 
-RT @InvestorsLive: Here's how I set my stops ⛔ https://t.co/b7Uygny9qq
