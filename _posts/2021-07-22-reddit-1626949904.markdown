@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it worth it to run a lightening node? 
-date: 2021-07-22 1626949904 
-categories: reddit 
---- 
-https://redd.it/op9l8c
