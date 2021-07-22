@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Will any blockchain be able to sustain low tx fees so that it can become useful for everyday transactions? 
+date: 2021-07-21 1626924135 
+categories: reddit 
+--- 
+https://redd.it/op5msg
