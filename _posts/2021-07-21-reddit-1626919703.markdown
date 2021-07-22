@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Naked Puts vs Put Credit Spreads 
-date: 2021-07-21 1626919703 
-categories: reddit 
---- 
-https://redd.it/op4f9r
