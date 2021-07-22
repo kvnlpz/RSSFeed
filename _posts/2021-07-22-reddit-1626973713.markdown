@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Technical Differences Between Ethereum ERC20 and Binance BEP-20 Tokens 
+date: 2021-07-22 1626973713 
+categories: reddit 
+--- 
+https://redd.it/opi8kt
