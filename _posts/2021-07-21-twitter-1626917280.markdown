@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theoheartsill1 
-date: 2021-07-21 18:28:00 
-categories: twitter 
---- 
-@RayTL_ Man I love all the colors!
