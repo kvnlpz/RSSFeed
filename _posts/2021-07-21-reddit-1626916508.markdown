@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum 2.0 and London Hard Fork: All you need to know 
-date: 2021-07-21 1626916508 
-categories: reddit 
---- 
-https://redd.it/op3kbg
