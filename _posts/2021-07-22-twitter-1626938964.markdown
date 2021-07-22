@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @dridy 
+date: 2021-07-22 00:29:24 
+categories: twitter 
+--- 
+RT @goodetrades: As of 5/31/2019 $BPMX had shares outstanding of 10,683,167. Today BioPharmX traded ~17.1m shares and has an outstanding AT…
