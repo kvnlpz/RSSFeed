@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: We are excited to announce that Umami now supports Beacon protocol! Read more about our collaboration with Beacon (AirGap) & learn how to integrate Umami Wallet in your favourite DApps👇 
+date: 2021-07-22 1626962592 
+categories: reddit 
+--- 
+https://redd.it/opefwd
