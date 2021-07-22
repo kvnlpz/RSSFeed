@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Messages from my bank, Natwest. Limiting payments at first, then an hour later declining all. 
-date: 2021-07-22 1626953885 
-categories: reddit 
---- 
-https://redd.it/opc23b
