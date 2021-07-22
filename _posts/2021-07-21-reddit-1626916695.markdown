@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledge device missing in package!! 
-date: 2021-07-21 1626916695 
-categories: reddit 
---- 
-https://redd.it/op3m1e
