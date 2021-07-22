@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Getting a hardware wallet is it safe to set up and attach with my phone? 
-date: 2021-07-21 1626927578 
-categories: reddit 
---- 
-https://redd.it/op6i4d
