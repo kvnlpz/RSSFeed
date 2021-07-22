@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If there are downvote bots are there upvote bots 
-date: 2021-07-21 1626915576 
-categories: reddit 
---- 
-https://redd.it/op3ar7
