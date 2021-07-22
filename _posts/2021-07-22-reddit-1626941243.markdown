@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gateio / Walletio are different address' 
-date: 2021-07-22 1626941243 
-categories: reddit 
---- 
-https://redd.it/op9h1c
