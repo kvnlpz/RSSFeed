@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-21 19:24:19 
-categories: twitter 
---- 
-@vitoTK That I'm not sure of yet
