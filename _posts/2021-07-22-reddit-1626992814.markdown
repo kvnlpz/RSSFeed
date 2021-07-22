@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: This is one of the better articles I’ve read addressing the “blockchain trilemma” of speed/security/decentralization. (I’m not loving the title though.) Does anyone believe they’ve found a coin that manages to efficiently balance all 3 factors? 
+date: 2021-07-22 1626992814 
+categories: reddit 
+--- 
+https://redd.it/opop8u
