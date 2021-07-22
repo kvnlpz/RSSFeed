@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @StreetCitizen 
+date: 2021-07-21 18:49:40 
+categories: twitter 
+--- 
+RT @G_krupins: $ADSK like this one.  Added some today https://t.co/R2UgVUUerE
