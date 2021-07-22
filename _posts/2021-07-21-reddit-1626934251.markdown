@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto.org EVM chain testnet now live 
-date: 2021-07-21 1626934251 
-categories: reddit 
---- 
-https://redd.it/op81zx
