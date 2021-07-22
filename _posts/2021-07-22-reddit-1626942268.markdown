@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can Daedalus and Yoroi wallets support Turkish? 
-date: 2021-07-22 1626942268 
-categories: reddit 
---- 
-https://redd.it/op9nyi
