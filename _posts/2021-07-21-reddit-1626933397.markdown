@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tether promises an audit in "months" as Paxos claims USDT is not a real stablecoin 
-date: 2021-07-21 1626933397 
-categories: reddit 
---- 
-https://redd.it/op7v0m
