@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-22 08:11:00 
+categories: twitter 
+--- 
+Long way down from the summit ...
