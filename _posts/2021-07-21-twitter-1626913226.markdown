@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @making_sales 
-date: 2021-07-21 17:20:26 
-categories: twitter 
---- 
-@InvestorsLive Well… it would be a good thing.
-
-More data for your temperature checks. 😂
