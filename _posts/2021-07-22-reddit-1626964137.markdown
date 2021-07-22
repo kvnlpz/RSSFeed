@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Elemental Chess – A real time holochain dApp demo 
+date: 2021-07-22 1626964137 
+categories: reddit 
+--- 
+https://redd.it/opexh6
