@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mobile_mm 
-date: 2021-07-21 22:21:42 
-categories: twitter 
---- 
-@nope_its_lily LOL "It's eternity in there."
