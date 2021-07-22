@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EOSIO Dashboard, an open-source project from EOS Costa Rica 
+date: 2021-07-22 1626980550 
+categories: reddit 
+--- 
+https://redd.it/opkm38
