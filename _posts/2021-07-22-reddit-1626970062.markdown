@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $KDMN 
-date: 2021-07-22 1626970062 
-categories: reddit 
---- 
-https://redd.it/opgy41
