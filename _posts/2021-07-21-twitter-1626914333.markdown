@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OceanGirlHeart 
-date: 2021-07-21 17:38:53 
-categories: twitter 
---- 
-@InvestorsLive How can we access the Sunday scan?
