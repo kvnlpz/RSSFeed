@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @a426762 
-date: 2021-07-21 22:28:42 
-categories: twitter 
---- 
-@alphatrends I’m starting to believe that moving averages used in most charts like 9/21 EMA, etc are estimates of v… https://t.co/vtNXEiCTdz
