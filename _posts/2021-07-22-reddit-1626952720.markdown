@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New DeFi futures to enable hedging against Bitcoin mining difficulty 
-date: 2021-07-22 1626952720 
-categories: reddit 
---- 
-https://redd.it/opbsi0
