@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZR1Trader 
-date: 2021-07-21 20:13:50 
-categories: twitter 
---- 
-@nope_its_lily @NoCapitulation "VAERS is part of the larger vaccine safety system in the United States that helps m… https://t.co/5qN8AsF4xu
