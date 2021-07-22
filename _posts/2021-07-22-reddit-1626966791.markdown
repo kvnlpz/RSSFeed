@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Sonar Platform thoughts 
+date: 2021-07-22 1626966791 
+categories: reddit 
+--- 
+https://redd.it/opft7l
