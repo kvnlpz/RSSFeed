@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Direct mining 
-date: 2021-07-21 1626927922 
-categories: reddit 
---- 
-https://redd.it/op6l5m
