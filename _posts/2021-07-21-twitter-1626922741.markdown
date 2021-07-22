@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VolQuant 
-date: 2021-07-21 19:59:01 
-categories: twitter 
---- 
-@nope_its_lily This is part of the orderly deleveraging of Chinese corporate debt market. China let them default or… https://t.co/Gs4AdWQhYO
