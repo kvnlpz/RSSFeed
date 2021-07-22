@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DividedChamp 
-date: 2021-07-21 19:49:09 
-categories: twitter 
---- 
-@InvestorsLive Ready to sail tomorrow? @OddStockTrader
