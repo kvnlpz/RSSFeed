@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Are there any projects going on right now to make bitcoin "dummy proof" and more user friendly? 
+date: 2021-07-21 1626913439 
+categories: reddit 
+--- 
+https://redd.it/op2oxp
