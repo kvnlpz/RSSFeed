@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-3675: Upgrade consensus to Proof-of-Stake by mkalinin · Pull Request #3675 · ethereum/EIPs 
+date: 2021-07-22 1626985303 
+categories: reddit 
+--- 
+https://redd.it/opm7u3
