@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FedoraTrading 
-date: 2021-07-21 20:09:18 
-categories: twitter 
---- 
-@RayTL_ @TradeSniperSara That’s because after one… https://t.co/OxdElmRQwl
