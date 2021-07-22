@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Drew2Par 
-date: 2021-07-21 18:03:20 
-categories: twitter 
---- 
-@InvestorsLive Nope
