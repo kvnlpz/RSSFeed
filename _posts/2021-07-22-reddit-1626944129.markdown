@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ELI5: What makes Bitcoin valuable? What is Lightning Network? What is Taproot? 
+date: 2021-07-22 1626944129 
+categories: reddit 
+--- 
+https://redd.it/opa0p6
