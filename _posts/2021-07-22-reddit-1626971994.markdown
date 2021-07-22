@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-3675: Draft of Ethereum Upgrade forProof-of-Stake Merge Released! It’s On Baby! 
+date: 2021-07-22 1626971994 
+categories: reddit 
+--- 
+https://redd.it/ophmh1
