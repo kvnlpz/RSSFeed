@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-21 19:40:55 
-categories: twitter 
---- 
-@HonuMgmt @markminervini Love that!
