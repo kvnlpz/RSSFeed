@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AraaleNoor 
-date: 2021-07-21 22:25:00 
-categories: twitter 
---- 
-@InvestorsLive Boring! Please post useful content !
