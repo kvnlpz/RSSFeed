@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If I deposit more ADA in Yoroi, will I instantly get more voting power? Or is it only if I had it in before? 
-date: 2021-07-22 1626946974 
-categories: reddit 
---- 
-https://redd.it/opaku6
