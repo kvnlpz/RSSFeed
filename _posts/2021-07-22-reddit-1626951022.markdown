@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: KOPN 
-date: 2021-07-22 1626951022 
-categories: reddit 
---- 
-https://redd.it/opbekc
