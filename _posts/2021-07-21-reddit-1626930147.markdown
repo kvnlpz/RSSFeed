@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are there so many posts with hundreds of positive comments and like 10 upvotes? 
-date: 2021-07-21 1626930147 
-categories: reddit 
---- 
-https://redd.it/op74qs
