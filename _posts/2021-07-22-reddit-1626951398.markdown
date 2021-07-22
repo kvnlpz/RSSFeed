@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DAPP Network is spearheading impermanent loss protection on Bancor. $DAPP tokens are offered to cover the losses incurred by LPs. This concept provides insurance and removes risk associated with matching liquidity for small-cap projects. 
-date: 2021-07-22 1626951398 
-categories: reddit 
---- 
-https://redd.it/opbhiq
