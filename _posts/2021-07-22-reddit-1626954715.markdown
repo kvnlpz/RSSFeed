@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trezor for holding and staking 
-date: 2021-07-22 1626954715 
-categories: reddit 
---- 
-https://redd.it/opc99r
