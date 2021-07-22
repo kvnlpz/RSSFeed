@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What's New With Algo: A dive into Algorand in July 
+date: 2021-07-22 1626965288 
+categories: reddit 
+--- 
+https://redd.it/opfar2
