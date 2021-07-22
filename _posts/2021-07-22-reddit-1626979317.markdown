@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Thoughts on hedging growth portfolio by selling call spreads on IWM? 
+date: 2021-07-22 1626979317 
+categories: reddit 
+--- 
+https://redd.it/opk6db
