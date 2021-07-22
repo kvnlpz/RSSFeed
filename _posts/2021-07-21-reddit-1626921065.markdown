@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My investing history 
-date: 2021-07-21 1626921065 
-categories: reddit 
---- 
-https://redd.it/op4ss4
