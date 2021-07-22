@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any way to stake from my Ledger ? 
-date: 2021-07-22 1626941657 
-categories: reddit 
---- 
-https://redd.it/op9jsy
