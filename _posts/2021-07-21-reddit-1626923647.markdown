@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: W3 
-date: 2021-07-21 1626923647 
-categories: reddit 
---- 
-https://redd.it/op5i18
