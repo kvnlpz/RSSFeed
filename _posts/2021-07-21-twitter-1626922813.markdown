@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PrimeTrading_ 
-date: 2021-07-21 20:00:13 
-categories: twitter 
---- 
-@RayTL_ https://t.co/7EHq9T4WHB
