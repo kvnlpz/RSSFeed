@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ArchieAndrews85 
+date: 2021-07-21 21:36:42 
+categories: twitter 
+--- 
+@nope_its_lily TDA has a somewhat decent API but documentation is limited and support nonexistent. Haven’t gotten I… https://t.co/EmlneRbYqR
