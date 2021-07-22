@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Making NFTs on tezos as a reward for backers / an air drop to help promote my indie game? 
-date: 2021-07-22 1626938282 
-categories: reddit 
---- 
-https://redd.it/op8vwj
