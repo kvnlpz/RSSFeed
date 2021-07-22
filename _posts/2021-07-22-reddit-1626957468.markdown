@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BlockFi, Nexo, MyConstant, Celsius 
-date: 2021-07-22 1626957468 
-categories: reddit 
---- 
-https://redd.it/opcyv6
