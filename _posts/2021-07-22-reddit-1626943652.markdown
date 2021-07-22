@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: London Hard Fork goes Live August 4th 
-date: 2021-07-22 1626943652 
-categories: reddit 
---- 
-https://redd.it/op9xiz
