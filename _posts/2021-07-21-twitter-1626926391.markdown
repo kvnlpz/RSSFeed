@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @svper_trades 
-date: 2021-07-21 20:59:51 
-categories: twitter 
---- 
-RT @super_trades: $LEXX  #SUPER TRADE $10.50 from $5.40 original alert  !!!  $LEXX Up on covid news
