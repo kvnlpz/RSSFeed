@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I have a question regarding Trailing limit order. I am using Fidelity. I am confused regarding the execution of my order 
+date: 2021-07-22 1626969358 
+categories: reddit 
+--- 
+https://redd.it/opgork
