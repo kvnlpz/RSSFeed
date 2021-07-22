@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: South Korea's Vitalik dance hardforked 
-date: 2021-07-22 1626946548 
-categories: reddit 
---- 
-https://redd.it/opahtb
