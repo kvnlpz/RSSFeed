@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Starlink satellites need a heater in space. Possible solution is to have a Bitcoin node on board each one 
+date: 2021-07-22 1626966758 
+categories: reddit 
+--- 
+https://redd.it/opfsv4
