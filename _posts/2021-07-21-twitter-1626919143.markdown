@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IsaiahLuckey 
-date: 2021-07-21 18:59:03 
-categories: twitter 
---- 
-RT @MikeBellafiore: Elite traders set specific and actionable goals and execute with intensity and diligence.
