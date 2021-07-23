@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Simple step by step guide to staking your Cardano/ADA 
-date: 2021-07-22 1627016118 
-categories: reddit 
---- 
-https://redd.it/opv97y
