@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I have a wallet on my desktop and I transferred some coins to it as a test and the block for the coin is a lot farther along than my wallet. Is this normal? Did I do something wrong? Everything is up to date. 
+date: 2021-07-22 1627007714 
+categories: reddit 
+--- 
+https://redd.it/opt013
