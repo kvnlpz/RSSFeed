@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance.us 2FA not working? 
-date: 2021-07-22 1627001997 
-categories: reddit 
---- 
-https://redd.it/oprcs3
