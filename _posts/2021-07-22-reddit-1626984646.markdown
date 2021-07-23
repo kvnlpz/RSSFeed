@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tokenomics and Burns 
-date: 2021-07-22 1626984646 
-categories: reddit 
---- 
-https://redd.it/opm03q
