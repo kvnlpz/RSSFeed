@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Conclave: A Collective Stake Pool Protocol - IOHK Research 
-date: 2021-07-22 1626998702 
-categories: reddit 
---- 
-https://redd.it/opqeg1
