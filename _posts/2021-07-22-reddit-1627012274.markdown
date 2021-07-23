@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Depot 
-date: 2021-07-22 1627012274 
-categories: reddit 
---- 
-https://redd.it/opu8ym
