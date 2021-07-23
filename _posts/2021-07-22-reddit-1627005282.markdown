@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A theory on how to game the system 
-date: 2021-07-22 1627005282 
-categories: reddit 
---- 
-https://redd.it/opsast
