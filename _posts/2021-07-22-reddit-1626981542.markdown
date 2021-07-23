@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hoping to get some feedback on our most recent update which includes coin support for XRP 
-date: 2021-07-22 1626981542 
-categories: reddit 
---- 
-https://redd.it/opkyfq
