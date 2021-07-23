@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Protests in El Salvador call for an end of Bitcoin as local currency 
-date: 2021-07-22 1626994512 
-categories: reddit 
---- 
-https://redd.it/opp85m
