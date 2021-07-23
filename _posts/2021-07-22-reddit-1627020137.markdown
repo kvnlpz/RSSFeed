@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: https://coreto.io/ 
-date: 2021-07-22 1627020137 
-categories: reddit 
---- 
-https://redd.it/opw7eq
