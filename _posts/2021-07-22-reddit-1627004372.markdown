@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First call 
-date: 2021-07-22 1627004372 
-categories: reddit 
---- 
-https://redd.it/ops1a1
