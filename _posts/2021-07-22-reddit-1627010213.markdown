@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why role over? 
-date: 2021-07-22 1627010213 
-categories: reddit 
---- 
-https://redd.it/optpj3
