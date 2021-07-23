@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you have xMoons, either quickly bridge it back to Moons in Vault, or to Dai/ETH. xMoons are not Moons, they are bridged tokens and are going to become worthless as Moons moves to mainnet 
-date: 2021-07-22 1627001159 
-categories: reddit 
---- 
-https://redd.it/opr49j
