@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question regarding hack and crypto security 
-date: 2021-07-22 1626999863 
-categories: reddit 
---- 
-https://redd.it/opqqlv
