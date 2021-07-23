@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @illumined1 
+date: 2021-07-23 12:59:24 
+categories: twitter 
+--- 
+@alphatrends Thanks!!!
