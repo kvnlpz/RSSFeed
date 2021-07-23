@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This one. 
-date: 2021-07-22 1627010830 
-categories: reddit 
---- 
-https://redd.it/optvcx
