@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos Devs, Taquito needs your feedback! Please help improve Taquito further by filling out this 2-minute survey by EOD August 1 (PST). Please fill out only once :) 
-date: 2021-07-22 1626984801 
-categories: reddit 
---- 
-https://redd.it/opm1xl
