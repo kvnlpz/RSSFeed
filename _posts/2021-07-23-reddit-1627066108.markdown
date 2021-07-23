@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What method is used in bep20 tokens for sell/buy orders? 
+date: 2021-07-23 1627066108 
+categories: reddit 
+--- 
+https://redd.it/oq8tee
