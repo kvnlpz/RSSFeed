@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Get wallet off of old eos-voter app (before backups) 
-date: 2021-07-22 1627003320 
-categories: reddit 
---- 
-https://redd.it/oprqk1
