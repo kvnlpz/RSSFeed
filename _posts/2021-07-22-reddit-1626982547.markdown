@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Adaptive Infrastructure 
-date: 2021-07-22 1626982547 
-categories: reddit 
---- 
-https://redd.it/opladz
