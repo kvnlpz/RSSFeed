@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: All the exchanges should have OCO order 
-date: 2021-07-22 1627010187 
-categories: reddit 
---- 
-https://redd.it/optp99
