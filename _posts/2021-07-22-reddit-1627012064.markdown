@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos price prediction says AI 
-date: 2021-07-22 1627012064 
-categories: reddit 
---- 
-https://redd.it/opu753
