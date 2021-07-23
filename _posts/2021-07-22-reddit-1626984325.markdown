@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit just announced they are scaling their community points token project on Ethereum's Layer 2, Arbitrum 
-date: 2021-07-22 1626984325 
-categories: reddit 
---- 
-https://redd.it/oplw8i
