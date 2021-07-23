@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When you vote for multiple projects on Catalyst, does your voting power get split between them? 
-date: 2021-07-22 1626995210 
-categories: reddit 
---- 
-https://redd.it/oppfwe
