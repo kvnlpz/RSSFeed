@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SAFERmoon Integrates Chainlink VRF to Secure the #SAFERsummer Celebration 
-date: 2021-07-22 1626989073 
-categories: reddit 
---- 
-https://redd.it/opngi9
