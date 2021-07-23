@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An App that Does Custom Whale Alerts - Enjoy! 
-date: 2021-07-22 1627008296 
-categories: reddit 
---- 
-https://redd.it/opt64w
