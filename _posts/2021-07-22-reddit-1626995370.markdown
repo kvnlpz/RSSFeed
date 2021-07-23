@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Healthcare and Data ownership 
-date: 2021-07-22 1626995370 
-categories: reddit 
---- 
-https://redd.it/oplydt
