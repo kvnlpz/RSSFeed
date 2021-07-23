@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tsla yolo 
-date: 2021-07-22 1626991156 
-categories: reddit 
---- 
-https://redd.it/opo5md
