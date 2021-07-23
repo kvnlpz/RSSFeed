@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can Bitcoin's SHA-256 encryption be Hacked by Quantum Computers? 
+date: 2021-07-22 1627006570 
+categories: reddit 
+--- 
+https://redd.it/opsocq
