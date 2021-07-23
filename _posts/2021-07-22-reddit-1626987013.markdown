@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Forking 
-date: 2021-07-22 1626987013 
-categories: reddit 
---- 
-https://redd.it/opmry4
