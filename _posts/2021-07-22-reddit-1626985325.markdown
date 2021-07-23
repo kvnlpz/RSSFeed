@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hedera Hashgraph path to permissionless network nodes White Paper. 
-date: 2021-07-22 1626985325 
-categories: reddit 
---- 
-https://redd.it/opm80y
