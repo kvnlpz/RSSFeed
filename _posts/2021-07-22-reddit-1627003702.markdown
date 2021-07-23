@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: DefiBox Whitepaper 4.0 - "For those who don't know this project, a quick and simple description as put forward by its whitepaper is that Defibox = Uniswap + MakerDAO + AAVE, because its 3 main protocols are Swap, stable coin USN and loans, just like these three Ethereum DeFis" 
+date: 2021-07-22 1627003702 
+categories: reddit 
+--- 
+https://redd.it/oprufq
