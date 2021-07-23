@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are BSC fees way lower? 
-date: 2021-07-22 1627007200 
-categories: reddit 
---- 
-https://redd.it/opsumo
