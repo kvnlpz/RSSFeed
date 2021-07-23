@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is bitcoin not a massive security threat to individuals? 
-date: 2021-07-22 1627018767 
-categories: reddit 
---- 
-https://redd.it/opvw3e
