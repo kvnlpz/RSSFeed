@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin 
-date: 2021-07-22 1627007475 
-categories: reddit 
---- 
-https://redd.it/opqqgp
