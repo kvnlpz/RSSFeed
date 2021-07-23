@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question for the community 
-date: 2021-07-22 1626995877 
-categories: reddit 
---- 
-https://redd.it/oppn28
