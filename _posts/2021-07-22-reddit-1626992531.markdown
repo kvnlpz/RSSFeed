@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help? 
-date: 2021-07-22 1626992531 
-categories: reddit 
---- 
-https://redd.it/opom7o
