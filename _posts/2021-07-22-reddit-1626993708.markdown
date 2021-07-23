@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Potential Issue in the Contributor Distribution of Moons Based on Karma. Are There Any Alternatives? 
-date: 2021-07-22 1626993708 
-categories: reddit 
---- 
-https://redd.it/opoz95
