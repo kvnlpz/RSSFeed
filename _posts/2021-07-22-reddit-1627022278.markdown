@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit rolls with Arbitrium to scale its Ethereum based community points system 
-date: 2021-07-22 1627022278 
-categories: reddit 
---- 
-https://redd.it/opwoue
