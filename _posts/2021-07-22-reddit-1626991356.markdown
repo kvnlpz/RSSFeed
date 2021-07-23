@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Paradox of Bitcoin. 
-date: 2021-07-22 1626991356 
-categories: reddit 
---- 
-https://redd.it/opo81j
