@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blending Two Worlds with Ethereum: Decentralized Finance Ownership Tokens for Real-World Assets 
-date: 2021-07-22 1626992025 
-categories: reddit 
---- 
-https://redd.it/opog76
