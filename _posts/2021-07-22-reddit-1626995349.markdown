@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s Cardano’s hedge against centralization? 
-date: 2021-07-22 1626995349 
-categories: reddit 
---- 
-https://redd.it/opphf5
