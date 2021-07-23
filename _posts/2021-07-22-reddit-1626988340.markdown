@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The DAPP token gold rush has begun! LiquidAppsIO is uniting with Bancor on Ethereum & solving impermanent loss for liquidity providers. Soon you'll be able to convert your DAPP to & from ERC-20 tokens on Ethereum. 
-date: 2021-07-22 1626988340 
-categories: reddit 
---- 
-https://redd.it/opn7t3
