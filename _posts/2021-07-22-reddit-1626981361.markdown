@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How it started. How it's going. 
-date: 2021-07-22 1626981361 
-categories: reddit 
---- 
-https://redd.it/opkw8g
