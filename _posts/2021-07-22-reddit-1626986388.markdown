@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Scaling Ethereum with zkSync — Placeholder 
-date: 2021-07-22 1626986388 
-categories: reddit 
---- 
-https://redd.it/opmkmg
