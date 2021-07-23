@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ruufpay 
-date: 2021-07-22 1626974457 
-categories: reddit 
---- 
-https://redd.it/opihvs
