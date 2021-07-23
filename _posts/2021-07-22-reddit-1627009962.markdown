@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Using delta to track portfolio and having an issue with having a coin that I cashed out of into other crypto and no longer own, but it still showing on my portfolio? 
-date: 2021-07-22 1627009962 
-categories: reddit 
---- 
-https://redd.it/optn5k
