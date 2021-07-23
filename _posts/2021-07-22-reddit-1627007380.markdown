@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Am I understanding covered calls correctly? 
-date: 2021-07-22 1627007380 
-categories: reddit 
---- 
-https://redd.it/opswll
