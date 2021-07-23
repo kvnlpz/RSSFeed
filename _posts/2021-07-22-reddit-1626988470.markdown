@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do exchanges accept lightning for a fast payout into fiat? 
-date: 2021-07-22 1626988470 
-categories: reddit 
---- 
-https://redd.it/opn96k
