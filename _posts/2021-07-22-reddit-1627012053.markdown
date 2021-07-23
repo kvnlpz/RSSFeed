@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Price 
-date: 2021-07-22 1627012053 
-categories: reddit 
---- 
-https://redd.it/opu6xv
