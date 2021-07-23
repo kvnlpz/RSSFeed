@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitrue has announced that it will begin supporting native assets on the Cardano blockchain! We explain how this is possible before the rollout of smart contracts. 
-date: 2021-07-22 1626995486 
-categories: reddit 
---- 
-https://redd.it/oppiz2
