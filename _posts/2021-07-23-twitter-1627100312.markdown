@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @LarryTheGibbon 
+date: 2021-07-23 21:18:32 
+categories: twitter 
+--- 
+@nope_its_lily Looks like it’ll be proof by induction or some type of one sided enveloping/pinching (likely combination of the two)
