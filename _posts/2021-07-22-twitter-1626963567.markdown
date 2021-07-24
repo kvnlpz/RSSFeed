@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @slick_cs 
-date: 2021-07-22 07:19:27 
-categories: twitter 
---- 
-@modern_rock hm so MIC is more focused on education? you guys dont pump and dump low floats like other rooms?
