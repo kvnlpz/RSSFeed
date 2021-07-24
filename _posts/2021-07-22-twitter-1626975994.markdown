@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheNoiseMargins 
-date: 2021-07-22 10:46:34 
-categories: twitter 
---- 
-@nope_its_lily Classic 😌 https://t.co/CluewK2Aqt
