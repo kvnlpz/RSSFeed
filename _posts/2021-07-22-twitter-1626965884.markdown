@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Chrisso62621171 
-date: 2021-07-22 07:58:04 
-categories: twitter 
---- 
-@MikeBellafiore Like using a thumb.
