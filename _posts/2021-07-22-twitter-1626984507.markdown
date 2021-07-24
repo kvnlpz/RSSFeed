@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 13:08:27 
-categories: twitter 
---- 
-@Post_Market @MadThunderdome I sold the 72C expiring tomorrow for 2.55. Let's see how it goes.
