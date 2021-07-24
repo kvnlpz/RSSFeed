@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jess_Tradez 
-date: 2021-07-22 18:24:38 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/Yyryqb1JnQ
