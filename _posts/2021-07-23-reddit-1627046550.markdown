@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The world’s largest manufacturer of Bitcoin mining hardware, Bitmain, has announced a collaboration with ENEGIX to host the Bitmain Antminer S19 Pro at their 180MW facility in Kazakhstan. 
-date: 2021-07-23 1627046550 
-categories: reddit 
---- 
-https://redd.it/oq2al2
