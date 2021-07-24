@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trade__ 
-date: 2021-07-22 11:08:14 
-categories: twitter 
---- 
-RT @super_trades: I just closed a trade for a profit: https://t.co/NjdJoVh1rN
