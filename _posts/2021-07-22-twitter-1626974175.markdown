@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @friedmandave 
-date: 2021-07-22 10:16:15 
-categories: twitter 
---- 
-@nope_its_lily age is a hell of a drug
