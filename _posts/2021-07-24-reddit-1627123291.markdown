@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I am extremely proud and excited to announce that the Lightning Network (❤️⚡️) can actually handle payments of substantial size if the correct paths and amounts are chosen. Received (and send back) 0.3679 BTC yesterday on Mainnet with optimal MPP splits with a total of 345 different paths! ❤️⚡️ 
+date: 2021-07-24 1627123291 
+categories: reddit 
+--- 
+https://redd.it/oqnme1
