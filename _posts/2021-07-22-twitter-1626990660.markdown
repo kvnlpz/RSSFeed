@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 14:51:00 
-categories: twitter 
---- 
-@goodalexander @therobotjames No, usually you want to sell stuff and be the fortune cookie, not do one or the other.
