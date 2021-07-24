@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bcfc1290 
-date: 2021-07-22 10:28:25 
-categories: twitter 
---- 
-@timothysykes My trading office for the day https://t.co/khSDkOuQ34
