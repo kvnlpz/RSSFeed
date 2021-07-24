@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:26:16 
+categories: twitter 
+--- 
+RT @modern_rock: @Premier_Trades Are u in MIC? Time to invest in education to make sure you have the proper foundation for future stability…
