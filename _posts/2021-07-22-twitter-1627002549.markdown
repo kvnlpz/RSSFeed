@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlertTrade 
-date: 2021-07-22 18:09:09 
-categories: twitter 
---- 
-RT @offshorehunters: Fly fishing today….fishing wasn’t great but pretty impressive watching these come in and fill up https://t.co/Iy6MyGQH…
