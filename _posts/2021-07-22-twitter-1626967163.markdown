@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WillTeschII 
-date: 2021-07-22 08:19:23 
-categories: twitter 
---- 
-@timothysykes I couldn't get 10 ft from that edge
