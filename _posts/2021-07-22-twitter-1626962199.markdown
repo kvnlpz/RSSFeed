@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-22 06:56:39 
-categories: twitter 
---- 
-https://t.co/4NrHZojqsa Dip buy, https://t.co/4lKUY5SH24 panic here
