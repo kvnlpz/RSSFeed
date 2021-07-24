@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @justinw01530298 
-date: 2021-07-22 07:09:53 
-categories: twitter 
---- 
-@InvestorsLive That 25% gain just to break even end of week
