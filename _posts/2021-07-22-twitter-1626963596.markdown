@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-22 07:19:56 
-categories: twitter 
---- 
-@slick_cs fuck no. we dont alert and dont pump
