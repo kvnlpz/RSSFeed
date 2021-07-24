@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:18:45 
+categories: twitter 
+--- 
+RT @modern_rock: We are going to give away $500 during @TBradley90 webinar today at 2pm market time so make sure you attend and perhaps win…
