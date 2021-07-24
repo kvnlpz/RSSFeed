@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 17:17:32 
-categories: twitter 
---- 
-I wonder how people look at careers like they look at a trade. We all optimize for the return, but in different way… https://t.co/9OmqTj57qh
