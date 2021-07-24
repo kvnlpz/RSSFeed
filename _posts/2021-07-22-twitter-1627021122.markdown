@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scottybradford 
-date: 2021-07-22 23:18:42 
-categories: twitter 
---- 
-@modern_rock That’s crazy.
