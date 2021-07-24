@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is a solution for the GDPR "right to erasure", when storing user data in the blockchain? 
-date: 2021-07-23 1627033042 
-categories: reddit 
---- 
-https://redd.it/opyyks
