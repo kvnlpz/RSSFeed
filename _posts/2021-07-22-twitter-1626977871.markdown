@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 11:17:51 
-categories: twitter 
---- 
-I once made a model that used VWAP 30 mins from now and it performed beautifully
