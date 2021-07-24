@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 02:09:39 
+categories: twitter 
+--- 
+RT @modern_rock: something to think about. being a doctor is not easy and neither is day trading. but both are possible if you put in the w…
