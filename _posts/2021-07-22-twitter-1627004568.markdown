@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-07-22 18:42:48 
-categories: twitter 
---- 
-RT @G_krupins: $SBUX wound up pretty tight and looks ready for a move https://t.co/aoTA264eHA
