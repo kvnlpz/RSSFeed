@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to donate to many addresses? 
-date: 2021-07-23 1627030857 
-categories: reddit 
---- 
-https://redd.it/opyij6
