@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Idk what i have done! I thought i was selling a put and selling a call. Why would i get margin call and account deficit? Is this gonna clear up or i fucked up? 
+date: 2021-07-23 1627102019 
+categories: reddit 
+--- 
+https://redd.it/oqj893
