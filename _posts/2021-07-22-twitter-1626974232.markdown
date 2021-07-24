@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshVegas6 
-date: 2021-07-22 10:17:12 
-categories: twitter 
---- 
-@nope_its_lily Life comes at you fast https://t.co/9DPRtFkUXe
