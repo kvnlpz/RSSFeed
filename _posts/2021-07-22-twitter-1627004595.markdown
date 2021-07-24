@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-07-22 18:43:15 
-categories: twitter 
---- 
-RT @G_krupins: $APH weekly.  Like it https://t.co/9na4DD8iqs
