@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The Stellar Blogger allows 618 text characters in one Stellar transaction, for a fee of just .001 XLM 
+date: 2021-07-24 1627130807 
+categories: reddit 
+--- 
+https://redd.it/oqpct7
