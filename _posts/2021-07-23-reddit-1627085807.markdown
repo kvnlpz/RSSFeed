@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Our moons were double, but it was done using testnet. Which means that it isn't immutable. But what if someone just cashout their moons before the transection is reversed? 
+date: 2021-07-23 1627085807 
+categories: reddit 
+--- 
+https://redd.it/oqf18u
