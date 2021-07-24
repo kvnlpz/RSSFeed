@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cardana is a decentralized lending platform. It is built on a peer-to-peer (P2P) model in which borrowers and lenders interact directly without the need of a bank, broker, or financial intermediary. 
+date: 2021-07-23 1627095001 
+categories: reddit 
+--- 
+https://redd.it/oqhgt4
