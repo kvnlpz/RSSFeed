@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nhfortini 
-date: 2021-07-22 13:56:43 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause @zkschell https://t.co/bGwwYLZFLZ
