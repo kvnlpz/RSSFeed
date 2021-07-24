@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-22 12:24:27 
-categories: twitter 
---- 
-https://t.co/M9vyak6aHf This is impressive, potential https://t.co/EfvPuXsCLr pattern here
