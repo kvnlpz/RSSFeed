@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Running a full node 
+date: 2021-07-24 1627166094 
+categories: reddit 
+--- 
+https://redd.it/oqzpca
