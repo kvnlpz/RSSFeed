@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @acityinohio 
-date: 2021-07-22 19:08:54 
-categories: twitter 
---- 
-@nope_its_lily the hot guy to monadic pipeline pipeline
