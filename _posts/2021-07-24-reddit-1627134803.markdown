@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to maintain the portfolio split ratios in a DCA strategy? 
+date: 2021-07-24 1627134803 
+categories: reddit 
+--- 
+https://redd.it/oqqgym
