@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I made an app that predicts when to buy ATOM 
+date: 2021-07-24 1627134890 
+categories: reddit 
+--- 
+https://redd.it/oqqhp7
