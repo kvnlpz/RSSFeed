@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @randomjohn 
-date: 2021-07-22 08:10:46 
-categories: twitter 
---- 
-@InvestorsLive Think you're funny beer man? 🤣🤣🤣
