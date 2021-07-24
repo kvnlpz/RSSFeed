@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GreenDayJay 
-date: 2021-07-22 11:35:50 
-categories: twitter 
---- 
-@RayTL_ Also innovation, so yes!
