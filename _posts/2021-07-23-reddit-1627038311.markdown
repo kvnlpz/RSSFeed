@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Now Is the Time to Build Beyond DeFi on Ethereum: Vitalik Buterin 
-date: 2021-07-23 1627038311 
-categories: reddit 
---- 
-https://redd.it/oq03ms
