@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Only 39% of eth nodes are ready for the London (eip1559) hardfork? 
+date: 2021-07-24 1627150988 
+categories: reddit 
+--- 
+https://redd.it/oqvcb9
