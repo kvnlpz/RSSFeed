@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @RedFebtober 
+date: 2021-07-24 11:32:02 
+categories: twitter 
+--- 
+@timothysykes Sometimes more than others.
