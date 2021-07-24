@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:20:27 
+categories: twitter 
+--- 
+RT @modern_rock: @M_Bendis Txt @TBradley90 ! https://t.co/naWOExdIg4
