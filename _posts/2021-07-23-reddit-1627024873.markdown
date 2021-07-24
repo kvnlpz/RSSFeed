@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What differentiates Bitcoin from altcoins 
-date: 2021-07-23 1627024873 
-categories: reddit 
---- 
-https://redd.it/opx9gq
