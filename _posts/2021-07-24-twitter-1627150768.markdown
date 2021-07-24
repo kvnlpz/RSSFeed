@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:19:28 
+categories: twitter 
+--- 
+RT @modern_rock: Focus on what u can control! As traders we can control our ENTRIES &amp; our HARD STOPS (Risk management). The rest we are at…
