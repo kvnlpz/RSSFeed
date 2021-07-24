@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @therobemrich 
-date: 2021-07-22 18:40:26 
-categories: twitter 
---- 
-@nope_its_lily I do think the prevalence and growth of dark pools will present a major problem. For example; what i… https://t.co/DC5wW9oxY5
