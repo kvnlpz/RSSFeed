@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nathanfinnamore 
-date: 2021-07-22 09:46:05 
-categories: twitter 
---- 
-RT @InvestorsLive: $ENDP hell of an alert @DividedChamp
