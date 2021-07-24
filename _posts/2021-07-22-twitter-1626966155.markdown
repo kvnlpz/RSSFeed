@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JayMan9223 
-date: 2021-07-22 08:02:35 
-categories: twitter 
---- 
-RT @InvestorsLive: Successful traders obsess over every part of their trading process. Small improvements yield big returns over time. http…
