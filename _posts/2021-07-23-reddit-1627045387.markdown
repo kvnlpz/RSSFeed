@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Starting capital 
-date: 2021-07-23 1627045387 
-categories: reddit 
---- 
-https://redd.it/oq1y9g
