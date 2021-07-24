@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-22 12:30:46 
-categories: twitter 
---- 
-RT @J0J0JGEORGE: $SAITO solves this
