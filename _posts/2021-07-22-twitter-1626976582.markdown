@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MasriZura 
-date: 2021-07-22 10:56:22 
-categories: twitter 
---- 
-@modern_rock Sounds like a show title "The Wizard Of Lies"
