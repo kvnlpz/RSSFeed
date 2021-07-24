@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muttleythinks 
-date: 2021-07-22 13:47:48 
-categories: twitter 
---- 
-@nope_its_lily Hard enough being right once, fucked if I’m gonna try to be right twice at the same time
