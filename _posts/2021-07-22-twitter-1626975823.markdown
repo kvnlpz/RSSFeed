@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @newsomenuggets 
-date: 2021-07-22 10:43:43 
-categories: twitter 
---- 
-@G_krupins Saucy chart
