@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-22 07:49:19 
-categories: twitter 
---- 
-$CLOV fresh lows
