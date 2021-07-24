@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kennedyofthe949 
-date: 2021-07-22 20:56:36 
-categories: twitter 
---- 
-@alphatrends Unless it was Alpha Trends with that coupon code to Trendspider
