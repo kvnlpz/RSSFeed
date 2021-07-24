@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 05:27:30 
+categories: twitter 
+--- 
+RT @modern_rock: Due to COVID restrictions if you have issues getting to the event message myself or @Oliver_Tan or @AT09_Trader 
+
+We have…
