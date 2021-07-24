@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @S1lv1us 
-date: 2021-07-22 18:26:28 
-categories: twitter 
---- 
-@nope_its_lily I can't tell when you're being sarcastic. I thought they were needed for liquidity. What's so bad about them?
