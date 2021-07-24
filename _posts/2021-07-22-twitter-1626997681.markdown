@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-22 16:48:01 
-categories: twitter 
---- 
-@tenmike 8 ish, he was a rescue.
