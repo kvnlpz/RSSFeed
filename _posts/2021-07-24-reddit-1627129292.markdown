@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Created a discord bot, where you can buy/sell Crypto Coins based on their real price, using fake bot currency. Planning to add futures trading soon. 
+date: 2021-07-24 1627129292 
+categories: reddit 
+--- 
+https://redd.it/oqoy93
