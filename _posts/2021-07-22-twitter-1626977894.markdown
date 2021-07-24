@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sean_in_CT 
-date: 2021-07-22 11:18:14 
-categories: twitter 
---- 
-@MikeBellafiore @JamesClear Amen
