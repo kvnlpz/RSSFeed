@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradesTimmy 
-date: 2021-07-22 19:52:35 
-categories: twitter 
---- 
-RT @SJosephBurns: Cut losses short and let winners run and stop worrying so much about every trade being a winner.
