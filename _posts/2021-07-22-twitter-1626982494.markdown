@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-22 12:34:54 
-categories: twitter 
---- 
-RT @RayTL_: There is no computer/algo/bot that's better than the human eye when flipping charts. 
-
-Screeners - fancy pattern recognition so…
