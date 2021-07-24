@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CRYPT0N1TE 
-date: 2021-07-22 21:32:33 
-categories: twitter 
---- 
-@nope_its_lily With that attitude you are safer just buying #Coinbase $COIN. No need to deal with a shady exchanges own token.
