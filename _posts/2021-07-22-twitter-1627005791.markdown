@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MyTwitt3rTalk 
-date: 2021-07-22 19:03:11 
-categories: twitter 
---- 
-@InvestorsLive This man is a monk https://t.co/l3QdtbBr3f
