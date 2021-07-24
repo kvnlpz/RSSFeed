@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xLightcycle 
-date: 2021-07-22 21:18:22 
-categories: twitter 
---- 
-@nope_its_lily Another advantage is that exchange tokens serve as collateral, if you're trading on CEX
