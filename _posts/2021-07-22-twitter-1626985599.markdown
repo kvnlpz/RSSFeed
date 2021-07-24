@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Disob3yed 
-date: 2021-07-22 13:26:39 
-categories: twitter 
---- 
-RT @nope_its_lily: The best way to trade isn't to risk manage or read books or learn new skills, it's simply to know the future price of th…
