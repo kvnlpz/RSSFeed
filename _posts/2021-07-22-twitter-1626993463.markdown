@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockSwingAlert 
-date: 2021-07-22 15:37:43 
-categories: twitter 
---- 
-@super_trades Still more to come on this one ;)
