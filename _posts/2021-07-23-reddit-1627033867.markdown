@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Improvement Proposal for the Two Chains Merging In PoS Transition Is Formally Approved 
-date: 2021-07-23 1627033867 
-categories: reddit 
---- 
-https://redd.it/opz4rl
