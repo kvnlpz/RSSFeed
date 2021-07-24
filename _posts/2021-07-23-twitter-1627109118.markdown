@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @ThaBlackSparrow 
+date: 2021-07-23 23:45:18 
+categories: twitter 
+--- 
+RT @nope_its_lily: - @Uniswap has decided to cutoff Uniswap access to certain tokens going forward
+https://t.co/5qwKLNGIRS
+h/t @tarunchitra
