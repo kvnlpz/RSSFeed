@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CashlessActs 
-date: 2021-07-22 11:44:20 
-categories: twitter 
---- 
-@InvestorsLive I c What you did there
