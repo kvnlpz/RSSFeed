@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @snootypigeon 
-date: 2021-07-22 18:39:57 
-categories: twitter 
---- 
-@nope_its_lily lily do you whisper to stocks too?
