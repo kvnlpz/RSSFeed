@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-22 09:10:12 
-categories: twitter 
---- 
-If $NET is to blame this can fade nicely.
