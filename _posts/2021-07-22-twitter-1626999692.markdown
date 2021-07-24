@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoFemBoy 
-date: 2021-07-22 17:21:32 
-categories: twitter 
---- 
-@nope_its_lily For both, I dive in and go “lol maybe this will save me. haha idk”
