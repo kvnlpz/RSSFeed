@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-22 07:13:18 
-categories: twitter 
---- 
-https://t.co/8zeUnulPsp Wiping away small losses is the answer!
