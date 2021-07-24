@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jeffdewy 
-date: 2021-07-22 17:31:44 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade I feel like I'm so close to a breakout, yet so far away...definitely increasing the knowledge gap.
