@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iTurquoiseZebra 
-date: 2021-07-22 09:35:06 
-categories: twitter 
---- 
-RT @G_krupins: $ADSK like this one.  Added some today https://t.co/R2UgVUUerE
