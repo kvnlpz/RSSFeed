@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: George Hotz: Ethereum startup story on Lex Fridman 
-date: 2021-07-23 1627042487 
-categories: reddit 
---- 
-https://redd.it/oq154l
