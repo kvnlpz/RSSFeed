@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alpha_vantage 
-date: 2021-07-22 10:59:42 
-categories: twitter 
---- 
-RT @nope_its_lily: Reconnected with my old favorite options provider, @optionrats (I used their data in my original NOPE paper). Going to a…
