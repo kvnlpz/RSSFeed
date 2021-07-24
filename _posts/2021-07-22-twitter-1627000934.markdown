@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lebleet 
-date: 2021-07-22 17:42:14 
-categories: twitter 
---- 
-@nope_its_lily probably shouldn’t lump mean/mode together. startup founder is like the canonical “mean is much higher than mode” example
