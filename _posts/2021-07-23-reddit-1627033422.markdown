@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is blockchain I have tried to understand it from Google and YouTube but I really can understand that 
-date: 2021-07-23 1627033422 
-categories: reddit 
---- 
-https://redd.it/opz1gt
