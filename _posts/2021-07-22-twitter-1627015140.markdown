@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @billypughcap 
-date: 2021-07-22 21:39:00 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/iC1D4tQmJX
