@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a great artical if you’re still curious about impermanent loss 
-date: 2021-07-23 1627047265 
-categories: reddit 
---- 
-https://redd.it/oq2ibl
