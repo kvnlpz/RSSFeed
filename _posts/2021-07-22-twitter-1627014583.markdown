@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NaturalsIndigo 
-date: 2021-07-22 21:29:43 
-categories: twitter 
---- 
-@nope_its_lily Software is eating the world.  Etherium is software
