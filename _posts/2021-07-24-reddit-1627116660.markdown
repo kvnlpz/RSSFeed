@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: 2FA SMS Is not safe 
+date: 2021-07-24 1627116660 
+categories: reddit 
+--- 
+https://redd.it/oqmb59
