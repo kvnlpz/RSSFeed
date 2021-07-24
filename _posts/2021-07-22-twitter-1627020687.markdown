@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Austinedai 
-date: 2021-07-22 23:11:27 
-categories: twitter 
---- 
-RT @modern_rock: Not everyone can make millions. I keep stressing the reality that $200/day supplemental income is life changing. From ther…
