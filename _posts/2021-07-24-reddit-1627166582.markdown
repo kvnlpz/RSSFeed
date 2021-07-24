@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ELI5 Bitcoin smart contracts 
+date: 2021-07-24 1627166582 
+categories: reddit 
+--- 
+https://redd.it/oqzty9
