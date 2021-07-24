@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jcglezibarguen 
-date: 2021-07-22 23:05:23 
-categories: twitter 
---- 
-RT @nope_its_lily: If you're bullish on BTC or ETH or whatever, the exchange coins probably act as a better investment for a new stage of a…
