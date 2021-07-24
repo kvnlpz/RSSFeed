@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnnyTrades1 
-date: 2021-07-22 09:08:25 
-categories: twitter 
---- 
-RT @OddStockTrader: World having DNS issues today.
