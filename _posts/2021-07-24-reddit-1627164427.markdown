@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ether GWEI confusion 
+date: 2021-07-24 1627164427 
+categories: reddit 
+--- 
+https://redd.it/oqyqd6
