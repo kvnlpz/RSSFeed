@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nicowin06 
-date: 2021-07-22 16:39:08 
-categories: twitter 
---- 
-@RayTL_ https://t.co/XAAFZvtyvR
