@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StanleyPipotek1 
-date: 2021-07-22 17:41:35 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade On it! https://t.co/f8n4V9sdNu
