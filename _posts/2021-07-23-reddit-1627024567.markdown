@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Whats your guys' thoughts on "VolumeAvg" indicator on TOS? 
-date: 2021-07-23 1627024567 
-categories: reddit 
---- 
-https://redd.it/opx762
