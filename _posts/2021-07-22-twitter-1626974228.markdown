@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RealMrGhoul 
-date: 2021-07-22 10:17:08 
-categories: twitter 
---- 
-@nope_its_lily Gallons of cookie dough ice cream happened.
