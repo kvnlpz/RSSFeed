@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SpeeTrades 
-date: 2021-07-22 13:04:05 
-categories: twitter 
---- 
-@timothysykes I’m surprised you didn’t catch $NSAV morning panic
