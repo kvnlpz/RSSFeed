@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-24 11:30:02 
+categories: twitter 
+--- 
+@0xmons yeah @vgr 's stuff is good
