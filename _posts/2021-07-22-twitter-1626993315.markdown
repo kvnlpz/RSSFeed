@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-07-22 15:35:15 
-categories: twitter 
---- 
-RT @RobertRiggs1: Pool side video lesson watching. Studying up. @timothysykes https://t.co/nQtUPbrlVK
