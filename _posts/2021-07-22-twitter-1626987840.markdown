@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gilberto_TFC 
-date: 2021-07-22 14:04:00 
-categories: twitter 
---- 
-@InvestorsLive @zkschell Great
