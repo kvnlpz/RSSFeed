@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tenmike 
-date: 2021-07-22 15:54:28 
-categories: twitter 
---- 
-@InvestorsLive How old is Beckett ?
