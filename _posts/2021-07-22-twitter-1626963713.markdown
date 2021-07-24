@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Londonodiego1 
-date: 2021-07-22 07:21:53 
-categories: twitter 
---- 
-@timothysykes 
-Amazing marketing
-We all can't measure up to you https://t.co/pcVjliot8T
