@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 09:43:22 
-categories: twitter 
---- 
-RT @wormwood4: @nope_its_lily NOPE signals on ES &amp; NQ performing quite well this lunch hour, thank you very much!
