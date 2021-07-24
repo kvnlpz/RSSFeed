@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-22 16:42:12 
-categories: twitter 
---- 
-$NRXP looks like I need a re-do - is there an edit button on my $15 exits?
