@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InBraised 
-date: 2021-07-22 11:33:15 
-categories: twitter 
---- 
-@nope_its_lily (To elaborate, in NT8, if you mix-time frame series, it was possible to see the closing price/data o… https://t.co/IVd7KaINeq
