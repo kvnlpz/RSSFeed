@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The bitcoin capacity on lightning is growing at an absolutely blistering rate - this is the signal over all of the other noise! 
-date: 2021-07-23 1627025282 
-categories: reddit 
---- 
-https://redd.it/opxck7
