@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:23:13 
+categories: twitter 
+--- 
+RT @modern_rock: MIC is the ONLY place that helps little guys get started. Everyone else only helps bigger more experienced traders.
+
+I nev…
