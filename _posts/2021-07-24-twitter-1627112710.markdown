@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @costa11235 
+date: 2021-07-24 00:45:10 
+categories: twitter 
+--- 
+RT @nope_its_lily: This study is interesting; she linked the paper here. https://t.co/98LJZAzMGH
+A few caveats I can see:
+1) The study was…
