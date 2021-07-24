@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @notseriousknown 
-date: 2021-07-22 09:38:29 
-categories: twitter 
---- 
-@InvestorsLive This is insane
