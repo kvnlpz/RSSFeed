@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stockspotify 
-date: 2021-07-22 18:05:17 
-categories: twitter 
---- 
-@InvestorsLive It’s crazy how going back to the well usually doesn’t end well.
