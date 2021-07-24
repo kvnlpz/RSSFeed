@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Short call spread vs. long put spread 21DTE -are they really the same? 
+date: 2021-07-24 1627153567 
+categories: reddit 
+--- 
+https://redd.it/oqw4g9
