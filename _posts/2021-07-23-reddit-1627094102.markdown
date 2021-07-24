@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I made an app that predicts XLM and other crypto performances 
+date: 2021-07-23 1627094102 
+categories: reddit 
+--- 
+https://redd.it/oqh8at
