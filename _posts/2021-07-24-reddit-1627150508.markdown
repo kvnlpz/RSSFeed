@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Borrowing Against Your Own Bitcoin Using Bitcoin Smart Contracts 
+date: 2021-07-24 1627150508 
+categories: reddit 
+--- 
+https://redd.it/oqv777
