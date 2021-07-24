@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @Teco 
+date: 2021-07-24 10:08:40 
+categories: twitter 
+--- 
+RT @nope_its_lily: Oh, this is a cool story.
+https://t.co/FUrn5lrq6R
