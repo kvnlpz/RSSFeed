@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-07-22 18:42:40 
-categories: twitter 
---- 
-RT @G_krupins: $XBI nice day today and I continue to like the look of this https://t.co/Z8ihKNXWw8
