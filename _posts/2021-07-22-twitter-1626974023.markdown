@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ctrssierra 
-date: 2021-07-22 10:13:43 
-categories: twitter 
---- 
-@InvestorsLive Glad I took the cover https://t.co/L4RC8PNhif
