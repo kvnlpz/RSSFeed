@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-22 18:51:02 
-categories: twitter 
---- 
-Sounds like a signed up for a fun summer camp at @InvestorsLive
