@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @lucidleek1 
+date: 2021-07-24 00:16:08 
+categories: twitter 
+--- 
+@timothysykes @30DayBoot @completepenny Will do!
