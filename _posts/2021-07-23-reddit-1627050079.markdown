@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: OpSec is important in this space. DeFi is all about personal responsibility. Don’t fall victim to common scams and pit falls. 
-date: 2021-07-23 1627050079 
-categories: reddit 
---- 
-https://redd.it/oq3e54
