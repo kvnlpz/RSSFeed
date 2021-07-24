@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ebrotrades 
-date: 2021-07-22 08:43:53 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/205vkmNdAB @rajafjuba much appreciated, glad you get it!
