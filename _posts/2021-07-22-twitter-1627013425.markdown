@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sean_socal08 
-date: 2021-07-22 21:10:25 
-categories: twitter 
---- 
-@alphatrends Texas monkey virus coming in hot!
