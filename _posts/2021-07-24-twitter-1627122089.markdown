@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 03:21:29 
+categories: twitter 
+--- 
+RT @modern_rock: “ Become friends with people who aren’t your age. Hang out with people whose first language isn’t the same as yours. Get t…
