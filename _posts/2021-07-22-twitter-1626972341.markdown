@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tiu_cool 
-date: 2021-07-22 09:45:41 
-categories: twitter 
---- 
-RT @InvestorsLive: $ENDP hell of an alert @DividedChamp
