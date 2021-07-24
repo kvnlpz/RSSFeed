@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TurdSolid 
-date: 2021-07-22 15:03:29 
-categories: twitter 
---- 
-@InvestorsLive If you’re asking me specifically. https://t.co/QXvNP635n9
