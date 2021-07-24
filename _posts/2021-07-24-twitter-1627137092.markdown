@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @chiradio 
+date: 2021-07-24 07:31:32 
+categories: twitter 
+--- 
+RT @alphatrends: Earnings this week https://t.co/7hY9wtDNNg
