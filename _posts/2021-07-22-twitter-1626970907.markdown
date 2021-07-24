@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jgkeller45 
-date: 2021-07-22 09:21:47 
-categories: twitter 
---- 
-RT @InvestorsLive: Nothing better than sunsets with my love ❤ https://t.co/KaFFKoz7W2
