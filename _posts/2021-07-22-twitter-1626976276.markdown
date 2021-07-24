@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_bearded 
-date: 2021-07-22 10:51:16 
-categories: twitter 
---- 
-@OddStockTrader our society has fallen
