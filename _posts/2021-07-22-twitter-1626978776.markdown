@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @traderfuz 
-date: 2021-07-22 11:32:56 
-categories: twitter 
---- 
-@OddStockTrader They are running out content lol
