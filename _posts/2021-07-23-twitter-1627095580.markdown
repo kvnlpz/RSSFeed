@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-23 19:59:40 
+categories: twitter 
+--- 
+@MinvstrD Self-reporting you can roughly assume Gaussian errors given the sample size, so it should be negligible.… https://t.co/HJFmVZcMUv
