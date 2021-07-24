@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is the BTC White Paper. Many people here have not read it. It's only 9 pages and will give more understanding about crypto than casually browsing this sub could ever do. Read it. 
-date: 2021-07-23 1627027713 
-categories: reddit 
---- 
-https://redd.it/opxurl
