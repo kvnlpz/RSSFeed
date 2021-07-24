@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The same hash value for two transactions. 
+date: 2021-07-24 1627153061 
+categories: reddit 
+--- 
+https://redd.it/oqvylh
