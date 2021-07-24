@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @FineDiner0x00 
+date: 2021-07-23 19:00:57 
+categories: twitter 
+--- 
+RT @nope_its_lily: Working on a repo of various tools and scripts for quantitative analysis with (mostly) free tools. Will publish it proba…
