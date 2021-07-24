@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: There was a post yesterday that included a snapshot of the Top 100 coins from exactly 4 years ago. I decided to crunch some numbers to see how those coins progressed over time and where they stand today. Here are my findings, with some interesting tidbits: 
+date: 2021-07-24 1627111879 
+categories: reddit 
+--- 
+https://redd.it/oqld0r
