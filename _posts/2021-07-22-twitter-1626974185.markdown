@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @belikemike 
-date: 2021-07-22 10:16:25 
-categories: twitter 
---- 
-@nope_its_lily but he's great in Doom Patrol
