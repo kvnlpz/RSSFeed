@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:22:32 
+categories: twitter 
+--- 
+RT @modern_rock: PRO TIP: the auto grid lines that show up in your chart are NOT support and resistance "Lines"
