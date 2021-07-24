@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LeoCheMingChang 
-date: 2021-07-22 16:46:04 
-categories: twitter 
---- 
-RT @RayTL_: @BlogJulianKomar I like to be "forced into trades" rather than "forcing trades".
