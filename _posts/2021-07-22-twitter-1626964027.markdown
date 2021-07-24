@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lantern_men 
-date: 2021-07-22 07:27:07 
-categories: twitter 
---- 
-@MikeBellafiore Palantier &amp; NIO ;)
