@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-22 08:45:27 
-categories: twitter 
---- 
-@risklifemike what's wrong with the order flow? actually i dont see anything
-
-you mean halts? i like the halts if u can time them
