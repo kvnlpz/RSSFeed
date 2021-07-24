@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LifesABeta 
-date: 2021-07-22 09:36:32 
-categories: twitter 
---- 
-@nope_its_lily Lmao wtf
