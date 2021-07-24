@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @faisalq82019 
-date: 2021-07-22 12:26:21 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/hWTt4E4Ptz
