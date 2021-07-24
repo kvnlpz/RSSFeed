@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit Taps Layer-2 Solution to Scale Its Ethereum-Based Tokens 
-date: 2021-07-23 1627031312 
-categories: reddit 
---- 
-https://redd.it/opylvz
