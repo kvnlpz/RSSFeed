@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Current State of Undercollateralized DeFi Lending — 2021 (Borrowing more than your current assets) 
-date: 2021-07-23 1627038233 
-categories: reddit 
---- 
-https://redd.it/oq0324
