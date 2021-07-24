@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mina Wallet Clor.io running in beta. Enables easy staking. 
-date: 2021-07-23 1627026483 
-categories: reddit 
---- 
-https://redd.it/opxlk2
