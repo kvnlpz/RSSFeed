@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So you have heard of... 
-date: 2021-07-23 1627039493 
-categories: reddit 
---- 
-https://redd.it/oq0dq8
