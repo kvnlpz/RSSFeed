@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LiteYearsAhead 
-date: 2021-07-22 09:12:08 
-categories: twitter 
---- 
-RT @OddStockTrader: https://t.co/d3nE6BgHfu
