@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 17:10:07 
-categories: twitter 
---- 
-@NotQuiteMidlife how many bananas can you buy at Whole Foods for a billion dollars, like 7?
