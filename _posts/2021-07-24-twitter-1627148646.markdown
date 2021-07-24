@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DocksAndStocks 
+date: 2021-07-24 10:44:06 
+categories: twitter 
+--- 
+@RayTL_ It’s easier to manage risk and drawdowns with 5% winners
