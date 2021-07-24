@@ -1,0 +1,11 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:20:54 
+categories: twitter 
+--- 
+RT @modern_rock: “Watch your thoughts, they become words;
+
+watch your words, they become actions;
+
+watch your actions, they become habits;…
