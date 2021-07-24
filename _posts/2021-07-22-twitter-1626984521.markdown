@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 13:08:41 
-categories: twitter 
---- 
-@Post_Market @MadThunderdome Looks right now like I just made some money.
