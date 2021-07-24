@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Miamisalsero 
-date: 2021-07-22 11:43:22 
-categories: twitter 
---- 
-@modern_rock    https://t.co/F6QTZqssyv
