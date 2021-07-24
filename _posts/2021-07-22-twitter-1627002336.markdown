@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @victor_olloqui 
-date: 2021-07-22 18:05:36 
-categories: twitter 
---- 
-@offshorehunters Reminds me of TOF!
