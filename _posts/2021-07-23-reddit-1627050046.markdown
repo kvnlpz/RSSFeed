@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I have £10k, should I buy a BTC rig or an ETH rig? 
-date: 2021-07-23 1627050046 
-categories: reddit 
---- 
-https://redd.it/oq3dq5
