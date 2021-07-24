@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ptrotrdr 
-date: 2021-07-22 09:03:14 
-categories: twitter 
---- 
-@modern_rock @Trading_Tickers @f1teamboss like Ed Seykota said - everybody gets what they want out of the market, F1 is no expection
