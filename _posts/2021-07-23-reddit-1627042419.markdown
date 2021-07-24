@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Theta Network Could Soon Have a Cross-chain Bridge with Ethereum 
-date: 2021-07-23 1627042419 
-categories: reddit 
---- 
-https://redd.it/oq14fr
