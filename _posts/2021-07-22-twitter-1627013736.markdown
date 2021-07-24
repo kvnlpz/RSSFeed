@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @blakedavis50 
-date: 2021-07-22 21:15:36 
-categories: twitter 
---- 
-@RayTL_ @gregdsports Thanks Ray! 👊
