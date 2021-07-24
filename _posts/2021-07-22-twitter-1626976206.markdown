@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BotMentality 
-date: 2021-07-22 10:50:06 
-categories: twitter 
---- 
-@OddStockTrader why
