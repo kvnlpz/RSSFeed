@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PrimeTrading_ 
-date: 2021-07-22 16:53:23 
-categories: twitter 
---- 
-@RayTL_ @markminervini @YouTube https://t.co/Gg8LwibuGS
