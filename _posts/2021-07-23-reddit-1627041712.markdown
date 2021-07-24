@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do you prioritise security? 
-date: 2021-07-23 1627041712 
-categories: reddit 
---- 
-https://redd.it/oq0xj9
