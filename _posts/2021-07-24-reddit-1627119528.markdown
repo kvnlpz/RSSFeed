@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: This is a test to see if all mentions of NANO get censored automatically. 
+date: 2021-07-24 1627119528 
+categories: reddit 
+--- 
+https://redd.it/oqmv6o
