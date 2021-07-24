@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MortWeaz 
-date: 2021-07-22 18:25:55 
-categories: twitter 
---- 
-@nope_its_lily Still have to report the volumes to the exchanges at close of the day though, so the daily close sho… https://t.co/dDkbfPWP4o
