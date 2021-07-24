@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trade__ 
-date: 2021-07-22 11:07:51 
-categories: twitter 
---- 
-RT @super_trades: $QUBT getting that look ?  software that links classic computing to quantum computing ….in trials with large companies …o…
