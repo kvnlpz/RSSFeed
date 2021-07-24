@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question: If you were assigned the task of creating a visual diagram of how Bitcoin worked what would the first event to depict be? 
+date: 2021-07-24 1627110462 
+categories: reddit 
+--- 
+https://redd.it/oql2lt
