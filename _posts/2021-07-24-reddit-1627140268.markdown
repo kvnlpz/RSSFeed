@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is there a way to test my seed phrase on Daedalus? 
+date: 2021-07-24 1627140268 
+categories: reddit 
+--- 
+https://redd.it/oqs487
