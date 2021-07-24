@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jerem_dm 
-date: 2021-07-22 18:36:05 
-categories: twitter 
---- 
-@modern_rock @dastrader @Oliver_Tan Black theme on DAS is the problem for me
