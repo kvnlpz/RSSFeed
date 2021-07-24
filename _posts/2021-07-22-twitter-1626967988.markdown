@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scolaire42 
-date: 2021-07-22 08:33:08 
-categories: twitter 
---- 
-RT @nope_its_lily: Working on a repo of various tools and scripts for quantitative analysis with (mostly) free tools. Will publish it proba…
