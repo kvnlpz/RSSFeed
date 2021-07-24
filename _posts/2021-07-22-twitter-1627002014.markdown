@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BadeMeme 
-date: 2021-07-22 18:00:14 
-categories: twitter 
---- 
-@super_trades Superman, all set to fly 😀
