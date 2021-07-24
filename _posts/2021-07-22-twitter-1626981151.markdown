@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wisdombot_ 
-date: 2021-07-22 12:12:31 
-categories: twitter 
---- 
-RT @MikeBellafiore: "Give yourself permission to be a beginner. By being willing to be a bad artist, you have a chance to be an artist, and…
