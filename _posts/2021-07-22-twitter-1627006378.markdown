@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JaniGal3 
-date: 2021-07-22 19:12:58 
-categories: twitter 
---- 
-@timothysykes I'm taking singles!
