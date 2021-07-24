@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StocksThatGo 
-date: 2021-07-22 09:51:49 
-categories: twitter 
---- 
-@InvestorsLive @iconmeals That is a good daughter! Lol
