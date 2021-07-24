@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InBraised 
-date: 2021-07-22 11:27:46 
-categories: twitter 
---- 
-@nope_its_lily Hell I remember just being able to see data (volume/price) just a few minutes ahead and couldn't get… https://t.co/IXuuk75dNn
