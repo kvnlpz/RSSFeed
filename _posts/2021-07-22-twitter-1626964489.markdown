@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gr8fultrading 
-date: 2021-07-22 07:34:49 
-categories: twitter 
---- 
-@nope_its_lily Love it!
