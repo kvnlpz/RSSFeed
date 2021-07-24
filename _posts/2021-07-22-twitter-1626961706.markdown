@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StckMrktMastery 
-date: 2021-07-22 06:48:26 
-categories: twitter 
---- 
-RT @G_krupins: $ADSK like this one.  Added some today https://t.co/R2UgVUUerE
