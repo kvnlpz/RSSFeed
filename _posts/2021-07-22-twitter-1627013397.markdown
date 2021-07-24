@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @krasnovskyi 
-date: 2021-07-22 21:09:57 
-categories: twitter 
---- 
-@alphatrends I heard people from Minnesota nicely decline spam email offers.
