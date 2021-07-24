@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeyTrades711 
-date: 2021-07-22 07:50:07 
-categories: twitter 
---- 
-@InvestorsLive Second that
