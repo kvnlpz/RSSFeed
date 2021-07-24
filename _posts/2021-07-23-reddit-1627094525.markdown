@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Running a wallet on my node 
+date: 2021-07-23 1627094525 
+categories: reddit 
+--- 
+https://redd.it/oqhcel
