@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConvexityCap 
-date: 2021-07-22 18:33:36 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/l2z3VxctVQ https://t.co/ap92wFPOWm
