@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @722_clavenbeth 
-date: 2021-07-22 10:21:57 
-categories: twitter 
---- 
-@InvestorsLive @ZashGlobal take some notes
