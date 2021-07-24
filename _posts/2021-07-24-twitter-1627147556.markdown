@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-24 10:25:56 
+categories: twitter 
+--- 
+@theemilyaccount the basis of the vector space describing eligible men in the bay area is approximately {F, A, A, N, G}
