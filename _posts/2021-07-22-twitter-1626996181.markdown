@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JeremyZ123 
-date: 2021-07-22 16:23:01 
-categories: twitter 
---- 
-@InvestorsLive What beautiful lake is this?
