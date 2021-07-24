@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @william_beebe 
-date: 2021-07-22 20:03:52 
-categories: twitter 
---- 
-@goodetrades Umm. Ya. 😎
- I guess.
