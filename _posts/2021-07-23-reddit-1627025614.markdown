@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made an open-source multisig hardware wallet! 
-date: 2021-07-23 1627025614 
-categories: reddit 
---- 
-https://redd.it/opxf3o
