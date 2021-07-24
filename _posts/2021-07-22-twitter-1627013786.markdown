@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KemonomichiNL 
-date: 2021-07-22 21:16:26 
-categories: twitter 
---- 
-@nope_its_lily Naive question. Why not buy shares of exchanges?
