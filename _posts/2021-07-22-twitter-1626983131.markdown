@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-22 12:45:31 
-categories: twitter 
---- 
-https://t.co/M9vyak6aHf Nope!
