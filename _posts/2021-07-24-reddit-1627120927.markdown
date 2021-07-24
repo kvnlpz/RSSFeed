@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PSA: If you still have some unclaimed Moons in your vault don't claim them or you are risking losing them. Possible glitch with the new Arbitrum network. I've just lost 631 Moons due to this glitch. 
+date: 2021-07-24 1627120927 
+categories: reddit 
+--- 
+https://redd.it/oqn5dt
