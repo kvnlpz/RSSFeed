@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @baruch181 
-date: 2021-07-22 09:46:47 
-categories: twitter 
---- 
-@super_trades How long did u hold
