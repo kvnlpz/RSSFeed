@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cdaniel193 
-date: 2021-07-22 10:44:36 
-categories: twitter 
---- 
-RT @timothysykes: People mistakenly think you have to take big risks in order to make it big in the stock market, but I'm actually leaning…
