@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @karanbhangui 
-date: 2021-07-22 10:19:09 
-categories: twitter 
---- 
-@nope_its_lily This is how I remember him https://t.co/TY8WezwVVf
-
-@rohanbhangui
