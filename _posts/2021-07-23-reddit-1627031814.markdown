@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Everything you need to know about London Hardfork 
-date: 2021-07-23 1627031814 
-categories: reddit 
---- 
-https://redd.it/opyphs
