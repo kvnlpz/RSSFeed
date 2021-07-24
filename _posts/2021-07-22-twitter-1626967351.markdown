@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LuBuchi 
-date: 2021-07-22 08:22:31 
-categories: twitter 
---- 
-@InvestorsLive Im waiting patiently down in the valley.
