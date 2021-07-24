@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Reddit is scaling its two Ethereum-based tokens using Layer 2 solution 
+date: 2021-07-24 1627117750 
+categories: reddit 
+--- 
+https://redd.it/oqmip5
