@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Some rough math 
-date: 2021-07-23 1627046685 
-categories: reddit 
---- 
-https://redd.it/oq2bz5
