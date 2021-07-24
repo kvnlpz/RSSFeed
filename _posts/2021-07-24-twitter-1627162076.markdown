@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @LyfeCollege 
+date: 2021-07-24 14:27:56 
+categories: twitter 
+--- 
+@alphatrends Id love to see some quant type backtesting on vwaps. If I ever get good enough w python ill do it myse… https://t.co/jGRJyFtlBH
