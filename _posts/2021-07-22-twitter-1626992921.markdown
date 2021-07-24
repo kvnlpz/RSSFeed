@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stevebaldwin25 
-date: 2021-07-22 15:28:41 
-categories: twitter 
---- 
-@InvestorsLive Nice grizzly
