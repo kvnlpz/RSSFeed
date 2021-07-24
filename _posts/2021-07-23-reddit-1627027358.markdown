@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Zoom out to 1D on BTC chart 
-date: 2021-07-23 1627027358 
-categories: reddit 
---- 
-https://redd.it/opxs1j
