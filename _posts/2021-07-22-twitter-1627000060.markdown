@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Invest_withTim 
-date: 2021-07-22 17:27:40 
-categories: twitter 
---- 
-@OddStockTrader My favorite quote “I am not uncertain”
