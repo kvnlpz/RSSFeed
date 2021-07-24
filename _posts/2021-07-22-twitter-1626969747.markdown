@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeyTrades711 
-date: 2021-07-22 09:02:27 
-categories: twitter 
---- 
-RT @modern_rock: I just bought an new keyboard and set up my hot keys 
-
-#tradingIsEasy https://t.co/o4KKDj0oOn
