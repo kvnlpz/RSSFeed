@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @reset2050 
-date: 2021-07-22 10:16:44 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/ZSwJ7PH0Br
