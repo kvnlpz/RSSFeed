@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @jeffdafo 
+date: 2021-07-24 15:25:14 
+categories: twitter 
+--- 
+@nope_its_lily Weird, every place I've worked processed I-9s internally.
