@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My Bitcoin Chart Analysis 
-date: 2021-07-23 1627024698 
-categories: reddit 
---- 
-https://redd.it/opx876
