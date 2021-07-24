@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @macanabrothers 
-date: 2021-07-22 22:07:07 
-categories: twitter 
---- 
-@nope_its_lily Don't you have a liquidity risk?
