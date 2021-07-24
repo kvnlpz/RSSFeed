@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @burnbrain3 
-date: 2021-07-22 15:56:52 
-categories: twitter 
---- 
-@InvestorsLive Uncle Nate right on spot again!
