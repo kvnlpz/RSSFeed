@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 19:09:43 
-categories: twitter 
---- 
-@acityinohio he needs to curry my favor
