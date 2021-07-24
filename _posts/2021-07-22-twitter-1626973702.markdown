@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HydraInvests 
-date: 2021-07-22 10:08:22 
-categories: twitter 
---- 
-@RayTL_ What does it being good/bad have to do with its spreads? Wider spreads just means less liquidity right?
