@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MaxJSteinberg 
-date: 2021-07-22 18:19:20 
-categories: twitter 
---- 
-RT @nope_its_lily: dark pools are where all the evil trades hide, this is why they call them dark
