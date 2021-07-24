@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SantiSampereA 
-date: 2021-07-22 07:55:19 
-categories: twitter 
---- 
-@modern_rock Can you help me with a question? Your risk per trade is 1% of your account value?
-
-As an example, if y… https://t.co/XuM2zhtou7
