@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CloudFlare vs Fastly? 
-date: 2021-07-23 1627045871 
-categories: reddit 
---- 
-https://redd.it/oq23bj
