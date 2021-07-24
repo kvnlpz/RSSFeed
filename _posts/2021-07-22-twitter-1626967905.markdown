@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @di_joong 
-date: 2021-07-22 08:31:45 
-categories: twitter 
---- 
-@nope_its_lily Noice
