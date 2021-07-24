@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:25:10 
+categories: twitter 
+--- 
+RT @modern_rock: Want to know how a short squeeze works? Watch this video!
