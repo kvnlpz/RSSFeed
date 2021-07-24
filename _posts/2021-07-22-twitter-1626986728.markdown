@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-22 13:45:28 
-categories: twitter 
---- 
-@jscherniack https://t.co/1HwsVenjO2
