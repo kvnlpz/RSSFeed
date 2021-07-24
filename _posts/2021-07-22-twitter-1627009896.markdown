@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DayUp2021 
-date: 2021-07-22 20:11:36 
-categories: twitter 
---- 
-RT @RayTL_: Stop letting people tell you “no” this is not possible. Question all assumption. Prove everything to yourself for yourself. Be…
