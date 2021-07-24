@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GRadmac_77 
-date: 2021-07-22 13:02:58 
-categories: twitter 
---- 
-@timothysykes Another great day Tim, great work!
