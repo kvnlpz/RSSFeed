@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-07-22 18:04:18 
-categories: twitter 
---- 
-Yup - the whole “I’m the biggest of all” defense.
