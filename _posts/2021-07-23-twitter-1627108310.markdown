@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @scriptstotrade 
+date: 2021-07-23 23:31:50 
+categories: twitter 
+--- 
+@timothysykes Working on the next big thing!
