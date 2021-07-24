@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jkrowas 
-date: 2021-07-22 19:40:13 
-categories: twitter 
---- 
-@nope_its_lily Por que no los dos?
