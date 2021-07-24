@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:25:19 
+categories: twitter 
+--- 
+RT @modern_rock: @iamsheyimartins Txt @TBradley90 https://t.co/J4VwSb4wUA
