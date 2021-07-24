@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PHXTRADER1 
-date: 2021-07-22 18:59:31 
-categories: twitter 
---- 
-@modern_rock https://t.co/mkYF5vMGQt
