@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-22 07:45:03 
-categories: twitter 
---- 
-@OddStockTrader Don't talk about @jokon888 like that.
