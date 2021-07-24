@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jfsag3 
-date: 2021-07-22 16:44:20 
-categories: twitter 
---- 
-@nope_its_lily Yaaassss! You da man
