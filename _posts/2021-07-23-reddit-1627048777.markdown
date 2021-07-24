@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm interested in running a node- am I limiting myself in the long run with a standard Umbrel setup on a Raspberry Pi? 
-date: 2021-07-23 1627048777 
-categories: reddit 
---- 
-https://redd.it/oq2yn6
