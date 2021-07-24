@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mark_E_Duncan 
-date: 2021-07-22 21:16:35 
-categories: twitter 
---- 
-RT @timothysykes: NOTHING changes very fast in finance &amp; anyone who claims otherwise is usually a promoter of some sort who relies on the f…
