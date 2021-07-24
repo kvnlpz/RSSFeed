@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Click_Trades 
-date: 2021-07-22 08:10:03 
-categories: twitter 
---- 
-@RayTL_ ...always subtweeting @RichardMoglen
