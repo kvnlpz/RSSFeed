@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You need it 
-date: 2021-07-23 1627045280 
-categories: reddit 
---- 
-https://redd.it/oq1x1y
