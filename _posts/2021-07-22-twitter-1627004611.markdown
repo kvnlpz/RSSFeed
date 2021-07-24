@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-07-22 18:43:31 
-categories: twitter 
---- 
-RT @G_krupins: $CALX really like this setup.  Alert set https://t.co/oIkRlgJfO3
