@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I tried explaining cryptocurrency to my grandma. 
-date: 2021-07-23 1627033933 
-categories: reddit 
---- 
-https://redd.it/opxi03
