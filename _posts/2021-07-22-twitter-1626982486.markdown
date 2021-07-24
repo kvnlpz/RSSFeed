@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @justsomerocks 
-date: 2021-07-22 12:34:46 
-categories: twitter 
---- 
-@timothysykes Why does ibkr not work with profitly any more? Was gonna be my main
