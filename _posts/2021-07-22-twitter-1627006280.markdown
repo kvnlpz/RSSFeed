@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WithNoise 
-date: 2021-07-22 19:11:20 
-categories: twitter 
---- 
-@nope_its_lily One ring to rule them all, one ring to find them, One ring to bring them all, and in the darkness bind them.
