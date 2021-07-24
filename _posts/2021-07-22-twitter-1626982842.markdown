@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CervelloTrades 
-date: 2021-07-22 12:40:42 
-categories: twitter 
---- 
-@InvestorsLive Is there a stock that isn't orchestrated
