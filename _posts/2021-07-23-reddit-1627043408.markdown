@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can Blockchains actually be good for the environment? 
-date: 2021-07-23 1627043408 
-categories: reddit 
---- 
-https://redd.it/oq1dr4
