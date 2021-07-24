@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:19:00 
+categories: twitter 
+--- 
+RT @modern_rock: Money is a tool, not the goal.
+Freedom is the goal. 
+Don’t forget that.
