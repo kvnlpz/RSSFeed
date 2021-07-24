@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Revoke.cash now supports revoking ERC721 approvals! 
+date: 2021-07-24 1627162436 
+categories: reddit 
+--- 
+https://redd.it/oqyop3
