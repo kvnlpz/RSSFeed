@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 13:10:45 
-categories: twitter 
---- 
-@Post_Market @MadThunderdome Hedged it by going long SNAP at close. Good trade.
