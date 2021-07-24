@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Neurodoc12 
-date: 2021-07-22 09:57:59 
-categories: twitter 
---- 
-@nope_its_lily lol
