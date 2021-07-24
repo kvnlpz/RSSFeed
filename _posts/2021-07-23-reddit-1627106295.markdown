@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Accidentally sent $40 in moons to the contract address because it started with the same characters as my vault wallet. Don’t be dumb like me. 
+date: 2021-07-23 1627106295 
+categories: reddit 
+--- 
+https://redd.it/oqk773
