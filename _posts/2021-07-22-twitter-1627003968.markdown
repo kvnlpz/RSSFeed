@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ryxcommar 
-date: 2021-07-22 18:32:48 
-categories: twitter 
---- 
-@nope_its_lily Three marijuanas
