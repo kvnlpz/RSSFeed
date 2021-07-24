@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-22 21:10:18 
-categories: twitter 
---- 
-RT @gregdsports: Tonight’s #WinningCharacteristics $STUDY is $BILL. Software as a whole has been performing incredibly well so felt like th…
