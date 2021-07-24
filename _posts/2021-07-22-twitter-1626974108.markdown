@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BulldawgCharts 
-date: 2021-07-22 10:15:08 
-categories: twitter 
---- 
-@nope_its_lily yea really sad story
