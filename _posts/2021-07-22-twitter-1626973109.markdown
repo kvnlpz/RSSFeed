@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SoccerMomTrades 
-date: 2021-07-22 09:58:29 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/NRpLAZAJp2
