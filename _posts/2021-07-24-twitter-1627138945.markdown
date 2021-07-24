@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DocJDoe 
+date: 2021-07-24 08:02:25 
+categories: twitter 
+--- 
+@nope_its_lily You gotta love the whole "We don't know what's in it" from people who eat hot dogs and smoke a pack of Marlboros a day
