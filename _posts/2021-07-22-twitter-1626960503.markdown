@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cbernmoney 
-date: 2021-07-22 06:28:23 
-categories: twitter 
---- 
-@super_trades Let’s go !  VRAR
