@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-22 21:10:38 
-categories: twitter 
---- 
-@danconway your prior successes have groomed you to be an "appropriate dick" Dan
