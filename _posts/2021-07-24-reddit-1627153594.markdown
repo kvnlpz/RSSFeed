@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Using same seed phrase with 2 different wallet app don't give access to the same wallets ? 
+date: 2021-07-24 1627153594 
+categories: reddit 
+--- 
+https://redd.it/oqw4o1
