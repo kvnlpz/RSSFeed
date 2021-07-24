@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gab 
-date: 2021-07-23 1627036238 
-categories: reddit 
---- 
-https://redd.it/opzmpa
