@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jonk87 
-date: 2021-07-22 08:40:53 
-categories: twitter 
---- 
-@modern_rock @Trading_Tickers @f1teamboss 😂
