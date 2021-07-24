@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:15:14 
+categories: twitter 
+--- 
+RT @modern_rock: Throwback to 2015 when i gave a presentation on CONSISTENCY &amp; introduced traders to calendars (now many traders are also u…
