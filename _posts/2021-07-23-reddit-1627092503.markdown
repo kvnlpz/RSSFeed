@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question about transferring assets from Polygon layer on Metamask to an exchange 
+date: 2021-07-23 1627092503 
+categories: reddit 
+--- 
+https://redd.it/oqgt02
