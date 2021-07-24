@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @moos3knuckl3 
-date: 2021-07-22 19:24:24 
-categories: twitter 
---- 
-@nope_its_lily In Scala a very common example of a monad is Option[T]. I associate your account with stock Options,… https://t.co/jDXkC5m5gp
