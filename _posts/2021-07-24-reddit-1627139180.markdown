@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Double moons amount has been fixed, but what is this L1 to L2 migration? 
+date: 2021-07-24 1627139180 
+categories: reddit 
+--- 
+https://redd.it/oqrspm
