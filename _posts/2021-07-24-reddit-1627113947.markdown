@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Open Oracle Framework by Conjure allows for user created oracles, scalable feeds, and easy to deploy and maintain onchain data. Open Source, permissionless, takes <5m to setup. 
+date: 2021-07-24 1627113947 
+categories: reddit 
+--- 
+https://redd.it/oqls2j
