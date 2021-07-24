@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SamuelHelmuth04 
-date: 2021-07-22 08:42:16 
-categories: twitter 
---- 
-@modern_rock @Trading_Tickers @f1teamboss Very solid point
