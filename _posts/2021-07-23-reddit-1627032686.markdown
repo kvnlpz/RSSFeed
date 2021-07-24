@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My client just offered me BTC! 
-date: 2021-07-23 1627032686 
-categories: reddit 
---- 
-https://redd.it/opyvy5
