@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trentkelp 
-date: 2021-07-22 21:29:51 
-categories: twitter 
---- 
-RT @gregdsports: Tonight’s #WinningCharacteristics $STUDY is $BILL. Software as a whole has been performing incredibly well so felt like th…
