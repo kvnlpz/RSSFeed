@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 10:34:00 
-categories: twitter 
---- 
-To use it you'll of course need your own API keys, but it'll have support for providing them as an OS env variable or in a yaml file.
