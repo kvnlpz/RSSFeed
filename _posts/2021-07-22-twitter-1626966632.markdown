@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-22 08:10:32 
-categories: twitter 
---- 
-@tivadar_gabriel @f1teamboss i definitely do not do it the way he does it
-
-we teach this in the chatroom
