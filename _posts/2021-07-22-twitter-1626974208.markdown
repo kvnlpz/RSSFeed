@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iBrandooon 
-date: 2021-07-22 10:16:48 
-categories: twitter 
---- 
-@nope_its_lily McDonalds
