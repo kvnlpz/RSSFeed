@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tip: Make sure sponsored images are enabled in brave browser new tab page 
-date: 2021-07-23 1627036759 
-categories: reddit 
---- 
-https://redd.it/opzqtq
