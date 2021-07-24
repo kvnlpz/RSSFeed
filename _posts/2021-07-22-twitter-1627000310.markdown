@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_atx 
-date: 2021-07-22 17:31:50 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Of course I'm studying - totally dedicated.
