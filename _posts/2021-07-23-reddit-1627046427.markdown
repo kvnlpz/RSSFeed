@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I keep hearing there's a shortage of programmers for crypto. Has anyone here learned Solidity or other smart contract languages? I'm a very new programmer and considering focusing there as my specialization as I go forward. What advice would you have? 
-date: 2021-07-23 1627046427 
-categories: reddit 
---- 
-https://redd.it/oq29cj
