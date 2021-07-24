@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-07-22 18:42:01 
-categories: twitter 
---- 
-RT @G_krupins: $XBI nice week for the bio ETF. Like it and long https://t.co/JUFP0Dr4CV
