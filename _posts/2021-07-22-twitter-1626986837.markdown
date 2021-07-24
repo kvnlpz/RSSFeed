@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muttleythinks 
-date: 2021-07-22 13:47:17 
-categories: twitter 
---- 
-@nope_its_lily Pair trading is for dummies
