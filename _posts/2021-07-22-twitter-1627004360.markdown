@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trade_amaze 
-date: 2021-07-22 18:39:20 
-categories: twitter 
---- 
-@InvestorsLive Big ups for this
