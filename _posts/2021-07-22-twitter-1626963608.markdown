@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @upandtotherigh1 
-date: 2021-07-22 07:20:08 
-categories: twitter 
---- 
-@OddStockTrader $DFLYF
