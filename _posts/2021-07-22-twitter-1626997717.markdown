@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hoodle11 
-date: 2021-07-22 16:48:37 
-categories: twitter 
---- 
-@InvestorsLive Great call in the room 🙌🏻.
