@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @heretostay024 
-date: 2021-07-22 10:51:10 
-categories: twitter 
---- 
-@OddStockTrader Not on mine… ;)
