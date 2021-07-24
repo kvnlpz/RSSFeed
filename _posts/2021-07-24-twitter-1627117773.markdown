@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 02:09:33 
+categories: twitter 
+--- 
+RT @modern_rock: "The goal of a day trader is to make $$ the SIMPLEST way possible w/the LEAST AMOUNT OF RISK! Being a full time trader doe…
