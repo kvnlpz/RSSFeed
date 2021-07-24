@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 10:33:11 
-categories: twitter 
---- 
-Reconnected with my old favorite options provider, @optionrats (I used their data in my original NOPE paper). Going… https://t.co/YgHd0gCRkp
