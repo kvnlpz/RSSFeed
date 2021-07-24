@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TiingoFinance 
+date: 2021-07-24 15:25:28 
+categories: twitter 
+--- 
+RT @nope_its_lily: Reconnected with my old favorite options provider, @optionrats (I used their data in my original NOPE paper). Going to a…
