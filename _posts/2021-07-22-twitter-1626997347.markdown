@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LeoCheMingChang 
-date: 2021-07-22 16:42:27 
-categories: twitter 
---- 
-RT @RayTL_: This yr is far more typical of what trading looks like. You get pushed out at times, then you have to adapt right back as condi…
