@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Liqwid Finance: Technical Status Update #27 
+date: 2021-07-24 1627128096 
+categories: reddit 
+--- 
+https://redd.it/oqonpm
