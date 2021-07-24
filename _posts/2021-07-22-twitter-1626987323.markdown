@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Todd_Abrams 
-date: 2021-07-22 13:55:23 
-categories: twitter 
---- 
-RT @InvestorsLive: My daughter just delivered me @iconmeals from the kitchen and tried to charge me $10 delivery fee. I only had a $20 she…
