@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: REvil Revealed - Tracking a Ransomware Negotiation and Payment 
+date: 2021-07-24 1627160723 
+categories: reddit 
+--- 
+https://redd.it/oqy76q
