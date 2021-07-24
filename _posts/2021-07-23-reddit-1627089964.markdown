@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: It's an attack with daily transactions spiking but avg transaction fees plummeting 
+date: 2021-07-23 1627089964 
+categories: reddit 
+--- 
+https://redd.it/oqg4vh
