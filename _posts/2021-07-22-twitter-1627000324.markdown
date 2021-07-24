@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mannittee 
-date: 2021-07-22 17:32:04 
-categories: twitter 
---- 
-@nope_its_lily im too dumnb to ansewer
