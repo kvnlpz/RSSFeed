@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cumulative P&L of 1 million coin flips. Thoughts on randomness. 
+date: 2021-07-24 1627136423 
+categories: reddit 
+--- 
+https://redd.it/oqqy7x
