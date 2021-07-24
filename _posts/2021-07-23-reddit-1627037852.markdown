@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lesson learned the hard way 
-date: 2021-07-23 1627037852 
-categories: reddit 
---- 
-https://redd.it/opzzn8
