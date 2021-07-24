@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DerevyankoOleg 
-date: 2021-07-22 06:21:53 
-categories: twitter 
---- 
-@timothysykes Haven't you thought about developing tick-by-tick chart for scalpers?
