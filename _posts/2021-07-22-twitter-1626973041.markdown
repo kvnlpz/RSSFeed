@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @quitworkearly 
-date: 2021-07-22 09:57:21 
-categories: twitter 
---- 
-@modern_rock https://t.co/dP01pCGpR0
