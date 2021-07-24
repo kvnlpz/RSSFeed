@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JermisC 
-date: 2021-07-22 12:03:48 
-categories: twitter 
---- 
-@nope_its_lily He’s in No Sudden Move which came out a few weeks ago on HBO Max
