@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @arctanno 
-date: 2021-07-22 10:16:06 
-categories: twitter 
---- 
-RT @nope_its_lily: I remembered Brendan Fraser exists and I looked him up and what happened to him
