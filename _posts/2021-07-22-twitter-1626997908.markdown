@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FridayOrange 
-date: 2021-07-22 16:51:48 
-categories: twitter 
---- 
-@super_trades Go Yankees! Fan since 1977
