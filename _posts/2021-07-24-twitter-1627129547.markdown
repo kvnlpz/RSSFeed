@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 05:25:47 
+categories: twitter 
+--- 
+RT @modern_rock: @1reasonfreedom Txt @TBradley90 and he can help speed up the learning curve! https://t.co/eCHwFE7sdp
