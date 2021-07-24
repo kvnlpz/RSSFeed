@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-07-22 18:43:46 
-categories: twitter 
---- 
-RT @G_krupins: $YETI Looks like it wants to move https://t.co/VRI9zUhn5u
