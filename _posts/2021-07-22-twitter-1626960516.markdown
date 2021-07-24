@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AppGroup 
-date: 2021-07-22 06:28:36 
-categories: twitter 
---- 
-@timothysykes Great Message! It's all about balance. However, it's better to have more $$ than less $$.  You want t… https://t.co/bxoFSC1nDw
