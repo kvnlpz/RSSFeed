@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin mining is becoming vastly more decentralized in 2021 
-date: 2021-07-23 1627046731 
-categories: reddit 
---- 
-https://redd.it/oq2ckk
