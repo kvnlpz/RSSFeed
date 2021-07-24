@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndrossR33 
-date: 2021-07-22 22:02:17 
-categories: twitter 
---- 
-@alphatrends Not even once.
