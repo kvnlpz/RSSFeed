@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Pokémon-like game based off Ethereum 
+date: 2021-07-23 1627098686 
+categories: reddit 
+--- 
+https://redd.it/oqiera
