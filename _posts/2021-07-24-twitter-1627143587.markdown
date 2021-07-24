@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-24 09:19:47 
+categories: twitter 
+--- 
+RT @APompliano: Everyone wants the end result, but few are willing to endure the process to get there.
