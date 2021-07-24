@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-07-22 18:43:38 
-categories: twitter 
---- 
-RT @G_krupins: $APH still looking healthy above the yellow box https://t.co/TI6GWXwI3m
