@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:17:56 
+categories: twitter 
+--- 
+RT @modern_rock: I may not be there yet but I’m closer than I was yesterday.
+
+The only person you should try to be better than is the perso…
