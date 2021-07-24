@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Steve78915 
-date: 2021-07-22 13:38:14 
-categories: twitter 
---- 
-@RayTL_ Today's office view. https://t.co/41zZmijePg
