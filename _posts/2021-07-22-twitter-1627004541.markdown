@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-07-22 18:42:21 
-categories: twitter 
---- 
-RT @G_krupins: $IWM small caps weekly.  Definitely one of the most interesting charts out there.  More or less range bound for last 5 month…
