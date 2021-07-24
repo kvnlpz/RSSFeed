@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:17:45 
+categories: twitter 
+--- 
+RT @modern_rock: Not to worry @AT09_Trader I gotchu brother!!! See u soon! https://t.co/RHliY4iCPH
