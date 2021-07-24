@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-22 16:20:35 
-categories: twitter 
---- 
-Red Sox vs Yankees !!! Annual summer ritual !!! https://t.co/jm6VSj6i6c
