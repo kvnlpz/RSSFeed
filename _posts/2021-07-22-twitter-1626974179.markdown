@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @davidbelle_ 
-date: 2021-07-22 10:16:19 
-categories: twitter 
---- 
-@nope_its_lily I saw a meme that said ‘before you lived in New York vs living in New York for 4 weeks’ and I felt extremely sad
