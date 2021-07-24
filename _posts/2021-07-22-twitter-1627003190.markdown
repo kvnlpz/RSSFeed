@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-22 18:19:50 
-categories: twitter 
---- 
-@SpositoAlex September he's coming to visit @OddStockTrader and me.
