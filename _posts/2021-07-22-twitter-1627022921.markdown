@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Timotjhysykes 
-date: 2021-07-22 23:48:41 
-categories: twitter 
---- 
-RT @RobertRiggs1: Pool side video lesson watching. Studying up. @timothysykes https://t.co/nQtUPbrlVK
