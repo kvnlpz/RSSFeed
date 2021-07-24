@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Syboutzen 
-date: 2021-07-22 21:01:16 
-categories: twitter 
---- 
-@RayTL_ @MartyChargin Thinking of doing same.
