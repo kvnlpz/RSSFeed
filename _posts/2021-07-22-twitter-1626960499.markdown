@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @briskbernardo 
-date: 2021-07-22 06:28:19 
-categories: twitter 
---- 
-@InvestorsLive $IMRN 7/21 last year too
