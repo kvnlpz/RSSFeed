@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sosabrega_809 
-date: 2021-07-22 13:25:21 
-categories: twitter 
---- 
-@OddStockTrader cody whats your take on NVDA?
