@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradeRook 
-date: 2021-07-22 07:03:56 
-categories: twitter 
---- 
-RT @modern_rock: $IGC this is why i call it the #FIRST_BOUNCE and not the SECOND OR THIRD OR 5th....  be very careful on the secondary boun…
