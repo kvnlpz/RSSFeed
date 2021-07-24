@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Here you go guys - I'm open-sourcing a script that I created to track the performance of your paper trades and display them visually 
+date: 2021-07-24 1627146490 
+categories: reddit 
+--- 
+https://redd.it/oqtzxm
