@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hack_the_Lies 
-date: 2021-07-22 22:04:20 
-categories: twitter 
---- 
-@InvestorsLive Good as excuse as any I guess
