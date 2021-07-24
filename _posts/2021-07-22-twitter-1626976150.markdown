@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KimmyTrades 
-date: 2021-07-22 10:49:10 
-categories: twitter 
---- 
-RT @OddStockTrader: All of the Twilight movies are in the US Top 10 on Netflix
