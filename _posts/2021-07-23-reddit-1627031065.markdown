@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hi, guys can any can explain me about blockchain in simple words. I have been learning blockchain from different source but i was quit difficult for me to understand. I didn't get any from their. 
-date: 2021-07-23 1627031065 
-categories: reddit 
---- 
-https://redd.it/opyk0z
