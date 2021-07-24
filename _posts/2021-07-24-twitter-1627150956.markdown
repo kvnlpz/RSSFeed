@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:22:36 
+categories: twitter 
+--- 
+RT @modern_rock: Instagram LIVE today at 11am! Markets look to be changing ans getting choppier and more difficult.
+
+Join and learn how to…
