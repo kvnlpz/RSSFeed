@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @larikytola 
+date: 2021-07-24 07:41:58 
+categories: twitter 
+--- 
+RT @alphatrends: Earnings this week https://t.co/7hY9wtDNNg
