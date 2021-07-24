@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Austinedai 
-date: 2021-07-22 09:22:16 
-categories: twitter 
---- 
-RT @modern_rock: DAILY RECAP TODAY starting at 12:15pm market time exclusively for @MyInvestingClub members. Link will be provided in the c…
