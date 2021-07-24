@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I figured out how to avoid high trading fees on Coinbase for when Coinbase pro doesn’t have a usdc trade option. 
+date: 2021-07-24 1627169637 
+categories: reddit 
+--- 
+https://redd.it/or0n64
