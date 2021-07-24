@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaveyDigest 
-date: 2021-07-22 07:03:36 
-categories: twitter 
---- 
-@super_trades I don't think more than 5% of people on this planet understand the implications of quantum computing… https://t.co/CuioVcorO3
