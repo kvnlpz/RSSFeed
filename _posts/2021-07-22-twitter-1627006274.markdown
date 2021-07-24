@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tarunchitra 
-date: 2021-07-22 19:11:14 
-categories: twitter 
---- 
-@nope_its_lily Quillen adjunctions considered too hot to homotopy
