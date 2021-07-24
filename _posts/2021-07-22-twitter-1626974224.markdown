@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SteveMatador 
-date: 2021-07-22 10:17:04 
-categories: twitter 
---- 
-@RayTL_ I’ve been noticing increasing spreads lately myself, so much in fact that I’ve used limit orders a few time… https://t.co/JpfhUZWUwu
