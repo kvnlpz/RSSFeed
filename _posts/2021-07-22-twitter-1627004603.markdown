@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SurferbrahDave 
-date: 2021-07-22 18:43:23 
-categories: twitter 
---- 
-@InvestorsLive This was an important lesson I learned today! About 5 solid base hits and 1 huge error!
