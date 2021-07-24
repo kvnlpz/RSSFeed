@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Exchange based staking confusion 
-date: 2021-07-23 1627047484 
-categories: reddit 
---- 
-https://redd.it/oq2kn0
