@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @skiptomylou86 
-date: 2021-07-22 10:31:15 
-categories: twitter 
---- 
-@InvestorsLive Do you mind explaining “pull the goalie”. What is happening there ?
