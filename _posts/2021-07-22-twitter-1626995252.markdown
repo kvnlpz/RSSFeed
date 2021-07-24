@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-22 16:07:32 
-categories: twitter 
---- 
-Max Loss hit! 
-
-#tradingIsEasy https://t.co/jSKQFdLqf3
