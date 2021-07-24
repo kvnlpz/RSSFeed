@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Jacoons 
+date: 2021-07-24 13:43:35 
+categories: twitter 
+--- 
+@timothysykes Why do the stock prices always seem to burst upward momentarily right before they’re shorted downward?
