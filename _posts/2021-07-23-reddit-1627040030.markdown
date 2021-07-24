@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin miner dies of electric shock trying to charge computer for more currency 
-date: 2021-07-23 1627040030 
-categories: reddit 
---- 
-https://redd.it/oq0i8q
