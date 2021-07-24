@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 11:22:03 
-categories: twitter 
---- 
-@saanglee First year? We all do it, all the time
