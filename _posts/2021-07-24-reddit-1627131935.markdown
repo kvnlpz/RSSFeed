@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Understanding delegatecall And How to Use It Safely 
+date: 2021-07-24 1627131935 
+categories: reddit 
+--- 
+https://redd.it/oqpnhb
