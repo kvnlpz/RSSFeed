@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Renzoforthetech 
-date: 2021-07-22 17:42:32 
-categories: twitter 
---- 
-@nope_its_lily The results are clearly skewed by the wgmi crowd
