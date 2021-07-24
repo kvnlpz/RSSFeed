@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @somermike 
-date: 2021-07-22 19:46:00 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade studying your trades today, my watchlist and 30 day boot camp, going on hour 2
