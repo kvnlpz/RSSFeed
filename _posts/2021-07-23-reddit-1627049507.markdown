@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Holy Trinity of Ethereum - The Daily Gwei #297 
-date: 2021-07-23 1627049507 
-categories: reddit 
---- 
-https://redd.it/oq37av
