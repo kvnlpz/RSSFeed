@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Renzoforthetech 
-date: 2021-07-22 15:24:55 
-categories: twitter 
---- 
-@nope_its_lily Your tweet style fits your new conflict of interest
