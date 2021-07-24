@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @palamino_hottie 
-date: 2021-07-22 16:37:16 
-categories: twitter 
---- 
-RT @RayTL_: Is disruption always caused by innovation or taking something that already exists and making it better?
