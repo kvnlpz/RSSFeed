@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Austinedai 
-date: 2021-07-22 09:22:28 
-categories: twitter 
---- 
-RT @modern_rock: Don’t miss this amazing opportunity to learn how to trade at @MyInvestingClub 2nd Anniversry Live Trading Bootcamp streami…
