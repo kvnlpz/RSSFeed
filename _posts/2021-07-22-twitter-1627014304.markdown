@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheRealGoobaby 
-date: 2021-07-22 21:25:04 
-categories: twitter 
---- 
-@alphatrends Nope
