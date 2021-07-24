@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:25:36 
+categories: twitter 
+--- 
+RT @modern_rock: @johnDlikeabaus Join and learn! Txt @TBradley90 https://t.co/4bQ4njMRSH
