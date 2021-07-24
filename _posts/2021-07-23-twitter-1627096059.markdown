@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-23 20:07:39 
+categories: twitter 
+--- 
+@LepicSolange Authors did a pretty good job on study design, given the limitations of their data collection method.
