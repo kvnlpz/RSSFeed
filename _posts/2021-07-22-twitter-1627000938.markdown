@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RachelFintwit 
-date: 2021-07-22 17:42:18 
-categories: twitter 
---- 
-@nope_its_lily @NotQuiteMidlife they probably give them the bananas for free
