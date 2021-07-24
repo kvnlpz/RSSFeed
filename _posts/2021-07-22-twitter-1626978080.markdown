@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @saanglee 
-date: 2021-07-22 11:21:20 
-categories: twitter 
---- 
-@nope_its_lily Ahh... the classic "first-year accidently uses future prices in backtest and thinks he/she's discove… https://t.co/JXAikC5fxH
