@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stormtraderz 
-date: 2021-07-22 22:22:42 
-categories: twitter 
---- 
-@modern_rock Is this bob ross cameron’s painting?
