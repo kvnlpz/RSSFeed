@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tenmike 
-date: 2021-07-22 17:29:21 
-categories: twitter 
---- 
-@super_trades Great seats Paul.
