@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LishmanPete 
-date: 2021-07-22 11:28:11 
-categories: twitter 
---- 
-@modern_rock great trade! where would you have stopped out on this?
