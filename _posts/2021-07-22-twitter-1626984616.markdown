@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Post_Market 
-date: 2021-07-22 13:10:16 
-categories: twitter 
---- 
-@nope_its_lily @MadThunderdome Still a lot of game to play out here.
