@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How would you design a reversible transaction model? 
+date: 2021-07-24 1627139038 
+categories: reddit 
+--- 
+https://redd.it/oqrr3f
