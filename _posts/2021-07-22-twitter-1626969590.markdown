@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MR3ILL 
-date: 2021-07-22 08:59:50 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/KUjaQYcTgv
