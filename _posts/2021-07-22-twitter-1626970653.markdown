@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeBellafiore 
-date: 2021-07-22 09:17:33 
-categories: twitter 
---- 
-Some thoughts on how traders start trading options at our prop firm
-
-https://t.co/a1ISR2ny9n https://t.co/iW9j2uPPuf
