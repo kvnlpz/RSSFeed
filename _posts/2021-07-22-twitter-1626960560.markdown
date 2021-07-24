@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marc_malu 
-date: 2021-07-22 06:29:20 
-categories: twitter 
---- 
-RT @timothysykes: Remember that you can achieve ANYTHING you can dream of in this life, so ignore your haters/doubters/critics/negative peo…
