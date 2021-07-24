@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to do physical Monero and why Monero needs a type of view key that shows outgoing transactions 
+date: 2021-07-23 1627096515 
+categories: reddit 
+--- 
+https://redd.it/oqhv8s
