@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trippmehew 
-date: 2021-07-22 18:17:46 
-categories: twitter 
---- 
-@super_trades Yea, SFGiant ones. 😁
