@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @risklifemike 
-date: 2021-07-22 08:45:49 
-categories: twitter 
---- 
-@modern_rock the fighting for price is getting obnoxious
