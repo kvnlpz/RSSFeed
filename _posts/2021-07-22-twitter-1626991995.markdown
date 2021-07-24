@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-22 15:13:15 
-categories: twitter 
---- 
-How's this photo editing on a scale of 1 to 10? Can you tell it's really a cat? https://t.co/8LmiSSNpFa
