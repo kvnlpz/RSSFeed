@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LaneSwerve 
-date: 2021-07-22 09:54:07 
-categories: twitter 
---- 
-@InvestorsLive @DividedChamp wow now thats an alert https://t.co/Mlwuxzi9BO
