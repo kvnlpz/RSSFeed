@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:20:38 
+categories: twitter 
+--- 
+RT @modern_rock: Don’t worry, soon no one will want to come to California at all! https://t.co/U1dlv8oPEG
