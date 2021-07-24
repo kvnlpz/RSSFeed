@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BitcoinPaul 
-date: 2021-07-22 21:30:47 
-categories: twitter 
---- 
-@alphatrends I don't even feel obligated to read them, much less reply.
