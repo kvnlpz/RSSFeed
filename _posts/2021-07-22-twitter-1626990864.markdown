@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-22 14:54:24 
-categories: twitter 
---- 
-@BlogJulianKomar I like to be "forced into trades" rather than "forcing trades".
