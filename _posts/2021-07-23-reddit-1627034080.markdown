@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledger nano X vs Trezor model T vs... 
-date: 2021-07-23 1627034080 
-categories: reddit 
---- 
-https://redd.it/opz6ar
