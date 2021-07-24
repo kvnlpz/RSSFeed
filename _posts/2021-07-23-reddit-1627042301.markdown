@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Conversation with my wife lead to interesting questions about Bitcoin and blockchain in general 
-date: 2021-07-23 1627042301 
-categories: reddit 
---- 
-https://redd.it/oq13c6
