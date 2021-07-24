@@ -1,0 +1,13 @@
+--- 
+layout: post 
+title: Tweet by @crgun 
+date: 2021-07-24 11:03:27 
+categories: twitter 
+--- 
+RT @RayTL_: Is it “easy” (in context) to find: 
+
+one - 50% winner
+or 
+ten - 5% winners
+
+In any given year?
