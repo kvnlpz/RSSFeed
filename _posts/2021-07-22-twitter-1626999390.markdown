@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-22 17:16:30 
-categories: twitter 
---- 
-@kukovisuals https://t.co/NH88tCcR0x
