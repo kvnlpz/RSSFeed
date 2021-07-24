@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @traderkylec01 
-date: 2021-07-22 10:07:50 
-categories: twitter 
---- 
-RT @kroyrunner89: Read this thread.
