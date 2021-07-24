@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-22 21:15:22 
-categories: twitter 
---- 
-@Atlastrades1 Exchange coins are like BNB, UNI, FTT, etc.
