@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:15:38 
+categories: twitter 
+--- 
+RT @modern_rock: Another nice, no stress, low risk trading day following the @MyInvestingClub process and feeling myself get FOMO and anxio…
