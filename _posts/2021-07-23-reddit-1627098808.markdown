@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Proposal for the ETH1 to ETH2 merge formally created (EIP-3675) 
+date: 2021-07-23 1627098808 
+categories: reddit 
+--- 
+https://redd.it/oqifsz
