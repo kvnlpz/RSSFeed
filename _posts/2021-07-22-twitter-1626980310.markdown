@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OgandoVladimir 
-date: 2021-07-22 11:58:30 
-categories: twitter 
---- 
-RT @MikeBellafiore: "Give yourself permission to be a beginner. By being willing to be a bad artist, you have a chance to be an artist, and…
