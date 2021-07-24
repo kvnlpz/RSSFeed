@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-24 11:20:42 
+categories: twitter 
+--- 
+RT @modern_rock: @firstname_jesse Txt @TBradley90 https://t.co/bKilNNAegh
