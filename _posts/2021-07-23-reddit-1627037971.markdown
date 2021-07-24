@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When a crypto is done,who secures the blockchain? 
-date: 2021-07-23 1627037971 
-categories: reddit 
---- 
-https://redd.it/oq00mg
