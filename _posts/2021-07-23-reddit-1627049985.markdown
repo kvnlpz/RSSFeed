@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: There is another 
-date: 2021-07-23 1627049985 
-categories: reddit 
---- 
-https://redd.it/oq3cyt
