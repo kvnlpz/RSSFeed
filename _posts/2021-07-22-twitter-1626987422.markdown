@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mohd_alotaibi7 
-date: 2021-07-22 13:57:02 
-categories: twitter 
---- 
-@InvestorsLive Can it be back to $30
