@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The emotional component of running your own node 
+date: 2021-07-23 1627093421 
+categories: reddit 
+--- 
+https://redd.it/oqh1nj
