@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @petertrades 
-date: 2021-07-22 13:07:11 
-categories: twitter 
---- 
-@InvestorsLive Sick entries.
