@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AstroNomad99 
-date: 2021-07-22 07:36:06 
-categories: twitter 
---- 
-@timothysykes No lie I rate your achievements way higher!
