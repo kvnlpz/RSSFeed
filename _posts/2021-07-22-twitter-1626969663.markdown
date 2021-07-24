@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @th1rt13n 
-date: 2021-07-22 09:01:03 
-categories: twitter 
---- 
-@InvestorsLive God… 70% drop
