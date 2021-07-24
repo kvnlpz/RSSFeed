@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mpp75214 
+date: 2021-07-23 20:05:38 
+categories: twitter 
+--- 
+@nope_its_lily @MinvstrD interesting point about Gaussian errors.  seems reasonable in an abstract sense, but we’re… https://t.co/vLIck8OnTI
