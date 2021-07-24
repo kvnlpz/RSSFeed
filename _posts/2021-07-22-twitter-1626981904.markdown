@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Amp_Trades 
-date: 2021-07-22 12:25:04 
-categories: twitter 
---- 
-@InvestorsLive 3.90 by close lets go!
