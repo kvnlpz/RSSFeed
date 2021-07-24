@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-07-22 15:00:02 
-categories: twitter 
---- 
-RT @modern_rock: $MRIN nailed the process!
-
-#MyInvestingClub https://t.co/i4NOGrwIXi
