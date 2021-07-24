@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidCa04902593 
-date: 2021-07-22 07:13:11 
-categories: twitter 
---- 
-@InvestorsLive Interesting call there Nate!
