@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What features/tools/projects are you missing or loving in crypto ? 
-date: 2021-07-23 1627029511 
-categories: reddit 
---- 
-https://redd.it/opy8bt
