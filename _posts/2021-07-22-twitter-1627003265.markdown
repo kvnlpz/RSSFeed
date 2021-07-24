@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DeusCapital 
-date: 2021-07-22 18:21:05 
-categories: twitter 
---- 
-@nope_its_lily "scary trades to tell in the dark" - r/WSB 
-A horror story coming to a thread near you
