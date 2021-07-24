@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scriptstotrade 
-date: 2021-07-22 20:57:28 
-categories: twitter 
---- 
-@alphatrends We agree - We get them often. Not very appealing.
