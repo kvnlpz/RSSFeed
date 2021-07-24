@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ArbyMcmillan 
-date: 2021-07-22 09:03:19 
-categories: twitter 
---- 
-@nope_its_lily Decent casting though, that's fun.
