@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EmilioVastola 
-date: 2021-07-22 15:12:42 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ So like @mwebster1971 say, be kind, you might just help someone out more than you'll ever really know.
