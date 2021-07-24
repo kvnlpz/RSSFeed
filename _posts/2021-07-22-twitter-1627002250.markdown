@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @offshorehunters 
-date: 2021-07-22 18:04:10 
-categories: twitter 
---- 
-https://t.co/F5m2KoQ51I
