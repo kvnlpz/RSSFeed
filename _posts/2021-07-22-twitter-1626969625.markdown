@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CannonD_604 
-date: 2021-07-22 09:00:25 
-categories: twitter 
---- 
-@OddStockTrader @InvestorsLive @j_pavness Nate still waiting for that btc dip
