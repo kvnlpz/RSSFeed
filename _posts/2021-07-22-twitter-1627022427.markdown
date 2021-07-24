@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @itamarro 
-date: 2021-07-22 23:40:27 
-categories: twitter 
---- 
-@nope_its_lily They each have different token economics though and the "utility" varies. So even if the premise mak… https://t.co/unpLncpUEe
