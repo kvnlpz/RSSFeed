@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @easyfrancisco 
-date: 2021-07-22 18:16:30 
-categories: twitter 
---- 
-@nope_its_lily We all know AMC trades at $4,200/share in the dark pools
