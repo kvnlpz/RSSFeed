@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-22 21:12:25 
-categories: twitter 
---- 
-@market_nick 1/1000 but only if you take the time to sift thru all the bullshit
