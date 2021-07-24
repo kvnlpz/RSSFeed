@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CNBC Interview with Tether's CTO and General Counsel 
-date: 2021-07-23 1627026142 
-categories: reddit 
---- 
-https://redd.it/opxivq
