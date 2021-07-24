@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why does Daedalus take so long to sync? 
+date: 2021-07-24 1627126106 
+categories: reddit 
+--- 
+https://redd.it/oqo7me
