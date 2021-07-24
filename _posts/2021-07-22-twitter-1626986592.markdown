@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G33kT 
-date: 2021-07-22 13:43:12 
-categories: twitter 
---- 
-@InvestorsLive Amazing entries ...
