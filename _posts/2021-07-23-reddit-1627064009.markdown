@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I sent AXS_OLD to an AXS wallet and now my money is lost 
-date: 2021-07-23 1627064009 
-categories: reddit 
---- 
-https://redd.it/oq849v
