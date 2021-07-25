@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DocOnStocks3 
-date: 2021-07-23 06:47:29 
-categories: twitter 
---- 
-@InvestorsLive I see what you did there
