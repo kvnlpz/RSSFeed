@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @dimattiamusic 
+date: 2021-07-25 03:43:50 
+categories: twitter 
+--- 
+@InvestorsLive Amen!
