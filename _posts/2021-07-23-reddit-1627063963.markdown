@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 🔥 Hot out of the Oven: 'The Baking Sheet' issue #58 - This week in the Tezos ecosystem features Granada, 10 million contract calls, Gemini supporting Tezos, and over 1.5 million tez TVL on Youves 
-date: 2021-07-23 1627063963 
-categories: reddit 
---- 
-https://redd.it/oq83pz
