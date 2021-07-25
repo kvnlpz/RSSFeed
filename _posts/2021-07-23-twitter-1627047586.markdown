@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-23 06:39:46 
-categories: twitter 
---- 
-@_TGiR @OpenOutcrier Ya must have just been a wild chance ;)
