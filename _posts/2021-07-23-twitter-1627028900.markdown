@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_il 
-date: 2021-07-23 01:28:20 
-categories: twitter 
---- 
-@InvestorsLive The cat is completely dead
