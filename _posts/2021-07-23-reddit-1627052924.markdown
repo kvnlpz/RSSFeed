@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Karura Swap Launches First DEX in Polkadot Ecosystem 
-date: 2021-07-23 1627052924 
-categories: reddit 
---- 
-https://redd.it/oq4c2e
