@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tuttel 
-date: 2021-07-23 02:49:39 
-categories: twitter 
---- 
-@alphatrends Nope. Absolutely nope.  Immediate block even.
