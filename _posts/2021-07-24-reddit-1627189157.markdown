@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Documentation for setting up staking pool down. Is this the right way to do it? 
+date: 2021-07-24 1627189157 
+categories: reddit 
+--- 
+https://redd.it/or5coh
