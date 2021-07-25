@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FYI: Charles Hoskinson, creator of Cardano, has a 8 hour free course on Bitcoin form 2013! 
-date: 2021-07-23 1627075143 
-categories: reddit 
---- 
-https://redd.it/oqbs00
