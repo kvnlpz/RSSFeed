@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My first blackmail with BTC 
-date: 2021-07-23 1627071173 
-categories: reddit 
---- 
-https://redd.it/oqah85
