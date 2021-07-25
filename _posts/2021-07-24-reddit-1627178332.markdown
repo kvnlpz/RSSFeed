@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Consider my proposal for Fund 5. “WooCommerce Payments Integration” for dApps and Integrations 
+date: 2021-07-24 1627178332 
+categories: reddit 
+--- 
+https://redd.it/or2tyv
