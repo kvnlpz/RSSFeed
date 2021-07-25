@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 06:20:11 
-categories: twitter 
---- 
-@VXO150 Oh no, this was egregious enough I wanted to respond.
