@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @UnlikelyAstro 
-date: 2021-07-23 05:46:22 
-categories: twitter 
---- 
-@modern_rock Criminal shit......
