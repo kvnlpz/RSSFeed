@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 06:53:18 
-categories: twitter 
---- 
-I'd like to thank @Post_Market for her blessing.
