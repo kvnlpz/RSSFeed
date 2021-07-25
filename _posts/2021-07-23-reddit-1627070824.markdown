@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible to somehow "store" hash energy for later low-energy utilization? 
-date: 2021-07-23 1627070824 
-categories: reddit 
---- 
-https://redd.it/oqadba
