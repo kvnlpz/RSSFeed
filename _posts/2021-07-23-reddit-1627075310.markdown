@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s your workflow look like for selling calls or puts? 
-date: 2021-07-23 1627075310 
-categories: reddit 
---- 
-https://redd.it/oqbtvp
