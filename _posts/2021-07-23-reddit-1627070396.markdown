@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos Foundation run/managed node 
-date: 2021-07-23 1627070396 
-categories: reddit 
---- 
-https://redd.it/oqa7v8
