@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What do all these colored lines and right side column mean on the chart? How do they work for trading? 
-date: 2021-07-23 1627070711 
-categories: reddit 
---- 
-https://redd.it/oqabul
