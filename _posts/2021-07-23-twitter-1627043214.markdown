@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChrisTayeh 
-date: 2021-07-23 05:26:54 
-categories: twitter 
---- 
-@muddywatersre https://t.co/8r41Y1azC9
