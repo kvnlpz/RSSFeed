@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Austinedai 
-date: 2021-07-23 00:07:27 
-categories: twitter 
---- 
-RT @modern_rock: funny people want to make Doctor wages but don't want to put in the time and think $197/month is too expensive so they try…
