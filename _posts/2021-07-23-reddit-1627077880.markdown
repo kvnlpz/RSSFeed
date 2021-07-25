@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Did you guys just get a transfer from a random (alphanumeric) wallet address for some moons? 
-date: 2021-07-23 1627077880 
-categories: reddit 
---- 
-https://redd.it/oqcnvh
