@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you want to hire Solidity developers you need to find them where they are. A lot of them are in the EIP-2535 Diamonds discord 
-date: 2021-07-23 1627077513 
-categories: reddit 
---- 
-https://redd.it/oqcjlp
