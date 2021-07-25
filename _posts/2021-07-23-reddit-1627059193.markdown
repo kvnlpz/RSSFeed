@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Flwpf 
-date: 2021-07-23 1627059193 
-categories: reddit 
---- 
-https://redd.it/oq6hbb
