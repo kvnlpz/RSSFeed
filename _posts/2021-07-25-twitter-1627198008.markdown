@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @hamedkhanpour 
+date: 2021-07-25 00:26:48 
+categories: twitter 
+--- 
+@OddStockTrader Indeed!
