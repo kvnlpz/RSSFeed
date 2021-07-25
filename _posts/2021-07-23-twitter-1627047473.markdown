@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PizzaFlagel 
-date: 2021-07-23 06:37:53 
-categories: twitter 
---- 
-@InvestorsLive This stock makes me want to off myself
