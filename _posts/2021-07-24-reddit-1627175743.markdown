@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Spent last 6 hours building a very basic MVP of an app idea I had for a simple crypto chart game. Mostly just proud and wanted to share, but also looking for feedback on features to add next. 
+date: 2021-07-24 1627175743 
+categories: reddit 
+--- 
+https://redd.it/or27g5
