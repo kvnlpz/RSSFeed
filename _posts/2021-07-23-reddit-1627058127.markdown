@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: False article at TipRanks 
-date: 2021-07-23 1627058127 
-categories: reddit 
---- 
-https://redd.it/oq64ff
