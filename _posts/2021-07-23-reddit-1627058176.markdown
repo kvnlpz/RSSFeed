@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coin distribution 
-date: 2021-07-23 1627058176 
-categories: reddit 
---- 
-https://redd.it/oq64yp
