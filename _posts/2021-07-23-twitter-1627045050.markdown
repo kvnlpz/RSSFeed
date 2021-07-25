@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @drewpoker 
-date: 2021-07-23 05:57:30 
-categories: twitter 
---- 
-@alphatrends I have a button to send to junk and block sender.  Usually hit it a couple words into the first sentence of the email
