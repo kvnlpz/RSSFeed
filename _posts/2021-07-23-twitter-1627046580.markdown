@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 06:23:00 
-categories: twitter 
---- 
-@aRishisays I like how the logic here is "guys she risked some money buying something she knew was a scam because o… https://t.co/V4dhghbMIB
