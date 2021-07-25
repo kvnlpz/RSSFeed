@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Counterintuitive volatility-gamma relationship: why does gamma decrease if volatility increases? One would think if volatility increases, so does gamma because there is a higher probability of large stock price increases. 
+date: 2021-07-24 1627194005 
+categories: reddit 
+--- 
+https://redd.it/or6dd3
