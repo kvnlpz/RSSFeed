@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto Expert AMA 
-date: 2021-07-23 1627079349 
-categories: reddit 
---- 
-https://redd.it/oqd48f
