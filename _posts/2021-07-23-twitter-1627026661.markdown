@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InBraised 
-date: 2021-07-23 00:51:01 
-categories: twitter 
---- 
-@nope_its_lily @ConvexityCap Optimizing for variance and mode at the same time.... Realistically, I dont know if yo… https://t.co/aoke7tQ5pG
