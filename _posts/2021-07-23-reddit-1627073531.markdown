@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A wallet for the people , by the people. 
-date: 2021-07-23 1627073531 
-categories: reddit 
---- 
-https://redd.it/oqb8xs
