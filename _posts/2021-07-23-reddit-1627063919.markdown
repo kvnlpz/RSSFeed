@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $PTE is recovering to 50 DMA and expecting IND 
-date: 2021-07-23 1627063919 
-categories: reddit 
---- 
-https://redd.it/oq836o
