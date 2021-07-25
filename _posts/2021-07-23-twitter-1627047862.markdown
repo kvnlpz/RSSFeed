@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @graphicist 
-date: 2021-07-23 06:44:22 
-categories: twitter 
---- 
-@timothysykes Ain’t it the truth!!
