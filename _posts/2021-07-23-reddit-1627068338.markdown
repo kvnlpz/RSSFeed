@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit deploys layer-2 solution aimed at scaling Ethereum-based community points 
-date: 2021-07-23 1627068338 
-categories: reddit 
---- 
-https://redd.it/oq9k2e
