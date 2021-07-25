@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Regarding how many ads you see in Brave. 
-date: 2021-07-23 1627058304 
-categories: reddit 
---- 
-https://redd.it/oq66hv
