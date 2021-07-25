@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How would you pass a futures funding account? 
-date: 2021-07-23 1627080055 
-categories: reddit 
---- 
-https://redd.it/oqdbwj
