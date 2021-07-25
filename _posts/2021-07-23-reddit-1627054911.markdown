@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin price falls as EU vows to make cryptocurrency traceable 
-date: 2021-07-23 1627054911 
-categories: reddit 
---- 
-https://redd.it/oq50nj
