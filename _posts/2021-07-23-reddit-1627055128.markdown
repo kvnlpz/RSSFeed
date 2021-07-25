@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This ape is not smiling 
-date: 2021-07-23 1627055128 
-categories: reddit 
---- 
-https://redd.it/oq53bu
