@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ashishpadiya 
-date: 2021-07-23 05:59:17 
-categories: twitter 
---- 
-RT @RayTL_: Winning in the stock market has much to do with mindset as it does with your strategy and other aspects.
-
-Mindset matters.
