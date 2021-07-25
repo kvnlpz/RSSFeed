@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Significant Ethereum Improvement Proposal Has Just Been Created 
-date: 2021-07-23 1627063119 
-categories: reddit 
---- 
-https://redd.it/oq7tfp
