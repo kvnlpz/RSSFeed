@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Need some help 
-date: 2021-07-23 1627091811 
-categories: reddit 
---- 
-https://redd.it/oqgm56
