@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reward (and much more!) calculator tool 
-date: 2021-07-23 1627071715 
-categories: reddit 
---- 
-https://redd.it/oqanly
