@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happens if I don't stake my ETH? Will it automatically convert to ETH 2.0? 
-date: 2021-07-23 1627063131 
-categories: reddit 
---- 
-https://redd.it/oq7toe
