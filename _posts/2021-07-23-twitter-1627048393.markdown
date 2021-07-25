@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @buffaloden716 
-date: 2021-07-23 06:53:13 
-categories: twitter 
---- 
-@modern_rock @MyInvestingClub https://t.co/FTlThBf37S
