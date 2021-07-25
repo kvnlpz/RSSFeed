@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ZAP, Strike app for lightning network 
-date: 2021-07-23 1627067206 
-categories: reddit 
---- 
-https://redd.it/oq9699
