@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 06:52:50 
-categories: twitter 
---- 
-Holy crap, yesterday I sold a covered call on something and I'm not horribly down bad today. Maybe we're in a new r… https://t.co/Piz0zGzsxJ
