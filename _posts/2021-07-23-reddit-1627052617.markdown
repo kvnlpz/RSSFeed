@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to Mine Ergo: A Detailed Guide for Beginners and Miner Setup 
-date: 2021-07-23 1627052617 
-categories: reddit 
---- 
-https://redd.it/oq48g5
