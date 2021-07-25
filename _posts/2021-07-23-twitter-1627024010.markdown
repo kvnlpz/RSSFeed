@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Austinedai 
-date: 2021-07-23 00:06:50 
-categories: twitter 
---- 
-RT @modern_rock: Every expert was once a beginner. Every pro was once an amateur. It is never too late to start and always know that day 1…
