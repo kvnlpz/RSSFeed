@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DOM dominance. 4397.25 the buyer takeover happened and it was, always is, visible in the DOM. SL is at or one tick below. Also at 4399.75 it happened again. These events are entry triggers if you can catch them. Long 5 contracts at 4389.25... 
-date: 2021-07-23 1627069152 
-categories: reddit 
---- 
-https://redd.it/oq9tk5
