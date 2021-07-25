@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FrnkTss 
-date: 2021-07-23 05:40:14 
-categories: twitter 
---- 
-@markflowchatter They will try to push it, then shorts come in
