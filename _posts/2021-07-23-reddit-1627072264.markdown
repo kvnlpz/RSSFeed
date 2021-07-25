@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 'Ethereum Improvement Proposal 3675’ for the Eth2 merge launches on GitHub 
-date: 2021-07-23 1627072264 
-categories: reddit 
---- 
-https://redd.it/oq8lfs
