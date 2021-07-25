@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: On anyone-can-spend Pay-to-Taproot outputs before activation: Spending P2TR for fun and non-profit 
-date: 2021-07-23 1627060493 
-categories: reddit 
---- 
-https://redd.it/oq6xen
