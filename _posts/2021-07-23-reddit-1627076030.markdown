@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My First Crypto 
-date: 2021-07-23 1627076030 
-categories: reddit 
---- 
-https://redd.it/oqc27q
