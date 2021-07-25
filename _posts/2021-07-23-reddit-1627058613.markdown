@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vitalik Buterin - ETC - The Switch To Ethereum Classic POW - Mantis IOHK 
-date: 2021-07-23 1627058613 
-categories: reddit 
---- 
-https://redd.it/oq6a9r
