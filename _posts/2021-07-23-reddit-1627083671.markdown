@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When you run a node locally, how can you be sure the code you've pulled down is legitimate and not host to vulnerabilities? 
-date: 2021-07-23 1627083671 
-categories: reddit 
---- 
-https://redd.it/oqef1u
