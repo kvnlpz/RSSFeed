@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s going on with the Splunk (SPLK) investor lawsuit? 
-date: 2021-07-23 1627083255 
-categories: reddit 
---- 
-https://redd.it/oqeaal
