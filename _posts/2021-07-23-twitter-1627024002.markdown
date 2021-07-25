@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Austinedai 
-date: 2021-07-23 00:06:42 
-categories: twitter 
---- 
-RT @modern_rock: Hearing this from members is the reason why i get up every day!! The is what motivates me to be better each day, so i can…
