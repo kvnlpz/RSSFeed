@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Strategy Building Struggle 
-date: 2021-07-23 1627066697 
-categories: reddit 
---- 
-https://redd.it/oq9051
