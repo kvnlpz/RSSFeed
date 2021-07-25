@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which exchange costs less for withdrawal? I've been buying on Binance and WazirX but moving them to my wallet costs a hell lot of amount. I tried FTX but it asks a minimum of 25FTT to be staked for 1 free withdrawal a day. Is there any other that costs me less to transfer to own wallet? 
-date: 2021-07-23 1627060959 
-categories: reddit 
---- 
-https://redd.it/oq738b
