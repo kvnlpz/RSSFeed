@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you check Rinkeby etherscan and check your vault address, you will see the MOONS have already been withdrawn, and sent to a specific address, which is the one doing the migration 
-date: 2021-07-23 1627079703 
-categories: reddit 
---- 
-https://redd.it/oqd7yx
