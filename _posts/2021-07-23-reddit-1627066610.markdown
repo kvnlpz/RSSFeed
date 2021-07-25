@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is the single greatest resource for explaining Crypto to uninterested people? 
-date: 2021-07-23 1627066610 
-categories: reddit 
---- 
-https://redd.it/oq8z50
