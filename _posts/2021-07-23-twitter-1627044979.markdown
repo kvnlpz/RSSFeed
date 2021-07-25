@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gregdsports 
-date: 2021-07-23 05:56:19 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ @TLPrivate_ @RichardMoglen 📝🔎
