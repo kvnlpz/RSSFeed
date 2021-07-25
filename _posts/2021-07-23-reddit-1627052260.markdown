@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fork 
-date: 2021-07-23 1627052260 
-categories: reddit 
---- 
-https://redd.it/oq43zx
