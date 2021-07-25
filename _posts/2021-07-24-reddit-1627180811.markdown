@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Shor’s algorithm breaking crypto currencies’ encryption? Any opinions 
+date: 2021-07-24 1627180811 
+categories: reddit 
+--- 
+https://redd.it/or3fvw
