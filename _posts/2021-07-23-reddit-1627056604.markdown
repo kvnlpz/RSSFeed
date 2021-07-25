@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What would you do with Smart Contracts? 
-date: 2021-07-23 1627056604 
-categories: reddit 
---- 
-https://redd.it/oq5lp0
