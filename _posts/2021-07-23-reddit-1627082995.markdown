@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Inverted Strangles (High Put, Low Call) 
-date: 2021-07-23 1627082995 
-categories: reddit 
---- 
-https://redd.it/oqe746
