@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In IOTAs newest DEV-Update they talk about releasing smart Contracts function on the DevNet, progress on Nano Ledger, the mobile app and many many more. 
-date: 2021-07-23 1627052793 
-categories: reddit 
---- 
-https://redd.it/oq4ahd
