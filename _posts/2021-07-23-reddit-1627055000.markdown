@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market Cap vs. Circulating Supply 
-date: 2021-07-23 1627055000 
-categories: reddit 
---- 
-https://redd.it/oq51p1
