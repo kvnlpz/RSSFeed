@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ideas to save FB covered call 
-date: 2021-07-23 1627052443 
-categories: reddit 
---- 
-https://redd.it/oq467v
