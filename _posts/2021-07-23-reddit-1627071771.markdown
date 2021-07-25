@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Block Countdown to London Network Upgrade 
-date: 2021-07-23 1627071771 
-categories: reddit 
---- 
-https://redd.it/oqaoao
