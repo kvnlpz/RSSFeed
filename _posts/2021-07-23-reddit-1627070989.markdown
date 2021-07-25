@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is my first pmcc that’s just buying a discounted leap instead of separate options, if I don’t get assigned RH would just let me keep my discounted leap right? 
-date: 2021-07-23 1627070989 
-categories: reddit 
---- 
-https://redd.it/oqaf2o
