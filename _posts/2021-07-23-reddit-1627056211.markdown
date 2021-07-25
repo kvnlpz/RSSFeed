@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Would it be possible to create a cryptocurrency that uses it's collective mining hashpower all at once, creating a massive supercomputer to solve complex equations, or a string of equations provided by the highest bidder? 
-date: 2021-07-23 1627056211 
-categories: reddit 
---- 
-https://redd.it/oq5gy5
