@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @holdmytexan 
-date: 2021-07-23 05:35:28 
-categories: twitter 
---- 
-@super_trades Did you get me a shirt boss? Lol
