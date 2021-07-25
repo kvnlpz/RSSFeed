@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Michelangelos_ 
-date: 2021-07-23 06:42:00 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/DLqPaogmEo
