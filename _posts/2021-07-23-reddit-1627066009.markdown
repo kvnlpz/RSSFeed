@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I need a little help to transfer my atom from coinbase to cosmos wallet on my phone? 
-date: 2021-07-23 1627066009 
-categories: reddit 
---- 
-https://redd.it/oq8s5s
