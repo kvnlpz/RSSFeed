@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If it costs to transfer Bitcoin, does the cost always stay the same from day to day? Or would it be more or less expensive tomorrow if the price of Bitcoin:USD went up or down? 
-date: 2021-07-23 1627066776 
-categories: reddit 
---- 
-https://redd.it/oq913u
