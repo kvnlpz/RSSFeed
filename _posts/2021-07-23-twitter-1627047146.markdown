@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mementium 
-date: 2021-07-23 06:32:26 
-categories: twitter 
---- 
-@nope_its_lily This is a failure of SEC - thought my tweet was pretty clear.
-
-What you do is your business.
