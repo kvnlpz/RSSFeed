@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A scammer is sending UNIH tokens to many ETH wallets, enticing them to trade these tokens. Do not approve this for trading on Uniswap, it will steal all your funds. 
-date: 2021-07-23 1627054242 
-categories: reddit 
---- 
-https://redd.it/oq4se2
