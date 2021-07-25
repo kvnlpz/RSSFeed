@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Could you create a coin/token that functions as decentralized ETF? 
-date: 2021-07-23 1627055761 
-categories: reddit 
---- 
-https://redd.it/oq5b0i
