@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Knight__Trading 
-date: 2021-07-23 00:13:52 
-categories: twitter 
---- 
-RT @MikeBellafiore: Some stocks just become "trading vehicles".  Trade them as "trading vehicles".
