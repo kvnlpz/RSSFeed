@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hi, guys can any one help explain blockchain in a simple sentence, I have been trying to understand blockchain but I find it difficult 
-date: 2021-07-23 1627084255 
-categories: reddit 
---- 
-https://redd.it/oqel14
