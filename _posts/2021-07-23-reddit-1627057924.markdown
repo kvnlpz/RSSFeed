@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Solo mining -- worth it? 
-date: 2021-07-23 1627057924 
-categories: reddit 
---- 
-https://redd.it/oq24t7
