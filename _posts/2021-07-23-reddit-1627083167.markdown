@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First hardware wallet 
-date: 2021-07-23 1627083167 
-categories: reddit 
---- 
-https://redd.it/oqe9aw
