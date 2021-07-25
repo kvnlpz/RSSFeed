@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does your broker prevent OTM limit orders? 
-date: 2021-07-23 1627058781 
-categories: reddit 
---- 
-https://redd.it/oq6cdj
