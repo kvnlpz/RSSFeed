@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Compared to internet's mass-adoption, the rate of crypto/blockchain adoption has been 10X slower (I ran some numbers - shared in the post's body). Any thoughts on why this is so? Secondly, what can be done to reverse the trend? 
-date: 2021-07-23 1627072536 
-categories: reddit 
---- 
-https://redd.it/oqax8a
