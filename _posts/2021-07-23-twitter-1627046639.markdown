@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @swellagantP 
-date: 2021-07-23 06:23:59 
-categories: twitter 
---- 
-@RayTL_ Why can't both be causes?
