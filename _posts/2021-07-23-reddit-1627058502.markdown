@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do I need an anonymous GitHub to contribute to crypto projects? 
-date: 2021-07-23 1627058502 
-categories: reddit 
---- 
-https://redd.it/oq68xa
