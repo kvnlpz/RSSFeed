@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MeslinPierre2 
-date: 2021-07-23 04:16:24 
-categories: twitter 
---- 
-RT @InvestorsLive: The Department of Justice has confirmed that the American tycoon John McAfee has been found dead in the cell he occupied…
