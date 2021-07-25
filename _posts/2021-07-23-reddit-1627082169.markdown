@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I move MOONs to cold storage? 
-date: 2021-07-23 1627082169 
-categories: reddit 
---- 
-https://redd.it/oqdyc1
