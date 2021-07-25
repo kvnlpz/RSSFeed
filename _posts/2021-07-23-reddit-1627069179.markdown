@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I’m a poor ape 🦧 
-date: 2021-07-23 1627069179 
-categories: reddit 
---- 
-https://redd.it/oq9txq
