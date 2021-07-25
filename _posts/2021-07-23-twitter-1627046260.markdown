@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chyeeahhh 
-date: 2021-07-23 06:17:40 
-categories: twitter 
---- 
-@InvestorsLive @OpenOutcrier These all china ?
