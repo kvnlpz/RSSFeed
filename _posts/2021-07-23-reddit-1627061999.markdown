@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do you see an use case for blockchain in the computer or smartphone repair field? 
-date: 2021-07-23 1627061999 
-categories: reddit 
---- 
-https://redd.it/oq7fzy
