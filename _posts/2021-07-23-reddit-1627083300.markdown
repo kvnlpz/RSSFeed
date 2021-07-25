@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Classic countdown! Here we go! 
-date: 2021-07-23 1627083300 
-categories: reddit 
---- 
-https://redd.it/oqeas5
