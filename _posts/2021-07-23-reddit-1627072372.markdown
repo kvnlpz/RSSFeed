@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 9 wins: 1 loss Today (7-23-2021) for my bot 
-date: 2021-07-23 1627072372 
-categories: reddit 
---- 
-https://redd.it/oqav8z
