@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5: What makes Bitcoin so valuable to humanity? Lightning Network and Taproot. 
-date: 2021-07-23 1627063430 
-categories: reddit 
---- 
-https://redd.it/oq7tp7
