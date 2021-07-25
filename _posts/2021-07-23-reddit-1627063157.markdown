@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How predictable have historic BTC highs and lows been? 
-date: 2021-07-23 1627063157 
-categories: reddit 
---- 
-https://redd.it/oq7tx8
