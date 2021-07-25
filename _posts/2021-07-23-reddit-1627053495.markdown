@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vitalik starts talking about "Retroactive Public Goods Funding" from about 29 minutes which is what the Meryt Protocol is trying to achieve. 
-date: 2021-07-23 1627053495 
-categories: reddit 
---- 
-https://redd.it/oq4izw
