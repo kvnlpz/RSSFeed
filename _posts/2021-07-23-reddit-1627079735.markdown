@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Noobs Guide: What is Bitcoin? Episode #1 
-date: 2021-07-23 1627079735 
-categories: reddit 
---- 
-https://redd.it/oqd8im
