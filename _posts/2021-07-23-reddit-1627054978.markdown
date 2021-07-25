@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CRTD squeeze setup 
-date: 2021-07-23 1627054978 
-categories: reddit 
---- 
-https://redd.it/oq51f9
