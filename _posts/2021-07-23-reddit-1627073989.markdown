@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Plutus compatible with web browser via Javascript! 
-date: 2021-07-23 1627073989 
-categories: reddit 
---- 
-https://redd.it/oqbef9
