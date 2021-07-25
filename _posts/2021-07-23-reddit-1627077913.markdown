@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $PTE catalyst is coming up. They have great preliminary data 
-date: 2021-07-23 1627077913 
-categories: reddit 
---- 
-https://redd.it/oqco79
