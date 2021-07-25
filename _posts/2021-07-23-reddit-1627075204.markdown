@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Antminer L3+ 
-date: 2021-07-23 1627075204 
-categories: reddit 
---- 
-https://redd.it/oqbsnz
