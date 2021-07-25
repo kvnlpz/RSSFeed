@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Austinedai 
-date: 2021-07-23 00:06:53 
-categories: twitter 
---- 
-RT @modern_rock: Special FREE Public Webinar today at 2pm market time
-
- Special guest: CEO of @TradeZer0 who will be on to talk about Trade…
