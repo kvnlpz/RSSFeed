@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KIERMCD 
-date: 2021-07-23 05:37:31 
-categories: twitter 
---- 
-RT @RayTL_: This yr is far more typical of what trading looks like. You get pushed out at times, then you have to adapt right back as condi…
