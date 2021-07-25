@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The incentives of the Dynamic block size 
-date: 2021-07-23 1627061762 
-categories: reddit 
---- 
-https://redd.it/oq7dc0
