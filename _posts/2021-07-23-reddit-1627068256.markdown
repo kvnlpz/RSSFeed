@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Calculator to determine Cost Basis? 
-date: 2021-07-23 1627068256 
-categories: reddit 
---- 
-https://redd.it/oq9j28
