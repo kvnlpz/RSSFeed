@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why isn't a stronger incentive for running a full node built into Bitcoin like it is for miners? 
-date: 2021-07-23 1627063183 
-categories: reddit 
---- 
-https://redd.it/oq7u73
