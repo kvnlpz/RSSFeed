@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How is bitcoin supposed to scale with such high transaction fees? 
+date: 2021-07-24 1627179223 
+categories: reddit 
+--- 
+https://redd.it/or31rw
