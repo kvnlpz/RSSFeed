@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Chris_TurnsUp 
-date: 2021-07-23 06:43:35 
-categories: twitter 
---- 
-RT @timothysykes: DISCIPLINED TRADING ONLY TODAY, FINISH THE WEEK OUT STRONG!
