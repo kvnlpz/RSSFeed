@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thoughts on DAC 
-date: 2021-07-23 1627056373 
-categories: reddit 
---- 
-https://redd.it/oq5iw2
