@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Well... Ethereum finally has an emoji on Twitter... and it's not what you may think. 
-date: 2021-07-23 1627060802 
-categories: reddit 
---- 
-https://redd.it/oq71dh
