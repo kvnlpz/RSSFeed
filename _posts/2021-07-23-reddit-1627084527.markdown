@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a warning, I am manipulating the whales. 
-date: 2021-07-23 1627084527 
-categories: reddit 
---- 
-https://redd.it/oqeo0d
