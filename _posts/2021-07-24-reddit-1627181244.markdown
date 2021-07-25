@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Recieving transaction stuck in local [Electrum Wallet] 
+date: 2021-07-24 1627181244 
+categories: reddit 
+--- 
+https://redd.it/or3jcr
