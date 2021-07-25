@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-23 06:07:45 
-categories: twitter 
---- 
-@gregdsports @RichardMoglen @TraderLion_ This is why I don’t need @Grammarly … we’ve got Richard on it.
