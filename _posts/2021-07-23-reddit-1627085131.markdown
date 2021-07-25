@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Getting Started 
-date: 2021-07-23 1627085131 
-categories: reddit 
---- 
-https://redd.it/oqeuia
