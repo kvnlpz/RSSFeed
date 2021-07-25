@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I heard a funny joke about moons 
-date: 2021-07-23 1627075343 
-categories: reddit 
---- 
-https://redd.it/oqbucc
