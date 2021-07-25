@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @adamapodaca13 
-date: 2021-07-23 06:55:23 
-categories: twitter 
---- 
-@InvestorsLive Exactly what I was thinking.
