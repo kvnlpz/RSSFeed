@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Created a site to check any token to see if it could be rug-pulled, or is a scam. 
-date: 2021-07-23 1627083189 
-categories: reddit 
---- 
-https://redd.it/oqe9iy
