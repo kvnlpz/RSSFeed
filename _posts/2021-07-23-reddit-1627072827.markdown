@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NRXP for the win 
-date: 2021-07-23 1627072827 
-categories: reddit 
---- 
-https://redd.it/oqb0pe
