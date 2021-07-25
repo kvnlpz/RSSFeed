@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 06:44:27 
-categories: twitter 
---- 
-@quantian1 I just want to say I have no opinion on any of this but I love some good FinTwit drama in the morning.
