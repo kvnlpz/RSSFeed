@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: #Route_buy_AMC_only_NYSE 
-date: 2021-07-23 1627064869 
-categories: reddit 
---- 
-https://redd.it/oq8ems
