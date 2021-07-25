@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chist_alex 
-date: 2021-07-23 05:56:46 
-categories: twitter 
---- 
-@alphatrends A lot of sales gurus will tell you "put your question first. By doing this you made them feel obligated to respond"🤦‍♂️
