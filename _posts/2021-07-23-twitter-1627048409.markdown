@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PVirruso 
-date: 2021-07-23 06:53:29 
-categories: twitter 
---- 
-RT @InvestorsLive: $BBIG you just saw what $MTSL did yesterday so shouldn't be a surprise. (Thesis in room).
