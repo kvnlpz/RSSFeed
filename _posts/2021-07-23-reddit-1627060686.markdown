@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When I try to post DD on WSB 
-date: 2021-07-23 1627060686 
-categories: reddit 
---- 
-https://redd.it/oq6zex
