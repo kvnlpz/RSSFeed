@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: why is the gwei currently so high ? 
-date: 2021-07-23 1627080798 
-categories: reddit 
---- 
-https://redd.it/oqdjqv
