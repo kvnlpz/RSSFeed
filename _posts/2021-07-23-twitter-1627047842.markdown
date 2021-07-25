@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Hendranovi4 
-date: 2021-07-23 06:44:02 
-categories: twitter 
---- 
-@timothysykes market kind of slow
