@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Examining Structural Changes To The Bitcoin Derivatives Market 
-date: 2021-07-23 1627051669 
-categories: reddit 
---- 
-https://redd.it/oq3x15
