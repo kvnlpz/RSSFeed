@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 08:07:26 
-categories: twitter 
---- 
-@volmagorov sorry let me rewrite it in Perl:
-josqjdqnj12up91891888918180qi21902192902190
