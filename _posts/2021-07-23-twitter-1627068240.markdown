@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-23 12:24:00 
-categories: twitter 
---- 
-RT @modern_rock: "You can't lose what you don't put in" - Rounders Movie https://t.co/tWOuFNyjZZ
