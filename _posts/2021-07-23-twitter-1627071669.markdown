@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @perushka 
-date: 2021-07-23 13:21:09 
-categories: twitter 
---- 
-@nope_its_lily Have a great weekend, Lily! Thank you for everything you share.
