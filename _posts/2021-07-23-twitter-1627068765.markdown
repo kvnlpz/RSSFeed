@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JustStocksToday 
-date: 2021-07-23 12:32:45 
-categories: twitter 
---- 
-RT @InvestorsLive: What an alert @TradeHawk $NAOV Bravo 👏
