@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @markflowchatter 
-date: 2021-07-23 08:31:39 
-categories: twitter 
---- 
-@JessicaKirson Eduwww has some rhythm
