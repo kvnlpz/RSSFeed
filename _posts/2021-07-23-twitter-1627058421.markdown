@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @delro72 
-date: 2021-07-23 09:40:21 
-categories: twitter 
---- 
-@InvestorsLive RIP
