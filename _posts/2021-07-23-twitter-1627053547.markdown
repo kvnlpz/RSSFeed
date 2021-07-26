@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RavinderTalwar4 
-date: 2021-07-23 08:19:07 
-categories: twitter 
---- 
-@timothysykes Yes sir
