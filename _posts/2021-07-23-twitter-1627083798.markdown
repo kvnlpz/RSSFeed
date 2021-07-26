@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-23 16:43:18 
-categories: twitter 
---- 
-@CarpeDiem010101 NEVER!
