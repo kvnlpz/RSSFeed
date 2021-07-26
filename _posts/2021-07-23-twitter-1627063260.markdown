@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-23 11:01:00 
-categories: twitter 
---- 
-RT @sema4: Thank you to @Nasdaq for their warm welcome as we begin our journey as a publicly traded company. #NasdaqListed https://t.co/6DC…
