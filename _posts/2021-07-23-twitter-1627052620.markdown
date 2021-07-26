@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 08:03:40 
-categories: twitter 
---- 
-if we create an index of only 20-30 year old women named Lily who have more than 40,000 and less than 50,000 follow… https://t.co/Lkiv7MLap8
