@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-23 11:30:41 
-categories: twitter 
---- 
-@markminervini Well said Mark!🔑
-Trading is about execution of edge not execution of emotion.
