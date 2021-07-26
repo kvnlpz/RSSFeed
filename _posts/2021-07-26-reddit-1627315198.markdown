@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: More than $1 billion worth of long Bitcoin futures have been liquidated in the last 12 hours across different exchanges. However, Binance’s APIs post just one liquidation a second; from open interest data we estimate it to be a billion more by itself. 
+date: 2021-07-26 1627315198 
+categories: reddit 
+--- 
+https://redd.it/os1ped
