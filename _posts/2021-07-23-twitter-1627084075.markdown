@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GoldenApes 
-date: 2021-07-23 16:47:55 
-categories: twitter 
---- 
-@timothysykes #studying now! Join our #space @timothysykes 
-
-https://t.co/Wq9Wwk24qT
