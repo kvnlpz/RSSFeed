@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hindenbear 
-date: 2021-07-23 13:08:35 
-categories: twitter 
---- 
-@nope_its_lily Can you please translate this for, uh… less experienced market observers? Obviously _I_ know what al… https://t.co/PkSqD8HdJI
