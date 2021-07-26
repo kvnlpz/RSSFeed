@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DhananjayBM 
-date: 2021-07-23 09:54:06 
-categories: twitter 
---- 
-@RayTL_ @tradingview Sales and eps indicator just like in marketsmith would complete all indicator series.
