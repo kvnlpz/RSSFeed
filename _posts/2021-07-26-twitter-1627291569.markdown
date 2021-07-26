@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @StocksPapi 
+date: 2021-07-26 02:26:09 
+categories: twitter 
+--- 
+@InvestorsLive $NAOV
