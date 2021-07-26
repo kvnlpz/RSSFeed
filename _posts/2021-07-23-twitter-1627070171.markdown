@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @habsberg 
-date: 2021-07-23 12:56:11 
-categories: twitter 
---- 
-RT @modern_rock: Or when you're up $900 and you want to top it for for the nice mental $1k gain day and then lose it all back and more!
