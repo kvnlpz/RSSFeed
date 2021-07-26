@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @austintrades1 
-date: 2021-07-23 12:29:38 
-categories: twitter 
---- 
-@timothysykes Did you alert this in your regular chat or just your challenge chat?
