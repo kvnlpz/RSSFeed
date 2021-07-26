@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @adamnj1020 
-date: 2021-07-23 13:51:33 
-categories: twitter 
---- 
-@TraderTexMex https://t.co/NeeaZj9FRd
