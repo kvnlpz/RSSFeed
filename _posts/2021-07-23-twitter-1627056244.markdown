@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jamesdison514 
-date: 2021-07-23 09:04:04 
-categories: twitter 
---- 
-@timothysykes I like this UAMM, I wish we could get ur opinion on it
