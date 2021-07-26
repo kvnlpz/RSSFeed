@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @doorisajar 
-date: 2021-07-23 15:58:14 
-categories: twitter 
---- 
-RT @acityinohio: My cover letter for the @amazon blockchain job. 🤞 🚀 https://t.co/B3Q2lqNU6x
