@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Coinbase unable to verify my address. Any help? What am I doing wrong? 
+date: 2021-07-26 1627332292 
+categories: reddit 
+--- 
+https://redd.it/os7nkx
