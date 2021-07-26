@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @aumanb 
-date: 2021-07-23 08:23:43 
-categories: twitter 
---- 
-@alphatrends Nope not even a little obligated
