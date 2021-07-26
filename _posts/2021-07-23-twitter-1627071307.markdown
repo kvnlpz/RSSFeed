@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-07-23 13:15:07 
-categories: twitter 
---- 
-@RayTL_ @anishsikri We could do a space instead
