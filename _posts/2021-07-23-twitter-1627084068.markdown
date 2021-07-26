@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-23 16:47:48 
-categories: twitter 
---- 
-this is a great deal!
-
-I will be there and so should you
