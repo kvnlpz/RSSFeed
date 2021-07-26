@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Pirata089 
-date: 2021-07-23 08:00:10 
-categories: twitter 
---- 
-@InvestorsLive Never want one time gains now do we
