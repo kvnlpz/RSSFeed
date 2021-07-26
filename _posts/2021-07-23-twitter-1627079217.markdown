@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alexleiser3 
-date: 2021-07-23 15:26:57 
-categories: twitter 
---- 
-@RayTL_ Keep killing it
