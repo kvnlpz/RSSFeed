@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @damianmitu 
-date: 2021-07-23 09:14:21 
-categories: twitter 
---- 
-@modern_rock Nice view bro, where is that?
