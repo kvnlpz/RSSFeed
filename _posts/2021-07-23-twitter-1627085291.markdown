@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @legalhuslein 
-date: 2021-07-23 17:08:11 
-categories: twitter 
---- 
-@modern_rock Yup,  I am happy with the $11.75 I made this week.
