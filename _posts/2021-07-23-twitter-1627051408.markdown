@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheAnalytic 
-date: 2021-07-23 07:43:28 
-categories: twitter 
---- 
-RT @muddywatersre: The system that allows such frauds to persist and flourish is a highly corrupt system run by a highly corrupt autocratic…
