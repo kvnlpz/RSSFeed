@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-26 07:50:11 
+categories: twitter 
+--- 
+RT @HuxleysRazor: “Part of the reason Facebook is so heavily invested in VR/AR is that the granularity of data available when users interac…
