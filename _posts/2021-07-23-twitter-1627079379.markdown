@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tarunchitra 
-date: 2021-07-23 15:29:39 
-categories: twitter 
---- 
-@nope_its_lily @Uniswap err just on their front-end, you can of course still trade if you run your own node (or like Etherscan)
