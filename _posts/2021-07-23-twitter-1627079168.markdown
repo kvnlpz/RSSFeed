@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PabloEstrader 
-date: 2021-07-23 15:26:08 
-categories: twitter 
---- 
-@InvestorsLive Game theory 🔮
