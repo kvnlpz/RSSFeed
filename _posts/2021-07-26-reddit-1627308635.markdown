@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Building DApps isn't that hard, Flow bootcamp day 1 content is now live, you just gotta take the first step. 
+date: 2021-07-26 1627308635 
+categories: reddit 
+--- 
+https://redd.it/orzhip
