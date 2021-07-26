@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @quantian1 
-date: 2021-07-23 08:17:12 
-categories: twitter 
---- 
-@nope_its_lily @InstAllocator @DeadLiftCapital Me to my managers after the check clears: https://t.co/ePqxo79QWi
