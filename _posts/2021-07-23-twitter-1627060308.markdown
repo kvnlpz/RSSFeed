@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mirsguy 
-date: 2021-07-23 10:11:48 
-categories: twitter 
---- 
-@timothysykes Placed one trade today. Made 12% in 6 minutes. Done for the week and happy! 😊
