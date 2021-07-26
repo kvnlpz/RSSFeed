@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: TLDR; Why Open A Lightning Channel? 
+date: 2021-07-26 1627342897 
+categories: reddit 
+--- 
+https://redd.it/osb53m
