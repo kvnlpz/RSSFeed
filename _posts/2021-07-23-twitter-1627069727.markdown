@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @illumined1 
-date: 2021-07-23 12:48:47 
-categories: twitter 
---- 
-@alphatrends Would you call this stage 3 or stage 4? I'm leaning towards 4... https://t.co/jkpbYPRlTR
