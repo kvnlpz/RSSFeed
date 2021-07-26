@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlmanzaTrades 
-date: 2021-07-23 08:08:23 
-categories: twitter 
---- 
-RT @timothysykes: DISCIPLINED TRADING ONLY TODAY, FINISH THE WEEK OUT STRONG!
