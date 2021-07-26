@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Eth95.exe -- An Instant UI for Smart Contracts 
+date: 2021-07-26 1627307373 
+categories: reddit 
+--- 
+https://redd.it/orz34f
