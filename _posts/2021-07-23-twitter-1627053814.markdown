@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bjjmed 
-date: 2021-07-23 08:23:34 
-categories: twitter 
---- 
-RT @nope_its_lily: I just want to go on record saying I like allocators and I'll take whatever side of the debate you want as long as there…
