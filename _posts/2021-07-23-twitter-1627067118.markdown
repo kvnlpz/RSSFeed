@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yoshiefuruhashi 
-date: 2021-07-23 12:05:18 
-categories: twitter 
---- 
-RT @nope_its_lily: That said, 4/9/2021 was expected-ish given it was part of the mopex cycle.
