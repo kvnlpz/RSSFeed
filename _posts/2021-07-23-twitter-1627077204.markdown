@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @John_galt1111 
-date: 2021-07-23 14:53:24 
-categories: twitter 
---- 
-RT @aat2398: @manpreetkailon Snap mentioned augmented reality in their earnings report yesterday $VRAR
