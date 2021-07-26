@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why are exchange prices so similar despite own order books? 
+date: 2021-07-26 1627309247 
+categories: reddit 
+--- 
+https://redd.it/orzokg
