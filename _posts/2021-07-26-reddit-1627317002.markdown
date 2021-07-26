@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What happens to coins when they are sent to a wallet on the wrong network? 
+date: 2021-07-26 1627317002 
+categories: reddit 
+--- 
+https://redd.it/os2cyn
