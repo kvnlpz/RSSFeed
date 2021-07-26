@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @charlestrussel 
-date: 2021-07-23 15:33:08 
-categories: twitter 
---- 
-@nope_its_lily @Uniswap @tarunchitra are they all scams or why do they block these ones?
