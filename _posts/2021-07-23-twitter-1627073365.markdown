@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cliveadams18 
-date: 2021-07-23 13:49:25 
-categories: twitter 
---- 
-@super_trades Just signed to your meme stock summit
