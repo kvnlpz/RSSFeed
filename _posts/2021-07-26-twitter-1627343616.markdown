@@ -1,0 +1,11 @@
+--- 
+layout: post 
+title: Tweet by @StockboyP 
+date: 2021-07-26 16:53:36 
+categories: twitter 
+--- 
+RT @TrendSpider: FAQ:  "How do I anchor a VWAP ⚓" 
+A: EASY! 👇
+
+✅Step 1) Right-click on any candle
+✅Step 2) 'Create an @alphatrends aVWAP he…
