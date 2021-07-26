@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 15:33:57 
-categories: twitter 
---- 
-@quantian1 @InstAllocator @joelmcohen @DeadLiftCapital holy fuck
