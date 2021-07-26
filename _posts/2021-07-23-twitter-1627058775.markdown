@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bagholdershort 
-date: 2021-07-23 09:46:15 
-categories: twitter 
---- 
-@InvestorsLive nice 25$ https://t.co/oSv658Vt2n
