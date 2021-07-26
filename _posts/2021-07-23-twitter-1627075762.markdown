@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RobbieTrades 
-date: 2021-07-23 14:29:22 
-categories: twitter 
---- 
-@RayTL_ Do you suggest mastering one before adding another tool to the tool box?
