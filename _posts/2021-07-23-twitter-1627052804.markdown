@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @making_sales 
-date: 2021-07-23 08:06:44 
-categories: twitter 
---- 
-@InvestorsLive Trading with a small amount of real money (even if it’s $100) is more effective than paper trading i… https://t.co/5vmW0seOK8
