@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mik_Huddie 
-date: 2021-07-23 09:44:45 
-categories: twitter 
---- 
-RT @OddStockTrader: Is it a violation of your privacy if your Uber Driver is recording the ride without telling you when you get in the car?
