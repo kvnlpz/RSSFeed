@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @4243_1 
-date: 2021-07-23 17:12:03 
-categories: twitter 
---- 
-@alphatrends Great spot. Should be a blast!
