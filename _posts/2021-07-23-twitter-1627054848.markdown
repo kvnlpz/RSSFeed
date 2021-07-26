@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @m_tzena 
-date: 2021-07-23 08:40:48 
-categories: twitter 
---- 
-RT @timothysykes: Tune into this free event next Wednesday night: https://t.co/4eL9fwYKJx it's gonna be VERY eye-opening for everyone who's…
