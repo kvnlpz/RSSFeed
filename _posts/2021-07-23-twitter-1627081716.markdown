@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sal1op 
-date: 2021-07-23 16:08:36 
-categories: twitter 
---- 
-@RayTL_ 💀
