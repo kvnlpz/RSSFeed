@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RavinderTalwar4 
-date: 2021-07-23 08:18:55 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/b85qxpVdMo Classic https://t.co/4lKUY5B6aw panic here
