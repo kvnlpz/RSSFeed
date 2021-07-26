@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DanielSingerS 
-date: 2021-07-23 09:32:43 
-categories: twitter 
---- 
-@InvestorsLive You should honestly report to exchanges what's going on, they crack down on this stuff
