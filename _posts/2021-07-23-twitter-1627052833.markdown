@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @volmagorov 
-date: 2021-07-23 08:07:13 
-categories: twitter 
---- 
-@nope_its_lily isn't Perl or Fortran, cannot read.
