@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iLoveTheta1 
-date: 2021-07-23 07:26:52 
-categories: twitter 
---- 
-@OddStockTrader Keep us updated on what you figure out. Is it the lingering effects of Covid? Are you having muscle spasms?
