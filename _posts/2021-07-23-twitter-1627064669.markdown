@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yap_jaeve 
-date: 2021-07-23 11:24:29 
-categories: twitter 
---- 
-@thehonestcroock @thehonestcroock ready to hit it again 🔥
