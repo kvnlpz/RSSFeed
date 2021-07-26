@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Simple tutorial on how to get the Satoshi message from the Genesis Block. 
+date: 2021-07-26 1627307024 
+categories: reddit 
+--- 
+https://redd.it/oryzfi
