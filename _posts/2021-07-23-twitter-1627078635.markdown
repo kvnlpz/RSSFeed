@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @clown_honky 
-date: 2021-07-23 15:17:15 
-categories: twitter 
---- 
-@InvestorsLive You're spot on everytime
