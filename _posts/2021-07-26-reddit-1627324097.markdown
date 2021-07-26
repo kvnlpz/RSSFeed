@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: how to transfer XRP to another wallet with private key(with application , script or library) 
+date: 2021-07-26 1627324097 
+categories: reddit 
+--- 
+https://redd.it/os4ucd
