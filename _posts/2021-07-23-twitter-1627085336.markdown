@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @qoouep 
-date: 2021-07-23 17:08:56 
-categories: twitter 
---- 
-@nope_its_lily You were selling 8 covered calls in MSFT? So you're in for like 200k? O.o
