@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @michaellistman 
-date: 2021-07-23 09:20:47 
-categories: twitter 
---- 
-@nope_its_lily Uh... earnings on July28th
-
-Should all come back into focus now 😉
