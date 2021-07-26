@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cafesoiree 
-date: 2021-07-23 14:55:04 
-categories: twitter 
---- 
-@RayTL_ @tradingview Is the reversal bar PCB for TC2000 optimized? I’ve used the TL layout and seems good, but does… https://t.co/QBUMVHp3OQ
