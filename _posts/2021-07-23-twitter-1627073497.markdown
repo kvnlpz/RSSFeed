@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KBTrad3r 
-date: 2021-07-23 13:51:37 
-categories: twitter 
---- 
-@OddStockTrader Doors and windows open type of day.
