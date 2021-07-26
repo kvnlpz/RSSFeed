@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-23 10:50:32 
-categories: twitter 
---- 
-@ThePupOfWallSt @reciknows @G_krupins @PandaOptions @TradeSniperSara @RichardMoglen @CaptSolutions @CheddarFlow… https://t.co/mpfoVESrj5
