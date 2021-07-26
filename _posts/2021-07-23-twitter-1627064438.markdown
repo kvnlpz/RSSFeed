@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @elcukui 
-date: 2021-07-23 11:20:38 
-categories: twitter 
---- 
-@thehonestcroock Licking my chops!  We ready @EvolvedTrader
