@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cusworthcapital 
-date: 2021-07-23 11:49:26 
-categories: twitter 
---- 
-@RayTL_ Here at the moment.
