@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-23 12:46:44 
-categories: twitter 
---- 
-@SoccerMomTrades good luck
