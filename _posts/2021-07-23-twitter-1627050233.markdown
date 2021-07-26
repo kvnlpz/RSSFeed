@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ra1nmaker1 
-date: 2021-07-23 07:23:53 
-categories: twitter 
---- 
-RT @RayTL_: @LoneStockTrader Conviction is a double-edged sword if price is not respected. Respect price - folks.
