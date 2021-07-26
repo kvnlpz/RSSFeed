@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CFaithInvesting 
-date: 2021-07-23 11:14:39 
-categories: twitter 
---- 
-@RayTL_ Thanks Ray.
