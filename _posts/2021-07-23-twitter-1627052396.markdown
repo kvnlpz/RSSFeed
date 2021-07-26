@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-23 07:59:56 
-categories: twitter 
---- 
-Will be updating @tradingview scripts on RS and Reversal Bars. Also working on a Data Bar now that they have that functionality. 👍
