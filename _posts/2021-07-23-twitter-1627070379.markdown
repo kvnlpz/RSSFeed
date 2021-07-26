@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brrrzooka 
-date: 2021-07-23 12:59:39 
-categories: twitter 
---- 
-@nope_its_lily We've finally reached the markets final form where it just goes up and everyone buys calls to take advantage
