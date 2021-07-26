@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheRealShetler 
-date: 2021-07-23 13:58:54 
-categories: twitter 
---- 
-@alphatrends That’s also off support in the chart. Do you require multiple signals or would you feel confident to p… https://t.co/EfFDPu43Dr
