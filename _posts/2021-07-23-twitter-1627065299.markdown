@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @diamondhand_ape 
-date: 2021-07-23 11:34:59 
-categories: twitter 
---- 
-@nope_its_lily Please start your own volatility/tail risk hedge fund. I don't have 50M for Universa.
