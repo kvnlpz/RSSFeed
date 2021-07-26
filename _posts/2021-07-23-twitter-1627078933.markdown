@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-23 15:22:13 
-categories: twitter 
---- 
-@jdstandifer Well done! On to the next one.
