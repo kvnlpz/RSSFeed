@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @procat1 
-date: 2021-07-23 12:23:30 
-categories: twitter 
---- 
-RT @modern_rock: Mike (Rounders): You can shear a sheep many times, but skin him only once.
-
-Learn from your mistakes! http://t.co/26p7OUzC…
