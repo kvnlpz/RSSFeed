@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jmysct0 
-date: 2021-07-23 15:33:49 
-categories: twitter 
---- 
-@nope_its_lily @tarunchitra @Uniswap me trying to figure out Uniswap and Polkadot off exchange, exchanges... https://t.co/EQClJdHjh8
