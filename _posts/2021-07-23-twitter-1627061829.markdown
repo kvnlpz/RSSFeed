@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scriptstotrade 
-date: 2021-07-23 10:37:09 
-categories: twitter 
---- 
-@modern_rock Great Advice 👌🏼
