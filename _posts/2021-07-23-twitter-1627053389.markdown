@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SergheiSukhoi 
-date: 2021-07-23 08:16:29 
-categories: twitter 
---- 
-@InvestorsLive Yup, unbelievable,  was the news that bad
