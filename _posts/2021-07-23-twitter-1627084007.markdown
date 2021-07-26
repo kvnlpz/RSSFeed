@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lfurbaneja 
-date: 2021-07-23 16:46:47 
-categories: twitter 
---- 
-@alphatrends but the dip still working til it wont
