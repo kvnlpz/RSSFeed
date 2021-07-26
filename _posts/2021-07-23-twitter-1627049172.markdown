@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @djt4prezident 
-date: 2021-07-23 07:06:12 
-categories: twitter 
---- 
-@super_trades $KIQ &amp; $RAIL WW today for run up into Infrastructure Bill vote on Monday
