@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @steve_larrison 
-date: 2021-07-23 12:43:12 
-categories: twitter 
---- 
-@OddStockTrader It doesn't take much to flood this place.  But yes, even getting rain during daytime hours this time of year is unusual.
