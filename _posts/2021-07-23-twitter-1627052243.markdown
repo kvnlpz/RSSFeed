@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 07:57:23 
-categories: twitter 
---- 
-@volmagorov @JessicaNutt96 there's a lot of liquidity in oil because it's a liquid
