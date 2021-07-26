@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin : A technical discussion with Kalle Rosenbaum 
+date: 2021-07-26 1627325211 
+categories: reddit 
+--- 
+https://redd.it/os584s
