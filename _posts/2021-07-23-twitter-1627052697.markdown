@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StriveGreatnes1 
-date: 2021-07-23 08:04:57 
-categories: twitter 
---- 
-@OddStockTrader Don't know you but, wish you a speedy recovery!
