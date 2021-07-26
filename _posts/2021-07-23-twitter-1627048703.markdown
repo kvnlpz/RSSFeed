@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @breakingthemark 
-date: 2021-07-23 06:58:23 
-categories: twitter 
---- 
-@nope_its_lily @quantian1 I'm still working on my opinion.
-
-https://t.co/C5ewgDACuN
