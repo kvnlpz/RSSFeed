@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shortylong99 
-date: 2021-07-23 16:48:41 
-categories: twitter 
---- 
-@nope_its_lily Hey Lily, am I able to see historical data with the nope subscription? i.e. I cannot see the nope chart for these dates.
