@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 15:37:01 
-categories: twitter 
---- 
-@InstAllocator @quantian1 @joelmcohen @DeadLiftCapital i aspire to reach this level one day
