@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @UR_aTrader 
-date: 2021-07-23 09:31:36 
-categories: twitter 
---- 
-@InvestorsLive Trying to understand what i did wrong. I got in at 2.12
