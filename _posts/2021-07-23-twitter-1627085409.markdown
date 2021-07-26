@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_KathC26_ 
-date: 2021-07-23 17:10:09 
-categories: twitter 
---- 
-RT @Steven1_994: Monthly Stat Report Released - https://t.co/htxeusuiE6
