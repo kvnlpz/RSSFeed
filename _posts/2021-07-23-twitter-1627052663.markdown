@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 08:04:23 
-categories: twitter 
---- 
-I don't have 10 year track since I wasn't born yet 10 years ago
