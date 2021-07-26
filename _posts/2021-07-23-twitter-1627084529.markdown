@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-23 16:55:29 
-categories: twitter 
---- 
-@elLuckyLuciano try to be positive, look at the event and the price
