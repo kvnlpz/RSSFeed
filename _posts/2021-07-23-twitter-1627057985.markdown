@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wannnel 
-date: 2021-07-23 09:33:05 
-categories: twitter 
---- 
-@InvestorsLive you posted the same chart twice...oh wait
