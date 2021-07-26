@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SimplyUpTrend 
-date: 2021-07-23 11:53:00 
-categories: twitter 
---- 
-@timothysykes @karmagawa Congrats! Great stuff!
