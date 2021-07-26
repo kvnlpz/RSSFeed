@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sbespn 
-date: 2021-07-23 13:58:01 
-categories: twitter 
---- 
-@alphatrends I might need to start learning to trade short squeeze plays in the $ES_F. Once they get going every sh… https://t.co/PNVUQOKusT
