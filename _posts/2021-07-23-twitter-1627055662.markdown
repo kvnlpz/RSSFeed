@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mistermasters 
-date: 2021-07-23 08:54:22 
-categories: twitter 
---- 
-@RayTL_ Do you still buy if there is low volume?
-Thx
