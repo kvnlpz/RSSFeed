@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vervipul 
-date: 2021-07-23 11:15:46 
-categories: twitter 
---- 
-RT @wiseconnector: Successful people are not those who never fail.
-
-Successful people are those who never give up.
