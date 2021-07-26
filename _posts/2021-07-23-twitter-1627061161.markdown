@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bonecondor 
-date: 2021-07-23 10:26:01 
-categories: twitter 
---- 
-@nope_its_lily lol yea i can do that np
