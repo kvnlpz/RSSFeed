@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CarpeDiem010101 
-date: 2021-07-23 16:43:02 
-categories: twitter 
---- 
-@timothysykes Stop yelling
