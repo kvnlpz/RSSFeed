@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-23 12:56:49 
-categories: twitter 
---- 
-@Alexey_Boogrow @SoccerMomTrades a stable downtrend...
