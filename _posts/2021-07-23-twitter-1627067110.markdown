@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yoshiefuruhashi 
-date: 2021-07-23 12:05:10 
-categories: twitter 
---- 
-RT @nope_its_lily: also 9/2/2020 lel https://t.co/8wOfTivDMu
