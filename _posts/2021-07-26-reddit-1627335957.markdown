@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Do stop limits on options trigger on the bid or ask price? 
+date: 2021-07-26 1627335957 
+categories: reddit 
+--- 
+https://redd.it/os8x1c
