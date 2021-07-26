@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BigAAPLtrader 
-date: 2021-07-23 11:23:16 
-categories: twitter 
---- 
-@InvestorsLive @TradeHawk 2s up now $NAOV
