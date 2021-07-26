@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-23 07:27:03 
-categories: twitter 
---- 
-$SCKT did they just realize it was a one time gain?
