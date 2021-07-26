@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mark14093264 
-date: 2021-07-23 10:22:08 
-categories: twitter 
---- 
-RT @smbcapital: @mikebellafiore, Co-Founder of SMB Capital, a proprietary trading firm in NYC, on what is different about elite traders.  F…
