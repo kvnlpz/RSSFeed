@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WallstreetSign 
-date: 2021-07-23 08:21:20 
-categories: twitter 
---- 
-@timothysykes
