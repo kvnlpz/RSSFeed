@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @acityinohio 
-date: 2021-07-23 08:06:28 
-categories: twitter 
---- 
-@nope_its_lily anytime real Lily!
