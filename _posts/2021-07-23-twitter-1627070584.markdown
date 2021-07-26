@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BenJacobPotts 
-date: 2021-07-23 13:03:04 
-categories: twitter 
---- 
-@nope_its_lily Correct me if I'm wrong but didn't you use NOPE to predict intraday reversals? What conclusions do w… https://t.co/umcFO7EnuU
