@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeDubyk 
-date: 2021-07-23 10:39:46 
-categories: twitter 
---- 
-@nope_its_lily @Bonecondor Lol I asked my broker if there was a way to limit my futures trades to 2 a day once. The… https://t.co/sKOweeodo6
