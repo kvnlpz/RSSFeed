@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @justtradin 
-date: 2021-07-23 12:11:52 
-categories: twitter 
---- 
-@nope_its_lily Bless the virgin in the volcano https://t.co/NCt7eLBU19
