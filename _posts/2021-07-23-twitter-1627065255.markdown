@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeShafman 
-date: 2021-07-23 11:34:15 
-categories: twitter 
---- 
-@TradeHawk Only up a couple hundred % since your alert!
