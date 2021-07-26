@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @proteinshakes92 
-date: 2021-07-23 15:36:26 
-categories: twitter 
---- 
-@InvestorsLive Probably amplify them
