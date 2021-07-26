@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @raygachette 
+date: 2021-07-26 06:13:45 
+categories: twitter 
+--- 
+RT @alphatrends: Earnings this week https://t.co/7hY9wtDNNg
