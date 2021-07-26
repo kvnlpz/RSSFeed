@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sightrenewed 
-date: 2021-07-23 11:47:58 
-categories: twitter 
---- 
-@nope_its_lily Sounds a little bit like "$BTC will get to $400k by EOY" back in March.
