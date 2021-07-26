@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-23 12:07:51 
-categories: twitter 
---- 
-@damianmitu then you need a new broker. hod is 2.72 :)
