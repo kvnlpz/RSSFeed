@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @millermusing 
-date: 2021-07-23 13:35:22 
-categories: twitter 
---- 
-RT @nope_its_lily: Might take off for the weekend to clear my head for new gig.
-Some closing thoughts:
-1. Usually when we see this level of…
