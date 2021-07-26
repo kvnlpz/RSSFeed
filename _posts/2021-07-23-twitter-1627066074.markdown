@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Canyonaro 
-date: 2021-07-23 11:47:54 
-categories: twitter 
---- 
-@nope_its_lily @sanntrades https://t.co/jfkpTLuLYs
