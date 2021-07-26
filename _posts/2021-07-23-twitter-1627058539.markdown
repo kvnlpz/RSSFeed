@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-23 09:42:19 
-categories: twitter 
---- 
-$SNAP on pace for &gt;100M in volume will be highest since last big volume gap up in October 2020 which was 254M.
