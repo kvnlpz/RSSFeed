@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lance_saville 
-date: 2021-07-23 12:48:33 
-categories: twitter 
---- 
-@alphatrends I respond with snarky comments sometimes, yes.
