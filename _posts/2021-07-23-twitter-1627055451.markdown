@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DumpForex 
-date: 2021-07-23 08:50:51 
-categories: twitter 
---- 
-RT @MikeBellafiore: Some stocks just become "trading vehicles".  Trade them as "trading vehicles".
