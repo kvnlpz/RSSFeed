@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-23 12:39:32 
-categories: twitter 
---- 
-@SoccerMomTrades I hope you sold those dogs
