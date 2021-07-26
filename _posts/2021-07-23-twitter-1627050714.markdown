@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @highofUSD 
-date: 2021-07-23 07:31:54 
-categories: twitter 
---- 
-@alphatrends How to trade 101
-
--Buy every dip into support until it doesn’t work
