@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mattbrennan 
-date: 2021-07-23 09:26:52 
-categories: twitter 
---- 
-@RayTL_ @tradingview Ray, does TL still have plans to release a RSNHBP TOS scan?
