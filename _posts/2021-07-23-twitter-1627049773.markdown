@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-23 07:16:13 
-categories: twitter 
---- 
-Note the similarity between $SPCE and $CEMI now?
-
-We'll read about it in their next filing.
