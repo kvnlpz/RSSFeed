@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @truleuneek 
-date: 2021-07-23 07:25:14 
-categories: twitter 
---- 
-@muddywatersre @threadreaderapp unroll please
