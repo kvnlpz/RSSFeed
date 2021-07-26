@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fjnavarro951 
-date: 2021-07-23 07:45:44 
-categories: twitter 
---- 
-@InvestorsLive I’m waiting for the pun on $snap
