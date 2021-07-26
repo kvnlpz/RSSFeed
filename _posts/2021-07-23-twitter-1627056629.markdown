@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brrrzooka 
-date: 2021-07-23 09:10:29 
-categories: twitter 
---- 
-@nope_its_lily I heard the dark pool whisper price is $69,420
