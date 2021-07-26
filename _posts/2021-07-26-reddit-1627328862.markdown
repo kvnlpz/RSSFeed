@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Does the extrinsic value of an ITM call decrease when the underlying goes up? 
+date: 2021-07-26 1627328862 
+categories: reddit 
+--- 
+https://redd.it/os6gz5
