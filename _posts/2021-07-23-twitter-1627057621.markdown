@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @amsdz 
-date: 2021-07-23 09:27:01 
-categories: twitter 
---- 
-RT @InvestorsLive: $IGC for your viewing pleasure ⬇ https://t.co/rHn7jEO1GK
