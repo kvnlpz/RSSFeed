@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PJ_Matlock 
-date: 2021-07-23 13:56:48 
-categories: twitter 
---- 
-@TradeHawk Slayed
