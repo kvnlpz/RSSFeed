@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Whale_FallCaptl 
-date: 2021-07-23 10:15:00 
-categories: twitter 
---- 
-@nope_its_lily *whispers* my alpha is excessive beta
