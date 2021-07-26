@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @acityinohio 
-date: 2021-07-23 08:05:07 
-categories: twitter 
---- 
-@nope_its_lily congrats on making Forbes’ Lilys In Between 40,000 and 50,000 this year
