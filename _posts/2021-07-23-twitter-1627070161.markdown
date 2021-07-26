@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 12:56:01 
-categories: twitter 
---- 
-End of day NOPE hit a new all-time record today (I measure it at 3:45) of +193. There is nothing wrong with this.
