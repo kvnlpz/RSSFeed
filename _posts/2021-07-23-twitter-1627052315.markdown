@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheCloudSaint 
-date: 2021-07-23 07:58:35 
-categories: twitter 
---- 
-@nope_its_lily @volmagorov @JessicaNutt96 This is my favorite tweet today
