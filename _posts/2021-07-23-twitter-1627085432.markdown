@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JellyN2Jam 
-date: 2021-07-23 17:10:32 
-categories: twitter 
---- 
-RT @sosofancy: Excellent work by the @NewYorker to explain Sustainable and "ESG" ETFs to the general public 😂 https://t.co/VfuxC4CfaT
