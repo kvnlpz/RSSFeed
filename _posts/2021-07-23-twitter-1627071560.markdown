@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BeesterGee 
-date: 2021-07-23 13:19:20 
-categories: twitter 
---- 
-@nope_its_lily That's all Greek to me
