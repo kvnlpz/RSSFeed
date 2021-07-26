@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cryptkill 
-date: 2021-07-23 12:29:00 
-categories: twitter 
---- 
-@RayTL_ @SunriseTrader Should we record our good trades and keep them to look back on when things get bad?
