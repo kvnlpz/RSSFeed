@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @petershk 
-date: 2021-07-23 07:45:27 
-categories: twitter 
---- 
-@nope_its_lily Wait till there's a dislike button and the race to min/max dislikes :P
