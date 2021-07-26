@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidGoldbergFL 
-date: 2021-07-23 09:32:18 
-categories: twitter 
---- 
-@nope_its_lily @michaellistman Wait I thought by now you would have unlimited data and access ?
