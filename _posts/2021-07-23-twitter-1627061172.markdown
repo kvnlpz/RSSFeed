@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 10:26:12 
-categories: twitter 
---- 
-RT @StevenMandrapa: NOPE of 225, @nope_its_lily I don't recall ever seeing it this high.
