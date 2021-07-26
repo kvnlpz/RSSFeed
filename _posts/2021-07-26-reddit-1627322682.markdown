@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Who pays the other side of lightning channel fees? 
+date: 2021-07-26 1627322682 
+categories: reddit 
+--- 
+https://redd.it/os4cqb
