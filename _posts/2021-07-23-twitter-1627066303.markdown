@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 11:51:43 
-categories: twitter 
---- 
-if it goes up to $445 here before falling down at least $5 I'll do it and share it
