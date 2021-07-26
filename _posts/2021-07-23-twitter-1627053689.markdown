@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-23 08:21:29 
-categories: twitter 
---- 
-@PatternsWizard that's true!
