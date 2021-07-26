@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-23 09:35:42 
-categories: twitter 
---- 
-Yeah or maybe not do that.
