@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ETH staking platform breaches over 200,000 validators. Presently, 6.6 million ETH is being staked. The total value is equivalent to 14 billion USD of locked ETH. 
+date: 2021-07-26 1627306713 
+categories: reddit 
+--- 
+https://redd.it/oryw23
