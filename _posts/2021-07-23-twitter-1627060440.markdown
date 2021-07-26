@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-23 10:14:00 
-categories: twitter 
---- 
-RT @dougboneparth: In 20 years, Olympic athletes won’t get gold medals. They will get decentralized tokens instead.
