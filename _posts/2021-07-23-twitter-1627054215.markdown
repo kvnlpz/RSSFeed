@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-23 08:30:15 
-categories: twitter 
---- 
-Lots of weeklies show this sort of 3 or 4 bar combo - any precedents that come to mind? https://t.co/ExVOBrW2Sw
