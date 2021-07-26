@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mik_Huddie 
-date: 2021-07-23 09:31:26 
-categories: twitter 
---- 
-RT @modern_rock: @EpicaCapital Hmmmm https://t.co/y8LfbDLtu8
