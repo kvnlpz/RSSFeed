@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @matlal84 
-date: 2021-07-23 07:31:57 
-categories: twitter 
---- 
-@timothysykes $EMO.V 📈🔥
