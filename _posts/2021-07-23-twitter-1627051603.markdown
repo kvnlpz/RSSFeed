@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheAnalytic 
-date: 2021-07-23 07:46:43 
-categories: twitter 
---- 
-RT @muddywatersre: Yup - the whole “I’m the biggest of all” defense. https://t.co/V5UTFIx0vE
