@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zkschell 
-date: 2021-07-23 10:03:44 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause Symbol $TFAC taken?
