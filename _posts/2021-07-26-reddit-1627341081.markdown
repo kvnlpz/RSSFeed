@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Thorchain, a popular defi protocol, has been compromised twice in the last two weeks, resulting in losses of over $10,000,000. The hacker responsible for the latest exploit left behind a message detailing the measures that should be undertaken to protect users 
+date: 2021-07-26 1627341081 
+categories: reddit 
+--- 
+https://redd.it/osal4x
