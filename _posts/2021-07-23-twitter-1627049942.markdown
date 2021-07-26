@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EliRadulescu 
-date: 2021-07-23 07:19:02 
-categories: twitter 
---- 
-@OddStockTrader Not related to your workouts possibly?
