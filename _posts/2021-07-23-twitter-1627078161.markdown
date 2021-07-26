@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-23 15:09:21 
-categories: twitter 
---- 
-@dennisc230 That’s a bag full 😂
