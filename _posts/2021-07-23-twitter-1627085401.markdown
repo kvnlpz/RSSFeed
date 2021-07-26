@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_KathC26_ 
-date: 2021-07-23 17:10:01 
-categories: twitter 
---- 
-RT @Steven1_994: My New Pattern In the Test ( &amp; Runner Analysis ): https://t.co/ZcZH7vJQ3H via @YouTube
