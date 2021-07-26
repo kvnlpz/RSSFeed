@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jpagp3 
-date: 2021-07-23 13:53:28 
-categories: twitter 
---- 
-@nope_its_lily You too, stay safe.
