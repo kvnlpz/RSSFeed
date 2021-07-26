@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trinh_pham13 
-date: 2021-07-23 12:21:53 
-categories: twitter 
---- 
-@nope_its_lily I don’t know, Lily, this guy works at a top-5 hedge fund. https://t.co/QEq2JNnirc
