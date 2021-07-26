@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vwapnation 
-date: 2021-07-23 16:55:18 
-categories: twitter 
---- 
-RT @alphatrends: this is a great deal!
-
-I will be there and so should you https://t.co/dkLQuW6LPA
