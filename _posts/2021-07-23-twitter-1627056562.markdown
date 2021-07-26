@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Pigeonomics 
-date: 2021-07-23 09:09:22 
-categories: twitter 
---- 
-@nope_its_lily Putting $FB and “meme” in the same sentence gets me real excited Lily
