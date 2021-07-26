@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TrevorSmithCTA 
-date: 2021-07-23 12:11:56 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/nUsbZQv6cc
