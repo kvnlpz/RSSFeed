@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheAnalytic 
-date: 2021-07-23 07:46:32 
-categories: twitter 
---- 
-@muddywatersre tweet done, short position closed, Mr Block heads to the bar... https://t.co/dbRyqRrxBh
