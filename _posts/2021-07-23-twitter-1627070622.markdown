@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-23 13:03:42 
-categories: twitter 
---- 
-Adjusted the main show, as some might say, on SPX is around 22 million notional call delta surplus today, which tra… https://t.co/AlaZKoGT5F
