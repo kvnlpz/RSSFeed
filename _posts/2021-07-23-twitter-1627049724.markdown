@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MCassICT 
-date: 2021-07-23 07:15:24 
-categories: twitter 
---- 
-@RayTL_ Can you be more specific as to what you mean by “respond”?
