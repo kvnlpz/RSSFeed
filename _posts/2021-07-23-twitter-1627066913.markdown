@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bid_Slap 
-date: 2021-07-23 12:01:53 
-categories: twitter 
---- 
-RT @RayTL_: A stock is either working for you or you are looking for a reason to hold it just in case it works. Former is important when pe…
