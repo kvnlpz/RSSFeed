@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradeHawk 
-date: 2021-07-23 10:01:29 
-categories: twitter 
---- 
-$NAOV NanoVibronix gets Australian Therapeutic Goods Administration approval for its UroShield system. https://t.co/QW0nw045TY
