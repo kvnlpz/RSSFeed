@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ProudFOG 
-date: 2021-07-23 08:16:25 
-categories: twitter 
---- 
-@InvestorsLive Means its not going anywhere😂
