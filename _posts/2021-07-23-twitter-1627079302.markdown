@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SnyderCapital 
-date: 2021-07-23 15:28:22 
-categories: twitter 
---- 
-RT @InvestorsLive: Would a bigger account solve your problems? 💰🤔 https://t.co/dmK0Sm8uOz
