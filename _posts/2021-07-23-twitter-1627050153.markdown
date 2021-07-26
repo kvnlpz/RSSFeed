@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HizonBernie 
-date: 2021-07-23 07:22:33 
-categories: twitter 
---- 
-@InvestorsLive Thoughts on another bounce?
