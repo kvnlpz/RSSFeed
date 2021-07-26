@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xFarms 
-date: 2021-07-23 15:36:57 
-categories: twitter 
---- 
-@nope_its_lily @Uniswap @tarunchitra ahem, that's Uniswap LABS - TOTALLY different entity than Uniswap, Mr. regulator ser.
