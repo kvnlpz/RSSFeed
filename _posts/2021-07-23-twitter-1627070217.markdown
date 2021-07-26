@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sxerriii 
-date: 2021-07-23 12:56:57 
-categories: twitter 
---- 
-@nope_its_lily Very normal for this paradigm.
