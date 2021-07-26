@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Austinedai 
-date: 2021-07-23 14:11:04 
-categories: twitter 
---- 
-RT @modern_rock: Special FREE Public Webinar today 2pm market time
-
-Special guest: CEO of @cobra_trading who will be on to talk about Cobra…
