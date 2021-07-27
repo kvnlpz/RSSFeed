@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Doubling 
-date: 2021-07-24 1627117998 
-categories: reddit 
---- 
-https://redd.it/oqmkbd
