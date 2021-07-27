@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Local exchanges don't provide seed phrases, but they keep adopting new coins once in a while 
+date: 2021-07-27 1627382257 
+categories: reddit 
+--- 
+https://redd.it/oskclu
