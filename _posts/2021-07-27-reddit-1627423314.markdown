@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: MetaMask send 0 funds, transaction says -0 
+date: 2021-07-27 1627423314 
+categories: reddit 
+--- 
+https://redd.it/oswajm
