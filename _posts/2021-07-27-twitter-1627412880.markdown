@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JarreDiezInc 
+date: 2021-07-27 12:08:00 
+categories: twitter 
+--- 
+RT @super_trades: I learned my lesson on China stocks during The Great Hustle years.
