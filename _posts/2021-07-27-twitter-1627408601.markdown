@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-27 10:56:41 
+categories: twitter 
+--- 
+@pansareV Err sort of. The main attraction is the straddle swap, which gives you a net short vega and long gamma po… https://t.co/b45EJ9Dtpb
