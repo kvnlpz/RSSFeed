@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why do Bitcoin ATMs don't reflect current Bitcoin price 
+date: 2021-07-26 1627355782 
+categories: reddit 
+--- 
+https://redd.it/osesv4
