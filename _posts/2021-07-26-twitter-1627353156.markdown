@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @coloradotravis 
+date: 2021-07-26 19:32:36 
+categories: twitter 
+--- 
+@nope_its_lily Yep
