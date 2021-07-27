@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stock scanner 
-date: 2021-07-24 1627138552 
-categories: reddit 
---- 
-https://redd.it/oqrl76
