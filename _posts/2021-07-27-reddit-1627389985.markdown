@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Hmmm…. Why there is difference in the price of the candlesticks? The one with higher price is with opened short position 
+date: 2021-07-27 1627389985 
+categories: reddit 
+--- 
+https://redd.it/osm51b
