@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Sentiment Analysis of r/cc during yesterday's BTC rise 
+date: 2021-07-26 1627346681 
+categories: reddit 
+--- 
+https://redd.it/osc9c8
