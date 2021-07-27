@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why some comments show the number of karma and account age while others don't? 
+date: 2021-07-27 1627374579 
+categories: reddit 
+--- 
+https://redd.it/ositwa
