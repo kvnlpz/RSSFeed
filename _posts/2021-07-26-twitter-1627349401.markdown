@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @RichardMoglen 
+date: 2021-07-26 18:30:01 
+categories: twitter 
+--- 
+RT @RayTL_: Recorded a great video with @RichardMoglen today on $GRWG analyzing its 2020 run. We discussed entry tactics, determining poten…
