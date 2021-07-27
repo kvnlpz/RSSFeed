@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: "Today, if a user spends an output right in the block that it unlocks, and the output was originally created in a block that has fewer than 100 outputs total in it, their real output would be clearly identifiable in the ring." Significant decoy selection bug found and persists today. 
+date: 2021-07-26 1627351385 
+categories: reddit 
+--- 
+https://redd.it/osdmh5
