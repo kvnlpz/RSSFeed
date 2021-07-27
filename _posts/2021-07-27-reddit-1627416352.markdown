@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Using the DOM to catch trapped traders. 
+date: 2021-07-27 1627416352 
+categories: reddit 
+--- 
+https://redd.it/osu4y2
