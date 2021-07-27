@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-27 11:05:10 
+categories: twitter 
+--- 
+@TheSpeculator0 Thanks for the info!
+Probably should get around to modeling it vs eyeballing it on.
