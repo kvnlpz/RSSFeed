@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @5BoroDigital 
+date: 2021-07-27 15:01:02 
+categories: twitter 
+--- 
+@nope_its_lily Send it to Bobby Pellegrino
