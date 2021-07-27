@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Winston_Trades 
+date: 2021-07-27 13:43:00 
+categories: twitter 
+--- 
+@timothysykes haha true
