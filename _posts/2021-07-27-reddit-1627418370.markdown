@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ferrum and Chainlink Embark on Multifaceted Integration, Starting with Chainlink VRF 
+date: 2021-07-27 1627418370 
+categories: reddit 
+--- 
+https://redd.it/osuq2s
