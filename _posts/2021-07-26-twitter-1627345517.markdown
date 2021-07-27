@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DrFrosty14 
+date: 2021-07-26 17:25:17 
+categories: twitter 
+--- 
+@timothysykes Curious what you think of Heikin-Ashi candles for trading penny stocks? Started using these for large… https://t.co/R2xgghvVwt
