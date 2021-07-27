@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Blocksec Incidents -- A curated list of blockchain security incidents including exchange hacks, Defi compromises, blockchain attacks, and others /openblocksec (Great resource for devs learning Solidity!) 
+date: 2021-07-27 1627409484 
+categories: reddit 
+--- 
+https://redd.it/oss23c
