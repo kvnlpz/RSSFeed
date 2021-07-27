@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cool to hear today that Blockstream is working on CoinJoin software. I'd say let a thousand flowers bloom when it comes to fixing tainted coins and there are too few companies out there creating easy to use frameworks for people to bring their coins to for evading chain analysis 
+date: 2021-07-27 1627372218 
+categories: reddit 
+--- 
+https://redd.it/osidv6
