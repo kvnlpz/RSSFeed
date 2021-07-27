@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Restoring a Blockstream Green wallet (using another wallet) 
+date: 2021-07-26 1627356857 
+categories: reddit 
+--- 
+https://redd.it/osf2tj
