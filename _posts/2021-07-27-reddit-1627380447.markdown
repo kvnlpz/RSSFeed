@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Hardware wallet for specific coins 
+date: 2021-07-27 1627380447 
+categories: reddit 
+--- 
+https://redd.it/osjzkm
