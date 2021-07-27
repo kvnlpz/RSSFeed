@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A brief analysis of top 500 posts from the last 24 hours in terms of upvotes and comments 
+date: 2021-07-27 1627410583 
+categories: reddit 
+--- 
+https://redd.it/osse4q
