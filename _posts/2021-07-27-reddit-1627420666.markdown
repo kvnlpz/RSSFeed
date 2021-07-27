@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Reddit tipping doesn't work properly on new Reddit. 
+date: 2021-07-27 1627420666 
+categories: reddit 
+--- 
+https://redd.it/osvfrr
