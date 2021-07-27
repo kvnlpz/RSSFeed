@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ETH London Fork and EIP 1559 implications 
+date: 2021-07-27 1627377312 
+categories: reddit 
+--- 
+https://redd.it/osjcw8
