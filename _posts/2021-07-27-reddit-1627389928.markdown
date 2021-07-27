@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Lightning Network capacity has crossed 2000 BTC (with 23600 Nodes and 60000 Channels) 
+date: 2021-07-27 1627389928 
+categories: reddit 
+--- 
+https://redd.it/osm4hz
