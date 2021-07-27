@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Core 0.18 transaction stays in memory pool in own coin 
+date: 2021-07-27 1627421640 
+categories: reddit 
+--- 
+https://redd.it/osvril
