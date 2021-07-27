@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-27 12:00:08 
+categories: twitter 
+--- 
+I learned my lesson on China stocks during The Great Hustle years.
