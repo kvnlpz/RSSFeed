@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @RayTL_ 
+date: 2021-07-26 20:00:18 
+categories: twitter 
+--- 
+RT @RichardMoglen: It's great seeing more and more people sharing chart markups.
