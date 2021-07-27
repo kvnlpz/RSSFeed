@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @matthewbayford 
+date: 2021-07-27 10:41:53 
+categories: twitter 
+--- 
+RT @nope_its_lily: To break that down into English:
+- Shorting the farther out ATM straddle on SPX
+- Buying the nearer ATM straddle
+- Hedgi…
