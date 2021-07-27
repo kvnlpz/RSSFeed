@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @UAL_Fan 
+date: 2021-07-27 11:11:53 
+categories: twitter 
+--- 
+@nope_its_lily "Hedging some vega off" meaning you're buying OTM VIX calls, right? Also, best to do so at exactly 0… https://t.co/DS4QS4B9hC
