@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @SpringsCindy 
+date: 2021-07-27 11:20:28 
+categories: twitter 
+--- 
+@timothysykes I will watch your video lesson
