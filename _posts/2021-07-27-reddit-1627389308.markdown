@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What is the difference between Mastering Bitcoin by Andreas Antonopoulos and Programming Bitcoin by Jimmy Song ? 
+date: 2021-07-27 1627389308 
+categories: reddit 
+--- 
+https://redd.it/oslyt7
