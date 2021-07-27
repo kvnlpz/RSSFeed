@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-27 10:55:12 
+categories: twitter 
+--- 
+@TheSpeculator0 VIX calls + short delta meant to hedge it in case vega blows up tho
