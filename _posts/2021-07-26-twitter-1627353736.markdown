@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ScottTotally 
+date: 2021-07-26 19:42:16 
+categories: twitter 
+--- 
+@nope_its_lily https://t.co/QMSbHyLZXc
