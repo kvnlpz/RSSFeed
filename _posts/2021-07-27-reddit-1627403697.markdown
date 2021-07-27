@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What indicators would you need to build a strat in a trading bot 
+date: 2021-07-27 1627403697 
+categories: reddit 
+--- 
+https://redd.it/osqb8s
