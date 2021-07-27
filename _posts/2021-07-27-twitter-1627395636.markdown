@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @OpenOutcrier 
+date: 2021-07-27 07:20:36 
+categories: twitter 
+--- 
+RT @markflowchatter: $ATVI spanked on this report
+
+According to a senior developer at Activision Blizzard, practically all work on World of…
