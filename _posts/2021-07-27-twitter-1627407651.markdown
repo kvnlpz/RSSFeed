@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @VolQuant 
+date: 2021-07-27 10:40:51 
+categories: twitter 
+--- 
+@nope_its_lily don't give the recipe for the secret sauce of vol trading
