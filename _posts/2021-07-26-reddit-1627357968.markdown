@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Creating my own community coin on cardano 
+date: 2021-07-26 1627357968 
+categories: reddit 
+--- 
+https://redd.it/osfd9g
