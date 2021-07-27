@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PhysiqueBrah 
+date: 2021-07-27 08:30:32 
+categories: twitter 
+--- 
+RT @alphatrends: this should answer a lot of questions I receive about the CMT program
