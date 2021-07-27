@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EthSign, a decentralized application that records signed electronic documents on the Ethereum blockchain, raises seed funding 
+date: 2021-07-26 1627349003 
+categories: reddit 
+--- 
+https://redd.it/oscxza
