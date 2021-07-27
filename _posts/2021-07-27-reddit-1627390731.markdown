@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: [UPDATE] Cake Wallet v4.2.4 now with Coin Control for BTC, Unstoppable Domains for BTC and other fixes 
+date: 2021-07-27 1627390731 
+categories: reddit 
+--- 
+https://redd.it/osmc4m
