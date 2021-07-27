@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is seed phrase essentially the source of the on chain wallet? 
+date: 2021-07-26 1627367621 
+categories: reddit 
+--- 
+https://redd.it/oshi7z
