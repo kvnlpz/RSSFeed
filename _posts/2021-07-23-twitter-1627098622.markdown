@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kmvanh 
-date: 2021-07-23 20:50:22 
-categories: twitter 
---- 
-@alphatrends Stayed there over Spring Break. Nice hotel.
