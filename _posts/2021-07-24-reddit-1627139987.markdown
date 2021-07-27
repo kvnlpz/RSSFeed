@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A practical situation/example where Qtum is being used by a company? 
-date: 2021-07-24 1627139987 
-categories: reddit 
---- 
-https://redd.it/oqs1dj
