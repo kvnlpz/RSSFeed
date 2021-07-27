@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-26 19:04:12 
+categories: twitter 
+--- 
+@volatilitysmile @ConejoCapital ugh, I knew I shouldn't have used L-BFGS
