@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-27 11:53:07 
+categories: twitter 
+--- 
+oops, webinar, not a book
