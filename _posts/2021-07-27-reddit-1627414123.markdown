@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PSA: Never share your seed phrase with anyone! 
+date: 2021-07-27 1627414123 
+categories: reddit 
+--- 
+https://redd.it/ostgqb
