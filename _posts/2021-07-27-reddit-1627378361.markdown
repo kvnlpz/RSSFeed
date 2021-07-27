@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Monero: A rather significant bug has been spotted in Monero's decoy selection algorithm that may impact your transaction's privacy. 
+date: 2021-07-27 1627378361 
+categories: reddit 
+--- 
+https://redd.it/osib5l
