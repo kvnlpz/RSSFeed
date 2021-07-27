@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What is EIP-1559? is it the only upgrade coming with London all explained. 
+date: 2021-07-27 1627391673 
+categories: reddit 
+--- 
+https://redd.it/osmlfj
