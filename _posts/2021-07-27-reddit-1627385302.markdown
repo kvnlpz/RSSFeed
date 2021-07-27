@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Sorare's L2 scaling solution with Starkware is LIVE 
+date: 2021-07-27 1627385302 
+categories: reddit 
+--- 
+https://redd.it/osl0ac
