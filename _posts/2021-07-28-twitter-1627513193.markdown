@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tenmike 
+date: 2021-07-28 15:59:53 
+categories: twitter 
+--- 
+@super_trades #supermom
