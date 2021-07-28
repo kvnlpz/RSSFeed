@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-28 10:37:33 
+categories: twitter 
+--- 
+$TQQQ red
