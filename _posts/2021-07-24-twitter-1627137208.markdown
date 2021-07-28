@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @daniel_sacchi 
-date: 2021-07-24 07:33:28 
-categories: twitter 
---- 
-@alphatrends I'm holding through earnings.
