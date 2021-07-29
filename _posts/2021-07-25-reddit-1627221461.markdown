@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Explaining Like You're Five (ELI5) the 3 generations of Cryptocurrency (BTC, Ethereum, ADA). 
-date: 2021-07-25 1627221461 
-categories: reddit 
---- 
-https://redd.it/orc0wq
