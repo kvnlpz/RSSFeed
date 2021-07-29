@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Difference between a coin and a token for beginners. 
-date: 2021-07-25 1627230509 
-categories: reddit 
---- 
-https://redd.it/orep4p
