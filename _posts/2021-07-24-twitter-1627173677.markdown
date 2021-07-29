@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-24 17:41:17 
-categories: twitter 
---- 
-RT @RayTL_: Time spent away from the “screens” (including your phones) is almost if not more important than the time you spent on the scree…
