@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @John_C_Caputo 
-date: 2021-07-24 21:46:48 
-categories: twitter 
---- 
-@timothysykes Super Psyched
