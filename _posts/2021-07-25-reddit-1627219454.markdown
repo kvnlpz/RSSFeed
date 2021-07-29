@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I’d like to become a validator on the cosmos blockchain. Where can i find a guide/tutorial for setting up a node? 
-date: 2021-07-25 1627219454 
-categories: reddit 
---- 
-https://redd.it/orbhoz
