@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano Rumor Rundown July 25, 2021 
-date: 2021-07-25 1627205944 
-categories: reddit 
---- 
-https://redd.it/or679r
