@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Darin_T80 
-date: 2021-07-24 17:45:52 
-categories: twitter 
---- 
-@nope_its_lily Do it.
