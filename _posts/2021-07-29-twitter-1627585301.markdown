@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @COghenero 
+date: 2021-07-29 12:01:41 
+categories: twitter 
+--- 
+RT @InvestorsLive: How many times have you typed in $SRPT instead of $SPRT ? I'm on at least 7.
