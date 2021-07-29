@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-24 19:48:47 
-categories: twitter 
---- 
-RT @RayTL_: Listen to Price. Not your ego.
