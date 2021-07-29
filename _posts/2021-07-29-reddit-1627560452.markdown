@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: TIL that although you pay taxes on the money you put into a self directed IRA, the investment earnings in the account are tax-free, even for Litecoin 
+date: 2021-07-29 1627560452 
+categories: reddit 
+--- 
+https://redd.it/otw73n
