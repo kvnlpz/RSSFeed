@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Adrian_H 
-date: 2021-07-24 21:34:36 
-categories: twitter 
---- 
-@nope_its_lily Notebooks turn into spaghetti; just write functions in a module to avoid embarrassment
