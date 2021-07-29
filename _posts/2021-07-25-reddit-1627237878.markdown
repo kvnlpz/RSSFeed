@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If crypto volatility really comes down to percent moves, why does it matter if the price per coin is low? 
-date: 2021-07-25 1627237878 
-categories: reddit 
---- 
-https://redd.it/orh1h6
