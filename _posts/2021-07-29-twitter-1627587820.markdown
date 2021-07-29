@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @mattmcd 
+date: 2021-07-29 12:43:40 
+categories: twitter 
+--- 
+RT @VolQuant: A beginners guid to FX derivatives market
+
+FX derivatives market is generaly overlooked in twitter, probably because it's les…
