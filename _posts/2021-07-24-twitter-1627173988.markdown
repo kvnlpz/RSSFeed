@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VXO150 
-date: 2021-07-24 17:46:28 
-categories: twitter 
---- 
-@nope_its_lily Sorry have to fix it https://t.co/Fwjlv1oVsf
