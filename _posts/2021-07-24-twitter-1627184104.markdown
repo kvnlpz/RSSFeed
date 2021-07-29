@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wachumero 
-date: 2021-07-24 20:35:04 
-categories: twitter 
---- 
-@nope_its_lily @PepeXBT 7
