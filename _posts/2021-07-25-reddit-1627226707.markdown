@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain, Smart Cities and Energy 
-date: 2021-07-25 1627226707 
-categories: reddit 
---- 
-https://redd.it/ordjew
