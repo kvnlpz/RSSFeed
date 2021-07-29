@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monero Liquidity Problem - How to Avert a Crisis 
-date: 2021-07-25 1627235293 
-categories: reddit 
---- 
-https://redd.it/org7v7
