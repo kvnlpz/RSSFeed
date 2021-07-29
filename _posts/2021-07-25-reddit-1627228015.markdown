@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: L1 to L2 MOONS migration is COMPLETE !!! 
-date: 2021-07-25 1627228015 
-categories: reddit 
---- 
-https://redd.it/ordx8b
