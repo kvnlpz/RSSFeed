@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @onis_csadi 
+date: 2021-07-29 08:07:50 
+categories: twitter 
+--- 
+@super_trades Here's one of mine.
+NO entering core positions when price is far from VWAP. Unless you want to pay mo… https://t.co/4PW4Adc9ah
