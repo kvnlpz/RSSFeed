@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is there an easy way to import how much BTC I hold into Excel from a Coinbase Pro API? 
+date: 2021-07-29 1627601633 
+categories: reddit 
+--- 
+https://redd.it/ou91ty
