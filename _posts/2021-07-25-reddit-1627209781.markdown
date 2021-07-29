@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My best friend is a computer engineer and here was his thoughts on Bitcoin. 
-date: 2021-07-25 1627209781 
-categories: reddit 
---- 
-https://redd.it/or9cq0
