@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Weekly Zcash Discussion - July 25, 2021 - Use this thread for general chatter, basic questions, and if you're new to Zcash 
-date: 2021-07-25 1627210830 
-categories: reddit 
---- 
-https://redd.it/or9k42
