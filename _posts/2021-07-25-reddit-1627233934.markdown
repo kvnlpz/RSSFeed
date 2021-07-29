@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does bitcoins github work? 
-date: 2021-07-25 1627233934 
-categories: reddit 
---- 
-https://redd.it/orfrwj
