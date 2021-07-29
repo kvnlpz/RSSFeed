@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @_super_trade 
+date: 2021-07-29 05:30:56 
+categories: twitter 
+--- 
+RT @super_trades: Nothing in investing is an absolute certainty, whether it be stocks or crypto.
