@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vitalik Buterin: Next Phase of Ethereum (ETH) Adoption Should Go Beyond Making Tokens 
-date: 2021-07-25 1627198501 
-categories: reddit 
---- 
-https://redd.it/or79kt
