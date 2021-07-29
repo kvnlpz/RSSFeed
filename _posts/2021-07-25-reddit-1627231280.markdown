@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mircea Popescu, the millionaire who drowned in Costa Rica leaving in limbo $2 billion in bitcoins 
-date: 2021-07-25 1627231280 
-categories: reddit 
---- 
-https://redd.it/orexpt
