@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZeDdCuLeS 
-date: 2021-07-24 18:30:24 
-categories: twitter 
---- 
-@nope_its_lily If you have a global audience you can add that to the title - Sr. Global Emerging Allocator has a ring to it
