@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mac779 
-date: 2021-07-24 23:37:06 
-categories: twitter 
---- 
-@nope_its_lily He did! He is starting his own mining farm.
