@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yoshiefuruhashi 
-date: 2021-07-24 19:49:19 
-categories: twitter 
---- 
-RT @nope_its_lily: This study is interesting; she linked the paper here. https://t.co/98LJZAzMGH
-A few caveats I can see:
-1) The study was…
