@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Bitcoin rainbow chart 
-date: 2021-07-25 1627214209 
-categories: reddit 
---- 
-https://redd.it/ora8r9
