@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Recaptures the 50-day MA as Twitter Sentiment Turns Bullish 
-date: 2021-07-25 1627202792 
-categories: reddit 
---- 
-https://redd.it/or825h
