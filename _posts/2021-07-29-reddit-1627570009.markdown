@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Osmosis staking shows wrong number in Keplr wallet. 
+date: 2021-07-29 1627570009 
+categories: reddit 
+--- 
+https://redd.it/otyvx4
