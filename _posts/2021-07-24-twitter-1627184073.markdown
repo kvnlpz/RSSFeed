@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrklondike1 
-date: 2021-07-24 20:34:33 
-categories: twitter 
---- 
-@OddStockTrader I’m convinced you said soccer on purpose
