@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: All tether to usd exchanges have a minuim of 20, I want to exchange 13 
-date: 2021-07-25 1627228398 
-categories: reddit 
---- 
-https://redd.it/ore1bc
