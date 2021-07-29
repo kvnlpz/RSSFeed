@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheNOPEScalper 
-date: 2021-07-24 19:20:59 
-categories: twitter 
---- 
-@nope_its_lily You should probably change your Twitter handle to:
-
-"Lily Man of the People Francus"
