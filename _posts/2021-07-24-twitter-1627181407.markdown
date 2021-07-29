@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yoshiefuruhashi 
-date: 2021-07-24 19:50:07 
-categories: twitter 
---- 
-RT @nope_its_lily: Addendum: one thing to note of course is the vascular component of COVID probably/can find some studies leads to microcl…
