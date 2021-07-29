@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Showtime now 
-date: 2021-07-25 1627197953 
-categories: reddit 
---- 
-https://redd.it/or75vi
