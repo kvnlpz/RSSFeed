@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano Aims To Facilitate Users With Smart Contracts. 
-date: 2021-07-25 1627236360 
-categories: reddit 
---- 
-https://redd.it/orgk8s
