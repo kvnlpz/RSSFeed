@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dopamine_uptake 
-date: 2021-07-24 15:52:55 
-categories: twitter 
---- 
-@nope_its_lily Did you notice out of the 13,000 people who suspected they had covid, how many of them bothered to get tested?
