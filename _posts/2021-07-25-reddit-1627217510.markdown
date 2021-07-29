@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Experiences with Stake Pools 
-date: 2021-07-25 1627217510 
-categories: reddit 
---- 
-https://redd.it/orazut
