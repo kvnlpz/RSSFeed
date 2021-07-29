@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @danware 
+date: 2021-07-29 09:54:47 
+categories: twitter 
+--- 
+@timothysykes Lots of learning occurring today for those with little IPO experience.
