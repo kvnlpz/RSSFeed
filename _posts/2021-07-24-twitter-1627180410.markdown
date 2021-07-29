@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kwonseo 
-date: 2021-07-24 19:33:30 
-categories: twitter 
---- 
-@nope_its_lily The problem is, no one really knows what the efficacy was, since we don’t have a control group with… https://t.co/uX1r1FHEhp
