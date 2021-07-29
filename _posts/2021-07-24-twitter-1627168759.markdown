@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JeffGao53059987 
-date: 2021-07-24 16:19:19 
-categories: twitter 
---- 
-@nope_its_lily linalg and calculus are ubiquitous building blocks.
-they make up most of stats which is probably the… https://t.co/PL7sr55fNU
