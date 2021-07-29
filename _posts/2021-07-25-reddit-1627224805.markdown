@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Brave Browser 10 ads/hour 
-date: 2021-07-25 1627224805 
-categories: reddit 
---- 
-https://redd.it/orczd9
