@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should it? 
-date: 2021-07-25 1627202499 
-categories: reddit 
---- 
-https://redd.it/or80ba
