@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GlossyEyes 
-date: 2021-07-24 19:01:29 
-categories: twitter 
---- 
-@nope_its_lily It’s damn good
