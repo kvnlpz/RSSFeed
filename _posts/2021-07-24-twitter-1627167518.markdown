@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sdenny59680798 
-date: 2021-07-24 15:58:38 
-categories: twitter 
---- 
-@timothysykes Nice Tim! Keep it up!
