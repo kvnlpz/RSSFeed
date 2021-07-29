@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where is bitcoin heading now ? 
-date: 2021-07-25 1627223416 
-categories: reddit 
---- 
-https://redd.it/orcksa
