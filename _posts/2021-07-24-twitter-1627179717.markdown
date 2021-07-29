@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NPIRACKS 
-date: 2021-07-24 19:21:57 
-categories: twitter 
---- 
-@nope_its_lily Pairs well with Kominsky method
