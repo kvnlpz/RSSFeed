@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Will public keys be uploaded to any servers with iOS watch only wallets? 
-date: 2021-07-25 1627213769 
-categories: reddit 
---- 
-https://redd.it/ora5ld
