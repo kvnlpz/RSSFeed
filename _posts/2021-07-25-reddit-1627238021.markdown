@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Day trade with margin 
-date: 2021-07-25 1627238021 
-categories: reddit 
---- 
-https://redd.it/orh32f
