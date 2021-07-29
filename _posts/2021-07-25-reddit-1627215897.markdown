@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin can do it? 
-date: 2021-07-25 1627215897 
-categories: reddit 
---- 
-https://redd.it/oramhi
