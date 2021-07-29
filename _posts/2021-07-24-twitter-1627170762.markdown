@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VeryTraumatic 
-date: 2021-07-24 16:52:42 
-categories: twitter 
---- 
-@nope_its_lily What the survivability of Covid?
