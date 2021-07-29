@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: bitcoins 
-date: 2021-07-25 1627215260 
-categories: reddit 
---- 
-https://redd.it/orah69
