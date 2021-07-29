@@ -1,0 +1,11 @@
+--- 
+layout: post 
+title: Tweet by @COghenero 
+date: 2021-07-29 12:01:25 
+categories: twitter 
+--- 
+RT @InvestorsLive: $BVXV here is what spoofing looks like 👇
+
+Note volume was 1,046,539
+
+Now volume is 1,065,344 and the offer is lower (mea…
