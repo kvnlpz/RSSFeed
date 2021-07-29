@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Beware of Compound Interest, Retards 
-date: 2021-07-25 1627216131 
-categories: reddit 
---- 
-https://redd.it/orao2u
