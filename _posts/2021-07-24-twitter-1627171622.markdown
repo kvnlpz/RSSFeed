@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BuildThatWealth 
-date: 2021-07-24 17:07:02 
-categories: twitter 
---- 
-@timothysykes Awesome success story! Seems unreal but very encouraging to hear. Thanks for sharing Tim.
