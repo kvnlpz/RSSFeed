@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum 2.0 hits 200,000 validators securing the network! All this while its not even the main chain yet, and maxis still believe Proof of Stake isn't decentralized. 
-date: 2021-07-25 1627214777 
-categories: reddit 
---- 
-https://redd.it/oraddt
