@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fallondpicks 
-date: 2021-07-24 16:42:14 
-categories: twitter 
---- 
-#sectorbreadth [buy] $XLE &gt; [30] $XLB &gt; [40] $XLF &gt; [50] $XLY &gt; $XLP &gt; [60] $XLK &gt; $XLI &gt; [70] $XLV = $XLU. $SPX bullishness at 52%
