@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrMoCam 
-date: 2021-07-24 22:24:33 
-categories: twitter 
---- 
-RT @MikeBellafiore: Pro tip:
-
-After entry, immediately set an automated stop.  This will reduce your trading stress.  Try it.  It works.…
