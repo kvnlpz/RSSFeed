@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Newbie crypto : Hardware wallet - also staking possible? Or do I need a special wallet for staking? 
-date: 2021-07-25 1627211621 
-categories: reddit 
---- 
-https://redd.it/or9ptl
