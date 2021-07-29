@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Insider allocation and returns 
-date: 2021-07-25 1627232713 
-categories: reddit 
---- 
-https://redd.it/orfe1h
