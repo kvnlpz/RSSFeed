@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin or GTFO 
-date: 2021-07-25 1627228534 
-categories: reddit 
---- 
-https://redd.it/ore2hs
