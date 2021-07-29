@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jo3ee 
-date: 2021-07-24 22:55:08 
-categories: twitter 
---- 
-@nope_its_lily Yeah he did say that
