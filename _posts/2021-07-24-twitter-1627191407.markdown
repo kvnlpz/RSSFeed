@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chart_analyst 
-date: 2021-07-24 22:36:47 
-categories: twitter 
---- 
-@alphatrends Ok the crypto write up is good stuff but I make a better omelette!
