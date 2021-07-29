@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why is gas fees never as low as etherscan.io/gastracker shows? Went to transfer some coin to stake and was over $14 for slow. 
+date: 2021-07-29 1627599317 
+categories: reddit 
+--- 
+https://redd.it/ou8d3b
