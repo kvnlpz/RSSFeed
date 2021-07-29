@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KyleTheBell 
-date: 2021-07-24 16:33:37 
-categories: twitter 
---- 
-RT @G_krupins: $AMZN still looking really good after retesting breakout.  My largest position.  Earnings next week though so will trim some…
