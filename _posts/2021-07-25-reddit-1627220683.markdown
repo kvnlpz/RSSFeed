@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So I have looked at the statistics of my usage of apps in my phone. In the last weeks, Instagram -90% and Reddit +300%. 
-date: 2021-07-25 1627220683 
-categories: reddit 
---- 
-https://redd.it/orbtek
