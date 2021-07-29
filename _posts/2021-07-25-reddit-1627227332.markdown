@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETC Supply: ETC has a fixed, algorithmic, and trust minimized monetary policy, with a cap of 210.7 million ETC or less by the year 2136 depending on a feature called "uncle blocks". Learn about the 8 components of the ETC monetary policy here: 
-date: 2021-07-25 1627227332 
-categories: reddit 
---- 
-https://redd.it/ordpuq
