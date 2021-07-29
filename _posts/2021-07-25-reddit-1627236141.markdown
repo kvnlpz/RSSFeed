@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dot x Ada x ETH 
-date: 2021-07-25 1627236141 
-categories: reddit 
---- 
-https://redd.it/orghq2
