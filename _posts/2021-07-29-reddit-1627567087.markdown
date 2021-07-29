@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Measuring Decentralization in PoS Ethereum -- The Beacon Book 
+date: 2021-07-29 1627567087 
+categories: reddit 
+--- 
+https://redd.it/otxzjf
