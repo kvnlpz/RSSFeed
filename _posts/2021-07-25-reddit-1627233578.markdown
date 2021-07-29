@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are your thoughts on whether the Lightning network and/or future BTC upgrades will make BTC a true "currency" as opposed to a store of value? 
-date: 2021-07-25 1627233578 
-categories: reddit 
---- 
-https://redd.it/orfnwg
