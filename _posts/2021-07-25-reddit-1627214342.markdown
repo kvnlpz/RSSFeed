@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How vulnerable is a hot wallet? 
-date: 2021-07-25 1627214342 
-categories: reddit 
---- 
-https://redd.it/ora9pn
