@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TaskMaster990 
-date: 2021-07-24 19:27:58 
-categories: twitter 
---- 
-@InvestorsLive Thanks for the inspiration brother
