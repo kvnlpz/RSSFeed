@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-24 17:45:21 
-categories: twitter 
---- 
-@jgreco @CryptoEthan Dating in the Hamptons
