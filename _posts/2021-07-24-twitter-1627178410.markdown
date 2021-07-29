@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nut_spac 
-date: 2021-07-24 19:00:10 
-categories: twitter 
---- 
-@nope_its_lily Fail in art school.
