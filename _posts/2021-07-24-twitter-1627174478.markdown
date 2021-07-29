@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheNOPEScalper 
-date: 2021-07-24 17:54:38 
-categories: twitter 
---- 
-@nope_its_lily What if I met you IRL and said I know you from #chamath 's dungeon 😐
