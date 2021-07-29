@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can DAGs replace traditional blockchains as the most popular distributed ledger technology? 
+date: 2021-07-29 1627596687 
+categories: reddit 
+--- 
+https://redd.it/ou7km4
