@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LoneStockTrader 
-date: 2021-07-24 20:36:22 
-categories: twitter 
---- 
-RT @RayTL_: 2 of my fav visuals from @visualizevalue https://t.co/Ss95sJxTeY
