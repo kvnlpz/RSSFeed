@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The finance model page from our white paper 
-date: 2021-07-25 1627220844 
-categories: reddit 
---- 
-https://redd.it/orbuup
