@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradesNancy 
-date: 2021-07-24 19:24:14 
-categories: twitter 
---- 
-@nope_its_lily so many recent memories... if only I'd remember the name
