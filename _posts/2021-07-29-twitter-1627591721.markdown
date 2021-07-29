@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-29 13:48:41 
+categories: twitter 
+--- 
+@lindalijd are you telling me you dont have a platform with VWAP on it?
