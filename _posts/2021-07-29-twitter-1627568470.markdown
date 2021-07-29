@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @morganefitz 
+date: 2021-07-29 07:21:10 
+categories: twitter 
+--- 
+@super_trades Yup $VRAR turning here  . Reinitiating  pos
