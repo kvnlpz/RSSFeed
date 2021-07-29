@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to correctly send cryptocurrency? 
-date: 2021-07-25 1627235143 
-categories: reddit 
---- 
-https://redd.it/org60t
