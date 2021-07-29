@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @credit_lost 
-date: 2021-07-24 22:16:52 
-categories: twitter 
---- 
-@RayTL_ @tradingview How's about a Tradingview real time McClellan oscillator script Ray? Just a thought
