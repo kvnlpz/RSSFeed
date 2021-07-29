@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Winning projects from the Neo Frontier Launchpad hackathon event 
-date: 2021-07-25 1627227605 
-categories: reddit 
---- 
-https://redd.it/ordsni
