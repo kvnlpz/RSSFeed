@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Has there been any updates regarding the implementation of LLVM on Cardano? 
+date: 2021-07-29 1627582810 
+categories: reddit 
+--- 
+https://redd.it/ou32fe
