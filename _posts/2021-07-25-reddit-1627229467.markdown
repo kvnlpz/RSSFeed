@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Network Status Update Sunday, July 25, 2021 
-date: 2021-07-25 1627229467 
-categories: reddit 
---- 
-https://redd.it/ored5d
