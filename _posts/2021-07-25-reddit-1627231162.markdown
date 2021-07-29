@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I withdraw some tezos from my discord tip.cc account yesterday and I haven't received it on my kukai wallet. Did I loose my tezos? Help. 
-date: 2021-07-25 1627231162 
-categories: reddit 
---- 
-https://redd.it/orewdn
