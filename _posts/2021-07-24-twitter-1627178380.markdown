@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Tsqueeze678 
-date: 2021-07-24 18:59:40 
-categories: twitter 
---- 
-@nope_its_lily It's really good
