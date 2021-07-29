@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-29 06:00:25 
+categories: twitter 
+--- 
+RT @MarketCurrents: $MVST - eVersum selects Microvast as its primary battery partner https://t.co/uUE9jhEeS7
