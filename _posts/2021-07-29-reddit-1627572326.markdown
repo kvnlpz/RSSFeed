@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: AutoShark Deploys Chainlink Price Feeds to Secure Access to Decentralised Price Feeds 
+date: 2021-07-29 1627572326 
+categories: reddit 
+--- 
+https://redd.it/otzlom
