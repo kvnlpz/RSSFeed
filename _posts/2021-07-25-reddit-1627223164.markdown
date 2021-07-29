@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What Is The Fastest Blockchain And Why? Analysis of 43 Blockchains 
-date: 2021-07-25 1627223164 
-categories: reddit 
---- 
-https://redd.it/orcicx
