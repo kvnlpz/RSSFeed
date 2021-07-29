@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Midoin miner 
-date: 2021-07-25 1627204685 
-categories: reddit 
---- 
-https://redd.it/or8elu
