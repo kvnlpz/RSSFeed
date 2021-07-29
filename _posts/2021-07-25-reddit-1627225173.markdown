@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Royalties NFT smart contract with Solidity (Tutorial) 
-date: 2021-07-25 1627225173 
-categories: reddit 
---- 
-https://redd.it/ord30c
