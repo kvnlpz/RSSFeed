@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @studentaguilar 
-date: 2021-07-24 21:31:36 
-categories: twitter 
---- 
-@nope_its_lily Drunk posting is the best! Quality content!
