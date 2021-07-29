@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-24 20:42:27 
-categories: twitter 
---- 
-@CFA_Life @OlympusQuant @NotQuiteMidlife @SrivatsPrakash In a more abstract sense, even in a purely Brownian proces… https://t.co/ZHUOghhryA
