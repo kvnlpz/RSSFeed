@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Had anyone had any success with Heikin Ashi based strategies? 
-date: 2021-07-25 1627216493 
-categories: reddit 
---- 
-https://redd.it/orarcu
