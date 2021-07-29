@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why doesn’t EOS use Proof of Stake? 
-date: 2021-07-25 1627229655 
-categories: reddit 
---- 
-https://redd.it/orefci
