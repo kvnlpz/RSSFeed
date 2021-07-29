@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-24 19:50:10 
-categories: twitter 
---- 
-RT @RayTL_: Chatrooms foster an environment where one trader wants to one up the other,it slowly snow balls into an ego fest where the focu…
