@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SHA256 broken what do i do ? 
-date: 2021-07-25 1627203767 
-categories: reddit 
---- 
-https://redd.it/or88nv
