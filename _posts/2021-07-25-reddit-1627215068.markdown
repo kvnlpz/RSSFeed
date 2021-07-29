@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is there no coin sith reversible transactions 
-date: 2021-07-25 1627215068 
-categories: reddit 
---- 
-https://redd.it/orafmk
