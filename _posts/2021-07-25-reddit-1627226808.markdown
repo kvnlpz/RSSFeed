@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Running a staking pool question 
-date: 2021-07-25 1627226808 
-categories: reddit 
---- 
-https://redd.it/ordkdj
