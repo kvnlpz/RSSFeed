@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ApuDon2 
-date: 2021-07-24 15:58:11 
-categories: twitter 
---- 
-RT @InvestorsLive: 🧱🏃‍♂️
