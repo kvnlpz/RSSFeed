@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bradtrader11 
-date: 2021-07-24 19:38:30 
-categories: twitter 
---- 
-@G_krupins Any options ideas for earnings on amzn?
