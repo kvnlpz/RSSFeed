@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @GGreyscale 
+date: 2021-07-29 11:21:43 
+categories: twitter 
+--- 
+RT @PlainSite: Taiwan is a country.
