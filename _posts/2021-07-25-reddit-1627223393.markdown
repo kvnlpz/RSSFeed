@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Contest to predict the XLM/USD price 
-date: 2021-07-25 1627223393 
-categories: reddit 
---- 
-https://redd.it/orckm3
