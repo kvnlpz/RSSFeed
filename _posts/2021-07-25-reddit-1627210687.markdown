@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Random Chart Backtest 3x Ratio & 8x Ratio 
-date: 2021-07-25 1627210687 
-categories: reddit 
---- 
-https://redd.it/or9iz6
