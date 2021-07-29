@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tradescientist1 
+date: 2021-07-29 05:41:32 
+categories: twitter 
+--- 
+RT @super_trades: $QUBT Quantum computing software trial with big companies / uses : https://t.co/XGCzWVw3GA
