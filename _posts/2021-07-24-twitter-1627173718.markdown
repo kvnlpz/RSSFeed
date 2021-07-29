@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-24 17:41:58 
-categories: twitter 
---- 
-@jgreco @CryptoEthan down to the camera angle and all
