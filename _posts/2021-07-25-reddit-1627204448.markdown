@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: here you go guys - I have open sourced a script that I created in order to track paper trading performance for my trading algorithms 
-date: 2021-07-25 1627204448 
-categories: reddit 
---- 
-https://redd.it/or8d2q
