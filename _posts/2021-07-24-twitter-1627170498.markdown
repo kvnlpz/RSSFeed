@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jposhaughnessy 
-date: 2021-07-24 16:48:18 
-categories: twitter 
---- 
-@nope_its_lily Happens with alarming frequency https://t.co/88QtAo6JXV
