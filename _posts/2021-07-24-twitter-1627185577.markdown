@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @heykmei 
-date: 2021-07-24 20:59:37 
-categories: twitter 
---- 
-@nope_its_lily This sounds like step 1 to help improve the employment rate
