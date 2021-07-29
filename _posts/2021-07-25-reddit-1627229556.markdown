@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: YOLO and knowing which strike price to set to maximize gains? 
-date: 2021-07-25 1627229556 
-categories: reddit 
---- 
-https://redd.it/oree69
