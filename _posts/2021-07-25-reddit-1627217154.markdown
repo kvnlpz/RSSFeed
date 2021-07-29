@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My fight against Bitconnect 
-date: 2021-07-25 1627217154 
-categories: reddit 
---- 
-https://redd.it/orawsb
