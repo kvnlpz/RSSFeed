@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trust Wallet app 
-date: 2021-07-25 1627205632 
-categories: reddit 
---- 
-https://redd.it/or8kpr
