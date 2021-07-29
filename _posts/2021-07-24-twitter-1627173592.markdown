@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-24 17:39:52 
-categories: twitter 
---- 
-@macrocephalopod yeah but im different
