@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Obed30 
-date: 2021-07-24 21:16:38 
-categories: twitter 
---- 
-RT @alphatrends: Earnings this week https://t.co/7hY9wtDNNg
