@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: QUESTION FOR ETH DEVS: MetaMask failing withdraws for over 2 days (7 attempts so far) with the "fast" gas fee option FAILED). I lost over $60 in failed transactions. When will this stop? I want to withdraw tokens from MetaMask eventually..... See video. 
+date: 2021-07-29 1627545235 
+categories: reddit 
+--- 
+https://redd.it/ott1wo
