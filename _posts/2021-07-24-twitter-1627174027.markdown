@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-24 17:47:07 
-categories: twitter 
---- 
-@VXO150 no i would never invest in a long vol fund
