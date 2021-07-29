@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VanessaCarreno 
-date: 2021-07-24 16:39:40 
-categories: twitter 
---- 
-RT @alphatrends: Earnings this week https://t.co/7hY9wtDNNg
