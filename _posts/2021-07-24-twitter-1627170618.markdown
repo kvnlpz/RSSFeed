@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ducahuevo 
-date: 2021-07-24 16:50:18 
-categories: twitter 
---- 
-@nope_its_lily @RaoulGMI @jaredstine @SrivatsPrakash Selling subscriptions.
