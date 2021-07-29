@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gatocorps 
-date: 2021-07-24 22:16:15 
-categories: twitter 
---- 
-@OddStockTrader Mexico 🇲🇽 here jeje 😜
