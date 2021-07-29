@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimCanadaTrades 
-date: 2021-07-24 19:29:53 
-categories: twitter 
---- 
-@timothysykes Did you see the panic on MOXC, would you trade that setup? I believe it went from 25-14 in one day.
