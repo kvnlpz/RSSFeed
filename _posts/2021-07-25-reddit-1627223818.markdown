@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Segwit VS native segwit 
-date: 2021-07-25 1627223818 
-categories: reddit 
---- 
-https://redd.it/orcov9
