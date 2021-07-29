@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Many stock prices today haven’t caught up with their valuations. Shouldn’t we see a slower market bleed instead a crash across the board? 
-date: 2021-07-25 1627231991 
-categories: reddit 
---- 
-https://redd.it/orf5mx
