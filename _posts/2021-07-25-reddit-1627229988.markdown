@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This week is Rocket Bunny for me! 
-date: 2021-07-25 1627229988 
-categories: reddit 
---- 
-https://redd.it/orej5x
