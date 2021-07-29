@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @RPJohnTomas 
+date: 2021-07-29 15:59:50 
+categories: twitter 
+--- 
+@alphatrends His buddy tells the bartender "And I'll have a martinus"
+Bartender: "You mean martini?"
+"No, just 1"
