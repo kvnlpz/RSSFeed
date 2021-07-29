@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cryptkill 
-date: 2021-07-24 16:40:07 
-categories: twitter 
---- 
-@timothysykes I can't watch enough of these awesome videos. Thank you!
