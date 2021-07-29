@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @bandidu2016 
+date: 2021-07-29 11:30:50 
+categories: twitter 
+--- 
+RT @VolQuant: A beginners guid to FX derivatives market
+
+FX derivatives market is generaly overlooked in twitter, probably because it's les…
