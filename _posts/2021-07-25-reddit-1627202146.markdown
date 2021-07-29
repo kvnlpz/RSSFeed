@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin node setup. SSD or HDD 
-date: 2021-07-25 1627202146 
-categories: reddit 
---- 
-https://redd.it/or7xzd
