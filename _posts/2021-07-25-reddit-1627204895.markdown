@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA: Do not trust a “used” or second-hand hardware wallet (e.g. from eBay or Etsy or Craigslist or Amazon or your neighbor’s cousin). Only trust hardware wallets in their original packaging, purchased directly from the manufacturer (like Trezor or Ledger). 
-date: 2021-07-25 1627204895 
-categories: reddit 
---- 
-https://redd.it/or6w1v
