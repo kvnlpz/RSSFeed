@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JerryFinelli 
-date: 2021-07-24 19:09:28 
-categories: twitter 
---- 
-@nope_its_lily I will say I know you from Bloomberg TV because that is where I first saw you...
