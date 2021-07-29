@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledger Setup With Daedalus 
-date: 2021-07-25 1627211922 
-categories: reddit 
---- 
-https://redd.it/or9s09
