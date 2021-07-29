@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trading Bitcoin IRL 
-date: 2021-07-25 1627235320 
-categories: reddit 
---- 
-https://redd.it/org895
