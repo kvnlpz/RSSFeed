@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodetrades 
-date: 2021-07-24 22:44:35 
-categories: twitter 
---- 
-Pineapple bonbon
-Huckleberry, Lemon Verbena, goat's milk
-2013 Chateau d'Yquem https://t.co/iPg2rAGkcI
