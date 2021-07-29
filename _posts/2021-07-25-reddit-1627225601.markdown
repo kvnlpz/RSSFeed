@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let’s go AMP 
-date: 2021-07-25 1627225601 
-categories: reddit 
---- 
-https://redd.it/ord7r3
