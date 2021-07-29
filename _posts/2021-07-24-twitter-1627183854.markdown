@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-24 20:30:54 
-categories: twitter 
---- 
-Soccer is the best sport https://t.co/Ei2c3qjslF
