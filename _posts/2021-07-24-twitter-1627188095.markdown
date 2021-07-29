@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CFA_Life 
-date: 2021-07-24 21:41:35 
-categories: twitter 
---- 
-@nope_its_lily @OlympusQuant @NotQuiteMidlife @SrivatsPrakash Or another simple way to envision it,your expected va… https://t.co/lAs9cofp5e
