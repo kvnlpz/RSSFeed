@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Converting USDC to BTH for use on my Coinbase debit card - confused 
-date: 2021-07-25 1627225477 
-categories: reddit 
---- 
-https://redd.it/ord6dt
