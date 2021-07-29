@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: new to stellar 
-date: 2021-07-25 1627201142 
-categories: reddit 
---- 
-https://redd.it/or7rju
