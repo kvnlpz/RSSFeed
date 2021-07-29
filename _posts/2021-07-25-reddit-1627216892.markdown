@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transfer of ETH from crypto.com 
-date: 2021-07-25 1627216892 
-categories: reddit 
---- 
-https://redd.it/oraumx
