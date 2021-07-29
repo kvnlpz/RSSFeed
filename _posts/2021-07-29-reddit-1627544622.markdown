@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I was playing with options. I think i have done well but i want to understand it more. Can anyone explain the Greeks in detail but still simple enough for a retard to understand? 
+date: 2021-07-29 1627544622 
+categories: reddit 
+--- 
+https://redd.it/otsxtj
