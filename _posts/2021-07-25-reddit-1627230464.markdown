@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Honest beginner's question about Ethereum's future 
-date: 2021-07-25 1627230464 
-categories: reddit 
---- 
-https://redd.it/oreom8
