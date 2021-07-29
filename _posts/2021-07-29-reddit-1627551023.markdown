@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cronos Embeds Chainlink Price Data for DeFi apps 
+date: 2021-07-29 1627551023 
+categories: reddit 
+--- 
+https://redd.it/otu5qe
