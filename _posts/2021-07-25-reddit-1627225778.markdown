@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm a new Cardano Amigo and I've recently learned about SingularityNet, World Mobile Token, and Ergo. 
-date: 2021-07-25 1627225778 
-categories: reddit 
---- 
-https://redd.it/ord8ie
