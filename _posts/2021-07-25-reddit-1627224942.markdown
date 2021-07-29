@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Seed phrase centralization? My wallet my keys my crypto…not my seed? Please help me feel more at ease with my recent discovery. 
-date: 2021-07-25 1627224942 
-categories: reddit 
---- 
-https://redd.it/ord0py
