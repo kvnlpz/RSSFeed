@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Crypto_Spectre8 
-date: 2021-07-24 17:16:56 
-categories: twitter 
---- 
-@nope_its_lily What if we said we know your from Discord?
