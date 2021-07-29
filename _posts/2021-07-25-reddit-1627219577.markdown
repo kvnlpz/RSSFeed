@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Interactive Brokers - filling in the blanks - payment for order flow (PFOF) and IEX 
-date: 2021-07-25 1627219577 
-categories: reddit 
---- 
-https://redd.it/orbiu0
