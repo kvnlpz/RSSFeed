@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThetaWarrior 
-date: 2021-07-24 16:18:19 
-categories: twitter 
---- 
-@G_krupins @ChartingOptions Yeah, this is beautiful. 👍
