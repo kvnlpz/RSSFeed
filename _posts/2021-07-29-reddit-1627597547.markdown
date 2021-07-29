@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: New Avalanche Bridge Builds on Intel SGX Technology to bridge to Ethereum with lower fees 
+date: 2021-07-29 1627597547 
+categories: reddit 
+--- 
+https://redd.it/ou7u9a
