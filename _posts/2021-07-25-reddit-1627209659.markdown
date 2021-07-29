@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Random Chart Backtest Results 8R 
-date: 2021-07-25 1627209659 
-categories: reddit 
---- 
-https://redd.it/or9bv7
