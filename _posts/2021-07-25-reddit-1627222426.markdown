@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “Using Benford’s Law to Detect Bitcoin Manipulation” 
-date: 2021-07-25 1627222426 
-categories: reddit 
---- 
-https://redd.it/orcasg
