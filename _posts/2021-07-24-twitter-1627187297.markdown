@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gman1__ 
-date: 2021-07-24 21:28:17 
-categories: twitter 
---- 
-RT @OddStockTrader: Soccer is the best sport https://t.co/Ei2c3qjslF
