@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-3675: Upgrade consensus to Proof-of-Stake merged! 
+date: 2021-07-29 1627555669 
+categories: reddit 
+--- 
+https://redd.it/otv3nl
