@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it wise to break up a large number of coins among multiple wallets in the situation that it is a very large sum of money? 
-date: 2021-07-25 1627223349 
-categories: reddit 
---- 
-https://redd.it/orck6x
