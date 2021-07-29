@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @sf_hipacker 
+date: 2021-07-29 13:40:02 
+categories: twitter 
+--- 
+@KerrisdaleCap Who cares.
