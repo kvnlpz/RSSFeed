@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Learning block gas limit with Vitalik Buterin 
+date: 2021-07-29 1627581450 
+categories: reddit 
+--- 
+https://redd.it/ou2lz8
