@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yoshiefuruhashi 
-date: 2021-07-24 19:49:22 
-categories: twitter 
---- 
-RT @nope_its_lily: is pretty unknown, given most infections have occurred in the last 6-9 months. That's pretty short term when it comes to…
