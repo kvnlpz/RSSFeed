@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ryxcommar 
+date: 2021-07-29 12:16:27 
+categories: twitter 
+--- 
+@nope_its_lily PCA regression and don't preregister your study
