@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Answered: If the goal of Bitcoin is to replace fiat money, but Bitcoin is expected to increase in value in the long term, wouldn't it be prohibitive to use Bitcoin for paying for things? 
-date: 2021-07-25 1627211038 
-categories: reddit 
---- 
-https://redd.it/or9lqu
