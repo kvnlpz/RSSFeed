@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I’m trying to become a stake pool operator, but the cardano page that gives the information on how to do so is down. Where can i find the info i need in order to become a stake pool operator? 
-date: 2021-07-25 1627219264 
-categories: reddit 
---- 
-https://redd.it/orbfxx
