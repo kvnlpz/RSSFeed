@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FowlFinancial 
-date: 2021-07-24 19:02:37 
-categories: twitter 
---- 
-@nope_its_lily Just what we need, instructions
