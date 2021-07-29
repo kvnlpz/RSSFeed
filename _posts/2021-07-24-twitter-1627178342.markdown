@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-24 18:59:02 
-categories: twitter 
---- 
-Highly recommend everyone watch Netflix's new show, "How to Become a Tyrant"
