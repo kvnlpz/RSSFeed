@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pay it forward with Ada 
-date: 2021-07-25 1627233255 
-categories: reddit 
---- 
-https://redd.it/orfk54
