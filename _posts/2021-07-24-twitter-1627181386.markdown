@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yoshiefuruhashi 
-date: 2021-07-24 19:49:46 
-categories: twitter 
---- 
-RT @nope_its_lily: ill pts - 0.01-0.04 SD. It's still an interesting study, but I wouldn't consider this a smoking gun that COVID damages t…
