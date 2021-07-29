@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tell me where I'm wrong in my understanding of how to handle deep ITM CCs 
+date: 2021-07-29 1627589893 
+categories: reddit 
+--- 
+https://redd.it/ou5ehy
