@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KevinSayan1 
-date: 2021-07-24 20:00:26 
-categories: twitter 
---- 
-@InvestorsLive Done. Posted on my wall.
