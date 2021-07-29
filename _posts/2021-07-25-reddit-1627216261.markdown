@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are brave ad links always safe? 
-date: 2021-07-25 1627216261 
-categories: reddit 
---- 
-https://redd.it/orapfg
