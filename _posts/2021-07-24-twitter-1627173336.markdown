@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tazmaze43 
-date: 2021-07-24 17:35:36 
-categories: twitter 
---- 
-@nope_its_lily @StrizziJ Ouch lol
