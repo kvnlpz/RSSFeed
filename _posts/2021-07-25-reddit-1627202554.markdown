@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Even though there are multiple options for insurance in the DeFi ecosystem, only 2% of crypto holders are insured. This is a dangerously low amount considering the prevalence of scams, hacks, and technical failures 
-date: 2021-07-25 1627202554 
-categories: reddit 
---- 
-https://redd.it/or80le
