@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DCAing 
-date: 2021-07-25 1627225823 
-categories: reddit 
---- 
-https://redd.it/orda41
