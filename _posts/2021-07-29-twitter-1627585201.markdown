@@ -1,0 +1,21 @@
+--- 
+layout: post 
+title: Tweet by @JohnVaughnIII 
+date: 2021-07-29 12:00:01 
+categories: twitter 
+--- 
+RT @EddyElfenbein: 3% Down Days
+2004: 0
+2005: 0
+2006: 0
+2007: 1
+2008: 23
+2009: 12
+2010: 5
+2011: 6
+2012: 0
+2013: 0
+2014: 0
+2015: 2
+2016: 1
+2…
