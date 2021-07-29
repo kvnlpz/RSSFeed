@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: One word cryptos 
-date: 2021-07-25 1627217234 
-categories: reddit 
---- 
-https://redd.it/oraxks
