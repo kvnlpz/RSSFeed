@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-29 15:04:23 
+categories: twitter 
+--- 
+A Roman walks into a bar and holds up two fingers and says "5 beers please"
