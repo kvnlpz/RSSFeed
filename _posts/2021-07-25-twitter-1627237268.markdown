@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-25 11:21:08 
-categories: twitter 
---- 
-Having a SUPER time in Boston !!! https://t.co/9r6GwGicqi
