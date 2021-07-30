@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @adamsussman 
+date: 2021-07-30 15:37:35 
+categories: twitter 
+--- 
+@nope_its_lily $ivol is an odd one in this space
