@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:27 
-categories: twitter 
---- 
-RT @MikeBellafiore: Said by one firm trader during his monthly review:
-
-Mentoring traders helped me improve my trading.
