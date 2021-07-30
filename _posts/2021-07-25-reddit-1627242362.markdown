@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I wonder if the rumors are true that Amazon is going to start using Flexa (AMP) for upcoming acceptance of digital payments. 
-date: 2021-07-25 1627242362 
-categories: reddit 
---- 
-https://redd.it/orifxc
