@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help understanding possible taxation with the IRS from "gains" (???) via an ETH sidechain 
-date: 2021-07-25 1627250712 
-categories: reddit 
---- 
-https://redd.it/orl4ja
