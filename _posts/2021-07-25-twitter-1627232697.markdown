@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Praveen92492609 
-date: 2021-07-25 10:04:57 
-categories: twitter 
---- 
-@timothysykes Yeah tim
