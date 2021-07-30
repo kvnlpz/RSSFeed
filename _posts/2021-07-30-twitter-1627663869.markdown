@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @fatacodniklabug 
+date: 2021-07-30 09:51:09 
+categories: twitter 
+--- 
+@alphatrends Interested in learning how to use VWAP. Where can I go?
