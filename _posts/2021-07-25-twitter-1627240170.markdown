@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @svper_trades 
-date: 2021-07-25 12:09:30 
-categories: twitter 
---- 
-RT @super_trades: crypto/blockchain bounce 🧐
