@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ✅Bittrex has successfully completed the KNC migration! ▫️New KNC is now supported on Bittrex! Users’ KNC balance will reflect the same total that they had prior to the migration. ▫️Bittrex will no longer support old legacy KNC tokens (KNCL). DO NOT deposit old KNCL tokens to Bittrex. 
-date: 2021-07-25 1627272700 
-categories: reddit 
---- 
-https://redd.it/orr57n
