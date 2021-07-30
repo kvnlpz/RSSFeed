@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:02:32 
-categories: twitter 
---- 
-RT @MikeBellafiore: An inability to follow your trading rules is NOT the reason most traders fail.  
-A lack of trading edge, the ability to…
