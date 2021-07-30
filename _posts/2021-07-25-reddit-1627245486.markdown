@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Close CC at 50% even if the underlying dropped? 
-date: 2021-07-25 1627245486 
-categories: reddit 
---- 
-https://redd.it/orjgbc
