@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:04:44 
-categories: twitter 
---- 
-RT @MikeBellafiore: Elite traders set specific and actionable goals and execute with intensity and diligence.
