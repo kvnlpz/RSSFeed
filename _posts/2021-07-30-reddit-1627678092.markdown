@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How would you safely store your seed phrase if you were living with strangers? 
+date: 2021-07-30 1627678092 
+categories: reddit 
+--- 
+https://redd.it/outlj4
