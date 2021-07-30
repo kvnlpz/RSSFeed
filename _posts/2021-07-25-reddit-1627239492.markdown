@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You can learn to code Blockchain DApps by building simple games. 
-date: 2021-07-25 1627239492 
-categories: reddit 
---- 
-https://redd.it/orhjha
