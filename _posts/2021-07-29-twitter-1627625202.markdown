@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @daniel_sacchi 
+date: 2021-07-29 23:06:42 
+categories: twitter 
+--- 
+RT @alphatrends: @TelicoFarms @Trendspider_J 26, 39, 65, 78, 130, 195, ETC
+if it is divisible into 390 ( the amount of minutes per trading…
