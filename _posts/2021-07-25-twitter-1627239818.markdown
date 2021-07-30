@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:03:38 
-categories: twitter 
---- 
-RT @MikeBellafiore: The Key Variable That Can Cause Massive Moves in Stocks https://t.co/eEjNZXidZq via @YouTube
