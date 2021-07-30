@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to determine how much money was provided as initial liquidity for the token? 
-date: 2021-07-25 1627245345 
-categories: reddit 
---- 
-https://redd.it/orjewj
