@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DavidKunnas 
+date: 2021-07-30 10:41:35 
+categories: twitter 
+--- 
+@OddStockTrader Haha
