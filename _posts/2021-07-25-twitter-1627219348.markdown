@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DougIzenas 
-date: 2021-07-25 06:22:28 
-categories: twitter 
---- 
-@timothysykes @lucidleek1 RIP Stan 😂
