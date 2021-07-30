@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Please help me understand how Ethereum 2.0 will remain decentralized 
-date: 2021-07-25 1627250835 
-categories: reddit 
---- 
-https://redd.it/orl5m4
