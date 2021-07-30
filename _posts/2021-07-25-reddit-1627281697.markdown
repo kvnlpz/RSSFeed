@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a portfolio app that tracks both crypto AND stocks? 
-date: 2021-07-25 1627281697 
-categories: reddit 
---- 
-https://redd.it/ort7zv
