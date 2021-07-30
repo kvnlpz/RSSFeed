@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 09:12:44 
-categories: twitter 
---- 
-@DefiDiogenesYFI @Alt_Trader1 @InstAllocator This is traditionally called the O'Hare Hedge
