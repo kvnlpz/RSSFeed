@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 2 Hours in: Bitcoin 
-date: 2021-07-25 1627275786 
-categories: reddit 
---- 
-https://redd.it/orrwa9
