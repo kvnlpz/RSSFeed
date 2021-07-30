@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:03:42 
-categories: twitter 
---- 
-RT @MikeBellafiore: Whatever you believe about your trade.....
-
-you might be wrong.
