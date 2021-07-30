@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-07-30 08:02:35 
+categories: twitter 
+--- 
+@mattdelong90 @Trendspider_J etc
