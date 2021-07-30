@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Dollar transfer values are spiking in BTC and to a lesser extent DAI. But not in other cryptos. Why? 
+date: 2021-07-30 1627641958 
+categories: reddit 
+--- 
+https://redd.it/oui8ua
