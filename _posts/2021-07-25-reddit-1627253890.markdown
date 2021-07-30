@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA: your favourite crypto isn’t perfect 
-date: 2021-07-25 1627253890 
-categories: reddit 
---- 
-https://redd.it/orm36c
