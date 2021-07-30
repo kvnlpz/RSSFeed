@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BTC and DAI dollar transfer values are spiking but not being seen with any other cryptos. Ideas? Thoughts? 
+date: 2021-07-30 1627641845 
+categories: reddit 
+--- 
+https://redd.it/oui81d
