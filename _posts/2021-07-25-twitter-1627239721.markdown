@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:02:01 
-categories: twitter 
---- 
-RT @MikeBellafiore: Q: Is there anything in particular you could recommend to help a college student break into trading?
-
-A: prior trading…
