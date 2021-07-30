@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 08:55:21 
-categories: twitter 
---- 
-@Eekyrich @InstAllocator it's quant so yes, but we use math to make things up instead of poor interpretations of macroeconomics
