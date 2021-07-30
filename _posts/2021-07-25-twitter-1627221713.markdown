@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Adam36246654 
-date: 2021-07-25 07:01:53 
-categories: twitter 
---- 
-@nope_its_lily @EpsilonTheory Look at Sweden stats
