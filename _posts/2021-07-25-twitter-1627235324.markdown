@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 10:48:44 
-categories: twitter 
---- 
-@udiWertheimer yeah i already said you're thinner than i expected, you need to go back to changing that
