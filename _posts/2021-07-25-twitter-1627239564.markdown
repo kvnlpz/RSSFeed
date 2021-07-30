@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:24 
-categories: twitter 
---- 
-RT @MikeBellafiore: When the market changes, as it has the last two weeks, you can lament the change and probable drawdown adjusting to new…
