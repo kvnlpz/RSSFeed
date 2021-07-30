@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @AbelKirner 
+date: 2021-07-29 23:42:38 
+categories: twitter 
+--- 
+RT @VolQuant: A beginners guid to FX derivatives market
+
+FX derivatives market is generaly overlooked in twitter, probably because it's les…
