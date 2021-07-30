@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PablitosWay2 
-date: 2021-07-25 07:01:17 
-categories: twitter 
---- 
-@super_trades Hey Paul why can’t I find you on Profitly, it just takes me to a page with you and Tim saying get mor… https://t.co/5QxupBpHEa
