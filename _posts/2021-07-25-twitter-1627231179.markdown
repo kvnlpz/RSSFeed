@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @finanskat 
-date: 2021-07-25 09:39:39 
-categories: twitter 
---- 
-RT @nope_its_lily: @theemilyaccount she's a symplectic geometer
-*swoon*
