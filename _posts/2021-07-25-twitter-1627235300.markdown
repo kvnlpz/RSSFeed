@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Quinnvestments 
-date: 2021-07-25 10:48:20 
-categories: twitter 
---- 
-@nope_its_lily import numpy as np
