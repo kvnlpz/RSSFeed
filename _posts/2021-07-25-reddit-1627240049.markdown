@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vitalik Buterin interview on what the ETH2 merge involves, also Proof of Custody, quantum computing's security risk and more. 
-date: 2021-07-25 1627240049 
-categories: reddit 
---- 
-https://redd.it/orhpxq
