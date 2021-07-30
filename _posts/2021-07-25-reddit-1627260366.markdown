@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin smashes through 50-day average 
-date: 2021-07-25 1627260366 
-categories: reddit 
---- 
-https://redd.it/ornwjg
