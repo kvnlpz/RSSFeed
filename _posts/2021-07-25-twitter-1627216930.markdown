@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @villegas_yaneli 
-date: 2021-07-25 05:42:10 
-categories: twitter 
---- 
-RT @timothysykes: Please congratulate @Jackaroo_Trades on passing $1 million in trading profits today in less than 4 years since joining my…
