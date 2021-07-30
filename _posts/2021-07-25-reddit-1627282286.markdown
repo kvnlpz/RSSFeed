@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Calculating Binance PnL/Tax Report. 
-date: 2021-07-25 1627282286 
-categories: reddit 
---- 
-https://redd.it/ortcp7
