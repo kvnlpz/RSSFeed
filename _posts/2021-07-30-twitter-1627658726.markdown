@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @kindasset 
+date: 2021-07-30 08:25:26 
+categories: twitter 
+--- 
+@InvestorsLive I like verasity #vra
