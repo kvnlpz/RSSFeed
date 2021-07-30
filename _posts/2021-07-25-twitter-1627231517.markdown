@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pamsterville 
-date: 2021-07-25 09:45:17 
-categories: twitter 
---- 
-RT @MikeBellafiore: To learn 3 real-world setups that our traders use, including the simple setup that we teach all our new traders, and th…
