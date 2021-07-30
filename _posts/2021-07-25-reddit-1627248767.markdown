@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When selling covered calls how far out do you sell them for? 
-date: 2021-07-25 1627248767 
-categories: reddit 
---- 
-https://redd.it/orkhzp
