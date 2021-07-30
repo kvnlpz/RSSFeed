@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 10:39:56 
-categories: twitter 
---- 
-RT @RobinWigg: I’m sure this will rile a lot of people, but it’s generally … right? It is a bit sad how many incredibly smart science grads…
