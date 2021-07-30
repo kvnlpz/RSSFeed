@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:58:34 
-categories: twitter 
---- 
-RT @MikeBellafiore: Is Tesla a Bubble? (a response from @sspencer_smb) https://t.co/thFqdFM2RJ via @YouTube
