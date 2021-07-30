@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dgarg1111 
-date: 2021-07-25 09:04:00 
-categories: twitter 
---- 
-@G_krupins Trim before or after the event?
