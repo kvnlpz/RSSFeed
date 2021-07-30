@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 11:06:53 
-categories: twitter 
---- 
-the presence of the "Fed put" as a fraction of ATH locks in substantial gains, causing a differential in the mean v… https://t.co/hiUAgvAiiH
