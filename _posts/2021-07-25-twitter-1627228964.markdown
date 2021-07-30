@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theemilyaccount 
-date: 2021-07-25 09:02:44 
-categories: twitter 
---- 
-@nope_its_lily he doesn’t even know how many basis points he loses to slippage quarterly https://t.co/qSGbBiTC5W
