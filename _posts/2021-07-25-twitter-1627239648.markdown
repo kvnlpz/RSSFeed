@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:00:48 
-categories: twitter 
---- 
-RT @MikeBellafiore: Said to an elite trader:
-
-Some of your best trades are the ones you do not take.
