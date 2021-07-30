@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @moreproteinbars 
-date: 2021-07-25 05:59:18 
-categories: twitter 
---- 
-@nope_its_lily Yes but also it’s never enough lol.
