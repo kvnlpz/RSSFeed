@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:54 
-categories: twitter 
---- 
-RT @MikeBellafiore: "The teacher learns more than the student.
-The author learns more than the reader.
-The speaker learns more than the att…
