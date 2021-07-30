@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: London Network Upgrade: block number 12,965,000 projected August 5. Update your nodes! 
+date: 2021-07-30 1627665846 
+categories: reddit 
+--- 
+https://redd.it/oup16s
