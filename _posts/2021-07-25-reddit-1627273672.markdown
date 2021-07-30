@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When I look at my balances in the Portfolio section on Coinbase Pro, what is the "Price" column to the far left? It says $33,775 for BTC, which is NOT the current BTC price. It's not how much I'm holding either. Is it the average price I paid for BTC? 
-date: 2021-07-25 1627273672 
-categories: reddit 
---- 
-https://redd.it/orrdw9
