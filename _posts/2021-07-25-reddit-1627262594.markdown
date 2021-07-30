@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Tezos Foundation should sponsor Hacktoberfest 
-date: 2021-07-25 1627262594 
-categories: reddit 
---- 
-https://redd.it/oroi96
