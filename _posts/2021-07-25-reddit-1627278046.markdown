@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinMarketCap has now a Loyalty Program (earn diamonds) 
-date: 2021-07-25 1627278046 
-categories: reddit 
---- 
-https://redd.it/orses7
