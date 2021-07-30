@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-25 05:45:11 
-categories: twitter 
---- 
-Having proper tools is always best solution. It's not good practice to hammer in a screw. You may be able to get by… https://t.co/6oQq5bAb8w
