@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin should eventually be recognised as the first 'cross-functional currency' 
-date: 2021-07-25 1627243213 
-categories: reddit 
---- 
-https://redd.it/oripcy
