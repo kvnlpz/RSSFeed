@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Insolvent Exchange? Bitmart exchange claims to have lost millions due to BSV "attacks". 
-date: 2021-07-25 1627279829 
-categories: reddit 
---- 
-https://redd.it/orstc6
