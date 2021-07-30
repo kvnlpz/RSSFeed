@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Video 17: How to Check the Deposit Address and Verify Transactions with COLDCARD USB and AirGap modes. Protecting against Malware! 
+date: 2021-07-30 1627649177 
+categories: reddit 
+--- 
+https://redd.it/oujwsy
