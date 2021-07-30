@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 10:45:11 
-categories: twitter 
---- 
-@tarunchitra @veronica_humble @RobinWigg @shiraeis we live in a society
