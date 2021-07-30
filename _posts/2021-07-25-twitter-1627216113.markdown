@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tenmike 
-date: 2021-07-25 05:28:33 
-categories: twitter 
---- 
-@timothysykes The crypto wallet I bought wasn’t from you ?
