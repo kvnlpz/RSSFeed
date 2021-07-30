@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jmook12 
-date: 2021-07-25 09:04:46 
-categories: twitter 
---- 
-@OddStockTrader 👍🏻
