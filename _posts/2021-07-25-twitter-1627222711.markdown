@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RavD05197790 
-date: 2021-07-25 07:18:31 
-categories: twitter 
---- 
-@timothysykes A Very Good Morning ..
