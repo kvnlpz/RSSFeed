@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking on Ledger Live says "Estimated Yield: N/a" - is staking still a thing? 
-date: 2021-07-25 1627274999 
-categories: reddit 
---- 
-https://redd.it/orrpkc
