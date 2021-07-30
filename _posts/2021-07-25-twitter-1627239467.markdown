@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:57:47 
-categories: twitter 
---- 
-RT @MikeBellafiore: The Cathie Wood Trade https://t.co/xCEb0EZZBW via @YouTube
