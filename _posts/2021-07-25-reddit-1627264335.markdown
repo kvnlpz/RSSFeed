@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Who’s seeing this spike 
-date: 2021-07-25 1627264335 
-categories: reddit 
---- 
-https://redd.it/oroyrc
