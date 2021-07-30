@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Tacosforgeorge 
+date: 2021-07-30 07:33:13 
+categories: twitter 
+--- 
+@nope_its_lily We call the movie “Bank Run”
