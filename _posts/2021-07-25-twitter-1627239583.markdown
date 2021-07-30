@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:43 
-categories: twitter 
---- 
-RT @MikeBellafiore: "The Process:
-1) Decide what you want to achieve.
-2) Try different ways of achieving it until you find one that works f…
