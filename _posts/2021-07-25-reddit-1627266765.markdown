@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I posted a coindesk article about a potential short squeeze a couple days ago and it received alot of criticism. 
-date: 2021-07-25 1627266765 
-categories: reddit 
---- 
-https://redd.it/orpm4k
