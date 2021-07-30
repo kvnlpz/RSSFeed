@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:03:46 
-categories: twitter 
---- 
-RT @MikeBellafiore: Flashback: one of my favorite people in trading stopped by for one of our best guest lectures @todd_harrison 
-
-How to i…
