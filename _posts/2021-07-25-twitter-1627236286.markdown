@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_krupins 
-date: 2021-07-25 11:04:46 
-categories: twitter 
---- 
-@dgarg1111 Before to limit risk
