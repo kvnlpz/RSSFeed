@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SheepOfWallStrt 
-date: 2021-07-25 10:53:22 
-categories: twitter 
---- 
-RT @nope_its_lily: I had a dream I was going to lose my job offer because I skipped all my homework’s and classes for Spanish and Algebra 2…
