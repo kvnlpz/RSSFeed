@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin leaps 12% to test recent peaks, ether hits 3-week high 
-date: 2021-07-25 1627271088 
-categories: reddit 
---- 
-https://redd.it/orqqbb
