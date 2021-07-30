@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin price surges as Amazon insider confirms BTC payments 
-date: 2021-07-25 1627266798 
-categories: reddit 
---- 
-https://redd.it/orpmf7
