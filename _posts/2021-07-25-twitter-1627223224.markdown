@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KenGoodreau 
-date: 2021-07-25 07:27:04 
-categories: twitter 
---- 
-RT @RayTL_: I’m reacting to price as best as I can. Expectation was large rally since Monday given McClellan was way oversold and growth ac…
