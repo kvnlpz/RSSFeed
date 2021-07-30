@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:57:05 
-categories: twitter 
---- 
-RT @MikeBellafiore: If you are being brutally honest, what are the biggest threats to you becoming (remaining) a successful trader?
-
-#tradi…
