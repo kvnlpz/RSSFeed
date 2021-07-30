@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jfarrow 
-date: 2021-07-25 06:23:19 
-categories: twitter 
---- 
-@nope_its_lily In the social anxiety of the moment that is probably my most likely response because it comes easy a… https://t.co/E69mZNScju
