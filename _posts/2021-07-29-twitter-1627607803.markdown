@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-29 18:16:43 
+categories: twitter 
+--- 
+RT @InvestorsLive: Sorry I meant 12 * for price of one. https://t.co/xOKtHPgn7K
