@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Unable to claim reward in Cosmostation. Using average tx amount. Any suggestions? 
-date: 2021-07-25 1627267001 
-categories: reddit 
---- 
-https://redd.it/orpocx
