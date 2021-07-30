@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:58:57 
-categories: twitter 
---- 
-RT @MikeBellafiore: The Daily Breakout Trade Strategy https://t.co/q8OPakm56d via @YouTube
