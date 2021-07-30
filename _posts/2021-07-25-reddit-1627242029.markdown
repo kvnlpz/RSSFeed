@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TradeWithAlerts | No one trades for you. 
-date: 2021-07-25 1627242029 
-categories: reddit 
---- 
-https://redd.it/oric8s
