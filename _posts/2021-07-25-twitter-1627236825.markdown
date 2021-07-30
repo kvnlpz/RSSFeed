@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 11:13:45 
-categories: twitter 
---- 
-@iTrismegistus Sure and you could modify the test accordingly, it should change the mean differential but wouldn't… https://t.co/LXAT4LLZYG
