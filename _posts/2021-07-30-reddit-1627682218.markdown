@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Coinbase debit card cannot be used to purchase on Coinbase. No infinity loop unfortunately 
+date: 2021-07-30 1627682218 
+categories: reddit 
+--- 
+https://redd.it/ouuucr
