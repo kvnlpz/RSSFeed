@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 12:09:33 
-categories: twitter 
---- 
-@ParikPatelCFA that looks so good
