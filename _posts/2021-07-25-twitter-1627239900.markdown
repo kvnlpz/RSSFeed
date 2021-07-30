@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:05:00 
-categories: twitter 
---- 
-RT @MikeBellafiore: Savvy Advice From a Prop Trader on How You Can Improve https://t.co/cx2ac4CasU via @YouTube
