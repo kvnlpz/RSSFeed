@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: There is a rumor according to an insider Amazon will start accepting Bitcoin payments by the end of 2021 following by Ethereum and other major tokens. 
-date: 2021-07-25 1627262359 
-categories: reddit 
---- 
-https://redd.it/orog25
