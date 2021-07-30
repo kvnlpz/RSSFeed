@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMP up over 50% the last 24 hrs 
-date: 2021-07-25 1627271119 
-categories: reddit 
---- 
-https://redd.it/orqqkx
