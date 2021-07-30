@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Armani__Jones 
-date: 2021-07-25 12:10:43 
-categories: twitter 
---- 
-@timothysykes I think you're following the wrong people
