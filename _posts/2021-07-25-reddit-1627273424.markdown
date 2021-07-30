@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: After avoiding junk food and saving spare change for a whole year, I am happy to announce that I've finally reached 0.0005 bitcoin. 
-date: 2021-07-25 1627273424 
-categories: reddit 
---- 
-https://redd.it/orrbnh
