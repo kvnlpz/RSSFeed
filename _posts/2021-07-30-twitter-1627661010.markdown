@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @vikidave 
+date: 2021-07-30 09:03:30 
+categories: twitter 
+--- 
+@alphatrends Would it be a good entry if it breaks this AVWAP level?
