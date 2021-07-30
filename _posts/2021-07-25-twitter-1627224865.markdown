@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joeschmo180 
-date: 2021-07-25 07:54:25 
-categories: twitter 
---- 
-@OddStockTrader @mrklondike1 Everyone else calls if futbol not just the EU
