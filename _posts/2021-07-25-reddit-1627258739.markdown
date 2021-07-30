@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Plaid - Why would anyone use it? 
-date: 2021-07-25 1627258739 
-categories: reddit 
---- 
-https://redd.it/orngx8
