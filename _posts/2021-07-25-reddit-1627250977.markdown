@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just a heads up! 
-date: 2021-07-25 1627250977 
-categories: reddit 
---- 
-https://redd.it/orl766
