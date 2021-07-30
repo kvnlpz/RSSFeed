@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:00:41 
-categories: twitter 
---- 
-RT @MikeBellafiore: Said to a developing trader:
-
-One advantage of trading at a prop firm is being surrounded by experienced traders who kn…
