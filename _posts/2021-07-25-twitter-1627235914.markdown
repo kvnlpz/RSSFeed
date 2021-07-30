@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shiraeis 
-date: 2021-07-25 10:58:34 
-categories: twitter 
---- 
-@nope_its_lily @tarunchitra @veronica_humble @RobinWigg We do indeed live in a society, a society of memes
