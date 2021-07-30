@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Augur pump but can’t move my tokens 
-date: 2021-07-25 1627257163 
-categories: reddit 
---- 
-https://redd.it/orn1b4
