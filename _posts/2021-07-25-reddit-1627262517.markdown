@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Tezos Foundation should sponsor GitHub's Hacktoberfest 
-date: 2021-07-25 1627262517 
-categories: reddit 
---- 
-https://redd.it/orohkt
