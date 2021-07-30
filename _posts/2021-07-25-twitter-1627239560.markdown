@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:20 
-categories: twitter 
---- 
-RT @MikeBellafiore: A Technical Analysis Trading Strategy for Cryptocurrencies https://t.co/E95NVi6twM via @YouTube
