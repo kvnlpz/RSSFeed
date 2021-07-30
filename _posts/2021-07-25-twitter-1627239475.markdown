@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:57:55 
-categories: twitter 
---- 
-RT @MikeBellafiore: Stand out quote from our monthly mentoring sessions, from a world-class trader:
-
-"I am most proud of being really BIG w…
