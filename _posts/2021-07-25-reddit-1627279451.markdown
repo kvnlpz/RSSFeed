@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: There’s no relation between BTC price and news articles 
-date: 2021-07-25 1627279451 
-categories: reddit 
---- 
-https://redd.it/orsqcr
