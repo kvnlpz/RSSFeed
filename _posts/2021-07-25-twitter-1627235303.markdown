@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @udiWertheimer 
-date: 2021-07-25 10:48:23 
-categories: twitter 
---- 
-@nope_its_lily ok great talk now back to the kitchen
