@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:57:32 
-categories: twitter 
---- 
-RT @MikeBellafiore: How are you improving the trading of others? 👊
