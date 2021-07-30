@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @edaytradinglife 
-date: 2021-07-25 07:44:31 
-categories: twitter 
---- 
-@timothysykes That's right
