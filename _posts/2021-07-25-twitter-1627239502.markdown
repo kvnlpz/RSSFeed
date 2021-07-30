@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:58:22 
-categories: twitter 
---- 
-RT @MikeBellafiore: Coming to our YouTube channel soon ⬇️👊
