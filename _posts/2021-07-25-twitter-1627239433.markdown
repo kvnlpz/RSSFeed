@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:57:13 
-categories: twitter 
---- 
-RT @MikeBellafiore: There is no fun if you are not winning as a trader.  And if you are not having fun as a profitable trader then you are…
