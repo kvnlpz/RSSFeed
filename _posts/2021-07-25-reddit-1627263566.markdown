@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $LCID analysis 
-date: 2021-07-25 1627263566 
-categories: reddit 
---- 
-https://redd.it/ororae
