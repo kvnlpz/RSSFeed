@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: This Binance agent has confirmed that for limit sell orders on spot trading is prioritized based on higher price and volume of assets. I had set limit order which was never fulfilled by binance. Now I'm facing a huge loss just because binance cannot complete all their orders. 
+date: 2021-07-30 1627660666 
+categories: reddit 
+--- 
+https://redd.it/ouncev
