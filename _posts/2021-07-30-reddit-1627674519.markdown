@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Stakewise, the first non-custodial pool for ETH staking, now enables you to compound your ETH2 rewards to grow your stake (and thus increase future rewards) 
+date: 2021-07-30 1627674519 
+categories: reddit 
+--- 
+https://redd.it/ousi59
