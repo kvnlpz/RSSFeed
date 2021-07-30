@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-30 08:28:02 
+categories: twitter 
+--- 
+Sometimes you just have to nod and move on.
