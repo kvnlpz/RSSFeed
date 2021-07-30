@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imperative_the 
-date: 2021-07-25 10:13:10 
-categories: twitter 
---- 
-RT @nope_its_lily: 'yes this pile of dogshit mixed with ebola is oversold, i'm really bullshit on a turnaround in Q4'
