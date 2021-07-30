@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Amp 
-date: 2021-07-25 1627245658 
-categories: reddit 
---- 
-https://redd.it/orjibz
