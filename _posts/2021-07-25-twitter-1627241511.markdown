@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-25 12:31:51 
-categories: twitter 
---- 
-Your dealer is always consistent on timing.
