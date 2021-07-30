@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:00:21 
-categories: twitter 
---- 
-RT @MikeBellafiore: I like them all but if you made me choose: Curiosity
