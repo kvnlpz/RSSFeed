@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:58 
-categories: twitter 
---- 
-RT @MikeBellafiore: "The practice of intermittent fasting—refraining from eating for extended periods each day—has been tied to both physio…
