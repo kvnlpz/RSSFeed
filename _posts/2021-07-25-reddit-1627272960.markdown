@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance to lower futures trading leverage limit to 20 times for existing users 
-date: 2021-07-25 1627272960 
-categories: reddit 
---- 
-https://redd.it/orr7jw
