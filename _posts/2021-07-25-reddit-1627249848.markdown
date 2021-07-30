@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My wallet already has XMR 
-date: 2021-07-25 1627249848 
-categories: reddit 
---- 
-https://redd.it/orkuec
