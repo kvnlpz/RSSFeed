@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gmerocketship 
-date: 2021-07-25 05:22:42 
-categories: twitter 
---- 
-@nope_its_lily I feel like it’s a lesson on how to start a business and marketing
