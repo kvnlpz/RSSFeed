@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $BODY is basically unshortable - 100 shares available to short with 116% fee 
-date: 2021-07-25 1627241609 
-categories: reddit 
---- 
-https://redd.it/ori7lv
