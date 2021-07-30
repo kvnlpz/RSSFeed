@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 11:05:52 
-categories: twitter 
---- 
-as a function of whatever the ATH was (let's say, 30% off ATH). 
-In this case, we can observe in the Colab two time… https://t.co/A3Hw3jkEcO
