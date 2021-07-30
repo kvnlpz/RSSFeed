@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I’m relatively new to crypto, and I tried to look online first, but didn’t find an specific answer for this: so I withdrew all my coins from Binance, as tokens, using BEP20, cuz it’s cheaper, for e.g. compared to ERC20, but I wonder, what will happen if Binance goes out of business? 
+date: 2021-07-30 1627688577 
+categories: reddit 
+--- 
+https://redd.it/ouwlpn
