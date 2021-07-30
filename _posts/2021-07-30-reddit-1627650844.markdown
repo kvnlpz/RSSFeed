@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin Basics: Blockchain, hashing and mining. 
+date: 2021-07-30 1627650844 
+categories: reddit 
+--- 
+https://redd.it/oukczh
