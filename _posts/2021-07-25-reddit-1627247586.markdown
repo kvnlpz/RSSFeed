@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transaction error sending ADA from Yoroi. Troubleshoot solutions? 
-date: 2021-07-25 1627247586 
-categories: reddit 
---- 
-https://redd.it/ork4md
