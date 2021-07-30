@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:57:44 
-categories: twitter 
---- 
-RT @MikeBellafiore: The work you do today is leading to you becoming what as a trader?
