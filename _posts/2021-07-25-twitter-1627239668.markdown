@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:01:08 
-categories: twitter 
---- 
-RT @MikeBellafiore: Trading does not have to be an individual sport.
