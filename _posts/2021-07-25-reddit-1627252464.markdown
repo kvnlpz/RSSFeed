@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Leave it on the app or move to a wallet? 
-date: 2021-07-25 1627252464 
-categories: reddit 
---- 
-https://redd.it/orlnpp
