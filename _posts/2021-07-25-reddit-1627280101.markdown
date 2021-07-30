@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The GTE is expected to record the highest sales ever. 
-date: 2021-07-25 1627280101 
-categories: reddit 
---- 
-https://redd.it/orsvcd
