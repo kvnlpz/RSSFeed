@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-07-30 11:16:06 
+categories: twitter 
+--- 
+RT @JPTrader10: $ISPC is a recent IPO, low float potential Covid play.  Through the iSpecimen marketplace, researchers access biospecimens…
