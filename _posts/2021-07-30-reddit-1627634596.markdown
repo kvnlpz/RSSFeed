@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Privacy-Threatening Flaw Discovered in Monero's (XMR) Wallet Code and what’s being done to fix it 
+date: 2021-07-30 1627634596 
+categories: reddit 
+--- 
+https://redd.it/ouguep
