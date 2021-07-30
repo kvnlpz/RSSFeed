@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @drakedanner 
-date: 2021-07-25 09:01:59 
-categories: twitter 
---- 
-RT @nope_its_lily: "How come we haven't hired Lily to provide best-in-class options based shitpost analysis?"
