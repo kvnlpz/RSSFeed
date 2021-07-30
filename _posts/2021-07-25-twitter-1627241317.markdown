@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stonkbody 
-date: 2021-07-25 12:28:37 
-categories: twitter 
---- 
-@InvestorsLive heads up, Ortex and Fintel Short Squeeze signals going off. 
-
-$WISA https://t.co/IWDxScClT9
