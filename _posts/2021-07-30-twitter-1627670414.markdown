@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @QuantVol 
+date: 2021-07-30 11:40:14 
+categories: twitter 
+--- 
+@nope_its_lily oh, but that's different than "each trade is close to iid"
+
+I agree one can beat mkt. Do x2 mkt, for… https://t.co/oeNs8rVPEU
