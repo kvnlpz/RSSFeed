@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a conversation I had with a friend who was into cryptocurrency in 2017 
-date: 2021-07-25 1627264576 
-categories: reddit 
---- 
-https://redd.it/orp0zc
