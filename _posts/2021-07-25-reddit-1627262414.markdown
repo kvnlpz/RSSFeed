@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC hit 48k in futures trade 
-date: 2021-07-25 1627262414 
-categories: reddit 
---- 
-https://redd.it/orogl7
