@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:00:56 
-categories: twitter 
---- 
-RT @MikeBellafiore: You Are Trading Better Than You Think https://t.co/KWdTIqOnXu via @YouTube
