@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What is the safest way to transfer a transaction from my Electrum “cold wallet” to the Electrum watch only wallet? 
+date: 2021-07-29 1627625702 
+categories: reddit 
+--- 
+https://redd.it/ouf49p
