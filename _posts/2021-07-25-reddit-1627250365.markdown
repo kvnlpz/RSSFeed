@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How safe are wallets? 
-date: 2021-07-25 1627250365 
-categories: reddit 
---- 
-https://redd.it/orl06d
