@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @brandon4chef 
+date: 2021-07-30 09:42:22 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Backtesting for Trading Success https://t.co/iwPNjlgIpM via @YouTube
