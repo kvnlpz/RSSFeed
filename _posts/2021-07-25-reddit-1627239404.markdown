@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: LAUNCH DAY 
-date: 2021-07-25 1627239404 
-categories: reddit 
---- 
-https://redd.it/orhiiw
