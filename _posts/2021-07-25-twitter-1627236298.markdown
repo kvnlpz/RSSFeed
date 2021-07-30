@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 11:04:58 
-categories: twitter 
---- 
-In this case, we can express the barrier as some uncertain (let's say normal but winsorized) B where B = delta * AT… https://t.co/ULRGo01oaT
