@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Unpopular opinion: Besides Ethereum there will only be one other main smart contract platform that "makes it" in the long run 
-date: 2021-07-25 1627256527 
-categories: reddit 
---- 
-https://redd.it/ormv4y
