@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @TheBident 
+date: 2021-07-30 13:13:20 
+categories: twitter 
+--- 
+RT @DevyanshuMahaj1: "you gotta swing your bat hard, when you see your pitch."
+
+- @MikeBellafiore
