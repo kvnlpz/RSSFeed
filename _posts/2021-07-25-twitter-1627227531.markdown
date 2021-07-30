@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 08:38:51 
-categories: twitter 
---- 
-@choffstein Got it, so it's perfect if you know you exactly want to work on structured products for the rest of your life
