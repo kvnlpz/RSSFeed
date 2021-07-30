@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos mentioned on CNBC the other day 
-date: 2021-07-25 1627275167 
-categories: reddit 
---- 
-https://redd.it/orrqyo
