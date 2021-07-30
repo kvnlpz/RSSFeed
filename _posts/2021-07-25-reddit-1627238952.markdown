@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can I move my asic miner to locations other than my home network? 
-date: 2021-07-25 1627238952 
-categories: reddit 
---- 
-https://redd.it/orhdcr
