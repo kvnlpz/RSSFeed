@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SundaeSwap's First On-Chain Swap Using Smart Contracts 
-date: 2021-07-25 1627248586 
-categories: reddit 
---- 
-https://redd.it/orkg4v
