@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Made this beginner's guide to Cardano (Originally posted on r/Cardano) 
-date: 2021-07-25 1627240141 
-categories: reddit 
---- 
-https://redd.it/orhqy5
