@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 11:48:46 
-categories: twitter 
---- 
-Sorry, deleted my prior thread on the Fed put and option pricing. Noticed a programming error. Will put it probably… https://t.co/iq9wE8xWUA
