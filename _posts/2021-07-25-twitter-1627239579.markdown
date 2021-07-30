@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rookie_mode 
-date: 2021-07-25 11:59:39 
-categories: twitter 
---- 
-@InvestorsLive what time is Sunday Scan out today? https://t.co/JLG1pUGiDV
