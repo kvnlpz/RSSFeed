@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Do NOT connect to shady shitcoin contracts if you don't wanna get hacked, and if you did connect, this is how to revert it 
+date: 2021-07-30 1627647963 
+categories: reddit 
+--- 
+https://redd.it/oujlyh
