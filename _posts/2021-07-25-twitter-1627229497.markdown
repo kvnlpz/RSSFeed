@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @subspaceforce 
-date: 2021-07-25 09:11:37 
-categories: twitter 
---- 
-@nope_its_lily @theemilyaccount ouch
