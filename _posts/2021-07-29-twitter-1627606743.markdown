@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @szaman 
+date: 2021-07-29 17:59:03 
+categories: twitter 
+--- 
+@InvestorsLive I am coming over!
