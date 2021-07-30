@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Will the DAG file stay below 3GB permanently? 
+date: 2021-07-29 1627615037 
+categories: reddit 
+--- 
+https://redd.it/ouclp8
