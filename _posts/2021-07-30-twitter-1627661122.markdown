@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @cafesoiree 
+date: 2021-07-30 09:05:22 
+categories: twitter 
+--- 
+@alphatrends Approaching $700. Seems the avwap ytd is breached and now showing relative strength.
