@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:12 
-categories: twitter 
---- 
-RT @MikeBellafiore: Is it possible to trade bigger while reducing risk and stress? https://t.co/hPBPcS3bIx
