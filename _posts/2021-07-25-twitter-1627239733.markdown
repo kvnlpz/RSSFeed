@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:02:13 
-categories: twitter 
---- 
-RT @MikeBellafiore: You have entered a new phase of your life, when you have to stretch before your morning walk.
