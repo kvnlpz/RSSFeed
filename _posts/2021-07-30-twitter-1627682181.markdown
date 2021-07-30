@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ThoughtBow 
+date: 2021-07-30 14:56:21 
+categories: twitter 
+--- 
+@nope_its_lily Sounds well thought out.
