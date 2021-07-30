@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jfarrow 
-date: 2021-07-25 06:24:18 
-categories: twitter 
---- 
-@nope_its_lily I would actually probably say “I know you from NOPE” though I guess
