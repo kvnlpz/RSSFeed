@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:00:17 
-categories: twitter 
---- 
-RT @MikeBellafiore: The best new traders tend to start standing out at ALL stages.  It starts with their email or application to the firm.…
