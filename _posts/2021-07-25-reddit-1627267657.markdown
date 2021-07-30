@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If i'm currently waiting 20 days to start staking and I add more cardano to my wallet right now,do I have to wait 20 days again or will it add to it? 
-date: 2021-07-25 1627267657 
-categories: reddit 
---- 
-https://redd.it/orpufo
