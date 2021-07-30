@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BogdanBoro1 
-date: 2021-07-25 12:25:24 
-categories: twitter 
---- 
-@super_trades @getMaiar @ElrondNetwork $egld $mex ⚡ ⚡ ⚡
