@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xnewyorkie 
-date: 2021-07-25 09:21:07 
-categories: twitter 
---- 
-RT @RayTL_: How Traders Can Learn to Relax and Be More Consistent | The Ultimate Trading Psychology Guide https://t.co/lgFCWgqsi7 via @Trad…
