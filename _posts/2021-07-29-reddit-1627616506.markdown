@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PSA: don’t use the points migration tool on MetaMask mobile 
+date: 2021-07-29 1627616506 
+categories: reddit 
+--- 
+https://redd.it/ouczl0
