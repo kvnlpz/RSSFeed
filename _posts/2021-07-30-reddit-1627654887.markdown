@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Credit spread question - Why is there no premium in selling bid/ask but such a large premium when selling ask/bid? What’s the likelihood of getting filled at 6.15? 
+date: 2021-07-30 1627654887 
+categories: reddit 
+--- 
+https://redd.it/oulj5a
