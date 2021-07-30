@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:00:02 
-categories: twitter 
---- 
-RT @MikeBellafiore: One Trading Myth that Actually Can Make You a Better Trader (and how) https://t.co/1vnVAcqqFx via @YouTube
