@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA If someone claiming to be the "wallet inspector" asks for your seed phrase. He's not really the wallet inspector. 
-date: 2021-07-25 1627259291 
-categories: reddit 
---- 
-https://redd.it/ornm3g
