@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:58:18 
-categories: twitter 
---- 
-RT @MikeBellafiore: "What they (SMB traders) trade is as important as how they trade." 👊
