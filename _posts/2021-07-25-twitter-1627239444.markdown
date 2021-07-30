@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:57:24 
-categories: twitter 
---- 
-RT @MikeBellafiore: My Keynote for SGX ⬇️👊
-
-How Elite Traders Are Crushing Markets (so you can too) https://t.co/Z4vrDZQrNs via @YouTube
