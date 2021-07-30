@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-30 00:37:27 
+categories: twitter 
+--- 
+RT @modern_rock: It’s time to go beyond words. Less talk and more action. How badly do you want to succeed? https://t.co/GgnYhy6vbf
