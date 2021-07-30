@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: "But how does DeFi actually work?" A guide to automated market makers, liquidity pools, and impermanent loss. 
+date: 2021-07-30 1627681805 
+categories: reddit 
+--- 
+https://redd.it/ouupzh
