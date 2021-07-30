@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @villegas_yaneli 
-date: 2021-07-25 05:26:47 
-categories: twitter 
---- 
-RT @timothysykes: All my https://t.co/EcfUM6l2S3 students, definitely tune in today 4:30-6pm EST for a special webinar by @traderkylec who…
