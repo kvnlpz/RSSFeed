@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-07-30 12:31:26 
+categories: twitter 
+--- 
+@SatoshiAlien The speed at which several applications are being built on it and likely use of the applications.
