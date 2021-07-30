@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:02:20 
-categories: twitter 
---- 
-RT @MikeBellafiore: "Most people don’t want accurate information, they want validating information.
-
-Growth requires you to be open to unle…
