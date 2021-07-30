@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @what_so_ever 
+date: 2021-07-30 15:27:42 
+categories: twitter 
+--- 
+@nope_its_lily Yeah it shows as a reference Frankfurt because it is not liquidated and passively tracking the perfo… https://t.co/NvzEVr8YsW
