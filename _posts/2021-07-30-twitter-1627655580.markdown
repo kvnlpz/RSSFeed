@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tsipe 
+date: 2021-07-30 07:33:00 
+categories: twitter 
+--- 
+@alphatrends There are 10 types of people in the world. Those that know binary and those that don't.
