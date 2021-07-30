@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alexthetrader75 
-date: 2021-07-25 06:02:25 
-categories: twitter 
---- 
-@InvestorsLive Love it
