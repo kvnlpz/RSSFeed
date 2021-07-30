@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Friendly reminder to include the memo when sending XLM 
-date: 2021-07-25 1627254547 
-categories: reddit 
---- 
-https://redd.it/orma56
