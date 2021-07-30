@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichalPiechocki 
-date: 2021-07-25 05:23:31 
-categories: twitter 
---- 
-@nope_its_lily Isnt that „typical” netflix show, which can be summed up with one sentence „dont be a tyrant” xD
