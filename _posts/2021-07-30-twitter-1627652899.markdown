@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BoyyGeorgia 
+date: 2021-07-30 06:48:19 
+categories: twitter 
+--- 
+@super_trades Is there a certain platform that needs to be used?
