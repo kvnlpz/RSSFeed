@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pawtraks 
-date: 2021-07-25 07:50:01 
-categories: twitter 
---- 
-@OddStockTrader I have been fasting for 6 months
