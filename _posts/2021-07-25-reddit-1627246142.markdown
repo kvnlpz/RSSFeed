@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Interoperability between different blockchains is one of the reasons why Cardano is such good technology. It doesn't use NiPoPoWs, but it will be able to connect to blockchains that do to take advantage of features PoS can't offer. 
-date: 2021-07-25 1627246142 
-categories: reddit 
---- 
-https://redd.it/orjnru
