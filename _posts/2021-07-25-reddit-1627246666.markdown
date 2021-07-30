@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If somebody sent 1 ETH or BTC to a random wallet that doesn't exist yet, is it theoretically possible for someone to create that wallet later and start with this lost 1 ETH/BTC? 
-date: 2021-07-25 1627246666 
-categories: reddit 
---- 
-https://redd.it/orjtwl
