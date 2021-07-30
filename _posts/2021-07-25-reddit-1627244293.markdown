@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stock recommendation 
-date: 2021-07-25 1627244293 
-categories: reddit 
---- 
-https://redd.it/orj2k3
