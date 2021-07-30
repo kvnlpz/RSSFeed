@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:35 
-categories: twitter 
---- 
-RT @MikeBellafiore: The Secondary Trading Strategy (done better) https://t.co/M62227EF9a via @YouTube
