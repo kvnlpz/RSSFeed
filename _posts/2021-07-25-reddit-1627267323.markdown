@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many Iron Condors can be opened in a week? 
-date: 2021-07-25 1627267323 
-categories: reddit 
---- 
-https://redd.it/orpr9c
