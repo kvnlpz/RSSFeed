@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DavidVanlandin2 
+date: 2021-07-30 05:27:40 
+categories: twitter 
+--- 
+@alphatrends he knows his math!
