@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Masterpiece 
-date: 2021-07-25 1627262572 
-categories: reddit 
---- 
-https://redd.it/ormzhv
