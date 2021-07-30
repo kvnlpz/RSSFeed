@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FutureSumer9000 
-date: 2021-07-25 09:05:06 
-categories: twitter 
---- 
-@nope_its_lily Still have those dreams in my 30s.
