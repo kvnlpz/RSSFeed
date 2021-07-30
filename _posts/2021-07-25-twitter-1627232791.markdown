@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulspeziale 
-date: 2021-07-25 10:06:31 
-categories: twitter 
---- 
-@nope_its_lily Yes but sometimes it works and sometimes it doesn’t.
