@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Today I purchased my first 20 USD on bitcoin 
-date: 2021-07-25 1627259424 
-categories: reddit 
---- 
-https://redd.it/ornncy
