@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 10:38:16 
-categories: twitter 
---- 
-@veronica_humble @RobinWigg @shiraeis @tarunchitra It really depends on what kind of optimization you believe the l… https://t.co/NmFnXaQJwm
