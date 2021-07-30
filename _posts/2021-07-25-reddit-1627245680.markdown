@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH 2.0 Surpasses 200K Validators, Now Staking $14B in ETH 
-date: 2021-07-25 1627245680 
-categories: reddit 
---- 
-https://redd.it/orjimo
