@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just sold all my BTC for eth and put it all into validators. 
-date: 2021-07-25 1627258393 
-categories: reddit 
---- 
-https://redd.it/orndjf
