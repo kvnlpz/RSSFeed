@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: RINGCT will fix this! 
-date: 2021-07-25 1627243978 
-categories: reddit 
---- 
-https://redd.it/oriyzv
