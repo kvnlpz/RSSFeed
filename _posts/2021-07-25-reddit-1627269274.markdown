@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This morning I was at -45% but accepted my portfolio’s fate. This evening I’m at -32% and crossing my fingers. 
-date: 2021-07-25 1627269274 
-categories: reddit 
---- 
-https://redd.it/orq9qh
