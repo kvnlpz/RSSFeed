@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Don’t be silly 
-date: 2021-07-25 1627262116 
-categories: reddit 
---- 
-https://redd.it/orodqd
