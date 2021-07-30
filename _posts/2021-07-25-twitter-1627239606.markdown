@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 12:00:06 
-categories: twitter 
---- 
-RT @MikeBellafiore: Just jabbed with second $MRNA shot 👊💪
