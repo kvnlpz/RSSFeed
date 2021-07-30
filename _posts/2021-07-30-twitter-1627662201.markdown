@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MarketPicker 
+date: 2021-07-30 09:23:21 
+categories: twitter 
+--- 
+@alphatrends Nice looking range.
