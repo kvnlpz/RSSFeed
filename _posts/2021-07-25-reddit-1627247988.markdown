@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fake volume on txbit? 
-date: 2021-07-25 1627247988 
-categories: reddit 
---- 
-https://redd.it/ork9k6
