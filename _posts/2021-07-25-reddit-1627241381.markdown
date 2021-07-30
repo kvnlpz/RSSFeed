@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nice meme from twitter 
-date: 2021-07-25 1627241381 
-categories: reddit 
---- 
-https://redd.it/ori4nq
