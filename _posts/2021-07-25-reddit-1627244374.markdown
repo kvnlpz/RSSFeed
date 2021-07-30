@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano gem! 
-date: 2021-07-25 1627244374 
-categories: reddit 
---- 
-https://redd.it/orj3fk
