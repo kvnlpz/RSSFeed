@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:31 
-categories: twitter 
---- 
-RT @MikeBellafiore: What if it is just not accurate that you should keep your profitable trading strategy to yourself?
-What if that misbeli…
