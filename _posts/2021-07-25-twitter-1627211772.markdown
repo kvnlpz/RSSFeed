@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fitzdaf 
-date: 2021-07-25 04:16:12 
-categories: twitter 
---- 
-@nope_its_lily Talk more about this, if there aren’t compliance issues. Sounds interesting
