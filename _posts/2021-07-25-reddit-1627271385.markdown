@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Slow Upload Speed though I run a full nodeand have the network port forwarded - Bitcoin Knots 
-date: 2021-07-25 1627271385 
-categories: reddit 
---- 
-https://redd.it/orqsxa
