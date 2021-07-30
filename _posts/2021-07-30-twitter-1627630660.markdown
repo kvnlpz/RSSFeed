@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Austinedai 
+date: 2021-07-30 00:37:40 
+categories: twitter 
+--- 
+RT @modern_rock: The price for experience is a lot of time and a lot of money. However you can reduce the learning  curve significantly by…
