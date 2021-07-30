@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-07-30 06:51:27 
+categories: twitter 
+--- 
+@MrZackMorris Hopefully a wallet chain.
