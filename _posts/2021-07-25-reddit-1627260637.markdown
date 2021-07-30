@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to sign transaction on offline Bitcoin Core using online Bitcoin Core. 
-date: 2021-07-25 1627260637 
-categories: reddit 
---- 
-https://redd.it/ornz56
