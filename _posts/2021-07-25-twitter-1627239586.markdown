@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:59:46 
-categories: twitter 
---- 
-RT @MikeBellafiore: The Higher Time Frame Technical Trading Strategy (revealed) https://t.co/G4NuAeTMn6 via @YouTube
