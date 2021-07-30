@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I bought Monero a while ago and I want to keep it safe as possible 
-date: 2021-07-25 1627281025 
-categories: reddit 
---- 
-https://redd.it/ort2ms
