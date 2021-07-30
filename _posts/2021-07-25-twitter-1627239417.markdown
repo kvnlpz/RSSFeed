@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulchehade 
-date: 2021-07-25 11:56:57 
-categories: twitter 
---- 
-RT @MikeBellafiore: Trader: I just had my best day ever.
-Me: It’s 1:17. Chat at the end of the day. You will have a new best day ever then.
