@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cryptkill 
-date: 2021-07-25 09:19:16 
-categories: twitter 
---- 
-@timothysykes @jackdan_no7 A great teacher keeps the material fresh, interesting, and exciting. https://t.co/E7YWmTDBJN
