@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why Tezos was behind in bullrun 
-date: 2021-07-25 1627244055 
-categories: reddit 
---- 
-https://redd.it/orizw5
