@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: very difficult 
-date: 2021-07-25 1627254388 
-categories: reddit 
---- 
-https://redd.it/orm8kh
