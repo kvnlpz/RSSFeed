@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @badral 
+date: 2021-07-30 15:01:25 
+categories: twitter 
+--- 
+@alphatrends What is the green line?
