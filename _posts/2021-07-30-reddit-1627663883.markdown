@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Average byte size per transaction? 
+date: 2021-07-30 1627663883 
+categories: reddit 
+--- 
+https://redd.it/ouodtr
