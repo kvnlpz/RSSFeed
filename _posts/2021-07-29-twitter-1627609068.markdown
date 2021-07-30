@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @sajidnizami 
+date: 2021-07-29 18:37:48 
+categories: twitter 
+--- 
+@nope_its_lily @Jo3ee You could build something similar to figure out SPX moves against stocks too.
