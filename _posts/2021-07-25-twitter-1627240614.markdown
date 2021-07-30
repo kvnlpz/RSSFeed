@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ydouright 
-date: 2021-07-25 12:16:54 
-categories: twitter 
---- 
-@timothysykes Batting average is a bad stat so that might actually be interesting - but get the point
