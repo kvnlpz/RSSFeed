@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC futures July contracts expire this friday. 
-date: 2021-07-25 1627260758 
-categories: reddit 
---- 
-https://redd.it/oro08q
