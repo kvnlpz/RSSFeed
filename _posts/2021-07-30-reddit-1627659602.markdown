@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why ICP (Internet Computer Protocol) Replacement of Proprietary cloud platforms like AWS & Azure is Important 
+date: 2021-07-30 1627659602 
+categories: reddit 
+--- 
+https://redd.it/oun0a6
