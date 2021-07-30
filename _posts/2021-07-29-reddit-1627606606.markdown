@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ledger hard wallet need 3rd party wallet with several public addresses can someone explain how this works? 
+date: 2021-07-29 1627606606 
+categories: reddit 
+--- 
+https://redd.it/ouae56
