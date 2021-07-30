@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SimpleSwap: Attempted to convert ETH to Theta over 2 hours ago and still hasn't hit my wallet. My funds seem lost. Any insights would be appreciated. 
-date: 2021-07-25 1627266699 
-categories: reddit 
---- 
-https://redd.it/orplhd
