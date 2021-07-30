@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Busts through 35k 
-date: 2021-07-25 1627257892 
-categories: reddit 
---- 
-https://redd.it/orn8qa
