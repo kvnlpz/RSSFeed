@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paquibena 
-date: 2021-07-25 12:03:06 
-categories: twitter 
---- 
-RT @RobinWigg: I’m sure this will rile a lot of people, but it’s generally … right? It is a bit sad how many incredibly smart science grads…
