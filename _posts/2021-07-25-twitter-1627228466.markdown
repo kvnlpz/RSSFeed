@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 08:54:26 
-categories: twitter 
---- 
-@InstAllocator @SMTuffy https://t.co/9TsyFBPp8g
