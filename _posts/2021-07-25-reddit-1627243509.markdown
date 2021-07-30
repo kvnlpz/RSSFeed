@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We just launched NFT-MAKER PRO - the backend service powering The Hoskinsons & unsigned_algorithms sales and the upcoming NFT-MAKER marketplace. Check it out: nft-maker.io/pro 
-date: 2021-07-25 1627243509 
-categories: reddit 
---- 
-https://redd.it/orism1
