@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Post from July 20th, when BTC went below 30k. 
-date: 2021-07-25 1627268766 
-categories: reddit 
---- 
-https://redd.it/orq50s
