@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TaskOrder 
+date: 2021-07-30 06:43:34 
+categories: twitter 
+--- 
+RT @KerrisdaleCap: Other investor concerns should also soon fade – a key government contract, EOCL, will be awarded next year inline with c…
