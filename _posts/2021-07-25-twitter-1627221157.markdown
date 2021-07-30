@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-07-25 06:52:37 
-categories: twitter 
---- 
-RT @G_krupins: $EEM There's often a fine line between a good buy and a good sell.  Looks like emerging markets are right around that line.…
