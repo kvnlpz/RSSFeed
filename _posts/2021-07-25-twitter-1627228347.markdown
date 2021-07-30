@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 08:52:27 
-categories: twitter 
---- 
-@InstAllocator 'why did you start your backtest exactly on February 6, 2018'
