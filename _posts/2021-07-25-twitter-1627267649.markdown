@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mannyssoto 
-date: 2021-07-25 19:47:29 
-categories: twitter 
---- 
-@timothysykes I hate social media so much but honestly I have found it to be a good source for news that I can fact check
