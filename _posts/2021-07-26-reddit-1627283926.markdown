@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Making custom alt coins for people 
-date: 2021-07-26 1627283926 
-categories: reddit 
---- 
-https://redd.it/ortpgg
