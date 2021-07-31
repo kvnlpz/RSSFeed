@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DAOs: OpenLaw releases the Tribute DAO, MakerDAO completes its decentralization, Uniswap grants… 
-date: 2021-07-26 1627299111 
-categories: reddit 
---- 
-https://redd.it/orwu16
