@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cold Wallet and Seed Dilemma 
+date: 2021-07-30 1627700459 
+categories: reddit 
+--- 
+https://redd.it/ouzj90
