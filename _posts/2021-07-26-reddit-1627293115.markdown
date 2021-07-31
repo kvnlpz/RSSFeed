@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moving funds onto MyConstant, Nexo, BlockFi? 
-date: 2021-07-26 1627293115 
-categories: reddit 
---- 
-https://redd.it/orvjmg
