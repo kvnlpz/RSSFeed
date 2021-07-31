@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: YSK there are weak keys in secp256k1 elliptic curve and this paper gives an algorithm to choosing stronger keys. 
+date: 2021-07-31 1627758389 
+categories: reddit 
+--- 
+https://redd.it/ovcz5v
