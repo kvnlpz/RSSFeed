@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JeremyDFHinman 
-date: 2021-07-25 18:05:37 
-categories: twitter 
---- 
-@nope_its_lily I know one person who called this 4 days ago
