@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AmirAli7e 
-date: 2021-07-25 13:48:26 
-categories: twitter 
---- 
-@nope_its_lily Further into abyss...
