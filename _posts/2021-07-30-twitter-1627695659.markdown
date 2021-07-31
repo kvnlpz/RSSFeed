@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @IDrawCharts 
+date: 2021-07-30 18:40:59 
+categories: twitter 
+--- 
+@nope_its_lily might be talking my own book a lil, since I'm building a lending rate protocol :P
