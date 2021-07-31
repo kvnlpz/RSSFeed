@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mother Nature knows where your Private Key is 
-date: 2021-07-26 1627304837 
-categories: reddit 
---- 
-https://redd.it/orybxs
