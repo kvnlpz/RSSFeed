@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Since selling naked calls is illegal, does that mean the market makers have to purchase 100 shares to hedge, when I buy an OTM call? 
+date: 2021-07-31 1627740710 
+categories: reddit 
+--- 
+https://redd.it/ov7u14
