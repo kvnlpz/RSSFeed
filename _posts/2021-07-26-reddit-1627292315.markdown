@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Citadel.one is excited by the announcement Cosmos ecosystem integrates Band Protocol! 
-date: 2021-07-26 1627292315 
-categories: reddit 
---- 
-https://redd.it/orvduc
