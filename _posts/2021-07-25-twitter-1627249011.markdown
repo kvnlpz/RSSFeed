@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RealMrGhoul 
-date: 2021-07-25 14:36:51 
-categories: twitter 
---- 
-@nope_its_lily Not funny!
-
-Harrumph!
