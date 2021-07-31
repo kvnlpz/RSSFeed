@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 17:43:51 
-categories: twitter 
---- 
-@at_Tolius93 https://t.co/DNhPaStlr6
