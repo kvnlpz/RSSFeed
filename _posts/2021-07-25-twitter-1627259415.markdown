@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PaperinoPoopino 
-date: 2021-07-25 17:30:15 
-categories: twitter 
---- 
-@markflowchatter @JCOviedo6 https://t.co/kC4CbCz1Er
