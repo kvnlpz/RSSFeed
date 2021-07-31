@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I've made a site where you can check the most mentioned coins on this subreddit (and more) 
-date: 2021-07-26 1627300341 
-categories: reddit 
---- 
-https://redd.it/orx472
