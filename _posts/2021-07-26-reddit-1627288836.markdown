@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gone fishin 
-date: 2021-07-26 1627288836 
-categories: reddit 
---- 
-https://redd.it/orup48
