@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s with all the big increases 
-date: 2021-07-26 1627300205 
-categories: reddit 
---- 
-https://redd.it/orx32e
