@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @McQueenFu 
-date: 2021-07-25 21:37:03 
-categories: twitter 
---- 
-@nope_its_lily what is iv
