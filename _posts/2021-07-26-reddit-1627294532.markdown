@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about COMIT atomic swap and hold up 
-date: 2021-07-26 1627294532 
-categories: reddit 
---- 
-https://redd.it/orbgvy
