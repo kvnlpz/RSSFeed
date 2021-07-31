@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @robertsd 
-date: 2021-07-25 18:06:57 
-categories: twitter 
---- 
-@nope_its_lily Is that a twinkle in your eyes, or are your lasers coming online?
