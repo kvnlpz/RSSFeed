@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Artaxzerxes 
-date: 2021-07-25 19:48:31 
-categories: twitter 
---- 
-@nope_its_lily Tweet hedges against tweet 10/10 risk management
