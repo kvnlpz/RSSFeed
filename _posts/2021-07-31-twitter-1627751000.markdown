@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JohnB_Blutarsky 
+date: 2021-07-31 10:03:20 
+categories: twitter 
+--- 
+@nope_its_lily We're still pretty early stages of "Layer 3" protocols for cross-chain interoperability. It's coming though, no doubt.
