@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CompresedFold 
-date: 2021-07-25 18:35:07 
-categories: twitter 
---- 
-@OddStockTrader guess what's not working during volatility? $COIN
