@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chrislein3 
-date: 2021-07-25 22:27:26 
-categories: twitter 
---- 
-@nope_its_lily Good luck to you. I hope you learn and enjoy in your new role.
