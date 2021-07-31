@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eco_NO_mist 
-date: 2021-07-25 20:03:23 
-categories: twitter 
---- 
-@nope_its_lily @noisy_mcwiggles
