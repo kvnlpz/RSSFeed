@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 13:55:37 
-categories: twitter 
---- 
-pls, would be cool
