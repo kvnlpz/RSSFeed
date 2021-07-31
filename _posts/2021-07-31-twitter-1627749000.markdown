@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @beach_trades 
+date: 2021-07-31 09:30:00 
+categories: twitter 
+--- 
+@super_trades Gurneys all class!
