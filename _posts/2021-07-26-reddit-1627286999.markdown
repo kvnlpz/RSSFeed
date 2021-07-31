@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Portfolio App (API + xPub/Ledger Support) 
-date: 2021-07-26 1627286999 
-categories: reddit 
---- 
-https://redd.it/oruc1e
