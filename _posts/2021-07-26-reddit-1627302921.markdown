@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Could someone create a price graph, but for a Fiat like USD for the last 10 years or so please? 
-date: 2021-07-26 1627302921 
-categories: reddit 
---- 
-https://redd.it/orxscy
