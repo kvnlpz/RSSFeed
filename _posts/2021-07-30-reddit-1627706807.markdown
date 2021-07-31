@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Electrum 4.15 using ACINQ trampoline node. 
+date: 2021-07-30 1627706807 
+categories: reddit 
+--- 
+https://redd.it/ov0zdx
