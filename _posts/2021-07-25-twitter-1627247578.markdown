@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @buzunel0 
-date: 2021-07-25 14:12:58 
-categories: twitter 
---- 
-@super_trades $lanc https://t.co/7vuvwLMiGw
-@lancerialabs 
-Powered by IBM and AWS.🔥 https://t.co/YdxP9Sy4Wa
