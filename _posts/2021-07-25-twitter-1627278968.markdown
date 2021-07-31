@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tarunchitra 
-date: 2021-07-25 22:56:08 
-categories: twitter 
---- 
-@nope_its_lily @acityinohio https://t.co/FReQG0xUZ1
