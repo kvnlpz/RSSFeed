@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @egl5712 
-date: 2021-07-25 19:07:09 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/8mhOukXsim
