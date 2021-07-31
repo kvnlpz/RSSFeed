@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @fattygustave 
+date: 2021-07-31 11:53:34 
+categories: twitter 
+--- 
+@nope_its_lily @ln_strike Fiat -&gt; BTC -&gt; Fiat
+They handle currency conversion, etc.
