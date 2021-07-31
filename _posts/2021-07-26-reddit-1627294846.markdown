@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reports are coming in that Amazon plans to integrate Bitcoin, ADA, ETH, & BCH in the very near future. This has apparently been a work in progress for several years. 
-date: 2021-07-26 1627294846 
-categories: reddit 
---- 
-https://redd.it/orvwg8
