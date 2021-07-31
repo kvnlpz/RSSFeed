@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMP tick tock 
-date: 2021-07-26 1627297484 
-categories: reddit 
---- 
-https://redd.it/orwgy9
