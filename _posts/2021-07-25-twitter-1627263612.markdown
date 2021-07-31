@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LewPayne 
-date: 2021-07-25 18:40:12 
-categories: twitter 
---- 
-@nope_its_lily Sorry, but I beat you to it... I started on Friday during the O session.
