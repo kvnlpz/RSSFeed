@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-31 11:53:29 
+categories: twitter 
+--- 
+@fattygustave @ln_strike Also it probably requires both the sender and receiver to both be Strike users, and is centralized to my knowledge
