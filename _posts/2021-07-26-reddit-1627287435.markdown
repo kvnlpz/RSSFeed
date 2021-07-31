@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trading bot 
-date: 2021-07-26 1627287435 
-categories: reddit 
---- 
-https://redd.it/oruf8s
