@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_OddStockTrader 
-date: 2021-07-25 16:33:22 
-categories: twitter 
---- 
-RT @OddStockTrader: $JO shewww https://t.co/5EIsZvzMRi
