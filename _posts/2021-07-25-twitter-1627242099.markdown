@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AidanKoprowski 
-date: 2021-07-25 12:41:39 
-categories: twitter 
---- 
-RT @InvestorsLive: Your dealer is always consistent on timing.
