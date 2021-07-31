@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dinofold 
-date: 2021-07-25 17:59:25 
-categories: twitter 
---- 
-@nope_its_lily I am over old can confirm it exists
