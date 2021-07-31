@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1peacefulkoala 
-date: 2021-07-25 18:39:30 
-categories: twitter 
---- 
-@nope_its_lily @profplum99 actually has a model where that happens https://t.co/Aj2Uw67PZB
