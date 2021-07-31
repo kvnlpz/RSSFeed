@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LewPayne 
-date: 2021-07-25 22:33:47 
-categories: twitter 
---- 
-@nope_its_lily You mean you're not earning a very comfortable living through trading?
