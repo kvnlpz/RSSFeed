@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tradeslongshort 
-date: 2021-07-25 13:35:55 
-categories: twitter 
---- 
-@nope_its_lily @subspaceforce https://t.co/few3La33Ad
