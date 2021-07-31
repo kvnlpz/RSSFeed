@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_OddStockTrader 
-date: 2021-07-25 16:31:57 
-categories: twitter 
---- 
-RT @OddStockTrader: The ladies like it on the long side
