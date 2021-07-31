@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is a third party hardware wallet just a fancy and convenient way to generate your own keys? 
+date: 2021-07-31 1627759840 
+categories: reddit 
+--- 
+https://redd.it/ovdeic
