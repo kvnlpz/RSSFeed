@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LookAtTheVolume 
-date: 2021-07-25 19:50:46 
-categories: twitter 
---- 
-@nope_its_lily Is that the day the bear market rally ends?
