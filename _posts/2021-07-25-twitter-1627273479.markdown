@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @South_Alpha 
-date: 2021-07-25 21:24:39 
-categories: twitter 
---- 
-@nope_its_lily @RaoulGMI @jaredstine @SrivatsPrakash buy and hope
