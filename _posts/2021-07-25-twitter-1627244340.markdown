@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ns123abc 
-date: 2021-07-25 13:19:00 
-categories: twitter 
---- 
-RT @nope_its_lily: So @shiraeis and @3PointTrader are criminally underfollowed, upgrading their FinTwit ratings to "bullish"
