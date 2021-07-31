@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @turtles_Roll 
-date: 2021-07-25 20:16:31 
-categories: twitter 
---- 
-@nope_its_lily @loomdart Bullish
