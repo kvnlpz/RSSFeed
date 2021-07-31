@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Clutchcaller 
-date: 2021-07-25 17:47:03 
-categories: twitter 
---- 
-@timothysykes Amen brother!! https://t.co/agxGfNsWzb
