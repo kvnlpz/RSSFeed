@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mevsmarket 
-date: 2021-07-25 20:11:10 
-categories: twitter 
---- 
-@nope_its_lily Where did the meme crypto seesaw theory come from? Felt like a correlation not causation type of thing to me.
