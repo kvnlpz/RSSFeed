@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @making_sales 
-date: 2021-07-25 14:43:34 
-categories: twitter 
---- 
-@InvestorsLive LFG
