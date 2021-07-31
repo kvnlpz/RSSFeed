@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nj_hiker 
+date: 2021-07-31 09:47:30 
+categories: twitter 
+--- 
+@nope_its_lily We all know cats don’t care what we think anyway
