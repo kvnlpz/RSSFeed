@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-07-25 20:05:59 
-categories: twitter 
---- 
-@nope_its_lily @AnalystDC @subspaceforce Before I became bearlord they called me gitlord.
