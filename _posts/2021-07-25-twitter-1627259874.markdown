@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 17:37:54 
-categories: twitter 
---- 
-@QuantVol ya I literally wrote a thread about this
-https://t.co/rfNJkwVdK6
