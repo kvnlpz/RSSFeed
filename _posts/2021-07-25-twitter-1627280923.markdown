@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrChen2008 
-date: 2021-07-25 23:28:43 
-categories: twitter 
---- 
-@nope_its_lily He is not coming back to White House.
