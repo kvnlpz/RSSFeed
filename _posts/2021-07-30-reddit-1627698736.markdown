@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Best practice for sharing wallet addresses publically 
+date: 2021-07-30 1627698736 
+categories: reddit 
+--- 
+https://redd.it/ouz4cb
