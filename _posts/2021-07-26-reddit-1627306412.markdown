@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 9:00 PM EST BTC value jump 
-date: 2021-07-26 1627306412 
-categories: reddit 
---- 
-https://redd.it/orysts
