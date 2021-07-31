@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @UrInsideMan 
-date: 2021-07-25 16:08:51 
-categories: twitter 
---- 
-@nope_its_lily I have that dream every other day. Something something anxiety
