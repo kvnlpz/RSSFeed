@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made an app that predicts BTC performance without the use of historical data 
-date: 2021-07-26 1627298494 
-categories: reddit 
---- 
-https://redd.it/orwp1e
