@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brrrzooka 
-date: 2021-07-25 19:50:38 
-categories: twitter 
---- 
-@nope_its_lily If it looks like nothing is going to happen it's just because that's the date that you're going to give your next prediction
