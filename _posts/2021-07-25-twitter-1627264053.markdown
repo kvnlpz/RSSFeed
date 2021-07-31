@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JamesDeschamps 
-date: 2021-07-25 18:47:33 
-categories: twitter 
---- 
-@nope_its_lily 👏👏👏gl https://t.co/jLG6bFpcoa
