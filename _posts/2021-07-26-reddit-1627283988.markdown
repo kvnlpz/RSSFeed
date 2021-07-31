@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Polygon joins Wyre's mission to build secure fiat-to-crypto onramp 
-date: 2021-07-26 1627283988 
-categories: reddit 
---- 
-https://redd.it/ortpwo
