@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cycle_money 
-date: 2021-07-25 13:04:32 
-categories: twitter 
---- 
-RT @nope_its_lily: @Alt_Trader1 @InstAllocator I had a thread on it, but this is really two separate questions:
-1) How do you (the quant fi…
