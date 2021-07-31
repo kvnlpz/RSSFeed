@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brrrharis 
-date: 2021-07-25 19:15:23 
-categories: twitter 
---- 
-@nope_its_lily Print: “Nope “ &gt;200 = SELL😂
