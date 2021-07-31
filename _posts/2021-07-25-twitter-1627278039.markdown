@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DynothermsGo 
-date: 2021-07-25 22:40:39 
-categories: twitter 
---- 
-@nope_its_lily definitely.. RSI is where it is at.
