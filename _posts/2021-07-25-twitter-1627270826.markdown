@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dinofold 
-date: 2021-07-25 20:40:26 
-categories: twitter 
---- 
-@nope_its_lily faalse, it happens August 4th
