@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tim Beiko, Ethereum Dev, confirms London hard fork (including EIP-1559) for August 4 between 13:00 UTC and 17:00 UTC with block 12,965,000. 
-date: 2021-07-26 1627291941 
-categories: reddit 
---- 
-https://redd.it/orvb9n
