@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @0x000000000019d 
+date: 2021-07-31 11:30:38 
+categories: twitter 
+--- 
+@nope_its_lily Aren’t they actually per contract? iiuc, there isn’t any native concept of NFTs on ETH unless define… https://t.co/IPNZoZ2Rev
