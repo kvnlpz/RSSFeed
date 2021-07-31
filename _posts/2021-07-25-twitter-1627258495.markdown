@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @holdmytexan 
-date: 2021-07-25 17:14:55 
-categories: twitter 
---- 
-@InvestorsLive @TessaLamping No but it would give me more opportunities to learn from my mistakes
