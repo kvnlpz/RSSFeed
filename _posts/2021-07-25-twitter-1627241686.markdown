@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @anatlevyohayon 
-date: 2021-07-25 12:34:46 
-categories: twitter 
---- 
-@timothysykes I'm just glad I came across you first and not one of these scammers
