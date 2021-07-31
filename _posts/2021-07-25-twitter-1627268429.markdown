@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnSerwach 
-date: 2021-07-25 20:00:29 
-categories: twitter 
---- 
-@nope_its_lily @teen_executive https://t.co/nOgoONeP0Q
