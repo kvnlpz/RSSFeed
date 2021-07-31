@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Syboutzen 
-date: 2021-07-25 19:51:19 
-categories: twitter 
---- 
-@RayTL_ Yup, lightened my load last week by pruning under performers.
