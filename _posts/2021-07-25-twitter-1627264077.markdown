@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @taha_marzak20 
-date: 2021-07-25 18:47:57 
-categories: twitter 
---- 
-@alphatrends where can i learn trading i am already familliar with indicators 
-any help sir
