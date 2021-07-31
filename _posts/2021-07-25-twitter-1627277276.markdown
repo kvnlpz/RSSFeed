@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @orangetwingo 
-date: 2021-07-25 22:27:56 
-categories: twitter 
---- 
-@nope_its_lily Good luck on your first day!
