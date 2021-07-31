@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Donations needed 
-date: 2021-07-26 1627303691 
-categories: reddit 
---- 
-https://redd.it/ory00r
