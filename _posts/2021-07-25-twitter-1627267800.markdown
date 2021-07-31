@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StunLikes 
-date: 2021-07-25 19:50:00 
-categories: twitter 
---- 
-@nope_its_lily can’t wait to give you your clout flowers
