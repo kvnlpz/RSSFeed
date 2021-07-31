@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KevinSm21829112 
-date: 2021-07-25 18:48:10 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/gKI95O2vFR
