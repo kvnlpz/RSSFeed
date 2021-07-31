@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eli_bomaye 
-date: 2021-07-25 17:14:11 
-categories: twitter 
---- 
-RT @InvestorsLive: @MrZackMorris You just ruined a handful of egg accounts Sunday. How rude. Now what do they have to do the rest of their…
