@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto Portfolio Template 
-date: 2021-07-26 1627284246 
-categories: reddit 
---- 
-https://redd.it/orts16
