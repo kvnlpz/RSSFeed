@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-25 16:00:05 
-categories: twitter 
---- 
-https://t.co/gmxwzuWwAY @mitnick2 good, it's my honor to be blunt AF!
