@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @edogerry95 
-date: 2021-07-25 18:37:17 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade 3:36 am in Italy, still studying
