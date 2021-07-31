@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @moj_jalali 
-date: 2021-07-25 15:23:01 
-categories: twitter 
---- 
-@nope_its_lily Who was your favorite?
