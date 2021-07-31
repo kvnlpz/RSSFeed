@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What is the reasoning/psychology behind moving averages and VWAP sometimes acting as support/resistance? 
+date: 2021-07-31 1627762861 
+categories: reddit 
+--- 
+https://redd.it/ove9yg
