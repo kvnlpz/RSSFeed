@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When Eth goes proof of stake does Gpu mining become unprofitable for most people? 
-date: 2021-07-26 1627292538 
-categories: reddit 
---- 
-https://redd.it/orvfgh
