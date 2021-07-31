@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 19:05:45 
-categories: twitter 
---- 
-@RaoulGMI @trades_ab @AlbertBridgeCap @SrivatsPrakash You might appreciate a more technical basis/hypothesis for th… https://t.co/Ea0mKFakcs
