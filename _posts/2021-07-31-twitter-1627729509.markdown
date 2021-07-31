@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @AT09_Trader 
+date: 2021-07-31 04:05:09 
+categories: twitter 
+--- 
+RT @modern_rock: When we say that our watchlist can pay for your membership, we mean it! One of our members backtested and the results are…
