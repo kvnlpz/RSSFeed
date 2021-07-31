@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GrnBulls 
-date: 2021-07-25 13:21:33 
-categories: twitter 
---- 
-@nope_its_lily @AllisonReichel As the wise man once said: "It's all relative.."
