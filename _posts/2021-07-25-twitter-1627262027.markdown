@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cdsfrog 
-date: 2021-07-25 18:13:47 
-categories: twitter 
---- 
-@nope_its_lily surge for no reason nice
