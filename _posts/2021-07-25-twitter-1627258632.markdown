@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @optionsfisher 
-date: 2021-07-25 17:17:12 
-categories: twitter 
---- 
-@muddywatersre do you agree on $srng w @HindenburgRes
