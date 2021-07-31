@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain: A Holochain Perspective 
-date: 2021-07-26 1627304730 
-categories: reddit 
---- 
-https://redd.it/orxc37
