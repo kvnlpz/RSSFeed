@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Plan failed successfully 
-date: 2021-07-26 1627299382 
-categories: reddit 
---- 
-https://redd.it/orwwaf
