@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Enable Authenticator 2FA on everything to protect yourself, especially reddit with the ever growing price of MOONS. 
-date: 2021-07-26 1627292438 
-categories: reddit 
---- 
-https://redd.it/orveol
