@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @subspaceforce 
-date: 2021-07-25 18:17:36 
-categories: twitter 
---- 
-@nope_its_lily Not sure why but I instantly thought of @coloradotravis
