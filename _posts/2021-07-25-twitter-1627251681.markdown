@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @homerunpls 
-date: 2021-07-25 15:21:21 
-categories: twitter 
---- 
-@InvestorsLive $ipa
