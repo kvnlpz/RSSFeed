@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_OddStockTrader 
-date: 2021-07-25 16:32:43 
-categories: twitter 
---- 
-RT @OddStockTrader: I'm not saying I am NOT going to play a WSOP event while in Vegas for @Traders4ACause but I am also NOT not saying I am…
