@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Geomike10 
-date: 2021-07-25 14:55:15 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/EOLPAgn5Un
