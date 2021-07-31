@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 13:18:23 
-categories: twitter 
---- 
-Downgrading @nope_its_lily and @AllisonReichel to underweight
