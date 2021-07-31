@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Latest Week in Ethereum News! Ethereum's 6th Birthday; Merged EIP3675 Upgrade to Proof-of-Stake; Lodestar consensus client validating on beacon chain 
+date: 2021-07-30 1627701675 
+categories: reddit 
+--- 
+https://redd.it/ouztlw
