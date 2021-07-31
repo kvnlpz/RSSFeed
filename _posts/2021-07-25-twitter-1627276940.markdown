@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 22:22:20 
-categories: twitter 
---- 
-Starting the new job tomorrow. It's been a weird year. About a year ago was the last time I was also in the officia… https://t.co/4MW13hyruR
