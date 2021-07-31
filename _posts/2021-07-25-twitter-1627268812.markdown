@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @strxer 
-date: 2021-07-25 20:06:52 
-categories: twitter 
---- 
-@nope_its_lily This should be the official slogan.
