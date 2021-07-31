@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 22:34:10 
-categories: twitter 
---- 
-@LewPayne Right. I'm a quantitative research strategist lol
