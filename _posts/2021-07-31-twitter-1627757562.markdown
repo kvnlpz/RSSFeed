@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-31 11:52:42 
+categories: twitter 
+--- 
+@fattygustave @ln_strike I know of Strike but my understanding is that only settles BTC -&gt; BTC
