@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1peacefulkoala 
-date: 2021-07-25 18:41:31 
-categories: twitter 
---- 
-@nope_its_lily @profplum99 One day the tsunami will hit but not today https://t.co/Tku52g90CX
