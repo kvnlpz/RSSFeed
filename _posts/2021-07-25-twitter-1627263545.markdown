@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @keithkasarjian 
-date: 2021-07-25 18:39:05 
-categories: twitter 
---- 
-@OddStockTrader @_OddStockTrader Done. Pretty sure @kunal00 is behind this.
