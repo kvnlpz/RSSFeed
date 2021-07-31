@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlmightyTrades 
-date: 2021-07-25 19:35:37 
-categories: twitter 
---- 
-@timothysykes I don’t lose on 100.0% of the trades I don’t make on bad set ups;)
