@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin has woken up! 
-date: 2021-07-26 1627305048 
-categories: reddit 
---- 
-https://redd.it/orye04
