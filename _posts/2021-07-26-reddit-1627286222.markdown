@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I did this 
-date: 2021-07-26 1627286222 
-categories: reddit 
---- 
-https://redd.it/oru6be
