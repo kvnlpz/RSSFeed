@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SZXBT 
-date: 2021-07-25 19:49:24 
-categories: twitter 
---- 
-@nope_its_lily 😂
