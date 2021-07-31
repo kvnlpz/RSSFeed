@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: All you need to know about London Hardfork in the Ethereum ecosystem. EIP's description and implications dates 
-date: 2021-07-26 1627304758 
-categories: reddit 
---- 
-https://redd.it/oryb5a
