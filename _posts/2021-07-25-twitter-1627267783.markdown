@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zeke1978 
-date: 2021-07-25 19:49:43 
-categories: twitter 
---- 
-RT @msl_capital: $SMFR is starting to remind me of $PLTR for health systems. A lot of this data already exists, but the dinosaurs don't kno…
