@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @turtles_Roll 
-date: 2021-07-25 20:15:55 
-categories: twitter 
---- 
-@nope_its_lily @loomdart How many crypto vc's dumping spacs on retail in 2021?
