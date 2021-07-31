@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NuttingAndrew 
-date: 2021-07-25 19:04:21 
-categories: twitter 
---- 
-@nope_its_lily @BustaRhymes We’ve named an island after him. Still no love. Good luck. https://t.co/rEhEcc3eFF
