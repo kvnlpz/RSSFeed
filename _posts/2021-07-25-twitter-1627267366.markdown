@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndrewYang2024 
-date: 2021-07-25 19:42:46 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/onAz560TeQ
