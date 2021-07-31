@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 17:42:54 
-categories: twitter 
---- 
-@QuantVol I wouldn't argue it was positive, no. I'd argue it's distortionary and probably negative overall.
