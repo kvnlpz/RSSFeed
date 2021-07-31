@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you create a 2nd hardware wallet, how are the recovery seeds able to generate the same previously used keys? 
-date: 2021-07-26 1627303746 
-categories: reddit 
---- 
-https://redd.it/ory0mg
