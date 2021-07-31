@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GoldenApes 
-date: 2021-07-25 23:18:04 
-categories: twitter 
---- 
-@timothysykes @timothysykes check out the revolutionary #GoldenApes $HMBL https://t.co/qxy5JclzjC
