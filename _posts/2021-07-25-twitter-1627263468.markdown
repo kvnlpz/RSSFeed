@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 18:37:48 
-categories: twitter 
---- 
-I am bringing down ES tonight with my sheer mental fortitude, please do not disturb me while I telepathically hit the bid
