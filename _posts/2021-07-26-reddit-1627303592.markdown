@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is Uniswap? A short guide to the token swap exchange - Decrypt 
-date: 2021-07-26 1627303592 
-categories: reddit 
---- 
-https://redd.it/orxyxg
