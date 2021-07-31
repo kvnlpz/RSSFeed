@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-25 18:31:26 
-categories: twitter 
---- 
-@Trendspider_J @SteveSa60882310 this is the product
-https://t.co/lKAw07mPOP
