@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin E-Ink Ticker 
-date: 2021-07-26 1627299536 
-categories: reddit 
---- 
-https://redd.it/orwxgg
