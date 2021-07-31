@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eco_NO_mist 
-date: 2021-07-25 20:03:46 
-categories: twitter 
---- 
-RT @nope_its_lily: if you're financial guru doesn't:
-- give you random dates in the future
-- practice market cold reading to make sure they…
