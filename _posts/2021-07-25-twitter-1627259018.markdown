@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 17:23:38 
-categories: twitter 
---- 
-@SoccerMomTrades i have to give my opinion or i have no purpose
