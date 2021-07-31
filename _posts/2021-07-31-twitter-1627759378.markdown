@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @man_growth 
+date: 2021-07-31 12:22:58 
+categories: twitter 
+--- 
+RT @nope_its_lily: Are there any interesting products using blockchain technology primarily as a settlement layer I could read about? E.g.…
