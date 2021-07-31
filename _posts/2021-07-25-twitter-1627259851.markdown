@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jayscabservice 
-date: 2021-07-25 17:37:31 
-categories: twitter 
---- 
-@markflowchatter https://t.co/Hi4AN6gg9s
