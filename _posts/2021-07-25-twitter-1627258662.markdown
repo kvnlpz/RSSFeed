@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 17:17:42 
-categories: twitter 
---- 
-Okay I formally checked my work, and wrote a bit of a thread simulating our favorite topic to hate: The Fed Put and… https://t.co/H0CloCigs3
