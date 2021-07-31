@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Exodus monero wallet needs to be fully synced to the blockchain to send money. 
+date: 2021-07-30 1627690389 
+categories: reddit 
+--- 
+https://redd.it/oux2o9
