@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zoomzoomdoom 
-date: 2021-07-25 16:46:26 
-categories: twitter 
---- 
-@RayTL_ v strong sector -- lot o' leaders in that group
