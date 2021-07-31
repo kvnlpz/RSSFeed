@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ej271 
-date: 2021-07-25 17:41:37 
-categories: twitter 
---- 
-@nope_its_lily @Alt_Trader1 @InstAllocator there is no good answer to 1, and throwing out “bayesian mle” as the ans… https://t.co/M78M0RvSzx
