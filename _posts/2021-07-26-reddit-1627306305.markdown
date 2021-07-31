@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Want to know more about IOT? [12 Weeks, 24 Lessons, Quizzes. IoT for All](https://github.com/microsoft/IoT-For-Beginners) Thanks goes to the contributors on Github that prepared the course. I have no part in it, just sharing my findings. Enjoy! 
-date: 2021-07-26 1627306305 
-categories: reddit 
---- 
-https://redd.it/oryrrt
