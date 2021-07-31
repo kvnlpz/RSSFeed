@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin: R.I.P. to the Bears. 
-date: 2021-07-26 1627304193 
-categories: reddit 
---- 
-https://redd.it/ory56l
