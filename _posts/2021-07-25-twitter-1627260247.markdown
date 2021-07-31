@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @QuantVol 
-date: 2021-07-25 17:44:07 
-categories: twitter 
---- 
-@nope_its_lily oh, positive in the economic sense 
-https://t.co/yfkU9hl5GX
