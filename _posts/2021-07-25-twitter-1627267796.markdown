@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradingAllIn 
-date: 2021-07-25 19:49:56 
-categories: twitter 
---- 
-@nope_its_lily So like BIG BIG or like BIG BIG?
