@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: All about London Hardfork 
-date: 2021-07-26 1627304589 
-categories: reddit 
---- 
-https://redd.it/ory9fz
