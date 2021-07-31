@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @namelikemonth 
+date: 2021-07-31 06:31:42 
+categories: twitter 
+--- 
+@nope_its_lily I’m long Crème de la Mer
