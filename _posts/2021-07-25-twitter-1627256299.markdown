@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cjef91 
-date: 2021-07-25 16:38:19 
-categories: twitter 
---- 
-@nope_its_lily Every way of constructing financial value is a form of averaging that works well until it doesn’t.
