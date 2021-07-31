@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-25 13:06:18 
-categories: twitter 
---- 
-@codecandy2k @lucidleek1 Not tooting our horn, it’s helping you understand our credentials which soooooooo many fak… https://t.co/MEwL8qGMOo
