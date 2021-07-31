@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheNOPEScalper 
-date: 2021-07-25 18:23:45 
-categories: twitter 
---- 
-@nope_its_lily Let's revisit this at 2am EST if I'm still awake
