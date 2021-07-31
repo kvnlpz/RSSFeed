@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Dei_ludibrio 
-date: 2021-07-25 15:04:33 
-categories: twitter 
---- 
-@InvestorsLive It’s very difficult to have say a call option for $MRIN that goes +$40, but to have seen a previousl… https://t.co/TiTC3lf07n
