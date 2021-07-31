@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In light of recent events 
-date: 2021-07-26 1627287739 
-categories: reddit 
---- 
-https://redd.it/oruhgz
