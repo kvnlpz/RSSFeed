@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RedBenTrader 
-date: 2021-07-25 19:30:13 
-categories: twitter 
---- 
-@nope_its_lily dang, ES crusha over here!  Well played!
