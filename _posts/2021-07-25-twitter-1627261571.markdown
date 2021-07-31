@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AdvFinancial 
-date: 2021-07-25 18:06:11 
-categories: twitter 
---- 
-@nope_its_lily How nice ✅ 80,054 MATIC sent to my Binance wallet @BONUSMATIC
