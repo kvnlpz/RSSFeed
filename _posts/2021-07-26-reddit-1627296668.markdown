@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Huge performance on ECB CBDC blockchain test.... 
-date: 2021-07-26 1627296668 
-categories: reddit 
---- 
-https://redd.it/orwa90
