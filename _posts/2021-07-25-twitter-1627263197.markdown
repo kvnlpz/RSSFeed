@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheNOPEScalper 
-date: 2021-07-25 18:33:17 
-categories: twitter 
---- 
-@nope_its_lily SPX targets
-1.618% retracement - $4445
-2.618% retracement - $4481
