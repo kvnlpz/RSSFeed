@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fallondpicks 
-date: 2021-07-25 16:52:11 
-categories: twitter 
---- 
-The S&amp;P ($SPX) and Nasdaq ($COMPQ) both break to new highs, but the Russell 2000 ($IWM) is still range bound.  Holi… https://t.co/do24aj7NaC
