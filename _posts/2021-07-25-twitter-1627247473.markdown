@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Yibril08 
-date: 2021-07-25 14:11:13 
-categories: twitter 
---- 
-RT @timothysykes: I wish the industry would embrace, or even require, full transparency as the stock market, and trading, should be highly…
