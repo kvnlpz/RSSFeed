@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos - any potential? 
-date: 2021-07-26 1627305564 
-categories: reddit 
---- 
-https://redd.it/oryjnp
