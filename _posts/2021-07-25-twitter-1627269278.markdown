@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @crypto_azul 
-date: 2021-07-25 20:14:38 
-categories: twitter 
---- 
-@nope_its_lily @loomdart Nasdaq 20k by 2022
