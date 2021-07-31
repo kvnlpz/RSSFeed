@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @drdownesmd 
-date: 2021-07-25 15:23:27 
-categories: twitter 
---- 
-@muddywatersre @profplum99 Fourth, have u checked an actuarial table for his probability of being alive in 2024?
