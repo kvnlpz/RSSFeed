@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Go vote for Cardano! Where should Amazon develop its token? 
-date: 2021-07-26 1627300397 
-categories: reddit 
---- 
-https://redd.it/orx4nb
