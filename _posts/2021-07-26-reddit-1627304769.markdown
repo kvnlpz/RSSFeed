@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Amazon News Shoots Bitcoin (BTC) Price By 15%, Over $640 Million of Short Positions Liquidated 
-date: 2021-07-26 1627304769 
-categories: reddit 
---- 
-https://redd.it/orsqlu
