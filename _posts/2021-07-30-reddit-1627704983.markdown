@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What if when sending funds to an address, your wallet warned you, "you have never sent funds to this address before. Are you sure?" Or, "this address has no history on the blockchain. Are you sure?" 
+date: 2021-07-30 1627704983 
+categories: reddit 
+--- 
+https://redd.it/ov0l35
