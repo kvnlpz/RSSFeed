@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Someone in for the tech? 
-date: 2021-07-26 1627304205 
-categories: reddit 
---- 
-https://redd.it/ory5ay
