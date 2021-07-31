@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's one bit of advice you would give to a newcomer, or wish someone had given you? 
-date: 2021-07-26 1627306239 
-categories: reddit 
---- 
-https://redd.it/oryr2j
