@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_OddStockTrader 
-date: 2021-07-25 16:33:30 
-categories: twitter 
---- 
-RT @OddStockTrader: Bullish $MATIC
-
-Tom Brady NFT platform running on it.
