@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I wonder what Satoshi's up to 
-date: 2021-07-26 1627300127 
-categories: reddit 
---- 
-https://redd.it/orx2g9
