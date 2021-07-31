@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Easy to understand explanation of naked short selling. 
-date: 2021-07-26 1627295852 
-categories: reddit 
---- 
-https://redd.it/orw40k
