@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @julasbeats 
-date: 2021-07-25 18:06:50 
-categories: twitter 
---- 
-@nope_its_lily whales are manipulating to the upside now :v
