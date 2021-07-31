@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How much ada does a basic transaction cost on average? And how much would interacting with smartcontracts cost? 
+date: 2021-07-31 1627765727 
+categories: reddit 
+--- 
+https://redd.it/ovf3iv
