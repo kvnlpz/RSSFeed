@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Learn how to integrate ADA payments on anything! 
-date: 2021-07-26 1627286380 
-categories: reddit 
---- 
-https://redd.it/oru7cc
