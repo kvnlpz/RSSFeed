@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FockerStock 
-date: 2021-07-25 14:52:08 
-categories: twitter 
---- 
-@InvestorsLive At the bottom
