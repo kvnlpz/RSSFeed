@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @clueless_1337 
-date: 2021-07-25 19:49:06 
-categories: twitter 
---- 
-@nope_its_lily We need 2 dates.
