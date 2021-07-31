@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @andyount 
-date: 2021-07-25 17:39:01 
-categories: twitter 
---- 
-@timothysykes 100%
