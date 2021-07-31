@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RealMrGhoul 
-date: 2021-07-25 18:05:14 
-categories: twitter 
---- 
-@nope_its_lily Didn't you hear? It's suddenly worth more for some reason now.
