@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum 2.0 Validators Now Surpasses 200,000, Currently Holds Over 6.4 Million ETH 
-date: 2021-07-26 1627290454 
-categories: reddit 
---- 
-https://redd.it/orv0ue
