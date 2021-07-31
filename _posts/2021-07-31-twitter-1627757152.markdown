@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-07-31 11:45:52 
+categories: twitter 
+--- 
+Are there any interesting products using blockchain technology primarily as a settlement layer I could read about?… https://t.co/YVqJO1bpBo
