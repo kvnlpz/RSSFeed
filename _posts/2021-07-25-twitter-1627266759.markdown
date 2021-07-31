@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @diarpie 
-date: 2021-07-25 19:32:39 
-categories: twitter 
---- 
-@nope_its_lily #Ethereum https://t.co/DS2y9baAms
