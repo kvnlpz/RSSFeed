@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlphaTrader00 
-date: 2021-07-25 16:13:45 
-categories: twitter 
---- 
-@super_trades Third party deliverables are hard to lazer in on. But roughly 2 months has been a fairly common time… https://t.co/0p76391mGp
