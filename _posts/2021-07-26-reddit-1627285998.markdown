@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance Starts Cutting Leverage Limit to 20x 
-date: 2021-07-26 1627285998 
-categories: reddit 
---- 
-https://redd.it/oru4vj
