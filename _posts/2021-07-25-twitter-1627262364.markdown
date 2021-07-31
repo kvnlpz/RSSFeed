@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @victor_olloqui 
-date: 2021-07-25 18:19:24 
-categories: twitter 
---- 
-@OddStockTrader @_OddStockTrader Done
