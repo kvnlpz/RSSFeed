@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Layer 2 solutions are key features developed by Marigold. Let’s find out more about Optimistic Rollups in an impromptu chat with @AlfourG ! #Tezos 
-date: 2021-07-26 1627304437 
-categories: reddit 
---- 
-https://redd.it/ory01m
