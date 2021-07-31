@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can I deposit FIAT currency to my wallet (it takes 1 day to receive funds) and use it to make purchases with the crypto card in the meantime? Or do I have to wait? 
-date: 2021-07-26 1627306499 
-categories: reddit 
---- 
-https://redd.it/orytpb
