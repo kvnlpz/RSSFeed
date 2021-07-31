@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelSeptari 
-date: 2021-07-25 18:47:53 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade https://t.co/33udprvvii
