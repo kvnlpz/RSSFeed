@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JRetvrns 
+date: 2021-07-31 12:34:22 
+categories: twitter 
+--- 
+RT @nope_its_lily: The most salient non-scientific analogy to Schrodinger's Cat and wavefunction collapse on observation must be when you p…
