@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_OddStockTrader 
-date: 2021-07-25 16:32:13 
-categories: twitter 
---- 
-RT @OddStockTrader: I've NEVER seen it rain this much for this long in Phoenix.
-
-Roads turning into rivers
