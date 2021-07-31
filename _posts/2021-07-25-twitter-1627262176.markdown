@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @codecandy2k 
-date: 2021-07-25 18:16:16 
-categories: twitter 
---- 
-@timothysykes @lucidleek1 All good though. You got me started on my journey, convinced me that trading requires a l… https://t.co/d6kDkJK2ai
