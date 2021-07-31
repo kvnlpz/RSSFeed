@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nano mentioned in Nasdaq bitcoin article as a rising high transaction throughput along with cardano and solana 
-date: 2021-07-26 1627304906 
-categories: reddit 
---- 
-https://redd.it/orycou
