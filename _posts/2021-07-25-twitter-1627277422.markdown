@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VulcanMoron 
-date: 2021-07-25 22:30:22 
-categories: twitter 
---- 
-@nope_its_lily Completely kickass, very happy for you Ms Lily!
