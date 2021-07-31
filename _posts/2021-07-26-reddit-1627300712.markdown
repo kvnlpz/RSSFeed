@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Major price fluctuations in the past 24 hours 
-date: 2021-07-26 1627300712 
-categories: reddit 
---- 
-https://redd.it/orx7ge
