@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How much karma do I need to offset a 100k loss? 
-date: 2021-07-26 1627298516 
-categories: reddit 
---- 
-https://redd.it/orwp86
