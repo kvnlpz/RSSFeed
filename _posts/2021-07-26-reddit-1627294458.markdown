@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Set up 2FA for reddit to safeguard your Moons 
-date: 2021-07-26 1627294458 
-categories: reddit 
---- 
-https://redd.it/orvtc7
