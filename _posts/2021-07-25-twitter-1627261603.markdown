@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @diamondhand_ape 
-date: 2021-07-25 18:06:43 
-categories: twitter 
---- 
-@nope_its_lily Me rn https://t.co/A4DAnnsodm
