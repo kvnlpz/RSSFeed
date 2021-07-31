@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Real World Example of DYOR 
-date: 2021-07-26 1627305391 
-categories: reddit 
---- 
-https://redd.it/oryhu5
