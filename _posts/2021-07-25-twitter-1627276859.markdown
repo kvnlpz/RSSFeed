@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nasjacked420 
-date: 2021-07-25 22:20:59 
-categories: twitter 
---- 
-@nope_its_lily What is back ratios?
