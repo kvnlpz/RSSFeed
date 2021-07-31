@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrownMarubozu 
-date: 2021-07-25 18:52:22 
-categories: twitter 
---- 
-@nope_its_lily I think there are much better risk/rewards. Is that a reasonable answer?
