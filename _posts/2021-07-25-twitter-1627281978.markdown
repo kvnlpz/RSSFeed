@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jothamdyble 
-date: 2021-07-25 23:46:18 
-categories: twitter 
---- 
-@timothysykes tasty tasty
