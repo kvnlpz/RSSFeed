@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SukhaniR 
-date: 2021-07-25 17:46:50 
-categories: twitter 
---- 
-@timothysykes Agreed!
