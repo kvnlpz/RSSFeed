@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ImBobBelcher 
-date: 2021-07-25 22:01:20 
-categories: twitter 
---- 
-@nope_its_lily Excellent work https://t.co/kdWM91W9hb
