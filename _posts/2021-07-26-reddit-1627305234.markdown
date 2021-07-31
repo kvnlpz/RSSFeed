@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Me looking at the market today 
-date: 2021-07-26 1627305234 
-categories: reddit 
---- 
-https://redd.it/oryfzf
