@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What happens to miner's reward who mined a block that became stale. 
+date: 2021-07-31 1627746989 
+categories: reddit 
+--- 
+https://redd.it/ov9mq5
