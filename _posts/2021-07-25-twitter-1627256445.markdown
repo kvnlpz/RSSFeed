@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-25 16:40:45 
-categories: twitter 
---- 
-@gregdsports @TLPrivate_ @RichardMoglen @nabors_wright @atulbranade @omahomed https://t.co/i1tsw0Uy8F
