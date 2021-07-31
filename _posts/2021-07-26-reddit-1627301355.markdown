@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Britcoin 
-date: 2021-07-26 1627301355 
-categories: reddit 
---- 
-https://redd.it/orxdhq
