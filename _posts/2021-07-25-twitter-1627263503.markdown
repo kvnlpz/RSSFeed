@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 18:38:23 
-categories: twitter 
---- 
-if all goes well SPY will open at $40
