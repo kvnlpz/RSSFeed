@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Setting up yubi key 2fa. But it has bluetooth and I dont know if I like that. 
+date: 2021-07-31 1627767126 
+categories: reddit 
+--- 
+https://redd.it/ovfi1f
