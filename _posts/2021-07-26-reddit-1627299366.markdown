@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Setup additional hardware for lightning node? 
-date: 2021-07-26 1627299366 
-categories: reddit 
---- 
-https://redd.it/orww5t
