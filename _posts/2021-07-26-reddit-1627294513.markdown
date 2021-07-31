@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sending bitcoin with monero in a timely manner? 
-date: 2021-07-26 1627294513 
-categories: reddit 
---- 
-https://redd.it/org018
