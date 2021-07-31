@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rpuggal 
-date: 2021-07-25 15:04:29 
-categories: twitter 
---- 
-@nope_its_lily I use BTFD as my primary indicator. 100% success rate so far and counting.
