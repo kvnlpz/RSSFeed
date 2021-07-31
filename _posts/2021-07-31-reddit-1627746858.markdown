@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin node vs electrum wallet 
+date: 2021-07-31 1627746858 
+categories: reddit 
+--- 
+https://redd.it/ov9l8x
