@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KimmyTrades 
-date: 2021-07-25 17:07:39 
-categories: twitter 
---- 
-RT @InvestorsLive: Where are you at in your trading career? 🤔 https://t.co/6Bvhk6UCGe
