@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I think I finally figured out why Augur (REP) pumped so hard, and is hanging in there... 
-date: 2021-07-26 1627288740 
-categories: reddit 
---- 
-https://redd.it/oruohz
