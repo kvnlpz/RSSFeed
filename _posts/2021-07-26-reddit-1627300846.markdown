@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Converting (XMR to BTC) and holding 
-date: 2021-07-26 1627300846 
-categories: reddit 
---- 
-https://redd.it/orhcd4
