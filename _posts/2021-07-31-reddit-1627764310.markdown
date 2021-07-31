@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitsz supports 30 million plus transactions/second 
+date: 2021-07-31 1627764310 
+categories: reddit 
+--- 
+https://redd.it/ovep0a
