@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockCharts 
-date: 2021-07-25 17:03:17 
-categories: twitter 
---- 
-RT @RayTL_: $FTNT 10-Week Line guard-rail from December 2020 to July 2021. An important line of institutional support in an uptrend. https:…
