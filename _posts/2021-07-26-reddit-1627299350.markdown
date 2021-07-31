@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Creative Tokenomics as Shown by Tezos NFT Marketplaces 
-date: 2021-07-26 1627299350 
-categories: reddit 
---- 
-https://redd.it/orww1t
