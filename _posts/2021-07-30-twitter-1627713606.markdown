@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MlkeBellafiore 
+date: 2021-07-30 23:40:06 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Backtesting for Trading Success https://t.co/iwPNjlgIpM via @YouTube
