@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Don’t DCA 
-date: 2021-07-26 1627289831 
-categories: reddit 
---- 
-https://redd.it/oruw6m
