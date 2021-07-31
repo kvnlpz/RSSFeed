@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-25 18:06:27 
-categories: twitter 
---- 
-@longskew i did at 32
