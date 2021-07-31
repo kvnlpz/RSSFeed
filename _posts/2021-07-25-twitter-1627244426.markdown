@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mari71370435 
-date: 2021-07-25 13:20:26 
-categories: twitter 
---- 
-@timothysykes https://t.co/gWIQGjTXbo
