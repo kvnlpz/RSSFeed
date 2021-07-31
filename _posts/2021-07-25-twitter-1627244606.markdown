@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @illumined1 
-date: 2021-07-25 13:23:26 
-categories: twitter 
---- 
-@RayTL_ It's only down 80%... Still has 20% left!
