@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @optionhero 
-date: 2021-07-25 18:50:23 
-categories: twitter 
---- 
-@OddStockTrader @_OddStockTrader How do we know you’re not the fake? 😅
