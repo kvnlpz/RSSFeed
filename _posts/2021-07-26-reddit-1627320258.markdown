@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BAT resetting to Zero each day 
-date: 2021-07-26 1627320258 
-categories: reddit 
---- 
-https://redd.it/os3i10
