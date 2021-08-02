@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-26 11:46:38 
-categories: twitter 
---- 
-@TraderAmogh Turn flat after 700 attempt https://t.co/mDUN16Agyw
