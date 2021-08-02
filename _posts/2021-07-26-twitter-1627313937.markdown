@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @piee_piperr 
-date: 2021-07-26 08:38:57 
-categories: twitter 
---- 
-@nope_its_lily Can you go private again?
