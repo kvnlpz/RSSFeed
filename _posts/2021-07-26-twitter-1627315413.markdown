@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheLOBO522 
-date: 2021-07-26 09:03:33 
-categories: twitter 
---- 
-@nope_its_lily I feel short ladder attacked.
