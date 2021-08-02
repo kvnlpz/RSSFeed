@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @boogallen 
+date: 2021-08-02 13:15:06 
+categories: twitter 
+--- 
+@alphatrends At very least, there is a point of diminishing returns as it pertains to password complexity.
