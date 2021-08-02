@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @rares_gh 
+date: 2021-08-02 12:59:35 
+categories: twitter 
+--- 
+@super_trades $egld is a winner!
