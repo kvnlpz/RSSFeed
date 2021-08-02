@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jbonk6 
-date: 2021-07-26 12:37:08 
-categories: twitter 
---- 
-@InvestorsLive $LCID failed follow through. :/
