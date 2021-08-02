@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Impossible finance was hacked, here's the postmortem 
+date: 2021-08-02 1627906828 
+categories: reddit 
+--- 
+https://redd.it/owdc61
