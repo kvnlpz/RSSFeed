@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: (Long) (OC) What are DAOs good for? Data scientist and architect analyses this model and its use cases 
+date: 2021-08-02 1627939943 
+categories: reddit 
+--- 
+https://redd.it/owoesq
