@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JusGiver 
-date: 2021-07-26 13:09:27 
-categories: twitter 
---- 
-@InvestorsLive besides, #btc hit 100 day res
