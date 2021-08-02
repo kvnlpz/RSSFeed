@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @margi52078304 
-date: 2021-07-26 08:24:59 
-categories: twitter 
---- 
-@InvestorsLive boss
