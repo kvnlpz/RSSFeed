@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @what_so_ever 
-date: 2021-07-26 11:03:11 
-categories: twitter 
---- 
-@nope_its_lily The silent inflow is unusually high. Makes me wonder of this inflow is institutional given the size… https://t.co/M4436IZpKB
