@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JusGiver 
-date: 2021-07-26 13:07:59 
-categories: twitter 
---- 
-@InvestorsLive they will next year, prob just testing the waters today...
