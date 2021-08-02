@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SBiostocks 
-date: 2021-07-26 09:50:02 
-categories: twitter 
---- 
-@OddStockTrader Day "and " age
