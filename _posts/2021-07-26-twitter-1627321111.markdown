@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Baig2K19 
-date: 2021-07-26 10:38:31 
-categories: twitter 
---- 
-@MikeBellafiore Exactly!!!
