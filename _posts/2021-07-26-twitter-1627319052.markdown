@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-26 10:04:12 
-categories: twitter 
---- 
-RT @modern_rock: The ultimate goal of day trading:  Making money should be a boring, systematic method, devoid of emotion.
-
-When i was youn…
