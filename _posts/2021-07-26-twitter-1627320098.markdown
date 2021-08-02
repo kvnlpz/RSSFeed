@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shervin_dr 
-date: 2021-07-26 10:21:38 
-categories: twitter 
---- 
-@InvestorsLive Volume trading near float nhod could cause a massive squeeze
