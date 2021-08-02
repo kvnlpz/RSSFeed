@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlfordDallas 
-date: 2021-07-26 13:09:08 
-categories: twitter 
---- 
-@InvestorsLive Watch 'em roll it out by the end of the year....
