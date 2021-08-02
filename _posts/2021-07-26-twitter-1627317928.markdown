@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @plevchen 
-date: 2021-07-26 09:45:28 
-categories: twitter 
---- 
-@RayTL_ watching CRCT here myself. nice spot thanks
