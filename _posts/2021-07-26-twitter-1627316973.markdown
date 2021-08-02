@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-07-26 09:29:33 
-categories: twitter 
---- 
-@DanielSLoeb1 Who wants that on their gravestone? Probably someone who tried to earn a high rate of return, but failed.
