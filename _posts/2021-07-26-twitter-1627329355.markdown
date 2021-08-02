@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_TIDaniel_ 
-date: 2021-07-26 12:55:55 
-categories: twitter 
---- 
-RT @super_trades: $EGLD #Elrond https://t.co/CtQESM7UP3
