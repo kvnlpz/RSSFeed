@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PatTheTroll 
-date: 2021-07-26 10:09:11 
-categories: twitter 
---- 
-@timothysykes 🤡🤡🤡
