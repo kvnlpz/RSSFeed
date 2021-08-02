@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VerSol 
-date: 2021-07-26 10:45:23 
-categories: twitter 
---- 
-@MikeBellafiore Wow - beautifully simplified and said!
