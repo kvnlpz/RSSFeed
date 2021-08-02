@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @twoleftfeetango 
-date: 2021-07-26 10:01:37 
-categories: twitter 
---- 
-@InvestorsLive Yep
