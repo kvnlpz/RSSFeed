@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: JetFuel’s Lending Platform Fortress Upgrades to Chainlink for Faster, More Secure Price Oracles 
+date: 2021-08-02 1627916350 
+categories: reddit 
+--- 
+https://redd.it/owflq5
