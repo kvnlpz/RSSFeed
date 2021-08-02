@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrCMCguy 
-date: 2021-07-26 13:00:18 
-categories: twitter 
---- 
-@RayTL_ Growth is leading
