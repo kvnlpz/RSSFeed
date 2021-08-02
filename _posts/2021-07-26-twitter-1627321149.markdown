@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EconomPic 
-date: 2021-07-26 10:39:09 
-categories: twitter 
---- 
-@nope_its_lily @Schuldensuehner @JulianMI2 The best part of his tweets is his commentary somehow makes the charts even worse
