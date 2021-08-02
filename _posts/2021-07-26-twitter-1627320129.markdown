@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lewishas2work 
-date: 2021-07-26 10:22:09 
-categories: twitter 
---- 
-@InvestorsLive Shit.
