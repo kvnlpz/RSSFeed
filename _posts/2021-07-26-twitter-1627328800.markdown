@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ViciousTrading 
-date: 2021-07-26 12:46:40 
-categories: twitter 
---- 
-@InvestorsLive Have you ever got a answer from DAS if we can get full data for EDGX? We only get one line compared… https://t.co/suZvLnAKyd
