@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-07-26 13:18:23 
-categories: twitter 
---- 
-RT @modern_rock: $SPRT same thing each and every day following process
-
-#MyInvestingClub https://t.co/IdMNYtqyQ7
