@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TheBident 
+date: 2021-08-02 13:32:04 
+categories: twitter 
+--- 
+@MikeBellafiore What's a multi-day edge ?
