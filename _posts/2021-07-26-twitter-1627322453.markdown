@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZetaElody 
-date: 2021-07-26 11:00:53 
-categories: twitter 
---- 
-RT @timothysykes: Nobody is perfect, but you should always focus on improving: your wealth, your fitness, your education, your contacts, yo…
