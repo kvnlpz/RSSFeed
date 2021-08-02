@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Duder83 
-date: 2021-07-26 08:58:39 
-categories: twitter 
---- 
-@modern_rock @AT09_Trader Start trading crypto and you’ll get 1000% increase of followers
