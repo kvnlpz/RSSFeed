@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imperative_the 
-date: 2021-07-26 11:57:43 
-categories: twitter 
---- 
-RT @nope_its_lily: Starting the new job tomorrow. It's been a weird year. About a year ago was the last time I was also in the official wor…
