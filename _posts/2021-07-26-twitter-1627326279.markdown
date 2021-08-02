@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-26 12:04:39 
-categories: twitter 
---- 
-@Cdsfrog @chintanq I'm a quantitative researcher, so I don't actually trade for my job.
