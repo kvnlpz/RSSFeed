@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Coinversation: The first synthetic asset protocol on Polkadot 
+date: 2021-08-02 1627912603 
+categories: reddit 
+--- 
+https://redd.it/owf1cv
