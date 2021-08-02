@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-26 09:10:15 
-categories: twitter 
---- 
-@DividedChamp @alifarhat79 It would have been perfect if it was -2.69%
