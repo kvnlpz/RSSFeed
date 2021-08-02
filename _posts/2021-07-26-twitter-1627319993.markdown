@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-26 10:19:53 
-categories: twitter 
---- 
-RT @SeverMM: The $EGLD mobile wallet is the coolest in the blockchain space 😎 📲 @getMaiar
- 
-https://t.co/6YntZaoRfb
