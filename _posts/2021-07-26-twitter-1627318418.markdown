@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChadRowland11 
-date: 2021-07-26 09:53:38 
-categories: twitter 
---- 
-@timothysykes When do you know it’s time to quit your day job it keeps holding me back
