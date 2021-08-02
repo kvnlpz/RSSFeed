@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Wojak_Capital 
-date: 2021-07-26 10:57:47 
-categories: twitter 
---- 
-@nope_its_lily @smdiehl No it doesn’t depend. They are two separate definitions. Infinity is defined.
