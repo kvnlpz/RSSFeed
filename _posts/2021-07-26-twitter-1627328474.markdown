@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-26 12:41:14 
-categories: twitter 
---- 
-Replace the internal self-talk of "What if I miss it" with "Is my edge showing?"
