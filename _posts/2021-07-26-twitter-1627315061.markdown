@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @satyamvmd 
-date: 2021-07-26 08:57:41 
-categories: twitter 
---- 
-@InvestorsLive nice halt tweet
