@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TBradley90 
-date: 2021-07-26 08:59:01 
-categories: twitter 
---- 
-RT @modern_rock: ok... that's it, TAB is now "Trading Ape Buddy" 🐵 🚀
-
-#tradingIsEasy
