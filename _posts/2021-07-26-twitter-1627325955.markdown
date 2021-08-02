@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-26 11:59:15 
-categories: twitter 
---- 
-RT @IBDinvestors: SentinelOne $S is the IBD Stock Of The Day as the newly public cybersecurity firm scores a bunch of positive initiation c…
