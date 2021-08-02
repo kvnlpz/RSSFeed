@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @206BG 
-date: 2021-07-26 12:26:01 
-categories: twitter 
---- 
-@nope_its_lily If NOPE closes above 100, have we ever had a two days in a row where NOPE closed this high? 😬
