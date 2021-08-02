@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BotMentality 
+date: 2021-08-02 08:06:02 
+categories: twitter 
+--- 
+@OddStockTrader same
