@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-26 09:35:41 
-categories: twitter 
---- 
-@Scot1andT Failed breakout and rally, do you use entry as close of prior or use hourly?
