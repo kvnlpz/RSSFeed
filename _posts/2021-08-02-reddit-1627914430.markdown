@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: So it says it has the 40 hashrate however the utilization is 0 and the earnings dont seem to be going up. 
+date: 2021-08-02 1627914430 
+categories: reddit 
+--- 
+https://redd.it/owfmhc
