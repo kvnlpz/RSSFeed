@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @davidbelle_ 
-date: 2021-07-26 10:44:19 
-categories: twitter 
---- 
-RT @nope_its_lily: @Schuldensuehner @JulianMI2 this is the worst chart i've seen on twitter, congrats
-h/t @EconomPic
