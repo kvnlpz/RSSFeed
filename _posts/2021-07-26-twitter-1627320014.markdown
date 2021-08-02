@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-07-26 10:20:14 
-categories: twitter 
---- 
-$LEXX used the proper line
-
-#MyInvestingClub https://t.co/2CE5mxdOYy
