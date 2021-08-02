@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-1559 is only 3 days away! I've created a custom subgraph for tracking the total ETH burned, which anyone is welcome to use! (Currently showing Goerli test ETH) 
+date: 2021-08-02 1627924256 
+categories: reddit 
+--- 
+https://redd.it/owhmr3
