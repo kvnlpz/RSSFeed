@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-26 10:38:26 
-categories: twitter 
---- 
-Journal. Don't care if you've been at it 50 years.
