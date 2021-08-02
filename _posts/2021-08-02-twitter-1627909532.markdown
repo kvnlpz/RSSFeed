@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-02 06:05:32 
+categories: twitter 
+--- 
+RT @FridayOrange: @super_trades Sounds like monetizing AR content is the future $$$
