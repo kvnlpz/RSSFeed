@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @whoharmeet 
-date: 2021-07-26 08:52:04 
-categories: twitter 
---- 
-@MikeBellafiore This is so real
