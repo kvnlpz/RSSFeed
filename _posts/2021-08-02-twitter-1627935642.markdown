@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OOAbank 
+date: 2021-08-02 13:20:42 
+categories: twitter 
+--- 
+@InvestorsLive What did your avg turn out to be ?
