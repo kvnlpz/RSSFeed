@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BullishFlex 
-date: 2021-07-26 09:30:45 
-categories: twitter 
---- 
-@OddStockTrader Liquidity drying up some in OTC lol
