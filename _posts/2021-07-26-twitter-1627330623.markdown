@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rares_gh 
-date: 2021-07-26 13:17:03 
-categories: twitter 
---- 
-@super_trades Just read about $egld!
-https://t.co/c4QJdNpn3W
