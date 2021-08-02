@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-26 09:34:36 
-categories: twitter 
---- 
-@gregdsports 75 U&amp;R
