@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TFallibilist 
-date: 2021-07-26 10:43:30 
-categories: twitter 
---- 
-@nope_its_lily @Wojak_Capital @smdiehl Oh no, let's not go there
