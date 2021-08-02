@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @__JHansen 
-date: 2021-07-26 09:34:30 
-categories: twitter 
---- 
-RT @InvestorsLive: $20/share so far $MRNA
