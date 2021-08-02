@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @satyamvmd 
-date: 2021-07-26 09:01:52 
-categories: twitter 
---- 
-@InvestorsLive Regardless thanks for the eye https://t.co/NkFc39Z43M
