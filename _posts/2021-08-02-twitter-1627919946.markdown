@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BuyToOpen 
+date: 2021-08-02 08:59:06 
+categories: twitter 
+--- 
+@alphatrends Do you mind explaining why you decided to use YTD as your anchor?
