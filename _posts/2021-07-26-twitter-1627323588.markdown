@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-26 11:19:48 
-categories: twitter 
---- 
-$CWRK beat otc NFT name https://t.co/yOS4iqMYco
