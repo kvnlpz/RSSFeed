@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Blockchain Exec Sheds Light On Bank Of Korea CBDC Trial -- "It will run on a Klaytn ledger, which is based on Ethereum" 
+date: 2021-08-02 1627928578 
+categories: reddit 
+--- 
+https://redd.it/owkial
