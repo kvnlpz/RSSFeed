@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_il 
-date: 2021-07-26 13:19:30 
-categories: twitter 
---- 
-@InvestorsLive Wonder who's that "someone"
