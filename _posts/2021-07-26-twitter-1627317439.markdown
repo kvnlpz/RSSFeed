@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CGCTrades 
-date: 2021-07-26 09:37:19 
-categories: twitter 
---- 
-@OddStockTrader Seems small caps have been getting weaker since late last week. Declining strength from what I’ve seen
