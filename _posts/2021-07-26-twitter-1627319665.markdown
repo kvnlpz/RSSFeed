@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ActiontraderSeb 
-date: 2021-07-26 10:14:25 
-categories: twitter 
---- 
-@OddStockTrader Wuz gunna post this exact question haha
