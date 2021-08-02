@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @goodetrades 
+date: 2021-08-02 05:57:47 
+categories: twitter 
+--- 
+@Post_Market DJIA adjusts for splits
