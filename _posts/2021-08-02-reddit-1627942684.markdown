@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ethereum is now 2 days away from the EIP-1559 upgrade 
+date: 2021-08-02 1627942684 
+categories: reddit 
+--- 
+https://redd.it/owpbht
