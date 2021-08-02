@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Retail_Whale 
-date: 2021-07-26 09:10:19 
-categories: twitter 
---- 
-RT @InvestorsLive: $TIRX woke up
