@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Moe_Hamer 
+date: 2021-08-02 08:19:59 
+categories: twitter 
+--- 
+@InvestorsLive Put a start position order at VWAP, thanks.
