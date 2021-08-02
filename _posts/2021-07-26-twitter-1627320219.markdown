@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mariusbanu77 
-date: 2021-07-26 10:23:39 
-categories: twitter 
---- 
-RT @super_trades: $EGLD #Elrond https://t.co/3TDCnk1Jv5
