@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @beezerism 
-date: 2021-07-26 09:13:45 
-categories: twitter 
---- 
-@OddStockTrader Feel better Cody 🤝
