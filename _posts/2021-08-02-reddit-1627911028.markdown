@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Technical Question: Moons contract code 
+date: 2021-08-02 1627911028 
+categories: reddit 
+--- 
+https://redd.it/owejx0
