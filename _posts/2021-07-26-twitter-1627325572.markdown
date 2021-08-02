@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @habsberg 
-date: 2021-07-26 11:52:52 
-categories: twitter 
---- 
-RT @InvestorsLive: Always stick with the original plan ✅ https://t.co/gbBXCfohUO
