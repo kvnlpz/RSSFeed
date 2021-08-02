@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ctyrtzl507 
-date: 2021-07-26 10:39:17 
-categories: twitter 
---- 
-@OddStockTrader Talk about trading down.
