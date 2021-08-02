@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SobelSaint 
-date: 2021-07-26 09:31:43 
-categories: twitter 
---- 
-@OddStockTrader Is this all covid related side effects?
