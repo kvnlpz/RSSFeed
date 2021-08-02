@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @lance_ag 
+date: 2021-08-02 07:57:43 
+categories: twitter 
+--- 
+RT @CitronResearch: Learning from Mistakes.  $DOCN IS the $SHOP of Cloud Computing. Not even the first inning of SMB move to cloud.  MUST r…
