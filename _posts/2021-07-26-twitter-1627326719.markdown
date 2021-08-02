@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @choffstein 
-date: 2021-07-26 12:11:59 
-categories: twitter 
---- 
-@nope_its_lily @TheSpeculator0 @AgustinLebron3 Questionable defense after 10am, Lily.
