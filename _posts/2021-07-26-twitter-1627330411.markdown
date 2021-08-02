@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-26 13:13:31 
-categories: twitter 
---- 
-RT @plustickbid: $SMFR that close had @CathieDWood written all over it lol
