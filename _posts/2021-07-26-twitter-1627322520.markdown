@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @elrondRO 
-date: 2021-07-26 11:02:00 
-categories: twitter 
---- 
-@super_trades @ElrondNetwork ⚡
-$eGLD
-@getMaiar https://t.co/eY5LTqDUuI
