@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @processtrading3 
-date: 2021-07-26 10:39:30 
-categories: twitter 
---- 
-@InvestorsLive Didn't weed run after btc last time?
