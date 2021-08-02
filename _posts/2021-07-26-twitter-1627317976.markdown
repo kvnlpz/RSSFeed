@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoelWat02616826 
-date: 2021-07-26 09:46:16 
-categories: twitter 
---- 
-@modern_rock More sheep
