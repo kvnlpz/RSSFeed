@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DougyFinance 
-date: 2021-07-26 09:38:41 
-categories: twitter 
---- 
-@OddStockTrader $CWRK
