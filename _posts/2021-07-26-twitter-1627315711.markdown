@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-26 09:08:31 
-categories: twitter 
---- 
-$TIRX woke up
