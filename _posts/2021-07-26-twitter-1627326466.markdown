@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-26 12:07:46 
-categories: twitter 
---- 
-RT @iancassel: One of the biggest mistakes is when a company disappoints and you know your thesis is broken but you think it can’t go much…
