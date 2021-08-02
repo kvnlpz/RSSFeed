@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Should you close out positions early based on % of max profit vs % DTE 
+date: 2021-08-02 1627933797 
+categories: reddit 
+--- 
+https://redd.it/owmbqp
