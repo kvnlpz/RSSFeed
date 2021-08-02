@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StrongInvests 
-date: 2021-07-26 11:39:51 
-categories: twitter 
---- 
-@OddStockTrader Swinging any bitcoin names?
