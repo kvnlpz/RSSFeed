@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @T4Aphenux 
-date: 2021-07-26 10:08:04 
-categories: twitter 
---- 
-@modern_rock Well said
