@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @stock_aspirer 
+date: 2021-08-02 12:23:41 
+categories: twitter 
+--- 
+@InvestorsLive $naov
