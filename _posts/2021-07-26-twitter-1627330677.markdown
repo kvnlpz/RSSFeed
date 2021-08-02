@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-07-26 13:17:57 
-categories: twitter 
---- 
-RT @modern_rock: $NAOV the open was nice 
-
-#MyInvestingClub https://t.co/2keWXaZ7AW
