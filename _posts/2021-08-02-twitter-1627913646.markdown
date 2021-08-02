@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Rationalbiased 
+date: 2021-08-02 07:14:06 
+categories: twitter 
+--- 
+@goodetrades @Post_Market It adjusts for splits by changing the divisor, definitely not the cleanest way of doing things
