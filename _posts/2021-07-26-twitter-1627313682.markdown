@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JustinDutari 
-date: 2021-07-26 08:34:42 
-categories: twitter 
---- 
-@InvestorsLive Scalp paradise
