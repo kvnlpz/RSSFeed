@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RemyCandii 
-date: 2021-07-26 09:40:02 
-categories: twitter 
---- 
-RT @timothysykes: Nobody is perfect, but you should always focus on improving: your wealth, your fitness, your education, your contacts, yo…
