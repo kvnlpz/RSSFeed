@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-26 11:37:53 
-categories: twitter 
---- 
-First green day since July 9th.
-
-Calling it a day.
