@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If I move my cardano to another wallet, do I have to start the 15 day staking period again? 
+date: 2021-08-02 1627907272 
+categories: reddit 
+--- 
+https://redd.it/owdge9
