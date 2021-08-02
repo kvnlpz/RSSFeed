@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConorSandin 
-date: 2021-07-26 08:29:23 
-categories: twitter 
---- 
-RT @modern_rock: When you break a rule and win, you often only win the minimum. But when you break a rule and lose, you will most likely lo…
