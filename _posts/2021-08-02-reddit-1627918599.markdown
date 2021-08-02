@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ParaSwap Will Integrate Chainlink Keepers to Bring Limit Order Functionality to Its DEX Aggregator 
+date: 2021-08-02 1627918599 
+categories: reddit 
+--- 
+https://redd.it/owh0sl
