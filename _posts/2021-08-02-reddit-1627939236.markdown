@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: DAD token holders please go vote! Peckshield is available to audit DAD Ethereum Bridge as DAPP ERC20 bridge is enabled. This proposal allow adding the auditors' github ID to source code for DAD Bridge for Audit purposes 
+date: 2021-08-02 1627939236 
+categories: reddit 
+--- 
+https://redd.it/owo6j2
