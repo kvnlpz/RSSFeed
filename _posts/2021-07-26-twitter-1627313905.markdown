@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheAnalytic 
-date: 2021-07-26 08:38:25 
-categories: twitter 
---- 
-RT @muddywatersre: Until the late 1990s, sell-side equity traders without college degrees were pretty commonplace. Nice to see the PSD comi…
