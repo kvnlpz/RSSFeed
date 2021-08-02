@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tezos [Moon] Design 
+date: 2021-08-02 1627927299 
+categories: reddit 
+--- 
+https://redd.it/owk1on
