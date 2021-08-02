@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Elrond_Cat 
-date: 2021-07-26 12:09:25 
-categories: twitter 
---- 
-RT @super_trades: $EGLD #Elrond https://t.co/3TDCnk1Jv5
