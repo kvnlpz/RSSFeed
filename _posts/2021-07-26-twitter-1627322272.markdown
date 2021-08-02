@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @steve_larrison 
-date: 2021-07-26 10:57:52 
-categories: twitter 
---- 
-@nope_its_lily You know that if you buy Chintech right now, you are just going to want to buy Chintech again in a half hour...
