@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheAnalytic 
-date: 2021-07-26 08:39:01 
-categories: twitter 
---- 
-RT @Junheng_Li: Collapse of Chinese ADRs today is beginning of end – end of high return for foreign capital participating private sector gr…
