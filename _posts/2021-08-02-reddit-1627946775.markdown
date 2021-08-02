@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: when Ethereum is fully upgraded to proof-of-stake (PoS) consensus algorithm. It will lead to a large drop in ETH issuance rate to ~0.4% annually. This issuance reduction of 90% is equivalent to 3 BTC halvings, hence “triple halving”. 
+date: 2021-08-02 1627946775 
+categories: reddit 
+--- 
+https://redd.it/owqme6
