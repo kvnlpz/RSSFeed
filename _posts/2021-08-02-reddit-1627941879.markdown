@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: 1500$ loss because IBKR/ Trader Workstation displayed the NDX with 30min delay 
+date: 2021-08-02 1627941879 
+categories: reddit 
+--- 
+https://redd.it/owp20b
