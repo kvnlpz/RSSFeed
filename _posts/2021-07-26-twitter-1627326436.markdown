@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chintanq 
-date: 2021-07-26 12:07:16 
-categories: twitter 
---- 
-@nope_its_lily @Cdsfrog Even software devs at a hedge fund would have restrictions on what they can trade and what… https://t.co/ntZCEFPyzU
