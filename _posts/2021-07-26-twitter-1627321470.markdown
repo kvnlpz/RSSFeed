@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-26 10:44:30 
-categories: twitter 
---- 
-@TFallibilist @Wojak_Capital @smdiehl My point is that indeterminate forms are basically what we're referencing, an… https://t.co/4xS3esI2KN
