@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: This video explains Ethereum's EIP1559 superbly. Important to learn with the fork coming up on Wednesday. 
+date: 2021-08-02 1627924466 
+categories: reddit 
+--- 
+https://redd.it/owj2kb
