@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RafilNabil 
-date: 2021-07-26 12:09:43 
-categories: twitter 
---- 
-@timothysykes https://t.co/lsXRrJjuuO @mark_mahmood
