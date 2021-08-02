@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @patlelek 
+date: 2021-08-02 05:22:03 
+categories: twitter 
+--- 
+@InvestorsLive Too many puts ;)
