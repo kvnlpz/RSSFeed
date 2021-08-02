@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Strategy check 
-date: 2021-07-26 1627354530 
-categories: reddit 
---- 
-https://redd.it/osegtp
