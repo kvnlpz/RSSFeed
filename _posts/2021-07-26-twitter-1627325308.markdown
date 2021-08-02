@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bull_picture 
-date: 2021-07-26 11:48:28 
-categories: twitter 
---- 
-@InvestorsLive "When trade becomes investment~"
