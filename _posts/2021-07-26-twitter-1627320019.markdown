@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mike47122004 
-date: 2021-07-26 10:20:19 
-categories: twitter 
---- 
-RT @HulkCapital: WASHINGTON (Reuters) - Chinese companies listed on U.S. stock exchanges must disclose the risks of the Chinese government…
