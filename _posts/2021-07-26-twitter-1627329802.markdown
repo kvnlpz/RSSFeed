@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1000_trading 
-date: 2021-07-26 13:03:22 
-categories: twitter 
---- 
-RT @InvestorsLive: Always stick with the original plan ✅ https://t.co/gbBXCfohUO
