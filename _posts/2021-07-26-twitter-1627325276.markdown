@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LucianGH4 
-date: 2021-07-26 11:47:56 
-categories: twitter 
---- 
-@super_trades https://t.co/HhYWbennJ3
