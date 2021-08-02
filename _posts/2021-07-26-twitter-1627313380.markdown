@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ofcSharp 
-date: 2021-07-26 08:29:40 
-categories: twitter 
---- 
-RT @InvestorsLive: Work on defining your processes so that they become second nature. The more well-defined your trading routine is, the si…
