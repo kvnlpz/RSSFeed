@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I tried to withdraw $551.03 of USDT from KuCoin account to my Coinbase account, now it's lost forever because I chose the KCC network instead of the ERC-20 network on KuCoin! Someone PLEASE help, thank you. 
+date: 2021-08-02 1627936506 
+categories: reddit 
+--- 
+https://redd.it/own8io
