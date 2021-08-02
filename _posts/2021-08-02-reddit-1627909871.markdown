@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If you’re having trouble understanding EIP 1559 or just want to get a better understanding of the upgrade, this article is the best. Prove me wrong 
+date: 2021-08-02 1627909871 
+categories: reddit 
+--- 
+https://redd.it/owe7dg
