@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @guild_traders 
-date: 2021-07-26 10:01:52 
-categories: twitter 
---- 
-@MikeBellafiore https://t.co/N0nz01bI5G
