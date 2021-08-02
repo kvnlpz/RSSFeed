@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bearhauer 
-date: 2021-07-26 09:31:37 
-categories: twitter 
---- 
-@muddywatersre @DanielSLoeb1 "He went long Chinese education stocks"
