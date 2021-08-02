@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-26 11:01:22 
-categories: twitter 
---- 
-@chintanq I do not have trading restrictions, and I'm more than able to joke about Chinese tech.
