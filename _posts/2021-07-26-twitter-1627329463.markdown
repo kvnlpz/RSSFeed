@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MaiarHerotag 
-date: 2021-07-26 12:57:43 
-categories: twitter 
---- 
-@super_trades $eGLD @ElrondNetwork @getMaiar https://t.co/stpkvIpJyZ
