@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @davidlooseunit 
-date: 2021-07-26 08:39:39 
-categories: twitter 
---- 
-@InvestorsLive Still a long way to Fri low...
