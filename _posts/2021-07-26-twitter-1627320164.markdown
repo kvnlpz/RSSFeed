@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-26 10:22:44 
-categories: twitter 
---- 
-RT @LongTermBaggers: In a Nutshell™ $QUBT Cloud-Based Ready-to-Run Software for Complex Optimization Computations. The Pace of Digital Tran…
