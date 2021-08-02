@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-08-02 06:20:49 
+categories: twitter 
+--- 
+This new TD Lock Screen is atrocious and annoying.
+
+Always have to force close and restart it.
