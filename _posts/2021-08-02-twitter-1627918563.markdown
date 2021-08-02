@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @eivindsupermann 
+date: 2021-08-02 08:36:03 
+categories: twitter 
+--- 
+RT @nope_its_lily: I was really happy to see so many new likes on my last tweet, but then I divided it by the change in the Fed’s balance s…
