@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-26 13:09:12 
-categories: twitter 
---- 
-@DaleOHays yup, it's my honor to be real in an industry full of fakes
