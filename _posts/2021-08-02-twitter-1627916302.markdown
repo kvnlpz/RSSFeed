@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bolltmann 
+date: 2021-08-02 07:58:22 
+categories: twitter 
+--- 
+@super_trades What is the free float?
