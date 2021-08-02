@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Friendly Reminder - Coinbase only insures online wallets which is only 2% of all the coins it has. Coinbase stores the majority of its coins in offline cold-storage wallets which are not insured. If you have coins at Coinbase, there is a 98% chance they are not insured. 
+date: 2021-08-02 1627912330 
+categories: reddit 
+--- 
+https://redd.it/oweyb6
