@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @delro72 
-date: 2021-07-26 11:48:03 
-categories: twitter 
---- 
-@OddStockTrader better off driving uber in the summer lol
