@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SebastinPatron3 
-date: 2021-07-26 13:00:21 
-categories: twitter 
---- 
-@InvestorsLive False rumors by $BTC bagholders
