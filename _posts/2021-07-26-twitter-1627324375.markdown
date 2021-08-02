@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MernWallace 
-date: 2021-07-26 11:32:55 
-categories: twitter 
---- 
-RT @OddStockTrader: now the NFT names perking
