@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-26 09:45:12 
-categories: twitter 
---- 
-$TIRX there's $5
