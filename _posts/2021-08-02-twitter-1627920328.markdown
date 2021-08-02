@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @pauloltorres 
+date: 2021-08-02 09:05:28 
+categories: twitter 
+--- 
+@alphatrends What is the time window you use for  Highest High/Lowest Low Anchored VWAP?
