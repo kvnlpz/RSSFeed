@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sstoxx 
-date: 2021-07-26 10:48:11 
-categories: twitter 
---- 
-RT @InvestorsLive: $NXTD they're coming back for it - this whole sector is going to be fun again.
