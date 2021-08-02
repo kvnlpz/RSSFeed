@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @svper_trades 
-date: 2021-07-26 13:12:16 
-categories: twitter 
---- 
-RT @super_trades: from April  13 $QUBT partners with $AMZN for quantum computing SAAS how hot is that ??? https://t.co/5OJWDj5aEb
