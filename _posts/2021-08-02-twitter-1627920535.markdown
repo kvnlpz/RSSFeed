@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-02 09:08:55 
+categories: twitter 
+--- 
+Basket in room = $AMD $TQQQ $NIO $XPEV
