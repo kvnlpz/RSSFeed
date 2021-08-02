@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Scot1andT 
+date: 2021-08-02 09:09:52 
+categories: twitter 
+--- 
+@alphatrends I don't think it means you were wrong.  It just means the buying is significant enough to take it through VWAP.
