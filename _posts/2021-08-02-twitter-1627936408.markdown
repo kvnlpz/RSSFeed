@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @GabiMartinescu 
+date: 2021-08-02 13:33:28 
+categories: twitter 
+--- 
+@super_trades $eGLD @ElrondNetwork The Internet Scale Blockchain set for mass adoption through high scalability, lo… https://t.co/cd9oSOt4ag
