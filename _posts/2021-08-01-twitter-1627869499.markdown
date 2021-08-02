@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Tech9inja 
+date: 2021-08-01 18:58:19 
+categories: twitter 
+--- 
+@InvestorsLive @swedepilot Indeed nice day !
