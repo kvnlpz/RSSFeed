@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Am1tCix 
+date: 2021-08-02 08:00:00 
+categories: twitter 
+--- 
+@CitronResearch Trash
