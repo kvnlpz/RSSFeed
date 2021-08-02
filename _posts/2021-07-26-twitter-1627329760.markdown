@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zeltser22 
-date: 2021-07-26 13:02:40 
-categories: twitter 
---- 
-@InvestorsLive 😆
