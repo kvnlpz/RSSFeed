@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Buy from Binance, transfer to Exodus, transfer to hardware wallet. What's the best approach? 
+date: 2021-08-02 1627925247 
+categories: reddit 
+--- 
+https://redd.it/owjbws
