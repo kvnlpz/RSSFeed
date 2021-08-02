@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pmilly90 
-date: 2021-07-26 08:29:29 
-categories: twitter 
---- 
-@InvestorsLive @baanibaani4 @jakabgaborzsolt Indeed it is my friend
