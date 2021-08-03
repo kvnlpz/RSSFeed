@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MobyInvest 
-date: 2021-07-26 13:35:52 
-categories: twitter 
---- 
-@InvestorsLive If it's positive then they have way to much free time on their hands...
