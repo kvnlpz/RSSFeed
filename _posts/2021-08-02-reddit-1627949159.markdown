@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How EIP-1559 and Ethereum's 'Triple Halving' will affect ETH 
+date: 2021-08-02 1627949159 
+categories: reddit 
+--- 
+https://redd.it/owrd5b
