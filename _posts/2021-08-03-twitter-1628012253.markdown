@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @scriptstotrade 
+date: 2021-08-03 10:37:33 
+categories: twitter 
+--- 
+@super_trades DM
