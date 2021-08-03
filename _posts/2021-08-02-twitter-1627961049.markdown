@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @cured_from_work 
+date: 2021-08-02 20:24:09 
+categories: twitter 
+--- 
+@alphatrends How much of this data is skewed by HFT and swing traders? Eliminate all samples less than a holding period of 3 months and see.
