@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Running your own ETH validator node 
+date: 2021-08-03 1627985242 
+categories: reddit 
+--- 
+https://redd.it/ox0cjv
