@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to monitor your Ethereum Node in under 5m 
+date: 2021-08-03 1627990575 
+categories: reddit 
+--- 
+https://redd.it/ox1in9
