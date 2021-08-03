@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stevenplace 
-date: 2021-07-26 14:34:53 
-categories: twitter 
---- 
-@InvestorsLive a 2015-er too
