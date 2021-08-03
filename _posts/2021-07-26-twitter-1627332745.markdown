@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kevinfinan8 
-date: 2021-07-26 13:52:25 
-categories: twitter 
---- 
-@MikeBellafiore Large cap is the stocks you want to trade. Would you backtest the strategy across all S&amp;p500 stocks… https://t.co/wd8he6idcI
