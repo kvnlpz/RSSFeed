@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: LESS THAN 48 HOURS BEFORE MAINNET! Exciting times. EIP-1559 is coming! Remember to upgrade your Nethermind nodes! 
+date: 2021-08-03 1628005920 
+categories: reddit 
+--- 
+https://redd.it/ox6ajx
