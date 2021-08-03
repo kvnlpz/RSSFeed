@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: In preparation of the Eth hard fork, I have made this quick guide detailing the upgrade! 
+date: 2021-08-03 1628034264 
+categories: reddit 
+--- 
+https://redd.it/oxg0w8
