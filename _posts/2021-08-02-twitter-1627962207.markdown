@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-02 20:43:27 
+categories: twitter 
+--- 
+@BlowVal no, it is a simple average hold time, no footnotes
