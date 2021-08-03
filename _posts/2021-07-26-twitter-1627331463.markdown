@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shodges11 
-date: 2021-07-26 13:31:03 
-categories: twitter 
---- 
-@nope_its_lily Improperly leveraged.
-
-You could have lost a month's worth of Big Macs. Try harder.
