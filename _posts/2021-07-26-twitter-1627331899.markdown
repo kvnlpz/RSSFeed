@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scottybradford 
-date: 2021-07-26 13:38:19 
-categories: twitter 
---- 
-@InvestorsLive Today's trading extremely underwhelming for a Monday given the action we've had. Snooze fest.
