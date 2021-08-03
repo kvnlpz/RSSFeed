@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FinFreedomMgmt 
-date: 2021-07-26 14:09:06 
-categories: twitter 
---- 
-@nope_its_lily Count on me for my 2 cents.
