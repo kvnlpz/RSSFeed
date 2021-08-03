@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nickhoward 
+date: 2021-08-02 18:35:57 
+categories: twitter 
+--- 
+@nope_its_lily You used to work in software? My printer hasn't been acting right lately...
