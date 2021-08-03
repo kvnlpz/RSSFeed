@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @_someone_els 
+date: 2021-08-03 15:42:37 
+categories: twitter 
+--- 
+@nope_its_lily DBA does well in a bear market too.
