@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @chipstacy 
+date: 2021-08-03 12:04:26 
+categories: twitter 
+--- 
+@super_trades Always great words from Superman!
