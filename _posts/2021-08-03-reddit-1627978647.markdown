@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If you plan to use Secret <-> Monero bridge you should be aware of: 
+date: 2021-08-03 1627978647 
+categories: reddit 
+--- 
+https://redd.it/owyzel
