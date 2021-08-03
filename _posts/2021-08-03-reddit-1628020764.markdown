@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I made a crypto news and watchlist app for iOS - Gwei News 
+date: 2021-08-03 1628020764 
+categories: reddit 
+--- 
+https://redd.it/oxbjo5
