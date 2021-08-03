@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @traderdp 
+date: 2021-08-03 05:00:06 
+categories: twitter 
+--- 
+RT @RayTL_: ICYMI: Timestamps and comments from the latest video in the #WinningCharacteristics series with @RichardMoglen 
+
+We discuss tim…
