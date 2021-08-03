@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @show_savvy 
+date: 2021-08-03 03:45:31 
+categories: twitter 
+--- 
+@CitronResearch Their revenue growth in a quarter can not be ignored they cost 1 tenth of aws
