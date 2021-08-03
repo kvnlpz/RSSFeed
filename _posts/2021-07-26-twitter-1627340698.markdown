@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-26 16:04:58 
-categories: twitter 
---- 
-RT @RayTL_: List out situations where your edge in the market does not work. That list is usually longer than the situations where it does…
