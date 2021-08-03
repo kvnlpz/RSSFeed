@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Any way of avoiding exchange withdrawal fees for small amounts of BTC or ETH? 
+date: 2021-08-03 1627980009 
+categories: reddit 
+--- 
+https://redd.it/owz9gg
