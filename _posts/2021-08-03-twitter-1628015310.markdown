@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @timothysykes 
+date: 2021-08-03 11:28:30 
+categories: twitter 
+--- 
+@BearclawNicolai @completepenny @30DayBoot yup, they're great at failing!
