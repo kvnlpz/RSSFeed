@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PART 2 - So you're in it for the tech? Let's talk tech. A simple POW blockchain explanation with code 
+date: 2021-08-02 1627958714 
+categories: reddit 
+--- 
+https://redd.it/owu60m
