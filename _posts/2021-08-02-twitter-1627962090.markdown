@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-02 20:41:30 
+categories: twitter 
+--- 
+@BlowVal why do people try to rationalize the data rather than just accept it for what it is?
