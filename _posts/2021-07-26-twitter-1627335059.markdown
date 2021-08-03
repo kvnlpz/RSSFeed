@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cosmin45535772 
-date: 2021-07-26 14:30:59 
-categories: twitter 
---- 
-RT @super_trades: $EGLD #Elrond https://t.co/3TDCnk1Jv5
