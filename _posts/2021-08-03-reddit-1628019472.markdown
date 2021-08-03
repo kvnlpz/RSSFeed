@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin SV has just experienced a 18 block deep reorg — the largest since the launch — wiping out almost 10 hours worth of transactions. Be careful. 
+date: 2021-08-03 1628019472 
+categories: reddit 
+--- 
+https://redd.it/oxav2c
