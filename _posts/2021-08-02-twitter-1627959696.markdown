@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @StockWonk 
+date: 2021-08-02 20:01:36 
+categories: twitter 
+--- 
+@Steven1_994 Yep. Thought we'd get a nice EOD fade once it reclaimed VWAP but no dice
