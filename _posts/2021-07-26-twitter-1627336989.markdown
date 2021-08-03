@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thedesertwoIfee 
-date: 2021-07-26 15:03:09 
-categories: twitter 
---- 
-RT @timothysykes: Can you imagine going to a baseball game &amp; looking up at the scoreboard to see a batter’s batting average but instead of…
