@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is there somewhere that I can find historical data for coins’ market caps and total users? 
+date: 2021-08-02 1627950427 
+categories: reddit 
+--- 
+https://redd.it/owrqmb
