@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @heibtc 
+date: 2021-08-02 21:40:46 
+categories: twitter 
+--- 
+@nope_its_lily no it’s an on chain svg you see in the block header of an ether block forever
