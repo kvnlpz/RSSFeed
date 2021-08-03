@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to acces large amounts of historical market data 
+date: 2021-08-03 1628009569 
+categories: reddit 
+--- 
+https://redd.it/ox7kv3
