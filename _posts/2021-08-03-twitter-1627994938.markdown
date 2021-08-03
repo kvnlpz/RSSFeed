@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @stretch_tom 
+date: 2021-08-03 05:48:58 
+categories: twitter 
+--- 
+@alphatrends @StockzOnTap pretty cool visualization
