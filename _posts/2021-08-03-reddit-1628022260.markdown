@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How transactions are ordered in the same way by multiple miners ? 
+date: 2021-08-03 1628022260 
+categories: reddit 
+--- 
+https://redd.it/oxc300
