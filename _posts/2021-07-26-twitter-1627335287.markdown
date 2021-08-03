@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dabit3 
-date: 2021-07-26 14:34:47 
-categories: twitter 
---- 
-@nope_its_lily DM me your wallet address if you want one!
