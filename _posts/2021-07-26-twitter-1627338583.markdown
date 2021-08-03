@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @naeem7867learn 
-date: 2021-07-26 15:29:43 
-categories: twitter 
---- 
-@InvestorsLive LOL
