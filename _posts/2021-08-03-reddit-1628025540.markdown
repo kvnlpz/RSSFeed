@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I've started hosting a kycnot.me mirror 
+date: 2021-08-03 1628025540 
+categories: reddit 
+--- 
+https://redd.it/oxd7dk
