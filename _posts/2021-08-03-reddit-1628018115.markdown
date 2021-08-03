@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I am doing my DYOR for Cardano because it sounds promising but I have a problem: There are 2.6k pools where 17 pools control 45% of the network and in Cardano's Proof of Stake there is no actual stake required which could potentially lead to leverage. 
+date: 2021-08-03 1628018115 
+categories: reddit 
+--- 
+https://redd.it/oxaml2
