@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OlafThorstad 
+date: 2021-08-02 20:19:53 
+categories: twitter 
+--- 
+@alphatrends Great chart!
