@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PleaseBuyMyETF 
+date: 2021-08-03 10:08:31 
+categories: twitter 
+--- 
+@alphatrends Brian I've always wondered, when you are using VWAP, do your settings have it as VWAP from the close o… https://t.co/un63HWrkRR
