@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TradeRunnr 
+date: 2021-08-02 20:45:52 
+categories: twitter 
+--- 
+@alphatrends What do you think about Bitcoin?
