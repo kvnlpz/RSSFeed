@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TradingSim 
+date: 2021-08-03 07:58:40 
+categories: twitter 
+--- 
+@modern_rock @MyInvestingClub Exciting stuff!
