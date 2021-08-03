@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeffdafo 
-date: 2021-07-26 16:28:02 
-categories: twitter 
---- 
-@nope_its_lily My guess is the late 90s marketing ploy doesn't move as many units at 101 as it does at 100.
