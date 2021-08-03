@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-07-26 14:32:10 
-categories: twitter 
---- 
-RT @AT09_Trader: Join me for a YOUTUBE LIVE recap today at 11am market time to recap todays trades on $XBIO $NAOV and $NURO!
-
-https://t.co/…
