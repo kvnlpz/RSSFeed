@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: [ELI5] Why do wallets and exchanges display the value of old transactions at the current price instead of showing the value of the transactions at the time they were made? 
+date: 2021-08-03 1628005941 
+categories: reddit 
+--- 
+https://redd.it/ox6azy
