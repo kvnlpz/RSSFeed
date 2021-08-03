@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NaturalsIndigo 
-date: 2021-07-26 13:54:30 
-categories: twitter 
---- 
-@nope_its_lily Sans the fries.   Prices going up!
