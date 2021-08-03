@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thedesertwoIfee 
-date: 2021-07-26 15:03:05 
-categories: twitter 
---- 
-RT @timothysykes: I wish the industry would embrace, or even require, full transparency as the stock market, and trading, should be highly…
