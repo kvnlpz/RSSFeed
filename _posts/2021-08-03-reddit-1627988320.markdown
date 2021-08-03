@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: In light of @fluffypony 's being offline and in custody, the Monero core team has removed all his admin and write permissions over Monero repos. 
+date: 2021-08-03 1627988320 
+categories: reddit 
+--- 
+https://redd.it/ox1167
