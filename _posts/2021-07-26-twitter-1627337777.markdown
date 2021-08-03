@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fallondpicks 
-date: 2021-07-26 15:16:17 
-categories: twitter 
---- 
-Much of a repeat of Friday as the Russell 2000 ($IWM) posted yet another doji with the S&amp;P ($SPX) and Nasdaq ($COMPQ) posting highs
