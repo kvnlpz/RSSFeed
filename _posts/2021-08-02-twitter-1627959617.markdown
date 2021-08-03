@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-02 20:00:17 
+categories: twitter 
+--- 
+@The_Real_Fly https://t.co/863lJLwC1e
