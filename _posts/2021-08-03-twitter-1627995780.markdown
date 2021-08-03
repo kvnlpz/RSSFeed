@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-03 06:03:00 
+categories: twitter 
+--- 
+@dollarsanddata https://t.co/ofs8zIQrwI
