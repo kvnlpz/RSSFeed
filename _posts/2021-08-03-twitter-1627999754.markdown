@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @timersen 
+date: 2021-08-03 07:09:14 
+categories: twitter 
+--- 
+@alphatrends Now do minutes
