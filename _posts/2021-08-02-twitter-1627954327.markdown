@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @volatilityhv 
+date: 2021-08-02 18:32:07 
+categories: twitter 
+--- 
+@nope_its_lily Don't worry you can talk about collatz conjecture with the best of em i'm sure. ;)
