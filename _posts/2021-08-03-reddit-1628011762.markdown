@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: This is the second article I've seen about ZEC benefiting from PoS. What's everyone's thoughts? 
+date: 2021-08-03 1628011762 
+categories: reddit 
+--- 
+https://redd.it/ox8d5l
