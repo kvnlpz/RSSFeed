@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @charlesdw94 
-date: 2021-07-26 14:29:46 
-categories: twitter 
---- 
-RT @MikeBellafiore: For an active trader, it just takes one stock to be In Play to have a very solid trading session.  
-
-And you do not hav…
