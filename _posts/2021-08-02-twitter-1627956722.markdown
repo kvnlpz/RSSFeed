@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @0xDamien 
+date: 2021-08-02 19:12:02 
+categories: twitter 
+--- 
+RT @nope_its_lily: I was the _____ kid and now I am an _________.
