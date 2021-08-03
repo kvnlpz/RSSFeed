@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tenaglia_john 
-date: 2021-07-26 13:36:06 
-categories: twitter 
---- 
-@InvestorsLive This should be skyrocketing pass 700
