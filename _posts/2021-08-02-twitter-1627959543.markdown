@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-02 19:59:03 
+categories: twitter 
+--- 
+RT @WesleyBKress: No Smart Contract Blockchain has taken the principles of #Decentralization &amp; Executed them all to perfection:
+
+1. Censors…
