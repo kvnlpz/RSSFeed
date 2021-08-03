@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-03 06:05:05 
+categories: twitter 
+--- 
+@sspencer_smb @SamRo 1975
