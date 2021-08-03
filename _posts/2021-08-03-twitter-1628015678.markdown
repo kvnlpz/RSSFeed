@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @RealDawidKudla 
+date: 2021-08-03 11:34:38 
+categories: twitter 
+--- 
+RT @CitronResearch: $DOCN.  600k developer/ customers and the largest hackathon in the world is just the start of this disruption.  Every d…
