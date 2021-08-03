@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dancioloca 
-date: 2021-07-26 13:56:18 
-categories: twitter 
---- 
-@super_trades @svper_trades Lanceria will be part of the life and work of freelancers. 
-I guarantee that not every… https://t.co/bHkoAVI4rq
