@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Brian49575531 
+date: 2021-08-02 19:06:57 
+categories: twitter 
+--- 
+@alphatrends Hey Brian, FYI, I submitted a request to TC2000 support to enable alerts to be set on an Anchored VWAP… https://t.co/Crz48AzeQ6
