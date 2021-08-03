@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @goodetrades 
+date: 2021-08-03 08:11:09 
+categories: twitter 
+--- 
+@notmichaelburry @SECGov If you have received pump messages, I recommend filing a report with the SEC and giving them those.
