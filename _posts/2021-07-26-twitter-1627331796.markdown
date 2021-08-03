@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CahrlotteGarcia 
-date: 2021-07-26 13:36:36 
-categories: twitter 
---- 
-@InvestorsLive Received my tokens thank you @UNISWAP_EVENT
