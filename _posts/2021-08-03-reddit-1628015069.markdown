@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Good option for simple self-hosted merchant integration? 
+date: 2021-08-03 1628015069 
+categories: reddit 
+--- 
+https://redd.it/ox9jp4
