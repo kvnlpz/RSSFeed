@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iamshack24 
-date: 2021-07-26 16:12:45 
-categories: twitter 
---- 
-@RayTL_ When the market is open
