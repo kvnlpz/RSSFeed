@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @art_martinezz 
-date: 2021-07-26 14:33:01 
-categories: twitter 
---- 
-RT @InvestorsLive: Stop chasing the perfect exit - it doesn't exist. Do this instead https://t.co/2HgsUembuX https://t.co/M0o3ND2NG1
