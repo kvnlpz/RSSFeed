@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goldensteaks 
-date: 2021-07-26 13:30:33 
-categories: twitter 
---- 
-@nope_its_lily I blame @CryptoCobain
