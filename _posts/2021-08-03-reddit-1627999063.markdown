@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Subsidy=0 AND tx in mempool=0 -> What would happen? 
+date: 2021-08-03 1627999063 
+categories: reddit 
+--- 
+https://redd.it/ox40q2
