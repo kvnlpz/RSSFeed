@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @StrizziJ 
+date: 2021-08-03 12:06:22 
+categories: twitter 
+--- 
+@nope_its_lily Well that's bad news.
