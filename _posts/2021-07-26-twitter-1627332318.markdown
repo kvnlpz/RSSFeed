@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @socko5012 
-date: 2021-07-26 13:45:18 
-categories: twitter 
---- 
-@muddywatersre Joe Rogin is the man!
