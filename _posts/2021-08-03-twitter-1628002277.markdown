@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @pearkes 
+date: 2021-08-03 07:51:17 
+categories: twitter 
+--- 
+@nope_its_lily do you mean term structure twitter or credit spread twitter or bond liquidity twitter
