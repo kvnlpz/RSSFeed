@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @jennifer_bry 
+date: 2021-08-03 12:34:11 
+categories: twitter 
+--- 
+@nope_its_lily Where does one learn how to use the nope chart
