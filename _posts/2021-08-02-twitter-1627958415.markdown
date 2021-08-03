@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @RickyJefferson 
+date: 2021-08-02 19:40:15 
+categories: twitter 
+--- 
+@OddStockTrader 😂
