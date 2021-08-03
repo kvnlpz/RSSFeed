@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradesTurbo 
-date: 2021-07-26 14:51:36 
-categories: twitter 
---- 
-@InvestorsLive Do you still accept 10/10 Dad jokes?
