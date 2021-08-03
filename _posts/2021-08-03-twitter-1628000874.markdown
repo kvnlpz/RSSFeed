@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @LukeYoungblood 
+date: 2021-08-03 07:27:54 
+categories: twitter 
+--- 
+RT @nope_its_lily: You, a simpleton: I went to school for 6 years (including masters) to become a database architect and make $130,000 per…
