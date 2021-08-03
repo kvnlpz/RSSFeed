@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DiscriminantBot 
-date: 2021-07-26 15:58:39 
-categories: twitter 
---- 
-RT @TraderTexMex: $KRBP Kiromic Announces the Acquisition of InSilico Solutions Leveraging on Bioinformatics and Artificial Intelligence to…
