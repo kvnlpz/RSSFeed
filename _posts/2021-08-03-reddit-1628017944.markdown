@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Moons are an amazing idea, should a similar idea be used as rewards or as a synthetic resource for block validation (like proof of stake with a seperate community token) by other cryptocurrencies? 
+date: 2021-08-03 1628017944 
+categories: reddit 
+--- 
+https://redd.it/oxakik
