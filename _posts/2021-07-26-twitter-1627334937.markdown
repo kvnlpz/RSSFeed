@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rachdele 
-date: 2021-07-26 14:28:57 
-categories: twitter 
---- 
-@nope_its_lily talking about height is impossible. we need to chart this
