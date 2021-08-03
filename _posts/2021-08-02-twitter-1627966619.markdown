@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @championtradr 
+date: 2021-08-02 21:56:59 
+categories: twitter 
+--- 
+@alphatrends Yes
