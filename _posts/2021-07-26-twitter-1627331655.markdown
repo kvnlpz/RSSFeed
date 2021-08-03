@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rlee2 
-date: 2021-07-26 13:34:15 
-categories: twitter 
---- 
-@nope_its_lily Maybe they can send your first paycheck early
