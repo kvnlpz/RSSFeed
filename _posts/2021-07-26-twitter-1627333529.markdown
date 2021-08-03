@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HateRamps 
-date: 2021-07-26 14:05:29 
-categories: twitter 
---- 
-RT @nope_its_lily: Reconnected with my old favorite options provider, @optionrats (I used their data in my original NOPE paper). Going to a…
