@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GabiMartinescu 
-date: 2021-07-26 14:11:51 
-categories: twitter 
---- 
-RT @super_trades: $EGLD #Elrond https://t.co/CtQESM7UP3
