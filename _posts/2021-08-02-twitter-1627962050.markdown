@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-02 20:40:50 
+categories: twitter 
+--- 
+@cured_from_work removing a LARGE part of data is not noise
