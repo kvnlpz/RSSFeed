@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CosminPT 
-date: 2021-07-26 13:23:58 
-categories: twitter 
---- 
-@super_trades $egld @ElrondNetwork @getMaiar ⚡⚡⚡ https://t.co/BvWiVfq2s3
