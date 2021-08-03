@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @2121rowe 
-date: 2021-07-26 13:52:00 
-categories: twitter 
---- 
-@timothysykes @sttbreakingnews https://t.co/guW3fv6XGf
