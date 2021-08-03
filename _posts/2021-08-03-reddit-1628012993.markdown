@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: MOAR DeFi Integrates Chainlink Price Feeds to its Secure Lending Operations 
+date: 2021-08-03 1628012993 
+categories: reddit 
+--- 
+https://redd.it/ox8t5p
