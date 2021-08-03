@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @timewarps 
+date: 2021-08-03 07:24:51 
+categories: twitter 
+--- 
+@muddywatersre If you get hardware failure, you can blame your arm for being too magnetized
