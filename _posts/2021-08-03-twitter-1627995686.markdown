@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @dollarsanddata 
+date: 2021-08-03 06:01:26 
+categories: twitter 
+--- 
+@alphatrends Bet this is partially correlated with lower transaction costs over time as well.
