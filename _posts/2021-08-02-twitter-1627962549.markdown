@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-02 20:49:09 
+categories: twitter 
+--- 
+@BlowVal who is "Val?"
