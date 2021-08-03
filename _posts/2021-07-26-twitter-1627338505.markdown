@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-26 15:28:25 
-categories: twitter 
---- 
-I have a photoshoot tomorrow for a magazine article I'll be in. If I get a good photo from it, I'll share it or something.
