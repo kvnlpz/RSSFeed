@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MizekeT 
-date: 2021-07-26 16:26:05 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/ldZgryYxyu
