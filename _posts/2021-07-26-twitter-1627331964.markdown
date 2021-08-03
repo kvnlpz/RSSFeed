@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @x9910460 
-date: 2021-07-26 13:39:24 
-categories: twitter 
---- 
-@RayTL_ What's the last thing you want to hear Willie Nelson say while you're blowing him?
-
-"I'm not really Willie Nelson."
