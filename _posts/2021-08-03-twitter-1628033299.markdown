@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-03 16:28:19 
+categories: twitter 
+--- 
+@trader_donkey not for me, each trade based on its own merits
