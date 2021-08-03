@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PiLogic 
+date: 2021-08-03 02:45:19 
+categories: twitter 
+--- 
+RT @TiredActor: I’m losing my mind over this https://t.co/j7Zpq3qT3s
