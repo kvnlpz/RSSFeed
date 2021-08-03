@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrZackMorris 
-date: 2021-07-26 15:05:46 
-categories: twitter 
---- 
-@InvestorsLive Great stuff bro. You probably saved so many from getting screwed.
