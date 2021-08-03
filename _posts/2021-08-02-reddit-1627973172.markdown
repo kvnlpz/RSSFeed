@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Will the London hard fork have an effect over how they will be migrated to the mainnet? 
+date: 2021-08-02 1627973172 
+categories: reddit 
+--- 
+https://redd.it/owxtr7
