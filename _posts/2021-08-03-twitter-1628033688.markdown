@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-03 16:34:48 
+categories: twitter 
+--- 
+$JAN down about 12% now nice fails.
