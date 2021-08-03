@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sterlingpurdy 
-date: 2021-07-26 15:02:21 
-categories: twitter 
---- 
-@InvestorsLive $ETH?
