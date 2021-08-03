@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @cured_from_work 
+date: 2021-08-02 20:37:18 
+categories: twitter 
+--- 
+@alphatrends It’s not manipulation per se. it’s cleaning the data for better inference by removing random noise.
