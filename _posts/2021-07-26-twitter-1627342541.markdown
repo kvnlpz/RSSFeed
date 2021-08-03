@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KarnSahdra 
-date: 2021-07-26 16:35:41 
-categories: twitter 
---- 
-RT @nope_its_lily: I really wonder what happens at age 101 that makes all the toy companies say “Well this is only for ages 6-100”
