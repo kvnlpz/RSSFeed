@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-02 19:01:30 
+categories: twitter 
+--- 
+@PlagueofCustom you can't spell fun without partial derivatives and gradients
