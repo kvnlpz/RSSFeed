@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Does an Exodus wallet on a phone that is permanently in flight mode qualify as a cold wallet? 
+date: 2021-08-04 1628097078 
+categories: reddit 
+--- 
+https://redd.it/oxxbj2
