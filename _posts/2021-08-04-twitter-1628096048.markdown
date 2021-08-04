@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-04 09:54:08 
+categories: twitter 
+--- 
+@sandiegosam https://t.co/BzotyjSS9e
