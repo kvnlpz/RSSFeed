@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @paulkiron 
+date: 2021-08-04 07:45:21 
+categories: twitter 
+--- 
+@super_trades what do you see as true float. Noise to clear between 10-12 key
