@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-04 11:47:12 
+categories: twitter 
+--- 
+@jamesdavid I think this is being worked on by embedding the SVG directly in the block data, and also a URI field e… https://t.co/2ShMjQ9uLJ
