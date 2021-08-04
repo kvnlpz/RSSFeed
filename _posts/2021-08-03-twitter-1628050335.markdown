@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @fivepelicans 
+date: 2021-08-03 21:12:15 
+categories: twitter 
+--- 
+@nope_its_lily Let's not forget Untitled2-copy17-final-new-copy5.ipynb
