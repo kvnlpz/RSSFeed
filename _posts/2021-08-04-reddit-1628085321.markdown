@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ethereum’s EIP-1559 Explained by GetBlock: Shortest Guide to London Hardfork 
+date: 2021-08-04 1628085321 
+categories: reddit 
+--- 
+https://redd.it/oxt6pk
