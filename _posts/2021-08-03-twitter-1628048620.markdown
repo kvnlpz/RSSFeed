@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @scolaire42 
+date: 2021-08-03 20:43:40 
+categories: twitter 
+--- 
+@nope_its_lily I see your Jupyter Notebook and I raise you a Google Colab Notebook
