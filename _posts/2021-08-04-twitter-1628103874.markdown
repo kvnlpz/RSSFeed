@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-04 12:04:34 
+categories: twitter 
+--- 
+$AMD nice timing 
+
+01:54:15 pm InvestorsLive: re bot AMD puts that I sold on that flush.
