@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MacaulyCulkins 
+date: 2021-08-03 22:04:23 
+categories: twitter 
+--- 
+@OddStockTrader Haha
