@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Φέρνοντας Δεδομένα Ευρετηρίου από το The Graph στα Έξυπνα Συμβόλαια με τα Chainlink Oracles 
+date: 2021-08-04 1628087105 
+categories: reddit 
+--- 
+https://redd.it/oxts1e
