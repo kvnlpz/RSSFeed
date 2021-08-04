@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to create an Erc-20 token 
+date: 2021-08-04 1628083498 
+categories: reddit 
+--- 
+https://redd.it/oxsmc9
