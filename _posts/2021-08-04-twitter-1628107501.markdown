@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JacobDoesTrades 
+date: 2021-08-04 13:05:01 
+categories: twitter 
+--- 
+@timothysykes Learnt by mistakes today… studying to fix those up!
