@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tales from the Crypt: Citadel Dispatch e0.3.3 - build your own hardware wallet for $50 with @seedsigner and @keithmukai 
+date: 2021-08-04 1628093383 
+categories: reddit 
+--- 
+https://redd.it/oxvywx
