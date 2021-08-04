@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @John_Trader01 
+date: 2021-08-04 05:31:42 
+categories: twitter 
+--- 
+@timothysykes Good morning Tim! 30-Day Trading Boot Camp
