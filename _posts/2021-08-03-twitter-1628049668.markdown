@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @timothyjcoulter 
+date: 2021-08-03 21:01:08 
+categories: twitter 
+--- 
+@nope_its_lily It’s not a romp in the google sheets?
