@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-04 08:07:53 
+categories: twitter 
+--- 
+RT @beniaminmincu: Impossible Finance (@impossiblefi) is coming to @ElrondNetwork: One more launchpad and swap platform for Elrond builders…
