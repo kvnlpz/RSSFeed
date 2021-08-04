@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question regarding DTE of a COVERED Call for the Wheel strategy 
+date: 2021-08-03 1628059973 
+categories: reddit 
+--- 
+https://redd.it/oxmyrt
