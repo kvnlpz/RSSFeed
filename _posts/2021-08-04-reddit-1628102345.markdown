@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: An interesting find: the minimum number of node operators that can shutdown most networks is VERY low 
+date: 2021-08-04 1628102345 
+categories: reddit 
+--- 
+https://redd.it/oxz8nq
