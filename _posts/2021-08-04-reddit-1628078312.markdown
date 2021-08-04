@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Enjin's Efinity Token (EFI) Is Live 
-date: 2021-08-04 1628078312 
-categories: reddit 
---- 
-https://redd.it/oxr4dr

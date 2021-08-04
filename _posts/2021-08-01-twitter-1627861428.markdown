@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lfgrifter 
-date: 2021-08-01 16:43:48 
-categories: twitter 
---- 
-@nope_its_lily Was fun while it lasted

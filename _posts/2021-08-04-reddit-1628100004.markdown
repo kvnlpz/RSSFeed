@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you want to see fewer Self-stories and Comedy posts, use the Flair Filter! 
-date: 2021-08-04 1628100004 
-categories: reddit 
---- 
-https://redd.it/oxydhi

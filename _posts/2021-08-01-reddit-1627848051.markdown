@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Exchange volume 
-date: 2021-08-01 1627848051 
-categories: reddit 
---- 
-https://redd.it/ovz5gz

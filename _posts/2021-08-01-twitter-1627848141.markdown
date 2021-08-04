@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RMarcMunoz 
-date: 2021-08-01 13:02:21 
-categories: twitter 
---- 
-RT @InvestorsLive: Pay attention to the setup 📈📉 https://t.co/R7u7Ms3511

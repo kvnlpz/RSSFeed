@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking ETH2 as hodler - any downsides? 
-date: 2021-07-29 1627575725 
-categories: reddit 
---- 
-https://redd.it/ou0pvo

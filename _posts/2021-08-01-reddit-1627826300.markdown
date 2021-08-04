@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are there so many 0 ETH transactions? (https://www.blockchain.com/eth/unconfirmed-transactions) 
-date: 2021-08-01 1627826300 
-categories: reddit 
---- 
-https://redd.it/ovsl1l

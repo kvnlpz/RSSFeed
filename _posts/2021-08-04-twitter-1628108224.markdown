@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StephenPaulRoss 
-date: 2021-08-04 13:17:04 
-categories: twitter 
---- 
-@G_krupins Got to be getting close

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Chris_J_Lance 
-date: 2021-08-04 13:35:34 
-categories: twitter 
---- 
-@OddStockTrader This is definitely a very short term traders market for tickers that spike for an hour or so before… https://t.co/lYdgEUQqzo

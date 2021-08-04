@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 20:38:26 
-categories: twitter 
---- 
-@bennpeifert Gonna take a crack at it since I'm exhausted but essentially it isn't an unbiased estimator simply bec… https://t.co/YbQ52FCVqP

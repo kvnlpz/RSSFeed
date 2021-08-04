@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wachzolfe 
-date: 2021-08-03 17:12:44 
-categories: twitter 
---- 
-@OddStockTrader Highway miles?

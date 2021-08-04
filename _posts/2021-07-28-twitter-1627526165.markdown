@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-28 19:36:05 
-categories: twitter 
---- 
-@ToddSullivan Shirley you didnt think I didnt know where that was going...

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMD is going to revolutionize the GPU computing industry with their MCM designs. 
-date: 2021-08-04 1628087614 
-categories: reddit 
---- 
-https://redd.it/oxty90

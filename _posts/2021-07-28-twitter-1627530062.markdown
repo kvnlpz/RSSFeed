@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Logan_JH1 
-date: 2021-07-28 20:41:02 
-categories: twitter 
---- 
-@nope_its_lily @SoccerMomTrades Are we talking fundamentals or sentiment?

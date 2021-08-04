@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cosmostation wallet update. Now shoes gravity and wallet connect but both give me some message in chinese/Japanese text. 
-date: 2021-08-01 1627823380 
-categories: reddit 
---- 
-https://redd.it/ovrtpb

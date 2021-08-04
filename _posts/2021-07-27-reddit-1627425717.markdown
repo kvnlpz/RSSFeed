@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos Launches Global Grant Program to Support Grassroot Developers and Creators 
-date: 2021-07-27 1627425717 
-categories: reddit 
---- 
-https://redd.it/osx1kq

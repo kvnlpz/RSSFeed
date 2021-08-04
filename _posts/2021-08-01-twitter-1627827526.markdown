@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-01 07:18:46 
-categories: twitter 
---- 
-RT @offshorehunters: Weekend Swing List https://t.co/lmSYAw1tk4 @InvestorsLive

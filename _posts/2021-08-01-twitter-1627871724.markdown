@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SmoknFXR 
-date: 2021-08-01 19:35:24 
-categories: twitter 
---- 
-@alphatrends If hackers need to crack someone's password they will regardless of time.

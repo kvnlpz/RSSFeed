@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Aditi_rthi 
-date: 2021-08-02 00:49:08 
-categories: twitter 
---- 
-@super_trades My target for Tech Mahindra is 1300 and estimation done with the trend line with the help of link bel… https://t.co/7UAxnUPorv

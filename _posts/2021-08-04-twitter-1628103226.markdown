@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jamesdavid 
-date: 2021-08-04 11:53:46 
-categories: twitter 
---- 
-@nope_its_lily Only some try to embed SVG itself in block data (costly and a custom implementation so nonstandard),… https://t.co/dbhRzhaKKq

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Data: 14 large ETH transfers occurred in the past 24 hours 
-date: 2021-07-28 1627539081 
-categories: reddit 
---- 
-https://redd.it/otrtf2

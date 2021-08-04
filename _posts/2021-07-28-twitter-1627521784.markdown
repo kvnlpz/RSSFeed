@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pawtraks 
-date: 2021-07-28 18:23:04 
-categories: twitter 
---- 
-@InvestorsLive we don’t mean to act this way

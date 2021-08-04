@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An interesting Idea. Maybe someone have already thought about it. 
-date: 2021-08-01 1627820969 
-categories: reddit 
---- 
-https://redd.it/ovr8xf

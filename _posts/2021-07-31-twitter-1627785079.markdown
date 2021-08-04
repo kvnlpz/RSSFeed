@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @up8wh1 
-date: 2021-07-31 19:31:19 
-categories: twitter 
---- 
-@nope_its_lily Like this https://t.co/ZTG8rUUb4K

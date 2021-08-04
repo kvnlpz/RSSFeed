@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bid, Ask, After Hours Price Question 
-date: 2021-08-04 1628110717 
-categories: reddit 
---- 
-https://redd.it/oy26xf

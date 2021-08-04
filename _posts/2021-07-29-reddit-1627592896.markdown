@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fundamental Analysis 
-date: 2021-07-29 1627592896 
-categories: reddit 
---- 
-https://redd.it/ou6e07

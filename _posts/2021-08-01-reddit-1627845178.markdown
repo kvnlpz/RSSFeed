@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ADA Wallet Launches Connector to Help Users Interact With Decentralized Applications - One Step Closer. 
-date: 2021-08-01 1627845178 
-categories: reddit 
---- 
-https://redd.it/ovx4ft

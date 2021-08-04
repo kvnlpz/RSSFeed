@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-04 06:04:30 
-categories: twitter 
---- 
-@benmezrich amazingly quick turnaround, look forward to reading it

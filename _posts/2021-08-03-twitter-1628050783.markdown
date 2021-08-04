@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WuTang4evah 
-date: 2021-08-03 21:19:43 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/O8BPJoZXLA

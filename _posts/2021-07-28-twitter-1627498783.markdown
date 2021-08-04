@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chefmcnamee 
-date: 2021-07-28 11:59:43 
-categories: twitter 
---- 
-@InvestorsLive Yer I was hoping for AH move

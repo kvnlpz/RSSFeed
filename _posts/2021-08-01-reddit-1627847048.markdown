@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fetch.ai (FET) is now available for trading on Coinbase 
-date: 2021-08-01 1627847048 
-categories: reddit 
---- 
-https://redd.it/ovyugu

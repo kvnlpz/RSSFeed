@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum cannot handle kitties - again 
-date: 2021-08-01 1627882835 
-categories: reddit 
---- 
-https://redd.it/ow8du4

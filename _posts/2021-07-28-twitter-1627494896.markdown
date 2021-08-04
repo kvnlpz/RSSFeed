@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrMiguelli 
-date: 2021-07-28 10:54:56 
-categories: twitter 
---- 
-@nope_its_lily @ScottyBelhorn Thinking about thinking about what you just said. https://t.co/y41Lfoei4a

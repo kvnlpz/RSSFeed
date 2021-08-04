@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TessaLamping 
-date: 2021-08-03 15:55:56 
-categories: twitter 
---- 
-RT @DansGamePoker: My best trade was on $FLGC. 15k shares in at 9.70 average, out 12.29. One trade can make a day, a week, even a month, an…

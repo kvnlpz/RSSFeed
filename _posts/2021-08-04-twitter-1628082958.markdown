@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradingMVPs 
-date: 2021-08-04 06:15:58 
-categories: twitter 
---- 
-RT @RayTL_: Simplify your trading. Select days on vacation a phone is really all I need. 🤷‍♂️

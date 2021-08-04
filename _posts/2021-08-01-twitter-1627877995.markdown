@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 21:19:55 
-categories: twitter 
---- 
-@sajidnizami @bennpeifert for how many to refer to the min Nth route (more or less). Or you could do it much more c… https://t.co/mVwMEf5TIy

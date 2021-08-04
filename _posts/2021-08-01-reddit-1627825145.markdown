@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You should read the "Crypto Anarchist Manifesto" from 1988 
-date: 2021-08-01 1627825145 
-categories: reddit 
---- 
-https://redd.it/ovsaa2

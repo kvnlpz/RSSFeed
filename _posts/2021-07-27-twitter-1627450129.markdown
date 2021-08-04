@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 22:28:49 
-categories: twitter 
---- 
-@petershk Downloading Tinder should be a good barometer as is.

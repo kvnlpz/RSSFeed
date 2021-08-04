@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-08-04 02:01:23 
-categories: twitter 
---- 
-RT @TraderBryce: August 2020 was my first ever 5-figure month. Now I can make that in a day. I love this job

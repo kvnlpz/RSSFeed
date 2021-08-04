@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trust Wallet Funds Missing since app update 
-date: 2021-07-28 1627475013 
-categories: reddit 
---- 
-https://redd.it/ot8tfg

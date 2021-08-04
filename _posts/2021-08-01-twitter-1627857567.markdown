@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HankMFRearden 
-date: 2021-08-01 15:39:27 
-categories: twitter 
---- 
-@nope_its_lily I got stopped out of my position on olympic pommel horse and had to re-hedge by going long volatility on uneven bars

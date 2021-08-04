@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Me, everyday. 
-date: 2021-08-01 1627831211 
-categories: reddit 
---- 
-https://redd.it/ovtzqu

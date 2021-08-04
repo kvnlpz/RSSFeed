@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CapitalLearn 
-date: 2021-08-04 12:27:32 
-categories: twitter 
---- 
-@nope_its_lily This is my daughters new favorite song. Am now a macro genius

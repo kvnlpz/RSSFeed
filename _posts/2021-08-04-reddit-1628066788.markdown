@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does awarder and awardee karma affect moons accumulation? Does it even? 
-date: 2021-08-04 1628066788 
-categories: reddit 
---- 
-https://redd.it/oxog71

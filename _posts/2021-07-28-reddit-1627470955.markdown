@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Historical stock screener? 
-date: 2021-07-28 1627470955 
-categories: reddit 
---- 
-https://redd.it/ot7t99

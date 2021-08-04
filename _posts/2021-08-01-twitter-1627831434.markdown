@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bagholdershort 
-date: 2021-08-01 08:23:54 
-categories: twitter 
---- 
-RT @alphatrends: I was recently asked to name some of the more influential books on my career, here are  a few of the less spoken about boo…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marathon_trades 
-date: 2021-08-04 13:08:52 
-categories: twitter 
---- 
-@InvestorsLive Beat you to it haha https://t.co/1oz8SIgoMD

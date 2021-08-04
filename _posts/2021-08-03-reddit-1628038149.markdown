@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Until all blockchains become connected and borderless, full decentralization isn’t yet achieved 
-date: 2021-08-03 1628038149 
-categories: reddit 
---- 
-https://redd.it/oxh75c

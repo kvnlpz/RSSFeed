@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Steven1994_ 
-date: 2021-08-01 12:32:45 
-categories: twitter 
---- 
-RT @Steven1_994: Market so slow for the last two weeks😑

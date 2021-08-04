@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If the market keeps going up, you will see the media touting Ethereum London upgrade and EIP-1559 as the reason. 
-date: 2021-08-01 1627843198 
-categories: reddit 
---- 
-https://redd.it/ovxod4

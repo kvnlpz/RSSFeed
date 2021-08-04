@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ste1ner 
-date: 2021-07-27 21:42:36 
-categories: twitter 
---- 
-@muddywatersre @jablamsky @arnieleicester dumb comment

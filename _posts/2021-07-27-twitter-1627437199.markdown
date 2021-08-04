@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 18:53:19 
-categories: twitter 
---- 
-@stonXBT @0xElm0 @longskew @TensaiCapital there are no women on the internet

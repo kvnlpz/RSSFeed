@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Awesome picture from today 
-date: 2021-08-01 1627822970 
-categories: reddit 
---- 
-https://redd.it/ovorhd

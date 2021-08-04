@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JWTrader013 
-date: 2021-08-03 14:44:39 
-categories: twitter 
---- 
-@RayTL_ @markminervini You’re supposed to say “Few will understand this.”

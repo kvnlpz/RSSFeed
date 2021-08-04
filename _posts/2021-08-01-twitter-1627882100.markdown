@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kennefield 
-date: 2021-08-01 22:28:20 
-categories: twitter 
---- 
-@nope_its_lily I think there is a comparison to be drawn between dynamic weather modeling and market modeling as well.

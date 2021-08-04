@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JohnTradem 
-date: 2021-07-28 21:21:36 
-categories: twitter 
---- 
-@nope_its_lily What if you eat cereal in front of it and splash milk droplets all over the keyboard that dry into white spots everywhere

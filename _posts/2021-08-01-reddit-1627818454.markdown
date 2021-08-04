@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Haskell Language and Cardano 
-date: 2021-08-01 1627818454 
-categories: reddit 
---- 
-https://redd.it/ovq2ow

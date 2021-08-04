@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Game idea for Reddit Snoo’s ( avatars) utilizing moons and creating a more social learning/ connecting space than anybody else has 
-date: 2021-08-01 1627827861 
-categories: reddit 
---- 
-https://redd.it/ovt0vu

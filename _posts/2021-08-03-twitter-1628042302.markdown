@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InfraredArmy 
-date: 2021-08-03 18:58:22 
-categories: twitter 
---- 
-RT @nope_its_lily: We could simply make Bitcoin environmentally friendly by proof-of-strength: each miner is simply the strongest person in…

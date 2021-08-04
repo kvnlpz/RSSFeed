@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @foursandfives 
-date: 2021-08-01 20:55:55 
-categories: twitter 
---- 
-@nope_its_lily Absolutely dead

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iBrandooon 
-date: 2021-07-28 07:44:49 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/NFEcQWdWsb

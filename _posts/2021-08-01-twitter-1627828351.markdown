@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AcresOunces 
-date: 2021-08-01 07:32:31 
-categories: twitter 
---- 
-@muddywatersre I think you're HILARIOUS https://t.co/cyowUipoER

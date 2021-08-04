@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodetrades 
-date: 2021-08-03 16:46:01 
-categories: twitter 
---- 
-Just closing the loop on this with the actual menu https://t.co/nBhZEjSqYl

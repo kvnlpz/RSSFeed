@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let's see if the Bitcoin stock to flow model holds up this run. 
-date: 2021-07-28 1627456565 
-categories: reddit 
---- 
-https://redd.it/ot4wv6

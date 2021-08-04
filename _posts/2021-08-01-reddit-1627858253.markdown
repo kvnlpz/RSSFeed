@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Full DCA vs Dynamic DCA 
-date: 2021-08-01 1627858253 
-categories: reddit 
---- 
-https://redd.it/ow286j

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Worst case scenario 
-date: 2021-07-28 1627460760 
-categories: reddit 
---- 
-https://redd.it/ot5ps1

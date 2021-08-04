@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CLTtrader 
-date: 2021-07-28 15:36:20 
-categories: twitter 
---- 
-@InvestorsLive Dude, this was very helpful. What do you mean by “there’s the exchange”? MM selling them to a short?

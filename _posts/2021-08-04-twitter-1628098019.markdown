@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshHasOptions 
-date: 2021-08-04 10:26:59 
-categories: twitter 
---- 
-@alphatrends @Trendspider_J https://t.co/j2qT0iTSfM

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is the photo that telegram revealed in the latest update. Is it supporting Dogecoin ? 
-date: 2021-08-01 1627830276 
-categories: reddit 
---- 
-https://redd.it/ovtpsh

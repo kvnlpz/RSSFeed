@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @smailhodzic101 
-date: 2021-08-04 08:58:15 
-categories: twitter 
---- 
-@timothysykes @OTC_Quinten $TXTM Is hot.

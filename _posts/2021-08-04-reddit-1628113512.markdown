@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Microvision CEO just announced that they power the Microsoft Hololens 2! 
-date: 2021-08-04 1628113512 
-categories: reddit 
---- 
-https://redd.it/oy35fz

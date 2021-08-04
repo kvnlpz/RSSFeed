@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-08-04 13:48:41 
-categories: twitter 
---- 
-This was a very underrated call at the time by @ScorpionFund on $NVRO.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you are an aspiring web3 developer and don't know where to start, this is a great place to start in understanding one of the key pieces of infrastructure you need to communicate to distributed networks. 
-date: 2021-08-04 1628092389 
-categories: reddit 
---- 
-https://redd.it/oxv75c

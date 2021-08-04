@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New User that needs portfolio automation help 
-date: 2021-08-02 1627890373 
-categories: reddit 
---- 
-https://redd.it/ow9whl

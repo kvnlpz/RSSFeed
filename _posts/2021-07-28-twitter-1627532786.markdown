@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-28 21:26:26 
-categories: twitter 
---- 
-@KamranN45384494 @robtweet21 @RichardMoglen https://t.co/hHJeQS2jo1

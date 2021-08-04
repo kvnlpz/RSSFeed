@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why did that get deleted? 
-date: 2021-07-31 1627778383 
-categories: reddit 
---- 
-https://redd.it/ovigqz

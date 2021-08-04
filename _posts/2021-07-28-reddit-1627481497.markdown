@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fabwelt Will Integrate Chainlink VRF to Secure Randomness in Incentivizing Users and Selecting Unbiased Inputs on Gaming Platforms 
-date: 2021-07-28 1627481497 
-categories: reddit 
---- 
-https://redd.it/otap38

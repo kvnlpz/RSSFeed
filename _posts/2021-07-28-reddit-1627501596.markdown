@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tracking down a scammer's IP. Be aware of u/louisa043 
-date: 2021-07-28 1627501596 
-categories: reddit 
---- 
-https://redd.it/othfhw

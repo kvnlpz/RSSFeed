@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @John_C_Caputo 
-date: 2021-08-01 18:11:37 
-categories: twitter 
---- 
-@timothysykes Givin is the gift that gives

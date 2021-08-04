@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @parkeralewis1 
-date: 2021-08-04 03:41:09 
-categories: twitter 
---- 
-RT @OddStockTrader: Nice Day.
-
-Mentally I was ready today and it showed.

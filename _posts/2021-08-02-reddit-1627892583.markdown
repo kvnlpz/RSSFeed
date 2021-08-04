@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Mining Complexity is Back above 100 EH/s 
-date: 2021-08-02 1627892583 
-categories: reddit 
---- 
-https://redd.it/owabp7

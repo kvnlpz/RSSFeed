@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rsosa8 
-date: 2021-08-01 10:57:02 
-categories: twitter 
---- 
-@nope_its_lily I'm so tempted to @ people on this.

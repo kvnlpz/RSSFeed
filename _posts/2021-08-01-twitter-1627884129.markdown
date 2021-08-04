@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Markdoit 
-date: 2021-08-01 23:02:09 
-categories: twitter 
---- 
-@InvestorsLive More fun than a Lambo and easier to Drive. I’ll take it too.

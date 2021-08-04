@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase report: in H1 2021, the market for ether was 3x busier than bitcoin, as ETH trading grew 1,461% to $1.4T, compared to BTC's 489% rise to $2.1T 
-date: 2021-07-28 1627512077 
-categories: reddit 
---- 
-https://redd.it/otkvhl

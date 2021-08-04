@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Seed Phrases and the 3-2-1 Rule of Backups 
-date: 2021-07-31 1627798138 
-categories: reddit 
---- 
-https://redd.it/ovmxie

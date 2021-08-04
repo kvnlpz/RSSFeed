@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Guy_At_The_Bar 
-date: 2021-08-01 05:37:51 
-categories: twitter 
---- 
-@nope_its_lily Facts

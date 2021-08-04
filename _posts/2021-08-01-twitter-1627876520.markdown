@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 20:55:20 
-categories: twitter 
---- 
-@quantian1 @bennpeifert Yeah, I roughly stated that in more formal terms here:
-https://t.co/UrNDn9KqRH

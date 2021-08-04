@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SteelNicho 
-date: 2021-07-31 18:16:46 
-categories: twitter 
---- 
-@nope_its_lily @theemilyaccount what if Elon starts something first?

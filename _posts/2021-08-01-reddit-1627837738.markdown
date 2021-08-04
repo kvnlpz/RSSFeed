@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Protecting coins on a ledger - Good idea or time to change? 
-date: 2021-08-01 1627837738 
-categories: reddit 
---- 
-https://redd.it/ovw055

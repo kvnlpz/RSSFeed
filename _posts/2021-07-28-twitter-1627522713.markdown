@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BenCasley1 
-date: 2021-07-28 18:38:33 
-categories: twitter 
---- 
-@nope_its_lily Purchase a coin and exchange it to participate in an event. No qualification process, just demand for OlympiCoins

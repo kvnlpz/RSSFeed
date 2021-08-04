@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pansareV 
-date: 2021-07-27 20:22:03 
-categories: twitter 
---- 
-@nope_its_lily Can y give hints like "meme up" / "meme down"

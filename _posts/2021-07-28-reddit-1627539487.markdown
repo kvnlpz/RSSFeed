@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I have captured data on the top 10 Crypto currencies; measured by their positive change in price as a % over the last 7 days. I provide 4 analytical points of interest below as well as 4 observations we can derive from this data. I hope this brings value. I learned a few things along the way. 
-date: 2021-07-28 1627539487 
-categories: reddit 
---- 
-https://redd.it/otrw9t

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cosmos staking via Kraken vs other options 
-date: 2021-08-01 1627811314 
-categories: reddit 
---- 
-https://redd.it/ovpcjf

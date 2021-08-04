@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Finally!!!! An AMA where you can see and hear the dev team instead of just a chat session. 
-date: 2021-08-03 1628040926 
-categories: reddit 
---- 
-https://redd.it/oxi0sw

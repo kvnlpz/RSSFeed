@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 60 BTC were traded last week in Venezuela using (only) LocalBitcoin (down from 65). One BTC is around 160,000,000,000 Bs. (Bolivares, Bs.) 
-date: 2021-08-01 1627843824 
-categories: reddit 
---- 
-https://redd.it/ovxv0v

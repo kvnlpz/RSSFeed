@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where do I start? 
-date: 2021-07-28 1627517218 
-categories: reddit 
---- 
-https://redd.it/otmcmh

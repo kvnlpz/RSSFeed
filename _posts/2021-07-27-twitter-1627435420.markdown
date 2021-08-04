@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 18:23:40 
-categories: twitter 
---- 
-@AndrewYang2024 @nopecharts god bless

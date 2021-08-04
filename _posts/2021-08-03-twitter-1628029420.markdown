@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AIHernz25 
-date: 2021-08-03 15:23:40 
-categories: twitter 
---- 
-@super_trades Sir do u have training videos on your subscriptions?

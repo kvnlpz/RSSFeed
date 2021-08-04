@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FTX announces it has achieved carbon neutrality and wants to offset Bitcoin’s energy cost 
-date: 2021-07-28 1627479893 
-categories: reddit 
---- 
-https://redd.it/ota76x

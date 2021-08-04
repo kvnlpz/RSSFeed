@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is polygon (matic) decentralized? 
-date: 2021-07-31 1627768022 
-categories: reddit 
---- 
-https://redd.it/ovfqp0

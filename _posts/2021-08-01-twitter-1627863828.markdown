@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @youngtilopa 
-date: 2021-08-01 17:23:48 
-categories: twitter 
---- 
-@nope_its_lily @IamNomad thanks @FTX_Official

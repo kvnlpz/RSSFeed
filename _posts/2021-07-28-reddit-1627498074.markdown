@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ATOM stuck on OSMO interface 
-date: 2021-07-28 1627498074 
-categories: reddit 
---- 
-https://redd.it/otg9on

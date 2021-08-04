@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinMarketCap Diamonds: Will they make their own currency next? 
-date: 2021-08-03 1628051461 
-categories: reddit 
---- 
-https://redd.it/oxkz2u

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does anyone have any data on NFTs? Interested in how much an artist's "clout" plays a role. Market share based on category, medium, artist, following, etc. 
-date: 2021-08-01 1627848358 
-categories: reddit 
---- 
-https://redd.it/ovz8yi

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hizself 
-date: 2021-07-28 04:39:25 
-categories: twitter 
---- 
-RT @nope_its_lily: ok new photo who dis https://t.co/203sCGgpPa

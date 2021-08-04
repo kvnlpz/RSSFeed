@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Check out Talking with Vitalik Buterin (Creator of Ethereum) and Dogecoin Developers from somagreen on www.twitch.tv 
-date: 2021-07-28 1627476483 
-categories: reddit 
---- 
-https://redd.it/ot977q

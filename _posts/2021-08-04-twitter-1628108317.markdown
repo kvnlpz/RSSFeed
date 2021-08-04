@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MoldCorp 
-date: 2021-08-04 13:18:37 
-categories: twitter 
---- 
-@InvestorsLive Sector rotation 😎🤌🏼

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ifilmbands 
-date: 2021-08-01 10:55:17 
-categories: twitter 
---- 
-@Steven1_994 Stupid question I know but are you offering classes

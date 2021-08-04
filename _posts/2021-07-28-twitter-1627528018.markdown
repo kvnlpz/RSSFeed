@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 20:06:58 
-categories: twitter 
---- 
-I feel there should be a way to disrupt the corporate mandatory education business sector

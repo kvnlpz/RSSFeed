@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rejection of 42k 
-date: 2021-08-01 1627844459 
-categories: reddit 
---- 
-https://redd.it/ovy26y

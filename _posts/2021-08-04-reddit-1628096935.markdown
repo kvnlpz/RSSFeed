@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does an Exodus Wallet on a permanent flight mode phone count as "cold"? 
-date: 2021-08-04 1628096935 
-categories: reddit 
---- 
-https://redd.it/oxx9kz

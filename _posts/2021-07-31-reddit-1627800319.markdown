@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Orion Protocol News] Orion Pool V2 will go live on 3rd of August 
-date: 2021-07-31 1627800319 
-categories: reddit 
---- 
-https://redd.it/ovncn6

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-31 16:14:17 
-categories: twitter 
---- 
-RT @YannickKae: I wanted to take a look at how unstable classical portfolio optimization (max. Sharpe) is.
-
-Created 100 random return vecto…

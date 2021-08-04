@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I calculated Bitcoin's return each quarter since 2010 
-date: 2021-08-03 1628040519 
-categories: reddit 
---- 
-https://redd.it/oxhwlp

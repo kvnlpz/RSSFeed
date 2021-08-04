@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xMerp 
-date: 2021-07-27 18:59:51 
-categories: twitter 
---- 
-@nope_its_lily @SqueezeMetrics @0xElm0 i think that at times it has effects but certainly not a constant thing

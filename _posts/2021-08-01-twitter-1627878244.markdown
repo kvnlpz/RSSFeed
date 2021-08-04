@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sajidnizami 
-date: 2021-08-01 21:24:04 
-categories: twitter 
---- 
-@nope_its_lily @bennpeifert Yes. It will change every time someone takes the recommendation.

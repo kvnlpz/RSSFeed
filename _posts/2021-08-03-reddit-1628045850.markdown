@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ok 
-date: 2021-08-03 1628045850 
-categories: reddit 
---- 
-https://redd.it/oxjfy7

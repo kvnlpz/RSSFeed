@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How the heck is Monero is so undervalued? 
-date: 2021-08-02 1627899363 
-categories: reddit 
---- 
-https://redd.it/owbmdf

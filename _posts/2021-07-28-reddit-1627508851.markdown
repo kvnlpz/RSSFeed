@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MEV (Miner Extractable Value) A major concern for alt coins. How are more people not concerned about MEV when the transactions can basically be re-ordered and arranged in a bidding war determined by greedy people? 
-date: 2021-07-28 1627508851 
-categories: reddit 
---- 
-https://redd.it/otju87

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: HOOD 
-date: 2021-08-03 1628029732 
-categories: reddit 
---- 
-https://redd.it/oxellr

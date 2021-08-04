@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wallstreetboo 
-date: 2021-08-01 09:48:17 
-categories: twitter 
---- 
-RT @nope_its_lily: If your financial advisor has not recommended apeing into cyberpunks at the peak yet, fire them.

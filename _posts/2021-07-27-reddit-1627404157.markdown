@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Earnings 
-date: 2021-07-27 1627404157 
-categories: reddit 
---- 
-https://redd.it/osqg1m

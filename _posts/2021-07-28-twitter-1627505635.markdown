@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PowerDrips 
-date: 2021-07-28 13:53:55 
-categories: twitter 
---- 
-@nope_its_lily Priced in?

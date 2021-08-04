@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SPACthatassup 
-date: 2021-08-02 04:48:32 
-categories: twitter 
---- 
-@alphatrends Can someone here help me understand how "brute force" even works? Don't most accounts lock you out if you try too many times?

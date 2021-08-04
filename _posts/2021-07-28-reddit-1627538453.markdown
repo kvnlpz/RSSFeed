@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Based on some estimates I've done, PC gaming uses far more energy than GPU-based crypto mining as a whole. 
-date: 2021-07-28 1627538453 
-categories: reddit 
---- 
-https://redd.it/otrofc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @subspaceforce 
-date: 2021-07-28 17:28:57 
-categories: twitter 
---- 
-@nope_its_lily I’ve experienced this with recsys perf for years. Getting to an ~85% transition probability increase… https://t.co/Lka38wf6c8

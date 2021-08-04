@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin based NFT ticket platform going into production next week! [TikTok video pre-annoucement] 
-date: 2021-08-03 1628059818 
-categories: reddit 
---- 
-https://redd.it/oxmxe7

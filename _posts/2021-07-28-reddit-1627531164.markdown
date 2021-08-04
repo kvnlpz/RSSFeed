@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin vs Nano Fundamentals 
-date: 2021-07-28 1627531164 
-categories: reddit 
---- 
-https://redd.it/otq09k

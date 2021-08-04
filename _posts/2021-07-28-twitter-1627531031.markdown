@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FSTrades 
-date: 2021-07-28 20:57:11 
-categories: twitter 
---- 
-@alphatrends @FinTwitConf I’ll be attending, looking forward to meeting all the great traders

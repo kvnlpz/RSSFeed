@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CardanoWall: Proof of Existence 
-date: 2021-07-28 1627466728 
-categories: reddit 
---- 
-https://redd.it/ot6wo6

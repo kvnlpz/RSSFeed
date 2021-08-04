@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market Maker Manipulation be like 
-date: 2021-07-28 1627495088 
-categories: reddit 
---- 
-https://redd.it/otf987

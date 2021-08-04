@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JhonyTheTrader 
-date: 2021-08-03 17:18:54 
-categories: twitter 
---- 
-@G_krupins Earnings near by

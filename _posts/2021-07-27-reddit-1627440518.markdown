@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Sentiment has begun moving into the Positive again, Exiting the Extreme Fear Sentiment 
-date: 2021-07-27 1627440518 
-categories: reddit 
---- 
-https://redd.it/ot176b

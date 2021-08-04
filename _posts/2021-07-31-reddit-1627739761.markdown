@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Simple ques. 
-date: 2021-07-31 1627739761 
-categories: reddit 
---- 
-https://redd.it/ov7krs

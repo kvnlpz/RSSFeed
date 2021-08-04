@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CSiavash 
-date: 2021-08-01 01:44:23 
-categories: twitter 
---- 
-RT @TraderLion_: Trading Legends: Nicolas Darvas (Thread) https://t.co/1VJDaRSOfU

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mining on a cheap netbook or laptop 
-date: 2021-07-28 1627516312 
-categories: reddit 
---- 
-https://redd.it/otm3m3

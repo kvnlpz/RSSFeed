@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jsandlock75 
-date: 2021-08-04 06:11:59 
-categories: twitter 
---- 
-@alphatrends Hey Brian good morning... Any update on your new book (VWAP)?

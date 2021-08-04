@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-07-28 08:19:38 
-categories: twitter 
---- 
-https://t.co/dBbxlDWTZ4 WEaaaaaaak midday move here

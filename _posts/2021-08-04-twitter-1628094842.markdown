@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Lava_Flow2 
-date: 2021-08-04 09:34:02 
-categories: twitter 
---- 
-@muddywatersre @SuperMugatu Tomato Tomatoe Potatoe Potato

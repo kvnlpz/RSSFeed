@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The next Cardano milestone 
-date: 2021-08-01 1627846041 
-categories: reddit 
---- 
-https://redd.it/ovyjra

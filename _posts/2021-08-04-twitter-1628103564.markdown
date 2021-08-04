@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-04 11:59:24 
-categories: twitter 
---- 
-RT @TheSerenation: @super_trades @GabiMartinescu And what's amazing is that no one can do anything to stop it or compete against it for yea…

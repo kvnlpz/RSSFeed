@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-04 04:41:00 
-categories: twitter 
---- 
-$AMC steady pressure this morning

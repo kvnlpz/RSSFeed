@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thoughts on Cake DeFi 
-date: 2021-08-03 1628003168 
-categories: reddit 
---- 
-https://redd.it/ox5cs3

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Illuvium, your thoughts! 
-date: 2021-07-28 1627502963 
-categories: reddit 
---- 
-https://redd.it/othvs8

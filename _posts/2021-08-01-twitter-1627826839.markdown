@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 07:07:19 
-categories: twitter 
---- 
-If you take a tweet about a dream as a serious market prediction there is no hope for you.

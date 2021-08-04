@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Webull charges you roughly $410 to make an order for bitcoin 
-date: 2021-08-01 1627804359 
-categories: reddit 
---- 
-https://redd.it/ovo3ma

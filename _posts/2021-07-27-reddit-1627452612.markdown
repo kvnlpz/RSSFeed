@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AAOI Applied Optoelectronics looking interesting 
-date: 2021-07-27 1627452612 
-categories: reddit 
---- 
-https://redd.it/ot44dw

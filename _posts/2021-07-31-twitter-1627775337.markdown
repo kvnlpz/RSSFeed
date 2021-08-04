@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GhostsOfWolves 
-date: 2021-07-31 16:48:57 
-categories: twitter 
---- 
-@muddywatersre Doesn’t work unless your computer is also vaccinated or wearing triple masks

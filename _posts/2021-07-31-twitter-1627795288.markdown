@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FinTwitBandit 
-date: 2021-07-31 22:21:28 
-categories: twitter 
---- 
-@muddywatersre Almost as good as him knowing what temperature you like it at

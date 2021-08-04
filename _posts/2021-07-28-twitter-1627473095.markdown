@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @funkt13 
-date: 2021-07-28 04:51:35 
-categories: twitter 
---- 
-@timothysykes Good morning!!

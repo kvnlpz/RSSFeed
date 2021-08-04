@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-04 09:36:28 
-categories: twitter 
---- 
-Trades of focus for quiet trades = $CEMI $ATHE $HJHLI $XELA and obviously $WHLR

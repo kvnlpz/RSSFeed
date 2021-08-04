@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can a token be worth more than the blockchain it was created on? 
-date: 2021-08-02 1627905519 
-categories: reddit 
---- 
-https://redd.it/owczkv

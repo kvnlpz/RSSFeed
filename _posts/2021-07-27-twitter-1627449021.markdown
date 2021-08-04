@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @aloladeusvulpix 
-date: 2021-07-27 22:10:21 
-categories: twitter 
---- 
-@nope_its_lily 😭

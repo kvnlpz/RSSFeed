@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Free MOOC: Introduction to Decentralized Finance (DeFi) (Starting date: October 11, 2021) 
-date: 2021-08-02 1627903605 
-categories: reddit 
---- 
-https://redd.it/owciu6

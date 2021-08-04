@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The price of Bitcoin could be impacted by a bill being considered by the United States Congress which would require businesses to report transactions of more than $10,000 which involve the cryptocurrency to the tax office. 
-date: 2021-08-02 1627891694 
-categories: reddit 
---- 
-https://redd.it/owa5jy

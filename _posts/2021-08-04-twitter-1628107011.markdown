@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RealDeesmo 
-date: 2021-08-04 12:56:51 
-categories: twitter 
---- 
-RT @InvestorsLive: $SCPS nutty EOD load.

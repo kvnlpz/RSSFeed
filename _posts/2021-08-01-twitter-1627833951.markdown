@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SquareInvest 
-date: 2021-08-01 09:05:51 
-categories: twitter 
---- 
-@InvestorsLive @swedepilot You need this: https://t.co/Bjd3YulUA3

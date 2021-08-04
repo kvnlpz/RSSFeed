@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MaqsDad 
-date: 2021-08-02 02:36:32 
-categories: twitter 
---- 
-RT @alphatrends: How secure are your passwords? https://t.co/lR0xcj7TUk

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: how to get rid of minereum on etherscan? 
-date: 2021-08-04 1628116914 
-categories: reddit 
---- 
-https://redd.it/oy48my

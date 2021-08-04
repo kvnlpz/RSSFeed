@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 14:09:40 
-categories: twitter 
---- 
-@laurentzeimes Algo wise dynamic programming shows up in a ton of fields, string manipulation and compression techn… https://t.co/6UCyFynGMf

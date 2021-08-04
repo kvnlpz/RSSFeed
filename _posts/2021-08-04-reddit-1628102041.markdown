@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hodl 
-date: 2021-08-04 1628102041 
-categories: reddit 
---- 
-https://redd.it/oxz4q7

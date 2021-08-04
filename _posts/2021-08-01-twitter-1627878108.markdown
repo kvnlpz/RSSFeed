@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DingoDogDotCom 
-date: 2021-08-01 21:21:48 
-categories: twitter 
---- 
-@alphatrends I’m in the yellow zone at 400 years … I think I’m good

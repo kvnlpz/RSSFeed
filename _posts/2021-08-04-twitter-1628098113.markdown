@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SdmTrader 
-date: 2021-08-04 10:28:33 
-categories: twitter 
---- 
-@alphatrends @Trendspider_J are you guys related?

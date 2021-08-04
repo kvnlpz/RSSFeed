@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: On the move today 
-date: 2021-07-28 1627494220 
-categories: reddit 
---- 
-https://redd.it/oteyk1

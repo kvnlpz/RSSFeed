@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto & Hackers -1 : Don’t put your seed everywhere 
-date: 2021-08-01 1627829829 
-categories: reddit 
---- 
-https://redd.it/ovtkxy

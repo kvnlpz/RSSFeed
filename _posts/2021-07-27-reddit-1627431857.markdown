@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This shows just how quickly sentiment changes in crypto markets 
-date: 2021-07-27 1627431857 
-categories: reddit 
---- 
-https://redd.it/osyum1

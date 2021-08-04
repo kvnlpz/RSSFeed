@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-27 16:45:26 
-categories: twitter 
---- 
-$GMVD yikes nearly 50% haircut in the last week 😬

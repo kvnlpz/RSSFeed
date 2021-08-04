@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Popsicle Finance Suffers $20.7M Exploit 
-date: 2021-08-04 1628089162 
-categories: reddit 
---- 
-https://redd.it/oxugxl

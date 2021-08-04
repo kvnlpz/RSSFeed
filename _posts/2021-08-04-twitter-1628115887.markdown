@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrianTheeFirst 
-date: 2021-08-04 15:24:47 
-categories: twitter 
---- 
-RT @nope_its_lily: A little known fact is 50 cent used to be called 100 cent before the algorithmic stablecoin backing him got rugged

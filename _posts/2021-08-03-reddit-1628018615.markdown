@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Setting up a box spread to pay off margin 
-date: 2021-08-03 1628018615 
-categories: reddit 
---- 
-https://redd.it/oxasrj

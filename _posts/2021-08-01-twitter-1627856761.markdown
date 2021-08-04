@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mike_sb 
-date: 2021-08-01 15:26:01 
-categories: twitter 
---- 
-RT @nope_its_lily: @VXO150 I like gambling on globex

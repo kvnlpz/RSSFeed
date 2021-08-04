@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @olliemoore1 
-date: 2021-08-01 20:23:38 
-categories: twitter 
---- 
-RT @alphatrends: How secure are your passwords? https://t.co/lR0xcj7TUk

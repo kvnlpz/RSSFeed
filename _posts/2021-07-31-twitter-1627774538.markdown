@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-31 16:35:38 
-categories: twitter 
---- 
-That thing just cuts - inaugural run. https://t.co/J6QATnTIVM

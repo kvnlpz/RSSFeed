@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BitcoinMonke 
-date: 2021-07-27 20:34:11 
-categories: twitter 
---- 
-@nope_its_lily @_uonyx Where do I buy calls?

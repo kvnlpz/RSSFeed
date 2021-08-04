@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: #1 Creator of the Week 
-date: 2021-07-28 1627474334 
-categories: reddit 
---- 
-https://redd.it/ot8n5s

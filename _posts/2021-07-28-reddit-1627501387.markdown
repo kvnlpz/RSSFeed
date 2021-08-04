@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My first CSP! Where's Lambo? 
-date: 2021-07-28 1627501387 
-categories: reddit 
---- 
-https://redd.it/othd1s

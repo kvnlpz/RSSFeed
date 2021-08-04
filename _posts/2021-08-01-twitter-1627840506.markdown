@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @telisha_james 
-date: 2021-08-01 10:55:06 
-categories: twitter 
---- 
-@timothysykes The interviewer is a douchebag

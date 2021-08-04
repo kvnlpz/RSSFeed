@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is cloud mining 
-date: 2021-08-02 1627892348 
-categories: reddit 
---- 
-https://redd.it/owaa19

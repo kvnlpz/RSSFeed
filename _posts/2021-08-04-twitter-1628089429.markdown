@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-04 08:03:49 
-categories: twitter 
---- 
-Thankfully, it was a white hat hacker, so they only drained half of the pool

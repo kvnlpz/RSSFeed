@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imperative_the 
-date: 2021-07-31 19:06:55 
-categories: twitter 
---- 
-RT @nope_its_lily: So in general we'd expect a premium (discount) attached to ETH (SOL) NFTs by the same merit, simply because there's risk…

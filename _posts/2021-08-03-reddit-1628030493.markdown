@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit Portfolio Poll Allocation 
-date: 2021-08-03 1628030493 
-categories: reddit 
---- 
-https://redd.it/oxeu3z

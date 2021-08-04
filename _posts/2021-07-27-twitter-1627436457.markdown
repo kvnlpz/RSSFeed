@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 18:40:57 
-categories: twitter 
---- 
-@R_DaneelSeldon if you're female yes

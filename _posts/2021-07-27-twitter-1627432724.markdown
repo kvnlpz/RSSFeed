@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RickMasters88 
-date: 2021-07-27 17:38:44 
-categories: twitter 
---- 
-@nope_its_lily 6feet tall

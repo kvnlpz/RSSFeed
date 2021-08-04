@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin ticks most boxes 
-date: 2021-08-01 1627827279 
-categories: reddit 
---- 
-https://redd.it/ovsv05

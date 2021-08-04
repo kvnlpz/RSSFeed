@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kettle150 
-date: 2021-07-29 17:51:05 
-categories: twitter 
---- 
-@OddStockTrader @OddStockTrades Done!

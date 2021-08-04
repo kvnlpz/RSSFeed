@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-08-04 07:51:56 
-categories: twitter 
---- 
-@RayTL_ Thanks for the support Ray

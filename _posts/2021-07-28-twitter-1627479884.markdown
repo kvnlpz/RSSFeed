@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @michael__sand 
-date: 2021-07-28 06:44:44 
-categories: twitter 
---- 
-@alphatrends For experienced traders but not for longterm investors

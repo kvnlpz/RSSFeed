@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JCOviedo6 
-date: 2021-07-28 03:52:10 
-categories: twitter 
---- 
-RT @muddywatersre: The real business model of course was being public. cc: @GrapefruitGals

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @quadrider44 
-date: 2021-07-28 10:19:13 
-categories: twitter 
---- 
-RT @OddStockTrader: It's one thing to imagine you can make millions trading in the markets with a small starting amount.
-
-This was the drea…

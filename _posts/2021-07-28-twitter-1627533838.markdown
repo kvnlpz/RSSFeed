@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MitchJones00 
-date: 2021-07-28 21:43:58 
-categories: twitter 
---- 
-RT @alphatrends: dropping the Colorado Blue Mesa Reservoir by 8 ft next month 
-
-https://t.co/qsTM3hmTWF help fill it back up

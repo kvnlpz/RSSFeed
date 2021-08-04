@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EvanaRichelle 
-date: 2021-07-27 16:42:36 
-categories: twitter 
---- 
-@nope_its_lily Whitney Cummings

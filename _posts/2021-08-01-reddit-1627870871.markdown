@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Down almost 30k on workhorse 
-date: 2021-08-01 1627870871 
-categories: reddit 
---- 
-https://redd.it/ow5k6s

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin 1 day analysis 7-28-2021 
-date: 2021-07-28 1627473763 
-categories: reddit 
---- 
-https://redd.it/ot8htm

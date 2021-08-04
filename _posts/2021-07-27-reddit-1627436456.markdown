@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin node not working - ISP switch 
-date: 2021-07-27 1627436456 
-categories: reddit 
---- 
-https://redd.it/ot03w0

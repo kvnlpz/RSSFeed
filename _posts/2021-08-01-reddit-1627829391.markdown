@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: QTCOM, the hidden tool to build the world 
-date: 2021-08-01 1627829391 
-categories: reddit 
---- 
-https://redd.it/ovtgkg

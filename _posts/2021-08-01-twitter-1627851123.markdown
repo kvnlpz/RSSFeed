@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gpurcell 
-date: 2021-08-01 13:52:03 
-categories: twitter 
---- 
-@nope_its_lily Because that's been my life.

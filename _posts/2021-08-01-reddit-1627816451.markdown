@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: About our startup WECCO Community 
-date: 2021-08-01 1627816451 
-categories: reddit 
---- 
-https://redd.it/ovqb0c

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Smart Contracts? Anyone Knwo why it is saying BNB on coinmarketcap? Thank you 
-date: 2021-08-01 1627830231 
-categories: reddit 
---- 
-https://redd.it/ovtpef

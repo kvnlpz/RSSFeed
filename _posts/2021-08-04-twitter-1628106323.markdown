@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fiscal_Jam 
-date: 2021-08-04 12:45:23 
-categories: twitter 
---- 
-@OddStockTrader in what regard?

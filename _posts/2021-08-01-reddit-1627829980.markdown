@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about "cryptofarm" app 
-date: 2021-08-01 1627829980 
-categories: reddit 
---- 
-https://redd.it/ovtmid

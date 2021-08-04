@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EveryoneAlt 
-date: 2021-07-27 18:29:30 
-categories: twitter 
---- 
-@nope_its_lily Honestly I'd have thought it would be the number of barely-concealed-thirst replies. But that might be a denominator.

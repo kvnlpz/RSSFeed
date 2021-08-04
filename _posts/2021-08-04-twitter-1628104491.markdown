@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gambiste1 
-date: 2021-08-04 12:14:51 
-categories: twitter 
---- 
-RT @InvestorsLive: Obviously be cautious chasing $UPC move IMO. First in first out. https://t.co/kvKC7nByI8

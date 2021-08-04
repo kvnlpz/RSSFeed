@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @3PeaksTrading 
-date: 2021-08-01 15:02:14 
-categories: twitter 
---- 
-@nope_its_lily they bought something called AfterPay

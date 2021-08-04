@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is NANO and is it better than Ethereum? 
-date: 2021-08-01 1627823199 
-categories: reddit 
---- 
-https://redd.it/ovrs44

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Business idea 
-date: 2021-07-28 1627502933 
-categories: reddit 
---- 
-https://redd.it/othvg3

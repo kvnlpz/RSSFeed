@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theKantoarbot 
-date: 2021-08-01 00:20:14 
-categories: twitter 
---- 
-@nope_its_lily Of course I just don’t think the SEC requiring companies to add more legalese to prospectuses change… https://t.co/jNoWIj9dap

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NoCapitulation 
-date: 2021-07-28 21:23:52 
-categories: twitter 
---- 
-@nope_its_lily First you were off about vaccine efficacy and then China deadcat bounce. This too shall pass

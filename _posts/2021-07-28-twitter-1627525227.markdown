@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brick295 
-date: 2021-07-28 19:20:27 
-categories: twitter 
---- 
-@alphatrends https://t.co/8mf46QbqKy

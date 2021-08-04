@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Popsicle Finance suffered a huge financial loss (over $20M) 
-date: 2021-08-04 1628079746 
-categories: reddit 
---- 
-https://redd.it/oxrill

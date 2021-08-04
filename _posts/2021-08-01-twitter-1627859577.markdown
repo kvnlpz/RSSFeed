@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pdh787 
-date: 2021-08-01 16:12:57 
-categories: twitter 
---- 
-@nope_its_lily @kgreifeld @timsteno @Quicktake I did as well

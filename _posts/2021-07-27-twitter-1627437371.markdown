@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goldensteaks 
-date: 2021-07-27 18:56:11 
-categories: twitter 
---- 
-@nope_its_lily Tell me when it's safe to buy meme stocks i feel a resurgence coming...

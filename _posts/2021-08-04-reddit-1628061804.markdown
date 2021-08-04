@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MAJOR DIP INCOMING 
-date: 2021-08-04 1628061804 
-categories: reddit 
---- 
-https://redd.it/oxndgx

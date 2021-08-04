@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made an application that keeps track of Crypto Mentions as well as a Sentiment engine to score the posts. Useful? 
-date: 2021-07-31 1627784924 
-categories: reddit 
---- 
-https://redd.it/ovk0g6

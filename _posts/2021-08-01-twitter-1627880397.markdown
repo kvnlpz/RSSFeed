@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LarryLewallen4 
-date: 2021-08-01 21:59:57 
-categories: twitter 
---- 
-@alphatrends 2 factor authentication please….

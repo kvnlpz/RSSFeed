@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HazyLifu 
-date: 2021-08-01 13:47:44 
-categories: twitter 
---- 
-@nope_its_lily I'm going to pretend I understand this.

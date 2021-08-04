@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hc000 
-date: 2021-07-28 01:30:30 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/7SFrAJid8U

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GambitXX1 
-date: 2021-08-04 10:12:48 
-categories: twitter 
---- 
-RT @OddStockTrader: My trading skills lately... https://t.co/rf2SFcr9gt

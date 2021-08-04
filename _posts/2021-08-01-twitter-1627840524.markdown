@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DistilledWisdo1 
-date: 2021-08-01 10:55:24 
-categories: twitter 
---- 
-@nope_its_lily do you need a steel plate in your head? 
-Asking for a friend.

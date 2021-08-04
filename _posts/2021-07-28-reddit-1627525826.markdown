@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Technicals with Kalle Rosenbaum (author of “Grokking Bitcoin”) 
-date: 2021-07-28 1627525826 
-categories: reddit 
---- 
-https://redd.it/otoo7s

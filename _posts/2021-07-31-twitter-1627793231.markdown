@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rahul_12gh 
-date: 2021-07-31 21:47:11 
-categories: twitter 
---- 
-@nope_its_lily Truer words were never spoken

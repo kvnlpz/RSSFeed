@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JCollinsShun 
-date: 2021-08-03 17:20:11 
-categories: twitter 
---- 
-RT @G_krupins: $ITB housing names with some momentum again https://t.co/Ce0yWptl3n

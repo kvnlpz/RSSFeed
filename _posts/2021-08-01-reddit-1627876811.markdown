@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Good project 
-date: 2021-08-01 1627876811 
-categories: reddit 
---- 
-https://redd.it/ow6zww

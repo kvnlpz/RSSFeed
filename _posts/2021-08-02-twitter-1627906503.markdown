@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GiulianoJin 
-date: 2021-08-02 05:15:03 
-categories: twitter 
---- 
-@timothysykes Good morning Tim

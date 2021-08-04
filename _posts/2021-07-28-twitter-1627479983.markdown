@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bear_fuker 
-date: 2021-07-28 06:46:23 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/VDcz3HJZuL

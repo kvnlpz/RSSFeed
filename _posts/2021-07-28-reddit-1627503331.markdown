@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum vs Everything 
-date: 2021-07-28 1627503331 
-categories: reddit 
---- 
-https://redd.it/oti084

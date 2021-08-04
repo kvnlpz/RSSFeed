@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-04 07:54:02 
-categories: twitter 
---- 
-$NAII : https://t.co/hkWXYF7f2s

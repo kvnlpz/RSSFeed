@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-07-27 21:33:44 
-categories: twitter 
---- 
-@jablamsky @arnieleicester Cool, next time just hang the tie on the doorknob so I’ll know.

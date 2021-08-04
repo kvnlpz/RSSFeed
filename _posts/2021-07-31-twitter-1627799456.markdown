@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jonhonay 
-date: 2021-07-31 23:30:56 
-categories: twitter 
---- 
-RT @nope_its_lily: i feel we should name the next covid variant Lollapalooza

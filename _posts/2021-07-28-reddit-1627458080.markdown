@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Bitcoin Mining Worth It? 
-date: 2021-07-28 1627458080 
-categories: reddit 
---- 
-https://redd.it/ot57al

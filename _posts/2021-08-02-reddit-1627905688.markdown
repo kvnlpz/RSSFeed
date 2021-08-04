@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain and ageing - How is the increasing size of a blockchain dealt with? 
-date: 2021-08-02 1627905688 
-categories: reddit 
---- 
-https://redd.it/owd1ei

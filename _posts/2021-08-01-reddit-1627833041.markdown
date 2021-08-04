@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do ASICs just implement SHA-256 or is there much more they're doing? And is there any reason it wouldn't be possible to build one out of 74 series DIP chips? 
-date: 2021-08-01 1627833041 
-categories: reddit 
---- 
-https://redd.it/ovujo5

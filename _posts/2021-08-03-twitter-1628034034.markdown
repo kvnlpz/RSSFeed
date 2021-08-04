@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Kevin_S_914 
-date: 2021-08-03 16:40:34 
-categories: twitter 
---- 
-@thehonestcroock https://t.co/0GFAoqInTz

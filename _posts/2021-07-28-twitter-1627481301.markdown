@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-28 07:08:21 
-categories: twitter 
---- 
-@RichardMoglen Good gauge on market risk appetite - see if it holds prior base high and buys time. Ideally hover above 75.

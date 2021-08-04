@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoins first ever Reddit conversation…. 
-date: 2021-07-28 1627487892 
-categories: reddit 
---- 
-https://redd.it/otct2e

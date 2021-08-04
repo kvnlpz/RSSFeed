@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-04 05:36:06 
-categories: twitter 
---- 
-RT @MicrocapTrader: wow $VRAR + $SNAP:  https://t.co/kNupe067xv

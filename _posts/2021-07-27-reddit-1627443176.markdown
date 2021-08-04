@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: User flair not updating, even after messaging Instamod 
-date: 2021-07-27 1627443176 
-categories: reddit 
---- 
-https://redd.it/ot1wk2

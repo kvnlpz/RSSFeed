@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 22:19:23 
-categories: twitter 
---- 
-@longskew I heard Almuerzo Trabajo just wills whatever direction

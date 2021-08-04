@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-28 07:43:28 
-categories: twitter 
---- 
-$QUBT so strong.  Quantum computing software pure play, in trials with large customers and partners with $AMZN Bracket.

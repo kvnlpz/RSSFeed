@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-27 20:00:36 
-categories: twitter 
---- 
-Chart your losses. Learn from them. Print them. Look at them. That's one way to get infinitely better.

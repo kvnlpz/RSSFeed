@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bryan_trades 
-date: 2021-08-04 15:07:08 
-categories: twitter 
---- 
-@MikeBellafiore For each trader that wins another has to lose

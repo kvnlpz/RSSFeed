@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I want to add bitcoin to my website for users to pay with but is the method im trying to do even possible? 
-date: 2021-08-01 1627856339 
-categories: reddit 
---- 
-https://redd.it/ow1oe7

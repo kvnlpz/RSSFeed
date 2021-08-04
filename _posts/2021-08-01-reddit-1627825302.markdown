@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Go East! 
-date: 2021-08-01 1627825302 
-categories: reddit 
---- 
-https://redd.it/ovsave

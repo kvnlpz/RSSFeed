@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @volatilityhv 
-date: 2021-08-01 11:45:40 
-categories: twitter 
---- 
-@nope_its_lily But then bats will have no food and thus have evolutionary pressure which causes viruses to mutate a… https://t.co/9bjUfY0rO4

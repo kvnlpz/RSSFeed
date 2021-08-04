@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tinymisters 
-date: 2021-07-28 07:18:04 
-categories: twitter 
---- 
-@OddStockTrader Seems like the news that will make this go are results and or other applications $mnmd

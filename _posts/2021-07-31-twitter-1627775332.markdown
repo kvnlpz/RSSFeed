@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @myhumanpet 
-date: 2021-07-31 16:48:52 
-categories: twitter 
---- 
-@nope_its_lily I know this is trolling but reminded me of the fact that some people don’t have an inner monologue.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I couldn't find a desktop portfolio tracker I liked, so I made my own. Free, open source, flexible integrations with exchanges and block explorers (anyone can make their own plugins), no paywalls. Volta (Coming Soon) 
-date: 2021-07-27 1627439716 
-categories: reddit 
---- 
-https://redd.it/ot0zmn

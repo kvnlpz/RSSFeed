@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sadgirlmeag 
-date: 2021-08-01 11:23:11 
-categories: twitter 
---- 
-RT @nope_its_lily: i feel we should name the next covid variant Lollapalooza

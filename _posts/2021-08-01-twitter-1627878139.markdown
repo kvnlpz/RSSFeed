@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 21:22:19 
-categories: twitter 
---- 
-@sajidnizami @bennpeifert yes, but my point is each time you make the recommendation min(A-hat) you're adding to th… https://t.co/b6IGz7fXM4

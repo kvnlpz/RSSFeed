@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TCurtis101 
-date: 2021-07-27 22:19:42 
-categories: twitter 
---- 
-@timothysykes @MrDaveTrader @30DayBoot @completepenny Hello Tim - You are a simeball and it’s sad to watch people s… https://t.co/aEjAQrxNi7

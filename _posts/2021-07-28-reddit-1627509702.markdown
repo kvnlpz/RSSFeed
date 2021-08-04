@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Importance of the Passphrase feature on your hardware wallet to protect your recovery seed with a hidden wallet. 
-date: 2021-07-28 1627509702 
-categories: reddit 
---- 
-https://redd.it/otk44a

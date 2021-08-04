@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Current Google Trends Search Data 
-date: 2021-07-28 1627517877 
-categories: reddit 
---- 
-https://redd.it/otmiy7

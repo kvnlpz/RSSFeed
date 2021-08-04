@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Salafara 
-date: 2021-07-27 21:58:22 
-categories: twitter 
---- 
-@nope_its_lily Was it @AllisonReichel who thought you that?

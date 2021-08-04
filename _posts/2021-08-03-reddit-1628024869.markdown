@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is "holding period" w.r.t cost basis method? 
-date: 2021-08-03 1628024869 
-categories: reddit 
---- 
-https://redd.it/oxcywu

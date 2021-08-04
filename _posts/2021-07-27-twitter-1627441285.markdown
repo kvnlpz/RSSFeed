@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-27 20:01:25 
-categories: twitter 
---- 
-@ChainRassler I did you the favor of blocking you so you dont have to listen to my shitty advice

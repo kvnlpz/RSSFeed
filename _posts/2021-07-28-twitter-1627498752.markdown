@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YikesTrader1 
-date: 2021-07-28 11:59:12 
-categories: twitter 
---- 
-@InvestorsLive To see you make these calls in the room daily never gets old!

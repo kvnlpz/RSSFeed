@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transferring ownership of Bitcoin to LLC 
-date: 2021-08-04 1628107812 
-categories: reddit 
---- 
-https://redd.it/oy165x

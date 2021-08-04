@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @johnscharts 
-date: 2021-08-01 08:05:47 
-categories: twitter 
---- 
-RT @alphatrends: How Traders See Traffic Signs
-
-and don't forget all the stock symbols you see in the license plate letters! https://t.co/G…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I sent Bitcoin on cash app to another wallet but it's not showing up in cash app history or in the other wallet, please help 
-date: 2021-08-01 1627833792 
-categories: reddit 
---- 
-https://redd.it/ovus6v

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Its the year 2021 
-date: 2021-08-03 1628019636 
-categories: reddit 
---- 
-https://redd.it/oxb5ga

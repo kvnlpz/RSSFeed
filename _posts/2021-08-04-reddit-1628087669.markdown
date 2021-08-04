@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My settings for RTX 3090 Mining 
-date: 2021-08-04 1628087669 
-categories: reddit 
---- 
-https://redd.it/oxtyw3

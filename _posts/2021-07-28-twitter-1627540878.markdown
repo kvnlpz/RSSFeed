@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheWhiskyFiend 
-date: 2021-07-28 23:41:18 
-categories: twitter 
---- 
-@alphatrends @RampCapitalLLC @The_Real_Fly You can trust me... About whisky... Not much else

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nassim Taleb’s Bitcoin Black Paper with Lyn Alden — What Bitcoin Did 
-date: 2021-07-28 1627485859 
-categories: reddit 
---- 
-https://redd.it/otc4fv

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If I link trezor with my exodus wallet, is my crypto 100% safe? 
-date: 2021-08-02 1627890496 
-categories: reddit 
---- 
-https://redd.it/ow9xap

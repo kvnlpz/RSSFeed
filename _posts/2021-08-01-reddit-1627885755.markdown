@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: its happening 
-date: 2021-08-01 1627885755 
-categories: reddit 
---- 
-https://redd.it/ow8zq1

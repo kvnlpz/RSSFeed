@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mitchell_knight 
-date: 2021-08-01 14:17:14 
-categories: twitter 
---- 
-@nope_its_lily Interesting. Robert Mercer’s background was speech recognition computation / machine learning before Renaissance.

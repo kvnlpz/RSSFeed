@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Surely, you jest 
-date: 2021-08-01 1627871855 
-categories: reddit 
---- 
-https://redd.it/ow5sp6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderS37 
-date: 2021-07-27 16:19:04 
-categories: twitter 
---- 
-@InvestorsLive @jokon888 Yo is this Domo?

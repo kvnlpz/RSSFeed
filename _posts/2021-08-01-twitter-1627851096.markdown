@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IamNomad 
-date: 2021-08-01 13:51:36 
-categories: twitter 
---- 
-@nope_its_lily people get tired of mostly academic applications and decide theyd rather make money.

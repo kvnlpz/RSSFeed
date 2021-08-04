@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Finally managed to get 0.01BTC! 
-date: 2021-07-28 1627518960 
-categories: reddit 
---- 
-https://redd.it/otmtsg

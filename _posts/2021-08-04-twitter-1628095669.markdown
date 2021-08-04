@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-04 09:47:49 
-categories: twitter 
---- 
-This is the only "job" that doesn't state any minimum years of experience required on your resume.

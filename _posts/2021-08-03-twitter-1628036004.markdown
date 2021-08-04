@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LaneElder6 
-date: 2021-08-03 17:13:24 
-categories: twitter 
---- 
-@OddStockTrader All current battery tech will degrade over time with respect to energy density. You arent going to… https://t.co/rzPlkC0zAF

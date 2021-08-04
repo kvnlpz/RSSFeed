@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @inloworbit 
-date: 2021-07-28 19:55:44 
-categories: twitter 
---- 
-@alphatrends i will raise you one hoot https://t.co/YZVfk41GZj

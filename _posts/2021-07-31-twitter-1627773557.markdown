@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @smolprotecc 
-date: 2021-07-31 16:19:17 
-categories: twitter 
---- 
-RT @nope_its_lily: Wait can guys actually do this https://t.co/pnsv1ibz5f

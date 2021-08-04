@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PipelineDataLLC 
-date: 2021-08-01 07:41:08 
-categories: twitter 
---- 
-@muddywatersre Y’all both laugh when something ends up down where it deserves to be 😂

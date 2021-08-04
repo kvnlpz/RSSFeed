@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DrKushTV 
-date: 2021-08-03 15:32:22 
-categories: twitter 
---- 
-@InvestorsLive 😈 https://t.co/sV5UxATAud

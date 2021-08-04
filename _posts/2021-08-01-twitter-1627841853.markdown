@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimLancs 
-date: 2021-08-01 11:17:33 
-categories: twitter 
---- 
-@Steven1_994 Congratulations

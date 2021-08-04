@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Well shit just realized I forgot and didn’t write down the Reddit backup password for my vault 
-date: 2021-08-03 1628044560 
-categories: reddit 
---- 
-https://redd.it/oxj2uo

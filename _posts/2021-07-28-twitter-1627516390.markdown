@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @casey_callison 
-date: 2021-07-28 16:53:10 
-categories: twitter 
---- 
-@timothysykes Captured 6% today. Couldn’t execute quite as quick as I wanted as it was going fast, but still happy… https://t.co/QipSe01Il7

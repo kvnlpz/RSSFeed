@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just saw a post about a new crypto currency (possible scam?) 
-date: 2021-08-03 1628046579 
-categories: reddit 
---- 
-https://redd.it/oxjngj

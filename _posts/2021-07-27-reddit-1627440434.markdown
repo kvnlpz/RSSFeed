@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A short read about an amazing company and their stock @GMGI 
-date: 2021-07-27 1627440434 
-categories: reddit 
---- 
-https://redd.it/ot16ch

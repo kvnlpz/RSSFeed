@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: News Alert! 
-date: 2021-08-04 1628094626 
-categories: reddit 
---- 
-https://redd.it/oxwezm

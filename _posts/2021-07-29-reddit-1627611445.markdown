@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $TDOC 
-date: 2021-07-29 1627611445 
-categories: reddit 
---- 
-https://redd.it/oubnt7

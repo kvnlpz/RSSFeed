@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TIFU - by using a limit order as a stop loss 
-date: 2021-08-01 1627879621 
-categories: reddit 
---- 
-https://redd.it/ow7nw9

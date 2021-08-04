@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Support for fire tv 
-date: 2021-08-01 1627806700 
-categories: reddit 
---- 
-https://redd.it/ovoiql

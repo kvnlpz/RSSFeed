@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrianTheeFirst 
-date: 2021-08-04 15:33:10 
-categories: twitter 
---- 
-RT @nope_its_lily: I finally found a makeup routine that makes my skin glow, the missing ingredient this whole time was radium

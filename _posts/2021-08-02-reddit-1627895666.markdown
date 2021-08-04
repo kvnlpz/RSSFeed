@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Be Cautious: Ethereum London Upgrade 
-date: 2021-08-02 1627895666 
-categories: reddit 
---- 
-https://redd.it/owawa4

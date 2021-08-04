@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StocksOnlyGooUp 
-date: 2021-07-28 20:57:36 
-categories: twitter 
---- 
-RT @InvestorsLive: Here are 5 trading strategies you can start using this week https://t.co/it2eUq1Ddu https://t.co/yQxo5fICrU

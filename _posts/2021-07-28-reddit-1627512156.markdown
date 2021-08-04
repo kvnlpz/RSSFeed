@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Use Cases for Moons 
-date: 2021-07-28 1627512156 
-categories: reddit 
---- 
-https://redd.it/otkweo

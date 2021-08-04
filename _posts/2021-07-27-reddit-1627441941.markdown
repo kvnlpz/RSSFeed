@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Linked ledger to Yoroi and Daedalus - See Txs and Balance on both 
-date: 2021-07-27 1627441941 
-categories: reddit 
---- 
-https://redd.it/ot1kvt

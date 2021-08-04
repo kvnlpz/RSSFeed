@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-07-27 21:30:25 
-categories: twitter 
---- 
-@nope_its_lily @VinceSneyd We are all equals in the storm that cometh.

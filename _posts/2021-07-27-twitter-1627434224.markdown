@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MarcosMalakos 
-date: 2021-07-27 18:03:44 
-categories: twitter 
---- 
-@nope_its_lily What does it mean to be "unproblematic"?

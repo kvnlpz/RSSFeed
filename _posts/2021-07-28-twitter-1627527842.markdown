@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-28 20:04:02 
-categories: twitter 
---- 
-@DanTradesStocks a trout would never know the difference

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @salr_nyc 
-date: 2021-07-27 15:33:20 
-categories: twitter 
---- 
-@nope_its_lily Indeed! https://t.co/0K72dObIwa

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PradyuPrasad 
-date: 2021-08-01 01:09:11 
-categories: twitter 
---- 
-@nope_its_lily do you think VIEs stay or go?

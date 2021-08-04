@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Study reveals 40% of U.S. cryptocurrency owners forget their passwords 
-date: 2021-08-04 1628068592 
-categories: reddit 
---- 
-https://redd.it/oxotzu

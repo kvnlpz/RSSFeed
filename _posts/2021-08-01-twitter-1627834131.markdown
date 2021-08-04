@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BenjaminJoyce18 
-date: 2021-08-01 09:08:51 
-categories: twitter 
---- 
-@timothysykes Hell yes!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ive_m5 
-date: 2021-08-04 14:13:53 
-categories: twitter 
---- 
-@InvestorsLive Mudrick gap

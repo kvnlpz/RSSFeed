@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Euro CBDC testing - which coin it might be? 
-date: 2021-08-03 1628054425 
-categories: reddit 
---- 
-https://redd.it/oxlpxu

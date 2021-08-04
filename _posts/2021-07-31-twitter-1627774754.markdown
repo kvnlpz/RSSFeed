@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidGoldbergFL 
-date: 2021-07-31 16:39:14 
-categories: twitter 
---- 
-@nope_its_lily We had verbal and nonverbal and I scored better on the latter for reasons that were obvious later

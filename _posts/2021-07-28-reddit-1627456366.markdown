@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 60K YOLO on $WISH. Cause why not 
-date: 2021-07-28 1627456366 
-categories: reddit 
---- 
-https://redd.it/ot4vec

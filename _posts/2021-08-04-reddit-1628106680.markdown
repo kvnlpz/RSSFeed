@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Miners are ok with the EIP-1559 transaction burn because they will still be fully paid to order transactions in a block (MEV). MEV payments have increased from $.5m a day at the start of the year to over $6m daily. 
-date: 2021-08-04 1628106680 
-categories: reddit 
---- 
-https://redd.it/oy0s1y

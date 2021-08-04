@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: While it’s possible to compare any two blockchains, comparing Ethereum with Polkadot is almost inevitable. Not only on the technical level – they use a similar architecture and PoS consensus to achieve scalability – but because Vitalik Buterin & Dr. Gavin Wood also have a shared history in ETH. 
-date: 2021-08-01 1627865575 
-categories: reddit 
---- 
-https://redd.it/ow47j9

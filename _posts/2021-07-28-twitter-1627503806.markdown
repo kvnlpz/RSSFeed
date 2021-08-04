@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Da_Mo_Jay 
-date: 2021-07-28 13:23:26 
-categories: twitter 
---- 
-@InvestorsLive An Akita?

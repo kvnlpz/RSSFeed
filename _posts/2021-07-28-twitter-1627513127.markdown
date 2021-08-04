@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DFish1993 
-date: 2021-07-28 15:58:47 
-categories: twitter 
---- 
-RT @InvestorsLive: $TLRY tomorrow is going to be an A+ opportunity

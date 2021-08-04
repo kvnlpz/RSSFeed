@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Slambucket 
-date: 2021-07-28 09:37:51 
-categories: twitter 
---- 
-@muddywatersre @unusual_whales Nothing pitchforks and torches won’t cure

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 22:10:53 
-categories: twitter 
---- 
-@aloladeusvulpix analytical continuation fixes this
-h/t @tarunchitra

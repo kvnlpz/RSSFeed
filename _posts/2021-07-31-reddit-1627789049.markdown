@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The law of wrong numbers 
-date: 2021-07-31 1627789049 
-categories: reddit 
---- 
-https://redd.it/ovkytj

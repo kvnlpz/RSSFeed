@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin's at 39k, an update on basic T.A 
-date: 2021-07-28 1627459366 
-categories: reddit 
---- 
-https://redd.it/ot5ga0

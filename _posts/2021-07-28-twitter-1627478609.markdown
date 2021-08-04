@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VulcanMoron 
-date: 2021-07-28 06:23:29 
-categories: twitter 
---- 
-@nope_its_lily Well Hubba Hubba, Lily!

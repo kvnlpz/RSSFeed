@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why after certain number of blocks it becomes economically unviable for an attacker to try to fork the Bitcoin chain? 
-date: 2021-08-01 1627828388 
-categories: reddit 
---- 
-https://redd.it/ovt6bl

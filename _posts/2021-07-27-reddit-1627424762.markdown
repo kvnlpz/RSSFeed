@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Newly found Monero bug may impact transaction privacy, developers warn 
-date: 2021-07-27 1627424762 
-categories: reddit 
---- 
-https://redd.it/oswr0k

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Back in 2016, when I first heard about bitcoin 
-date: 2021-08-04 1628069267 
-categories: reddit 
---- 
-https://redd.it/oxoz9m

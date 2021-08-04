@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jkrowas 
-date: 2021-07-28 20:12:17 
-categories: twitter 
---- 
-@nope_its_lily Sometimes they do let you test out of the class! Depends on the content(?) and Learning Management S… https://t.co/QhskBZpyWw

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Nobody96382566 
-date: 2021-08-01 17:30:01 
-categories: twitter 
---- 
-@nope_its_lily @AlmostMedia Because their friends keep dying

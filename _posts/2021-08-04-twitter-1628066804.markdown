@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @danpiecora 
-date: 2021-08-04 01:46:44 
-categories: twitter 
---- 
-@InvestorsLive FOUND THIS ON STOCKTWITS:
-https://t.co/KsfHBcLg9B

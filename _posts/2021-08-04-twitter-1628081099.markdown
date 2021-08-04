@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nekabutaro 
-date: 2021-08-04 05:44:59 
-categories: twitter 
---- 
-RT @alphatrends: good reminders https://t.co/38zqKbJvWW

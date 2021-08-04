@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joelleharmony 
-date: 2021-08-01 14:24:08 
-categories: twitter 
---- 
-@TraderTexMex I feel bad for people living their life in fear.

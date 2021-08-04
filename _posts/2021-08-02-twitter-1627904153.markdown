@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-02 04:35:53 
-categories: twitter 
---- 
-$NAOV solid from game plan so far last night vs $2.30s base 👌

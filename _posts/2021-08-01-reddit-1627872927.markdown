@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Update] KIP-11: Fee Liquidation and Reward Distribution Framework: KIP-11 will propose a new fee liquidation framework and reward distribution algorithm. Currently, collected fees are being accumulated and will only be distributed after this framework has been approved by KyberDAO. 
-date: 2021-08-01 1627872927 
-categories: reddit 
---- 
-https://redd.it/ow628t

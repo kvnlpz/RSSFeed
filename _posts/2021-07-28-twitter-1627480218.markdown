@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HumbleHodl 
-date: 2021-07-28 06:50:18 
-categories: twitter 
---- 
-@modern_rock The house always wins

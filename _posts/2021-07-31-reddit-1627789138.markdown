@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin crossed 42K twice within two days 
-date: 2021-07-31 1627789138 
-categories: reddit 
---- 
-https://redd.it/ovkzg4

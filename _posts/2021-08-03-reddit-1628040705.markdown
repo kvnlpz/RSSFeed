@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Google Goes against everything Satoshi Nakamoto stood for. Don't use their Authenticator. Go with an alternative security method. 
-date: 2021-08-03 1628040705 
-categories: reddit 
---- 
-https://redd.it/oxgasi

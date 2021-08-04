@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible to transfer moons from one reddit wallet to another? 
-date: 2021-08-04 1628093920 
-categories: reddit 
---- 
-https://redd.it/oxw5z2

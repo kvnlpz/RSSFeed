@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin is the best 
-date: 2021-08-01 1627851477 
-categories: reddit 
---- 
-https://redd.it/ow07av

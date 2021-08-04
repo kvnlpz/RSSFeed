@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KamranN45384494 
-date: 2021-07-28 20:53:20 
-categories: twitter 
---- 
-@RayTL_ @robtweet21 @RichardMoglen Any VPC example  you have for reference ?

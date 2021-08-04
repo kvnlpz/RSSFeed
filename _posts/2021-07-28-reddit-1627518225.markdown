@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What news source do you use? 
-date: 2021-07-28 1627518225 
-categories: reddit 
---- 
-https://redd.it/otmmg1

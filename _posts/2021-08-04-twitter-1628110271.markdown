@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @martinjlm 
-date: 2021-08-04 13:51:11 
-categories: twitter 
---- 
-@nope_its_lily Just wait a little then you’ll be able to get it for a huge discount.

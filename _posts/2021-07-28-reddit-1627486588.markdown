@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why don't you own ___ coin? 
-date: 2021-07-28 1627486588 
-categories: reddit 
---- 
-https://redd.it/otcda7

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The cryptoassets with the highest free float annual inflation rate (denominated in native units) over the last year was Compound (625%) 
-date: 2021-08-01 1627875723 
-categories: reddit 
---- 
-https://redd.it/ow6qqp

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinbasePro log in problem 
-date: 2021-07-28 1627479269 
-categories: reddit 
---- 
-https://redd.it/ota0l1

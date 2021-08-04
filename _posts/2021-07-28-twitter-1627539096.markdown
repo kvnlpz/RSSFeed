@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PortendsRain 
-date: 2021-07-28 23:11:36 
-categories: twitter 
---- 
-@nope_its_lily Hey, thanks a bunch for putting yourself out there. Sorry about the not-so-greats.

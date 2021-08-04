@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a way to retrieve transaction history records? 
-date: 2021-07-28 1627519500 
-categories: reddit 
---- 
-https://redd.it/otmz17

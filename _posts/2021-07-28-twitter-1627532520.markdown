@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @invesqua 
-date: 2021-07-28 21:22:00 
-categories: twitter 
---- 
-@alphatrends @RampCapitalLLC @The_Real_Fly For some, there is a requirement to protect professional relationships a… https://t.co/YlShPsbu5a

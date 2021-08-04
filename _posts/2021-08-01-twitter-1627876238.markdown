@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PriusOmega 
-date: 2021-08-01 20:50:38 
-categories: twitter 
---- 
-@nope_its_lily Wow, that P/E has really gone down since last I checked. Over 1000 at some point.

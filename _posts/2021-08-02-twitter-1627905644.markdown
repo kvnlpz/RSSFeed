@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KpPeeps 
-date: 2021-08-02 05:00:44 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/N7xpmq7SfW

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kenhedley 
-date: 2021-08-01 00:12:14 
-categories: twitter 
---- 
-@nope_its_lily Hopefully not

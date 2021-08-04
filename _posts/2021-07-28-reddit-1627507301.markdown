@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This Sub is Censored 
-date: 2021-07-28 1627507301 
-categories: reddit 
---- 
-https://redd.it/otjc3d

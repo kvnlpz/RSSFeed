@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What website or software should I use for precision day trading of a single stock? Something simple... 
-date: 2021-08-04 1628080710 
-categories: reddit 
---- 
-https://redd.it/oxrsb9

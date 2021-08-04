@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I stake my KAVA with KEPLR wallet? 
-date: 2021-07-28 1627492148 
-categories: reddit 
---- 
-https://redd.it/ote9i8

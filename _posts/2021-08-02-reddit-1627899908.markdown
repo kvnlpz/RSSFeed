@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: withdrawing bitcoin from trust wallet to bank 
-date: 2021-08-02 1627899908 
-categories: reddit 
---- 
-https://redd.it/owbqa7

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @processtrading3 
-date: 2021-07-28 05:02:58 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/TgJnLjtidq

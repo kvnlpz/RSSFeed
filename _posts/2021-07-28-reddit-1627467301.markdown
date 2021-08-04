@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin has crossed 40k again 
-date: 2021-07-28 1627467301 
-categories: reddit 
---- 
-https://redd.it/ot70vv

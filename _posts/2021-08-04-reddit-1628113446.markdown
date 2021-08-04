@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Issuing university diplomas on the Algorand blockchain (if you don’t think this is useful, imagine being in a war-torn country where both paper and digital records are insecure) 
-date: 2021-08-04 1628113446 
-categories: reddit 
---- 
-https://redd.it/oy34i0

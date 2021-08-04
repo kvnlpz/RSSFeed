@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 18:24:06 
-categories: twitter 
---- 
-if i didn't merge my val set and my test set my model wouldn't work tho

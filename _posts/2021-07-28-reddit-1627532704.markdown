@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin needs a more efficient on-chain transaction solution. 
-date: 2021-07-28 1627532704 
-categories: reddit 
---- 
-https://redd.it/otqdog

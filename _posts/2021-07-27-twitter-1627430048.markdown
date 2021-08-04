@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @raj1a 
-date: 2021-07-27 16:54:08 
-categories: twitter 
---- 
-@alphatrends @MarketSmith I can't thank you enough for the "Technical Analysis Using Multiple Timeframes" book. Als… https://t.co/HahOsadVhU

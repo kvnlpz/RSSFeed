@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pmontu33 
-date: 2021-08-04 16:02:03 
-categories: twitter 
---- 
-@nope_its_lily @ryxcommar Why would he?

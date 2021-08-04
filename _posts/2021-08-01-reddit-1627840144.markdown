@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's to stop me from creating an NFT of the same art in two or more different blockchains and diluting it's value? 
-date: 2021-08-01 1627840144 
-categories: reddit 
---- 
-https://redd.it/ovwqva

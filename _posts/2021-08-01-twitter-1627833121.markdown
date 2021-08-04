@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-01 08:52:01 
-categories: twitter 
---- 
-@shopmarkey @jrfiocca @30DayBoot Not on heavily promoted plays, study up and see why they’re so predictable

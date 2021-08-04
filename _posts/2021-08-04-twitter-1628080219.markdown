@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nsherman2 
-date: 2021-08-04 05:30:19 
-categories: twitter 
---- 
-@InvestorsLive Help me understand please.. Was there people shorting $BYSI overnight that woke up to a margin call? serious question ..

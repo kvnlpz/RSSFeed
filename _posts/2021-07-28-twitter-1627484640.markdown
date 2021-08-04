@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Banana_boy100 
-date: 2021-07-28 08:04:00 
-categories: twitter 
---- 
-@nope_its_lily Basically, you would say "nope"?
-
-I'll let myself out the door.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mikahson 
-date: 2021-07-28 01:37:36 
-categories: twitter 
---- 
-@muddywatersre @GrapefruitGals ... and having ARCHEGOS by its side, doing the dirty work.

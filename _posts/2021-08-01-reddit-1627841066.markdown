@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin and Time with Gigi 
-date: 2021-08-01 1627841066 
-categories: reddit 
---- 
-https://redd.it/ovx0vj

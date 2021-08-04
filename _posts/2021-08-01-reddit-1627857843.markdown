@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin dropping quickly 
-date: 2021-08-01 1627857843 
-categories: reddit 
---- 
-https://redd.it/ow23zk

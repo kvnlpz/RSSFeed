@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The only r/CryptoCurrency post you’ll ever need to read 
-date: 2021-07-27 1627438157 
-categories: reddit 
---- 
-https://redd.it/ot0klb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Max62310266 
-date: 2021-07-28 13:24:07 
-categories: twitter 
---- 
-@nope_its_lily @StrizziJ https://t.co/P1FXbAvtIp

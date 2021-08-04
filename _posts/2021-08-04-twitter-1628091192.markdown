@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NickDollar 
-date: 2021-08-04 08:33:12 
-categories: twitter 
---- 
-@InvestorsLive Are you looking $MRNA ?

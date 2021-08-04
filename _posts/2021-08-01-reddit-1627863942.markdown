@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thinks are looking green. 
-date: 2021-08-01 1627863942 
-categories: reddit 
---- 
-https://redd.it/ow3sio

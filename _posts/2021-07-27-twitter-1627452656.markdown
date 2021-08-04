@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DhruvBole 
-date: 2021-07-27 23:10:56 
-categories: twitter 
---- 
-RT @alphatrends: What is your view on anonymous twitter accounts

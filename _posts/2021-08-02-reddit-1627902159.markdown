@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pattern recognition for RIO.AU 
-date: 2021-08-02 1627902159 
-categories: reddit 
---- 
-https://redd.it/owc6zs

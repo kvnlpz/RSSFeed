@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stop Loss confidence? 
-date: 2021-07-29 1627576968 
-categories: reddit 
---- 
-https://redd.it/ou14dx

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Inside ExpansionPunks - How the Zombie zero-attribute archetype was deduced using punks #8553 and #8127 and Much More by Jeremy Posvar 
-date: 2021-07-28 1627501303 
-categories: reddit 
---- 
-https://redd.it/othc1y

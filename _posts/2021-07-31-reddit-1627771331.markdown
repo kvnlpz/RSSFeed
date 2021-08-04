@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Top 10 in the US 
-date: 2021-07-31 1627771331 
-categories: reddit 
---- 
-https://redd.it/ovgn3h

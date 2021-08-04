@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VulcanMoron 
-date: 2021-07-27 21:59:28 
-categories: twitter 
---- 
-@nope_its_lily @StrizziJ I’m still undecided..

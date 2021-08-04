@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-04 12:13:09 
-categories: twitter 
---- 
-$MRNA 
-
-12:59:25 pm InvestorsLive: may get super crazy into close given the e/r - moved it to main monitor MRNA

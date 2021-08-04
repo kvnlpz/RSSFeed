@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kr0yrunner89 
-date: 2021-08-01 13:56:49 
-categories: twitter 
---- 
-RT @kroyrunner89: Do me a favor and report/block latest scammer account pretending to be me: https://t.co/JAbYyruIt4

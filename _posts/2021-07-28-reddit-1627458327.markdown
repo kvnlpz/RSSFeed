@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Newbie question: Are these "resistances" to crossing certain prices thresholds (like BTC at $40k) technological or psychological? 
-date: 2021-07-28 1627458327 
-categories: reddit 
---- 
-https://redd.it/ot590d

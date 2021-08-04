@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gametechpoliti1 
-date: 2021-07-28 05:08:14 
-categories: twitter 
---- 
-@timothysykes https://t.co/xMfF1W7a8D

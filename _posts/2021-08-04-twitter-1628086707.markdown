@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @barrelfiend 
-date: 2021-08-04 07:18:27 
-categories: twitter 
---- 
-@OddStockTrader maybe $169.42 at this rate 😃

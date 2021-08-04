@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here’s what we know about the delta-plus variant 
-date: 2021-08-03 1628038784 
-categories: reddit 
---- 
-https://redd.it/oxhdni

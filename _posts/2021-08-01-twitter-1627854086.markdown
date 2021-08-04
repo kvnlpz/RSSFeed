@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dvandenbord 
-date: 2021-08-01 14:41:26 
-categories: twitter 
---- 
-@alphatrends Gunga-galunga

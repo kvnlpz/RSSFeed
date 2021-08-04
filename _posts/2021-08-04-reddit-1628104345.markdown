@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What sites to use for investing 
-date: 2021-08-04 1628104345 
-categories: reddit 
---- 
-https://redd.it/oxzydh

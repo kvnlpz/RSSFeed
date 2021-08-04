@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderHarneet 
-date: 2021-07-28 06:41:18 
-categories: twitter 
---- 
-@alphatrends @MarketSmith Looks great .. thanks for sharing !

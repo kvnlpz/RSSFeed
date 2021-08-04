@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Elrond_Cat 
-date: 2021-08-04 12:33:52 
-categories: twitter 
---- 
-@super_trades ⚡ $eGLD ⚡ 
-⚡ @ElrondNetwork ⚡
- ⚡ @getMaiar ⚡ https://t.co/MInTKb9T63

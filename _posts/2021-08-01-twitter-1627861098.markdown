@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-08-01 16:38:18 
-categories: twitter 
---- 
-RT @StocksToTrade: It’s a new month, what is your profit goal for August?

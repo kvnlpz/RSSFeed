@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @canttunafish 
-date: 2021-08-01 09:30:07 
-categories: twitter 
---- 
-@nope_its_lily Definitely the peak. https://t.co/g3Bw1ofzQK

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Real question: What happens to the price of Ethereum after the release of 2.0 
-date: 2021-07-28 1627526844 
-categories: reddit 
---- 
-https://redd.it/otoxpx

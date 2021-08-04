@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gregdsports 
-date: 2021-07-28 07:34:06 
-categories: twitter 
---- 
-RT @RayTL_: If I can’t do it, it’s not doable isn’t a good mindset to have in trading. I know traders good at day trading, only trading mon…

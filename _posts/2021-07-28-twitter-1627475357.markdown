@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VetTrades 
-date: 2021-07-28 05:29:17 
-categories: twitter 
---- 
-@InvestorsLive They also brought size in 3.80 and 3.83. The .83 got pulled and the .80 got taken out. #games

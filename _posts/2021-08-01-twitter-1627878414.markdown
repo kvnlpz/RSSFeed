@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Adrian_H 
-date: 2021-08-01 21:26:54 
-categories: twitter 
---- 
-@nope_its_lily @quantian1 @bennpeifert The moral of the story is I need to review some math.

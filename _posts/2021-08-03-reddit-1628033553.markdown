@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: GUIDE - The many advantages of using a hardware/cold wallet 
-date: 2021-08-03 1628033553 
-categories: reddit 
---- 
-https://redd.it/oxfst6

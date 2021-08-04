@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking for a picture 
-date: 2021-07-28 1627477104 
-categories: reddit 
---- 
-https://redd.it/ot9dfa

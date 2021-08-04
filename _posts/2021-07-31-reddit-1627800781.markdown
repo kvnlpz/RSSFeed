@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain Crypto wallets to me? 
-date: 2021-07-31 1627800781 
-categories: reddit 
---- 
-https://redd.it/ovnfrc

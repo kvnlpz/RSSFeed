@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @d77043859 
-date: 2021-07-28 03:00:34 
-categories: twitter 
---- 
-@nope_its_lily I’m predicting bitcoin will trade rangebound between $0 and $1,000,000 for the foreseeable future   💡

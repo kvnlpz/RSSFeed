@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Government of Maharashtra has revealed that they are partnering up with LegitDoc, an Indian blockchain startup, to verify diplomas using blockchain technology. Through a system powered by Ethereum, students in India will be given digital diploma certificates that cannot be forged. The decision 
-date: 2021-07-28 1627465107 
-categories: reddit 
---- 
-https://redd.it/ot6kve

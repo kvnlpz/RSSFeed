@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChrisHux 
-date: 2021-08-03 15:57:45 
-categories: twitter 
---- 
-@InvestorsLive ATH tomorrow

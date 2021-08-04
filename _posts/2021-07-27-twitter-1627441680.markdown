@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StephenPaulRoss 
-date: 2021-07-27 20:08:00 
-categories: twitter 
---- 
-@RayTL_ Stop loss saved me today

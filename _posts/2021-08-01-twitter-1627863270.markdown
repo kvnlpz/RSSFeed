@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bookman009 
-date: 2021-08-01 17:14:30 
-categories: twitter 
---- 
-@OddStockTrader Manufactured hysteria

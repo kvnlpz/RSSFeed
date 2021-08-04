@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NPIRACKS 
-date: 2021-08-01 10:18:21 
-categories: twitter 
---- 
-@nope_its_lily Billy gates, that u dawg?

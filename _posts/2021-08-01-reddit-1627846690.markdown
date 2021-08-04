@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Top 50 Coins - Cap Weighted 
-date: 2021-08-01 1627846690 
-categories: reddit 
---- 
-https://redd.it/ovyqkb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PhilBelonger 
-date: 2021-08-01 08:01:50 
-categories: twitter 
---- 
-RT @muddywatersre: What do Satan and my sense of humor have in common? https://t.co/qPM5S72D4e

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VidrioirdiV 
-date: 2021-08-01 14:07:15 
-categories: twitter 
---- 
-@nope_its_lily Your so funny

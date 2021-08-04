@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain not working for me 
-date: 2021-07-28 1627509646 
-categories: reddit 
---- 
-https://redd.it/otk3f0

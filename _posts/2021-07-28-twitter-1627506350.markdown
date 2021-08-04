@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PoolManDan3 
-date: 2021-07-28 14:05:50 
-categories: twitter 
---- 
-@InvestorsLive #mrna your thoughts? ova 350$

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rookie_mode 
-date: 2021-08-01 15:27:38 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/t720MNqQni

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "Ethereum is now Unforkable, Thanks to Defi" Haseeb Quereshi. What about PulseChain thsts going to do it? The entire system state is going to be forked. What are the implications of this new fork? Any thoughts on how it's going to go? 
-date: 2021-08-03 1628052993 
-categories: reddit 
---- 
-https://redd.it/oxld0v

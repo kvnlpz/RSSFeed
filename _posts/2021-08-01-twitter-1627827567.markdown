@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Caldawg5 
-date: 2021-08-01 07:19:27 
-categories: twitter 
---- 
-@nope_its_lily Lol, but don’t say you’re not gonna RT this if it does happen

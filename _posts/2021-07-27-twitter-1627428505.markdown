@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alonso_marck 
-date: 2021-07-27 16:28:25 
-categories: twitter 
---- 
-@OddStockTrader you just invented a new trader lingo https://t.co/R0GUMhJraW

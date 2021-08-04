@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TweakFX 
-date: 2021-08-04 09:12:44 
-categories: twitter 
---- 
-RT @MikeBellafiore: Trading is NOT a zero sum game.  For this to be true, all traders would need to be trading the same time frame and with…

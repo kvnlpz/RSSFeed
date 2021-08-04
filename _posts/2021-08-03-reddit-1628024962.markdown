@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: USDT Usage on Ethereum Shifts Away From Asia Daytime Hours 
-date: 2021-08-03 1628024962 
-categories: reddit 
---- 
-https://redd.it/oxd05a

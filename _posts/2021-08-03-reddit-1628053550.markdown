@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Survey Shows 40% of US Crypto Owners Forget Their Password 
-date: 2021-08-03 1628053550 
-categories: reddit 
---- 
-https://redd.it/oxlidl

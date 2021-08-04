@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SpacGuru 
-date: 2021-07-28 17:37:35 
-categories: twitter 
---- 
-@super_trades Love that!  Love to mom!

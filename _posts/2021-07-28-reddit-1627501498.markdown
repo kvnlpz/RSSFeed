@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking for a wallet tied to an exchange where the receiving address does not change. 
-date: 2021-07-28 1627501498 
-categories: reddit 
---- 
-https://redd.it/othed3

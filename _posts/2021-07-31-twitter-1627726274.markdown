@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PennySurfer84 
-date: 2021-07-31 03:11:14 
-categories: twitter 
---- 
-@timothysykes @TraderBryce Lol Sifu Bryce

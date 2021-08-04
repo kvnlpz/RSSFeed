@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FaceJim 
-date: 2021-07-28 07:07:46 
-categories: twitter 
---- 
-@RayTL_ I have journaled my research over the last year trying to find the best strategy (edge). I have spent hundr… https://t.co/dnsoWZkn3L

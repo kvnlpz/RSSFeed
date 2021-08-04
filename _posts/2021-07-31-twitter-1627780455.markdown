@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @whatETthinks 
-date: 2021-07-31 18:14:15 
-categories: twitter 
---- 
-@InvestorsLive How would you recommend traders go about detaching themselves emotionally from the trade and money?… https://t.co/INWjZ9ErhX

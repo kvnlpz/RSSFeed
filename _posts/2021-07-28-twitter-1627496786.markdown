@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Serge095 
-date: 2021-07-28 11:26:26 
-categories: twitter 
---- 
-@timothysykes @sttbreakingnews $HALB broke out HOD.

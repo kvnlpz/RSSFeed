@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnthonyGasbarro 
-date: 2021-07-28 06:01:57 
-categories: twitter 
---- 
-RT @super_trades: This is summer trading to the extreme. No bids. No volume

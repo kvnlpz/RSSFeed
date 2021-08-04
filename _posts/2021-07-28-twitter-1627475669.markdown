@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @aampatriot1 
-date: 2021-07-28 05:34:29 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/IZKlb4ZE5X

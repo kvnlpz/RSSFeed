@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When transacting with ETH and ERC20 tokens stored using a ledger, if you are not in a hurry, use meta mask instead of ledger live. Meta mask will let you set super low gas prices. Ledger live uses a restricted slider for gas price. 
-date: 2021-07-31 1627795642 
-categories: reddit 
---- 
-https://redd.it/ovmf91

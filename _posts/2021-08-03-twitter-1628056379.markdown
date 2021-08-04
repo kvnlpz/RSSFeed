@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rocketmanwealth 
-date: 2021-08-03 22:52:59 
-categories: twitter 
---- 
-@alphatrends @BlowVal What will it take for holding times to increase again?

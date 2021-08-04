@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 12:26:41 
-categories: twitter 
---- 
-@ShitFund no one should have to go there unless they work for PIMCO

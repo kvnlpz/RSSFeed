@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What would happen if miners went on strike against the new Ethereum 2.0 
-date: 2021-08-01 1627852053 
-categories: reddit 
---- 
-https://redd.it/ow0dy0

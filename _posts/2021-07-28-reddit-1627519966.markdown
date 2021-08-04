@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hardware wallets suck -- at least, if you're a dumb-you-know-what like me... 
-date: 2021-07-28 1627519966 
-categories: reddit 
---- 
-https://redd.it/otn3cu

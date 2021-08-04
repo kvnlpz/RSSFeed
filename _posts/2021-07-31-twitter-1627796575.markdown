@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FinTwitBandit 
-date: 2021-07-31 22:42:55 
-categories: twitter 
---- 
-@muddywatersre My favorite part is scanning my arm before TSA

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scolaire42 
-date: 2021-08-01 08:17:59 
-categories: twitter 
---- 
-@nope_its_lily Isn't the blockchain just a ledger on which information is recorded. why would the market need fancy… https://t.co/jPb6BMKutP

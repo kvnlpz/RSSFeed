@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are good practices to protect my privacy once I do Bitcoin payments? 
-date: 2021-07-28 1627458943 
-categories: reddit 
---- 
-https://redd.it/ot5d59

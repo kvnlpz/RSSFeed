@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bhataliv 
-date: 2021-07-31 16:01:26 
-categories: twitter 
---- 
-RT @TraderLion_: Trading Legends: Nicolas Darvas (Thread) https://t.co/1VJDaRSOfU

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @themikedmedia 
-date: 2021-07-27 18:13:27 
-categories: twitter 
---- 
-@OddStockTrader @beach_trades hahaha

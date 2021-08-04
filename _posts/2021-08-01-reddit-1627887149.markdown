@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tor is the perfect role-model for Monero. 
-date: 2021-08-01 1627887149 
-categories: reddit 
---- 
-https://redd.it/ow99kr

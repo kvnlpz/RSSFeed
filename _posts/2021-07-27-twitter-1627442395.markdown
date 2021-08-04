@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shortblockstack 
-date: 2021-07-27 20:19:55 
-categories: twitter 
---- 
-@alphatrends Completely needed in this cancel culture

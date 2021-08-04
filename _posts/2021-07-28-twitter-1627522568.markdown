@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 18:36:08 
-categories: twitter 
---- 
-what if we made the olympics, but decentralized

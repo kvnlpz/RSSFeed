@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @usual_whales 
-date: 2021-07-28 20:41:16 
-categories: twitter 
---- 
-@muddywatersre @unusual_whales It is what it is

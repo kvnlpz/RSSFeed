@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 12:26:15 
-categories: twitter 
---- 
-@lfgrifter Pasadenia is a different country

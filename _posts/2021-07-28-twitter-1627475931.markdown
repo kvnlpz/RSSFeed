@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @toji_koji 
-date: 2021-07-28 05:38:51 
-categories: twitter 
---- 
-@nope_its_lily Caterina Murino 😍🥰😘

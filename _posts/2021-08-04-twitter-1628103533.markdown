@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @making_sales 
-date: 2021-08-04 11:58:53 
-categories: twitter 
---- 
-@InvestorsLive Generally I do 25/25/25/25 or if it's a volatile stock that I have considerable conviction on then I do 50/25/25.

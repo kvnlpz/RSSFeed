@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Having a leaderboard for moons seems predatory 
-date: 2021-07-28 1627524740 
-categories: reddit 
---- 
-https://redd.it/otodp8

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This Sub is Censored 
-date: 2021-07-28 1627498777 
-categories: reddit 
---- 
-https://redd.it/otgi0r

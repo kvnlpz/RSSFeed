@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EIP-1559 and the Future of Ethereum with Justin Drake 
-date: 2021-08-04 1628084413 
-categories: reddit 
---- 
-https://redd.it/oxswaw

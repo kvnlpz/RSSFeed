@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @elles80333252 
-date: 2021-08-01 11:23:19 
-categories: twitter 
---- 
-@nope_its_lily It depends are you a robot made of metal

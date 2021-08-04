@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I will resist promoting my node to version 22 
-date: 2021-07-28 1627526056 
-categories: reddit 
---- 
-https://redd.it/otoqa5

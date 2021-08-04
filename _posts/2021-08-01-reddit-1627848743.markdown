@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bit Mining to Deploy Another 2,500 Bitcoin Miners in Kazakhstan 
-date: 2021-08-01 1627848743 
-categories: reddit 
---- 
-https://redd.it/ovzd44

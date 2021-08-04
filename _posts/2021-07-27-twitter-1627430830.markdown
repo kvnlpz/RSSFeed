@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @siddchhabra 
-date: 2021-07-27 17:07:10 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen Need to start using Spotify

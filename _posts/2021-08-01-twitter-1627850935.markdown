@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mathtick 
-date: 2021-08-01 13:48:55 
-categories: twitter 
---- 
-@nope_its_lily Definitely, comp bio is (or was) also a route from physics to something with more jobs.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoCobain 
-date: 2021-08-01 09:19:16 
-categories: twitter 
---- 
-@nope_its_lily what are cyberpunks

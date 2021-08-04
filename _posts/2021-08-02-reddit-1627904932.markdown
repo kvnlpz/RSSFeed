@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A look at how many upvotes per hour do you need to beat the hourly minimum salary by country 
-date: 2021-08-02 1627904932 
-categories: reddit 
---- 
-https://redd.it/owcu2y

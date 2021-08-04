@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dopegraf 
-date: 2021-08-01 08:52:40 
-categories: twitter 
---- 
-@timothysykes @Jackaroo_Trades yes. 500 on video

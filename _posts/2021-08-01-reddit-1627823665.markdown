@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Remember this? 
-date: 2021-08-01 1627823665 
-categories: reddit 
---- 
-https://redd.it/ovrwbu

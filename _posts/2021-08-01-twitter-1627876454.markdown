@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @quantian1 
-date: 2021-08-01 20:54:14 
-categories: twitter 
---- 
-@nope_its_lily @bennpeifert oh right, nvm.  imagine one route gets you there in 14 minutes, and 1 billion routes ge… https://t.co/Ci2rBtPLqZ

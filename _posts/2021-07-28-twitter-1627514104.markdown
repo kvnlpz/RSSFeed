@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CLTtrader 
-date: 2021-07-28 16:15:04 
-categories: twitter 
---- 
-@InvestorsLive Where can I find these? Im not in the room do I still have access to videos?

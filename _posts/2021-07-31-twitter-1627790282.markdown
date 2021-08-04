@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BirdSeedTrade 
-date: 2021-07-31 20:58:02 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/ihiLc5m5fc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rbrtrmstrng 
-date: 2021-07-28 13:32:15 
-categories: twitter 
---- 
-@nope_its_lily "if I liked it at $100 I love it at $40" FTW

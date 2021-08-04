@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timstradeupdate 
-date: 2021-08-01 23:36:47 
-categories: twitter 
---- 
-@alphatrends Use a password manager and generate all options minimum 24 characters, most websites accept this

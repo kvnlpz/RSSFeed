@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @falcontrading3 
-date: 2021-07-28 17:28:46 
-categories: twitter 
---- 
-@nope_its_lily inb4 just parallelize ur cores!!11!

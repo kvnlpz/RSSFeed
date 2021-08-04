@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I think I caused the crash in May... 
-date: 2021-07-28 1627500364 
-categories: reddit 
---- 
-https://redd.it/oth0yh

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ZIL4 recap by House of Chimera on learnblockchain.org 
-date: 2021-08-01 1627827234 
-categories: reddit 
---- 
-https://redd.it/ovsun4

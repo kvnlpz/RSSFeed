@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Callmeqingtian 
-date: 2021-07-28 05:11:20 
-categories: twitter 
---- 
-@InvestorsLive But the first screenshot isn’t really showing any large bids (largest is 2439 buy order at $3.75) re… https://t.co/Rm2AFA4ULM

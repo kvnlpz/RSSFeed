@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CHIA Database for plotting 
-date: 2021-08-03 1628043097 
-categories: reddit 
---- 
-https://redd.it/oxinmn

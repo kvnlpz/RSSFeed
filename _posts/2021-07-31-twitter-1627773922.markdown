@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @traderbpn 
-date: 2021-07-31 16:25:22 
-categories: twitter 
---- 
-@alphatrends @fatacodniklabug Sure. Thank you

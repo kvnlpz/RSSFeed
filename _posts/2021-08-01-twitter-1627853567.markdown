@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @illumined1 
-date: 2021-08-01 14:32:47 
-categories: twitter 
---- 
-@RayTL_ @jaywhitcraft 😂

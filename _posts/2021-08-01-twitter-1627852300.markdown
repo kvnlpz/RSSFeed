@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 14:11:40 
-categories: twitter 
---- 
-@laurentzeimes I’d say the ML and statistical learning techniques are more useful, although for instance if you’re… https://t.co/XfmyaFGB8l

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jarvis_Alerts 
-date: 2021-08-01 19:05:41 
-categories: twitter 
---- 
-@alphatrends Quantum Computer changes all this

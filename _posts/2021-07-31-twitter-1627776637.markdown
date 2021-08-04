@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Wojak_Capital 
-date: 2021-07-31 17:10:37 
-categories: twitter 
---- 
-@nope_its_lily I was always big into geometry. Loved this shit in engineering. https://t.co/IgtGH1YnnW

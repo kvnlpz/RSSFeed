@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shoutout to Ethereum for being on the 12th green day candle in a row. 
-date: 2021-08-01 1627808034 
-categories: reddit 
---- 
-https://redd.it/ovorbo

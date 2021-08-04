@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zarconiscrypto 
-date: 2021-07-28 17:19:33 
-categories: twitter 
---- 
-@nope_its_lily When does the 2% matter?

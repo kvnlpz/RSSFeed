@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin changed my life. So I decided to do something with it 
-date: 2021-08-01 1627823518 
-categories: reddit 
---- 
-https://redd.it/ovrv0i

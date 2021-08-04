@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eligiovelmar 
-date: 2021-08-01 12:15:01 
-categories: twitter 
---- 
-@nope_its_lily What about genetically engineered mosquitos to "eradicate" some species that carry other illnesses
-
-https://t.co/Q0UtWkxsMA

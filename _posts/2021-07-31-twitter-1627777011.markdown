@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trader_il 
-date: 2021-07-31 17:16:51 
-categories: twitter 
---- 
-@InvestorsLive Hi Nate, you always saying that the best way to learn the tape is to record the screen, which types… https://t.co/5Rv7sds022

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AbdoshSamir 
-date: 2021-07-27 11:20:37 
-categories: twitter 
---- 
-@muddywatersre @ScorpionFund https://t.co/5cwmTw4P8t

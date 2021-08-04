@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BridgeGameWWII 
-date: 2021-08-01 11:49:48 
-categories: twitter 
---- 
-@TraderTexMex Fauci is on television. Believe him: https://t.co/MRaBJz5i28

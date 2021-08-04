@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xpinkbones 
-date: 2021-07-28 18:33:13 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/sqr4hDgM5b

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZetVladimir 
-date: 2021-08-03 12:27:02 
-categories: twitter 
---- 
-@nope_its_lily yes and thank you for 25 points on a dip

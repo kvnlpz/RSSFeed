@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HazyLifu 
-date: 2021-07-31 22:15:16 
-categories: twitter 
---- 
-RT @nope_its_lily: I’ve never lost money holding crypto since I just let it stay underwater until it makes money

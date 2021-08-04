@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-03 20:24:10 
-categories: twitter 
---- 
-my love language is well formatted powerpoint templates

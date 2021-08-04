@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bangatrader 
-date: 2021-07-27 23:07:52 
-categories: twitter 
---- 
-@RayTL_ Wow, so much truth in this tweet

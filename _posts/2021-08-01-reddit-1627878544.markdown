@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are good resources to keep you updated about cryptocurrency ? 
-date: 2021-08-01 1627878544 
-categories: reddit 
---- 
-https://redd.it/ow7f4f

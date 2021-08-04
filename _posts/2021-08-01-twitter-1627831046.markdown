@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @making_sales 
-date: 2021-08-01 08:17:26 
-categories: twitter 
---- 
-@OddStockTrader @jscherniack $WING &gt; $SHAK any day of the week.

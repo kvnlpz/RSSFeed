@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @laptop_allah 
-date: 2021-08-01 16:47:08 
-categories: twitter 
---- 
-@nope_its_lily stop the witchcraft pls

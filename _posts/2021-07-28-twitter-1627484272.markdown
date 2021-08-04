@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rsosa8 
-date: 2021-07-28 07:57:52 
-categories: twitter 
---- 
-@nope_its_lily I bet @Sarah_Katilyn agrees with this.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CGCTrades 
-date: 2021-07-28 08:21:24 
-categories: twitter 
---- 
-@OddStockTrader Not when I sell only when I buy @ market will I get filled on ask - using Schwab

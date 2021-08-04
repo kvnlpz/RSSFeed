@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For a deeper dive into crypto currencies 
-date: 2021-08-01 1627864558 
-categories: reddit 
---- 
-https://redd.it/ow3y2q

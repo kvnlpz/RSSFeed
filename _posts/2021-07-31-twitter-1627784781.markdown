@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Vlad_451 
-date: 2021-07-31 19:26:21 
-categories: twitter 
---- 
-@nope_its_lily @tolstoybb That's something a multi-tasker would say.

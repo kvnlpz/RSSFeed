@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FellRunner86 
-date: 2021-08-01 01:58:38 
-categories: twitter 
---- 
-@nope_its_lily I can 3D model assemblies in my head.

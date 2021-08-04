@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Besides staking (delegation/operating a pool), are there other technical means by which non-developers can contribute to the Cardano network? 
-date: 2021-08-01 1627879524 
-categories: reddit 
---- 
-https://redd.it/ow7n5n

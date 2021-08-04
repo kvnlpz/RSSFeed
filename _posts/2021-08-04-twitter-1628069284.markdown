@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @breakingfattt 
-date: 2021-08-04 02:28:04 
-categories: twitter 
---- 
-@nope_its_lily @nic__carter @craigwarmke I've never seen Satoshi and Jesus in one room.

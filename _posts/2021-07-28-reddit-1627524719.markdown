@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New to Tezos, can someone briefly explain baking/staking? 
-date: 2021-07-28 1627524719 
-categories: reddit 
---- 
-https://redd.it/otodih

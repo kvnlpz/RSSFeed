@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chartsmart1 
-date: 2021-08-04 08:26:59 
-categories: twitter 
---- 
-@super_trades Always treat the market with the respect it deserves

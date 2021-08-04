@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Ben24673571 
-date: 2021-08-04 05:42:39 
-categories: twitter 
---- 
-RT @alphatrends: good reminders https://t.co/38zqKbJvWW

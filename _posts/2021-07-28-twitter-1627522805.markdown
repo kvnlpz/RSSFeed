@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bjjmed 
-date: 2021-07-28 18:40:05 
-categories: twitter 
---- 
-@nope_its_lily Ngmi

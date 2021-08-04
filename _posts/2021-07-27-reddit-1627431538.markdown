@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is missing from cryptocurrency? 
-date: 2021-07-27 1627431538 
-categories: reddit 
---- 
-https://redd.it/osyral

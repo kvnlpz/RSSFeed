@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @biscuitparty 
-date: 2021-08-02 04:59:33 
-categories: twitter 
---- 
-RT @InvestorsLive: Hospitalizations surging = market surging.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ManiacMoonlight 
-date: 2021-07-31 16:36:07 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/7yAoDxggQB

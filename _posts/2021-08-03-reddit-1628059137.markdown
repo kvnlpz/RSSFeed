@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Offtopic, but just to have a good laugh: Bitcoin SV (BSV) hit by 51% attack, three malicious chains created. Goodbye, CSW. 
-date: 2021-08-03 1628059137 
-categories: reddit 
---- 
-https://redd.it/oxmry9

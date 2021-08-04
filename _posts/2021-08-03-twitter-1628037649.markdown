@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @steve_larrison 
-date: 2021-08-03 17:40:49 
-categories: twitter 
---- 
-@nope_its_lily Before I started working with NLP and NLU, I used to think of text as unstructured data.
-
-But I was… https://t.co/JPpRZqf4ES

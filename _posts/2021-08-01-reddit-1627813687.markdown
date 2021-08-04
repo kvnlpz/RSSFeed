@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I try to explain Crypto in 2 minutes... 
-date: 2021-08-01 1627813687 
-categories: reddit 
---- 
-https://redd.it/ovpsax

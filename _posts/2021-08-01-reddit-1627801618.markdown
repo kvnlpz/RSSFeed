@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Don't be like me and have a safety stack of fiat 
-date: 2021-08-01 1627801618 
-categories: reddit 
---- 
-https://redd.it/ovnln3

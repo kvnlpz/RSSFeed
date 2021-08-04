@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrianHouser11 
-date: 2021-08-01 07:05:33 
-categories: twitter 
---- 
-@InvestorsLive @swedepilot I want one!

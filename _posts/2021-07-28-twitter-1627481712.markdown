@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @T4Aphenux 
-date: 2021-07-28 07:15:12 
-categories: twitter 
---- 
-@MikeBellafiore Thanks 😊

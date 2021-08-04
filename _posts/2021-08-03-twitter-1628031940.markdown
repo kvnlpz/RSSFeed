@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-03 16:05:40 
-categories: twitter 
---- 
-@MrFourToEight It's insane

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain this to me? In the process of transferring brokers, but why does Robinhood drop this price as soon as submit a request to sell? Is this fuckery or a glitch? 
-date: 2021-07-28 1627486383 
-categories: reddit 
---- 
-https://redd.it/otca4p

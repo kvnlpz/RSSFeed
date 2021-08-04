@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 13:46:23 
-categories: twitter 
---- 
-There’s a ridiculously strong computational biology -&gt; quantitative finance pipeline based on how many people I keep meeting who did it

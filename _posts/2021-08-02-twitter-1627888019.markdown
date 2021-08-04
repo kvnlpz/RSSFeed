@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FREAK0NAUT 
-date: 2021-08-02 00:06:59 
-categories: twitter 
---- 
-@nope_its_lily @thienan496 i need more context as to what he means.  i would guess he's referring to p-values often… https://t.co/uK9LNWoqm8

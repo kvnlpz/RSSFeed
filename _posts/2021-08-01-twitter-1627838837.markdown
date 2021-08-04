@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @drjohnrutledge 
-date: 2021-08-01 10:27:17 
-categories: twitter 
---- 
-@muddywatersre That’s a very good feature.

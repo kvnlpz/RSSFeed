@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Optech #160: Preparing For Taproot And More 
-date: 2021-08-04 1628097484 
-categories: reddit 
---- 
-https://redd.it/oxxgrf

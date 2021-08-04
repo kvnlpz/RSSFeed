@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shrimptank 
-date: 2021-07-28 18:04:57 
-categories: twitter 
---- 
-@timothysykes if all your friends and students are going to start pitching their own programs, you should at least… https://t.co/axGKXI2pnQ

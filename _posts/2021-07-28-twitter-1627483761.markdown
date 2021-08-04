@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimScalpert 
-date: 2021-07-28 07:49:21 
-categories: twitter 
---- 
-@nope_its_lily Stop growing up!  😭

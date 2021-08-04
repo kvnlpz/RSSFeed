@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: hmmm 
-date: 2021-08-03 1628056504 
-categories: reddit 
---- 
-https://redd.it/oxm7ce

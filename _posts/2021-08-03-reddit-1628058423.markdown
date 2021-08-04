@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I’m trying to come up with a good title to get your attention… 
-date: 2021-08-03 1628058423 
-categories: reddit 
---- 
-https://redd.it/oxmmy4

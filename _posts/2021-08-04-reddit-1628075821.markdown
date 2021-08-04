@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where to watch the London hard fork countdown live and track amount of ETH burned 
-date: 2021-08-04 1628075821 
-categories: reddit 
---- 
-https://redd.it/oxqi84

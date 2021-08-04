@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is a seedphrase called a seedphrase? Why not password? 
-date: 2021-08-04 1628096632 
-categories: reddit 
---- 
-https://redd.it/oxx5ip

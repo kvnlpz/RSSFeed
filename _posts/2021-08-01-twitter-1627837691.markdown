@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @splendid_vision 
-date: 2021-08-01 10:08:11 
-categories: twitter 
---- 
-@nope_its_lily So you are rooting for complete ecosystem crash, interesting.

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TigertradesX 
-date: 2021-08-02 04:00:07 
-categories: twitter 
---- 
-RT @shrederickson: $DOMO
--Trying out some new methods of keeping track of and learning from my past trades; successes and failures.
--Thanks…

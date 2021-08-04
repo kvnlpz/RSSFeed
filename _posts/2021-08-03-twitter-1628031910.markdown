@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StocksSlater 
-date: 2021-08-03 16:05:10 
-categories: twitter 
---- 
-@InvestorsLive So are you saying all the news based around it was just mumbo jumbo that people made seem more important than it is?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OptionsBagger 
-date: 2021-07-28 15:34:14 
-categories: twitter 
---- 
-RT @InvestorsLive: Here are 5 trading strategies you can start using this week https://t.co/it2eUq1Ddu https://t.co/yQxo5fICrU

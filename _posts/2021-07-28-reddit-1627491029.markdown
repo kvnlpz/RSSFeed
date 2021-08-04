@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: So how do I open my old xpub address? 
-date: 2021-07-28 1627491029 
-categories: reddit 
---- 
-https://redd.it/otdvj8

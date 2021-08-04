@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Look here! An example of why you need to pay very close attention to the bid/ask spread when opening options. I didn't see the wide spread and now am stuck in an illiquid position. 
-date: 2021-07-28 1627488246 
-categories: reddit 
---- 
-https://redd.it/otcxjy

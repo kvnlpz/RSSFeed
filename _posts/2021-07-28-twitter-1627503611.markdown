@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MagicMan1776 
-date: 2021-07-28 13:20:11 
-categories: twitter 
---- 
-@InvestorsLive That’s a nice yard.

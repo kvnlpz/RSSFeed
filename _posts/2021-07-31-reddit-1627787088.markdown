@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone know what's up with Ultrastellar's USDC chain swap service? 
-date: 2021-07-31 1627787088 
-categories: reddit 
---- 
-https://redd.it/ovkibo

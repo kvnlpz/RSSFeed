@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why the world needs bitcoin 
-date: 2021-07-28 1627507628 
-categories: reddit 
---- 
-https://redd.it/otjfub

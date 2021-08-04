@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cosmo_trading 
-date: 2021-08-04 08:57:18 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/zdNuWdzzHX NEVER forget https://t.co/0HhPp6CC1v EVER!

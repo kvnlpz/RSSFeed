@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BertandBen 
-date: 2021-07-27 23:17:12 
-categories: twitter 
---- 
-@nope_its_lily Well done for realising this Lily, if you're going to be on TV it's worth doing

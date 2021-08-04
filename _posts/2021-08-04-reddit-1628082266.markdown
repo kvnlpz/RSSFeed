@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Idea for a trading algorithm.. 
-date: 2021-08-04 1628082266 
-categories: reddit 
---- 
-https://redd.it/oxs8wn

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The bots that I’ve been looking for 
-date: 2021-07-28 1627463976 
-categories: reddit 
---- 
-https://redd.it/ot6d42

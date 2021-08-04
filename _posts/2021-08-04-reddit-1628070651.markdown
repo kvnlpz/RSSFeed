@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TIL more about gas fees, and such. 
-date: 2021-08-04 1628070651 
-categories: reddit 
---- 
-https://redd.it/oxpa9j

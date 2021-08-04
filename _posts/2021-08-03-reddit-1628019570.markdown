@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Postponed : Ethereum : Devs Moved the ETH London Hard Fork to August 5 
-date: 2021-08-03 1628019570 
-categories: reddit 
---- 
-https://redd.it/oxb4ox

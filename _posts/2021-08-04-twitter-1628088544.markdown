@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ajitosu 
-date: 2021-08-04 07:49:04 
-categories: twitter 
---- 
-@super_trades A “reliable” (tricky to define though) PT may be useful for day traders and people who are into momen… https://t.co/5wWYw6y7aR

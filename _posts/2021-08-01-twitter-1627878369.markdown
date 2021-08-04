@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 21:26:09 
-categories: twitter 
---- 
-@sajidnizami @bennpeifert realistically the best way assuming all traffic is being fed via recommendations from the… https://t.co/VebtB4lCbf

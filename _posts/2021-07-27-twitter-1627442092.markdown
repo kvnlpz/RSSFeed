@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cliffordc119 
-date: 2021-07-27 20:14:52 
-categories: twitter 
---- 
-@alphatrends Agree I find myself trading no more than 30 stocks

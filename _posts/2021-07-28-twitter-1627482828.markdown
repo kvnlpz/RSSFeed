@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DayTraderDex 
-date: 2021-07-28 07:33:48 
-categories: twitter 
---- 
-@OddStockTrader I thought it was only me LOL
-
-My market orders will get filled on the bid too when I buy in

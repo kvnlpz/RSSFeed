@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I am a simple guy... 
-date: 2021-08-04 1628083222 
-categories: reddit 
---- 
-https://redd.it/oxsjad

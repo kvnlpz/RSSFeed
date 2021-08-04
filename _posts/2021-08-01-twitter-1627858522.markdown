@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-08-01 15:55:22 
-categories: twitter 
---- 
-@nope_its_lily @collie_crypto Playing with that kind of firepower is exactly why they’re mercilessly hunting your stops.

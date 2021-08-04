@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit Channel Operator bashed for posting infographic on introduction to Cardano 
-date: 2021-07-28 1627513346 
-categories: reddit 
---- 
-https://redd.it/otl9jv

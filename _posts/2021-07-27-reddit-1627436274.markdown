@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let's just take a moment: Bitcoin has been above $20k since December 15, 2020 
-date: 2021-07-27 1627436274 
-categories: reddit 
---- 
-https://redd.it/ot0274

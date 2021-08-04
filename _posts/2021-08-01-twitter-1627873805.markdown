@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoMaestro 
-date: 2021-08-01 20:10:05 
-categories: twitter 
---- 
-@nope_its_lily Put a punk in your avi instead

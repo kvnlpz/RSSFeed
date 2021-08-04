@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do you focus on backtesting strategies or do you focus more on just applying them? Why? 
-date: 2021-08-01 1627809925 
-categories: reddit 
---- 
-https://redd.it/ovp3mn

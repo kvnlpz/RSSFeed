@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MlkeBellafiore 
-date: 2021-08-03 23:20:01 
-categories: twitter 
---- 
-RT @MikeBellafiore: “This is an important reason why a number of the traders I work with at SMB have begun researching multi-day edges in t…

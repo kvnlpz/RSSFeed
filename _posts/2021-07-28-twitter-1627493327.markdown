@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Claire_Lee 
-date: 2021-07-28 10:28:47 
-categories: twitter 
---- 
-@nope_its_lily The math checks out 😄

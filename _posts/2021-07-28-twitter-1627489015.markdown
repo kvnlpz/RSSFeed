@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DistilledWisdo1 
-date: 2021-07-28 09:16:55 
-categories: twitter 
---- 
-@nope_its_lily keyboard and beard should be free of yesterday's crumbs.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there any place I can stake my ada other than a wallet? 
-date: 2021-08-01 1627877611 
-categories: reddit 
---- 
-https://redd.it/ow773g

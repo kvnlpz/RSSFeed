@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @megabeaconfx 
-date: 2021-08-01 10:20:27 
-categories: twitter 
---- 
-@timothysykes https://t.co/r0JsD25Hcj

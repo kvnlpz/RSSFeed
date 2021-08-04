@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: sTraffic Chooses BlackBerry QNX OS for Safety for Communications-based Train Control System (CBTC) 
-date: 2021-07-28 1627460321 
-categories: reddit 
---- 
-https://redd.it/ot5mq6

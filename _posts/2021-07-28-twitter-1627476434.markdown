@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sys_qed 
-date: 2021-07-28 05:47:14 
-categories: twitter 
---- 
-@nope_its_lily @TheSpeculator0 https://t.co/QEgGP0pDDk

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sars2 Beats Adaptive (T-cell B-cell) Memory 
-date: 2021-07-31 1627776543 
-categories: reddit 
---- 
-https://redd.it/ovi04n

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it normal for Daedalus wallet to consume this much memory? 
-date: 2021-08-01 1627838307 
-categories: reddit 
---- 
-https://redd.it/ovw6kr

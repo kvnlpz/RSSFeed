@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-28 16:39:53 
-categories: twitter 
---- 
-RT @IPODave: It would be nice if we got a large allocation out of big cap into smaller caps - spread the wealth - but funds still looking f…

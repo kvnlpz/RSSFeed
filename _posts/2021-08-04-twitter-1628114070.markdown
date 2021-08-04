@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-04 14:54:30 
-categories: twitter 
---- 
-@DividedChamp You figured that one out quick! Lol

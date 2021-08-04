@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Satoshi's wallet address - what's the deal? 
-date: 2021-07-28 1627486858 
-categories: reddit 
---- 
-https://redd.it/otcgli

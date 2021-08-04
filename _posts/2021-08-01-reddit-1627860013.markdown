@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Zoom reaches $85 mln settlement over user privacy, 'Zoombombing'. Yesterday I also posted about Amazon's privacy violation fees. HBAR, SCRT Skycoin and Oasis-Network are addressing this situation. What else can be done from blockain technology to avoid that companies steal your private data? 
-date: 2021-08-01 1627860013 
-categories: reddit 
---- 
-https://redd.it/ow2py1

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @russellvalenti 
-date: 2021-07-28 19:56:46 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause @zkschell @team3dstocks for sure

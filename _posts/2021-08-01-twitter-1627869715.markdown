@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-01 19:01:55 
-categories: twitter 
---- 
-Proof money can't buy happiness 👇

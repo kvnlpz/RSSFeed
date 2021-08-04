@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GrilledCheeseWC 
-date: 2021-08-01 18:53:44 
-categories: twitter 
---- 
-@alphatrends Just bought your book. Excited to dive in.

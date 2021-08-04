@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Finally Found A Host for this file 
-date: 2021-08-01 1627875827 
-categories: reddit 
---- 
-https://redd.it/ow6rlo

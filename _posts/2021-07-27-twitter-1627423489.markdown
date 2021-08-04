@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AmatureTrader 
-date: 2021-07-27 15:04:49 
-categories: twitter 
---- 
-RT @InvestorsLive: $CFRX $23 PT just out 
-
-https://t.co/WZttAxjJ7a

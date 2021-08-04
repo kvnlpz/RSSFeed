@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to decide which pool to delegate your ADA 
-date: 2021-08-01 1627828004 
-categories: reddit 
---- 
-https://redd.it/ovt2dk

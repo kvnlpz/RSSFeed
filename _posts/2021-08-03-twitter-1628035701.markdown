@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @petertrades 
-date: 2021-08-03 17:08:21 
-categories: twitter 
---- 
-@OddStockTrader What number is your AC on?

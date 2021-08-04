@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mariusbanu77 
-date: 2021-08-04 12:47:59 
-categories: twitter 
---- 
-@super_trades $EGLD just… https://t.co/yFWvb1JvNq

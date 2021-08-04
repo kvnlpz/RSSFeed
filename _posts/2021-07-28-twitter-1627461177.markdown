@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nikodemuskell 
-date: 2021-07-28 01:32:57 
-categories: twitter 
---- 
-@alphatrends Great advice. The more I try to trade different things, the worse my performance gets.

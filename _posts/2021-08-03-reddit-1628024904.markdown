@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The state of this sub encourages shorter lower effort posts over longer ones and that's kind of a problem. 
-date: 2021-08-03 1628024904 
-categories: reddit 
---- 
-https://redd.it/oxczff

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What would be my average price if I bought $300 at $5 and now is at $.36 and want to buy $100? 
-date: 2021-07-28 1627488763 
-categories: reddit 
---- 
-https://redd.it/otd3x6

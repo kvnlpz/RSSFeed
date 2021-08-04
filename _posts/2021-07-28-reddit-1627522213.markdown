@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A case for $JSDA 
-date: 2021-07-28 1627522213 
-categories: reddit 
---- 
-https://redd.it/otnpfg

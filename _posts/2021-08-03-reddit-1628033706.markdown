@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockfi 
-date: 2021-08-03 1628033706 
-categories: reddit 
---- 
-https://redd.it/oxfuhb

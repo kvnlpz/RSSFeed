@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KPNOLE19 
-date: 2021-08-01 20:00:20 
-categories: twitter 
---- 
-RT @alphatrends: How secure are your passwords? https://t.co/lR0xcj7TUk

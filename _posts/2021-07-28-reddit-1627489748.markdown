@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Difference between TPS and Operations per ledger 
-date: 2021-07-28 1627489748 
-categories: reddit 
---- 
-https://redd.it/otdfsr

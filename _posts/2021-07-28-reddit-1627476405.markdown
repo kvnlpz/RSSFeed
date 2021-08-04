@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Be careful of new moon scams happening, someone has built a fake exchange using the name of moonsswap.com 
-date: 2021-07-28 1627476405 
-categories: reddit 
---- 
-https://redd.it/ot96fp

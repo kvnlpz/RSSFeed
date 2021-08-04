@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Zeme Team is live! Make zemes. Earn Zcash. 
-date: 2021-07-28 1627483335 
-categories: reddit 
---- 
-https://redd.it/otba99

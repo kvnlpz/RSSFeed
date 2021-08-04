@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In the current discussion space of energy use in BTC, what effect does a fork have on energy use? 
-date: 2021-07-28 1627521394 
-categories: reddit 
---- 
-https://redd.it/otnhmx

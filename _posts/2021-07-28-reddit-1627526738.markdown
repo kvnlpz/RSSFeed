@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This Bitcoin news segment from 2011 is something 
-date: 2021-07-28 1627526738 
-categories: reddit 
---- 
-https://redd.it/otowrj

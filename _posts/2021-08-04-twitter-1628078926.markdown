@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Lanegsbo 
-date: 2021-08-04 05:08:46 
-categories: twitter 
---- 
-@InvestorsLive Great Point all that glitters is not Gold

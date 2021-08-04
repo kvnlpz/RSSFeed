@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What would be the building blocks for developing proficiency in security analysis? 
-date: 2021-08-01 1627853609 
-categories: reddit 
---- 
-https://redd.it/ow0ume

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrpenalver 
-date: 2021-07-28 03:54:07 
-categories: twitter 
---- 
-@alphatrends @Microefutures Do you really believe companies like $BABA, $BIDU or Tencent are like unprofitable biotechs?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do you know BBS Network? It's a message board platform built on EOS, that is censorship resistant and rewards users for their contribution. Like Reddit, but better! 
-date: 2021-08-01 1627834058 
-categories: reddit 
---- 
-https://redd.it/ovuv75

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PoliticalBurner 
-date: 2021-07-31 23:38:30 
-categories: twitter 
---- 
-@nope_its_lily Think of the Lollapaloozants that can suffer unjustly based on your quips.

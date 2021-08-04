@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CoZyHew 
-date: 2021-08-04 07:20:53 
-categories: twitter 
---- 
-@InvestorsLive Sure seems like every day!

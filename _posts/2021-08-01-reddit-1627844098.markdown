@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ECIP 1055: Flyclient - Succinct PoW Using Merkle Mountain Ranges 
-date: 2021-08-01 1627844098 
-categories: reddit 
---- 
-https://redd.it/ovxxzv

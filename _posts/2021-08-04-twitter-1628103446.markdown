@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StocksPapi 
-date: 2021-08-04 11:57:26 
-categories: twitter 
---- 
-RT @InvestorsLive: If you're taking a starter position, make sure it's actually a starter. https://t.co/hVxFsDZx5I

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @UthrianG 
-date: 2021-07-28 02:42:37 
-categories: twitter 
---- 
-@nope_its_lily I’m sure it’s personal https://t.co/nYii9wL6mu

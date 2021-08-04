@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 23:03:04 
-categories: twitter 
---- 
-*imports tensorflow.keras.layers.experimental.preprocessing.TextVectorization*
-yeah i know nlp what of it

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Radix community contest: Match the long term roadmap 
-date: 2021-07-28 1627478708 
-categories: reddit 
---- 
-https://redd.it/ot9ule

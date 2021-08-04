@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moonlet wallet supported Coins 
-date: 2021-08-01 1627827992 
-categories: reddit 
---- 
-https://redd.it/ovt25v

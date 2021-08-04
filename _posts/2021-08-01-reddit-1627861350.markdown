@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Discussion about Bitcoin's economics. (TL:DR in the end) 
-date: 2021-08-01 1627861350 
-categories: reddit 
---- 
-https://redd.it/ow3321

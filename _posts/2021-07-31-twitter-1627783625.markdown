@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imperative_the 
-date: 2021-07-31 19:07:05 
-categories: twitter 
---- 
-RT @nope_its_lily: There should also probably be a premium attached to NFTs that exist n a decentralized content retrieval system like the…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-27 20:17:38 
-categories: twitter 
---- 
-What is your view on anonymous twitter accounts

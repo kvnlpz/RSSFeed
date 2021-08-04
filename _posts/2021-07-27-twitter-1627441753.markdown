@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 20:09:13 
-categories: twitter 
---- 
-Okay, today I learned false eyelashes are pretty cool.

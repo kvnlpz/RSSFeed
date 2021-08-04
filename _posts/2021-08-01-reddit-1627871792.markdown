@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An idea for some 
-date: 2021-08-01 1627871792 
-categories: reddit 
---- 
-https://redd.it/ow5sac

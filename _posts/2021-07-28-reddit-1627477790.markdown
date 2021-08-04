@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a really important video that everyone new to crypto and Cardano should see. 
-date: 2021-07-28 1627477790 
-categories: reddit 
---- 
-https://redd.it/ot9kvx

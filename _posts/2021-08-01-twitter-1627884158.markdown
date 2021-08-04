@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @oj010209 
-date: 2021-08-01 23:02:38 
-categories: twitter 
---- 
-@alphatrends You sounding like my mom now 😉

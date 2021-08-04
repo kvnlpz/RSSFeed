@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jscherniack 
-date: 2021-07-27 17:20:54 
-categories: twitter 
---- 
-@InvestorsLive @jokon888 Cute appetizer.

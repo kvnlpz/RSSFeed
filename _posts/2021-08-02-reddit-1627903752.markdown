@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Using an Android for your crypto? Google Play Protect detects only 31% of Android stalkerware 
-date: 2021-08-02 1627903752 
-categories: reddit 
---- 
-https://redd.it/owck0t

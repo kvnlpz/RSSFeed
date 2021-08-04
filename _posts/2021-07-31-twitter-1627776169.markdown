@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Scot1andT 
-date: 2021-07-31 17:02:49 
-categories: twitter 
---- 
-@InvestorsLive What did you name it?

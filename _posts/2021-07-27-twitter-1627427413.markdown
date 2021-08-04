@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JesseGuenet 
-date: 2021-07-27 16:10:13 
-categories: twitter 
---- 
-@InvestorsLive @jokon888 Cheers! https://t.co/DZKvmnylWU

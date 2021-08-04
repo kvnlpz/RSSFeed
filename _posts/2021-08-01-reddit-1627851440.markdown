@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Security on computer? 
-date: 2021-08-01 1627851440 
-categories: reddit 
---- 
-https://redd.it/ow06z8

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Resources for micro/small caps 
-date: 2021-08-01 1627863899 
-categories: reddit 
---- 
-https://redd.it/ow3s2h

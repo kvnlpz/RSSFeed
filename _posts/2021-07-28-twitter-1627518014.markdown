@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @steve_larrison 
-date: 2021-07-28 17:20:14 
-categories: twitter 
---- 
-@nope_its_lily If your code takes 100 years to run, you just need to bite the bullet and pay whatever you have to for a GPU.

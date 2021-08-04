@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bhoskinstweets 
-date: 2021-08-01 10:29:21 
-categories: twitter 
---- 
-@TraderTexMex Are people taking it seriously now?

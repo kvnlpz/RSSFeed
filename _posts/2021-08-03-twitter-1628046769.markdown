@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @samstew68 
-date: 2021-08-03 20:12:49 
-categories: twitter 
---- 
-@nope_its_lily @threadreaderapp unroll

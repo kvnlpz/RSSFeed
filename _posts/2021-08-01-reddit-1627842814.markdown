@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is a Smart Contract 
-date: 2021-08-01 1627842814 
-categories: reddit 
---- 
-https://redd.it/ovxk1g

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Buldozerin 
-date: 2021-08-01 20:20:26 
-categories: twitter 
---- 
-@timothysykes @PavelG40332236 congrats tim

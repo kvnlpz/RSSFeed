@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I wrote a poem about Cardano. I hope you like it. I’m not Bill Shakespeare though… 
-date: 2021-07-27 1627436186 
-categories: reddit 
---- 
-https://redd.it/ot0186

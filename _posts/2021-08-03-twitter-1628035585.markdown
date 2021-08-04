@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ECCarolan 
-date: 2021-08-03 17:06:25 
-categories: twitter 
---- 
-@nope_its_lily @TheStalwart P.S. - I fully recommend reading both George Orwell's "1984" and Aldous Huxley's "Brave… https://t.co/sKuFLukssR

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-27 20:22:20 
-categories: twitter 
---- 
-@JonahLupton that would be a lot of fun

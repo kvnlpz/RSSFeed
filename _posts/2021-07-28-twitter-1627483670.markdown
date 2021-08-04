@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrklondike1 
-date: 2021-07-28 07:47:50 
-categories: twitter 
---- 
-RT @OddStockTrader: Health is worth far more than anything money can buy.
-
-You tend to understand this even more when not feeling well.

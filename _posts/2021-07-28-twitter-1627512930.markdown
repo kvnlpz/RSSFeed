@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fallondpicks 
-date: 2021-07-28 15:55:30 
-categories: twitter 
---- 
-New Market Commentary at fallondpicks:https://t.co/a0BVI3oe1t #SPY #DJIA #RUTX #FALLOND

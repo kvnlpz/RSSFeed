@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crowdano is seeking funding to build a platform on Cardano's blockchain to support rewards-based crowdfunding! We discuss the Crowdano project and how this platform could make crowdfunding more secure. 
-date: 2021-07-28 1627507257 
-categories: reddit 
---- 
-https://redd.it/otjbek

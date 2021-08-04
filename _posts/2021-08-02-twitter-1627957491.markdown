@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Flower_Capital 
-date: 2021-08-02 19:24:51 
-categories: twitter 
---- 
-@nope_its_lily Parents

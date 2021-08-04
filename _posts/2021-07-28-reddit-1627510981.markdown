@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s Your Favorite Exchange & Why? [Data Will Be Collected] 
-date: 2021-07-28 1627510981 
-categories: reddit 
---- 
-https://redd.it/otkizh

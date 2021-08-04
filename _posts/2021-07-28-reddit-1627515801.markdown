@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETh miners 
-date: 2021-07-28 1627515801 
-categories: reddit 
---- 
-https://redd.it/otlyll

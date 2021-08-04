@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @equity_100taka 
-date: 2021-08-02 00:07:07 
-categories: twitter 
---- 
-@alphatrends 1234

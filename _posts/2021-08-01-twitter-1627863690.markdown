@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 17:21:30 
-categories: twitter 
---- 
-@IamNomad I’ll simply long 40001 and stop out at 39999

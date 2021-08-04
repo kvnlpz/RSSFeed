@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Swift gains in ZEC 
-date: 2021-08-04 1628096802 
-categories: reddit 
---- 
-https://redd.it/oxx7qk

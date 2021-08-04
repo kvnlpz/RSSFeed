@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimCanadaTrades 
-date: 2021-07-28 19:47:20 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause @zkschell @trader1sz

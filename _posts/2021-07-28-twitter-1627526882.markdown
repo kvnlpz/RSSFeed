@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-28 19:48:02 
-categories: twitter 
---- 
-@JayWoods3 https://t.co/t4eI1rDoql

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Understanding Ethereum’s biggest upgrade in years 
-date: 2021-08-04 1628089436 
-categories: reddit 
---- 
-https://redd.it/oxukkf

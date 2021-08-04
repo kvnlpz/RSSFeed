@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EastCoast55 
-date: 2021-08-01 13:51:28 
-categories: twitter 
---- 
-@nope_its_lily Wait... Come back...

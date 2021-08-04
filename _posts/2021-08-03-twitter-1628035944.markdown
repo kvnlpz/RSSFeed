@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-03 17:12:24 
-categories: twitter 
---- 
-@gude2k https://t.co/RqeWgDn7i6

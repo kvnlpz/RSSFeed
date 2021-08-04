@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @parkeralewis1 
-date: 2021-08-04 03:38:18 
-categories: twitter 
---- 
-RT @OddStockTrader: The "Sure Bet" Trades that I've watched some take in 10 years.
-
-Always tend to be the worst trades taken.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Introducing the Dogecoin of Metals: Thulium 
-date: 2021-08-01 1627886551 
-categories: reddit 
---- 
-https://redd.it/ow95ej

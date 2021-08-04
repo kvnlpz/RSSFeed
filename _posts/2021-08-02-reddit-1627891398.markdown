@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to move MOON (reddit testnet) to XMOON (xdai chain)? Did someone create a bridge for this? If yes, link please. 
-date: 2021-08-02 1627891398 
-categories: reddit 
---- 
-https://redd.it/owa3jw

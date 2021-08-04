@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Palantir dip 
-date: 2021-07-28 1627471490 
-categories: reddit 
---- 
-https://redd.it/ot7xwd

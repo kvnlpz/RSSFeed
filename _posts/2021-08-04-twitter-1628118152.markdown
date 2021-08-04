@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-04 16:02:32 
-categories: twitter 
---- 
-@besttrousers @ryxcommar I expect 69 sigma events to occur due to the non-Gaussian distribution of optimal blocking times

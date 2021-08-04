@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best way to convert BEP2 ETH to regular ETH in my trust wallet 
-date: 2021-08-02 1627919794 
-categories: reddit 
---- 
-https://redd.it/owhfcb

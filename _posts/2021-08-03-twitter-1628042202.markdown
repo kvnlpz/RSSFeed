@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-03 18:56:42 
-categories: twitter 
---- 
-We could simply make Bitcoin environmentally friendly by proof-of-strength: each miner is simply the strongest pers… https://t.co/DFzjtTKz1j

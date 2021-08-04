@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @______surfin 
-date: 2021-07-28 21:21:53 
-categories: twitter 
---- 
-@nope_its_lily in your future is a planned corporate happy hour with prepared slides featuring fun questions to ass… https://t.co/R2RYKXbwUC

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thoughts about sites like FireFaucet 
-date: 2021-07-28 1627481890 
-categories: reddit 
---- 
-https://redd.it/otatko

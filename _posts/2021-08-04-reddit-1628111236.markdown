@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Starting in 1 hour... Cartesi Live Panel 
-date: 2021-08-04 1628111236 
-categories: reddit 
---- 
-https://redd.it/oy2dpd

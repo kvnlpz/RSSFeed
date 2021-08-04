@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hard forks and wallet 
-date: 2021-07-27 1627446429 
-categories: reddit 
---- 
-https://redd.it/ot2q7i

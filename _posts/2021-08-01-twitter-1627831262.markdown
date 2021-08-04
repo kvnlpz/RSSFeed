@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @black_ski_mask 
-date: 2021-08-01 08:21:02 
-categories: twitter 
---- 
-@nope_its_lily @ln_strike ?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tesla’s Bitcoin manipulation explained 
-date: 2021-08-01 1627886607 
-categories: reddit 
---- 
-https://redd.it/ow95w6

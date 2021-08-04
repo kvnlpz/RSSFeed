@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happens if a wallet app shuts down / gets taken down. 
-date: 2021-07-27 1627426804 
-categories: reddit 
---- 
-https://redd.it/osxdhb

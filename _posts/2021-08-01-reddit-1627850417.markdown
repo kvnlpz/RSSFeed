@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does the price volatility argument for Bitcoin never succeeding as a normal currency make any sense? 
-date: 2021-08-01 1627850417 
-categories: reddit 
---- 
-https://redd.it/ovzvmc

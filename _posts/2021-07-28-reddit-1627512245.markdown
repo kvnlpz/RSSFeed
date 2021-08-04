@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Silly math APR question: 
-date: 2021-07-28 1627512245 
-categories: reddit 
---- 
-https://redd.it/otkxbm

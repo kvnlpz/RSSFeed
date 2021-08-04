@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gude2k 
-date: 2021-08-04 12:46:08 
-categories: twitter 
---- 
-@OddStockTrader Coming soon to a city near you. https://t.co/JPU3Ui9wIh

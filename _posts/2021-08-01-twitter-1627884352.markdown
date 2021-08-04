@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GreyscaleTrust 
-date: 2021-08-01 23:05:52 
-categories: twitter 
---- 
-@nope_its_lily non linear programming was robbed

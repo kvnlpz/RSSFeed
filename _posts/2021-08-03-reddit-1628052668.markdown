@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $DCOM - Data looks weird, can anyone confirm short interest? 
-date: 2021-08-03 1628052668 
-categories: reddit 
---- 
-https://redd.it/oxla7e

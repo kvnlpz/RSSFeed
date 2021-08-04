@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_kropins 
-date: 2021-08-03 20:08:25 
-categories: twitter 
---- 
-RT @G_krupins: $CELH looking good https://t.co/O5eOBRyXMt

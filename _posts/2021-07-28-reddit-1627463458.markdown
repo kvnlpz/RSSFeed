@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum trading volumes surged by over 1,000% in the first half of this year, easily beating Bitcoin's growth for the first time 
-date: 2021-07-28 1627463458 
-categories: reddit 
---- 
-https://redd.it/ot69d2

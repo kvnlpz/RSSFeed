@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Strike in app BTC purchase. Can't transfer. 
-date: 2021-07-27 1627439330 
-categories: reddit 
---- 
-https://redd.it/ot0vz3

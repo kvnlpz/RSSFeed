@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Shoutout to Blockscan for making life ten times easier!! 
-date: 2021-07-27 1627454780 
-categories: reddit 
---- 
-https://redd.it/ot4jx7

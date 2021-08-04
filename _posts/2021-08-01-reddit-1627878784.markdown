@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I think i found satoshi's wallets 
-date: 2021-08-01 1627878784 
-categories: reddit 
---- 
-https://redd.it/ow7h8d

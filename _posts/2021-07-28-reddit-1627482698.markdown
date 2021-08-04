@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hi. I need a mentor. 
-date: 2021-07-28 1627482698 
-categories: reddit 
---- 
-https://redd.it/otb2r5

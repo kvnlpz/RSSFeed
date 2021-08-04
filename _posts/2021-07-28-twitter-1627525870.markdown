@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NotCalledCommon 
-date: 2021-07-28 19:31:10 
-categories: twitter 
---- 
-RT @alphatrends: This should be a very good read!

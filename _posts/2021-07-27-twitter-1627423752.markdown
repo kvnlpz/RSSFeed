@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @md_proctor 
-date: 2021-07-27 15:09:12 
-categories: twitter 
---- 
-@nope_its_lily You are the captain now!

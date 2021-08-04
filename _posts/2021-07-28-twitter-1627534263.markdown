@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JasonViada 
-date: 2021-07-28 21:51:03 
-categories: twitter 
---- 
-@muddywatersre All these tech companies better invent an artificial photosynthesis machine pretty soon, because we… https://t.co/gW5m1YpEUn

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano Founder: Users will be Able to Deploy Smart Contracts on the Network this September 
-date: 2021-08-01 1627868857 
-categories: reddit 
---- 
-https://redd.it/ow51lo

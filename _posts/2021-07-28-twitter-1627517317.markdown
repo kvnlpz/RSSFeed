@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-28 17:08:37 
-categories: twitter 
---- 
-@gregdsports @JamesClear Love this book

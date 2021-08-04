@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @snootypigeon 
-date: 2021-08-04 07:56:32 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/h1YF7NjWRX

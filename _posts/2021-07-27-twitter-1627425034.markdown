@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Outstayed 
-date: 2021-07-27 15:30:34 
-categories: twitter 
---- 
-RT @nope_its_lily: @Mattfunky2 you realize I am literally a quantitative researcher right

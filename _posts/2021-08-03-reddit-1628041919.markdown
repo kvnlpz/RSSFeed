@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano with Trezor Model T 
-date: 2021-08-03 1628041919 
-categories: reddit 
---- 
-https://redd.it/oxib0v

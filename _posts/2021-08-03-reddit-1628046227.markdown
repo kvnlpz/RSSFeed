@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is the premier crypto payment processor (thats not BitPay)? 
-date: 2021-08-03 1628046227 
-categories: reddit 
---- 
-https://redd.it/oxjk0t

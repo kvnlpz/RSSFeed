@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-28 07:26:29 
-categories: twitter 
---- 
-Far from complaining but has anyone else noticed Market orders are getting filled on the ASK when selling?
-
-It's QUITE nice!

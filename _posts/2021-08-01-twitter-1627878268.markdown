@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 21:24:28 
-categories: twitter 
---- 
-@sajidnizami @bennpeifert Yeah, that's my point about it no longer being a closed form solution.

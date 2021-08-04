@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cesna8020 
-date: 2021-08-03 19:05:54 
-categories: twitter 
---- 
-@nope_its_lily the proof of work is simply a signaling mechanism, you are still living in a world with governments… https://t.co/3YoGH4q7LZ

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: IOTA once again fails to deliver, no decentralization in 2021 and the tangle keeps centralized with the coordinator. 
-date: 2021-07-31 1627777368 
-categories: reddit 
---- 
-https://redd.it/ovi7pq

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @relyt29 
-date: 2021-08-04 12:10:45 
-categories: twitter 
---- 
-@nope_its_lily I hear there are some watchmakers that would be happy to employ you...

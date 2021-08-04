@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: General consensus right now 
-date: 2021-08-03 1628039542 
-categories: reddit 
---- 
-https://redd.it/oxhm5z

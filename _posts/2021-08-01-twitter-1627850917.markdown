@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LauraPilkingt13 
-date: 2021-08-01 13:48:37 
-categories: twitter 
---- 
-@nope_its_lily I'd think bioinformatics would be the more valuable field, but I guess it doesn't pay enough yet?

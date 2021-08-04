@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 18:30:33 
-categories: twitter 
---- 
-@AgustinLebron3 as long as all future returns are sampled from all past returns with replacement it's over for you guys

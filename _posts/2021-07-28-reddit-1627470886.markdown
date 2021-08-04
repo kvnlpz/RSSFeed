@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SupraOracles and Mastercard Partner for DeFi/Institutional Oracle Solution 
-date: 2021-07-28 1627470886 
-categories: reddit 
---- 
-https://redd.it/ot7so3

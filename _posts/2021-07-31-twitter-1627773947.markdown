@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ixamuel 
-date: 2021-07-31 16:25:47 
-categories: twitter 
---- 
-@nope_its_lily Thinking of a fidget spinner and can confirm

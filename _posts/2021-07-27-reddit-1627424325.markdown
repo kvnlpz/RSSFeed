@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Citadel Connect is not registered as an ATS, we can assume it is their own use of a dark pool. It does not report any of its volume trading to FINRA. 
-date: 2021-07-27 1627424325 
-categories: reddit 
---- 
-https://redd.it/oswmad

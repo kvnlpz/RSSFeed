@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Network Status Update Sunday, August 01, 2021 
-date: 2021-08-01 1627834268 
-categories: reddit 
---- 
-https://redd.it/ovuxcq

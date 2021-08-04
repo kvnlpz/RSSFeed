@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-27 11:35:03 
-categories: twitter 
---- 
-And here they go $EDU $TALK $GOTU fueling each other

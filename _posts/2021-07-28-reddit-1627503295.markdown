@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can I send any amount of bitcoins to addresses on exodus? 
-date: 2021-07-28 1627503295 
-categories: reddit 
---- 
-https://redd.it/othzri

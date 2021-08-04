@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Facebook FUD 
-date: 2021-07-28 1627496264 
-categories: reddit 
---- 
-https://redd.it/otfnkr

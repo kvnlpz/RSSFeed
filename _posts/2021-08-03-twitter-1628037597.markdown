@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @subspaceforce 
-date: 2021-08-03 17:39:57 
-categories: twitter 
---- 
-@nope_its_lily Lots of data lake providers and frameworks offer schema-on-read features. They're hit or miss, and n… https://t.co/MpuKtHigAO

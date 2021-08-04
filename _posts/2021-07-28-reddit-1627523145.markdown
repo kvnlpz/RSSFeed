@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is locked liquidity and is it a good thing? 
-date: 2021-07-28 1627523145 
-categories: reddit 
---- 
-https://redd.it/otnyh0

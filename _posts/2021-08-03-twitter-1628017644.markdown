@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nick_edinburgh 
-date: 2021-08-03 12:07:24 
-categories: twitter 
---- 
-RT @super_trades: Indices up and some large caps however rest of market (small and mids) are bidless , short programs and bear action.  Thi…

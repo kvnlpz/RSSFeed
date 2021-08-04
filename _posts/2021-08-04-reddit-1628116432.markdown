@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EFi - is this % wrong? 
-date: 2021-08-04 1628116432 
-categories: reddit 
---- 
-https://redd.it/oy435y

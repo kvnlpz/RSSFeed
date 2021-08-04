@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-01 06:44:16 
-categories: twitter 
---- 
-RT @WesleyBKress: 1/Before I ever settled on @ElrondNetwork $EGLD I studied the entire space of smart contract Blockchains. Read all white…

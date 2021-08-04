@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stonXBT 
-date: 2021-07-27 18:58:05 
-categories: twitter 
---- 
-@nope_its_lily @0xElm0 @longskew @TensaiCapital https://t.co/8Oum5B7CYN

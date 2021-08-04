@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A beginner's guide to options pricing, or why you lost money even though the price moved your way 
-date: 2021-07-28 1627523926 
-categories: reddit 
---- 
-https://redd.it/oto5rw

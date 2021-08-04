@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chain resolving conflicts 
-date: 2021-07-29 1627600304 
-categories: reddit 
---- 
-https://redd.it/ou8nkh

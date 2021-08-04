@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @skywalker_alpha 
-date: 2021-07-28 16:51:34 
-categories: twitter 
---- 
-RT @nope_its_lily: it's amazing how nice you can look by eating healthy, drinking 8 cups of water, being unproblematic, and paying someone…

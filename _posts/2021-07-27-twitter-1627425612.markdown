@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FTR83089462 
-date: 2021-07-27 15:40:12 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/usquB08KEr

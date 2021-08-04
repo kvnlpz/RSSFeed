@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [DEX War] Sushi has surpassed Uniswap in 24 hour volume in trading and has over $200M+ trading volume the past 2 days, generating $2M+ profit sharing among xSushi holders 
-date: 2021-07-27 1627436348 
-categories: reddit 
---- 
-https://redd.it/ot02uo

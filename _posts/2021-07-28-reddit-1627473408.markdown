@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Filecoin and Hedera Join Forces to Expand Web3 Functionality 
-date: 2021-07-28 1627473408 
-categories: reddit 
---- 
-https://redd.it/ot8ein

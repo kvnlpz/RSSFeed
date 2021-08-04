@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brentsreynolds 
-date: 2021-07-28 17:17:05 
-categories: twitter 
---- 
-RT @G_krupins: $ALB pretty chart.  Looks good above the yellow. https://t.co/IIzGsC4xUy

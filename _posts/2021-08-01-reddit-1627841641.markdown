@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: IBC Transfer Failed Atom Cosmos 
-date: 2021-08-01 1627841641 
-categories: reddit 
---- 
-https://redd.it/ovx77d

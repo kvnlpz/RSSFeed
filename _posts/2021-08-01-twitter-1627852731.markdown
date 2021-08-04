@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @laurentzeimes 
-date: 2021-08-01 14:18:51 
-categories: twitter 
---- 
-@nope_its_lily Ah yes big data handling, compression and storage is something you learn quite deeply in that field.… https://t.co/RMQ8zPnrdF

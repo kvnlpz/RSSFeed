@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CokeAndMath 
-date: 2021-07-28 18:30:20 
-categories: twitter 
---- 
-@nope_its_lily C'mon Lily everyone knows the real secret is ... *checks notes*
-from keras import backend as k

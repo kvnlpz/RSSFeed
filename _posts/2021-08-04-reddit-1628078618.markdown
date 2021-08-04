@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Using lessons learned from supercomputing, scientists are now developing methods to reduce blockchain's energy consumption, while increasing its scalability 
-date: 2021-08-04 1628078618 
-categories: reddit 
---- 
-https://redd.it/oxr7ni

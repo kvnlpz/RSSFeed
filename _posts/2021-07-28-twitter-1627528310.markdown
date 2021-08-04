@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KemonomichiNL 
-date: 2021-07-28 20:11:50 
-categories: twitter 
---- 
-@nope_its_lily Pro Tip: Use the hard of hearing option and get the transcript instead, where you can just scroll down and click done.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Possible plans for an OpenZeppelin implementation of EIP-2535 Diamonds 
-date: 2021-07-27 1627427209 
-categories: reddit 
---- 
-https://redd.it/osxhtv

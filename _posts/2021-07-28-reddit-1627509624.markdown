@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Eftpos ready to launch digital payment system in Australia using Hedera Hashgraph. 
-date: 2021-07-28 1627509624 
-categories: reddit 
---- 
-https://redd.it/otk2zi

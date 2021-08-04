@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Various Cryptospace Uses of Computing power? 
-date: 2021-08-01 1627830948 
-categories: reddit 
---- 
-https://redd.it/ovtx1m

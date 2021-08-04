@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can we make list of all scams sites for security for new commers 
-date: 2021-08-01 1627849959 
-categories: reddit 
---- 
-https://redd.it/ovzqnl

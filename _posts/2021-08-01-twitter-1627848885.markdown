@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-01 13:14:45 
-categories: twitter 
---- 
-RT @DansGamePoker: July trading recap +$279,000. I spoke about some recent plays fresh on my mind: https://t.co/wtfHDCJgwN

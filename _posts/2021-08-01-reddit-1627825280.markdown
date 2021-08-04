@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When I started DeFi on Ethereum I was totally lost. Now started helping beginners through FREE data , research & tools. 
-date: 2021-08-01 1627825280 
-categories: reddit 
---- 
-https://redd.it/ovsbn4

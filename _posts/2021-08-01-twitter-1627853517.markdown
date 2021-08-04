@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-01 14:31:57 
-categories: twitter 
---- 
-@JKrantz We love the 210s row 1

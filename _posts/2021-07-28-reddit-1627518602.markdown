@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You CAN have true cold storage without hardware wallets 
-date: 2021-07-28 1627518602 
-categories: reddit 
---- 
-https://redd.it/otmpzn

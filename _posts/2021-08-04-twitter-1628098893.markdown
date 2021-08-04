@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WithNoE 
-date: 2021-08-04 10:41:33 
-categories: twitter 
---- 
-@nope_its_lily So the strategy would be to buy a deep ITM call and then sell a slightly less deep call if it pops a… https://t.co/8dBE5sZI7a

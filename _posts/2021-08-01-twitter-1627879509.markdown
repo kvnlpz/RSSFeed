@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnneMarieTrades 
-date: 2021-08-01 21:45:09 
-categories: twitter 
---- 
-RT @alphatrends: . #Bitcoin is up against the VWAP from the ATH (red) and YTD VWAP (orange) after a 30+% quick rally
-
-Nothing says it CANNO…

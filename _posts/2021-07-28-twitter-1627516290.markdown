@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @colombiasergios 
-date: 2021-07-28 16:51:30 
-categories: twitter 
---- 
-@InvestorsLive Gapper candidate?

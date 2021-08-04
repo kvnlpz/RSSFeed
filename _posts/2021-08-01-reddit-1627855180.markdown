@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Plan B's Stock-to-Flow Model: Does it REALLY Predict Bitcoin Price? 
-date: 2021-08-01 1627855180 
-categories: reddit 
---- 
-https://redd.it/ow1boc

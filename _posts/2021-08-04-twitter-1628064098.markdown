@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-04 01:01:38 
-categories: twitter 
---- 
-@StockyPenny @profitly Keep it up!

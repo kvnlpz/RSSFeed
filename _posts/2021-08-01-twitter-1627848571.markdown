@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1BlownUpAccount 
-date: 2021-08-01 13:09:31 
-categories: twitter 
---- 
-@InvestorsLive Thank you

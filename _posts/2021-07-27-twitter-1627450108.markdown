@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xMerp 
-date: 2021-07-27 22:28:28 
-categories: twitter 
---- 
-@nope_its_lily @garlandrg F

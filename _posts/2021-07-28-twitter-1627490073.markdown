@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GregIndian 
-date: 2021-07-28 09:34:33 
-categories: twitter 
---- 
-@nope_its_lily Good thing i clean it every alternate day

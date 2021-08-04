@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marc_pear 
-date: 2021-08-03 13:56:15 
-categories: twitter 
---- 
-RT @CitronResearch: Tomorrow am at 11:30 EST Citron will livestream the 5 reasons GameStop $GME buyers at these levels are the suckers at t…

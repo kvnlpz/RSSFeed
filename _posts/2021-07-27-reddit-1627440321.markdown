@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to fix MEV and majoritarian attacks on blockchains. 
-date: 2021-07-27 1627440321 
-categories: reddit 
---- 
-https://redd.it/ot157m

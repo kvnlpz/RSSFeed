@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Would you be interested in an optional geo-tag post flair for pertinent posts? Think specifically for users troubleshooting issues but could be useful elsewhere. 
-date: 2021-07-27 1627429354 
-categories: reddit 
---- 
-https://redd.it/osy4dc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Mining Difficulty Increases For First Time Since May! 
-date: 2021-07-31 1627798740 
-categories: reddit 
---- 
-https://redd.it/ovn1s7

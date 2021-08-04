@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @robtweet21 
-date: 2021-07-28 20:48:37 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen Yea I mean you’d have to say this is setting up that VCP pattern, no? 👀

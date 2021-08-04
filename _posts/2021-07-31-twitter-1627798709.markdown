@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @delaneyspd 
-date: 2021-07-31 23:18:29 
-categories: twitter 
---- 
-@InvestorsLive Do you have any tips or strategies for trading names with larger spreads? I tend to ignore these nam… https://t.co/8xf0f1XaLD

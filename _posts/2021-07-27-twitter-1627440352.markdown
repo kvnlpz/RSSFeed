@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeBoochyboy 
-date: 2021-07-27 19:45:52 
-categories: twitter 
---- 
-@TraderTexMex Is this even legal 😳

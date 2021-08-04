@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum is not a cryptocurrency, it's a network 
-date: 2021-07-27 1627438270 
-categories: reddit 
---- 
-https://redd.it/ot0ljn

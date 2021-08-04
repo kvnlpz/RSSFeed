@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1DavidL2 
-date: 2021-08-01 07:41:40 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/20TccdVdZs - Posted a New Webinar: Challenge Webinar 7-28 [On Demand] $ATRX $XBIO

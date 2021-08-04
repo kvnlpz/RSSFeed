@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jkrowas 
-date: 2021-07-28 20:13:01 
-categories: twitter 
---- 
-@nope_its_lily Also Zenefits tried that and then they were very sad.

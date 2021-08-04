@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 18:29:47 
-categories: twitter 
---- 
-@AgustinLebron3 you're gonna feel really dumb when COVID 2 happens and my bootstrapped model is way more prepared f… https://t.co/j1tGRu2RHn

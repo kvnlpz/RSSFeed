@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LukeW4620 
-date: 2021-08-01 18:22:20 
-categories: twitter 
---- 
-RT @InvestorsLive: I approve of the top screen left side 👌 cc: @crawfish_poboy

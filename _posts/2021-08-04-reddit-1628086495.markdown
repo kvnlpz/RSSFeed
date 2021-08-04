@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Remember BitMinter? 
-date: 2021-08-04 1628086495 
-categories: reddit 
---- 
-https://redd.it/oxtkvb

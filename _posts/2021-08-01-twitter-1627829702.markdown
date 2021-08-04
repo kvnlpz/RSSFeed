@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bricketybricks 
-date: 2021-08-01 07:55:02 
-categories: twitter 
---- 
-@muddywatersre So stupid! You don’t have to speak into your arm, you just have to think it. The microchips in the v… https://t.co/k7mNPF79Et

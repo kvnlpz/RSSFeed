@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Both Ethereum highest price within the last 47 days. Bitcoin highest price within the last 72 days. 
-date: 2021-08-01 1627808838 
-categories: reddit 
---- 
-https://redd.it/ovowq3

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Haskell/Plutus hard to learn? 
-date: 2021-07-28 1627493959 
-categories: reddit 
---- 
-https://redd.it/otev91

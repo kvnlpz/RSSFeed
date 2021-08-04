@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: changenow.io message during attempted XMR-BTC swap today: "Trading pair is not available now. Please try again later." 
-date: 2021-08-01 1627833615 
-categories: reddit 
---- 
-https://redd.it/ovupxr

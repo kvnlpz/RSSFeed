@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-27 18:11:32 
-categories: twitter 
---- 
-RT @NickSchmidt_: If you can't stop thinking about it, don't stop working for it.

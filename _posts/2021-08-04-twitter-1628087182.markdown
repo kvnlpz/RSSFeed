@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-04 07:26:22 
-categories: twitter 
---- 
-https://t.co/zdNuWdzzHX NEVER forget https://t.co/0HhPp6CC1v EVER!

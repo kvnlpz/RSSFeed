@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeHuddie_1 
-date: 2021-07-28 17:56:25 
-categories: twitter 
---- 
-RT @InvestorsLive: I wish @AuspexResearch warned us about $CYDY or something. The least he could have done was endlessly tweet for months a…

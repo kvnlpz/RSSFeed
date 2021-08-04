@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @10esseeKing 
-date: 2021-08-04 10:27:14 
-categories: twitter 
---- 
-@super_trades Thanks man

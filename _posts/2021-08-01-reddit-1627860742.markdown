@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Imagine a game like WoW that uses a crypto based marketplace 
-date: 2021-08-01 1627860742 
-categories: reddit 
---- 
-https://redd.it/ow2x29

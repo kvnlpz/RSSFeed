@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Food stocks that are on a move 
-date: 2021-08-01 1627872140 
-categories: reddit 
---- 
-https://redd.it/ow5vbk

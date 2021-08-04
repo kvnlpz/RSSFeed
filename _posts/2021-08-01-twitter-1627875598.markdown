@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 20:39:58 
-categories: twitter 
---- 
-@bennpeifert The unbiased estimator would be if you could construct the population of true travel times sans error… https://t.co/wydzJWYIX4

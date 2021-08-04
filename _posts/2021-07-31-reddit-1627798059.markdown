@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a good resource for places/ways to earn free crypto (e.g. Coinbase, Reddit)? 
-date: 2021-07-31 1627798059 
-categories: reddit 
---- 
-https://redd.it/ovmwy8

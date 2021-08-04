@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @subspaceforce 
-date: 2021-08-03 18:59:17 
-categories: twitter 
---- 
-@nope_its_lily Great summary of the inherent tension in the sterling:dollar pair

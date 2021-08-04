@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $LCID all in 
-date: 2021-07-27 1627439591 
-categories: reddit 
---- 
-https://redd.it/ot0xz9

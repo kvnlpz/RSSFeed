@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Not only Ethereum might not pass Bitcoin, other projects could technically pass Ethereum and take the 2nd spot of the market 
-date: 2021-08-04 1628063063 
-categories: reddit 
---- 
-https://redd.it/oxnmyi

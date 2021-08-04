@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chintanq 
-date: 2021-07-28 13:24:43 
-categories: twitter 
---- 
-@nope_its_lily Add a little bit of Jonah Lupton to diversify. I am a little sophisticated like that.

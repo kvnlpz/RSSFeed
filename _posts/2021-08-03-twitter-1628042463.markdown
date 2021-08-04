@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @the_ebbs 
-date: 2021-08-03 19:01:03 
-categories: twitter 
---- 
-@nope_its_lily Ah, Letter-coin

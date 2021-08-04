@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-04 08:30:46 
-categories: twitter 
---- 
-What do you call a $4 wheeler that turns into a $3 wheeler onto it's way to being a $2 wheeler?

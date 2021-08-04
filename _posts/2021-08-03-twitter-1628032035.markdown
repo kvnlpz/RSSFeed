@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Davidg775 
-date: 2021-08-03 16:07:15 
-categories: twitter 
---- 
-@OddStockTrader Ouch

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Polygon is hosting an AMA with Bree Yin from Darwinian. Ask questions within 
-date: 2021-07-31 1627781537 
-categories: reddit 
---- 
-https://redd.it/ovj7zx

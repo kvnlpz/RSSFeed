@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @steve_larrison 
-date: 2021-08-01 20:52:01 
-categories: twitter 
---- 
-@nope_its_lily How much more do the shoes cost if they don’t contain any blood!

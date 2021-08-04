@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 17:29:25 
-categories: twitter 
---- 
-@johngan71279297 why would i bother figuring out a way to make it convex? i pay computers for that

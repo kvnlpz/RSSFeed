@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does future trading affect the coin price? 
-date: 2021-07-28 1627513170 
-categories: reddit 
---- 
-https://redd.it/otl7cj

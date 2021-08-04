@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Kick.io recently released an IDO launchpad where the best up and coming startups can get in early! We discuss the services that this Cardano-based fundraising platform provides and what to expect in the near future. 
-date: 2021-08-01 1627852580 
-categories: reddit 
---- 
-https://redd.it/ow0jjx

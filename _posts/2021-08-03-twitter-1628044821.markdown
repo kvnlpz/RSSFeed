@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fricules 
-date: 2021-08-03 19:40:21 
-categories: twitter 
---- 
-@nope_its_lily Time to go buy a ghost town where I'm the strongest by default and start mining I guess

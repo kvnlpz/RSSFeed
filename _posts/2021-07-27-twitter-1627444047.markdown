@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MinvstrD 
-date: 2021-07-27 20:47:27 
-categories: twitter 
---- 
-@nope_its_lily @sanntrades Ha your avi is awesome

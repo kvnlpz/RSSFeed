@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An interview with artificial intelligence about cryptocurrency 
-date: 2021-07-28 1627492777 
-categories: reddit 
---- 
-https://redd.it/oteh0f

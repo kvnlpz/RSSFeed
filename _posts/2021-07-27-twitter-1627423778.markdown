@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BertandBen 
-date: 2021-07-27 15:09:38 
-categories: twitter 
---- 
-@nope_its_lily @Mattfunky2 Not now nopey

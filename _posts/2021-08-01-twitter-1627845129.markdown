@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaveTrader88 
-date: 2021-08-01 12:12:09 
-categories: twitter 
---- 
-RT @InvestorsLive: Pay attention to the setup 📈📉 https://t.co/R7u7Ms3511

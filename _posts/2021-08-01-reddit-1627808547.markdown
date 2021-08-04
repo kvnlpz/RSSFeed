@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vultur security alert: Do not store or access significant amounts of crypto in mobile wallets 
-date: 2021-08-01 1627808547 
-categories: reddit 
---- 
-https://redd.it/ovouvm

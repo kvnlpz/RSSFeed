@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LizSimmie 
-date: 2021-07-31 17:42:18 
-categories: twitter 
---- 
-@nope_its_lily It’s funny cause I have two skills and they are geometry and stats

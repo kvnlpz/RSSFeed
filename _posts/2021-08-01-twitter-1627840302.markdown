@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HunterrBradley 
-date: 2021-08-01 10:51:42 
-categories: twitter 
---- 
-@TraderTexMex Did you get the vaccine?

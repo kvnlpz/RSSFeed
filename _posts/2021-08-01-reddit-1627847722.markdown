@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: how can I add a btcpayment for a tourism service in a website? or how can I create a crypto coin for turism? 
-date: 2021-08-01 1627847722 
-categories: reddit 
---- 
-https://redd.it/ovz1vh

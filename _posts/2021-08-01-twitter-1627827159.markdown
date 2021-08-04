@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Tech9inja 
-date: 2021-08-01 07:12:39 
-categories: twitter 
---- 
-@alphatrends Would you be kind enough to do something similar for ETH? Haven’t finished reading you book yet 😀

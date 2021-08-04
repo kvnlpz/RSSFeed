@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BistroDeMars 
-date: 2021-08-03 22:01:29 
-categories: twitter 
---- 
-@alphatrends @FedoraTrading Are those figures averages? LOL at the 1960s when guys held stocks for 8 years.

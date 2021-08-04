@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Good old meme 
-date: 2021-08-01 1627852495 
-categories: reddit 
---- 
-https://redd.it/ow0iqf

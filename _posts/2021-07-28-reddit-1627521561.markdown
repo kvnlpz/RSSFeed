@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin fee 
-date: 2021-07-28 1627521561 
-categories: reddit 
---- 
-https://redd.it/otnj5j

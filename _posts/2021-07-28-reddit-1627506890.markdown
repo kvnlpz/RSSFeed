@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: After running local node on GUI 
-date: 2021-07-28 1627506890 
-categories: reddit 
---- 
-https://redd.it/otj73p

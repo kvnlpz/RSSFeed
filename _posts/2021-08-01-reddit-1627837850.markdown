@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I see some comments and posts regarding protecting vaults and reddit accounts. We should consciously discuss safe and effective password managers and 2FA. 
-date: 2021-08-01 1627837850 
-categories: reddit 
---- 
-https://redd.it/ovw1eb

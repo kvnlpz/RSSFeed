@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimTilton5 
-date: 2021-08-04 12:38:21 
-categories: twitter 
---- 
-@InvestorsLive LOL

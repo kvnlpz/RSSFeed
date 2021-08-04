@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 20:07:45 
-categories: twitter 
---- 
-It feels like kabuki to spend 45 minutes in a slideshow when you could’ve answered the questions correctly to start with

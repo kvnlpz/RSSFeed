@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMA with hi.com co-founder. hi.com is building the world's first digital credit union, on Ethereum 
-date: 2021-08-01 1627866909 
-categories: reddit 
---- 
-https://redd.it/ow4jxg

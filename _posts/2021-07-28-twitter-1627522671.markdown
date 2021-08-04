@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @samalem1 
-date: 2021-07-28 18:37:51 
-categories: twitter 
---- 
-@super_trades God bless mother’s and sons !

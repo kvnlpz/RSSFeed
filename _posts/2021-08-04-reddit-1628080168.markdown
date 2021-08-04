@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin price drops as SEC regulatory measures on this asset increase 
-date: 2021-08-04 1628080168 
-categories: reddit 
---- 
-https://redd.it/oxrmtt

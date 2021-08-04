@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kr0yrunner89 
-date: 2021-08-01 13:56:46 
-categories: twitter 
---- 
-RT @ClarityToast: I still can’t get over how 2021 is the year when millions of people decided that enriching corporate executives and their…

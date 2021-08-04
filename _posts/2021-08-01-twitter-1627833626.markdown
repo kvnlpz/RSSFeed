@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-01 09:00:26 
-categories: twitter 
---- 
-Try making the cocktail after the first set not before.

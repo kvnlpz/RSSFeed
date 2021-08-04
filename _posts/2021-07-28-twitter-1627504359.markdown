@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @normalhumanfun 
-date: 2021-07-28 13:32:39 
-categories: twitter 
---- 
-@nope_its_lily @StrizziJ https://t.co/LQPJO3h1rT

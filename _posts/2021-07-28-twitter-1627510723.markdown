@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OptionsRock1 
-date: 2021-07-28 15:18:43 
-categories: twitter 
---- 
-@G_krupins do u mind checking TRIP?

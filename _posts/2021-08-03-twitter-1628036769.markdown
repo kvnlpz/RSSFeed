@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-03 17:26:09 
-categories: twitter 
---- 
-@AgustinLebron3 @vgr I read this as 25 year old's novel conceit first and felt personally attacked

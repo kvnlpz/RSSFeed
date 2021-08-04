@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rsosa8 
-date: 2021-07-27 15:34:14 
-categories: twitter 
---- 
-@nope_its_lily @salr_nyc Dogs and their pronouns

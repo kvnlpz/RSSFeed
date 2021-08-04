@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OpulentTrader 
-date: 2021-07-28 12:59:00 
-categories: twitter 
---- 
-@InvestorsLive I guess it also happens to the pros.

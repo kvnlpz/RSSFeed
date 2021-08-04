@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Smith78Charles 
-date: 2021-08-04 09:35:25 
-categories: twitter 
---- 
-@InvestorsLive If you’re long, bankruptcy

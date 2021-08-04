@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wyckoff Accumulation 
-date: 2021-07-27 1627448242 
-categories: reddit 
---- 
-https://redd.it/ot35jr

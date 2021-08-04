@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I should have bought Bitcoin 
-date: 2021-07-28 1627475295 
-categories: reddit 
---- 
-https://redd.it/ot8w3k

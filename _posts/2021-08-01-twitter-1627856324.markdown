@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @boy_algo 
-date: 2021-08-01 15:18:44 
-categories: twitter 
---- 
-@timothysykes @tradingchik @LVIsle https://t.co/7NGQnFfTYG

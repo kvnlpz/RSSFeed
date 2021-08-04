@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-31 12:14:53 
-categories: twitter 
---- 
-Safe to say Topps blew it with NFTs
-
-1 Launch then nothing...

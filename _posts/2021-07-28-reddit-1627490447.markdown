@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You want to mine bitcoin? click the link and download 
-date: 2021-07-28 1627490447 
-categories: reddit 
---- 
-https://redd.it/otdo7t

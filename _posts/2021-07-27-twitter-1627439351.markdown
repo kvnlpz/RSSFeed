@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Trader_Aspirant 
-date: 2021-07-27 19:29:11 
-categories: twitter 
---- 
-RT @nope_its_lily: Let the sell come.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JonahLupton 
-date: 2021-07-28 19:12:12 
-categories: twitter 
---- 
-@alphatrends @FinTwitConf Thanks for sharing — this is going to be a great weekend. We’re working on even more perks for attendees.

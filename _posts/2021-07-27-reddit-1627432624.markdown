@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chinese Trading info discussion 
-date: 2021-07-27 1627432624 
-categories: reddit 
---- 
-https://redd.it/osz2gi

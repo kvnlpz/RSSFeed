@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SteveDemilt 
-date: 2021-08-04 12:16:17 
-categories: twitter 
---- 
-@InvestorsLive Short into close with #MRNA

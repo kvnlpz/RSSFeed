@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Fork Suffers ‘Massive’ 51% Attack In Attempt To ‘Destroy’ The Cryptocurrency, Sending Its Price Sharply Lower 
-date: 2021-08-04 1628079018 
-categories: reddit 
---- 
-https://redd.it/oxrbj7

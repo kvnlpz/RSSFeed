@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lets play FETch 
-date: 2021-07-31 1627776386 
-categories: reddit 
---- 
-https://redd.it/ovhyp0

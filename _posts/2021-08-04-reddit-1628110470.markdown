@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Raise hand if shorting SPX 
-date: 2021-08-04 1628110470 
-categories: reddit 
---- 
-https://redd.it/oy23sv

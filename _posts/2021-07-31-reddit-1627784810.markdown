@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: People downvoting every other post after making one 
-date: 2021-07-31 1627784810 
-categories: reddit 
---- 
-https://redd.it/ovjzii

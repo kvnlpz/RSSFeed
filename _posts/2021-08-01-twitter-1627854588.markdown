@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chiredev 
-date: 2021-08-01 14:49:48 
-categories: twitter 
---- 
-@InvestorsLive You're a businessman. Maybe invest in a Seadog type boat and offer different kind of cruises than Mt… https://t.co/KJVOzAD2uT

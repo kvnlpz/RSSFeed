@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SwishDaBoss 
-date: 2021-08-01 13:47:28 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Show me the way Tim

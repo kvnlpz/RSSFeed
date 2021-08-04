@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thomasgerlach 
-date: 2021-08-04 15:01:43 
-categories: twitter 
---- 
-@nope_its_lily I really thought you were more of a ExcelGal myself.

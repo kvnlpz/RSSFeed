@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @musingtrader 
-date: 2021-07-28 18:13:46 
-categories: twitter 
---- 
-@nope_its_lily That's OK, you're still you!

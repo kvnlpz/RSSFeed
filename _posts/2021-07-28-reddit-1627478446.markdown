@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What if anything do we need to do before the August 24th, 3.0 mainnet go live date? 
-date: 2021-07-28 1627478446 
-categories: reddit 
---- 
-https://redd.it/ot9rry

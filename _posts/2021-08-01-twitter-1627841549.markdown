@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BridgeGameWWII 
-date: 2021-08-01 11:12:29 
-categories: twitter 
---- 
-@TraderTexMex Dr. Anthony Fauci warns that “things are going to get worse” as a more contagious variant of the coro… https://t.co/JBLH3TJSvu

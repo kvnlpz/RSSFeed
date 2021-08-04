@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IvanRod41002213 
-date: 2021-07-27 20:38:44 
-categories: twitter 
---- 
-RT @super_trades: This is summer trading to the extreme. No bids. No volume

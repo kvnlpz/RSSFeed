@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DeFi platform dYdX is launching a governance token 
-date: 2021-08-03 1628017387 
-categories: reddit 
---- 
-https://redd.it/oxad6j

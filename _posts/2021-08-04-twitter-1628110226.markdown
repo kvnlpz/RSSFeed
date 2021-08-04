@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sarah_Katilyn 
-date: 2021-08-04 13:50:26 
-categories: twitter 
---- 
-@nope_its_lily I gotchu https://t.co/uB3Zee2abL

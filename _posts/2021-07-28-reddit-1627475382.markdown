@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market sentiment hasn't been as positive since 12th of May 
-date: 2021-07-28 1627475382 
-categories: reddit 
---- 
-https://redd.it/ot8wv8

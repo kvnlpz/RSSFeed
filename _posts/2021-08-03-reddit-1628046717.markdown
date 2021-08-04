@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about option calculator estimate returns put spread, I’ve never seen this result and can’t make sense of it so any help appreciated. 
-date: 2021-08-03 1628046717 
-categories: reddit 
---- 
-https://redd.it/oxhwtb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dash launches payment app with 155,000 vendors 
-date: 2021-07-28 1627484393 
-categories: reddit 
---- 
-https://redd.it/otbms5

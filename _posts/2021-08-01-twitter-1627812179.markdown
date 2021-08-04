@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaycee393 
-date: 2021-08-01 03:02:59 
-categories: twitter 
---- 
-RT @kgreifeld: @nope_its_lily cats think in riddles

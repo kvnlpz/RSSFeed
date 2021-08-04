@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-28 18:26:00 
-categories: twitter 
---- 
-RT @gregdsports: Today’s #WinningCharacteristics $STUDY is $FVRR. Biggest flaw here is base depth but prior 10x move may negate that a litt…

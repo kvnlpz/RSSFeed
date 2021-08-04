@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @catratdo 
-date: 2021-08-01 23:12:40 
-categories: twitter 
---- 
-@nope_its_lily Net Long Puts

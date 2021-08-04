@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-04 12:00:02 
-categories: twitter 
---- 
-RT @rares_gh: @super_trades $egld is the best. Just read about it:
-https://t.co/c4QJdNpn3W

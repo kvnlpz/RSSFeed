@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jatinam 
-date: 2021-08-04 12:07:53 
-categories: twitter 
---- 
-RT @RayTL_: Your best ideas should always come from your processes that you have in place. Not anyones Twitter feed. Focus on self and with…

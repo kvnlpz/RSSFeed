@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: feedback requested: customer self checkout on their own device 
-date: 2021-08-03 1628018127 
-categories: reddit 
---- 
-https://redd.it/oxamv9

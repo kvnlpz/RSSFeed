@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MansaMulsanne 
-date: 2021-08-04 13:37:25 
-categories: twitter 
---- 
-@MikeBellafiore $80.00

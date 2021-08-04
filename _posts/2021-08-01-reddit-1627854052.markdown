@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Difficulty Increases 6%. It's Still 48% Easier to Find BTC Blocks Than It Was 30 Days Ago. 
-date: 2021-08-01 1627854052 
-categories: reddit 
---- 
-https://redd.it/ow0zfm

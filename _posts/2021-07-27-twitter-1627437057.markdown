@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rachdele 
-date: 2021-07-27 18:50:57 
-categories: twitter 
---- 
-@nope_its_lily the “message requests” folder was devised for this purpose exactly

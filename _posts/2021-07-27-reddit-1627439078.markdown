@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Seed phrase. I’m a little confused on when I will need to use this? When buying BTC from exchange off Coinbase I transferred to Coinbase wallet. I then transferred to Block Fi savings account a couple months later to gain interest. When would I ever need to use the seed/key phrase? 
-date: 2021-07-27 1627439078 
-categories: reddit 
---- 
-https://redd.it/ot0tm2

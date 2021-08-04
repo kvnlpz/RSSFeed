@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: N3 just released! 💚 
-date: 2021-08-01 1627817139 
-categories: reddit 
---- 
-https://redd.it/ovqfw2

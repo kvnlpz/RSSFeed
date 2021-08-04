@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Delta Variant and What It Means 
-date: 2021-08-01 1627825000 
-categories: reddit 
---- 
-https://redd.it/ovs8t1

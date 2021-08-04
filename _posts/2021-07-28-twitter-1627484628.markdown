@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mcorwin333 
-date: 2021-07-28 08:03:48 
-categories: twitter 
---- 
-@nope_its_lily I highly recommend having this nearby your setup.  https://t.co/scKggqMQUd

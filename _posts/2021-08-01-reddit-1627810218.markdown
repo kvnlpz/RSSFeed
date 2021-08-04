@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA: Brave for Android now has 10 ads per hour limit 
-date: 2021-08-01 1627810218 
-categories: reddit 
---- 
-https://redd.it/ovp5fz

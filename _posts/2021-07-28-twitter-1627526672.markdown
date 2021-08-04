@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sarah_Katilyn 
-date: 2021-07-28 19:44:32 
-categories: twitter 
---- 
-@alphatrends They're such beautiful unique birds

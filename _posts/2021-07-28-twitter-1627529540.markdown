@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshVegas6 
-date: 2021-07-28 20:32:20 
-categories: twitter 
---- 
-@nope_its_lily All good https://t.co/gslgSblrdB

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jscherniack 
-date: 2021-07-27 17:23:07 
-categories: twitter 
---- 
-@InvestorsLive @jokon888 “Saw that roll Nate you know that 6am workout we had? Better come in at 5:15 now”

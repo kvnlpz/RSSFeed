@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Will quantum computing allow private keys to be cracked 
-date: 2021-08-01 1627857742 
-categories: reddit 
---- 
-https://redd.it/ow2324

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Tezos technology mentioned in the ECB's experiments. 
-date: 2021-07-28 1627491813 
-categories: reddit 
---- 
-https://redd.it/ote593

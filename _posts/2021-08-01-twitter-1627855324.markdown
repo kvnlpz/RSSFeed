@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sanzarific 
-date: 2021-08-01 15:02:04 
-categories: twitter 
---- 
-RT @alphatrends: My video from Friday

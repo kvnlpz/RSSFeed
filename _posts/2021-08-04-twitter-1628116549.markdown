@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maver3k_1 
-date: 2021-08-04 15:35:49 
-categories: twitter 
---- 
-@InvestorsLive ABCD pattern

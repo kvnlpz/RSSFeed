@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @petershk 
-date: 2021-07-31 17:01:49 
-categories: twitter 
---- 
-@nope_its_lily @tolstoybb Only if it's in multiples of 360

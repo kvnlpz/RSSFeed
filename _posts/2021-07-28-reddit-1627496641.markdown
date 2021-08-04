@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Warning! Transaction is likely to fail 
-date: 2021-07-28 1627496641 
-categories: reddit 
---- 
-https://redd.it/otfs94

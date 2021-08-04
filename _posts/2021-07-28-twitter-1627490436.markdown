@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 09:40:36 
-categories: twitter 
---- 
-and yet a trace of the true self exists in the false self

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-01 13:44:27 
-categories: twitter 
---- 
-@tenmike https://t.co/mHIIShaVoD

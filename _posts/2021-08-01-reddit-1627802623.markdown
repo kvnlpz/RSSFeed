@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monthly Options (20 Aug) Open Interest Collateral vs Float AMZN, AMC, GME, CLOV 
-date: 2021-08-01 1627802623 
-categories: reddit 
---- 
-https://redd.it/ovnsaz

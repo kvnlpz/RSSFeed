@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fourteenpounds 
-date: 2021-08-01 07:08:28 
-categories: twitter 
---- 
-@nope_its_lily “Millionaires don't use Astrology, billionaires do” - JP Morgan

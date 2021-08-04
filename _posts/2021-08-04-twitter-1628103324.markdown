@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SteelNicho 
-date: 2021-08-04 11:55:24 
-categories: twitter 
---- 
-@nope_its_lily Funny Ms. Currie

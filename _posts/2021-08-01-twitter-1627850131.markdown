@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kmvanh 
-date: 2021-08-01 13:35:31 
-categories: twitter 
---- 
-@alphatrends @SpanishTrader88 Would it be as relevant for Bitcoin,

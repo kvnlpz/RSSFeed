@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are you in or are you out Lidar 
-date: 2021-08-04 1628091458 
-categories: reddit 
---- 
-https://redd.it/oxva0q

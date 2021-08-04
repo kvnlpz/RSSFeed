@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I coded a cryptocurrency widget that allows you to display the prices of certain coins. (Windows Only) 
-date: 2021-07-27 1627425831 
-categories: reddit 
---- 
-https://redd.it/osx2vl

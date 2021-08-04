@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ShoeShineBoy11 
-date: 2021-07-28 19:22:47 
-categories: twitter 
---- 
-@alphatrends https://t.co/711kDlKkUu

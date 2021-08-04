@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MMuse1 
-date: 2021-08-01 07:07:34 
-categories: twitter 
---- 
-@timothysykes Always good to reflect, morning Tim

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @crypto_twat 
-date: 2021-07-27 15:33:24 
-categories: twitter 
---- 
-@nope_its_lily Why you still look ugly then?

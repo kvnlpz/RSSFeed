@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mathwang 
-date: 2021-08-01 18:48:30 
-categories: twitter 
---- 
-@alphatrends Should be called “How secure is your password from you?”

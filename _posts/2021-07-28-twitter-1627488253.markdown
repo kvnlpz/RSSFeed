@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 09:04:13 
-categories: twitter 
---- 
-@dhtoomey i just immediately leave if bash loads up on their terminal and not zsh

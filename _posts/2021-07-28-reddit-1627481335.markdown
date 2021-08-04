@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase forcing me to use pin instead of biometric on mobile? 
-date: 2021-07-28 1627481335 
-categories: reddit 
---- 
-https://redd.it/otan9y

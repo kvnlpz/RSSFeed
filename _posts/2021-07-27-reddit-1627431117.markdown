@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Withdrawing from a lightning wallet good for privacy? 
-date: 2021-07-27 1627431117 
-categories: reddit 
---- 
-https://redd.it/osyn4x

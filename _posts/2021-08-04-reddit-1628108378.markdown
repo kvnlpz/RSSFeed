@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bipartisan Senators introduced an amendment that excludes validators, wallet makers, and protocol devs from the Infrastructure Bill taxes 
-date: 2021-08-04 1628108378 
-categories: reddit 
---- 
-https://redd.it/oy1ddj

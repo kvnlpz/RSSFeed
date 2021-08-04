@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @d77043859 
-date: 2021-08-01 22:24:28 
-categories: twitter 
---- 
-@nope_its_lily A company can be expensive at a 10x P/E. A company can be cheap at a 1000x P/E. A pretty lazy indicator of value IMO.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Cardano smart contract programming hard to learn? 
-date: 2021-07-28 1627493839 
-categories: reddit 
---- 
-https://redd.it/otety5

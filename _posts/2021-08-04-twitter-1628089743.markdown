@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SteelNicho 
-date: 2021-08-04 08:09:03 
-categories: twitter 
---- 
-@nope_its_lily, I have a question for you regarding "gamma squeeze", how can volume only cause a gamma squeeze assu… https://t.co/hhN1kPBFPs

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hodl_xbul 
-date: 2021-07-28 05:09:09 
-categories: twitter 
---- 
-@timothysykes Mornin'

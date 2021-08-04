@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WallStChameleon 
-date: 2021-07-28 18:02:52 
-categories: twitter 
---- 
-@nope_its_lily @statnews literally those stat+ conversations which you can only play at 1x

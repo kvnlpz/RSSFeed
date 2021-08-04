@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Amazon Coin 
-date: 2021-07-28 1627502925 
-categories: reddit 
---- 
-https://redd.it/othvd7

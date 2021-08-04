@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jpagp3 
-date: 2021-07-27 16:05:45 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/zVEtN6ODbE

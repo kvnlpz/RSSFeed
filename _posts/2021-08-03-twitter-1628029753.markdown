@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Spartan_B8 
-date: 2021-08-03 15:29:13 
-categories: twitter 
---- 
-@InvestorsLive Nobody tell him

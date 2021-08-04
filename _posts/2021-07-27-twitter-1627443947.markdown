@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-27 20:45:47 
-categories: twitter 
---- 
-@ronthedon12345 QAnon was not real...

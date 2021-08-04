@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can you help me understand how this option is priced? 
-date: 2021-07-28 1627505269 
-categories: reddit 
---- 
-https://redd.it/otinq9

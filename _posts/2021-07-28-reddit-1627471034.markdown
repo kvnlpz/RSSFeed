@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano: A Useful Cryptocurrency (Medium Post on Legacy of Cardano) 
-date: 2021-07-28 1627471034 
-categories: reddit 
---- 
-https://redd.it/ot7txn

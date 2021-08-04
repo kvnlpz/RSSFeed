@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConejoCapital 
-date: 2021-08-01 20:48:05 
-categories: twitter 
---- 
-@nope_its_lily Them: pick a side
-You: fight all sides

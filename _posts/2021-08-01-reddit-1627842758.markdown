@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do i need a VPS? (And other technical questions) 
-date: 2021-08-01 1627842758 
-categories: reddit 
---- 
-https://redd.it/ovxjeq

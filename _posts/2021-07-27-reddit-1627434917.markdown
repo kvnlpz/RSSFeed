@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Head-scratcher: over the past year, VIX has dropped 24%, yet SPY IV/Hist volatility is currently 135% Isn’t this contradictory? 
-date: 2021-07-27 1627434917 
-categories: reddit 
---- 
-https://redd.it/oszp2m

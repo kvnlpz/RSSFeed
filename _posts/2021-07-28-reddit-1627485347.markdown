@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's a scam (crypto or not) you fell for and how did you learn from it? 
-date: 2021-07-28 1627485347 
-categories: reddit 
---- 
-https://redd.it/otbyd2

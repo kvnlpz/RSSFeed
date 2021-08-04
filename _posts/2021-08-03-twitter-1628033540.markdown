@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ratwell0x 
-date: 2021-08-03 16:32:20 
-categories: twitter 
---- 
-@nope_its_lily @TheStalwart well we are all there right now
-why dont you tell us

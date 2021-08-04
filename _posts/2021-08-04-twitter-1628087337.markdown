@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-04 07:28:57 
-categories: twitter 
---- 
-Wrote "increased to $9" on last tweet obviously typo - meant $95 - so re posted it.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When was the last time Bitcoin was green 8 days in a row? 
-date: 2021-07-28 1627467634 
-categories: reddit 
---- 
-https://redd.it/ot73gm

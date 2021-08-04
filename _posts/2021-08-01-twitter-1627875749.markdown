@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 20:42:29 
-categories: twitter 
---- 
-@bennpeifert Essentially this is the analogous to using z-score vs t-score for hypothesis testing if I'm grokking it right

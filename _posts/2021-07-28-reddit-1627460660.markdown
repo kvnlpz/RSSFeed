@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: No, Ethereum is not a network ! 
-date: 2021-07-28 1627460660 
-categories: reddit 
---- 
-https://redd.it/ot5p40

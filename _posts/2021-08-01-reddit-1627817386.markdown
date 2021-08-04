@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The usecase of Ethereum (Smart contracts/NFTs/DeFi) are has outgrown Ethereum itself. 
-date: 2021-08-01 1627817386 
-categories: reddit 
---- 
-https://redd.it/ovqhl6

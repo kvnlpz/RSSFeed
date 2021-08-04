@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fl_omo 
-date: 2021-07-28 15:20:48 
-categories: twitter 
---- 
-RT @InvestorsLive: $GNUS + $RBLX - starting this weekend.

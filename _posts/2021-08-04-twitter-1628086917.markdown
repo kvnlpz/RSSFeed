@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradingPrecise 
-date: 2021-08-04 07:21:57 
-categories: twitter 
---- 
-RT @InvestorsLive: $BYSI Evercore ISI increasing price tgt to $9  from $30

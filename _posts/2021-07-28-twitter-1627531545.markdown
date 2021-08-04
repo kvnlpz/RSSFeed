@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @usual_whales 
-date: 2021-07-28 21:05:45 
-categories: twitter 
---- 
-RT @muddywatersre: @usual_whales @unusual_whales Can’t argue with that.

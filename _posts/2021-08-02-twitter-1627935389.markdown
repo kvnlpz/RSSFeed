@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DerelictLife 
-date: 2021-08-02 13:16:29 
-categories: twitter 
---- 
-@InvestorsLive Guess it’s time to buy

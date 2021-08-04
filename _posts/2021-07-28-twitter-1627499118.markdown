@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @conduitdeejay 
-date: 2021-07-28 12:05:18 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/RikRZFtdxJ

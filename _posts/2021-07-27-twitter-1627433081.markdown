@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-27 17:44:41 
-categories: twitter 
---- 
-@RichardMoglen Please let us know your thoughts and comments on this video. Was it helpful? Did you learn something new?
-
-Thanks!

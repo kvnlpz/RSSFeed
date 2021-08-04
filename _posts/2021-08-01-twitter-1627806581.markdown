@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-01 01:29:41 
-categories: twitter 
---- 
-@sadboiokabe @IglooTrader99 Study @30DayBoot first

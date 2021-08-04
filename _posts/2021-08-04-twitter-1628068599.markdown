@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KentTflow 
-date: 2021-08-04 02:16:39 
-categories: twitter 
---- 
-@modern_rock This is good

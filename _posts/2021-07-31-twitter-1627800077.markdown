@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @krnstonks 
-date: 2021-07-31 23:41:17 
-categories: twitter 
---- 
-@nope_its_lily Lolla variant

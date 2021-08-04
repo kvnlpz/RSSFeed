@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC whale sells 1500 BTC @ 37745 
-date: 2021-07-27 1627433066 
-categories: reddit 
---- 
-https://redd.it/osz6le

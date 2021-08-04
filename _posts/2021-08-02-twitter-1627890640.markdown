@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nismith_jam 
-date: 2021-08-02 00:50:40 
-categories: twitter 
---- 
-@alphatrends They use software to cut down on the time

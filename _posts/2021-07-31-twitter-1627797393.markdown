@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-31 22:56:33 
-categories: twitter 
---- 
-@shiraeis stop being hot on twitter

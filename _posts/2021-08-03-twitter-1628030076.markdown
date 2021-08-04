@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-08-03 15:34:36 
-categories: twitter 
---- 
-RT @modern_rock: $WHLM the long and short of it 
-
-#MyInvestingClub https://t.co/iGYpqnPuaa

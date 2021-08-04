@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imperative_the 
-date: 2021-07-31 19:06:47 
-categories: twitter 
---- 
-RT @nope_its_lily: It'd be super interesting if NFTs could be minted multi-chain, and I know that a few companies like OpenSea are working…

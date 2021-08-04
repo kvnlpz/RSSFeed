@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Awesome breakaway from Bitcoin 
-date: 2021-07-28 1627463402 
-categories: reddit 
---- 
-https://redd.it/ot68wm

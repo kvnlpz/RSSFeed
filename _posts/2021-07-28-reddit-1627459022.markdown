@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transaction inputs/outputs 
-date: 2021-07-28 1627459022 
-categories: reddit 
---- 
-https://redd.it/ot5dqv

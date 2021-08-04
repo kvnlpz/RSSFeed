@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @askhanar 
-date: 2021-08-04 10:39:57 
-categories: twitter 
---- 
-@super_trades $elrond $rgld

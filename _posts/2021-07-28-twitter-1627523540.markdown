@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodetrades 
-date: 2021-07-28 18:52:20 
-categories: twitter 
---- 
-@IceburghCapital @crossdefault Roam Research

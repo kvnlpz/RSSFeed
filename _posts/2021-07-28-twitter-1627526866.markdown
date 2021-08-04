@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JayWoods3 
-date: 2021-07-28 19:47:46 
-categories: twitter 
---- 
-@alphatrends I would’ve had I read the replies before sending. Lesson learned. https://t.co/5iLK807lMT

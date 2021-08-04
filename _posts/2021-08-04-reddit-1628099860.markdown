@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin SV get hits by 51% attack, but still remains 41th crypto. 
-date: 2021-08-04 1628099860 
-categories: reddit 
---- 
-https://redd.it/oxybry

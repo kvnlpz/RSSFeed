@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What Is the cheapest way to send/ receive bitcoin? 
-date: 2021-08-01 1627818798 
-categories: reddit 
---- 
-https://redd.it/ovqru1

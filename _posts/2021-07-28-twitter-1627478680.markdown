@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imovestocks 
-date: 2021-07-28 06:24:40 
-categories: twitter 
---- 
-@InvestorsLive $cleu will fly with the rest

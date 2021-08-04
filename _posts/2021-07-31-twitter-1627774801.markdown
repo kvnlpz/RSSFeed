@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stocks_soup 
-date: 2021-07-31 16:40:01 
-categories: twitter 
---- 
-@nope_its_lily The only soup worth eating is hot soup.
-
-Fight me, gazpacho.

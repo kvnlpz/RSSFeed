@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gd007 
-date: 2021-08-04 14:44:24 
-categories: twitter 
---- 
-RT @alphatrends: The $QQQ once again found buyers at the conjunction of the VWAPs anchored from the mid July high and low of the month.  To…

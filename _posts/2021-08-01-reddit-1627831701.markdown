@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Over 10% of BTC transactions in July :) 
-date: 2021-08-01 1627831701 
-categories: reddit 
---- 
-https://redd.it/ovu55v

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proposed legislation defines ‘transaction validators’ (miners, nodes) as ‘brokers’ and require KYC 
-date: 2021-08-01 1627804042 
-categories: reddit 
---- 
-https://redd.it/ovo1e4

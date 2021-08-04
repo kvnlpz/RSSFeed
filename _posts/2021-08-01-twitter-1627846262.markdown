@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Steven1994_ 
-date: 2021-08-01 12:31:02 
-categories: twitter 
---- 
-RT @Steven1_994: Check out my tips on overcoming PDT and the 2020 adjusted technical analysis in my latest video here: https://t.co/t8hqtip…

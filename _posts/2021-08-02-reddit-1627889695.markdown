@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is keeping track of crypto trades or rewards through an excel spreadsheet smart? 
-date: 2021-08-02 1627889695 
-categories: reddit 
---- 
-https://redd.it/ow9rwm

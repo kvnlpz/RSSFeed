@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Which exchange has the lowest withdrawal/purchase fee buying from the Uk? How do you guys manage to dca without incurring in fees every time you move sats out of exchanges? 
-date: 2021-08-01 1627830432 
-categories: reddit 
---- 
-https://redd.it/ovtrj5

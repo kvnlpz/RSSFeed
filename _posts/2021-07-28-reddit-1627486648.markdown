@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When Transactions per second exceed 
-date: 2021-07-28 1627486648 
-categories: reddit 
---- 
-https://redd.it/otcdwo

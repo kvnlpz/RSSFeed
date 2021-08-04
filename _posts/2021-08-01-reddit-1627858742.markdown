@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DeFi for beginners - an introductory guide. 
-date: 2021-08-01 1627858742 
-categories: reddit 
---- 
-https://redd.it/ow2cuk

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $BB 10k YOLO 
-date: 2021-07-28 1627492397 
-categories: reddit 
---- 
-https://redd.it/otecc9

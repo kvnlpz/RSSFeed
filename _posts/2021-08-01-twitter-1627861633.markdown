@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TYonClubhouse 
-date: 2021-08-01 16:47:13 
-categories: twitter 
---- 
-@nope_its_lily Unfairly cheap

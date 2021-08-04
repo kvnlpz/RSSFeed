@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @01stocksavage 
-date: 2021-07-28 05:06:05 
-categories: twitter 
---- 
-@InvestorsLive She ain’t a pennystock anymore

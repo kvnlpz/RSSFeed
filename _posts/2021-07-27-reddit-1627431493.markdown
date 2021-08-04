@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Staking vs Mining - POS/POW - And Other Ramblings... 
-date: 2021-07-27 1627431493 
-categories: reddit 
---- 
-https://redd.it/osyr01

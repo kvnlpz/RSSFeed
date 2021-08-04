@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @supar___trades 
-date: 2021-07-28 14:17:23 
-categories: twitter 
---- 
-RT @stock_titan: $SMFR $SMFRW Sema4 to Participate at Two Upcoming Investor Conferences in August
-https://t.co/mUUcf9Tk6l

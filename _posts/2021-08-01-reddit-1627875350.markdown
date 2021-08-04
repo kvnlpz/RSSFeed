@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible that my client pays in USD via card and I get paid in bitcoin? Any app for this? My client does not understand btc 
-date: 2021-08-01 1627875350 
-categories: reddit 
---- 
-https://redd.it/ow6nm6

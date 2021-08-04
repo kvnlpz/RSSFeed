@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reminder: always send tiny amount first! 
-date: 2021-07-28 1627537306 
-categories: reddit 
---- 
-https://redd.it/otrfpn

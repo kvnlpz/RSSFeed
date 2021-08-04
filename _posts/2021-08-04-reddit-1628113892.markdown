@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Converting crypto to fiat 
-date: 2021-08-04 1628113892 
-categories: reddit 
---- 
-https://redd.it/oy39np

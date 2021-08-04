@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stocks_soup 
-date: 2021-08-01 15:27:42 
-categories: twitter 
---- 
-@nope_its_lily "Is there a raccoon nesting in the dumpster?"
-
-'Nope it's Lily'

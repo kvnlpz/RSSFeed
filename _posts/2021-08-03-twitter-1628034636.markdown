@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scriptstotrade 
-date: 2021-08-03 16:50:36 
-categories: twitter 
---- 
-@alphatrends 100%.

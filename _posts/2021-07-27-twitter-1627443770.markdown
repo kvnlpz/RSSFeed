@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeCoolTrader 
-date: 2021-07-27 20:42:50 
-categories: twitter 
---- 
-@alphatrends Unfortunately, people will make a judgement on the person instead of the idea because of bias and ster… https://t.co/Dm62pkUfxG

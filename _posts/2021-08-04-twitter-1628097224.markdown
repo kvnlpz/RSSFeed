@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lostcoastsurf 
-date: 2021-08-04 10:13:44 
-categories: twitter 
---- 
-@OddStockTrader If you create a problem you have the solution for it's a win/win.  Ready for the next de-programmin… https://t.co/iR6KaH0IpR

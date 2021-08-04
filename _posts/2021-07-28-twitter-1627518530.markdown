@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @johngan71279297 
-date: 2021-07-28 17:28:50 
-categories: twitter 
---- 
-@nope_its_lily Too many local minima

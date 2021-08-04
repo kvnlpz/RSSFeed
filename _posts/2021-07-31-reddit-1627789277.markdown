@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Will I lose my Vault if I uninstall Reddit mobile app ? 
-date: 2021-07-31 1627789277 
-categories: reddit 
---- 
-https://redd.it/ovl0k9

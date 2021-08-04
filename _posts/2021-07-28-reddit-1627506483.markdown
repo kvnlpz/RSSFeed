@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Deep in the money covered call on Margin 
-date: 2021-07-28 1627506483 
-categories: reddit 
---- 
-https://redd.it/otj25t

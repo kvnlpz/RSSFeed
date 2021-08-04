@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-03 16:04:41 
-categories: twitter 
---- 
-86 Miles Driven... 158 Range used.
-
-WTF

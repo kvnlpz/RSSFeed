@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If Robinhood can block GME shares, they can also create fake market orders 
-date: 2021-08-04 1628114934 
-categories: reddit 
---- 
-https://redd.it/oy3ly1

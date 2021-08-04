@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Steven1994_ 
-date: 2021-08-01 12:31:06 
-categories: twitter 
---- 
-RT @Steven1_994: Help me congratulate one of my students  "EA" who made over 200k in the last couple of months. We also had him 3rd party v…

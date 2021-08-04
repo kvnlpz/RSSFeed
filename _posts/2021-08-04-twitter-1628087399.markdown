@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-08-04 07:29:59 
-categories: twitter 
---- 
-$WHLR
-
-#MyInvestingClub https://t.co/eYL0f2j0uE

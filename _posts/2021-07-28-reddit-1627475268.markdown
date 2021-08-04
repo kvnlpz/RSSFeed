@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Eagle Project (EGL) Genesis - Community influencing of Eth gas prices (Coinlist stakedrop) 
-date: 2021-07-28 1627475268 
-categories: reddit 
---- 
-https://redd.it/ot8vti

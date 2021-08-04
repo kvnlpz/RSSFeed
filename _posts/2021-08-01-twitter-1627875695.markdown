@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 20:41:35 
-categories: twitter 
---- 
-@bennpeifert The key realization here is although you are indeed estimating over the entire set of potential routes… https://t.co/Easd0ftedH

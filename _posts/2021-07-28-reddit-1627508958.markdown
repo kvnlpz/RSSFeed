@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The European Central Bank used #Tezos in its "Digital Euro" experiment #CBDC 
-date: 2021-07-28 1627508958 
-categories: reddit 
---- 
-https://redd.it/otjvjp

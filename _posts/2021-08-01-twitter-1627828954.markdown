@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LimitlessNaShfx 
-date: 2021-08-01 07:42:34 
-categories: twitter 
---- 
-RT @timothysykes: Use weekends to study the past, review your trades, optimize your process, go through @StocksToTrade scans, retweet/favor…

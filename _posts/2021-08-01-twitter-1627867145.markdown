@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LVIsle 
-date: 2021-08-01 18:19:05 
-categories: twitter 
---- 
-@timothysykes @tradingchik Glad you commented. How does one day trade successfully and work a full time job?

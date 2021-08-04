@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Btc 
-date: 2021-08-01 1627878870 
-categories: reddit 
---- 
-https://redd.it/ow7htv

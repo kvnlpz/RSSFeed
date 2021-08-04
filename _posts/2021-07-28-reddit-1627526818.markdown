@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: crypto usage under disaster 
-date: 2021-07-28 1627526818 
-categories: reddit 
---- 
-https://redd.it/otoxev

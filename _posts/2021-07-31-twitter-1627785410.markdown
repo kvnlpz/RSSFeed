@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cjzap11 
-date: 2021-07-31 19:36:50 
-categories: twitter 
---- 
-@InvestorsLive Swings

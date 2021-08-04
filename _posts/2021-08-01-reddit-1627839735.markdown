@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This may be a silly question, please help though. 
-date: 2021-08-01 1627839735 
-categories: reddit 
---- 
-https://redd.it/ovwm4b

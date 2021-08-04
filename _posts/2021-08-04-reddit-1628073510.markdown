@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Upvotes and moons rules 
-date: 2021-08-04 1628073510 
-categories: reddit 
---- 
-https://redd.it/oxpxqu

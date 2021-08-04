@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ready for the #Ethereum #EIP1559 upgrade? 
-date: 2021-08-04 1628088316 
-categories: reddit 
---- 
-https://redd.it/oxu6ep

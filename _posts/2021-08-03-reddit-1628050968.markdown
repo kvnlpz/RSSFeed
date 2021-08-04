@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Suppose someone accidentally gains full access to a BTC wallet valued at over $1,000,000.00+ that hasn’t been touched in decades and the owner is completely unknown, what is the best way for the individual to cash out from it without drawing suspicion? 
-date: 2021-08-03 1628050968 
-categories: reddit 
---- 
-https://redd.it/oxkuez

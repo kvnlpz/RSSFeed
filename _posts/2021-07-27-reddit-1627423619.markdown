@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NIPOPOWs for interoperability 
-date: 2021-07-27 1627423619 
-categories: reddit 
---- 
-https://redd.it/oswdxo

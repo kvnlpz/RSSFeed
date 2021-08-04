@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We are a group of people who love games, and we want to create the next killer game using our state-of-the-art blockchain technology. 
-date: 2021-07-28 1627470919 
-categories: reddit 
---- 
-https://redd.it/ot7sxt

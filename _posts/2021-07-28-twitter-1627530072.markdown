@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JackFarley96 
-date: 2021-07-28 20:41:12 
-categories: twitter 
---- 
-@nope_its_lily @SoccerMomTrades agreed

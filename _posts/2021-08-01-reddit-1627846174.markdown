@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How Bitcoin Solves The Store Of Value Problem 
-date: 2021-08-01 1627846174 
-categories: reddit 
---- 
-https://redd.it/ovyl5w

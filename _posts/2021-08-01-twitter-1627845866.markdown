@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 12:24:26 
-categories: twitter 
---- 
-@ShitFund Orange County isn't actually a place, it's a state of mind

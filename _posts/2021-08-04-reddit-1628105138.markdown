@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Good strategy 
-date: 2021-08-04 1628105138 
-categories: reddit 
---- 
-https://redd.it/oy08t9

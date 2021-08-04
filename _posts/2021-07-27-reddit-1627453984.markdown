@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market cap 
-date: 2021-07-27 1627453984 
-categories: reddit 
---- 
-https://redd.it/ot4e3x

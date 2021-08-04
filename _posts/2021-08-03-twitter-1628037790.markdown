@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Pertplus1 
-date: 2021-08-03 17:43:10 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/ESmxinUfnf

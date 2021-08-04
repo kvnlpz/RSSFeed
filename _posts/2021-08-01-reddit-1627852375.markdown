@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about Pegged tokens 
-date: 2021-08-01 1627852375 
-categories: reddit 
---- 
-https://redd.it/ow0hic

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How is there a correlation between a seed phrase and the private key? 
-date: 2021-07-31 1627793059 
-categories: reddit 
---- 
-https://redd.it/ovlv3g

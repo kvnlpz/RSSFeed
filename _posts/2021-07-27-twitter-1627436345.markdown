@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 18:39:05 
-categories: twitter 
---- 
-@TensaiCapital @0xElm0 Why would you hedge especially OTM options consistently without a legal mandate to do so?

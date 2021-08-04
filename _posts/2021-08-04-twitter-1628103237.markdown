@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @great_dix 
-date: 2021-08-04 11:53:57 
-categories: twitter 
---- 
-@timothysykes All brokers suck!!!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jze68225414 
-date: 2021-07-27 22:03:42 
-categories: twitter 
---- 
-@nope_its_lily Thank you so much! 22 123 MATIC sent to my Metamask wallet @BONUSMATIC

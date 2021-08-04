@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Roadmap from the end user's perspective 
-date: 2021-08-01 1627878383 
-categories: reddit 
---- 
-https://redd.it/ow7dup

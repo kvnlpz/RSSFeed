@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin SV (BSV) suffers 51% attack. Craig Wrights baby not doing too well. 
-date: 2021-08-03 1628037468 
-categories: reddit 
---- 
-https://redd.it/oxh085

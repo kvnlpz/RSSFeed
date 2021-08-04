@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scarflessdog 
-date: 2021-08-02 00:24:42 
-categories: twitter 
---- 
-@alphatrends Even if it would take 40 generations to brute force your password. It isn't a wise idea to go running… https://t.co/e3o4pi57II

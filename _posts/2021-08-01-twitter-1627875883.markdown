@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThiccestLuigi 
-date: 2021-08-01 20:44:43 
-categories: twitter 
---- 
-@nope_its_lily i can’t wear a JPEG 😩

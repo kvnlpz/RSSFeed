@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My personal BTC trading model says buy for the first time since it said sell when BTC was at 53 k 
-date: 2021-07-28 1627484199 
-categories: reddit 
---- 
-https://redd.it/otbkd4

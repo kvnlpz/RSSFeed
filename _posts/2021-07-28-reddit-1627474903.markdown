@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $MDGS target price 120$ current price 1.69$ 
-date: 2021-07-28 1627474903 
-categories: reddit 
---- 
-https://redd.it/ot8sem

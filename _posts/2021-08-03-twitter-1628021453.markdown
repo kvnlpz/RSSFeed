@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OpulentTrader 
-date: 2021-08-03 13:10:53 
-categories: twitter 
---- 
-@InvestorsLive Dont always have to trade the HCOTD “hot chick of the day”

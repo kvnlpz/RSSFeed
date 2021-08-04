@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMD calls update from last night. 
-date: 2021-08-04 1628108321 
-categories: reddit 
---- 
-https://redd.it/oy1cl3

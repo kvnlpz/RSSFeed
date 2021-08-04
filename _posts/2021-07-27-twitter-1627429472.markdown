@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jontrades23 
-date: 2021-07-27 16:44:32 
-categories: twitter 
---- 
-@InvestorsLive @jokon888 What restaurant?

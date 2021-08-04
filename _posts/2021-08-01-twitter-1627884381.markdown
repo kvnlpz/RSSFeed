@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @minkbazink 
-date: 2021-08-01 23:06:21 
-categories: twitter 
---- 
-@nope_its_lily lmao job descriptions for these like "must know bag of words and deep learning!!1!!"

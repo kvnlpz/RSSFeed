@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How you can add a layer of security to your vault and reddit account using reddit backup codes. 
-date: 2021-08-01 1627836888 
-categories: reddit 
---- 
-https://redd.it/ovvqe2

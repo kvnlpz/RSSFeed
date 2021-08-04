@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I’m wondering if anyone knows why the market cap is zero. The qty is in the wallet, but there is no value. Thanks in advanced. I’m not worried but caught this image a bit before 9pm. 
-date: 2021-07-27 1627438119 
-categories: reddit 
---- 
-https://redd.it/ot0k8n

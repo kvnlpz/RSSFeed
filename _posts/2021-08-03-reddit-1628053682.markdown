@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CETY 
-date: 2021-08-03 1628053682 
-categories: reddit 
---- 
-https://redd.it/oxljkg

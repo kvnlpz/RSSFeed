@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G9Mejia 
-date: 2021-08-01 10:27:49 
-categories: twitter 
---- 
-@TraderTexMex You’ll get through it bud.

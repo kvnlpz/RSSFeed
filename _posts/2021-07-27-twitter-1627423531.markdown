@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stephensecking1 
-date: 2021-07-27 15:05:31 
-categories: twitter 
---- 
-@nope_its_lily Pretty as always, hope new job went well

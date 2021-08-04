@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just seen I can access the Polygon network via Trust Wallet. How does it compare to BSC for farming? 
-date: 2021-08-01 1627886693 
-categories: reddit 
---- 
-https://redd.it/ow96f9

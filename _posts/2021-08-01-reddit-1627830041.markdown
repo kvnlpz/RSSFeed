@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let's do Wednesday 
-date: 2021-08-01 1627830041 
-categories: reddit 
---- 
-https://redd.it/ovtn37

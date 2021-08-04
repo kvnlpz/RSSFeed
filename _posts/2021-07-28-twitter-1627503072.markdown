@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TotalErrHead 
-date: 2021-07-28 13:11:12 
-categories: twitter 
---- 
-@InvestorsLive This is the ticker that just keeps on giving this week. Buy. Rinse. Repeat.

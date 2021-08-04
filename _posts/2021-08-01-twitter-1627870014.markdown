@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imaasac 
-date: 2021-08-01 19:06:54 
-categories: twitter 
---- 
-@alphatrends Which is why the websites asks to enter captcha after a few tries.

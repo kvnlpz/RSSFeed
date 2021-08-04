@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @QuantUnusual 
-date: 2021-07-28 00:28:31 
-categories: twitter 
---- 
-@timothysykes feel like a mechanic fine tuning his car before the race...

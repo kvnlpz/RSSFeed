@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IvanRod41002213 
-date: 2021-08-01 11:00:06 
-categories: twitter 
---- 
-RT @offshorehunters: Weekend Swing List https://t.co/lmSYAw1tk4 @InvestorsLive

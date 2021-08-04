@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA: When checking if a project is legit, check the "owners" linked sites. Most of the time they are fake. 
-date: 2021-08-02 1627903076 
-categories: reddit 
---- 
-https://redd.it/owceg9

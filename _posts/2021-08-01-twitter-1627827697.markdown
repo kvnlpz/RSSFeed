@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelArnaldi 
-date: 2021-08-01 07:21:37 
-categories: twitter 
---- 
-@nope_its_lily In your sleep, your mind processes a lot of data. I would be more worried about a prediction made while being awake.

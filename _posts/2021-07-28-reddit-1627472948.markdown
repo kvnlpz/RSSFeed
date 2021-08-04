@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Move ETH from coinbase to crypto.com ? 
-date: 2021-07-28 1627472948 
-categories: reddit 
---- 
-https://redd.it/ot8ale

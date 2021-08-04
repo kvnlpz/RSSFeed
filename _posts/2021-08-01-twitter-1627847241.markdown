@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheCloudSaint 
-date: 2021-08-01 12:47:21 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/c3ZORe7txB

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SourcerKelly 
-date: 2021-08-02 04:04:32 
-categories: twitter 
---- 
-RT @modern_rock: $ACOR nailed the process
-
-#MyInvestingClub https://t.co/uKTbbC2iwk

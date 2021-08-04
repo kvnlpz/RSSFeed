@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brightmudumo 
-date: 2021-07-31 18:16:43 
-categories: twitter 
---- 
-@timothysykes @karmagawa Well Done Coach!

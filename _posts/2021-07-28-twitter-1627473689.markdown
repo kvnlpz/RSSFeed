@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gilberto_TFC 
-date: 2021-07-28 05:01:29 
-categories: twitter 
---- 
-@InvestorsLive Hope you add something about this on futures videos

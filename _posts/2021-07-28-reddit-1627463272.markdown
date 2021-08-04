@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Consider keeping your sats safe on a Bitcoin only Coldcard 
-date: 2021-07-28 1627463272 
-categories: reddit 
---- 
-https://redd.it/ot67vl

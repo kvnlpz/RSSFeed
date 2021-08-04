@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ExSan_com 
-date: 2021-07-27 23:45:55 
-categories: twitter 
---- 
-RT @nope_its_lily: Will probably pop my reverse calendar straddle swap again + VIX calls + some short delta at close.

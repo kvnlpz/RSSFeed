@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeffdafo 
-date: 2021-07-28 17:27:39 
-categories: twitter 
---- 
-@nope_its_lily I can use this 3 line lib routine that runs in .003 ms or I can roll my own 5k-line method that runs in .001 ms.

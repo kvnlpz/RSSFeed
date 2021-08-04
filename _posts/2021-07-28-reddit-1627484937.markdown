@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How Bitcoin may become a DeFi powerhouse 
-date: 2021-07-28 1627484937 
-categories: reddit 
---- 
-https://redd.it/otaea0

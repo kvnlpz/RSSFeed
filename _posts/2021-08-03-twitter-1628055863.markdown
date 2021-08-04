@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TorstenLangner 
-date: 2021-08-03 22:44:23 
-categories: twitter 
---- 
-@alphatrends There’s this limit at 368… https://t.co/yDPqALIpgR

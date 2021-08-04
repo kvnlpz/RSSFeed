@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheNOPEScalper 
-date: 2021-08-01 08:41:28 
-categories: twitter 
---- 
-@nope_its_lily 2) about Beijing's regulatory actions.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Calculating Appropriate BPU for Futures Strangles 
-date: 2021-08-01 1627853115 
-categories: reddit 
---- 
-https://redd.it/ow0pef

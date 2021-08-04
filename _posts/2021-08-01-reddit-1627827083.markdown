@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: World’s first 100% online university accepts Bitcoin 
-date: 2021-08-01 1627827083 
-categories: reddit 
---- 
-https://redd.it/ovst32

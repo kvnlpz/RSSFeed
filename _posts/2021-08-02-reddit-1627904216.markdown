@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sending BTC from a bitcoin.com wallet. "Invalid address". 
-date: 2021-08-02 1627904216 
-categories: reddit 
---- 
-https://redd.it/owcnrb

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezos and Solana 
-date: 2021-08-01 1627836374 
-categories: reddit 
---- 
-https://redd.it/ovvksj

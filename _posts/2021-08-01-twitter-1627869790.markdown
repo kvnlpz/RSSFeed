@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @humbletwig 
-date: 2021-08-01 19:03:10 
-categories: twitter 
---- 
-@alphatrends + 2 factor authentication

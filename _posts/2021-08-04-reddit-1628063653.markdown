@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help 
-date: 2021-08-04 1628063653 
-categories: reddit 
---- 
-https://redd.it/oxnrnj

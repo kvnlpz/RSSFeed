@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 20:47:02 
-categories: twitter 
---- 
-@nosouthwest @bennpeifert eh this is correct but it's not what he's trying to demonstrate, in my example I just ass… https://t.co/2enKtnt3Ea

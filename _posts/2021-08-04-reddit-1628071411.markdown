@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Website to see how DCA strategy has done with bitcoin in the past 
-date: 2021-08-04 1628071411 
-categories: reddit 
---- 
-https://redd.it/oxpg9a

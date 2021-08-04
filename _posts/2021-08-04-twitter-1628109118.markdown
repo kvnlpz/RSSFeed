@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @twittmypants 
-date: 2021-08-04 13:31:58 
-categories: twitter 
---- 
-RT @InvestorsLive: Are they selling $AMC to buy $HOOD?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EpacrisFormosa 
-date: 2021-08-03 17:53:30 
-categories: twitter 
---- 
-RT @nope_its_lily: The person who figures out how to properly and abstractly structure unstructured data will make quite a lot of money.

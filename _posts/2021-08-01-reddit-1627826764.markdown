@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What got you into Bitcoin 
-date: 2021-08-01 1627826764 
-categories: reddit 
---- 
-https://redd.it/ovsppb

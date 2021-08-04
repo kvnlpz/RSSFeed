@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: WARNING! Possible TrustWallet Scam - external website requesting paraphrase. 
-date: 2021-08-01 1627868948 
-categories: reddit 
---- 
-https://redd.it/ow52ey

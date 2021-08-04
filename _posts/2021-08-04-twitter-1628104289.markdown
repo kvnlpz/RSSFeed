@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-04 12:11:29 
-categories: twitter 
---- 
-RT @Hercules_Trader: Time will come, Small-Caps still getting hammered.... Relentless downward pressure on most with all flow in large-caps…

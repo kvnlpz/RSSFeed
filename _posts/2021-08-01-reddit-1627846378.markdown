@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mirqur.io DEX on the Cardano Hotel Podcast 
-date: 2021-08-01 1627846378 
-categories: reddit 
---- 
-https://redd.it/ovynbq

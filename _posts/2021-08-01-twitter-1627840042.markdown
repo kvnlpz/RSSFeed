@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JamieLa97446486 
-date: 2021-08-01 10:47:22 
-categories: twitter 
---- 
-RT @zeynep: Every piece of data from real-life shows the vaccines work very, very well— yes, even against Delta. Just checked US vaccine br…

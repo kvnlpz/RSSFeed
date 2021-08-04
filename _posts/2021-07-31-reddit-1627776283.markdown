@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: More than 17.15M ADA is delegated to retired pools. 
-date: 2021-07-31 1627776283 
-categories: reddit 
---- 
-https://redd.it/ovhxkh

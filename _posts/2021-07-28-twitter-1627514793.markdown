@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DanBlak16516327 
-date: 2021-07-28 16:26:33 
-categories: twitter 
---- 
-@timothysykes @tenmike Thanks Tim

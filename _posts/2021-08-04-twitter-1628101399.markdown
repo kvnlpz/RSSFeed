@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-04 11:23:19 
-categories: twitter 
---- 
-Just an FYI - popular name: $MRNA is set to report second quarter fiscal 2021 earnings results before the opening bell Thursday.

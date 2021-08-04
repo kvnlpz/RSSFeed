@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimCanadaTrades 
-date: 2021-07-28 05:07:11 
-categories: twitter 
---- 
-@InvestorsLive Haha. Nice !

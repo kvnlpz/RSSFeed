@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin analysis update 
-date: 2021-08-01 1627813010 
-categories: reddit 
---- 
-https://redd.it/ovpo06

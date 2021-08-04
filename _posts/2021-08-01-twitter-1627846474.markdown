@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 12:34:34 
-categories: twitter 
---- 
-I do tho remember the real estate gold rush of Second Life which did not end well

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-04 14:18:44 
-categories: twitter 
---- 
-@free_cat1899 I think its important to look at the time stamps.

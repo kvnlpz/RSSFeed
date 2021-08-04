@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RsStonk 
-date: 2021-08-03 13:16:12 
-categories: twitter 
---- 
-@thehonestcroock @RemindMe_OfThis in 3 months

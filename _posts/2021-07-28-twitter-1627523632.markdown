@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stockqwiz 
-date: 2021-07-28 18:53:52 
-categories: twitter 
---- 
-RT @nope_its_lily: yes the secret to ML is simply to do grid search

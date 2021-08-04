@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about continued staking with nano x and Yoroi. 
-date: 2021-07-31 1627781061 
-categories: reddit 
---- 
-https://redd.it/ovj3vy

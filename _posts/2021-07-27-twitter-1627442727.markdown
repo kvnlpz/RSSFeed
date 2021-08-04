@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cvarley1734 
-date: 2021-07-27 20:25:27 
-categories: twitter 
---- 
-RT @alphatrends: What is your view on anonymous twitter accounts

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: like it? 
-date: 2021-08-01 1627837481 
-categories: reddit 
---- 
-https://redd.it/ovvx9b

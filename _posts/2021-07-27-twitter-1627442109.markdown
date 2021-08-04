@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alexanderjguy 
-date: 2021-07-27 20:15:09 
-categories: twitter 
---- 
-@alphatrends Wise.   Trade what you know, and have the probability in your favor.

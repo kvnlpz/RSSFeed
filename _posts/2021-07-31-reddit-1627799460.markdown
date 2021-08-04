@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fractional shares of bitcoin vs a Full bitcoin 
-date: 2021-07-31 1627799460 
-categories: reddit 
---- 
-https://redd.it/ovn6tx

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @G_krupins 
-date: 2021-08-03 16:54:19 
-categories: twitter 
---- 
-$SLX still liking steel names https://t.co/D11MW3eLIl

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StrizziJ 
-date: 2021-08-03 11:59:45 
-categories: twitter 
---- 
-@nope_its_lily I posted it cause I know you sold 4410.

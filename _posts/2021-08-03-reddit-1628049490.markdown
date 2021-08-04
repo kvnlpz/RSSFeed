@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The actual first-ever Bitcoin post on Reddit. From May 2009, only 4 months after Satoshi Nakamoto released the Bitcoin software. 
-date: 2021-08-03 1628049490 
-categories: reddit 
---- 
-https://redd.it/oxkg7q

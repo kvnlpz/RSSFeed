@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @QuentinDunbar 
-date: 2021-08-04 11:28:33 
-categories: twitter 
---- 
-@timothysykes People who live in a false reality of “always” happiness are just as dangerous and toxic.

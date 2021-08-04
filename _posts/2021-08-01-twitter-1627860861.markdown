@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bennnn86 
-date: 2021-08-01 16:34:21 
-categories: twitter 
---- 
-RT @OddStockTrader: Pure Insanity

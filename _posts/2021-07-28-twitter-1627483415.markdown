@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-28 07:43:35 
-categories: twitter 
---- 
-RT @SpartanTrading: $QUBT Flag on daily here, watching for next leg up

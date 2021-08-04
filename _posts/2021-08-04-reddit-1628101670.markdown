@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: To anyone new or interested, this is a great guide on the Ergo blockchain and where it's headed! 
-date: 2021-08-04 1628101670 
-categories: reddit 
---- 
-https://redd.it/oxyzur

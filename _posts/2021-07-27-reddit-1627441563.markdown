@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm willing to bet that in 1 year, the total value of BTC on the lightning network (in USD) is past the total market cap of Nano. Explanation inside. 
-date: 2021-07-27 1627441563 
-categories: reddit 
---- 
-https://redd.it/ot1h2q

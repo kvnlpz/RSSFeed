@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @golfsohard 
-date: 2021-07-28 20:15:22 
-categories: twitter 
---- 
-@G_krupins $NUE looks pretty good to me as well

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gpurcell 
-date: 2021-08-01 13:51:42 
-categories: twitter 
---- 
-@nope_its_lily Someday I want to get hired to teach a grad class on data analysis with operational data, send the k… https://t.co/r0jpGNUENA

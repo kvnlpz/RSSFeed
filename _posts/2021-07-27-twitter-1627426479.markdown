@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @warren_roddy 
-date: 2021-07-27 15:54:39 
-categories: twitter 
---- 
-@nope_its_lily Bloody do-gooder.

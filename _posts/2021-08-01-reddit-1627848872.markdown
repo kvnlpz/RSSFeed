@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Favorite charting platform and indicators 
-date: 2021-08-01 1627848872 
-categories: reddit 
---- 
-https://redd.it/ovzeg8

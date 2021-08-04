@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question regarding 'buy to close' 
-date: 2021-08-04 1628073956 
-categories: reddit 
---- 
-https://redd.it/oxq1ha

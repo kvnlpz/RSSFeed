@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StackThatMoola 
-date: 2021-07-28 11:50:29 
-categories: twitter 
---- 
-@timothysykes @Jackaroo_Trades Might I ask what is he's winning percentage?

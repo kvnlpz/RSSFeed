@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thinking of building a no-risk trading algorithm and need advice.. 
-date: 2021-08-04 1628083151 
-categories: reddit 
---- 
-https://redd.it/oxsii8

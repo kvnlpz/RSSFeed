@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LASurfreport 
-date: 2021-07-28 15:42:33 
-categories: twitter 
---- 
-@InvestorsLive This market has been off the charts ! On the charts ! Lol

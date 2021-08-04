@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EY creates blockchain solution to global tax challenge 
-date: 2021-07-29 1627581264 
-categories: reddit 
---- 
-https://redd.it/ou2jvl

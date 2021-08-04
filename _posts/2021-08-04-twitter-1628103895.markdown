@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SeltzerCatClub 
-date: 2021-08-04 12:04:55 
-categories: twitter 
---- 
-@InvestorsLive I use fidelity and there hasn't been any shares available to short since day 1

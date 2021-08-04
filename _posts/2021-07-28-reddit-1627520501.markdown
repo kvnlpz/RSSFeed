@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Downvote bots are creating a severe distribution gap. 
-date: 2021-07-28 1627520501 
-categories: reddit 
---- 
-https://redd.it/otn8q7

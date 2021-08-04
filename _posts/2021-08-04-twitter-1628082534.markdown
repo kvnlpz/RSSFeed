@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @benmezrich 
-date: 2021-08-04 06:08:54 
-categories: twitter 
---- 
-@alphatrends Thank you! Was a blast to write

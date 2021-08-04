@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WSB_Degenerate 
-date: 2021-07-28 17:42:33 
-categories: twitter 
---- 
-@alphatrends stoked to hear about it at the @FinTwitConf

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 09:16:42 
-categories: twitter 
---- 
-@bennpeifert If your financial advisor has not mentioned niche long vol strategies, fire them

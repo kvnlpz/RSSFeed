@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yesterday we had a BTC daily candle of 5.2% with hundreds of posts cheering the pump, today we closed the daily candle 6% up and no post was created 
-date: 2021-07-27 1627430936 
-categories: reddit 
---- 
-https://redd.it/osylbp

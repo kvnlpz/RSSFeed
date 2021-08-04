@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase Card - A prepaid debit card 
-date: 2021-07-28 1627532568 
-categories: reddit 
---- 
-https://redd.it/otqco6

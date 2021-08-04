@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 15:28:13 
-categories: twitter 
---- 
-@SamPowerful1 actually? yes

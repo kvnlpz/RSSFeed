@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Timul20 
-date: 2021-07-28 08:20:03 
-categories: twitter 
---- 
-@nope_its_lily This is my wife.  I have to clean it for her.

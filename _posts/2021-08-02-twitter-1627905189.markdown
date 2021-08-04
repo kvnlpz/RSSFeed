@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VolatileOptions 
-date: 2021-08-02 04:53:09 
-categories: twitter 
---- 
-@timothysykes If you’re so transparent, can you show us your tax returns for 2020 so we can see if you make more mo… https://t.co/aUNcdYLzY3

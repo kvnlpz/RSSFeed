@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just another day in sh!tcoin land! 
-date: 2021-08-01 1627876347 
-categories: reddit 
---- 
-https://redd.it/ow6w15

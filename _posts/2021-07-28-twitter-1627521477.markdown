@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sol_saturn 
-date: 2021-07-28 18:17:57 
-categories: twitter 
---- 
-@nope_its_lily my models are higher dimensional because they intersect with the astral plane

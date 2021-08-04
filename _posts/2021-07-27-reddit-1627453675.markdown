@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stack Overflow is a great match for the BAT rewards project. 
-date: 2021-07-27 1627453675 
-categories: reddit 
---- 
-https://redd.it/ot4c0q

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yup 
-date: 2021-08-04 1628064076 
-categories: reddit 
---- 
-https://redd.it/oxnv1m

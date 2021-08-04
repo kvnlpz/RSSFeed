@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mikey3sandoval 
-date: 2021-07-28 13:40:30 
-categories: twitter 
---- 
-@InvestorsLive Akita?

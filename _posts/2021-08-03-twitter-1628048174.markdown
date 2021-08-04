@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @degen_julian 
-date: 2021-08-03 20:36:14 
-categories: twitter 
---- 
-RT @nope_its_lily: i'm a true fan of jupyter-lab and my top 3 albums are Untitled.ipynb, Untitled-1.ipynb, and Untitled-2.ipynb

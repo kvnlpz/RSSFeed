@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 15:34:04 
-categories: twitter 
---- 
-@AlphaKetchum yeah thanks for noticing my wicked gains

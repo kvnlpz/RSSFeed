@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Virtual Land On Cardano 
-date: 2021-07-27 1627441307 
-categories: reddit 
---- 
-https://redd.it/ot1elq

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-28 19:22:33 
-categories: twitter 
---- 
-@rosskennedy Any unusual breeding?

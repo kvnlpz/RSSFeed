@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 18:23:08 
-categories: twitter 
---- 
-Keep your val set clean? Wtf this guy is giving away all the industry secrets
-just do k-fold validation but let k=1

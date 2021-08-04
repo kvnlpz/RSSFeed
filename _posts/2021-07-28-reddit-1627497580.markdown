@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A look at Aave’s plan to build a protocol for decentralized social media 
-date: 2021-07-28 1627497580 
-categories: reddit 
---- 
-https://redd.it/otg3qw

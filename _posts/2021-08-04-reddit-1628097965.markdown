@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Setting up 2FA for your Reddit Vault 
-date: 2021-08-04 1628097965 
-categories: reddit 
---- 
-https://redd.it/oxxn1d

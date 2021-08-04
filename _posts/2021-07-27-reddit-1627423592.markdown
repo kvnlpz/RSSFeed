@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stephen Wolfram minting NFTs on Cardano 
-date: 2021-07-27 1627423592 
-categories: reddit 
---- 
-https://redd.it/oswdmk

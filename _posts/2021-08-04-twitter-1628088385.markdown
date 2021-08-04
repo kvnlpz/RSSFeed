@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @slicktinez 
-date: 2021-08-04 07:46:25 
-categories: twitter 
---- 
-RT @modern_rock: Go outside your comfort zone to expand your boundaries and go to new limits you never thought you could! https://t.co/8Rgw…

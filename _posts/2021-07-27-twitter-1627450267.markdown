@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @petershk 
-date: 2021-07-27 22:31:07 
-categories: twitter 
---- 
-@nope_its_lily Eh. I'm married, old and, most importantly, too lazy. I'll just read more Twitter instead :)

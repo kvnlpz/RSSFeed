@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A quick clarification about wallets 
-date: 2021-08-03 1628047081 
-categories: reddit 
---- 
-https://redd.it/oxjski

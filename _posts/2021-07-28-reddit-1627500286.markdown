@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking help! ADA, shelley-era, epochs, and pools?! 
-date: 2021-07-28 1627500286 
-categories: reddit 
---- 
-https://redd.it/otgzzt

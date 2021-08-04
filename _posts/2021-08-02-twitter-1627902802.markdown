@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AaronOfYarmouth 
-date: 2021-08-02 04:13:22 
-categories: twitter 
---- 
-@OddStockTrader Power to the people.

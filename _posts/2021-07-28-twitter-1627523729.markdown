@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ScottTotally 
-date: 2021-07-28 18:55:29 
-categories: twitter 
---- 
-@nope_its_lily Isn't that ROC?

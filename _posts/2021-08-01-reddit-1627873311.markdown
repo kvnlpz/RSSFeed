@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I make my own cryptocurrency? 
-date: 2021-08-01 1627873311 
-categories: reddit 
---- 
-https://redd.it/ow65q8

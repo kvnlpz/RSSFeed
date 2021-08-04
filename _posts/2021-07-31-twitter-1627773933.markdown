@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @illumined1 
-date: 2021-07-31 16:25:33 
-categories: twitter 
---- 
-@alphatrends @stageanalysis Thanks, Brian!!!

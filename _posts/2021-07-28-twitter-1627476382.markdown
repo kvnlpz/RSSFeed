@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaycee393 
-date: 2021-07-28 05:46:22 
-categories: twitter 
---- 
-@nope_its_lily *checks Bitcoin* lol https://t.co/534vZwS6zW

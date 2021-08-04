@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @STW28993215 
-date: 2021-08-01 15:36:48 
-categories: twitter 
---- 
-RT @InvestorsLive: It all comes down to planning... https://t.co/DKaFwCtYrR

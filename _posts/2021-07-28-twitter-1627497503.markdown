@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoCobain 
-date: 2021-07-28 11:38:23 
-categories: twitter 
---- 
-@nope_its_lily @thebeitrun @nic__carter Lmao

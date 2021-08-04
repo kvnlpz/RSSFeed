@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Now seriously: How can we stop these Downvoting bots? What could be done from a technical point of view to make the voting system here more efficient? Would disabling the downvote option be a valid solution? 
-date: 2021-08-01 1627847324 
-categories: reddit 
---- 
-https://redd.it/ovyxi3

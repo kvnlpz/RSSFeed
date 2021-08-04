@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best way to find dev projects related to bitcoin? 
-date: 2021-07-28 1627471156 
-categories: reddit 
---- 
-https://redd.it/ot7uxi

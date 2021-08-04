@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-28 19:44:21 
-categories: twitter 
---- 
-@ToddSullivan @FinTwitConf it will be the first one, but I think it is going to be great!

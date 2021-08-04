@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 18:40:40 
-categories: twitter 
---- 
-@longskew @TensaiCapital @0xElm0 Are they even hedging it properly according to inverse options?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @karan_taral 
-date: 2021-08-01 21:40:22 
-categories: twitter 
---- 
-@alphatrends https://t.co/iwwmXDlmaB

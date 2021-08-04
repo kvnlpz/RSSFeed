@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a way to see a history of your delegation rewards? 
-date: 2021-08-01 1627817290 
-categories: reddit 
---- 
-https://redd.it/ovq8ur

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hungry_cap 
-date: 2021-07-28 21:53:40 
-categories: twitter 
---- 
-@muddywatersre "Breaking"

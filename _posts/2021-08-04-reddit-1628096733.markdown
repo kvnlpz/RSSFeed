@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why aren't there more companies building on top of BTC that issue tokens for capital formation? I'm assuming smart contracts are possible on BTC (are they already?) 
-date: 2021-08-04 1628096733 
-categories: reddit 
---- 
-https://redd.it/oxx6vd

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @btc_prime1 
-date: 2021-08-01 18:53:25 
-categories: twitter 
---- 
-@alphatrends 15B years. Well. Thats good. I am safe.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Tech9inja 
-date: 2021-08-01 07:16:23 
-categories: twitter 
---- 
-@InvestorsLive @swedepilot Is it ur backyard Nate?

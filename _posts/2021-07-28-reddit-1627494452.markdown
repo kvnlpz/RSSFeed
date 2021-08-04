@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Polkadot Future 
-date: 2021-07-28 1627494452 
-categories: reddit 
---- 
-https://redd.it/otf1g3

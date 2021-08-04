@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @IsaacHasDuckies 
-date: 2021-07-28 17:49:24 
-categories: twitter 
---- 
-@nope_its_lily If using a browser, you can:
-1) right click on video and inspect element
-2) look up the properties f… https://t.co/RyhrcGCtb3

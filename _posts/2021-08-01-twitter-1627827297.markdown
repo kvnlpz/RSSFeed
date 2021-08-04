@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Doctabones 
-date: 2021-08-01 07:14:57 
-categories: twitter 
---- 
-@nope_its_lily You had me at crash

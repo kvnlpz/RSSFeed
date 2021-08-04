@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sqrt1729 
-date: 2021-08-04 07:32:37 
-categories: twitter 
---- 
-@InvestorsLive New meme stock $AMD

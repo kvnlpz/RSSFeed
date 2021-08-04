@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nice. 
-date: 2021-08-04 1628089851 
-categories: reddit 
---- 
-https://redd.it/oxupsy

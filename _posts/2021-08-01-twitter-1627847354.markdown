@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Steven1994_ 
-date: 2021-08-01 12:49:14 
-categories: twitter 
---- 
-RT @Steven1_994: one of the best moments in my life https://t.co/KqORl22pUJ

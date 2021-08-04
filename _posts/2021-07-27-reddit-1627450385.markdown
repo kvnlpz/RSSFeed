@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a place to see how many moons were earned instead of how many you have? 
-date: 2021-07-27 1627450385 
-categories: reddit 
---- 
-https://redd.it/ot3n9e

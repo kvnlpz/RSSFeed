@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Triptych MultiSig Update - Initial Technical Write-up Draft 
-date: 2021-07-28 1627505833 
-categories: reddit 
---- 
-https://redd.it/otiucj

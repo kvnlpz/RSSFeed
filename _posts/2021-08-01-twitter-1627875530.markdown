@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 20:38:50 
-categories: twitter 
---- 
-@bennpeifert It's probably a term like s^2/sqrt(n) to correct it but meh it's 9 PM

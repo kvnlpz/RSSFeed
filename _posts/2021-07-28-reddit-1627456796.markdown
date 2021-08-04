@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Maximizing Staking Rewards with Interest Compounding (ALGO Example) 
-date: 2021-07-28 1627456796 
-categories: reddit 
---- 
-https://redd.it/ot2t0d

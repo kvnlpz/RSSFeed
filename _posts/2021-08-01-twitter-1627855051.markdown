@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheGameIsMine77 
-date: 2021-08-01 14:57:31 
-categories: twitter 
---- 
-@InvestorsLive Awesome

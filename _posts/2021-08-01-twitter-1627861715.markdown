@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0x_3b 
-date: 2021-08-01 16:48:35 
-categories: twitter 
---- 
-@nope_its_lily My bet- It’ll slide to 35k and stabilize until around September while ETH pumps and leads alt szn

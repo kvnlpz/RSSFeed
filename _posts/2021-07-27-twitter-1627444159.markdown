@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @narmacnetworth 
-date: 2021-07-27 20:49:19 
-categories: twitter 
---- 
-@nope_its_lily @sanntrades https://t.co/NeLsvt9a4X

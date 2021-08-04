@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1deadmanx 
-date: 2021-07-28 13:24:39 
-categories: twitter 
---- 
-RT @InvestorsLive: $INFI over $2.50s 👇 https://t.co/Q95j7HD6Im

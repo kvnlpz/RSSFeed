@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptobearer 
-date: 2021-07-28 15:43:46 
-categories: twitter 
---- 
-@InvestorsLive Make 40%, give back 60.

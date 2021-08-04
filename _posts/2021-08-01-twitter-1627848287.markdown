@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dnscollective 
-date: 2021-08-01 13:04:47 
-categories: twitter 
---- 
-@nope_its_lily The hardest part is rotating them in your head to put them on.

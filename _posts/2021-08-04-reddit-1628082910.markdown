@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Defining Decentralized Governance and the Multitude of Different Models 
-date: 2021-08-04 1628082910 
-categories: reddit 
---- 
-https://redd.it/oxsg10

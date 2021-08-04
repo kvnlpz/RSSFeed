@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @currychickennn 
-date: 2021-07-28 15:42:16 
-categories: twitter 
---- 
-@InvestorsLive Great opp for some puts!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TIL that although you pay taxes on the money you put into a self directed IRA, the investment earnings in the account are tax-free, even for ADA 
-date: 2021-07-28 1627469399 
-categories: reddit 
---- 
-https://redd.it/ot7gqx

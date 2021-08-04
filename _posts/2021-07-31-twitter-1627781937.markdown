@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EsportsDealer 
-date: 2021-07-31 18:38:57 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/5jP0TGzwef

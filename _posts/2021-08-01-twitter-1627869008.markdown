@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Tech9inja 
-date: 2021-08-01 18:50:08 
-categories: twitter 
---- 
-@InvestorsLive @swedepilot Beautiful NH!! Pack monadnock today https://t.co/NsR3NFdJ7G

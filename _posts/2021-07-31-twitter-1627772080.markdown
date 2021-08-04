@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Michael70023702 
-date: 2021-07-31 15:54:40 
-categories: twitter 
---- 
-@timothysykes Watching your volatility survival guide. Lots of valuable info in there. Thanks Tim

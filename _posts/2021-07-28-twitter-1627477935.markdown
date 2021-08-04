@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brick_mayer 
-date: 2021-07-28 06:12:15 
-categories: twitter 
---- 
-RT @alphatrends: I have said it often over the years, you just cannot trust China stocks, they trade like unprofitable biotechs
-
-Knowing wh…

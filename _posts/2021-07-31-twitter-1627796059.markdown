@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sensye606 
-date: 2021-07-31 22:34:19 
-categories: twitter 
---- 
-@timothysykes @karmagawa Why name  karmagawa

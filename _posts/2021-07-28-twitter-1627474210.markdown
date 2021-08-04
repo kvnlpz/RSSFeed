@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jack_mf_smith 
-date: 2021-07-28 05:10:10 
-categories: twitter 
---- 
-@modern_rock You want me to answer that honestly?

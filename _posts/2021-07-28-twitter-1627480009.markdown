@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @unusual_whales 
-date: 2021-07-28 06:46:49 
-categories: twitter 
---- 
-@muddywatersre Thanks for sharing @muddywatersre as always. Appreciate that a lot!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-28 06:43:52 
-categories: twitter 
---- 
-@JonahLupton @MarketSmith good feedback, thanks Jonah

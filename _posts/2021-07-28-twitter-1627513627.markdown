@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptobearer 
-date: 2021-07-28 16:07:07 
-categories: twitter 
---- 
-@InvestorsLive Saxobank podcasts, 20% youtube

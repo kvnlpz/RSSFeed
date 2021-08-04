@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chinafinrisk 
-date: 2021-07-28 11:11:40 
-categories: twitter 
---- 
-RT @muddywatersre: The real business model of course was being public. cc: @GrapefruitGals

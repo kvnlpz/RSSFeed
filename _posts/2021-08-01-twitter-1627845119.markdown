@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KyleQuick17 
-date: 2021-08-01 12:11:59 
-categories: twitter 
---- 
-RT @InvestorsLive: Pay attention to the setup 📈📉 https://t.co/R7u7Ms3511

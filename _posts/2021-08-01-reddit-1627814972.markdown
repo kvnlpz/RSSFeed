@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are CBDCs a threat to Bitcoin 
-date: 2021-08-01 1627814972 
-categories: reddit 
---- 
-https://redd.it/ovq0pi

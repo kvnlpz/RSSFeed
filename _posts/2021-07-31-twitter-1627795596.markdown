@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-31 22:26:36 
-categories: twitter 
---- 
-@rleshner @tarunchitra @ProtonMail no way i'm also tarun.chitra@protonmail.com

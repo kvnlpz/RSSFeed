@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TC_NorthStar15 
-date: 2021-07-28 12:02:14 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ Does this course cover entry techniques or will that be a future course?

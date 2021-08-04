@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConejoCapital 
-date: 2021-08-01 15:27:09 
-categories: twitter 
---- 
-@nope_its_lily The bunny account and The Lily Account already outperforming this month LFG

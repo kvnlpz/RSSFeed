@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cpproaudio 
-date: 2021-07-27 16:50:26 
-categories: twitter 
---- 
-@InvestorsLive Glad I didn’t take that certain swing alert 😬

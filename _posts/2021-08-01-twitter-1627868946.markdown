@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @joeacejr 
-date: 2021-08-01 18:49:06 
-categories: twitter 
---- 
-@alphatrends I use to be in the red but @1Password has helped put me in the green

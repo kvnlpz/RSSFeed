@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @UOAMarkets 
-date: 2021-08-04 05:26:43 
-categories: twitter 
---- 
-RT @alphatrends: good reminders https://t.co/38zqKbJvWW

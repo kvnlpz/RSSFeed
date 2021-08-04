@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $1 BILLION Worth of BTC from Coinbase 
-date: 2021-07-28 1627488068 
-categories: reddit 
---- 
-https://redd.it/otcva8

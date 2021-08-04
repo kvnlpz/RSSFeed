@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wei Dai, Cypherpunk cited in Bitcoin White Paper: "There has never been a government that didn’t try to reduce the freedom of its subjects and gain more control. Therefore, instead of trying to convince governments, we’ll develop technology to make it impossible for the government to succeed." 
-date: 2021-08-01 1627846716 
-categories: reddit 
---- 
-https://redd.it/ovyqxf

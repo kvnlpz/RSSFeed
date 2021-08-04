@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goldensteaks 
-date: 2021-07-28 08:03:09 
-categories: twitter 
---- 
-@nope_its_lily bedroom is prolly a pit https://t.co/obRE3He88L

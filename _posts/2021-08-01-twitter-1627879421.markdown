@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Shivpushp_Invt 
-date: 2021-08-01 21:43:41 
-categories: twitter 
---- 
-@alphatrends If i set  my password in green zone then i have to ask hacker for help.

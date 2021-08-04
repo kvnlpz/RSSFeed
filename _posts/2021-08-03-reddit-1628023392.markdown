@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Atom underperforming * 
-date: 2021-08-03 1628023392 
-categories: reddit 
---- 
-https://redd.it/oxcgni

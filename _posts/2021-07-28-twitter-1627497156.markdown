@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jordan_Thorburn 
-date: 2021-07-28 11:32:36 
-categories: twitter 
---- 
-RT @OddStockTrader: $DROP first filings in a while out.

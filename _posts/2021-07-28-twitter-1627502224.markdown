@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @techgnostic 
-date: 2021-07-28 12:57:04 
-categories: twitter 
---- 
-@alphatrends no problem! Thanks for responding.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: US companies announce plans for nuclear-powered bitcoin mine 
-date: 2021-08-04 1628092740 
-categories: reddit 
---- 
-https://redd.it/oxvq9v

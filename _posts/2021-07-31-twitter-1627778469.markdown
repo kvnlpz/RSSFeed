@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shntzl 
-date: 2021-07-31 17:41:09 
-categories: twitter 
---- 
-@nope_its_lily My fat gut is beautiful in my world

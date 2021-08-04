@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: HIMX is the next AMD 
-date: 2021-08-04 1628108438 
-categories: reddit 
---- 
-https://redd.it/oy1e2y

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SWIFT Go is just a marginal improvement on top of an outdated and obsolete infrastructure. 
-date: 2021-07-28 1627467869 
-categories: reddit 
---- 
-https://redd.it/ot756d

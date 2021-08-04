@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 20:40:54 
-categories: twitter 
---- 
-@sanntrades @narmacnetworth wait fuck really
-hello

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @luke_tada 
-date: 2021-08-04 08:57:15 
-categories: twitter 
---- 
-@OddStockTrader Way more. I live out here and people are still watering their lawns at 2 pm thinking we got plenty of water

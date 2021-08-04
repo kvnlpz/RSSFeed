@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CarhillGavin 
-date: 2021-08-01 02:08:54 
-categories: twitter 
---- 
-RT @InvestorsLive: That thing just cuts - inaugural run. https://t.co/J6QATnTIVM

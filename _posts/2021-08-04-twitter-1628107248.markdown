@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HoreshYosef 
-date: 2021-08-04 13:00:48 
-categories: twitter 
---- 
-@InvestorsLive It’s not sure

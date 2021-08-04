@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-28 13:34:29 
-categories: twitter 
---- 
-@Jaredscheff14 @TraderLion_ Yes everything is recorded

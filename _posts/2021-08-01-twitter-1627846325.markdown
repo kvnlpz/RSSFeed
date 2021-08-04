@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Steven1994_ 
-date: 2021-08-01 12:32:05 
-categories: twitter 
---- 
-RT @Steven1_994: Latest trades recap posted! Check out the trades that made most of my $1.1M June profit here: https://t.co/dtHbeOrzm6

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BalarezoCapital 
-date: 2021-07-27 19:02:34 
-categories: twitter 
---- 
-@RayTL_ What platform/website do you use to track this rotation, Ray?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_xbt1 
-date: 2021-08-01 19:22:43 
-categories: twitter 
---- 
-@InvestorsLive Nice place,  Was there few days ago, near the Goodhue boat company.

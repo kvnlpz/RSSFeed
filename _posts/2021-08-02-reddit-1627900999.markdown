@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should we be sceptical about crypto lending platforms like Celsius? 
-date: 2021-08-02 1627900999 
-categories: reddit 
---- 
-https://redd.it/owby24

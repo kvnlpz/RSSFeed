@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Litecoin Becomes Latest Payment Option Added to BitPay 
-date: 2021-08-01 1627856882 
-categories: reddit 
---- 
-https://redd.it/ow1u3p

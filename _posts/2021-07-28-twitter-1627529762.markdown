@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @narmacnetworth 
-date: 2021-07-28 20:36:02 
-categories: twitter 
---- 
-@nope_its_lily @SoccerMomTrades With lily on this one

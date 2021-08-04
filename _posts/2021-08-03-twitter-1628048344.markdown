@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eltotsire 
-date: 2021-08-03 20:39:04 
-categories: twitter 
---- 
-@nope_its_lily my collection is a bit more extensive https://t.co/a7Rs1103OF

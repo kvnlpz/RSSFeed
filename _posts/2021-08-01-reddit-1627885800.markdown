@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How Bitcoin is mined in Australia 
-date: 2021-08-01 1627885800 
-categories: reddit 
---- 
-https://redd.it/ow8zr9

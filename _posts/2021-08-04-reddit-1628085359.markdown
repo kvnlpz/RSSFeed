@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Pay stub for moons 
-date: 2021-08-04 1628085359 
-categories: reddit 
---- 
-https://redd.it/oxt76g

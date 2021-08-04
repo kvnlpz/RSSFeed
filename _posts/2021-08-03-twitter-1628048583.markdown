@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @robertreidmd 
-date: 2021-08-03 20:43:03 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/GNhPVEAloL

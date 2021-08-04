@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 13:24:03 
-categories: twitter 
---- 
-@StrizziJ it's okay, you can just say you're ugly;

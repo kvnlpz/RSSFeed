@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @R7Investing 
-date: 2021-08-03 14:08:00 
-categories: twitter 
---- 
-@timothysykes Pumper

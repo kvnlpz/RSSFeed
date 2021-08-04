@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any word on when the guide for installing a Cardano-node on Mac M1 OS will be available? 
-date: 2021-07-27 1627434270 
-categories: reddit 
---- 
-https://redd.it/oszivp

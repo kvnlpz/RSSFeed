@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto.com’s Cronos Announces The Integration of Chainlink Price Feeds 
-date: 2021-07-28 1627479672 
-categories: reddit 
---- 
-https://redd.it/ot7pdl

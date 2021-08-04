@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xpinkbones 
-date: 2021-07-28 18:27:20 
-categories: twitter 
---- 
-@nope_its_lily just strap hyperopt on that thing and let it run a few more times til the f1 looks better, good to go https://t.co/TKgyLnLJ3E

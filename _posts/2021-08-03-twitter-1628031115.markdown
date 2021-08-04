@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-03 15:51:55 
-categories: twitter 
---- 
-$WHLM members highly suggest reviewing the Trader's Lounge logs today regarding algo and when they walked - thought… https://t.co/t2zf8NSqdy

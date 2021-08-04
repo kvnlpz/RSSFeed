@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BSV Suffers 51% Attack: Report 
-date: 2021-08-04 1628066799 
-categories: reddit 
---- 
-https://redd.it/oxogad

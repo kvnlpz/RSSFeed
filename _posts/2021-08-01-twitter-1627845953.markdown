@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lfgrifter 
-date: 2021-08-01 12:25:53 
-categories: twitter 
---- 
-@nope_its_lily As a Pasadenian I find it offensive that LA stops in Burbank

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jainendraverma2 
-date: 2021-07-28 03:40:59 
-categories: twitter 
---- 
-@timothysykes Your idea is good, but how is it possible?

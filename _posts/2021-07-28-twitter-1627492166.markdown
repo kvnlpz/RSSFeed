@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chiredev 
-date: 2021-07-28 10:09:26 
-categories: twitter 
---- 
-@InvestorsLive Nice illustration. I'm guessing this happened within a couple minutes based on the chart. Is there a… https://t.co/POuaD2PzLd

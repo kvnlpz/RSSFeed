@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JKrantz 
-date: 2021-08-01 14:34:10 
-categories: twitter 
---- 
-@OddStockTrader There’s a reason the announcers sit up there.

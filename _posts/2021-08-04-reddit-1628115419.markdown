@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Poor man’s naked options? (Huge width spreads) 
-date: 2021-08-04 1628115419 
-categories: reddit 
---- 
-https://redd.it/oy3ri3

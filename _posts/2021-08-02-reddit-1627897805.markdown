@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Microsoft Defender detects miner as malware 
-date: 2021-08-02 1627897805 
-categories: reddit 
---- 
-https://redd.it/owbb4m

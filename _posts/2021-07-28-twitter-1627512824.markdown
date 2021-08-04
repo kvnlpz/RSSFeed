@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thenotoriousCOD 
-date: 2021-07-28 15:53:44 
-categories: twitter 
---- 
-@timothysykes Wanted to learn your course but getting past the longass website was too much for me. Couldn’t find a sign up link even

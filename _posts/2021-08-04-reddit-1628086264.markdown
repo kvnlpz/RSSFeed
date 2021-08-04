@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $atos - stacked oi run version 2 
-date: 2021-08-04 1628086264 
-categories: reddit 
---- 
-https://redd.it/oxti8k

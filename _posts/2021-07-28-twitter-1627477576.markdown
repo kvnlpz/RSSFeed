@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlexCha37429910 
-date: 2021-07-28 06:06:16 
-categories: twitter 
---- 
-@timothysykes Yup, he knows what he is talking.

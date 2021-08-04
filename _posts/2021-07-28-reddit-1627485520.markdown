@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Transaction taking long 
-date: 2021-07-28 1627485520 
-categories: reddit 
---- 
-https://redd.it/otc0ey

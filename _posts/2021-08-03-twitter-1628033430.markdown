@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrhumet 
-date: 2021-08-03 16:30:30 
-categories: twitter 
---- 
-@alphatrends I also want this and have buy orders ready! 
-
-Curious if you think the Wyckoff Distribution + Accumulation is at play here?

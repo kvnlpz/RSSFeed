@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do you earn BAT on the Brave browser? 
-date: 2021-08-01 1627865321 
-categories: reddit 
---- 
-https://redd.it/ow458a

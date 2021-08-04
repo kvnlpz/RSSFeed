@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeGramc 
-date: 2021-08-01 07:32:40 
-categories: twitter 
---- 
-RT @muddywatersre: What I like best about being vaccinated is that every time Windows freezes on me, I can speak into my arm and tell Bill…

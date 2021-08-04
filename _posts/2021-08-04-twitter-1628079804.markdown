@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @louis_viciedo 
-date: 2021-08-04 05:23:24 
-categories: twitter 
---- 
-@InvestorsLive thanks for the reminder

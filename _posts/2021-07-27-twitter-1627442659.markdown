@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Tacosforgeorge 
-date: 2021-07-27 20:24:19 
-categories: twitter 
---- 
-@nope_its_lily Unliked

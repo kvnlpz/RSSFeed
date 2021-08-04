@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How exactly does the price change of any coin? 
-date: 2021-07-28 1627507490 
-categories: reddit 
---- 
-https://redd.it/otje93

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @The_JesseJames1 
-date: 2021-08-03 16:13:50 
-categories: twitter 
---- 
-@OddStockTrader It’s the Summer heat. It degrades the battery’s capacity to hold a charge. Also using the A/C to co… https://t.co/98YdAMpfCS

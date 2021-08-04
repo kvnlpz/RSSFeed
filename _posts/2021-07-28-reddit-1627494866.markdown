@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How does comments with 0,1,2 upvotes counted in terms of karma? 
-date: 2021-07-28 1627494866 
-categories: reddit 
---- 
-https://redd.it/otf6om

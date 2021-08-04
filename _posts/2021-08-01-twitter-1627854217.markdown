@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-01 14:43:37 
-categories: twitter 
---- 
-@AJM_AMCS @sstrazza get on crypto

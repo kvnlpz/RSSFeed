@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ECCarolan 
-date: 2021-07-27 15:58:48 
-categories: twitter 
---- 
-@nope_its_lily I have always had the hots for you.

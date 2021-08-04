@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stupid move I made. 
-date: 2021-07-27 1627426710 
-categories: reddit 
---- 
-https://redd.it/osxchn

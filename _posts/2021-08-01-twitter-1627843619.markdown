@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SteveOak12 
-date: 2021-08-01 11:46:59 
-categories: twitter 
---- 
-@Steven1_994 how many hours (on average) a day do you spend tracking stocks into your database bro?

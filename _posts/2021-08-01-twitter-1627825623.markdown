@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @topenofindmeplz 
-date: 2021-08-01 06:47:03 
-categories: twitter 
---- 
-@nope_its_lily I am not getting fat, I am just in the wrong time-line!

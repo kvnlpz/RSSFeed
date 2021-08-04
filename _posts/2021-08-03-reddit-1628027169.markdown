@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gravity dex 
-date: 2021-08-03 1628027169 
-categories: reddit 
---- 
-https://redd.it/oxdr85

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @laurentzeimes 
-date: 2021-08-01 13:59:32 
-categories: twitter 
---- 
-@nope_its_lily Interested to know the type of algorithm that would help with quant. Had a light introduction to com… https://t.co/Fsx7UaORA6

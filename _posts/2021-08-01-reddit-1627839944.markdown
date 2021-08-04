@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Live feed of Vlad during IPO 
-date: 2021-08-01 1627839944 
-categories: reddit 
---- 
-https://redd.it/ovwooh

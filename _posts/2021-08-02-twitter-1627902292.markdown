@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SourcerKelly 
-date: 2021-08-02 04:04:52 
-categories: twitter 
---- 
-RT @modern_rock: Proper EDUCATION is key to jumpstarting your trading! This member almost made enough to pay for his Annual membership toda…

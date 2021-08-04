@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Holding above 40K 
-date: 2021-07-28 1627468712 
-categories: reddit 
---- 
-https://redd.it/ot7bj4

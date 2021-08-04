@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made a word cloud from the 500 best comments in today's Daily Discussion: July 28, 2021 
-date: 2021-07-28 1627520096 
-categories: reddit 
---- 
-https://redd.it/otn4mx

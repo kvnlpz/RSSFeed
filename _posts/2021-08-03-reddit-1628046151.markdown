@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Your seed phrases are yours to know only! 
-date: 2021-08-03 1628046151 
-categories: reddit 
---- 
-https://redd.it/oxjj8a

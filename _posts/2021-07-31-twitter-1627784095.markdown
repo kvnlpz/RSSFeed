@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EddyElfenbein 
-date: 2021-07-31 19:14:55 
-categories: twitter 
---- 
-RT @nope_its_lily: @tolstoybb It sounds made up

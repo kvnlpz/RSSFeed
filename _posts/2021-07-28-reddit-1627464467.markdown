@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 380 bought today 
-date: 2021-07-28 1627464467 
-categories: reddit 
---- 
-https://redd.it/ot6gig

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Glow compiles down to EVM bytecode so will there be any tradeoffs between say a Plutus smart contract and a Glow Smart contrac? 
-date: 2021-07-27 1627433119 
-categories: reddit 
---- 
-https://redd.it/osz785

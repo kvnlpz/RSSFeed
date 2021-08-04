@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto for the Homeless 
-date: 2021-08-01 1627856888 
-categories: reddit 
---- 
-https://redd.it/ow1uad

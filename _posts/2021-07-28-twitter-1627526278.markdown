@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @inefficientmrkt 
-date: 2021-07-28 19:37:58 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause @zkschell Would love to hear @TradetheMatrix1

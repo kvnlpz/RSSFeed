@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stevenplace 
-date: 2021-08-01 18:51:48 
-categories: twitter 
---- 
-@alphatrends twitter has a cool thing where if you type in your password, it will automatically change it to stars… https://t.co/An3mdftE7Y

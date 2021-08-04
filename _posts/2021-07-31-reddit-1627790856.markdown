@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My estimate rewards reset to 0 just now..... 
-date: 2021-07-31 1627790856 
-categories: reddit 
---- 
-https://redd.it/ovldnm

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-08-01 15:24:21 
-categories: twitter 
---- 
-RT @InvestorsLive: George is that you? @swedepilot Watch our for my dock jerk. https://t.co/wVv0PxWsOt

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin price chart png api 
-date: 2021-07-28 1627505595 
-categories: reddit 
---- 
-https://redd.it/otiroj

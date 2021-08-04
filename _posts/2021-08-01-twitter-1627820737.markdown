@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-01 05:25:37 
-categories: twitter 
---- 
-RT @AvidityFitness: Thank you for everyone wanting to try zoom.. just please if you want to join, be there 5min beforehand I can’t take peo…

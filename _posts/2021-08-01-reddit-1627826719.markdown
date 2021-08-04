@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Compiled Trading Information in one place 
-date: 2021-08-01 1627826719 
-categories: reddit 
---- 
-https://redd.it/ovspfn

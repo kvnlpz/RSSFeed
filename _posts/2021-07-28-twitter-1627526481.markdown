@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndyArmienta 
-date: 2021-07-28 19:41:21 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause @zkschell @BrianLeeTrades has some great wisdom, great trader, and a great dude

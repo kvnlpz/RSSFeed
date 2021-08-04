@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EconomPic 
-date: 2021-07-31 19:13:35 
-categories: twitter 
---- 
-@nope_its_lily @tolstoybb Wait... really? https://t.co/kT4nHwnnyw

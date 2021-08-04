@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking on Ledger Live 
-date: 2021-07-27 1627438145 
-categories: reddit 
---- 
-https://redd.it/ot0kha

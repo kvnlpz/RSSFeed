@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I learn to develop a blockchain, and build my own cryptocurrency? Looking for any advice 
-date: 2021-08-01 1627874712 
-categories: reddit 
---- 
-https://redd.it/ow6i3b

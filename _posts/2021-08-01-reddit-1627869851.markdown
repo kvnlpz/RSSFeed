@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Saifedean: How Bitcoin Combats Inflation 
-date: 2021-08-01 1627869851 
-categories: reddit 
---- 
-https://redd.it/ow5ar0

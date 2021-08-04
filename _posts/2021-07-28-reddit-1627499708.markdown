@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My modest portfolio is shaping up nicely 
-date: 2021-07-28 1627499708 
-categories: reddit 
---- 
-https://redd.it/otgt69

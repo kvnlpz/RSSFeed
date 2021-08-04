@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I have a Smart Contract idea worth developing but I'm not sure where to start 
-date: 2021-07-28 1627512690 
-categories: reddit 
---- 
-https://redd.it/otl07w

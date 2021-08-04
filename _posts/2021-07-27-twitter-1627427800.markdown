@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-07-27 16:16:40 
-categories: twitter 
---- 
-What it looks like under the $HOOD of this IPO... https://t.co/BXgPTFAsps

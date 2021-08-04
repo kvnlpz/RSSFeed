@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @turtles_Roll 
-date: 2021-08-01 22:07:41 
-categories: twitter 
---- 
-@nope_its_lily Docusign has strong ngu fundamentals and heard a rumor Docu is considering hiring a NFT intern to verify on chain txn.

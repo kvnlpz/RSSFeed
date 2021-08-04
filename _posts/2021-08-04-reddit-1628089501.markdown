@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Myobu Integrates Chainlink VRF to Secure The “Fountain of Fortune” Giveaway Contract 
-date: 2021-08-04 1628089501 
-categories: reddit 
---- 
-https://redd.it/oxulds

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeDubyk 
-date: 2021-08-03 12:36:30 
-categories: twitter 
---- 
-@nope_its_lily $SPY weekly chart.... puts and long vol are for hedging only IMO. https://t.co/k7EF6qwmwI

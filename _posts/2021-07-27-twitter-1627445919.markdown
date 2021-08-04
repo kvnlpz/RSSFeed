@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @optionsgeneral 
-date: 2021-07-27 21:18:39 
-categories: twitter 
---- 
-@alphatrends I’m enjoying buying puts in them. No let up in sight!

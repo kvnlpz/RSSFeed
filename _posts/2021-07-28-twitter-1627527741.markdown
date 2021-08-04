@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ssampangi 
-date: 2021-07-28 20:02:21 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause @zkschell @MikeBellafiore @steenbab for sure

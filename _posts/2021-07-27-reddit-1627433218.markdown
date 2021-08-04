@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance Smart Chain just reached a new ATH for daily transactions with 11,918,068. Previous record was 11,838,329 on May 14th. 
-date: 2021-07-27 1627433218 
-categories: reddit 
---- 
-https://redd.it/osz87s

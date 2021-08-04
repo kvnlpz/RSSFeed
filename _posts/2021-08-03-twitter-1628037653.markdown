@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sherwoodseo 
-date: 2021-08-03 17:40:53 
-categories: twitter 
---- 
-@nope_its_lily Larry and Sergei agree.

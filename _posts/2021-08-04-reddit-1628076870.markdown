@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase launches in Germany 
-date: 2021-08-04 1628076870 
-categories: reddit 
---- 
-https://redd.it/oxqrlx

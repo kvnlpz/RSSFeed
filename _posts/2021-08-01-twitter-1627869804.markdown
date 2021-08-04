@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @blesspaye 
-date: 2021-08-01 19:03:24 
-categories: twitter 
---- 
-@timothysykes Good job 👏

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible to use Moons as an Ad token? 
-date: 2021-08-04 1628084140 
-categories: reddit 
---- 
-https://redd.it/oxstaq

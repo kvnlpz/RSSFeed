@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Purge_Suddhi 
-date: 2021-07-28 17:29:02 
-categories: twitter 
---- 
-RT @nope_its_lily: Okay I formally checked my work, and wrote a bit of a thread simulating our favorite topic to hate: The Fed Put and the…

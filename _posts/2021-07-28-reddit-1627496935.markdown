@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Swipe wallet issue] I have been trying to login and withdraw my funds all morning. App won’t open. I have tried restarting phone. Is there a webapp I can log into? Or will this issue be fixed before the august 1st deadline? 
-date: 2021-07-28 1627496935 
-categories: reddit 
---- 
-https://redd.it/otfvsl

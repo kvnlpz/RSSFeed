@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1dilaraacnkrr 
-date: 2021-08-02 00:11:47 
-categories: twitter 
---- 
-@alphatrends #helpturkey

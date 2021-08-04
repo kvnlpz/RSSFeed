@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trading Bot or HODL!? 
-date: 2021-08-01 1627856253 
-categories: reddit 
---- 
-https://redd.it/ow1nih

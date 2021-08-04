@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moderna gains update - finally hit the magic number! 
-date: 2021-08-04 1628099769 
-categories: reddit 
---- 
-https://redd.it/oxyajh

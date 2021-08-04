@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WFMBW 
-date: 2021-07-28 20:25:08 
-categories: twitter 
---- 
-@alphatrends I’m heading to Spinney Mountain tomorrow I’ll look for one at fly shop on the way ;-)

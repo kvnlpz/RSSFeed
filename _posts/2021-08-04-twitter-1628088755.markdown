@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StrizziJ 
-date: 2021-08-04 07:52:35 
-categories: twitter 
---- 
-@nope_its_lily If you don't plug my twitter on Bloomberg we're not friends anymore

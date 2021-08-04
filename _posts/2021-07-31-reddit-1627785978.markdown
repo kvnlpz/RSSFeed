@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are you paying more fees to send from BSC to ETH than ETH to ETH 
-date: 2021-07-31 1627785978 
-categories: reddit 
---- 
-https://redd.it/ovk97l

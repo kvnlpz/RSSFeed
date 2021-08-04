@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Volatility of Monero 
-date: 2021-08-04 1628084187 
-categories: reddit 
---- 
-https://redd.it/oxsttr

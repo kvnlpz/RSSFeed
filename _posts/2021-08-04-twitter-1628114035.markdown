@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tddw8 
-date: 2021-08-04 14:53:55 
-categories: twitter 
---- 
-@nope_its_lily If you can sell this jpg for $160,000 then I can lend you the money

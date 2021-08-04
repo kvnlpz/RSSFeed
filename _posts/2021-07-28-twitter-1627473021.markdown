@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Paulici80 
-date: 2021-07-28 04:50:21 
-categories: twitter 
---- 
-RT @super_trades: $EGLD #Elrond https://t.co/3TDCnk1Jv5

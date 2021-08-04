@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Steven1994_ 
-date: 2021-08-01 12:31:22 
-categories: twitter 
---- 
-RT @Steven1_994: +1.15 million in June (account statement) https://t.co/cSlRcNJFl2

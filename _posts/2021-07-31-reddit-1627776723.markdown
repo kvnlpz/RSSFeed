@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many crypto could a good miner mine if a good miner could mine 9 
-date: 2021-07-31 1627776723 
-categories: reddit 
---- 
-https://redd.it/ovi1we

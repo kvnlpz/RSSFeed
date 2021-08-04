@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Meme stocks 
-date: 2021-08-03 1628051651 
-categories: reddit 
---- 
-https://redd.it/oxl0x8

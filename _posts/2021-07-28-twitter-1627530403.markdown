@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-07-28 20:46:43 
-categories: twitter 
---- 
-@BleacherReport @NBCOlympics such an iconic swimming event and we still get new records, amazing!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LuminiereTv 
-date: 2021-08-01 19:58:45 
-categories: twitter 
---- 
-@nope_its_lily It's pretty fun to dance in the bear costume tho

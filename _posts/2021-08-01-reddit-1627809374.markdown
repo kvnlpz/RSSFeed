@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You can donate to us using the address below. You can send Bitcoin (BTC) to the following address: bc1q80ww53zfvfcfe0r8yn6cf9z4zct3z38wnz02dw 
-date: 2021-08-01 1627809374 
-categories: reddit 
---- 
-https://redd.it/ovp035

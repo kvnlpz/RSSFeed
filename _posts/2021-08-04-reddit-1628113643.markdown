@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Made a killer today 
-date: 2021-08-04 1628113643 
-categories: reddit 
---- 
-https://redd.it/oy36ye

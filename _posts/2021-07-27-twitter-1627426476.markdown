@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThisTejas 
-date: 2021-07-27 15:54:36 
-categories: twitter 
---- 
-@nope_its_lily Miriam in Disney's "The Prince Of Egypt" https://t.co/T4sqG7BtK3

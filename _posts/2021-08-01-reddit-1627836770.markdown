@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano To Allow Users Run Smart Contracts Once Hard Fork Happens 
-date: 2021-08-01 1627836770 
-categories: reddit 
---- 
-https://redd.it/ovvp3j

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StocksToTrade 
-date: 2021-08-01 13:48:33 
-categories: twitter 
---- 
-RT @timothysykes: @StocksToTrade TO TAKE IT TRADE BY TRADE!!!!

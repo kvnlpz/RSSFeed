@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any thoughts on remote mining? 
-date: 2021-08-01 1627828875 
-categories: reddit 
---- 
-https://redd.it/ovtb82

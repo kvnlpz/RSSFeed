@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bensplace24 
-date: 2021-08-01 16:50:45 
-categories: twitter 
---- 
-@timothysykes Which crypto are you in?

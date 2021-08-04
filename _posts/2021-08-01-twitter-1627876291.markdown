@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 20:51:31 
-categories: twitter 
---- 
-@quantian1 @bennpeifert I think it's much simpler. To my read, all routes have the same magnitude of error term.

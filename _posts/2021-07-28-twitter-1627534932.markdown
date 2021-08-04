@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Chiplis_ 
-date: 2021-07-28 22:02:12 
-categories: twitter 
---- 
-@nope_its_lily @steve_larrison Pretty sure every single algorithm is EXPSPACE already 🤔

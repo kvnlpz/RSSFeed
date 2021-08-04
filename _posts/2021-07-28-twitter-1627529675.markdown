@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SteelNicho 
-date: 2021-07-28 20:34:35 
-categories: twitter 
---- 
-@nope_its_lily What are the ingredients of the China Dip, will try to make some myself, thanks in advanced!!

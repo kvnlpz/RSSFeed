@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is what a 5 year BTC DCA looked like at different points in time... 
-date: 2021-08-04 1628080246 
-categories: reddit 
---- 
-https://redd.it/oxrnlz

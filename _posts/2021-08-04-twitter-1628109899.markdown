@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LebedevVitaly3 
-date: 2021-08-04 13:44:59 
-categories: twitter 
---- 
-RT @alphatrends: I was recently asked to name some of the more influential books on my career, here are  a few of the less spoken about boo…

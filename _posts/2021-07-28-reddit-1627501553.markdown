@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Waiting for Alonzo: Cardano smart contracts creep toward full launch 
-date: 2021-07-28 1627501553 
-categories: reddit 
---- 
-https://redd.it/othf3o

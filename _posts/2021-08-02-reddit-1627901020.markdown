@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Satoshi Nakamoto: fact or fiction? 
-date: 2021-08-02 1627901020 
-categories: reddit 
---- 
-https://redd.it/owby7v

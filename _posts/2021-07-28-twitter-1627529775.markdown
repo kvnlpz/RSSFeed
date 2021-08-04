@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @coloradotravis 
-date: 2021-07-28 20:36:15 
-categories: twitter 
---- 
-@nope_its_lily @SoccerMomTrades https://t.co/fMKccfQkgX

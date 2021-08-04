@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EwingPainting 
-date: 2021-08-01 07:58:08 
-categories: twitter 
---- 
-@alphatrends @SpanishTrader88 Interesting!

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone use their ZEC to provide liquidity on AMMs? 
-date: 2021-07-28 1627518452 
-categories: reddit 
---- 
-https://redd.it/otmoor

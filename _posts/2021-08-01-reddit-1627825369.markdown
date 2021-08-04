@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin order did not go through until it hit 2K more than what I was willing to selling it for. 
-date: 2021-08-01 1627825369 
-categories: reddit 
---- 
-https://redd.it/ovscc2

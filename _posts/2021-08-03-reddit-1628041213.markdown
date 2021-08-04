@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Having a stepped unlock process for mods and admins 
-date: 2021-08-03 1628041213 
-categories: reddit 
---- 
-https://redd.it/oxi3qz

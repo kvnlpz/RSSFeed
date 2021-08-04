@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Clarification on Robinhood CEO investigation: CEO of a parent company that owns a broker-dealer DOES NOT necessarily need to be registered with FINRA 
-date: 2021-07-28 1627492208 
-categories: reddit 
---- 
-https://redd.it/otea5s

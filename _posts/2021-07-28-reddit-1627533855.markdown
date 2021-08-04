@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where are they now? Follow up 2 months after: Checking top 10 tokens contract on CryptoMoonShots Sub front page with TokenSniffer 
-date: 2021-07-28 1627533855 
-categories: reddit 
---- 
-https://redd.it/otqldi

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StevenMcgwire 
-date: 2021-07-28 18:37:04 
-categories: twitter 
---- 
-@nope_its_lily 3.5/10 joke

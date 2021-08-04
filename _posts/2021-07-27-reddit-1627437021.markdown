@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The amazon bitcoin news was fake, but you know what isn't fake... EIP-1559 on August 4th. 
-date: 2021-07-27 1627437021 
-categories: reddit 
---- 
-https://redd.it/ot09bs

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reminder to people new to crypto - Back up your wallet recovery phrase 
-date: 2021-08-04 1628070964 
-categories: reddit 
---- 
-https://redd.it/oxpcif

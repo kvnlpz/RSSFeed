@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @r_wallstreet_ 
-date: 2021-08-04 13:44:50 
-categories: twitter 
---- 
-RT @alphatrends: In my world, it would now be unforgivable to allow this to turn into a loss if purchased near the price I tweeted it earli…

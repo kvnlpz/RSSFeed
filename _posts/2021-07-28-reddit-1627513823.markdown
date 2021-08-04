@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: US Oil production #s 
-date: 2021-07-28 1627513823 
-categories: reddit 
---- 
-https://redd.it/otlei5

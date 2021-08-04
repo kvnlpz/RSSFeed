@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JCap_Research 
-date: 2021-07-28 04:50:06 
-categories: twitter 
---- 
-RT @muddywatersre: The real business model of course was being public. cc: @GrapefruitGals https://t.co/Yg39jKGO0B

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Orbityl 
-date: 2021-08-04 02:06:19 
-categories: twitter 
---- 
-@nope_its_lily You'll have to get through me to buy those drugs!

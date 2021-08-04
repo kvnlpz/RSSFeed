@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH transfer failed multiple times 
-date: 2021-07-28 1627513845 
-categories: reddit 
---- 
-https://redd.it/otleso

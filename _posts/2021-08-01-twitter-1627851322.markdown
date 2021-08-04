@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-01 13:55:22 
-categories: twitter 
---- 
-Baseball! https://t.co/kcezHxB21z

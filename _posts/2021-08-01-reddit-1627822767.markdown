@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Brute-forceable puzzle - free crypto for whoever manages to crack it 
-date: 2021-08-01 1627822767 
-categories: reddit 
---- 
-https://redd.it/ovrnvp

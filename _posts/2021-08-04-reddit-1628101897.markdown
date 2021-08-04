@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [EDUCATIONAL] What is Bitcoin? 
-date: 2021-08-04 1628101897 
-categories: reddit 
---- 
-https://redd.it/oxz2tw

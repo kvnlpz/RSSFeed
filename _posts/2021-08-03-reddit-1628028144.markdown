@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Setting up a Bitcoin node 
-date: 2021-08-03 1628028144 
-categories: reddit 
---- 
-https://redd.it/oxe2x8

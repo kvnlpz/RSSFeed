@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AriGronich 
-date: 2021-07-28 12:56:26 
-categories: twitter 
---- 
-@timothysykes Hello, I just did a podcast episode with Suzanne Eccher about this! Can I share it with you here?

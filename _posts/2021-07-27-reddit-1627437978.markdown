@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Long DTE Protective Puts on top of covered calls. 
-date: 2021-07-27 1627437978 
-categories: reddit 
---- 
-https://redd.it/ot0iqw

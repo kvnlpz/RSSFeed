@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano - Alonzo Hard Fork Combinator Event - Smart Contracts coming end of August / First week of September. 
-date: 2021-08-04 1628114736 
-categories: reddit 
---- 
-https://redd.it/oy3jt3

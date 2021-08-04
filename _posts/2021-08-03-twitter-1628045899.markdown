@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @samkrishna 
-date: 2021-08-03 19:58:19 
-categories: twitter 
---- 
-@nope_its_lily Maybe I’m off base here, but it feels like the premise of your question assumes that there’s only 1… https://t.co/uBr3a2oO78

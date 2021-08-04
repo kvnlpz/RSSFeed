@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1GoodTradeaDay 
-date: 2021-08-04 10:59:38 
-categories: twitter 
---- 
-@MikeBellafiore Best practices turned into habit! 🙏🏿🙏🏿🙏🏿

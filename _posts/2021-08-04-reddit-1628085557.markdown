@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When you back up your seed phrase… 
-date: 2021-08-04 1628085557 
-categories: reddit 
---- 
-https://redd.it/oxt9fj

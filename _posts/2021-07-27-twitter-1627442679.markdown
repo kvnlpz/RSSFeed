@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FefferCapital 
-date: 2021-07-27 20:24:39 
-categories: twitter 
---- 
-@alphatrends @JonahLupton I think that anyone with over 10k followers should be investigated/on watch by the SEC

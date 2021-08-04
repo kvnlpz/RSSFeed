@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fabiozeppilli1 
-date: 2021-08-03 17:04:20 
-categories: twitter 
---- 
-@InvestorsLive Hey! Thanks by the way for all your awesome insight, it’s super valuable. Do you happen to have any… https://t.co/8JTkRKB2RZ

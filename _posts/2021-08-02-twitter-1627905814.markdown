@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-02 05:03:34 
-categories: twitter 
---- 
-RT @TraderBryce: There’s so much negativity on social media. Someone comment something positive that’s happened to you this summer to sprea…

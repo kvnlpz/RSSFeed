@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do we have a faucet for Atom? 
-date: 2021-08-01 1627812419 
-categories: reddit 
---- 
-https://redd.it/ovpk2o

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone please explain this to me 
-date: 2021-07-28 1627530067 
-categories: reddit 
---- 
-https://redd.it/otpqtp

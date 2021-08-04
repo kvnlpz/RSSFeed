@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What was your biggest security-related mistake that newcomers should avoid? 
-date: 2021-08-01 1627813106 
-categories: reddit 
---- 
-https://redd.it/ovpond

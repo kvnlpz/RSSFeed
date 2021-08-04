@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-28 09:02:00 
-categories: twitter 
---- 
-RT @celsian_info: BREAKING ©️💳
-#CelsiusNetwork to release beta credit card in Q3 https://t.co/sdHUSR2h5i

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @petershk 
-date: 2021-07-31 17:02:45 
-categories: twitter 
---- 
-@nope_its_lily @tolstoybb ...and less than 1000.

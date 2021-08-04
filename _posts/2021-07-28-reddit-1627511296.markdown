@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Futures, shorts, leverage & liquidations] Everything you need to know and why to avoid them 
-date: 2021-07-28 1627511296 
-categories: reddit 
---- 
-https://redd.it/otkml1

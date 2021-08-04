@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tenmike 
-date: 2021-08-01 13:19:11 
-categories: twitter 
---- 
-@OddStockTrader Another bootcamp ?

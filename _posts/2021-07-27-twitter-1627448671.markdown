@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mebsites 
-date: 2021-07-27 22:04:31 
-categories: twitter 
---- 
-@nope_its_lily mocking ... baiting me to go in and lose my ass

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimLancs 
-date: 2021-07-28 05:05:26 
-categories: twitter 
---- 
-@InvestorsLive No locates available for this on TZ

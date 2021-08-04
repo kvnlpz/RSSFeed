@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Opinion] Ethereum is more important than Bitcoin 
-date: 2021-08-04 1628107750 
-categories: reddit 
---- 
-https://redd.it/oy15l0

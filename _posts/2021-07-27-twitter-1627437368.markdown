@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 18:56:08 
-categories: twitter 
---- 
-@EconShiller I closed out my SPX straddle at around $200 profit, mostly since I was busy with photoshoot and other… https://t.co/dCQzvK2Cdr

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: nyancat X dogecoin 
-date: 2021-07-28 1627526681 
-categories: reddit 
---- 
-https://redd.it/otow5m

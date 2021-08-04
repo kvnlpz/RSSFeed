@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Paid for my Dinner using the lightning network 
-date: 2021-07-28 1627509988 
-categories: reddit 
---- 
-https://redd.it/otk7f8

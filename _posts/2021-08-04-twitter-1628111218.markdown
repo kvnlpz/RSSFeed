@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RolaLeonard 
-date: 2021-08-04 14:06:58 
-categories: twitter 
---- 
-@timothysykes TS it seems the more I learn the more I don’t know. Thank You

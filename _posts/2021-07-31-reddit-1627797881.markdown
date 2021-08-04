@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Core wallet not syncing.... 
-date: 2021-07-31 1627797881 
-categories: reddit 
---- 
-https://redd.it/ovmvod

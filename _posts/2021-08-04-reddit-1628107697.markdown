@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: tl;dr on tomorrow’s Ethereum fork 
-date: 2021-08-04 1628107697 
-categories: reddit 
---- 
-https://redd.it/oy14wl

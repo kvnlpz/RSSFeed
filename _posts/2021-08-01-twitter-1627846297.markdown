@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jmccart10 
-date: 2021-08-01 12:31:37 
-categories: twitter 
---- 
-@nope_its_lily @ShitFund https://t.co/OXgikkhjEB

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zampano 
-date: 2021-07-28 20:33:20 
-categories: twitter 
---- 
-@nope_its_lily Maybe a little early for a victory lap, but maybe not

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chewie573 
-date: 2021-08-03 19:09:06 
-categories: twitter 
---- 
-@nope_its_lily I'd watch this anime

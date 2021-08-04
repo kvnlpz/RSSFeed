@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CompresedFold 
-date: 2021-07-28 10:26:48 
-categories: twitter 
---- 
-@InvestorsLive  $strr

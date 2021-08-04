@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yodaspeaksloud 
-date: 2021-08-04 12:49:30 
-categories: twitter 
---- 
-@offshorehunters Thanks for sharing!

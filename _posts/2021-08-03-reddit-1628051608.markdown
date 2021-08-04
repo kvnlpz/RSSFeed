@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cold Wallet Question: Can one cold wallet give you access to multiple stores of coins? 
-date: 2021-08-03 1628051608 
-categories: reddit 
---- 
-https://redd.it/oxl0du

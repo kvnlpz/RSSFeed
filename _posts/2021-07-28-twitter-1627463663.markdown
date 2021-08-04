@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @samsa72088264 
-date: 2021-07-28 02:14:23 
-categories: twitter 
---- 
-@muddywatersre @ScorpionFund The don't have a solid state battery  it's a hoax.

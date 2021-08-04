@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Yuppology 
-date: 2021-08-01 10:14:51 
-categories: twitter 
---- 
-@nope_its_lily Mines been yoloing cryptoPogs

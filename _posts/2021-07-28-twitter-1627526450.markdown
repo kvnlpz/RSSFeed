@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ToddSullivan 
-date: 2021-07-28 19:40:50 
-categories: twitter 
---- 
-@alphatrends @FinTwitConf Is it a good conf brian?

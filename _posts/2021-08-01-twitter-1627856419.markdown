@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 15:20:19 
-categories: twitter 
---- 
-Sold 4402.5 another limit at 4404.5 stop out at 4405.5 for the funsies

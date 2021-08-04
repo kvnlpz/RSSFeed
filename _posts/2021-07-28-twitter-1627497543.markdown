@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 11:39:03 
-categories: twitter 
---- 
-@nic__carter @thebeitrun @CryptoCobain i will never throw @AllisonReichel under a bus

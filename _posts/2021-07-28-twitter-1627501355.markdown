@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @techgnostic 
-date: 2021-07-28 12:42:35 
-categories: twitter 
---- 
-@alphatrends Can you please recommend a book that covers macroeconomics? I would love to have a better understandin… https://t.co/Qb9VSGyku6

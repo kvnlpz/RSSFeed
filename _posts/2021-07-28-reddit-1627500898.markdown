@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monero stagenet address format 
-date: 2021-07-28 1627500898 
-categories: reddit 
---- 
-https://redd.it/oth777

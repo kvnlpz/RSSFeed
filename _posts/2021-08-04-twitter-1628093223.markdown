@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thehonestcroock 
-date: 2021-08-04 09:07:03 
-categories: twitter 
---- 
-$AMC $AMD whats next $AME lol

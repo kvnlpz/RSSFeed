@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @avgtrades 
-date: 2021-07-28 02:28:13 
-categories: twitter 
---- 
-@markflowchatter wasn't it out 23 hours ago?

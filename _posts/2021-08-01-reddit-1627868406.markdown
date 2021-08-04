@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Modern ways of lightly obfuscating your crypto 
-date: 2021-08-01 1627868406 
-categories: reddit 
---- 
-https://redd.it/ow4xg1

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can you scan for divergences on the RSI/MACD using thinkorswim? 
-date: 2021-08-01 1627884615 
-categories: reddit 
---- 
-https://redd.it/ow8r69

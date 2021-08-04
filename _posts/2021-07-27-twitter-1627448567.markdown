@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 22:02:47 
-categories: twitter 
---- 
-39,999: Bera szn.
-40,001: Hfsp

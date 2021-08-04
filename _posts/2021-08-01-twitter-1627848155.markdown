@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 13:02:35 
-categories: twitter 
---- 
-@SMTuffy Was she Guy Fawkes?

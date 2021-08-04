@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @electricessence 
-date: 2021-07-28 09:01:28 
-categories: twitter 
---- 
-@alphatrends My favorite advice now:
-"Know what you don't know."

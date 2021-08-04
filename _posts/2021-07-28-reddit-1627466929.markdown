@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thought this belong here 
-date: 2021-07-28 1627466929 
-categories: reddit 
---- 
-https://redd.it/ot6y7a

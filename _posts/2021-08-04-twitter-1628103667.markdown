@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Pomere 
-date: 2021-08-04 12:01:07 
-categories: twitter 
---- 
-@InvestorsLive Sorry, I mean vwap…

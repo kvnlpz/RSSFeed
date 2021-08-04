@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: As the Ethereum upgrade (EIP-1559 aka London hard fork) approaches (Expected 4th of august), I thought I would post a quick description of what this upgrade is: 
-date: 2021-08-01 1627842596 
-categories: reddit 
---- 
-https://redd.it/ovwj9l

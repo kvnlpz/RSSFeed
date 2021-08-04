@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cherryblu3 
-date: 2021-07-27 15:35:09 
-categories: twitter 
---- 
-@nope_its_lily Who is doing all this while I’m trading in my pyjamas and drinking coffee through a straw?

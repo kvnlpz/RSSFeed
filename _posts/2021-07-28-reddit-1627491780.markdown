@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Call To Action 
-date: 2021-07-28 1627491780 
-categories: reddit 
---- 
-https://redd.it/ote4wh

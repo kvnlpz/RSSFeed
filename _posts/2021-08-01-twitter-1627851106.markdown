@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 13:51:46 
-categories: twitter 
---- 
-@EastCoast55 Gimme a year

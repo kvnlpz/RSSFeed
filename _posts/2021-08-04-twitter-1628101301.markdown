@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Codrin70467731 
-date: 2021-08-04 11:21:41 
-categories: twitter 
---- 
-@super_trades @ElrondThunder It's gonna get wild very soon.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shntzl 
-date: 2021-07-31 16:32:05 
-categories: twitter 
---- 
-@nope_its_lily *me rotating a sphere in my head like a genius

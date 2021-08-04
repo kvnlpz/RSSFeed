@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-04 13:52:46 
-categories: twitter 
---- 
-@Jaredscheff14 @RichardMoglen @RossHaber_ @TraderLion_ Thanks! We just posted the first webinar recording last even… https://t.co/KC03W0zkc4

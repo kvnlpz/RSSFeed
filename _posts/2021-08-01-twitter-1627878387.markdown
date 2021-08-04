@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nosouthwest 
-date: 2021-08-01 21:26:27 
-categories: twitter 
---- 
-@nope_its_lily @bennpeifert oh I see, he's trying to demonstrate market impact of your trades

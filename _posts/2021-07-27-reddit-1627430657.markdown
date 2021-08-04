@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help 
-date: 2021-07-27 1627430657 
-categories: reddit 
---- 
-https://redd.it/osyibq

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HotCryptRF 
-date: 2021-07-28 06:41:34 
-categories: twitter 
---- 
-RT @nope_its_lily: I like how Bitcoin is hovering around 40k. Mocking me.

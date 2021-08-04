@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain how price discovery works in crypto? 
-date: 2021-07-28 1627487446 
-categories: reddit 
---- 
-https://redd.it/otcnom

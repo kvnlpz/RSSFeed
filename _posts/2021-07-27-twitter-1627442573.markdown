@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eco_NO_mist 
-date: 2021-07-27 20:22:53 
-categories: twitter 
---- 
-@nope_its_lily My bad

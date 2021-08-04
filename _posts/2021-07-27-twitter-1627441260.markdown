@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @robroaster 
-date: 2021-07-27 20:01:00 
-categories: twitter 
---- 
-@alphatrends You’ve been saying that for a long time.  I think in the beginning many thought that way and we’re lulled into a comfort zone.

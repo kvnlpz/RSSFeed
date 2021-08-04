@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-08-04 06:02:04 
-categories: twitter 
---- 
-. @GaryGensler https://t.co/m8NYV6r2AQ

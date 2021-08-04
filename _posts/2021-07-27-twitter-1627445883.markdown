@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TweetyBird_DNei 
-date: 2021-07-27 21:18:03 
-categories: twitter 
---- 
-@nope_its_lily @StrizziJ In “Jaynus” we trust. https://t.co/lft6YWyT5p

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EconShiller 
-date: 2021-07-27 18:55:26 
-categories: twitter 
---- 
-@nope_its_lily Spot down vol down? I can definitely live with this https://t.co/OVOzqpCEkr

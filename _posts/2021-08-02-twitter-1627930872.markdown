@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ndscherer 
-date: 2021-08-02 12:01:12 
-categories: twitter 
---- 
-@InvestorsLive What time zone are you?

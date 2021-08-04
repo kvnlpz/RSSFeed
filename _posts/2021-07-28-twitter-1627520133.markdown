@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeHuddie_1 
-date: 2021-07-28 17:55:33 
-categories: twitter 
---- 
-RT @OddStockTrader: This happend. @MikeHuddie @petertrades https://t.co/N6Fvc48mCk

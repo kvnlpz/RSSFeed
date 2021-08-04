@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @falcontrading3 
-date: 2021-08-03 20:35:06 
-categories: twitter 
---- 
-@nope_its_lily Personally, my favorite album was Data_Cleaning_new_FINAL_new.ipynb but to each their own.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why do we care about the 10-year treasury yield ? 
-date: 2021-07-28 1627497133 
-categories: reddit 
---- 
-https://redd.it/otfy50

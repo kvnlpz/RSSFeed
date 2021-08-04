@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheFirstLadyOfT 
-date: 2021-08-01 10:52:32 
-categories: twitter 
---- 
-@timothysykes Well said!!!

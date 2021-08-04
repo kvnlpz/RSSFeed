@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chaleman69 
-date: 2021-08-01 11:32:48 
-categories: twitter 
---- 
-@timothysykes @karmagawa Awesome

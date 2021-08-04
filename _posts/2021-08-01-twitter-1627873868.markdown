@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FxCatalyst 
-date: 2021-08-01 20:11:08 
-categories: twitter 
---- 
-@InvestorsLive @crawfish_poboy So many screens, so few eyeballs…

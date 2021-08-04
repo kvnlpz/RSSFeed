@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @yap_jaeve 
-date: 2021-08-03 12:33:55 
-categories: twitter 
---- 
-@OddStockTrader Damn 140m float halted up. $70 breakout level.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BillSPACman 
-date: 2021-08-03 16:45:05 
-categories: twitter 
---- 
-@nope_its_lily bitcoin is digital real estate

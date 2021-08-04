@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I lost 2.8 BTC because a hacker used my credentials on Binance and Binance's late CS response and security policies. 
-date: 2021-08-01 1627861130 
-categories: reddit 
---- 
-https://redd.it/ow30yg

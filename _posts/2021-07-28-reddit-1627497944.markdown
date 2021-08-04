@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $AMD 185 is Coming! 
-date: 2021-07-28 1627497944 
-categories: reddit 
---- 
-https://redd.it/otg89x

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-31 16:35:42 
-categories: twitter 
---- 
-I cannot properly rotate shapes. My visuospatial skills are basically non-existent, and it's why I hit a wall in ge… https://t.co/6WrdTQIgc9

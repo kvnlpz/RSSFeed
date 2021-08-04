@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I really tried to make it work, but I am tired of this 
-date: 2021-08-04 1628070171 
-categories: reddit 
---- 
-https://redd.it/oxp6ie

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A comparison of the current top 20 alt prices from when BTC broke (and held) 40k on February 6, 2021 vs now. 
-date: 2021-07-28 1627485594 
-categories: reddit 
---- 
-https://redd.it/otc1fm

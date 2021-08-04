@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BearPerma 
-date: 2021-08-01 18:56:34 
-categories: twitter 
---- 
-@alphatrends I am not in the green zone but 34,000 years should be enough

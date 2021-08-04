@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stocktrader_Ron 
-date: 2021-08-01 14:20:14 
-categories: twitter 
---- 
-RT @timothysykes: Focus on making disciplined trades every day, it's NOT about how much $ you can make right away, you must learn to refine…

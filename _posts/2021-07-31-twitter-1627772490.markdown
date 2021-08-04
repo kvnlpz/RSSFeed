@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Oopshah 
-date: 2021-07-31 16:01:30 
-categories: twitter 
---- 
-@nope_its_lily Chai handles day-to-day payments in South Korea with the Terra blockchain.
-old article, oh well
-https://t.co/SlOGObMXoL

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @atjoe 
-date: 2021-07-27 15:18:11 
-categories: twitter 
---- 
-@nope_its_lily That explains the tweet per minute ratio. Teamwork makes the dreamwork!

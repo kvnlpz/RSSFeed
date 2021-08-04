@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: India to adopt Ethereum blockchain to avoid certificate forgery; says government of Maharashtra 
-date: 2021-07-28 1627483292 
-categories: reddit 
---- 
-https://redd.it/otb9oh

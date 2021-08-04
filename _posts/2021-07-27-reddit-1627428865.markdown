@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone on Nanopool? Noticed a rig on ezil pool was taking advantage of recent eth gas hike and was paying out very well. Rig on Nanopool however stayed the same as it has been. 
-date: 2021-07-27 1627428865 
-categories: reddit 
---- 
-https://redd.it/oswh4f

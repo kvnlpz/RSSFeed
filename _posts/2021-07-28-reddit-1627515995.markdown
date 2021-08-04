@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Exodus wallet using my GPU? 
-date: 2021-07-28 1627515995 
-categories: reddit 
---- 
-https://redd.it/otm0ih

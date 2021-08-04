@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FrogsRevenge 
-date: 2021-07-31 16:47:47 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/gGboXNaEWc

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 20:54:18 
-categories: twitter 
---- 
-@quantian1 @bennpeifert Essentially we'd expect that if the variances are all independent for each route (which I b… https://t.co/VJwinhMLWF

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @miked25fb 
-date: 2021-08-01 15:38:37 
-categories: twitter 
---- 
-@nope_its_lily Long or wrong Lily

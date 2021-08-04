@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Questions regarding ITM calls 
-date: 2021-08-04 1628100026 
-categories: reddit 
---- 
-https://redd.it/oxydzt

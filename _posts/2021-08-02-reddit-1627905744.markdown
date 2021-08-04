@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do Ledger apps work? 
-date: 2021-08-02 1627905744 
-categories: reddit 
---- 
-https://redd.it/owd1z2

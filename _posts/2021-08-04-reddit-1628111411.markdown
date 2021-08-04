@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made an ADL model to predict BTC's movement: here are my results (please read before calling a scam) 
-date: 2021-08-04 1628111411 
-categories: reddit 
---- 
-https://redd.it/oy2fs6

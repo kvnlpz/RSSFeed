@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Developer Grant: $200k for Hedera + Filecoin Applications 
-date: 2021-07-28 1627489861 
-categories: reddit 
---- 
-https://redd.it/otdh6s

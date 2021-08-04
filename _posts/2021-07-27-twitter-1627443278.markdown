@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FefferCapital 
-date: 2021-07-27 20:34:38 
-categories: twitter 
---- 
-@alphatrends @JonahLupton Why? Nothing to hide/nothing to lose

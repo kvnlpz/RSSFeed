@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @apintand20major 
-date: 2021-07-27 06:51:57 
-categories: twitter 
---- 
-@timothysykes In anything?

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DobackhuffCFO 
-date: 2021-08-03 12:15:40 
-categories: twitter 
---- 
-@super_trades $Tdac!!

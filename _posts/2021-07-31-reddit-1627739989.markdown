@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many green candles in a row has it been? 
-date: 2021-07-31 1627739989 
-categories: reddit 
---- 
-https://redd.it/ov7mz9

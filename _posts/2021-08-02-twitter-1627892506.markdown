@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-02 01:21:46 
-categories: twitter 
---- 
-@johnleonard Much appreciated

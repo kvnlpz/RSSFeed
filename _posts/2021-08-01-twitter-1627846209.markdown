@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_Steven1994_ 
-date: 2021-08-01 12:30:09 
-categories: twitter 
---- 
-RT @Steven1_994: Here's my May Trading Recap! I have summarized my wins and losses during this crazy trading month. See what you can take a…

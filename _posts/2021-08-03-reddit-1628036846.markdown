@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do people steal cryptocurrency? 
-date: 2021-08-03 1628036846 
-categories: reddit 
---- 
-https://redd.it/oxgtk3

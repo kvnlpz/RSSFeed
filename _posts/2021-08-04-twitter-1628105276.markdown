@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @STihulca 
-date: 2021-08-04 12:27:56 
-categories: twitter 
---- 
-@super_trades https://t.co/VCVXkUyE69

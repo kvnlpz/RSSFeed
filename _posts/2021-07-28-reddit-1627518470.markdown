@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: F&G index of the last 4 days 
-date: 2021-07-28 1627518470 
-categories: reddit 
---- 
-https://redd.it/otmow1

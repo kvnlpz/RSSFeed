@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just in case.. 
-date: 2021-07-27 1627444183 
-categories: reddit 
---- 
-https://redd.it/ot25rs

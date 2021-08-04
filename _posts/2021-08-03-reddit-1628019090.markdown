@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are some ways we, as a community, could increase MOON adoption and use? 
-date: 2021-08-03 1628019090 
-categories: reddit 
---- 
-https://redd.it/oxaymu

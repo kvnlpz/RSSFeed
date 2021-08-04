@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brucem_real 
-date: 2021-07-27 16:04:25 
-categories: twitter 
---- 
-@nope_its_lily Lirrrry as we say in Asia

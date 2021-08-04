@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LoganMohtashami 
-date: 2021-08-01 14:29:33 
-categories: twitter 
---- 
-@nope_its_lily Santa Monica - Culver City long-distance when traffic is normal

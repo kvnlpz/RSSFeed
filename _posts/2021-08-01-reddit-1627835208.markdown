@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thought: People with less than $500,000 worth of BTC will never touch the main blockchain. 
-date: 2021-08-01 1627835208 
-categories: reddit 
---- 
-https://redd.it/ovv81c

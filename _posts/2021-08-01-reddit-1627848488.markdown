@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Karma and time. 
-date: 2021-08-01 1627848488 
-categories: reddit 
---- 
-https://redd.it/ovzaat

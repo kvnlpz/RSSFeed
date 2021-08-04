@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-01 12:10:08 
-categories: twitter 
---- 
-Pay attention to the setup 📈📉 https://t.co/R7u7Ms3511

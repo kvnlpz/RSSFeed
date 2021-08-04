@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Go80972705 
-date: 2021-08-04 15:39:16 
-categories: twitter 
---- 
-@timothysykes Still learning Tim Thank you !

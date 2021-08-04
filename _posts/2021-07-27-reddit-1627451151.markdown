@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 42 then on to 120 
-date: 2021-07-27 1627451151 
-categories: reddit 
---- 
-https://redd.it/ot3t91

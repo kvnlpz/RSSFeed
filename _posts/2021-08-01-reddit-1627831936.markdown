@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can bitcoin transaction realistically be increased enough in any way for it to function as a currency? 
-date: 2021-08-01 1627831936 
-categories: reddit 
---- 
-https://redd.it/ovu7jh

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Realisation this week 
-date: 2021-07-31 1627756507 
-categories: reddit 
---- 
-https://redd.it/ovcf7v

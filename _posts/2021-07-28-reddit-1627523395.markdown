@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Space to put ASIC Miners. 
-date: 2021-07-28 1627523395 
-categories: reddit 
---- 
-https://redd.it/oto0wa

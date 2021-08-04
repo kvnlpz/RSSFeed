@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SathishVasanthy 
-date: 2021-07-28 21:13:55 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause @zkschell @TradetheMatrix1

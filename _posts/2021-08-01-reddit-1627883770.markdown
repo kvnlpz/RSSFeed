@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Breaks 200,000 Validators Milestone, Over $14 Billion Now Staked In ETH 2.0 
-date: 2021-08-01 1627883770 
-categories: reddit 
---- 
-https://redd.it/ow8ktk

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How Bitcoin Can Provide Stimulus To Quantum Computing Development 
-date: 2021-07-27 1627446552 
-categories: reddit 
---- 
-https://redd.it/ot2r59

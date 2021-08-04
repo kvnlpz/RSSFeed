@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My mechanic asked me about bitcoin today. 
-date: 2021-07-31 1627798680 
-categories: reddit 
---- 
-https://redd.it/ovn1dy

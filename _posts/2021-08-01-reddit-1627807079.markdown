@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking back at failed $PINS IC 
-date: 2021-08-01 1627807079 
-categories: reddit 
---- 
-https://redd.it/ovol53

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChartsToro 
-date: 2021-08-04 10:38:51 
-categories: twitter 
---- 
-RT @RayTL_: To my Crypto Friends: ETH is forming its first LaunchPad in many many months (See green diamonds) https://t.co/m4vepeFjQ5

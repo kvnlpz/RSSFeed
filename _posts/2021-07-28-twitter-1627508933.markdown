@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mstrades 
-date: 2021-07-28 14:48:53 
-categories: twitter 
---- 
-@super_trades What’s happening to $TDAC now under NAV?

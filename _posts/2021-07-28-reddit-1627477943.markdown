@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Withdraw or convert yXLM to XLM in Stellarterm using ledger nano x 
-date: 2021-07-28 1627477943 
-categories: reddit 
---- 
-https://redd.it/ot9mb9

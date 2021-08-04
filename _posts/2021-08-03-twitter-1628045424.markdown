@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheLoneComic 
-date: 2021-08-03 19:50:24 
-categories: twitter 
---- 
-@alphatrends There’s one in every crowd.  It’s usually the one that doesn’t understand the test of the spotlight is the limelight.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Creating NFT with smart contract capabilities 
-date: 2021-07-28 1627513465 
-categories: reddit 
---- 
-https://redd.it/otlaud

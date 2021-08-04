@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Analysis and review of ChainLinks various protocol offerings 
-date: 2021-08-01 1627858953 
-categories: reddit 
---- 
-https://redd.it/ow0fog

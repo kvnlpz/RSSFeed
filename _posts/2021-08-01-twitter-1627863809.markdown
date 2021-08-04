@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @youngtilopa 
-date: 2021-08-01 17:23:29 
-categories: twitter 
---- 
-@nope_its_lily @IamNomad i need 100x to afford dinner

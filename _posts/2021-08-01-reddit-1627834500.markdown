@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you're an EOS/EOSIO dev and have a great idea and want to use DAPP Network as part of your tech stack... 
-date: 2021-08-01 1627834500 
-categories: reddit 
---- 
-https://redd.it/ovuzuk

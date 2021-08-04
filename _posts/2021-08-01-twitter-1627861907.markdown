@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-01 16:51:47 
-categories: twitter 
---- 
-@LongShortTrader I mean perhaps the pile of money

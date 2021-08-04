@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SomeshShukllaa 
-date: 2021-08-03 21:21:50 
-categories: twitter 
---- 
-@alphatrends Hi can you help me with the stock screener which can filter out stocks on different combination of EMAs and volumes.

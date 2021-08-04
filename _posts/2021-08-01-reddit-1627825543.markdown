@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Not getting BAT from sponsored images. 
-date: 2021-08-01 1627825543 
-categories: reddit 
---- 
-https://redd.it/ovsdxi

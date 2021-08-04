@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sanntrades 
-date: 2021-07-28 07:58:11 
-categories: twitter 
---- 
-@nope_its_lily I'll clean your cellphone if you clean mine.

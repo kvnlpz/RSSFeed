@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @studentaguilar 
-date: 2021-08-01 14:27:11 
-categories: twitter 
---- 
-RT @nope_its_lily: I love how in LA if you're in Burbank and you're dating someone on the West Side you can legally call it a long-distance…

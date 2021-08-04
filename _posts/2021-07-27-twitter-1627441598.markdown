@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jadekoyle 
-date: 2021-07-27 20:06:38 
-categories: twitter 
---- 
-@alphatrends I’m guessing your biggest winners were held for years?

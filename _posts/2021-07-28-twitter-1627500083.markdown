@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stephendhooge 
-date: 2021-07-28 12:21:23 
-categories: twitter 
---- 
-@timothysykes just finished how to make Millions. I am almost half way into the bootcamp. Definitely gonna rewatch… https://t.co/M3gXrEDXsw

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Beijing subway has fully integrated crypto (e-CNY) with its payment ecosystem 
-date: 2021-08-04 1628078038 
-categories: reddit 
---- 
-https://redd.it/oxr1y2

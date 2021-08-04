@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KellerTrading 
-date: 2021-07-28 04:35:26 
-categories: twitter 
---- 
-@OddStockTrader Praise the Lord

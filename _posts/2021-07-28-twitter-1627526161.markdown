@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nick_kutscher 
-date: 2021-07-28 19:36:01 
-categories: twitter 
---- 
-@InvestorsLive @Traders4ACause @zkschell Definitely you @InvestorsLive and @tbohen

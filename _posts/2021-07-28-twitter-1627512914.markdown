@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MlkeBellafiore 
-date: 2021-07-28 15:55:14 
-categories: twitter 
---- 
-RT @MikeBellafiore: Here is a best practice encouraged at our prop firm:
-What was the *very* best trading opportunity, in the stock(s) you…

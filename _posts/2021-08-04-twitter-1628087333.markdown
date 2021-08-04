@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-04 07:28:53 
-categories: twitter 
---- 
-RT @1CentMomo: @super_trades Not too hard to lock the float on this one

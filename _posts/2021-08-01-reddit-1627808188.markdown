@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hey MetaMask? If .02 ETH = $6, then 1 ETH = $300, which is super wrong. Are you playing a trick on me? 
-date: 2021-08-01 1627808188 
-categories: reddit 
---- 
-https://redd.it/ovosa1

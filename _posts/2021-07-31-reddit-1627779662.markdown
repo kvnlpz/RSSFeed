@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Finviz question - Is it possible to go back and view the page from say, a month ago, or 3 months ago? 
-date: 2021-07-31 1627779662 
-categories: reddit 
---- 
-https://redd.it/ovirn7

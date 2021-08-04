@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ryantferris 
-date: 2021-08-04 13:00:56 
-categories: twitter 
---- 
-@timothysykes Hopefully the $CLWD madness continues tomorrow

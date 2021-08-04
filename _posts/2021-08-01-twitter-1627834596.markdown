@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-01 09:16:36 
-categories: twitter 
---- 
-Shout out to all the stock people I met in Newport that recognized me !!!   #BeSuper

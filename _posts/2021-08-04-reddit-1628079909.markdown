@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: suggestions for a wallet to connect to a Bitcoin node on Raspberry Pi 
-date: 2021-08-04 1628079909 
-categories: reddit 
---- 
-https://redd.it/oxrk74

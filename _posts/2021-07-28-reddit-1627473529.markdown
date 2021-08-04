@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Announcement on the Comprehensive Upgrade of BTFS Scan (Official Data Explorer of BitTorrent File… 
-date: 2021-07-28 1627473529 
-categories: reddit 
---- 
-https://redd.it/ot8fk9

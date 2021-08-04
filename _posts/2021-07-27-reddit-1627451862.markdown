@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: On-chain transaction aggregator 1inch Foundation plans to distribute 10 million tokens to offset gas costs 
-date: 2021-07-27 1627451862 
-categories: reddit 
---- 
-https://redd.it/ot3yk7

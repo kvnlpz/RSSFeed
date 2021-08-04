@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-01 07:44:30 
-categories: twitter 
---- 
-@SpanishTrader88 key performance metric against which many managers are compensated/ bonused against if they out/underperform

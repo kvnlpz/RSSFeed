@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Using Wasabi Wallet as an intermediate between KYC exchanges and hardware wallets? 
-date: 2021-08-01 1627848558 
-categories: reddit 
---- 
-https://redd.it/ovzb24

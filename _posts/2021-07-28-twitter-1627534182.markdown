@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Dublin_Capital 
-date: 2021-07-28 21:49:42 
-categories: twitter 
---- 
-@nope_its_lily One of the most hilarious things I ever heard was my 70 year old travel agent mother returning from… https://t.co/WVLtI7KEvm

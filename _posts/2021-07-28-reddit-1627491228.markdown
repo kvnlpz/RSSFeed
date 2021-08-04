@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is RSR 
-date: 2021-07-28 1627491228 
-categories: reddit 
---- 
-https://redd.it/otdxs9

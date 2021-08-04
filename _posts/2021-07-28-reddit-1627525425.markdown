@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is defi? Why is DeFi so important? 
-date: 2021-07-28 1627525425 
-categories: reddit 
---- 
-https://redd.it/otokdl

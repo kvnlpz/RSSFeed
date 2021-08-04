@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Deutsche Wertpapier Service Bank AG looking for a manager with "Very good understanding of common platforms, architectures and protocols, such as Bitcoin, Ethereum, Hyperledger, Corda or IOTA" 
-date: 2021-08-01 1627865678 
-categories: reddit 
---- 
-https://redd.it/ow48gw

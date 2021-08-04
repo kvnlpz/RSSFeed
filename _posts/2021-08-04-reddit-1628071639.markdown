@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin earnings 
-date: 2021-08-04 1628071639 
-categories: reddit 
---- 
-https://redd.it/oxpi1b

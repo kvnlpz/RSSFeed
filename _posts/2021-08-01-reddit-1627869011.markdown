@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lightning network concern 
-date: 2021-08-01 1627869011 
-categories: reddit 
---- 
-https://redd.it/ow52yr

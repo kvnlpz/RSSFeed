@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Ethereum Virtual Machine | Qtum Design Part 2 
-date: 2021-07-28 1627495401 
-categories: reddit 
---- 
-https://redd.it/otfd56

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GreenieBig 
-date: 2021-08-01 19:26:16 
-categories: twitter 
---- 
-RT @nope_its_lily: I just had a dream that the market crashed 9.74% in one day soon I guess. It’s just a dream though. That’d be pretty sic…

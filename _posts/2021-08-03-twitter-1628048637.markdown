@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sherwoodseo 
-date: 2021-08-03 20:43:57 
-categories: twitter 
---- 
-@nope_its_lily You mean, not 20mb empty, with non-standard fonts, in 3:2 format? https://t.co/Fmqttw6Tyh

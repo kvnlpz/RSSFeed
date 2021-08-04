@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there currently a working marketplace for Cardano based NFTs ? 
-date: 2021-07-28 1627504401 
-categories: reddit 
---- 
-https://redd.it/othcmm

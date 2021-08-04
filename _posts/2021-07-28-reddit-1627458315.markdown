@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are gains lower when BTC price is higher? 
-date: 2021-07-28 1627458315 
-categories: reddit 
---- 
-https://redd.it/ot58wp

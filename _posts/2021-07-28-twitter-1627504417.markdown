@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 13:33:37 
-categories: twitter 
---- 
-@rbrtrmstrng it is simply well within the margin of safety

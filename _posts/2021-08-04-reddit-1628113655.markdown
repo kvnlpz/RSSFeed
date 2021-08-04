@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This seems simple. Why are people losing money? 
-date: 2021-08-04 1628113655 
-categories: reddit 
---- 
-https://redd.it/oy375p

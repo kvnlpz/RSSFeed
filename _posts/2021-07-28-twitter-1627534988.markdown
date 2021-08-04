@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MarkleMel 
-date: 2021-07-28 22:03:08 
-categories: twitter 
---- 
-@muddywatersre What is the best way to short the rainforest?

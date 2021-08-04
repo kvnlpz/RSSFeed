@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An Idea 
-date: 2021-08-01 1627806025 
-categories: reddit 
---- 
-https://redd.it/ovoef7

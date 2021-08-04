@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mattfunky2 
-date: 2021-07-27 15:10:06 
-categories: twitter 
---- 
-@nope_its_lily Which part of quantitative research requires you to fish for compliments on the internet?

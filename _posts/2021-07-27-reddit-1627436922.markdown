@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: VyFi CEO Steven Ward talks about making DeFi available to the masses and what makes VyFi unique. 
-date: 2021-07-27 1627436922 
-categories: reddit 
---- 
-https://redd.it/ot08ds

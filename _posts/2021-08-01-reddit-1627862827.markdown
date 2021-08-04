@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is one of the reasons we love XMR 
-date: 2021-08-01 1627862827 
-categories: reddit 
---- 
-https://redd.it/ow3hty

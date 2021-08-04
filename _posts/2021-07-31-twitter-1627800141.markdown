@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JordsNel 
-date: 2021-07-31 23:42:21 
-categories: twitter 
---- 
-@nope_its_lily If you view shapes as NFTs you can flip them fairly easily rn.

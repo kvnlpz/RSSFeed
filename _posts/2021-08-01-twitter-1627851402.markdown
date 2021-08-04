@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kr0yrunner89 
-date: 2021-08-01 13:56:42 
-categories: twitter 
---- 
-RT @team3dstocks: when they approached me with this idea (selling a #vwapBoulevard script due to popular request), I told them that Id acce…

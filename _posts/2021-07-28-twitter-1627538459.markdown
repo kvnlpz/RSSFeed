@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lukajurcic 
-date: 2021-07-28 23:00:59 
-categories: twitter 
---- 
-RT @alphatrends: Nice pair of hooters there. https://t.co/uqtx4e0NjK

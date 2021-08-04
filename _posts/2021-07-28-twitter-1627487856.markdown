@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jfeckstein 
-date: 2021-07-28 08:57:36 
-categories: twitter 
---- 
-@nope_its_lily You can tell a lot by the stickers on the laptop cover

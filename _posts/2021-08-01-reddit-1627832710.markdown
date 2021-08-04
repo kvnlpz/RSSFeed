@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My Portfolio Allocation 
-date: 2021-08-01 1627832710 
-categories: reddit 
---- 
-https://redd.it/ovug2h

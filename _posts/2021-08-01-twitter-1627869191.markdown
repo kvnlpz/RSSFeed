@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Professor_Foote 
-date: 2021-08-01 18:53:11 
-categories: twitter 
---- 
-RT @alphatrends: How secure are your passwords? https://t.co/lR0xcj7TUk

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The overall UX of crypto is still complicated for most users 
-date: 2021-08-03 1628035659 
-categories: reddit 
---- 
-https://redd.it/oxggdl

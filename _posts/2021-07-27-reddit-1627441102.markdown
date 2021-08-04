@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Let's discuss this 
-date: 2021-07-27 1627441102 
-categories: reddit 
---- 
-https://redd.it/ot1ch1

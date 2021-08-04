@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stratum V2 introduces three new sub-protocols that allow miners to select their own transaction sets through a negotiation process with pools, improving decentralization. 
-date: 2021-07-27 1627437441 
-categories: reddit 
---- 
-https://redd.it/ot0ddb

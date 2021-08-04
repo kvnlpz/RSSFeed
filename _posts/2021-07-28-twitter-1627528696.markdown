@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DhruvBole 
-date: 2021-07-28 20:18:16 
-categories: twitter 
---- 
-RT @G_krupins: $SLX steel names perking up a bit again https://t.co/DAGgfQDh0i

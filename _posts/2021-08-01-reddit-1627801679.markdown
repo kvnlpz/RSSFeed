@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are community thoughts on Proof of Stake protocols 
-date: 2021-08-01 1627801679 
-categories: reddit 
---- 
-https://redd.it/ovnm3t

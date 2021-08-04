@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Competition Time! 
-date: 2021-08-01 1627808215 
-categories: reddit 
---- 
-https://redd.it/ovoshe

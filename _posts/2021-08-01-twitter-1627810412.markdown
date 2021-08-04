@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheLOBO522 
-date: 2021-08-01 02:33:32 
-categories: twitter 
---- 
-@nope_its_lily You must first realize there is no spoon.

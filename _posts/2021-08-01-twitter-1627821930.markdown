@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xkcd3141 
-date: 2021-08-01 05:45:30 
-categories: twitter 
---- 
-RT @nope_its_lily: the undeniable truth is that most of the anon folks on twitter with non-human profile photos are simply hotter than the…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question regarding 'owning your private key' via a hot wallet (sorry if this isn't an appropriate question for this sub) 
-date: 2021-08-04 1628093323 
-categories: reddit 
---- 
-https://redd.it/oxvy1s

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Setting up the VWAP?? different periods? 
-date: 2021-08-03 1628042097 
-categories: reddit 
---- 
-https://redd.it/oxicn3

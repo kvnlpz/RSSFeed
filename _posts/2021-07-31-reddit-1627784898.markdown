@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 534,893 ETH has been burned on the testnet in a month, that's about $1,374,145,465 USD. In about 7 days we will see this on the Ethereum main net and it's going to be beautiful. 
-date: 2021-07-31 1627784898 
-categories: reddit 
---- 
-https://redd.it/ovk06k

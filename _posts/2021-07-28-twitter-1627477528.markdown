@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jablamsky 
-date: 2021-07-28 06:05:28 
-categories: twitter 
---- 
-@muddywatersre @arnieleicester Sir, this is a Wendy’s.

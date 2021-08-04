@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reminder to never mine cryptos on your wallet machine 
-date: 2021-07-31 1627798384 
-categories: reddit 
---- 
-https://redd.it/ovmzb8

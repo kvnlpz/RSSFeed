@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano and The Dragon 
-date: 2021-07-28 1627538606 
-categories: reddit 
---- 
-https://redd.it/otrpsc

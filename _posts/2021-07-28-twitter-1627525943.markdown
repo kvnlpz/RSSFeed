@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @W_Nelson 
-date: 2021-07-28 19:32:23 
-categories: twitter 
---- 
-@alphatrends See you and raise. https://t.co/YycGlzKkPz

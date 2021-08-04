@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stop loss vs buy & forget for long term positions (10y+) 
-date: 2021-08-04 1628075689 
-categories: reddit 
---- 
-https://redd.it/oxqh2o

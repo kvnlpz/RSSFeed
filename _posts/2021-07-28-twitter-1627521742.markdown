@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 18:22:22 
-categories: twitter 
---- 
-@nic__carter just post a hot photo like me

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DrStrangeTrades 
-date: 2021-07-28 11:50:48 
-categories: twitter 
---- 
-@InvestorsLive Great advice!

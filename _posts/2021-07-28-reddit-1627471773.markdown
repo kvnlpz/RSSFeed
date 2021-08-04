@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 94k YOLO on LCID and 130k YOLO on CLF 
-date: 2021-07-28 1627471773 
-categories: reddit 
---- 
-https://redd.it/ot80ju

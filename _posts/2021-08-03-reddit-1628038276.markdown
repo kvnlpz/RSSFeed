@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Investigation: Cardano Has Been Moving Goalposts On Smart Contracts Since 2018. Will They Finally Keep Their Promise This Time? 
-date: 2021-08-03 1628038276 
-categories: reddit 
---- 
-https://redd.it/oxh8fn

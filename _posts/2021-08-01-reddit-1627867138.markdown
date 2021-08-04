@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Some unusual questions about hardware wallet security 
-date: 2021-08-01 1627867138 
-categories: reddit 
---- 
-https://redd.it/ow4lv1

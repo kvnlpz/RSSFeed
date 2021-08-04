@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-28 20:32:01 
-categories: twitter 
---- 
-@theoldrepublic Not going to comment on my personal holdings, but tomorrow looks green enough.

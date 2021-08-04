@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-07-27 17:10:36 
-categories: twitter 
---- 
-RT @TraderLion_: Daily Up on Volume scan powered by @MarketSmith - Sorted by % Volume Increase [+21]
-
-A key part of our process in identify…

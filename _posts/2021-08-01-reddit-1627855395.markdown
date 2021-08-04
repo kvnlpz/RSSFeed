@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Some of you may have seen part one yesterday. Here is part 2! 
-date: 2021-08-01 1627855395 
-categories: reddit 
---- 
-https://redd.it/ow1ec7

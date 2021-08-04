@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ScipioApucanus 
-date: 2021-08-01 10:24:05 
-categories: twitter 
---- 
-@nope_its_lily They're working on this..there's not really any negative consequences to the environment if we get r… https://t.co/cW9UmQOxi7

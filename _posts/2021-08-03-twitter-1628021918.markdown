@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JankoJerinic 
-date: 2021-08-03 13:18:38 
-categories: twitter 
---- 
-@nope_its_lily $AMZN hitting that elusive $3299.99 target marked the end of the bear market.

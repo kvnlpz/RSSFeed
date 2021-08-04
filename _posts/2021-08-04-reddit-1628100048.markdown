@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BlockFi - Is it worth it? 
-date: 2021-08-04 1628100048 
-categories: reddit 
---- 
-https://redd.it/oxyee0

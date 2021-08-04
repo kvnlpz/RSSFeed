@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LimitlessNaShfx 
-date: 2021-08-01 07:43:12 
-categories: twitter 
---- 
-RT @timothysykes: Are you ready for my hourlong video I recorded last night at 2am on how to trade OTCs safely? SO MUCH BS BEING THROWN ARO…

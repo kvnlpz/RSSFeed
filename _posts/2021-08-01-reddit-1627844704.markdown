@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase not have 4,857 bitcoin. 
-date: 2021-08-01 1627844704 
-categories: reddit 
---- 
-https://redd.it/ovy4ye

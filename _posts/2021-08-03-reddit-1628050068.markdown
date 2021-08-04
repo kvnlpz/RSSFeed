@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I'm wanting to move some coin from Uphold to Coinbase. What should I convert it to to get the lowest transaction fee? 
-date: 2021-08-03 1628050068 
-categories: reddit 
---- 
-https://redd.it/oxklvz

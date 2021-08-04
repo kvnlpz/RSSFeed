@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: FYI - Open your reddit vault to get your moons and use 2FA on your account 
-date: 2021-08-04 1628081873 
-categories: reddit 
---- 
-https://redd.it/oxs4gb

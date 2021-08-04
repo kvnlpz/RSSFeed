@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JankoJerinic 
-date: 2021-07-31 22:51:37 
-categories: twitter 
---- 
-@nope_its_lily I feel the same way with LEAPS. I can stare at deep red for months, farm theta, until finally green.

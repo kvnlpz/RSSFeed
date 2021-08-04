@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-07-27 20:52:55 
-categories: twitter 
---- 
-@ThisTejas fml I see it

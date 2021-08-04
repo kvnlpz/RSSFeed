@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderS37 
-date: 2021-08-04 12:33:24 
-categories: twitter 
---- 
-@OddStockTrader @REBBLelixirs Those good?

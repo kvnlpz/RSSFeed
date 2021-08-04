@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New to Moon 
-date: 2021-08-03 1628041235 
-categories: reddit 
---- 
-https://redd.it/oxi3x8

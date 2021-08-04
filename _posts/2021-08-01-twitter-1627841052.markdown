@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimLancs 
-date: 2021-08-01 11:04:12 
-categories: twitter 
---- 
-@Steven1_994 Is that including the $3m on $AMC?

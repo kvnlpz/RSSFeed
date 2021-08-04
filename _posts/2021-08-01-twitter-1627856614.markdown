@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-01 15:23:34 
-categories: twitter 
---- 
-@oj010209 LOL, where have you been the last 8 years?

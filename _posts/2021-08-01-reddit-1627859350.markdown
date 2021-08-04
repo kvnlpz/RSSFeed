@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $DIBS Price Movement 
-date: 2021-08-01 1627859350 
-categories: reddit 
---- 
-https://redd.it/ow2j6g

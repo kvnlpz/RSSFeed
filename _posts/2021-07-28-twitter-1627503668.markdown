@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chilangodos 
-date: 2021-07-28 13:21:08 
-categories: twitter 
---- 
-@InvestorsLive You'll thank him when he get's the gopher.

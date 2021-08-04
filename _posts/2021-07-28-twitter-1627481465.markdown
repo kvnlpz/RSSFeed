@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DInesedy 
-date: 2021-07-28 07:11:05 
-categories: twitter 
---- 
-RT @muddywatersre: The real business model of course was being public. cc: @GrapefruitGals https://t.co/Yg39jKGO0B

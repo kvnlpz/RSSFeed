@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-04 13:26:10 
-categories: twitter 
---- 
-@newlytrending 86 so far, goal is 1,000+, it's a process

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The DAO Attack (DAO Hack): What is it and What Went Wrong? 
-date: 2021-07-27 1627453023 
-categories: reddit 
---- 
-https://redd.it/ot47fd

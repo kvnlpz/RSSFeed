@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SquareInvest 
-date: 2021-08-01 09:15:33 
-categories: twitter 
---- 
-@InvestorsLive Don't know what I like more, the trailer or the boat...

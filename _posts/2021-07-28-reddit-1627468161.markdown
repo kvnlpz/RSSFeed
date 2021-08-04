@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tokenizing Commercial Real Estate - Polymath Case Study on Redswan.io 
-date: 2021-07-28 1627468161 
-categories: reddit 
---- 
-https://redd.it/ot77d0

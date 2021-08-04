@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Some poor guy loses 5.8 ether in fees for a failed transaction. 
-date: 2021-07-28 1627492914 
-categories: reddit 
---- 
-https://redd.it/oteip5

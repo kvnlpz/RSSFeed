@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-07-31 15:57:13 
-categories: twitter 
---- 
-@JimTilton5 Lamborghini trailer hitches are expensive.

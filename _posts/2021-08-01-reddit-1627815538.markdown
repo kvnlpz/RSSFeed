@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Core And Yield 
-date: 2021-08-01 1627815538 
-categories: reddit 
---- 
-https://redd.it/ovq4g5

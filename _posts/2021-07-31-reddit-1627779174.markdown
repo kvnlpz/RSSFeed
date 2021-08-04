@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Celebrating Eth 2.0 & breaking static barriers 
-date: 2021-07-31 1627779174 
-categories: reddit 
---- 
-https://redd.it/ovinjl

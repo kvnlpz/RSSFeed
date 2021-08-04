@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThiccestLuigi 
-date: 2021-07-27 21:30:55 
-categories: twitter 
---- 
-@nope_its_lily @ConejoCapital those are swoletariat hours

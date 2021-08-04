@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Implied Volatility with Bullish and Bearish Markets 
-date: 2021-07-27 1627429506 
-categories: reddit 
---- 
-https://redd.it/osy5zr

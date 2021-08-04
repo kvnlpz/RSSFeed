@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptobearer 
-date: 2021-07-28 16:00:05 
-categories: twitter 
---- 
-@InvestorsLive Never or drive yourself into the ground...

@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-01 15:24:03 
-categories: twitter 
---- 
-@Jackaroo_Trades Griffeys limited released by Nike.
-
-Probably only on StockX now

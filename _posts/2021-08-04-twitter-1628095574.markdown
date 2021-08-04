@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DK_Cap 
-date: 2021-08-04 09:46:14 
-categories: twitter 
---- 
-@KerrisdaleCap How do you feel comfy underwriting that gov risk

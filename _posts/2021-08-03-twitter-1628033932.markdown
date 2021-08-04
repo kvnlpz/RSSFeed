@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoNewsBroke 
-date: 2021-08-03 16:38:52 
-categories: twitter 
---- 
-@alphatrends Whats your viewpoint on futures? I didnt go to school for finance and am very hesitant to get into futures.

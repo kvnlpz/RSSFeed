@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stellar 10 transaction per second scalable? 
-date: 2021-07-28 1627507931 
-categories: reddit 
---- 
-https://redd.it/otjjg9

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Unpopular Opinion: Not all NFTs are PoS 
-date: 2021-08-02 1627904285 
-categories: reddit 
---- 
-https://redd.it/owco7z

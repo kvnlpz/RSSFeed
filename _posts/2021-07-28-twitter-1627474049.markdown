@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @greenenergyital 
-date: 2021-07-28 05:07:29 
-categories: twitter 
---- 
-@InvestorsLive @snam https://t.co/64F8f7jKGJ

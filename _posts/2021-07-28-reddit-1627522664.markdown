@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC/ETH is currently trading at .057. Last time it was this low was June 16th and Bitcoin spent the following week falling from 40k to 30k. 
-date: 2021-07-28 1627522664 
-categories: reddit 
---- 
-https://redd.it/otntr8

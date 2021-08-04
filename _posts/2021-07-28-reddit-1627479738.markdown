@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking to hire someone to build a software to track crypto 
-date: 2021-07-28 1627479738 
-categories: reddit 
---- 
-https://redd.it/ota5ld

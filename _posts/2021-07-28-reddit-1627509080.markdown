@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Spreading some positive news 
-date: 2021-07-28 1627509080 
-categories: reddit 
---- 
-https://redd.it/otjwug

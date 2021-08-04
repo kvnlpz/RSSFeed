@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PabloS07412557 
-date: 2021-07-31 18:34:41 
-categories: twitter 
---- 
-@nope_its_lily You are real, we aren’t

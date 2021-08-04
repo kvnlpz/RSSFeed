@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @m_charalambous 
-date: 2021-07-28 22:43:51 
-categories: twitter 
---- 
-RT @muddywatersre: This headline falls into the category of “Too grim to read.” https://t.co/6rq1jRaYFw

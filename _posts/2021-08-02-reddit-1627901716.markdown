@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are there alternative wallet to cpnnect to your browser and collect BAT other than uphold? 
-date: 2021-08-02 1627901716 
-categories: reddit 
---- 
-https://redd.it/owc3e2

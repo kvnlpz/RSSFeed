@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I set up a Wallet? 
-date: 2021-08-01 1627868111 
-categories: reddit 
---- 
-https://redd.it/ow4uol

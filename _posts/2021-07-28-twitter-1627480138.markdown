@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @am_says 
-date: 2021-07-28 06:48:58 
-categories: twitter 
---- 
-@muddywatersre @unusual_whales Mann https://t.co/RChHxLs8sG

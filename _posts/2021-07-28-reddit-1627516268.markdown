@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "Bitcoin is only useful for buying drugs when it's slightly popular" and other myths --Al Sweigart, author who thinks he understands Bitcoin 
-date: 2021-07-28 1627516268 
-categories: reddit 
---- 
-https://redd.it/otm376

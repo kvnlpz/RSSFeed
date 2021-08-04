@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-07-28 07:54:43 
-categories: twitter 
---- 
-$QUBT from Junbe 30th worth a read - https://t.co/cJaoY7xUOp

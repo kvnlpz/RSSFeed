@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Withdrawal pending 
-date: 2021-08-01 1627885612 
-categories: reddit 
---- 
-https://redd.it/ow8ymd

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Real crypto adoption with BCH and GoCrypto - at GoCrypto locations you can pay with Bitcoin, ETH, BCH, LTC, XTZ, VIB and GoC 
-date: 2021-07-28 1627463819 
-categories: reddit 
---- 
-https://redd.it/ot6byg

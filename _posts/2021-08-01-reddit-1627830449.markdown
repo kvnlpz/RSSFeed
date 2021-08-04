@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking Cosmos ? 
-date: 2021-08-01 1627830449 
-categories: reddit 
---- 
-https://redd.it/ovtrp2

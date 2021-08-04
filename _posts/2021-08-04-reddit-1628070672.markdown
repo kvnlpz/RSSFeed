@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stock Picking Contest. Let's have a friendly competition, and see how we do against each other. Trading starts today. 
-date: 2021-08-04 1628070672 
-categories: reddit 
---- 
-https://redd.it/oxpaeq

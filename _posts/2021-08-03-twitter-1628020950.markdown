@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JeffBaiocco 
-date: 2021-08-03 13:02:30 
-categories: twitter 
---- 
-@OddStockTrader I wouldn’t ingest something made by Aaron Singerman if my life depended on it.

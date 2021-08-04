@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can some erc20 tokens be more expensive to transfer than others? 
-date: 2021-07-31 1627799604 
-categories: reddit 
---- 
-https://redd.it/ovn7ro

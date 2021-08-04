@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @maiermasonsback 
-date: 2021-07-28 22:17:01 
-categories: twitter 
---- 
-@muddywatersre 😭

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FinancialPopper 
-date: 2021-08-01 07:43:39 
-categories: twitter 
---- 
-@muddywatersre Gates couldn’t address viruses in his software. What made people think he could handle viruses in real life?

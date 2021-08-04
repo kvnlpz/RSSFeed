@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CallerEasy 
-date: 2021-08-01 07:45:42 
-categories: twitter 
---- 
-@muddywatersre it’s funny cause it’s true 😢

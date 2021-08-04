@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MBCapital6 
-date: 2021-07-27 22:24:52 
-categories: twitter 
---- 
-RT @muddywatersre: The real business model of course was being public. cc: @GrapefruitGals
