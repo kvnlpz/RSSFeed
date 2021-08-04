@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @steve_larrison 
+date: 2021-08-03 20:32:02 
+categories: twitter 
+--- 
+@nope_its_lily Well at least PowerPoint is Turing complete - you have to watch the video, it is hilarious.
+
+https://t.co/51FbErlaJ9
