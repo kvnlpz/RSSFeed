@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PSA: Coinbase Pro are not charging a transaction fee for your first trade in August if you have not made a transaction in the last 30 days 
+date: 2021-08-04 1628112797 
+categories: reddit 
+--- 
+https://redd.it/oy2wyi
