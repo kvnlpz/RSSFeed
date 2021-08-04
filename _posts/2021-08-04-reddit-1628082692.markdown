@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin Optech Newsletter #160 
+date: 2021-08-04 1628082692 
+categories: reddit 
+--- 
+https://redd.it/oxsdn5
