@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-04 16:07:43 
+categories: twitter 
+--- 
+@bennpeifert I price my options using Monte Carlo approaches so give me 20 mins to update the quote
