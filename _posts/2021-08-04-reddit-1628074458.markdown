@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What happens when posts get deleted? How is that calculated towards karma/moons? 
+date: 2021-08-04 1628074458 
+categories: reddit 
+--- 
+https://redd.it/oxq5x5
