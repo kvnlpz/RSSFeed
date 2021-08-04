@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC short update 
-date: 2021-07-27 1627399668 
-categories: reddit 
---- 
-https://redd.it/osp1vj
