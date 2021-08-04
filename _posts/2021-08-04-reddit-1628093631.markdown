@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Do cold wallets like Trezor, Ledger, others need Linux or windows? any preference? 
+date: 2021-08-04 1628093631 
+categories: reddit 
+--- 
+https://redd.it/oxw23r
