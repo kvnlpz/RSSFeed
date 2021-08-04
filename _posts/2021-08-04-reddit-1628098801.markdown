@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Proposal: Update the tipping mechanism to be able to tip with 2 decimals 
+date: 2021-08-04 1628098801 
+categories: reddit 
+--- 
+https://redd.it/oxxy4h
