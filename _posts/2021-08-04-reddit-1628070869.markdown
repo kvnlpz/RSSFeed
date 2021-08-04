@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin SV Suffers 51% Attack (Report) 
+date: 2021-08-04 1628070869 
+categories: reddit 
+--- 
+https://redd.it/oxpbwj
