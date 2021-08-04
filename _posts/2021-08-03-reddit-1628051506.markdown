@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin SV suffered a 51% attack today. Can someone ELI5. What is a 51% attack? 
+date: 2021-08-03 1628051506 
+categories: reddit 
+--- 
+https://redd.it/oxkzib
