@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mathtick 
+date: 2021-08-04 00:57:49 
+categories: twitter 
+--- 
+@nope_its_lily It's basically human level AI to even enrich structured data properly.
