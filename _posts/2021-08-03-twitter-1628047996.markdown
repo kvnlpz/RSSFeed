@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @subspaceforce 
+date: 2021-08-03 20:33:16 
+categories: twitter 
+--- 
+@nope_its_lily Wait until the deadlines hit and you end up with Untitled-FINAL2.ipynb
