@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: u/gmitools made a Web App to help Aave users avoid Liquidation 
+date: 2021-08-04 1628061849 
+categories: reddit 
+--- 
+https://redd.it/oxndrs
