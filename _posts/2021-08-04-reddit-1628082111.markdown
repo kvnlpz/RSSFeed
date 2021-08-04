@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin SV had a 51% attack 
+date: 2021-08-04 1628082111 
+categories: reddit 
+--- 
+https://redd.it/oxs77w
