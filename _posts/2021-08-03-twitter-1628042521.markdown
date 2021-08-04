@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @acityinohio 
+date: 2021-08-03 19:02:01 
+categories: twitter 
+--- 
+@nope_its_lily unfortunately this creates a potential cascading consensus failure — in my recent paper "Proof of St… https://t.co/AG8Rqp5xq1
