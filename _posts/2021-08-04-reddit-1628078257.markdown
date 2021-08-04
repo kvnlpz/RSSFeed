@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question about 51% attack. 
+date: 2021-08-04 1628078257 
+categories: reddit 
+--- 
+https://redd.it/oxr40c
