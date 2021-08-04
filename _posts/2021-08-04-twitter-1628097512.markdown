@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-08-04 10:18:32 
+categories: twitter 
+--- 
+Some love this type action.
+
+Personally, it sucks.
