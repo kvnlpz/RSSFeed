@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Amount of posts and comments should be subtracted from karma count when calculating moon rewards 
+date: 2021-08-04 1628080594 
+categories: reddit 
+--- 
+https://redd.it/oxrrbk
