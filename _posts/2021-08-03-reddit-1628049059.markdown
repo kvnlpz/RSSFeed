@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: $AVAX - thoughts on the Avalanche Consensus Protocol (and it’s native token) 
+date: 2021-08-03 1628049059 
+categories: reddit 
+--- 
+https://redd.it/oxkc59
