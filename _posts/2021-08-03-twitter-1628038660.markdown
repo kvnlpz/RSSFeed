@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ohnoforrealtho 
+date: 2021-08-03 17:57:40 
+categories: twitter 
+--- 
+@nope_its_lily this is the company i am starting. with the added ability of treating trained models and functions a… https://t.co/At2ukthsfn
