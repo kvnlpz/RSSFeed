@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mostlycharts 
+date: 2021-08-04 12:40:37 
+categories: twitter 
+--- 
+RT @InvestorsLive: What is Google?
