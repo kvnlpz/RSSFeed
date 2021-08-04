@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @jeff_w1098 
+date: 2021-08-03 20:34:50 
+categories: twitter 
+--- 
+RT @nope_its_lily: i'm a true fan of jupyter-lab and my top 3 albums are Untitled.ipynb, Untitled-1.ipynb, and Untitled-2.ipynb
