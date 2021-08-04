@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why eip1559 makes what it makes 
+date: 2021-08-04 1628110156 
+categories: reddit 
+--- 
+https://redd.it/oy2023
