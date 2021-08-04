@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tarunchitra 
+date: 2021-08-04 16:05:04 
+categories: twitter 
+--- 
+@nope_its_lily Now that he's trying to roll his own crypto code, I hope we tries to have gradient descent write a b… https://t.co/FokX36XdrC
