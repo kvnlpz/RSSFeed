@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ethereum Price Spikes on Eve of EIP-1559 Network Upgrade | Developer says there is a chance of burning more ETH than is produced thus making ETH deflationary 
+date: 2021-08-04 1628108084 
+categories: reddit 
+--- 
+https://redd.it/oy19lo
