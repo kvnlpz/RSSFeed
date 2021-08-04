@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP 1559 EXPLAINED: Check out this interview with an Ethereum developer and early investor to help explain what the London upgrade will mean in practical terms. 
+date: 2021-08-03 1628054492 
+categories: reddit 
+--- 
+https://redd.it/oxlqik
