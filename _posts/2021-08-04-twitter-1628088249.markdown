@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-08-04 07:44:09 
+categories: twitter 
+--- 
+$AMD just wildness
