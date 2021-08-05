@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New entity begins accepting crypto as form of payment 
-date: 2021-08-04 1628122617 
-categories: reddit 
---- 
-https://redd.it/oy5za6
