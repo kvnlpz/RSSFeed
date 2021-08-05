@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cosmos - What are our thoughts on Shared Security? 
-date: 2021-08-04 1628126907 
-categories: reddit 
---- 
-https://redd.it/oy76w9
