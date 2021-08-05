@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trust Wallet prices froze. 
-date: 2021-08-04 1628127281 
-categories: reddit 
---- 
-https://redd.it/oy7ark
