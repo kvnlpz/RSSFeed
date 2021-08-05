@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ready for the London Hard Fork? 
-date: 2021-08-04 1628142735 
-categories: reddit 
---- 
-https://redd.it/oybaft
