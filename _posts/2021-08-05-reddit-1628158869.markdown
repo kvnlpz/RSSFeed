@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What % of your ETH holdings have you invested into ETH2.0 staking or BETH? 
-date: 2021-08-05 1628158869 
-categories: reddit 
---- 
-https://redd.it/oyeo0p
