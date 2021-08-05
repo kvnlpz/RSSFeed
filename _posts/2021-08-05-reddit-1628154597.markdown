@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-1559 "London" Hard Fork 
+date: 2021-08-05 1628154597 
+categories: reddit 
+--- 
+https://redd.it/oydr2z
