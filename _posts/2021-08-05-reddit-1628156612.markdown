@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Brave surpassed 34.4 million monthly active users & 11.9 million daily active users in July 2021! 
-date: 2021-08-05 1628156612 
-categories: reddit 
---- 
-https://redd.it/oyda0b
