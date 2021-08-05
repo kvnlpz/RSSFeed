@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are Nexo/Celsius/BlockFI using the coins to short? 
-date: 2021-08-04 1628146596 
-categories: reddit 
---- 
-https://redd.it/oyc3gn
