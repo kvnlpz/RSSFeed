@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hi reddit fam, for all the new people here who cannot seem to find the CSV file, check out the pinned post. It says Moon Distribution something . For people who are having trouble accessing the CSV file, leave a comment and I'll help you find your Karma. 
-date: 2021-08-04 1628131046 
-categories: reddit 
---- 
-https://redd.it/oy8cte
