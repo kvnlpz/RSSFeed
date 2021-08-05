@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mike_Hudie 
-date: 2021-08-04 18:25:07 
-categories: twitter 
---- 
-RT @MikeBellafiore: Nobody is coming through the door to save you from your bad trading.  You have to do the work.
