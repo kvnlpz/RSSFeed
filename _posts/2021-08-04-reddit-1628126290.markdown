@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How much per day you earn in time decay? 
-date: 2021-08-04 1628126290 
-categories: reddit 
---- 
-https://redd.it/oy70cr
