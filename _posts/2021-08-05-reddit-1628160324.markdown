@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC dropped to under 100$ 
-date: 2021-08-05 1628160324 
-categories: reddit 
---- 
-https://redd.it/oyezk9
