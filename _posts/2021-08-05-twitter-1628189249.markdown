@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @ripntear6 
+date: 2021-08-05 11:47:29 
+categories: twitter 
+--- 
+@nope_its_lily Unpopular evidence,
+credit = bonds + equity + short_vol + eps
