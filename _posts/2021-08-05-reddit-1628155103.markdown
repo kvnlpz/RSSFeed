@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Etheruem really deflationary after London hardfork? 
-date: 2021-08-05 1628155103 
-categories: reddit 
---- 
-https://redd.it/oyduwk
