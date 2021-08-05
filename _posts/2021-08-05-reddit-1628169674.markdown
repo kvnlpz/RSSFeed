@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Electrum wallet only showing BC1 Addresses? 
+date: 2021-08-05 1628169674 
+categories: reddit 
+--- 
+https://redd.it/oyhert
