@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinMarketCap Launches Token Swaps | CoinMarketCap 
-date: 2021-08-04 1628125525 
-categories: reddit 
---- 
-https://redd.it/oy6sre
