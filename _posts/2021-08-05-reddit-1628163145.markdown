@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When is the Ethereum ‘London hard fork’ update and will the price go up? 
-date: 2021-08-05 1628163145 
-categories: reddit 
---- 
-https://redd.it/oyfmrf
