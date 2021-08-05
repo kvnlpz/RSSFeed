@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-1559 just hit! - This is what you need to know about it! 
+date: 2021-08-05 1628167203 
+categories: reddit 
+--- 
+https://redd.it/oygoni
