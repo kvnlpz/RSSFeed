@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Improvements for PLENTY ! 
-date: 2021-08-04 1628134390 
-categories: reddit 
---- 
-https://redd.it/oy99kg
