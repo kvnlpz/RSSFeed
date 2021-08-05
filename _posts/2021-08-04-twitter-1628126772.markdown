@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderHustling 
-date: 2021-08-04 18:26:12 
-categories: twitter 
---- 
-@MikeBellafiore Its negative sum...
