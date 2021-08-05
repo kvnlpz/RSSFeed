@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When you transfer crypto into a hardware wallet how does it keep track of your DCA'ing? 
-date: 2021-08-04 1628145564 
-categories: reddit 
---- 
-https://redd.it/oybwj6
