@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Will all hard storage eventually break or loose memory if left unplugged for years? 
-date: 2021-08-05 1628157740 
-categories: reddit 
---- 
-https://redd.it/oyefgy
