@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is this rich ? 
-date: 2021-08-04 1628140073 
-categories: reddit 
---- 
-https://redd.it/oyaok9
