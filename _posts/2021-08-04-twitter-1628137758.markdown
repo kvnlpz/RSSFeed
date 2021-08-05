@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bobwayne17 
-date: 2021-08-04 21:29:18 
-categories: twitter 
---- 
-RT @nope_its_lily: Probs done being bearish, today was a hard rejection of the bearish thesis, and unless some sort of macro cascade occurs…
