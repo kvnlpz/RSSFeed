@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-05 09:46:43 
+categories: twitter 
+--- 
+@breakingthemark @choffstein @IlariLehti By Doob's, we can say E(S_t) = E(S_t0) for all future t, meaning the expec… https://t.co/jhqnXX7nXe
