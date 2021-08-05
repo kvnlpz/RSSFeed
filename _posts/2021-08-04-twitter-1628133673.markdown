@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hashtagcrafted 
-date: 2021-08-04 20:21:13 
-categories: twitter 
---- 
-@nope_its_lily Keep looking?
