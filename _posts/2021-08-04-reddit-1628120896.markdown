@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reddit Portfolio: purchases made from input on 8/4/21. 1930 EST 
-date: 2021-08-04 1628120896 
-categories: reddit 
---- 
-https://redd.it/oy5h0c
