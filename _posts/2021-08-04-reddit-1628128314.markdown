@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Analysts debate whether Ethereum’s London hardfork is a “sell the news” event 
-date: 2021-08-04 1628128314 
-categories: reddit 
---- 
-https://redd.it/oy7l4x
