@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Nbne_123 
-date: 2021-08-04 22:33:00 
-categories: twitter 
---- 
-@timothysykes 🔥🔥 Let's go
