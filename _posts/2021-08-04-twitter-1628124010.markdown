@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @EmuConspiracy 
-date: 2021-08-04 17:40:10 
-categories: twitter 
---- 
-@nope_its_lily Shipping and energy
