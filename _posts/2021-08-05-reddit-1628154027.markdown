@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why aren't people upvoting new posts? 
-date: 2021-08-05 1628154027 
-categories: reddit 
---- 
-https://redd.it/oydmiy
