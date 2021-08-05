@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Russia plans to build a bitcoin tracking tool to monitor crypto wallets linked to crime and terrorism 
-date: 2021-08-04 1628127181 
-categories: reddit 
---- 
-https://redd.it/oy79py
