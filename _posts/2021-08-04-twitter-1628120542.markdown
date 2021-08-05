@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-04 16:42:22 
-categories: twitter 
---- 
-@MylesDanielsen @LizSimmie Much worse
