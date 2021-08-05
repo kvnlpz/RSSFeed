@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TimboBrady 
+date: 2021-08-05 16:36:03 
+categories: twitter 
+--- 
+@alphatrends Im sensing sarcasm!
