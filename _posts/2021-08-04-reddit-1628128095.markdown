@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Indie coin 
-date: 2021-08-04 1628128095 
-categories: reddit 
---- 
-https://redd.it/oy7j17
