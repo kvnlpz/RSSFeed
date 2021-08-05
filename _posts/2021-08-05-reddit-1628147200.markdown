@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What makes people use the ETH network for DeFi and NFTs over Harmony ONE or SOL? 
-date: 2021-08-05 1628147200 
-categories: reddit 
---- 
-https://redd.it/oyc922
