@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The internet of blockchains. 
-date: 2021-08-04 1628139425 
-categories: reddit 
---- 
-https://redd.it/oyaikv
