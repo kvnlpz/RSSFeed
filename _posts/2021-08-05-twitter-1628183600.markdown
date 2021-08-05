@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ScottHackingMD 
+date: 2021-08-05 10:13:20 
+categories: twitter 
+--- 
+@InvestorsLive this stock is nutz
