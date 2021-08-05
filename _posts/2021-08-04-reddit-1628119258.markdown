@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Weather information provider AccuWeather announced Wednesday that it is launching a Chainlink node to place its weather APIs directly onto blockchain-based smart contracts. 
-date: 2021-08-04 1628119258 
-categories: reddit 
---- 
-https://redd.it/oy4yvn
