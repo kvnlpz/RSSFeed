@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Golem is Up 27% the past 24 Hours 
-date: 2021-08-05 1628151651 
-categories: reddit 
---- 
-https://redd.it/oyd5f8
