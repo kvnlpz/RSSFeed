@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The number of new users coming on the Bitcoin network continues to reach new all time highs 
-date: 2021-08-05 1628153861 
-categories: reddit 
---- 
-https://redd.it/oydl65
