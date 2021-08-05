@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AccuWeather partnered with Chainlink to bring weather data onto the blockchain 
-date: 2021-08-04 1628144063 
-categories: reddit 
---- 
-https://redd.it/oybl12
