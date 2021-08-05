@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP 1559 is going live in about 10 minutes. Found this useful link if you want to witness the first ETH burn. 
+date: 2021-08-05 1628166415 
+categories: reddit 
+--- 
+https://redd.it/oyggzi
