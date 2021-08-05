@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Understanding the New Ethereum - What is EIP-1559? 
+date: 2021-08-05 1628175120 
+categories: reddit 
+--- 
+https://redd.it/oyjyvf
