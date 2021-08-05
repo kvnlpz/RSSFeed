@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Watch only wallet recommendation(For android) 
-date: 2021-08-04 1628144859 
-categories: reddit 
---- 
-https://redd.it/oybrb3
