@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-04 17:50:48 
-categories: twitter 
---- 
-@FREAK0NAUT @optionsbbq rvol cuts both ways, today was primarily hedging flow, the left tail risk is severely under… https://t.co/8HQ10EabNG
