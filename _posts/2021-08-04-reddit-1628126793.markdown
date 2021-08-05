@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tutorial: how to find yourself in the snapshot list 
-date: 2021-08-04 1628126793 
-categories: reddit 
---- 
-https://redd.it/oy75p8
