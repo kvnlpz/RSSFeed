@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vasjax 
-date: 2021-08-04 23:12:43 
-categories: twitter 
---- 
-@InvestorsLive Where did you put your stop?
