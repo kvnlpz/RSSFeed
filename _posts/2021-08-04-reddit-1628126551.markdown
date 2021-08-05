@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about the Moons Leaderboard 
-date: 2021-08-04 1628126551 
-categories: reddit 
---- 
-https://redd.it/oy734y
