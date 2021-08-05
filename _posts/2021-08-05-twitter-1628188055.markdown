@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @stocktalkweekly 
+date: 2021-08-05 11:27:35 
+categories: twitter 
+--- 
+@super_trades I hope
