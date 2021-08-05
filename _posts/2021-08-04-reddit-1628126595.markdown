@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proof of Work Has Division of Power, Proof of Stake Does Not 
-date: 2021-08-04 1628126595 
-categories: reddit 
---- 
-https://redd.it/oy73li
