@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Moons on CoinMarketCap 
-date: 2021-08-04 1628135585 
-categories: reddit 
---- 
-https://redd.it/oy9kg7
