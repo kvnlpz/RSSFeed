@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Someone just sent a $430 million Bitcoin transaction for a fee of $82, although a $0.80 fee would have been enough. $430 million instant settlement with no middleman or banks involved. 
-date: 2021-08-05 1628161438 
-categories: reddit 
---- 
-https://redd.it/oyf8n9
