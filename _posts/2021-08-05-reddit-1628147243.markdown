@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Holochain has zero gas fees, there is no limit to TPS (it's a meaningless concept for Holochain), and it's just about the greenest protocol out there. Am I missing something, or is this the best solution right now? 
+date: 2021-08-05 1628147243 
+categories: reddit 
+--- 
+https://redd.it/oyc9cf
