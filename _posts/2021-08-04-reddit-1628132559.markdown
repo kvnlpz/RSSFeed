@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dogecoin is dead! It’s a good thing too. 
-date: 2021-08-04 1628132559 
-categories: reddit 
---- 
-https://redd.it/oy8ro1
