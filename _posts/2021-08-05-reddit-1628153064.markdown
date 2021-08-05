@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Onecoin 
-date: 2021-08-05 1628153064 
-categories: reddit 
---- 
-https://redd.it/oydf24
