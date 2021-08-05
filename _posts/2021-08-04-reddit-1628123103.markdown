@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Karma, maybe? 
-date: 2021-08-04 1628123103 
-categories: reddit 
---- 
-https://redd.it/oy646t
