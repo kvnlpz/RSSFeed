@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @yourlocalnoodle 
+date: 2021-08-05 09:17:30 
+categories: twitter 
+--- 
+@InvestorsLive $BTB
