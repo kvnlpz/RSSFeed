@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @99Centttt 
-date: 2021-08-04 19:08:19 
-categories: twitter 
---- 
-@alphatrends Now,  do you think it will “flex” a bit below the VWAP but also will spring back?
