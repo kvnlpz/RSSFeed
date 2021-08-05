@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there statistically a best time of day to DCA? 
-date: 2021-08-04 1628130669 
-categories: reddit 
---- 
-https://redd.it/oy88z9
