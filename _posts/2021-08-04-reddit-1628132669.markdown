@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone please ELI5 why crypto is better than traditional currency (i.e. USD)? 
-date: 2021-08-04 1628132669 
-categories: reddit 
---- 
-https://redd.it/oy8sr8
