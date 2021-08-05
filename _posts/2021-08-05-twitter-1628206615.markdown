@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @AlexKtweet 
+date: 2021-08-05 16:36:55 
+categories: twitter 
+--- 
+@alphatrends Is that indicator available on interactive brokers or TC2000?
