@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain.com BTC holding missing and transaction history gone. 
-date: 2021-08-05 1628150946 
-categories: reddit 
---- 
-https://redd.it/oyd0jc
