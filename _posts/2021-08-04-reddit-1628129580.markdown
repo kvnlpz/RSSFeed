@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 16 users hit max karma before the Round 16 Snapshot. I'm user number 17. 
-date: 2021-08-04 1628129580 
-categories: reddit 
---- 
-https://redd.it/oy7xu5
