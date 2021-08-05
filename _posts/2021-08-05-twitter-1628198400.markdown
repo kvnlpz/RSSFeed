@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @WaltCapell 
+date: 2021-08-05 14:20:00 
+categories: twitter 
+--- 
+@alphatrends Saw it happen in real time yesterday as the stock shot up.  Had never seen that cross on level 2 data before.
