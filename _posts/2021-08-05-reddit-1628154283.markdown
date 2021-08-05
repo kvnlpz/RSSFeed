@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Smart contracts in Alonzo Hardfork 
+date: 2021-08-05 1628154283 
+categories: reddit 
+--- 
+https://redd.it/oydora
