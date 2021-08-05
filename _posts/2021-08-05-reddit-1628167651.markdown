@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP 1559 is live, first TX has a nice little easter egg 
+date: 2021-08-05 1628167651 
+categories: reddit 
+--- 
+https://redd.it/oygt1n
