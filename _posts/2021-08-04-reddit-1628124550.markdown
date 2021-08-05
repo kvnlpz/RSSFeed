@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What do you think about this? I got the alert at CrowdSense 
-date: 2021-08-04 1628124550 
-categories: reddit 
---- 
-https://redd.it/oy6isd
