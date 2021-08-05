@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 101 guide on upvotes / downvotes 
-date: 2021-08-05 1628161115 
-categories: reddit 
---- 
-https://redd.it/oyf5ue
