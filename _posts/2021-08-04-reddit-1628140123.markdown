@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Nuanced Must-read Thread on The Benefits of EIP-1559 by Barnabé Monnot of The EF's Robust Incentives Group 
+date: 2021-08-04 1628140123 
+categories: reddit 
+--- 
+https://redd.it/oyap0o
