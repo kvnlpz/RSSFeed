@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bigedd74 
+date: 2021-08-05 13:02:18 
+categories: twitter 
+--- 
+@timothysykes So why do wrote " i lose 2k+" and not -2k
