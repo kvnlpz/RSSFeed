@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-04 20:20:34 
-categories: twitter 
---- 
-@kgreifeld please apologize to Catrick for me
