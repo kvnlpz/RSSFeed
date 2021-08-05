@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looks like GET Protocol - an Ethereum based event and ticketing company - is going to transition into a DAO. This is the beauty of blockchain and the decentralization movement. 
-date: 2021-08-04 1628123407 
-categories: reddit 
---- 
-https://redd.it/oy67hj
