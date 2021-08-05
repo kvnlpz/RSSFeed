@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jlutzkanin 
-date: 2021-08-04 18:40:31 
-categories: twitter 
---- 
-@RayTL_ @BSchulz33868165 @alphacharts365 Always higher
