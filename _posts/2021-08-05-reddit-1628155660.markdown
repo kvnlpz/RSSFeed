@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Joint statement in support of the Ron Wyden, Cynthia Lummis, Sen Toomey amendment that explicitly excludes validators, hardware and software wallet makers, and protocol devs from the expanded definition of a broker. 
-date: 2021-08-05 1628155660 
-categories: reddit 
---- 
-https://redd.it/oydz5j
