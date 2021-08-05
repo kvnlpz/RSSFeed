@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: شرح النهايات رياضيات 
-date: 2021-08-05 1628153582 
-categories: reddit 
---- 
-https://redd.it/oydiq8
