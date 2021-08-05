@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dougfr007 
-date: 2021-08-04 17:21:54 
-categories: twitter 
---- 
-@OddStockTrader My March and April were so bad I didnt bother with May, June, July. Maybe September.
