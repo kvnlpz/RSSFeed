@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Spend my bitcoin 
-date: 2021-08-04 1628141643 
-categories: reddit 
---- 
-https://redd.it/oyb1q7
