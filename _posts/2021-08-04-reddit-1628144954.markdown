@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why are stable coins tied to currency? Wouldn't it make more sense to tie their value to a stable commodity? 
+date: 2021-08-04 1628144954 
+categories: reddit 
+--- 
+https://redd.it/oybrzz
