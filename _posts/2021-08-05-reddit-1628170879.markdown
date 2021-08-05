@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ethereum's London hard fork has activated at block 12,965,000 and EIP-1559 is now active. Just in case if you are still trying to figure out what is EIP1559 & London Hard Fork then here is the detailed guide you should check out. 
+date: 2021-08-05 1628170879 
+categories: reddit 
+--- 
+https://redd.it/oyhsb9
