@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @GarhNauti 
+date: 2021-08-05 12:11:39 
+categories: twitter 
+--- 
+RT @nope_its_lily: I'm going to do some quant credit posting starting soon, mostly since well --
+One cool metric I discovered yesterday (ne…
