@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BIP32 Root Key questions 
+date: 2021-08-04 1628141825 
+categories: reddit 
+--- 
+https://redd.it/oyb379
