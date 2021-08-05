@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Days like today are good for tech enthusiasts 
-date: 2021-08-04 1628128069 
-categories: reddit 
---- 
-https://redd.it/oy7irm
