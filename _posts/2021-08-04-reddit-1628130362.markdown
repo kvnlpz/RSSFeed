@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: USD —> Bitcoin —> AUD 
-date: 2021-08-04 1628130362 
-categories: reddit 
---- 
-https://redd.it/oy85r5
