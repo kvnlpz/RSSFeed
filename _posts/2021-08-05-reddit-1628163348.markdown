@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We need better principles as a community 
-date: 2021-08-05 1628163348 
-categories: reddit 
---- 
-https://redd.it/oyfoic
