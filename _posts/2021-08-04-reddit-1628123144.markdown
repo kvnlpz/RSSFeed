@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Technically, in the new Infrastructure Bill, the term "broker" could be defined as also mining, and Staking. That could affect Moons since you stake for an extra 20%. 
-date: 2021-08-04 1628123144 
-categories: reddit 
---- 
-https://redd.it/oy64qj
