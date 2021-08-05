@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Maybe a better analogy for cold wallets 
-date: 2021-08-05 1628156269 
-categories: reddit 
---- 
-https://redd.it/oye3wr
