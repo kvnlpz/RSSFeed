@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hey Ethereum make this happen 
-date: 2021-08-04 1628143326 
-categories: reddit 
---- 
-https://redd.it/oybfc6
