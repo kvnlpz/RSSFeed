@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I'm looking into incorporating Monero mining to my apps (react) instead of ads 
+date: 2021-08-05 1628158327 
+categories: reddit 
+--- 
+https://redd.it/oxt7ye
