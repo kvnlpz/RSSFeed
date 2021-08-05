@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EIP 1559 LIVE Tomorrow!! 
-date: 2021-08-04 1628129690 
-categories: reddit 
---- 
-https://redd.it/oy7yyy
