@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I've heard about quantum computing and I'm starting to feat for cryptos near future 
-date: 2021-08-04 1628121982 
-categories: reddit 
---- 
-https://redd.it/oy5sor
