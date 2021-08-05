@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $XNET, $NET but decentralized 
-date: 2021-08-04 1628128336 
-categories: reddit 
---- 
-https://redd.it/oy7ld6
