@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: You're telling me this is going to be fixed by tomorrow? If I come back and attempt the exact same transaction it should be pennies as opposed to nearly $150? 
-date: 2021-08-04 1628119858 
-categories: reddit 
---- 
-https://redd.it/oy55xx
