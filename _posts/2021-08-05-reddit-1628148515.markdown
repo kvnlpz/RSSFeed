@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tezos activity => "TOP Blockchains by average daily development activity on GitHub in the last 30 days" 
+date: 2021-08-05 1628148515 
+categories: reddit 
+--- 
+https://redd.it/oycj3a
