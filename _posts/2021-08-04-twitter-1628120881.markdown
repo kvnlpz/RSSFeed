@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-08-04 16:48:01 
-categories: twitter 
---- 
-RT @AkikoFujita: The delisting of US listed Chinese companies inevitable? @muddywatersre Carson Block says that assumption is driving regul…
