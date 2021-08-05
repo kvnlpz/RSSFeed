@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Discussion] ECIP-TDB Mystique EVM and Protocol Upgrades 
-date: 2021-08-04 1628136091 
-categories: reddit 
---- 
-https://redd.it/oy9pew
