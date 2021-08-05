@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TradeSteven 
+date: 2021-08-05 15:27:46 
+categories: twitter 
+--- 
+@OddStockTrader Any other issues that you are experiencing?
