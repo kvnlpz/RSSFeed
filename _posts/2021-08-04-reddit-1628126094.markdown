@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Golem employed to explore the origins of life - The program, called LIFE@Golem, harnesses Golem’s computing power in an attempt to recreate billions of chemical reactions and molecular bonds to trace how the first forms of life could have started on the planet 
-date: 2021-08-04 1628126094 
-categories: reddit 
---- 
-https://redd.it/oy6ydg
