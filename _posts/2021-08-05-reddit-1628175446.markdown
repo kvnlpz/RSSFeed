@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If I mine ETH on my PC during downtime, do I need to change or update my mining app? The miner itself? 
+date: 2021-08-05 1628175446 
+categories: reddit 
+--- 
+https://redd.it/oyk3b1
