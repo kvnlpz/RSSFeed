@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-04 21:12:16 
-categories: twitter 
---- 
-Good to see many traders charting and building themselves as traders.
-
-Goal is to see it snowball.
