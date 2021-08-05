@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ctfallen 
-date: 2021-08-04 20:23:27 
-categories: twitter 
---- 
-@nope_its_lily Co-own with multi sig, maybe. And only if it’s a cat.
