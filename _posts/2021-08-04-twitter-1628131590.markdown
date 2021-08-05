@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paperclip666 
-date: 2021-08-04 19:46:30 
-categories: twitter 
---- 
-@muddywatersre @herbgreenberg @ScorpionFund I Think Scorpion was trying to be nice
