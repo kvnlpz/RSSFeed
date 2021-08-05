@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: AccuWeather brings weather data to smart contracts by running a Chainlink node 
+date: 2021-08-04 1628141621 
+categories: reddit 
+--- 
+https://redd.it/oyb1h5
