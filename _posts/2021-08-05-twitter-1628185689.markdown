@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TradeYourSetup 
+date: 2021-08-05 10:48:09 
+categories: twitter 
+--- 
+@alphatrends Sir is this YTD VWAP?
