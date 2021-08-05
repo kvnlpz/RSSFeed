@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bobwayne17 
-date: 2021-08-04 21:27:29 
-categories: twitter 
---- 
-RT @nope_its_lily: i think all the chains should get together and form a multi-chain oracle for this to make sure rights are protected and…
