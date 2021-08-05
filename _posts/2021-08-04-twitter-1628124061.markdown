@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Amarillo_Slim1 
-date: 2021-08-04 17:41:01 
-categories: twitter 
---- 
-@nope_its_lily Summer gonna be over fastly
