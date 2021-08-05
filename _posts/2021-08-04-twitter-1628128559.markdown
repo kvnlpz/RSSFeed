@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jakk_pott 
-date: 2021-08-04 18:55:59 
-categories: twitter 
---- 
-RT @super_trades: $EGLD built the best mousetrap &amp; its about to go live. The things about bitcoin/ethereum everyone complains they intend t…
