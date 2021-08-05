@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TalYanko 
-date: 2021-08-04 18:13:32 
-categories: twitter 
---- 
-@InvestorsLive Prices went crazy up
