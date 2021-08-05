@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Podcast discussing Tether and the issues surrounding it 
-date: 2021-08-05 1628161310 
-categories: reddit 
---- 
-https://redd.it/oyf7pe
