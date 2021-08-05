@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledger / Trezor 
-date: 2021-08-04 1628128369 
-categories: reddit 
---- 
-https://redd.it/oy7lqd
