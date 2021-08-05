@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Do you believe that transactions on Ethereum will be cheaper overall after EIP-1559? 
+date: 2021-08-04 1628136998 
+categories: reddit 
+--- 
+https://redd.it/oy9xaa
