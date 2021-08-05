@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The futures market is a zero sum game. Does that mean the price fundamentally has no trend? 
-date: 2021-08-04 1628122187 
-categories: reddit 
---- 
-https://redd.it/oy5uv1
