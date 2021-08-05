@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jacobmbuck 
-date: 2021-08-04 17:08:52 
-categories: twitter 
---- 
-RT @super_trades: Fight to stay humble in investing or the market can humble you at anytime.
