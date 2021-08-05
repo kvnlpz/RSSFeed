@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ECCarolan 
-date: 2021-08-04 19:27:44 
-categories: twitter 
---- 
-@nope_its_lily How long?   How long did you spend crafting this wit?
