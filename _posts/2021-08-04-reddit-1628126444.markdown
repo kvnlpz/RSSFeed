@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about impermanent loss 
-date: 2021-08-04 1628126444 
-categories: reddit 
---- 
-https://redd.it/oy721b
