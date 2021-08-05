@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-04 17:51:16 
-categories: twitter 
---- 
-@shiraeis @opensea very rare
