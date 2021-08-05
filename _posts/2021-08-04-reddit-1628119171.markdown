@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When I first heard about Bitcoin 
-date: 2021-08-04 1628119171 
-categories: reddit 
---- 
-https://redd.it/oy4xyd
