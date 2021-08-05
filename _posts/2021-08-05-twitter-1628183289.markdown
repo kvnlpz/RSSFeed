@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ontheslabs 
+date: 2021-08-05 10:08:09 
+categories: twitter 
+--- 
+@OddStockTrader Thanks.
