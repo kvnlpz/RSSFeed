@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Brave browser monthly user update - 34.4 million MAU & 11.9 million DAU 
-date: 2021-08-04 1628145861 
-categories: reddit 
---- 
-https://redd.it/oybhq3
