@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-05 16:37:46 
+categories: twitter 
+--- 
+@AlexKtweet see my pinned tweet, the article has a list of platforms which support AVWAP
