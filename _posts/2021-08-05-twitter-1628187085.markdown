@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @gorillanaires 
+date: 2021-08-05 11:11:25 
+categories: twitter 
+--- 
+@InvestorsLive https://t.co/Du1eZmUmeD
