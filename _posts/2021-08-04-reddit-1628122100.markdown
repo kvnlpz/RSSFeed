@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETHEREUM EIP-1559 RECAP can’t believe it’s tomorrow. We’re so close! 🎉 
-date: 2021-08-04 1628122100 
-categories: reddit 
---- 
-https://redd.it/oy5tuv
