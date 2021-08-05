@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-04 22:27:21 
-categories: twitter 
---- 
-@baldhead_savage Nice!
