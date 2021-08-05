@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In code we trust? 
-date: 2021-08-04 1628126828 
-categories: reddit 
---- 
-https://redd.it/oy763w
