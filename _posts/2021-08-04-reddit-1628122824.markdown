@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Monero GUI wallet 
-date: 2021-08-04 1628122824 
-categories: reddit 
---- 
-https://redd.it/oy619x
