@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-04 16:13:36 
-categories: twitter 
---- 
-@aashiq @bennpeifert What’s an exotic option? Sorry I didn’t get to that section of Natenberg yet. Is that when you… https://t.co/Yl4KiJEkyJ
