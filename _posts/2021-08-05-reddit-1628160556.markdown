@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5 this new bill that’s trying to be passed. 
-date: 2021-08-05 1628160556 
-categories: reddit 
---- 
-https://redd.it/oyf1a7
