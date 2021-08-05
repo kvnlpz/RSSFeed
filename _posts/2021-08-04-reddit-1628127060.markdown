@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone heard of hi.com? Just found them. Looks like a credit union on Ethereum? 
-date: 2021-08-04 1628127060 
-categories: reddit 
---- 
-https://redd.it/oy78he
