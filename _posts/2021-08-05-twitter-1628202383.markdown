@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @TradeSteven 
+date: 2021-08-05 15:26:23 
+categories: twitter 
+--- 
+@OddStockTrader Even with a degrading battery, does the super charge speeds still stay in intact?
