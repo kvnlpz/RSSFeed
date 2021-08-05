@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-05 15:58:55 
+categories: twitter 
+--- 
+@jscherniack What inning are we in?
