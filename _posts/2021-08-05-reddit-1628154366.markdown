@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My 2 cents on (EIP) 1559 for the new guys or: how to unintentionally farm downvotes 101 
-date: 2021-08-05 1628154366 
-categories: reddit 
---- 
-https://redd.it/oydpel
