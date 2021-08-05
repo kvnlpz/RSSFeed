@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @terminalanalyst 
-date: 2021-08-04 16:30:45 
-categories: twitter 
---- 
-@nope_its_lily @LizSimmie Yeah but you’re different
