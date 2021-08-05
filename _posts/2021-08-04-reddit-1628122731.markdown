@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looks like GET Protocol for event and concert ticketing is transitioning to a DAO. Pretty awesome news all in all. That's the beauty of blockchain and the decentralization movement. 
-date: 2021-08-04 1628122731 
-categories: reddit 
---- 
-https://redd.it/oy60c4
