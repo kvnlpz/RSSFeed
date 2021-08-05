@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MlkeBellafiore 
+date: 2021-08-05 11:50:23 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Trading is NOT a zero sum game.  For this to be true, all traders would need to be trading the same time frame and with…
