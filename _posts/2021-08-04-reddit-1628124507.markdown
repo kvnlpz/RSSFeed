@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum EIP 1559 explained! (don't believe everything you read online) 
-date: 2021-08-04 1628124507 
-categories: reddit 
---- 
-https://redd.it/oy6ii1
