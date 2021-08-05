@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-1559 Real-Time Visualization 
+date: 2021-08-04 1628138928 
+categories: reddit 
+--- 
+https://redd.it/oyae35
