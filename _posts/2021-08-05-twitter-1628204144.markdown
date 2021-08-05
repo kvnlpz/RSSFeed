@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-05 15:55:44 
+categories: twitter 
+--- 
+RT @beniaminmincu: Big step forward today.
+
+@ElrondNetwork becomes the first carbon-negative 🇪🇺 European blockchain, opening a new wave of…
