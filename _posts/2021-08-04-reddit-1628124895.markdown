@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can I close the Short Puts out on this trade and leave the Longs in to expire worthless? 
-date: 2021-08-04 1628124895 
-categories: reddit 
---- 
-https://redd.it/oy6mbk
