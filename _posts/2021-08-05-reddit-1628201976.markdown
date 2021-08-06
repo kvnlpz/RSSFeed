@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is DOGE slowly dying? I did some math on this recent run and compared it to BTC and ETH 
-date: 2021-08-05 1628201976 
-categories: reddit 
---- 
-https://redd.it/oyt9v7
