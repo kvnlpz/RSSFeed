@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PUBM 
-date: 2021-08-05 1628205400 
-categories: reddit 
---- 
-https://redd.it/oyubp7
