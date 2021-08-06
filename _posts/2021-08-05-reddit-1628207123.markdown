@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proper use of a .crypto address for medical practice? 
-date: 2021-08-05 1628207123 
-categories: reddit 
---- 
-https://redd.it/oyuuh3
