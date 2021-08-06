@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Closer Look At Ethereum's co founder Vitalik Buterin 
-date: 2021-08-05 1628202333 
-categories: reddit 
---- 
-https://redd.it/oytdvv
