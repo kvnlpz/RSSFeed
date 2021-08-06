@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If Bitcoin is freedom, why do I check the price every 10 minutes? 
-date: 2021-08-05 1628166432 
-categories: reddit 
---- 
-https://redd.it/oygh6g
