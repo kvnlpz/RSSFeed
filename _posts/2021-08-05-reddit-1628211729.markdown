@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is crypto a zero sum game? 
-date: 2021-08-05 1628211729 
-categories: reddit 
---- 
-https://redd.it/oyw6il
