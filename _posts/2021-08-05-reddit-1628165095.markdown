@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Would the Ethereum community be interested in a free, open, and safe technical writing/publishing platform without commercial ads, pay walls, third-party tracking, platform tokens, etc. pp.? 
-date: 2021-08-05 1628165095 
-categories: reddit 
---- 
-https://redd.it/oyg4k8
