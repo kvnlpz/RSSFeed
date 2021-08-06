@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 105$ gas fee to transfer .2 ETH from Matic network? 
-date: 2021-08-05 1628185280 
-categories: reddit 
---- 
-https://redd.it/oynk3r
