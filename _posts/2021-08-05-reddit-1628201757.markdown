@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Life in NYC. 
-date: 2021-08-05 1628201757 
-categories: reddit 
---- 
-https://redd.it/oyt3ol
