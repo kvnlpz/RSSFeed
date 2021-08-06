@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mining with ASICS? 
-date: 2021-08-05 1628219286 
-categories: reddit 
---- 
-https://redd.it/oyy93c
