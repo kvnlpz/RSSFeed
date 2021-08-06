@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ForgeRiver 
+date: 2021-08-05 19:25:15 
+categories: twitter 
+--- 
+RT @muddywatersre: The phrase I started using in 2019 to describe most investors is “anesthetized to risk.” cc: @realKunalAShah
