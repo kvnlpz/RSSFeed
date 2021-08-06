@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: IOTA Firefly Update: Ledger Nano Users Can Now Migrate Their Tokens to the New Mainnet 
-date: 2021-08-05 1628193988 
-categories: reddit 
---- 
-https://redd.it/oyqlul
