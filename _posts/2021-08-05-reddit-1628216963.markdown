@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's the deal with Uphold not allowing me to move crypto to my ledger for 65 days after purchasing them 
-date: 2021-08-05 1628216963 
-categories: reddit 
---- 
-https://redd.it/oyxm42
