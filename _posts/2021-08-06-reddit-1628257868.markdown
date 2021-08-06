@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Community Update: July 21 🔹Launch of the RazorScan V2 🔹Command-line interface is developed in GO programming language 🔹New features have been added to Razor Oracle Smart Contracts Dive deep here: https://bit.ly/3rW23I9 
+date: 2021-08-06 1628257868 
+categories: reddit 
+--- 
+https://redd.it/oz71ad
