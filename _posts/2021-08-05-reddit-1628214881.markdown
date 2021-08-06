@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum problem helps Cardano right? 
-date: 2021-08-05 1628214881 
-categories: reddit 
---- 
-https://redd.it/oyx18j
