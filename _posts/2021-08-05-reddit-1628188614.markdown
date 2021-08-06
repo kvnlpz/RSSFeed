@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EIP-1559 will NOT inherently lower gas fees 
-date: 2021-08-05 1628188614 
-categories: reddit 
---- 
-https://redd.it/oyoq6h
