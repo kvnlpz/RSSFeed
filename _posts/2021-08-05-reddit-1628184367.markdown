@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: by jolly gov'nor, that's a lotta gwei... 
-date: 2021-08-05 1628184367 
-categories: reddit 
---- 
-https://redd.it/oyn8py
