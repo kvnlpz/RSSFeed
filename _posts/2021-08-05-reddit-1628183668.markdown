@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trezor generated seed on Ledger = EMPTY wallet! 
-date: 2021-08-05 1628183668 
-categories: reddit 
---- 
-https://redd.it/oyn073
