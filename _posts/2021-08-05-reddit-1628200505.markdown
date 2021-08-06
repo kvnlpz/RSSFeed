@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Upvote in the name of science! 
-date: 2021-08-05 1628200505 
-categories: reddit 
---- 
-https://redd.it/oysstd
