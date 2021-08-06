@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH EIP1559 London Hard-Fork locked in! 
-date: 2021-08-05 1628166953 
-categories: reddit 
---- 
-https://redd.it/oygm6p
