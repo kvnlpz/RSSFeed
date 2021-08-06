@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thank you 
-date: 2021-08-05 1628196977 
-categories: reddit 
---- 
-https://redd.it/oyrmcv
