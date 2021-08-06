@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where can I read about WHO is burning ETH and WHY? 
-date: 2021-08-05 1628172486 
-categories: reddit 
---- 
-https://redd.it/oyicmk
