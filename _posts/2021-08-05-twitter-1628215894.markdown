@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @acityinohio 
+date: 2021-08-05 19:11:34 
+categories: twitter 
+--- 
+@nope_its_lily @theemilyaccount @drewg__ since this doesn’t read like a bootstrap landing page of a startup with a… https://t.co/zfrHG1RH3L
