@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Over $2 million worth of ETH burned since the London upgrade 
-date: 2021-08-05 1628222303 
-categories: reddit 
---- 
-https://redd.it/oyz1g3
