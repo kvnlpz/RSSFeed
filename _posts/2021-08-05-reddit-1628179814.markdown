@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Wheel - Assigned Stock that's way below Cost - When to sell Covered Call 
-date: 2021-08-05 1628179814 
-categories: reddit 
---- 
-https://redd.it/oylmf0
