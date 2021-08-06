@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Conclave: A Collective Stake Pools! Here's a brief paper overview 
-date: 2021-08-05 1628206791 
-categories: reddit 
---- 
-https://redd.it/oyuqzo
