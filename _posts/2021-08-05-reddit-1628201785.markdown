@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Band of Stonks 
-date: 2021-08-05 1628201785 
-categories: reddit 
---- 
-https://redd.it/oyt6mc
