@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I thought EIP 1559 was supposed to fix this? 
-date: 2021-08-05 1628184268 
-categories: reddit 
---- 
-https://redd.it/oyn7j4
