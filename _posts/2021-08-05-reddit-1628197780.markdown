@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: IOTA Standardization Update - July 2021 
-date: 2021-08-05 1628197780 
-categories: reddit 
---- 
-https://redd.it/oyrwe6
