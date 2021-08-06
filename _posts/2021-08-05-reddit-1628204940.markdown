@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TIPS 
-date: 2021-08-05 1628204940 
-categories: reddit 
---- 
-https://redd.it/oyu6vf
