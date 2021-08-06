@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Amazon invested millions in a pre-revenue company with a system for measuring human proteins 
-date: 2021-08-05 1628209133 
-categories: reddit 
---- 
-https://redd.it/oyvgb1
