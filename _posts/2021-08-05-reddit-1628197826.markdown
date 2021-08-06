@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is going on with Polygon (MATIC)? 
-date: 2021-08-05 1628197826 
-categories: reddit 
---- 
-https://redd.it/oyrwu4
