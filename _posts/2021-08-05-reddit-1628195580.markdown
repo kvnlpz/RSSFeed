@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DD: MCFE calendar 
-date: 2021-08-05 1628195580 
-categories: reddit 
---- 
-https://redd.it/oyr5g7
