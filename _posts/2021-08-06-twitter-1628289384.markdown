@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @maxm_profit 
+date: 2021-08-06 15:36:24 
+categories: twitter 
+--- 
+RT @modern_rock: Abada says his mini miner generates 0.0002478 #bitcoin per month, minus a 5% mining pool fee. At today’s prices, that’s wo…
