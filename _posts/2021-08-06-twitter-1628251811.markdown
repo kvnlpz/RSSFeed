@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @namlas 
+date: 2021-08-06 05:10:11 
+categories: twitter 
+--- 
+RT @muddywatersre: Employers have freedoms too. https://t.co/717gOf2g4q
