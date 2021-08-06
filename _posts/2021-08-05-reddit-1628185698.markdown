@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $ATDS has so little float that it would start to fly if people took notice 
-date: 2021-08-05 1628185698 
-categories: reddit 
---- 
-https://redd.it/oynp53
