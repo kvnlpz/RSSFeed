@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Naive question 
-date: 2021-08-05 1628180254 
-categories: reddit 
---- 
-https://redd.it/oylrwz
