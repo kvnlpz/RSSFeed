@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum mining will soon be obsolete, as 'London' update moves key deadline to December 
-date: 2021-08-05 1628201847 
-categories: reddit 
---- 
-https://redd.it/oyt8gq
