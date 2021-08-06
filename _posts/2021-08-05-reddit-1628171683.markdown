@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETHBurned.info 
-date: 2021-08-05 1628171683 
-categories: reddit 
---- 
-https://redd.it/oyi1bf
