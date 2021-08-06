@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A toast, to Miner 0x7777788200b672a42421017f65ede4fc759564c8 for getting the Ethereum Hard Fork across the line today 🎉 
-date: 2021-08-05 1628183807 
-categories: reddit 
---- 
-https://redd.it/oyn1w2
