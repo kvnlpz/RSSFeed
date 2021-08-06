@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Suggestions: make upvoting score hidden, revealed at the end of a 24 hour cycle. Introduce a comment limitation, as is on creating threads, to comments. Option to hide your moon count. 
+date: 2021-08-06 1628245164 
+categories: reddit 
+--- 
+https://redd.it/oz3v67
