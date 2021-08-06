@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PATREON 
-date: 2021-08-05 1628178238 
-categories: reddit 
---- 
-https://redd.it/oyl2ed
