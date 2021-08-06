@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-06 16:25:39 
+categories: twitter 
+--- 
+@choffstein @CL207 I moved to Solana because no one uses it so it's safe
