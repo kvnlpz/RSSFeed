@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Since going live 3 hours and 19 min ago, EIP 1559 has led to over 750 ETH being burned! 
-date: 2021-08-05 1628178816 
-categories: reddit 
---- 
-https://redd.it/oyl9je
