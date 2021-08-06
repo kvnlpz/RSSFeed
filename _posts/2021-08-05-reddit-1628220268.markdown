@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Differences in IV for calls and puts 
-date: 2021-08-05 1628220268 
-categories: reddit 
---- 
-https://redd.it/oywtwh
