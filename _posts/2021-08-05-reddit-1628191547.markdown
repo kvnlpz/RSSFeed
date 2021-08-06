@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: There is currently a governance poll to reduce the karma towards moons by 50% in the daily discussion and it's a mistake 
-date: 2021-08-05 1628191547 
-categories: reddit 
---- 
-https://redd.it/oypr0a
