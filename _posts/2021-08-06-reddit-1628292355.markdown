@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Charles Hoskinson announced that we are now onto Alonzo Purple! We share the timeline towards Cardano smart contracts and a recap on what to expect during the upcoming Alonzo testnet phases leading up to the mainnet release. 
+date: 2021-08-06 1628292355 
+categories: reddit 
+--- 
+https://redd.it/oze5zq
