@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We need a voting proposal on hiding moon counts. 
-date: 2021-08-05 1628185828 
-categories: reddit 
---- 
-https://redd.it/oynqlh
