@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Problems preventing mass adoption and some ideas on solutions. My perspective. 
-date: 2021-08-05 1628177209 
-categories: reddit 
---- 
-https://redd.it/oykprw
