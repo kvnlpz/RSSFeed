@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Problems with crypto mass adoption and some solutions. My persepective. 
-date: 2021-08-05 1628172523 
-categories: reddit 
---- 
-https://redd.it/oyidr6
