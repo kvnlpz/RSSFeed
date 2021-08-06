@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Inspired by Charles Hoskinson recent ADA Giveaway scams video, we decided to create a simple infographic about free ADA scams. We know it's not much, but it might help someone be aware of it. Please Cardano Community - don't fall for it, you will never earn free ADA just for nothing. 
-date: 2021-08-05 1628180994 
-categories: reddit 
---- 
-https://redd.it/oyd2r9
