@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $hood covered calls and put credit spreads 
-date: 2021-08-05 1628191524 
-categories: reddit 
---- 
-https://redd.it/oyolqs
