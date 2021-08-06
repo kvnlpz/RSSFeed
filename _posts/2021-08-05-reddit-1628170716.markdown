@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s your response to someone who complains about Bitcoin’s environmental impact 
-date: 2021-08-05 1628170716 
-categories: reddit 
---- 
-https://redd.it/oyhqgw
