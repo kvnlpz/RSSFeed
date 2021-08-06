@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chainlink - 2 Big Announcements - CCIP and Chainlink Keepers 
-date: 2021-08-05 1628186216 
-categories: reddit 
---- 
-https://redd.it/oynvil
