@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-05 19:24:51 
+categories: twitter 
+--- 
+@SimpelAlpha the issue is that beta correlations usually break exactly when you don't want them to break
