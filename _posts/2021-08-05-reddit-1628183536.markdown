@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My Best Idea (DD) Long Position 
-date: 2021-08-05 1628183536 
-categories: reddit 
---- 
-https://redd.it/oymyiz
