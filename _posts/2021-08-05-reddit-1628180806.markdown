@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can we appeal when a post is taken down? 
-date: 2021-08-05 1628180806 
-categories: reddit 
---- 
-https://redd.it/oylz70
