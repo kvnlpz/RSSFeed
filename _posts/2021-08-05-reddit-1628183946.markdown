@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: To compound or not to compound... Useful calculator 
-date: 2021-08-05 1628183946 
-categories: reddit 
---- 
-https://redd.it/oyn3mb
