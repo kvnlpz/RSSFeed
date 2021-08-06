@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chico Crypto with new video on Chainlink and LinkPool 
-date: 2021-08-05 1628214004 
-categories: reddit 
---- 
-https://redd.it/oywt1r
