@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @drakedanner 
+date: 2021-08-05 20:12:12 
+categories: twitter 
+--- 
+RT @nope_its_lily: I have a very strong opinion on this that hasn’t finished loading yet
