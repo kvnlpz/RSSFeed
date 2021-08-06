@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: As of writing, about 1000 ΞTH ($2.7 Million) has already been burned since EIP-1559 went live. We’re on our way to ultrasound money! 
-date: 2021-08-05 1628182282 
-categories: reddit 
---- 
-https://redd.it/oymi09
