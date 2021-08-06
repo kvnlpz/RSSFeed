@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: i'm green!! i'm super green!! 
-date: 2021-08-05 1628175292 
-categories: reddit 
---- 
-https://redd.it/oyk1cp
