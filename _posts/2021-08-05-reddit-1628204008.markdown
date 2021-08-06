@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hard Forks 
-date: 2021-08-05 1628204008 
-categories: reddit 
---- 
-https://redd.it/oytwfp
