@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We’ve all heard of Dollar Cost Averaging. Here is the meth behind it. 
-date: 2021-08-05 1628189314 
-categories: reddit 
---- 
-https://redd.it/oyoyw6
