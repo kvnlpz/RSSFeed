@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "The project I'm lucky enough to be working on has the potential to bring tens of millions of users to Ethereum. Not that we're special, just that is the existing userbase of this org." - Matt Finestone Head of Blockchain Technology at Gamestop 
-date: 2021-08-05 1628173212 
-categories: reddit 
---- 
-https://redd.it/oyixzq
