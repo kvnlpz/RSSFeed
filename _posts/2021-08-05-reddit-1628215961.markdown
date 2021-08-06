@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This week's low 
-date: 2021-08-05 1628215961 
-categories: reddit 
---- 
-https://redd.it/oyxc6i
