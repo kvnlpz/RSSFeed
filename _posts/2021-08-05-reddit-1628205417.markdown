@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trying to connect to Daedalus Mainnet but it's been saying this for around 30mins 
-date: 2021-08-05 1628205417 
-categories: reddit 
---- 
-https://redd.it/oyuc1a
