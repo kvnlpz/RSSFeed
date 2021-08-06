@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin mining Question 
-date: 2021-08-05 1628187718 
-categories: reddit 
---- 
-https://redd.it/oyoezc
