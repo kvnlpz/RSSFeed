@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH fork causing mining rewards to increase heavily. 
-date: 2021-08-05 1628222175 
-categories: reddit 
---- 
-https://redd.it/oyz0ap
