@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Aave is Exploring Launch of Its Lending Markets on Solana, Avalanche, Optimism and Arbitrum 
-date: 2021-08-05 1628182326 
-categories: reddit 
---- 
-https://redd.it/oymikp
