@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Feed the PIG 
-date: 2021-08-05 1628202804 
-categories: reddit 
---- 
-https://redd.it/oyphu2
