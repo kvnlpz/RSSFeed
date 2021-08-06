@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It's Official. Federated Sidechains are coming 
-date: 2021-08-05 1628199193 
-categories: reddit 
---- 
-https://redd.it/oysdp8
