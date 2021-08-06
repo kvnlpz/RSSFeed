@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made a free crypto news and watchlist app for iOS. Any feedback is appreciated! 
-date: 2021-08-05 1628213388 
-categories: reddit 
---- 
-https://redd.it/oywn5q
