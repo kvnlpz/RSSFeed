@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EIP-1559 Has Already Burned $1 Million Worth of ETH 
-date: 2021-08-05 1628175340 
-categories: reddit 
---- 
-https://redd.it/oyk21g
