@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 🤑 Almost 12 ETH burned per block @423 Gwei base fee! 
-date: 2021-08-05 1628188304 
-categories: reddit 
---- 
-https://redd.it/oyom4n
