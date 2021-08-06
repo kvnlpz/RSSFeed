@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Kraken (and my own inexperience) screwed me over 
-date: 2021-08-05 1628200021 
-categories: reddit 
---- 
-https://redd.it/oysnet
