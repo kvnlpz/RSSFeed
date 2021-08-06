@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance's Euro prices descrepancies 
-date: 2021-08-05 1628168491 
-categories: reddit 
---- 
-https://redd.it/oyh23t
