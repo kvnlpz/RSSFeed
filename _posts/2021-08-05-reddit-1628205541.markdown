@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I have the feeling... 
-date: 2021-08-05 1628205541 
-categories: reddit 
---- 
-https://redd.it/oyudcn
