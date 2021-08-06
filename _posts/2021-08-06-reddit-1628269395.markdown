@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Chainlink Keepers enables smart contracts to automate key functions and event-driven tasks in a highly reliable, decentralized, and cost-efficient manner 
+date: 2021-08-06 1628269395 
+categories: reddit 
+--- 
+https://redd.it/ozatzf
