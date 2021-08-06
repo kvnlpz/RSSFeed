@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Subreddit rule flaws 
-date: 2021-08-05 1628216798 
-categories: reddit 
---- 
-https://redd.it/oyxk7m
