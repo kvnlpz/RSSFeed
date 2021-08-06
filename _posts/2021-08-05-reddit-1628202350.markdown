@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best way to kill (sync) time 
-date: 2021-08-05 1628202350 
-categories: reddit 
---- 
-https://redd.it/oynwxh
