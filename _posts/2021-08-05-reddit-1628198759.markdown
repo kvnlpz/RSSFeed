@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Results of the ‘Digital Euro’ CBDC Trials Are Finally Here - "Tezos, Hyperledger Fabric, and NEM are fully interoperable with existing fiat systems, allowing several use cases and supporting various features of a potential CBDC in the future." 
-date: 2021-08-05 1628198759 
-categories: reddit 
---- 
-https://redd.it/oys8eu
