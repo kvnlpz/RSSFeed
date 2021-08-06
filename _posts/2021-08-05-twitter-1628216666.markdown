@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-05 19:24:26 
+categories: twitter 
+--- 
+@SimpelAlpha this should work until it doesn't and you go bankrupt
