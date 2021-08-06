@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH gas is pumping! 
-date: 2021-08-05 1628183236 
-categories: reddit 
---- 
-https://redd.it/oymuq0
