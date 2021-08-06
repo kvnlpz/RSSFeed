@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The hidden goldmine: “No-coin DLT” and IOTAs feeless data-transactions 
-date: 2021-08-05 1628221830 
-categories: reddit 
---- 
-https://redd.it/oyywy4
