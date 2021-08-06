@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Ethereum upgrade right now is equivalent to a whale buying $500-$600m worth of ETH each month and never selling it. 
-date: 2021-08-05 1628175548 
-categories: reddit 
---- 
-https://redd.it/oyk4jj
