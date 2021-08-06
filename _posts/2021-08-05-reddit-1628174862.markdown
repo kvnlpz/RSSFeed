@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Anyone here getting an error when trying to post or comment ? 
-date: 2021-08-05 1628174862 
-categories: reddit 
---- 
-https://redd.it/oyjv97
