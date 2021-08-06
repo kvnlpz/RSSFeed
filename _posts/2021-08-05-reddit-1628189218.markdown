@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Federated Sidechains on the XRP Ledger will enable developers to implement smart contracts that interoperate seamlessly with XRP and the XRP Ledger 
-date: 2021-08-05 1628189218 
-categories: reddit 
---- 
-https://redd.it/oyoxo0
