@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: London Hard Fork on Ethereum Now Live 
-date: 2021-08-05 1628167248 
-categories: reddit 
---- 
-https://redd.it/oygp47
