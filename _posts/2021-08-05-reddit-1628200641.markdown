@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ether is now above the 100-day moving average, outperforming Bitcoin and burning 2.85ETH per Minute 
-date: 2021-08-05 1628200641 
-categories: reddit 
---- 
-https://redd.it/oysuiu
