@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: London Hard fork is now live! 
-date: 2021-08-05 1628167082 
-categories: reddit 
---- 
-https://redd.it/oygnj4
