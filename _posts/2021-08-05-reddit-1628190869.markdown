@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: IOTA: Firefly Token Migration Guide for Ledger Users 
-date: 2021-08-05 1628190869 
-categories: reddit 
---- 
-https://redd.it/oypio8
