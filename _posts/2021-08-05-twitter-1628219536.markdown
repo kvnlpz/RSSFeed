@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @shodges11 
+date: 2021-08-05 20:12:16 
+categories: twitter 
+--- 
+RT @nope_its_lily: @nic__carter We just discovered a new validation mechanism for transactions: proof of mistake
