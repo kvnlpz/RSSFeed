@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where do I start? 
-date: 2021-08-05 1628185744 
-categories: reddit 
---- 
-https://redd.it/oynpr3
