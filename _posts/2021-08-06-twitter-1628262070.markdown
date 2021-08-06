@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bubstron 
+date: 2021-08-06 08:01:10 
+categories: twitter 
+--- 
+@OddStockTrader 😄
