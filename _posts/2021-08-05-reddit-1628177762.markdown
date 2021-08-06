@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best way to swap ERC20 tokens to BTC (out of CEX) 
-date: 2021-08-05 1628177762 
-categories: reddit 
---- 
-https://redd.it/oykwmx
