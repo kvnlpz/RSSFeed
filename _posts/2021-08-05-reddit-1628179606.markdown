@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum block 12,965,263 is the first block to be deflationary. More Eth burned than block reward. 
-date: 2021-08-05 1628179606 
-categories: reddit 
---- 
-https://redd.it/oyljtn
