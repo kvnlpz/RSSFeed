@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Better late than never 
-date: 2021-08-05 1628203407 
-categories: reddit 
---- 
-https://redd.it/oytpyu
