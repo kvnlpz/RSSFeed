@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-08-06 12:34:20 
+categories: twitter 
+--- 
+RT @naval: The TSA has metastasized, escaped airports, and is spreading throughout the world.
