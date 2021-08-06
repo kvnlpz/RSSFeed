@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I recently released Coinsink - an enhanced crypto faucet aggregator and rotator, which includes Waves faucets 
-date: 2021-08-05 1628199149 
-categories: reddit 
---- 
-https://redd.it/oysd9l
