@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum just activated a major change called the 'London hard fork' and why it's a big deal 
-date: 2021-08-05 1628207574 
-categories: reddit 
---- 
-https://redd.it/oyuzci
