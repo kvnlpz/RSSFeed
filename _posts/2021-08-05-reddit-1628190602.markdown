@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto Alert App w/Math Need Recommendation 
-date: 2021-08-05 1628190602 
-categories: reddit 
---- 
-https://redd.it/oyof7h
