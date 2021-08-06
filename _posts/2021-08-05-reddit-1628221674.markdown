@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a bad bill. 
-date: 2021-08-05 1628221674 
-categories: reddit 
---- 
-https://redd.it/oyyvi7
