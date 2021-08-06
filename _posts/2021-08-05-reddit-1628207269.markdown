@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Built on Polygon with a direct partnership with Polygon themselves, ADAmatic is a two-way bridge to bridge their Polygon-based assets to Cardano, and back. 
-date: 2021-08-05 1628207269 
-categories: reddit 
---- 
-https://redd.it/oyuw24
