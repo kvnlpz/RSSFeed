@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is a Joke... $35 transaction fees 
-date: 2021-08-05 1628198223 
-categories: reddit 
---- 
-https://redd.it/oys1qf
