@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Much Anticipated Ethereum’s London Hard Fork is Live Now 
-date: 2021-08-05 1628185653 
-categories: reddit 
---- 
-https://redd.it/oynojv
