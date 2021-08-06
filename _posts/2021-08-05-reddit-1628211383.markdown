@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I did filter the top 300-400 so you don't have to 
-date: 2021-08-05 1628211383 
-categories: reddit 
---- 
-https://redd.it/oyw2rq
