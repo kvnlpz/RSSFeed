@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reducing Karma in the daily thread is a bad idea. Here's why. 
-date: 2021-08-05 1628200685 
-categories: reddit 
---- 
-https://redd.it/oysuvk
