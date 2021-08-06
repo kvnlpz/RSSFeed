@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @stoxdox 
+date: 2021-08-05 20:13:08 
+categories: twitter 
+--- 
+@nope_its_lily Let us know once it is fully loaded... awaiting instructions.
