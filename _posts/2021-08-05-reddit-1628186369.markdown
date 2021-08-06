@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: LPT: Check r/ethminers to know if the fees are the same or not after the "fork". 
-date: 2021-08-05 1628186369 
-categories: reddit 
---- 
-https://redd.it/oynxio
