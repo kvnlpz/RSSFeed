@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: HODL poll 
-date: 2021-08-05 1628179756 
-categories: reddit 
---- 
-https://redd.it/oyllmb
