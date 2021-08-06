@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to fix the moon voting issue. 
-date: 2021-08-05 1628205462 
-categories: reddit 
---- 
-https://redd.it/oyuce5
