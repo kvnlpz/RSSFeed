@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Everyone wants mass adoption, yet at the same time mocks anything that makes mass adoption easier. 
-date: 2021-08-05 1628181645 
-categories: reddit 
---- 
-https://redd.it/oym9w6
