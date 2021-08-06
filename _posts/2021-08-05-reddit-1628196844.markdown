@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coin mining 
-date: 2021-08-05 1628196844 
-categories: reddit 
---- 
-https://redd.it/oyrklp
