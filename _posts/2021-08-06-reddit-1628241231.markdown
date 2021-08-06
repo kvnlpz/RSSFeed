@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BitcoinSV miners create a ¡¡¡1GB block!!! Block number: 699097 - Fees: 5.03 BSVs - Subsidy : 6.25 BSVs - Block size: 999,743,208 bytes ≃ 1 GB 
+date: 2021-08-06 1628241231 
+categories: reddit 
+--- 
+https://redd.it/oz3329
