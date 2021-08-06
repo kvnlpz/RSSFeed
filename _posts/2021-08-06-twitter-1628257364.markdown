@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @anialfatha 
+date: 2021-08-06 06:42:44 
+categories: twitter 
+--- 
+RT @InvestorsLive: There is no better tool in trading than screen time.
