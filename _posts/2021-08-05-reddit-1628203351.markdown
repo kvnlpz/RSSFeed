@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CoinMarketCap Diamonds got their first utility, kinda 
-date: 2021-08-05 1628203351 
-categories: reddit 
---- 
-https://redd.it/oytpad
