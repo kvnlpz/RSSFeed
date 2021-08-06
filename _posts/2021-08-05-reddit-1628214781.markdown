@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Multi dimensional cryptography. 
-date: 2021-08-05 1628214781 
-categories: reddit 
---- 
-https://redd.it/oyx0bm
