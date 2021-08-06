@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thoughts on the Fold Card? 
-date: 2021-08-05 1628167754 
-categories: reddit 
---- 
-https://redd.it/oygtz3
