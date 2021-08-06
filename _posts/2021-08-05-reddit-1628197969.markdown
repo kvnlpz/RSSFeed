@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Newbie question about the current ETH Burn 
-date: 2021-08-05 1628197969 
-categories: reddit 
---- 
-https://redd.it/oyryo3
