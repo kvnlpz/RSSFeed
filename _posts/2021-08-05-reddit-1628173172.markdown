@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blasting off After EIP 1559 
-date: 2021-08-05 1628173172 
-categories: reddit 
---- 
-https://redd.it/oyiwvc
