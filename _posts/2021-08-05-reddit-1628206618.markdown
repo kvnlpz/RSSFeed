@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In defense of all that ZEC in transparent addresses 
-date: 2021-08-05 1628206618 
-categories: reddit 
---- 
-https://redd.it/oyup6w
