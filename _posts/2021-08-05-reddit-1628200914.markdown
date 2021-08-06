@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is it possible to open Bitcoin wallet created on ledger nano with '24 words + 25 phrase' on Electrum or any other Bitcoin wallet? 
-date: 2021-08-05 1628200914 
-categories: reddit 
---- 
-https://redd.it/oysxv0
