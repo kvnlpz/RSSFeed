@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A thought about this subreddit's governance polls 
-date: 2021-08-05 1628189838 
-categories: reddit 
---- 
-https://redd.it/oyp5fs
