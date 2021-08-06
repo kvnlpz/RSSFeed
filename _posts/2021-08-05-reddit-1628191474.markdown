@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: No, Ethereum is not deflationary now, but EIP-1559 is still fantastic (how EIP-1559 works) 
-date: 2021-08-05 1628191474 
-categories: reddit 
---- 
-https://redd.it/oypq1m
