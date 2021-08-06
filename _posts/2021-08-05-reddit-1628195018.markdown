@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Senators @RonWyden , @SenToomey & @CynthiaMLummis introduced an amendment to the provision that will clarify the expansion of the definition of a “broker” doesn’t apply to open source software devs or miners. #Bitcoin needs your help. More info below: 
-date: 2021-08-05 1628195018 
-categories: reddit 
---- 
-https://redd.it/oyqycj
