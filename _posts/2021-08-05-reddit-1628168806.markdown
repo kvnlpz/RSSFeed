@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Swisscom will become a Chainlink node operator 
-date: 2021-08-05 1628168806 
-categories: reddit 
---- 
-https://redd.it/oyh5eg
