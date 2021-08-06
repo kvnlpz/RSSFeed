@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @rusmar01 
+date: 2021-08-05 17:49:39 
+categories: twitter 
+--- 
+@alphatrends I just started using the anchored vwap recently after following you for awhile. It has really helped w… https://t.co/eT3mUze4VH
