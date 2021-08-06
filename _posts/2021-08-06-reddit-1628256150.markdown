@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Number of validators to halt the network - nakamoto coefficient 
+date: 2021-08-06 1628256150 
+categories: reddit 
+--- 
+https://redd.it/oz6j0b
