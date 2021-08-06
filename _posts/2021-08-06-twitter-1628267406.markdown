@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @cosmo_trading 
+date: 2021-08-06 09:30:06 
+categories: twitter 
+--- 
+@timothysykes Thanks Tim!
