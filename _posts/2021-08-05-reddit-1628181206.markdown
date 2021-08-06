@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum is burning 
-date: 2021-08-05 1628181206 
-categories: reddit 
---- 
-https://redd.it/oym4c5
