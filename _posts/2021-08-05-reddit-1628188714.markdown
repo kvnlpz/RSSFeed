@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH hard-fork gas fee 
-date: 2021-08-05 1628188714 
-categories: reddit 
---- 
-https://redd.it/oyorfd
