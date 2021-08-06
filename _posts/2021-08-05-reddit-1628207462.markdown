@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Complete Beginner's Guide to Limit Orders, Market Orders, and Stop Limit Orders 
-date: 2021-08-05 1628207462 
-categories: reddit 
---- 
-https://redd.it/oyuy5y
