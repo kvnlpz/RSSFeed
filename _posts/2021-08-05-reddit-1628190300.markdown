@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DLT and the Future of Public Blockchains 
-date: 2021-08-05 1628190300 
-categories: reddit 
---- 
-https://redd.it/oypbie
