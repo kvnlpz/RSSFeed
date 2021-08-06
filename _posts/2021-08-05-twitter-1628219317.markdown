@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @querungshilfe 
+date: 2021-08-05 20:08:37 
+categories: twitter 
+--- 
+RT @nope_its_lily: @nic__carter We just discovered a new validation mechanism for transactions: proof of mistake
