@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $ANY Sphere 3D merging with Gryphon Mining - acquires 220,000 miners! 
-date: 2021-08-05 1628220135 
-categories: reddit 
---- 
-https://redd.it/oyyh6t
