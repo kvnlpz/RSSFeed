@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to read candlestick charts (one more thing you should know how to do if you've got any skin in the game). This article was easy for me to understand, which is saying something 
-date: 2021-08-05 1628180952 
-categories: reddit 
---- 
-https://redd.it/oym140
