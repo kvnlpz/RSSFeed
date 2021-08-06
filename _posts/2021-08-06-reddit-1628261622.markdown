@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cheap HTTP GET Oracles? 
+date: 2021-08-06 1628261622 
+categories: reddit 
+--- 
+https://redd.it/oz87rl
