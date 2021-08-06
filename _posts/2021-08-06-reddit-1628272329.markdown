@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Introducing NXTP: a simpler xchain transfer protocol by Connext, bringing interoperability between the L2 Ecosystem 
+date: 2021-08-06 1628272329 
+categories: reddit 
+--- 
+https://redd.it/ozbt62
