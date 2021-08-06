@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Protecting your crypto and yourself from Sim Swap attacks and the best 2FA security practices 
+date: 2021-08-06 1628289599 
+categories: reddit 
+--- 
+https://redd.it/ozhafo
