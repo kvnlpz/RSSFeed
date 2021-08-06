@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proposal for governance: Increase karma by 25% for text posts 
-date: 2021-08-05 1628184602 
-categories: reddit 
---- 
-https://redd.it/oynbtt
