@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What do y'all think of Exodus as a software wallet? 
-date: 2021-08-05 1628214568 
-categories: reddit 
---- 
-https://redd.it/oywyds
