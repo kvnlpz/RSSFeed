@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Ethereum] the london hard fork is live now 
-date: 2021-08-05 1628167337 
-categories: reddit 
---- 
-https://redd.it/oygpz6
