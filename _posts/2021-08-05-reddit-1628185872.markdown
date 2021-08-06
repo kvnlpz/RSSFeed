@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Half-empty blocks being mined. Are miners trying to protest the upgrade or is there some technical explanation for that? 
-date: 2021-08-05 1628185872 
-categories: reddit 
---- 
-https://redd.it/oynr85
