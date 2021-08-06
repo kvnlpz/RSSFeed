@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH Price Dip & FUD 
-date: 2021-08-05 1628210905 
-categories: reddit 
---- 
-https://redd.it/oyvxzy
