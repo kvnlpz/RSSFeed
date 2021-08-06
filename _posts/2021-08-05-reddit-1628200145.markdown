@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Exchange statistics/ popularity 
-date: 2021-08-05 1628200145 
-categories: reddit 
---- 
-https://redd.it/oysoy0
