@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What are the fees to transfer from stellar usdc to erc20 usdc and vice versa? 
+date: 2021-08-06 1628257388 
+categories: reddit 
+--- 
+https://redd.it/oz6wag
