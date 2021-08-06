@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: #Chainlink’s collaboration with @googlecloud, enabling smart contracts to now query @NOAA weather datasets on Google #BigQuery for powering on-chain parametric insurance based on reliable weather measurements from 9000+ stations. 
+date: 2021-08-06 1628259655 
+categories: reddit 
+--- 
+https://redd.it/oz7l3u
