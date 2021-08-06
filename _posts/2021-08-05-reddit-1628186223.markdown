@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Biblical Amount Of Skepticism About Cardano (ada) Smart Contract 
-date: 2021-08-05 1628186223 
-categories: reddit 
---- 
-https://redd.it/oynvmt
