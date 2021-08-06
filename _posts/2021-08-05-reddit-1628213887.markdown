@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If I were to learn how to code for ETH or other cryptos, what exactly would I do? What crypto coding “jobs” are available? What kind of business or financial opportunities could I facilitate? What value would I be providing to whom? 
-date: 2021-08-05 1628213887 
-categories: reddit 
---- 
-https://redd.it/oywruu
