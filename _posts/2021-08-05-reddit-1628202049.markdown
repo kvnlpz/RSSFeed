@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 1,477,916.69 is the approximate number of ETH that will be burned per year. At the current rate of 2.81ETH per minute 🤯 
-date: 2021-08-05 1628202049 
-categories: reddit 
---- 
-https://redd.it/oytan7
