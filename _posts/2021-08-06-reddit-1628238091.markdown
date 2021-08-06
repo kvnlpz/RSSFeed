@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: 可否类似EIP1559，修改monero的经济模型，在手续费里面按照百分比部分销毁monero，比如5% 
+date: 2021-08-06 1628238091 
+categories: reddit 
+--- 
+https://redd.it/oz0szo
