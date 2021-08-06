@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Whats up with these empty blocks? 
-date: 2021-08-05 1628167634 
-categories: reddit 
---- 
-https://redd.it/oygsv5
