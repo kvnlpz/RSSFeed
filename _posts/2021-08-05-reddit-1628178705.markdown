@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tracking sperm on Bitcoin with Eggschain 
-date: 2021-08-05 1628178705 
-categories: reddit 
---- 
-https://redd.it/oyl89g
