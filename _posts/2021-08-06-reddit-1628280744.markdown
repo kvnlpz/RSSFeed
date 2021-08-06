@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How do I connect my BAT wallet to Gemini on Nightly? I tried disconnecting my Uphold wallet... is it just not implemented properly yet? 
+date: 2021-08-06 1628280744 
+categories: reddit 
+--- 
+https://redd.it/ozeju5
