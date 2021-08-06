@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: When you have multiple positions in the same stock, which one do you close first to SL/TP? 
-date: 2021-08-05 1628194754 
-categories: reddit 
---- 
-https://redd.it/oyqv3u
