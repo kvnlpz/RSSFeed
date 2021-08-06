@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reduce the karma value by 50% for the daily discussion threads 
-date: 2021-08-05 1628180078 
-categories: reddit 
---- 
-https://redd.it/oylpp9
