@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA Polkadot Nominators: Please note that the maximum number of nominators (22,500) was achieved 
-date: 2021-08-05 1628192896 
-categories: reddit 
---- 
-https://redd.it/oyq7qx
