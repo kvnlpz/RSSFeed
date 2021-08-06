@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum already turned deflationary after London hardfork today! 
-date: 2021-08-05 1628185479 
-categories: reddit 
---- 
-https://redd.it/oynmje
