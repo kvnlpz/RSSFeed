@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does this belong here? 
-date: 2021-08-05 1628181442 
-categories: reddit 
---- 
-https://redd.it/oym7e8
