@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NVDA to Deliver Autonomous Systems to Amazon 
-date: 2021-08-05 1628201886 
-categories: reddit 
---- 
-https://redd.it/oyt8wt
