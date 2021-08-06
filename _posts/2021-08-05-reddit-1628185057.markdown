@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Eth standing on its own? 
-date: 2021-08-05 1628185057 
-categories: reddit 
---- 
-https://redd.it/oynhjx
