@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BTC Options trading, auto delta hedger work question. 
+date: 2021-08-06 1628239837 
+categories: reddit 
+--- 
+https://redd.it/oz2tbf
