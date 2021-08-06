@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Economics 101: A base unit's maximum supply for divisible coins is arbitrary and does not imply scarcity 
-date: 2021-08-05 1628186699 
-categories: reddit 
---- 
-https://redd.it/oyo1wb
