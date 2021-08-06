@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [I wonder] 
-date: 2021-08-05 1628204433 
-categories: reddit 
---- 
-https://redd.it/oyu17p
