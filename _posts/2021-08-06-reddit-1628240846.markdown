@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: MEV on Eth 2.0: The Good, the Bad and the Ugly 
+date: 2021-08-06 1628240846 
+categories: reddit 
+--- 
+https://redd.it/oz30fk
