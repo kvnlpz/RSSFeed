@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMD PUTS 
-date: 2021-08-05 1628199171 
-categories: reddit 
---- 
-https://redd.it/oysdgw
