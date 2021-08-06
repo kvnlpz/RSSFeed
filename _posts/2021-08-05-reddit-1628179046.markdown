@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a projected APY for staking ETH once we can all do it without long lock up periods? 
-date: 2021-08-05 1628179046 
-categories: reddit 
---- 
-https://redd.it/oylcfh
