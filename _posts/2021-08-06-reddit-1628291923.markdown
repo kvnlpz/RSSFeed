@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I was SIM-jacked! SMS is not good 2FA. Use an authenticator app! 
+date: 2021-08-06 1628291923 
+categories: reddit 
+--- 
+https://redd.it/ozhysw
