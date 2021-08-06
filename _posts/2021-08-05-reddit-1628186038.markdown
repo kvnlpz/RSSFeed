@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 8.5 ETH burnt in a single block! 
-date: 2021-08-05 1628186038 
-categories: reddit 
---- 
-https://redd.it/oynt7k
