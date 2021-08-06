@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here-and-now applications 
-date: 2021-08-05 1628183833 
-categories: reddit 
---- 
-https://redd.it/oyn255
