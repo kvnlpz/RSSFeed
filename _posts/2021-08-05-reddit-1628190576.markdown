@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why did the gas fees increase after the london hard fork? 
-date: 2021-08-05 1628190576 
-categories: reddit 
---- 
-https://redd.it/oypf5r
