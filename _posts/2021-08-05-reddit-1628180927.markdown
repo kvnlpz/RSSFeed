@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: LPT: Set up your reddit account as a Brave verified creator to receive BAT even if you don't use Brave (but especially if you use Brave) 
-date: 2021-08-05 1628180927 
-categories: reddit 
---- 
-https://redd.it/oym0r8
