@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stop loss hunting: Whale manipulation strategies #2 - How to not get caught short! 
-date: 2021-08-05 1628220168 
-categories: reddit 
---- 
-https://redd.it/oyyhex
