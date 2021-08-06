@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why does my vault say it’s empty? 
-date: 2021-08-05 1628183150 
-categories: reddit 
---- 
-https://redd.it/oymtf6
