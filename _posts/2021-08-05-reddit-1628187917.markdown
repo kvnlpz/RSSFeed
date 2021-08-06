@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First thoughts... 
-date: 2021-08-05 1628187917 
-categories: reddit 
---- 
-https://redd.it/oyohej
