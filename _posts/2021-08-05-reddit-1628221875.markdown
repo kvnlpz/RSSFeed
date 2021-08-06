@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Proper hardware wallet vs dedicated iPhone 
-date: 2021-08-05 1628221875 
-categories: reddit 
---- 
-https://redd.it/oyyxe8
