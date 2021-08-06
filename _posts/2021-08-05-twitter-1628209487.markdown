@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DavidMcDoughnut 
+date: 2021-08-05 17:24:47 
+categories: twitter 
+--- 
+@nope_its_lily @TurnerNovak hourly data is a little messy so not super easy to parse but there were small spikes in… https://t.co/8JMrLKbHcc
