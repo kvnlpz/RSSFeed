@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: IV for Call Options 
-date: 2021-08-05 1628209640 
-categories: reddit 
---- 
-https://redd.it/oyvlfm
