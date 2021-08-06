@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase enables crypto buys with Apple Pay, Google Pay and instant cashouts up to $100,000 
-date: 2021-08-05 1628182136 
-categories: reddit 
---- 
-https://redd.it/oymg1i
