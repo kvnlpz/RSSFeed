@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Elizabeth Warren Concerned That EIP-1559 Doesn't Comply With Existing Fire Codes 
-date: 2021-08-05 1628179957 
-categories: reddit 
---- 
-https://redd.it/oykswi
