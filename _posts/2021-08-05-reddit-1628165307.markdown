@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My small contribution 
-date: 2021-08-05 1628165307 
-categories: reddit 
---- 
-https://redd.it/oyg6g1
