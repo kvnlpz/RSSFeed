@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH inflation per block : 
-date: 2021-08-05 1628184957 
-categories: reddit 
---- 
-https://redd.it/oyng9k
