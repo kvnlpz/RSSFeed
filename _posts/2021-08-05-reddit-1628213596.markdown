@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: crypto mining 
-date: 2021-08-05 1628213596 
-categories: reddit 
---- 
-https://redd.it/oywp2y
