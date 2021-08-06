@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I don’t know if mentioned but you can now add your portfolio with a goal price. Pretty easy to use and easy to follow. 
-date: 2021-08-05 1628210545 
-categories: reddit 
---- 
-https://redd.it/oyvudh
