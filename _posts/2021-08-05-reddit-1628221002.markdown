@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Had to dig up this gem 
-date: 2021-08-05 1628221002 
-categories: reddit 
---- 
-https://redd.it/oyyoya
