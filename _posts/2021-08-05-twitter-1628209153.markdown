@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PiLogic 
+date: 2021-08-05 17:19:13 
+categories: twitter 
+--- 
+RT @modern_rock: Want to learn the process that helped @AT09_Trader make $105k in 1 hour trading? Join us for our bootcamp on August 17. Re…
