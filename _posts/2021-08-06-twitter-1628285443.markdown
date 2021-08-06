@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tenmike 
+date: 2021-08-06 14:30:43 
+categories: twitter 
+--- 
+RT @super_trades: is it me or does $MVST chart look like $CLOV before it squeezed to near $29 ?
