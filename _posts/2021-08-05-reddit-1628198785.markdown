@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Investigating Crypto Twitter Scam Bots with a Honeypot 
-date: 2021-08-05 1628198785 
-categories: reddit 
---- 
-https://redd.it/oys8po
