@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Fish Outa Water 
-date: 2021-08-05 1628213686 
-categories: reddit 
---- 
-https://redd.it/oywpta
