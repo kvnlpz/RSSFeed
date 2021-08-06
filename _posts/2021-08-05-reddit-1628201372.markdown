@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: “Flippening” 
-date: 2021-08-05 1628201372 
-categories: reddit 
---- 
-https://redd.it/oyt35f
