@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rock Finance 
-date: 2021-08-05 1628194494 
-categories: reddit 
---- 
-https://redd.it/oyqs1q
