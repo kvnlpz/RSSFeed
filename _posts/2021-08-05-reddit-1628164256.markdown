@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This Month in Bitcoin privacy - July (newsletter focused on bitcoin privacy topics) 
-date: 2021-08-05 1628164256 
-categories: reddit 
---- 
-https://redd.it/oyfwgm
