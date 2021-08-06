@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blueprint to modernize Europe's payments infrastructure 
-date: 2021-08-05 1628196091 
-categories: reddit 
---- 
-https://redd.it/oyrbja
