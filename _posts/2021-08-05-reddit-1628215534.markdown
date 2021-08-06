@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can we get a bot that tells us how many perspective moons we have in between moon distribution days? 
-date: 2021-08-05 1628215534 
-categories: reddit 
---- 
-https://redd.it/oyx833
