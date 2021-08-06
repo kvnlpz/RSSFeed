@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s Bitcoin? A beginner’s guide to the world’s first cryptocurrency 
-date: 2021-08-05 1628199961 
-categories: reddit 
---- 
-https://redd.it/oysmsb
