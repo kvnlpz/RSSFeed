@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-06 10:36:50 
+categories: twitter 
+--- 
+@TheSpeculator0 The square root law he talks about for half the paper is in his 2018 book FWIW.
