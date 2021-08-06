@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: GameFi on Zilliqa is happening! Introducing ZilliqaRoyale, the first PVP Battle Royale game in the Zilliqa Ecosystem running on Minecraft 
-date: 2021-08-05 1628172556 
-categories: reddit 
---- 
-https://redd.it/oyiemc
