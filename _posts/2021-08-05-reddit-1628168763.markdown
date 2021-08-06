@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Open-Source Blockchain Explorer Scores Foundry Dev Grant 
-date: 2021-08-05 1628168763 
-categories: reddit 
---- 
-https://redd.it/oyh4xe
