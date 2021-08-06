@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: error updating monero gui package 
-date: 2021-08-05 1628200439 
-categories: reddit 
---- 
-https://redd.it/oyss6e
