@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Overview of the Polkadot Exosystem 
-date: 2021-08-05 1628163539 
-categories: reddit 
---- 
-https://redd.it/oyfq75
