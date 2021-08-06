@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Did I get it right? 
-date: 2021-08-05 1628203441 
-categories: reddit 
---- 
-https://redd.it/oytqd8
