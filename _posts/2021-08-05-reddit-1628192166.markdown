@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What does it mean to claim underlying shares? 
-date: 2021-08-05 1628192166 
-categories: reddit 
---- 
-https://redd.it/oypyvb
