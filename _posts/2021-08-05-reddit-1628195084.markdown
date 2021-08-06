@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ledger Nano S no room for cardano.. wut do? 
-date: 2021-08-05 1628195084 
-categories: reddit 
---- 
-https://redd.it/oyqz8q
