@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Concerning ETH Change 
-date: 2021-08-05 1628196800 
-categories: reddit 
---- 
-https://redd.it/oyrk02
