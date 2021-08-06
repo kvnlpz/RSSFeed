@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If gas prices are above basically 1, why aren't the blocks max size? 
+date: 2021-08-06 1628276240 
+categories: reddit 
+--- 
+https://redd.it/ozd36t
