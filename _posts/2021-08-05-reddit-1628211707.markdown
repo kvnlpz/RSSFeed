@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gas price question 
-date: 2021-08-05 1628211707 
-categories: reddit 
---- 
-https://redd.it/oyurf1
