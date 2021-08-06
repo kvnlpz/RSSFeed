@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Great post (NP) in SuperStonk. It's relevant also to Bitcoin. 
-date: 2021-08-05 1628189210 
-categories: reddit 
---- 
-https://redd.it/oyoxjv
