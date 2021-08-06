@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: New paper proposing a blockchain that can deal with a malicious majority over 50% 
+date: 2021-08-06 1628250895 
+categories: reddit 
+--- 
+https://redd.it/oz53y8
