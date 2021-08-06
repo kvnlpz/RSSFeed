@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EIP-1559 is not like a BTC-halvening, it's waay more impactful 
-date: 2021-08-05 1628190570 
-categories: reddit 
---- 
-https://redd.it/oypf0a
