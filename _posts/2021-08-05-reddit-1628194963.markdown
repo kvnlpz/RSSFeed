@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: KNCL lost due to migration 
-date: 2021-08-05 1628194963 
-categories: reddit 
---- 
-https://redd.it/oyqxnv
