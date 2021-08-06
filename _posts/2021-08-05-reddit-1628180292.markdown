@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why Ethereum is the Greatest Trade in the World (EIP-1559 Analysis) 
-date: 2021-08-05 1628180292 
-categories: reddit 
---- 
-https://redd.it/oylsko
