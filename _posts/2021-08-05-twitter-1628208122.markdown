@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @coloradotravis 
+date: 2021-08-05 17:02:02 
+categories: twitter 
+--- 
+@nope_its_lily You blocked yet or still working on it?
