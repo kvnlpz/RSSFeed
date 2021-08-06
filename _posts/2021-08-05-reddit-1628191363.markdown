@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I created a website to track DEX transactions and prices in real time 
-date: 2021-08-05 1628191363 
-categories: reddit 
---- 
-https://redd.it/oyponm
