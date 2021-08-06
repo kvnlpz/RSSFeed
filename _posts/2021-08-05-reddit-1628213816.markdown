@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin health challenge. Take a drink of water every time you check the price. A big drink 
-date: 2021-08-05 1628213816 
-categories: reddit 
---- 
-https://redd.it/oywr97
