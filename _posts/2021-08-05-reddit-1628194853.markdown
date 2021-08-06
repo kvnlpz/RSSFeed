@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Happy EIP 1559 Day! 🔥 
-date: 2021-08-05 1628194853 
-categories: reddit 
---- 
-https://redd.it/oyqwcv
