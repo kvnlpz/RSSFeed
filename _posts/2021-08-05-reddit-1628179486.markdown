@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Celsius Secures Backend Pricing of Crypto Using The Chainlink, A Major Leap in CeFi Decentralization 
-date: 2021-08-05 1628179486 
-categories: reddit 
---- 
-https://redd.it/oyli6u
