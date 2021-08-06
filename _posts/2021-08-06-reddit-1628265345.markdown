@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: So far so good! The London Ethereum upgrade looks stable and after 24h we can say there are no issues found so far! Kudos to AllCoreDevs, all the client devs and everyone else who contributed to make this happen. 
+date: 2021-08-06 1628265345 
+categories: reddit 
+--- 
+https://redd.it/oz9h7h
