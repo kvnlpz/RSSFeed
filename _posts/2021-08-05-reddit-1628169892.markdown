@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: All Stellar/XLM Transactions combined Cost about $20 in Fees each Day, which is 0,0000381706% of what Bitcoin Users Pay on Average 
-date: 2021-08-05 1628169892 
-categories: reddit 
---- 
-https://redd.it/oyhh3a
