@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Were we expecting Ethereum transaction costs to increase after London? 
-date: 2021-08-05 1628172998 
-categories: reddit 
---- 
-https://redd.it/oyirex
