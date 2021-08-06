@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MTBC 
-date: 2021-08-05 1628181596 
-categories: reddit 
---- 
-https://redd.it/oym9bd
