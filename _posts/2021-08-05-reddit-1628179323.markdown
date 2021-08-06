@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking in hot wallet/on an exchange vs no staking in cold wallet 
-date: 2021-08-05 1628179323 
-categories: reddit 
---- 
-https://redd.it/oylg68
