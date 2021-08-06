@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cardano currently only handles 7 transactions per second on-chain. Ethereum currently handles 12-15 transactions per second on-chain. By tweaking some parameters in the future Cardano could potentially scale to 50 transactions per second on-chain which obviously still isn’t enough for real-world ado 
-date: 2021-08-05 1628181623 
-categories: reddit 
---- 
-https://redd.it/oym9ek
