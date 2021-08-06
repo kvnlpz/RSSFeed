@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is Polygon (MATIC) officially a Stablecoin backed 1 to 1 with USD? 
-date: 2021-08-05 1628219653 
-categories: reddit 
---- 
-https://redd.it/oyycli
