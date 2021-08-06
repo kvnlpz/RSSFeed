@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Over 200 ETH ($500k) already burnt in just over an hour, as EIP-1559 kicks in! 
-date: 2021-08-05 1628171428 
-categories: reddit 
---- 
-https://redd.it/oyhydm
