@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum news, ICP holders move to Solano 
-date: 2021-08-05 1628187350 
-categories: reddit 
---- 
-https://redd.it/oyoadu
