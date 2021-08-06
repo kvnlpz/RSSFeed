@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @David_Axelrod 
+date: 2021-08-05 20:20:17 
+categories: twitter 
+--- 
+@nope_its_lily A subtle social commentary, I like it
