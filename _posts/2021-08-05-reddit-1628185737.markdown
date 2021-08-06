@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $109 Swap Fees? - So much for EIP 1559 making "gas prices lower and more stable" lol. Ethereum just got #REKT - I hope you all bridged your assets to a sidechain / L2 before today's Lond-Upgrade Apocalypse 
-date: 2021-08-05 1628185737 
-categories: reddit 
---- 
-https://redd.it/oynpkr
