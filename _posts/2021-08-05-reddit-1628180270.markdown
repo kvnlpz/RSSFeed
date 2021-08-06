@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is total moons distributed based on price of moons? 
-date: 2021-08-05 1628180270 
-categories: reddit 
---- 
-https://redd.it/oyls91
