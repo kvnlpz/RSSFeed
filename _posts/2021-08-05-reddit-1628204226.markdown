@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An explanation for why Governance Poll voting needs to be weighted by Moons 
-date: 2021-08-05 1628204226 
-categories: reddit 
---- 
-https://redd.it/oytysf
