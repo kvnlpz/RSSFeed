@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Agora: A simple server for selling files in exchange for Lightning Network payments 
+date: 2021-08-06 1628281468 
+categories: reddit 
+--- 
+https://redd.it/ozerun
