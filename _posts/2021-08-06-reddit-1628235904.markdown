@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is EIP-1559's ETH burn actually good for ETH in the long term? 
+date: 2021-08-06 1628235904 
+categories: reddit 
+--- 
+https://redd.it/oz224e
