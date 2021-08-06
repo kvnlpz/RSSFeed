@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @relativelyvalue 
+date: 2021-08-06 11:36:24 
+categories: twitter 
+--- 
+@nope_its_lily having a macro context for your trading is important, but actually trading macro views is a diff beast
