@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If you create a native token on the Cardano network, can that token also be stakes similar to ADA and can you set the rules defining the monetary policy of the token? 
+date: 2021-08-06 1628283064 
+categories: reddit 
+--- 
+https://redd.it/ozfa1v
