@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Banned from Hbar community but need help. I'm confused on why someone would need to fund my account. And how do I create my own account ID. I'm trying to move my hbar off of an exchange to my ledger nano s but this is confusing I need help otherwise this hbar isn't mine 
-date: 2021-08-05 1628220941 
-categories: reddit 
---- 
-https://redd.it/oyyorp
