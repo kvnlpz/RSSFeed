@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Investigating Crypto Twitter Reply Scam Rings with a Honeypot 
-date: 2021-08-05 1628198990 
-categories: reddit 
---- 
-https://redd.it/oysbdh
