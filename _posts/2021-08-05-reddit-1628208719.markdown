@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Will ADA have functioning Smart Contracts by the end of September 2021? 
-date: 2021-08-05 1628208719 
-categories: reddit 
---- 
-https://redd.it/oyvbyk
