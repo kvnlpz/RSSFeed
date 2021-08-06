@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @FishandFungi 
+date: 2021-08-06 16:38:39 
+categories: twitter 
+--- 
+@InvestorsLive Did Slack get bought? I don't see the $WORK ticker anymore.
