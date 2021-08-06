@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The lightning network [a proposal to solve bitcoin's scalability problems] 
+date: 2021-08-06 1628276963 
+categories: reddit 
+--- 
+https://redd.it/ozdbz4
