@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Flatcoin Idea 
-date: 2021-08-05 1628166819 
-categories: reddit 
---- 
-https://redd.it/oygkvh
