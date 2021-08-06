@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ETH blocks suddenly only 50 % full. But this is actually the goal. 
+date: 2021-08-06 1628278401 
+categories: reddit 
+--- 
+https://redd.it/ozdsp0
