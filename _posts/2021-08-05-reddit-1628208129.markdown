@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Charles Hoskinson announced that the date of the Alonzo Hard Fork will be announced in mid-August 
-date: 2021-08-05 1628208129 
-categories: reddit 
---- 
-https://redd.it/oyv5su
