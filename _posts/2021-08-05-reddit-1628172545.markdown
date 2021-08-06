@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should we be concerned that the % of staked xtz has been going down this past year? 
-date: 2021-08-05 1628172545 
-categories: reddit 
---- 
-https://redd.it/oyiedt
