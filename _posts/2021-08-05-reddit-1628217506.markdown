@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Would there be any benefit to this SubReddit if there was a way you could generate a small bonus to moons or karma for upvoting? 
-date: 2021-08-05 1628217506 
-categories: reddit 
---- 
-https://redd.it/oyxrfd
