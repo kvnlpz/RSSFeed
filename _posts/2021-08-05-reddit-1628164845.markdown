@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A list with the highest staking rewards on the most well known exchanges for the most popular coins mentioned here. 
-date: 2021-08-05 1628164845 
-categories: reddit 
---- 
-https://redd.it/oyg204
