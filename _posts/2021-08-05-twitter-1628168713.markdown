@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GeraldsStocks 
-date: 2021-08-05 06:05:13 
-categories: twitter 
---- 
-@TraderTexMex Lol
