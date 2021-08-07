@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vitalik Buterin: London Hard Fork Success Gives Me More Confidence over Upcoming Chains Merge 
-date: 2021-08-05 1628228567 
-categories: reddit 
---- 
-https://redd.it/oz0j2y
