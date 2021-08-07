@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @rossisbossof 
+date: 2021-08-07 11:00:17 
+categories: twitter 
+--- 
+@nope_its_lily Polygon atm or optimism not sure if anything is on arbitrum. 
+
+If there is no liquidity be the liquidity you wish to see
