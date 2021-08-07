@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HassaninDC 
-date: 2021-08-05 06:38:40 
-categories: twitter 
---- 
-RT @KerrisdaleCap: We're long $MAXR. Report available at https://t.co/79rfm8E99Y. After some frustrating delays, our checks indicate supply…
