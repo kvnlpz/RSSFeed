@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: With ETH going proof-of-stake, which coin/token is the best proof-of-work? 
-date: 2021-08-05 1628223148 
-categories: reddit 
---- 
-https://redd.it/oyz9mc
