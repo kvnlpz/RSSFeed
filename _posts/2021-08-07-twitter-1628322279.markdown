@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ETsorng 
+date: 2021-08-07 00:44:39 
+categories: twitter 
+--- 
+RT @nope_its_lily: @davidbelle_ @SqueezeMetrics I just view everything as a Bayesian. The more conditions you have, the less likely it is t…
