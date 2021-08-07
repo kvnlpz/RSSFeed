@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-05 07:29:58 
-categories: twitter 
---- 
-@R_DaneelSeldon The interesting thing about meme stocks is roughly all of them follow a +ve spot-vol correlation: v… https://t.co/9h0rAuVSI6
