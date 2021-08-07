@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does anyone recognize this Bitcoin wallet, I now have my passphrase but do not know what wallet I was using in 2016 
-date: 2021-08-05 1628229446 
-categories: reddit 
---- 
-https://redd.it/oyz4o8
