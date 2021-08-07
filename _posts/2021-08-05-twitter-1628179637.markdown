@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BufsGeorgia 
-date: 2021-08-05 09:07:17 
-categories: twitter 
---- 
-@InvestorsLive Yes. The answer is yes.
