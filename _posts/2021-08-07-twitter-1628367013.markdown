@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @CubbieBears 
+date: 2021-08-07 13:10:13 
+categories: twitter 
+--- 
+@alphatrends do u think the anchor vwap from low of first day is relevant?  Or is there better way to look at it. W… https://t.co/LFpmfNV1qY
