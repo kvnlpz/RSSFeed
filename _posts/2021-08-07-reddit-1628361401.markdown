@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ever wonder what's Inside a "Bitcoin Block"? 
+date: 2021-08-07 1628361401 
+categories: reddit 
+--- 
+https://redd.it/ozyqlj
