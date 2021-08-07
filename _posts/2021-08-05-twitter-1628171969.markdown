@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-05 06:59:29 
-categories: twitter 
---- 
-@neoliberal_dad This is a spicy neoliberal take
