@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What Does SEC Chief’s Refusal to Comment on Ethereum’s Security Status Signify? 
-date: 2021-08-05 1628232012 
-categories: reddit 
---- 
-https://redd.it/oz19ei
