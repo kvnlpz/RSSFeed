@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cabe91526331 
-date: 2021-08-05 00:16:23 
-categories: twitter 
---- 
-@timothysykes $Apty is looking like a midnight snack.
