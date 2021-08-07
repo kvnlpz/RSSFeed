@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-05 06:39:58 
-categories: twitter 
---- 
-$FLGC feels like someone is stuck badly on wrong side.
