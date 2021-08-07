@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-05 05:25:01 
-categories: twitter 
---- 
-$VRAR Facebook investing in 'metaverse' to combine virtual and augmented reality https://t.co/leaX0bolM5
