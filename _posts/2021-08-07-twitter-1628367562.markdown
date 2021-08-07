@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Tech9inja 
+date: 2021-08-07 13:19:22 
+categories: twitter 
+--- 
+@alphatrends I am playing with this! How do u know where to anchor ? Start of year? Highest price, lowest?
