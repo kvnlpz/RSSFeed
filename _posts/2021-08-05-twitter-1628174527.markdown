@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-05 07:42:07 
-categories: twitter 
---- 
-$AMD beauty!
