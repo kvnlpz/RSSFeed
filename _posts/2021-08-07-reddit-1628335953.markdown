@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Running node without baking 
+date: 2021-08-07 1628335953 
+categories: reddit 
+--- 
+https://redd.it/ozrmdd
