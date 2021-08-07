@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-07 10:43:14 
+categories: twitter 
+--- 
+RT @MikeBellafiore: The Second Day Technical Trade https://t.co/5uNU409iV8 via @YouTube
