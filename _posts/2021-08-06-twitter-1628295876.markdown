@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @kushnerbomb 
+date: 2021-08-06 17:24:36 
+categories: twitter 
+--- 
+@nope_its_lily there are way more sinister things you could do to npm than knock it offline I think
