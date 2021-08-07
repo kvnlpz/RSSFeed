@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MorahKYT 
-date: 2021-08-05 07:57:11 
-categories: twitter 
---- 
-@modern_rock Can't say it better!
