@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-05 06:09:03 
-categories: twitter 
---- 
-@DaveTrader88 @doctrader7 @Bthestory87 Thanks David!
