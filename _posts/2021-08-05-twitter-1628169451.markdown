@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trippmehew 
-date: 2021-08-05 06:17:31 
-categories: twitter 
---- 
-@super_trades Paul, was there a SL on ISPC? Are you still in?
