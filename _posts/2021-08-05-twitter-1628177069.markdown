@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @happyclam13 
-date: 2021-08-05 08:24:29 
-categories: twitter 
---- 
-@timothysykes @sttbreakingnews It happens
