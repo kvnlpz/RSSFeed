@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kriptokat_ 
-date: 2021-08-05 09:15:32 
-categories: twitter 
---- 
-@nope_its_lily "we're going to burn bills every time a transaction is made"
-"u wot m8"
