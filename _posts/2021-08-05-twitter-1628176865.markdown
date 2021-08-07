@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Nikocharles2 
-date: 2021-08-05 08:21:05 
-categories: twitter 
---- 
-@markflowchatter @howie_dewey
