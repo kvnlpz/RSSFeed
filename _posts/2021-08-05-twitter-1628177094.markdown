@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zeltser22 
-date: 2021-08-05 08:24:54 
-categories: twitter 
---- 
-@InvestorsLive Lesson learned....if you had puts weeklies then you did the right thing
