@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What happened? Dusting attack? Be warned everyone! 
-date: 2021-08-05 1628225475 
-categories: reddit 
---- 
-https://redd.it/oyztvo
