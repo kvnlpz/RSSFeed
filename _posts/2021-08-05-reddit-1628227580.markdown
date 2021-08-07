@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CLNE short interest chart from 2021 
-date: 2021-08-05 1628227580 
-categories: reddit 
---- 
-https://redd.it/oz0bb0
