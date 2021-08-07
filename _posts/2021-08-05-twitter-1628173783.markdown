@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BeginnerInvest4 
-date: 2021-08-05 07:29:43 
-categories: twitter 
---- 
-@modern_rock Beautiful top tick Bao!
