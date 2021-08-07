@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-07 13:12:50 
+categories: twitter 
+--- 
+@CubbieBears Generally you want the to anchor from the actual VWAP of the day (best approximated by OHLC/4) that gi… https://t.co/zWRAFw8TFX
