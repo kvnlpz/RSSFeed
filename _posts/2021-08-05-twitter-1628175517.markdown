@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sidm2121 
-date: 2021-08-05 07:58:37 
-categories: twitter 
---- 
-@thehonestcroock nice guidance on $amd, in at $1.72 out at $2.30, as usual left a lot on table but happy overall.
