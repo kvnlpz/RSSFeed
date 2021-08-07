@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sweta4258 
-date: 2021-08-05 01:30:01 
-categories: twitter 
---- 
-RT @OddStockTrader: There comes a certain point in this game where you just know you are smarter than the ones getting hired at the big fir…
