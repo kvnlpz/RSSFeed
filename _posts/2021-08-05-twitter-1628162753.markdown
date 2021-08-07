@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-05 04:25:53 
-categories: twitter 
---- 
-$MRNA bit of a slide $BNTX as well
