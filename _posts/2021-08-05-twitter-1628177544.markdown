@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeFeinberg3 
-date: 2021-08-05 08:32:24 
-categories: twitter 
---- 
-@InvestorsLive Wondering the same😩
