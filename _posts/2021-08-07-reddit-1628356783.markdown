@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Senator Warner has revised his proposed amendment! It no longer limits the “validator” exception to proof-of-work 
+date: 2021-08-07 1628356783 
+categories: reddit 
+--- 
+https://redd.it/ozxcic
