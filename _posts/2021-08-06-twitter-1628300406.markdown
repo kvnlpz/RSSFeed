@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @kevinlambert 
+date: 2021-08-06 18:40:06 
+categories: twitter 
+--- 
+@nope_its_lily Schrödinger's wallet.
