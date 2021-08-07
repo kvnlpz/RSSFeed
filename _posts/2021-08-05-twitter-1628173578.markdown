@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zeldaakm 
-date: 2021-08-05 07:26:18 
-categories: twitter 
---- 
-RT @timothysykes: 11:50pm study check, retweet/favorite this if you’re still up studying, making your watchlist for tomorrow or if you made…
