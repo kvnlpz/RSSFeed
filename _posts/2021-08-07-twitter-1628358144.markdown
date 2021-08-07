@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-07 10:42:24 
+categories: twitter 
+--- 
+RT @MikeBellafiore: When Tchnical Analysis Trades are More Likely to Work https://t.co/ySj7RUpYa0
