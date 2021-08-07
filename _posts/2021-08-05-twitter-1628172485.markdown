@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AppraiserOne1 
-date: 2021-08-05 07:08:05 
-categories: twitter 
---- 
-RT @timothysykes: This is EXACTLY why I teach, you gotta realize which plays usually crash on day 2 over and over and over as history repea…
