@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @justtradin 
-date: 2021-08-05 06:31:29 
-categories: twitter 
---- 
-@nope_its_lily we can augment the NFT reality once you get it #softXR https://t.co/PY789q3veH
