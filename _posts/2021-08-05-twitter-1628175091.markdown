@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JeggersZ 
-date: 2021-08-05 07:51:31 
-categories: twitter 
---- 
-@super_trades What prices are you thinking it could hit?
