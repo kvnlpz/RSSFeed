@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-07 11:29:33 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Our Huge Options Trading Blunders Series (Episode 1) https://t.co/WxJrZIxnrP via @YouTube
