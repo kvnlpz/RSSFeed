@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-05 07:15:05 
-categories: twitter 
---- 
-https://t.co/fIoLPdrrAV What a runner!
