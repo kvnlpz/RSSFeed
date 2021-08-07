@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Someone sent bitcoin to Dorian Satoshi Nakamoto's wallet for the first time in years. 
-date: 2021-08-05 1628225258 
-categories: reddit 
---- 
-https://redd.it/oyzrww
