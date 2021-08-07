@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @balogat98546157 
-date: 2021-08-05 01:36:57 
-categories: twitter 
---- 
-@super_trades https://t.co/LfH0JZNY8V
