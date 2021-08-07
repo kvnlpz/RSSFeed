@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RyanTPark 
-date: 2021-08-05 06:24:01 
-categories: twitter 
---- 
-@nope_its_lily loved the piece they did about you!
