@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @0x_3b 
+date: 2021-08-07 08:32:12 
+categories: twitter 
+--- 
+@nope_its_lily zilennials: “don’t forget the oat milk”
