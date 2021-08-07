@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChiefTradez 
-date: 2021-08-05 07:41:20 
-categories: twitter 
---- 
-RT @MikeBellafiore: The solution for being too *close-minded* as a trader (BAD TRADER) is not just within you.  Also, and perhaps more impo…
