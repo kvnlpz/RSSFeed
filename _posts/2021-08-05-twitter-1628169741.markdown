@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profplum99 
-date: 2021-08-05 06:22:21 
-categories: twitter 
---- 
-RT @nope_its_lily: How do I NFT this
