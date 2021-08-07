@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Mistmatch transaction amount sent via trustwallet 
-date: 2021-08-05 1628229400 
-categories: reddit 
---- 
-https://redd.it/oz0pi9
