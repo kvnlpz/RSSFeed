@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @choffstein 
+date: 2021-08-06 17:55:09 
+categories: twitter 
+--- 
+@nope_its_lily @TheSpeculator0 The key being that impact from transactions that we might actually expect to revert… https://t.co/mDiJyumGcL
