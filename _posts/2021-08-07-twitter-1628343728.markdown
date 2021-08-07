@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @aka51561 
+date: 2021-08-07 06:42:08 
+categories: twitter 
+--- 
+@nope_its_lily Idea for a next $1T company right here. Just need to add machine learning to this somehow.
