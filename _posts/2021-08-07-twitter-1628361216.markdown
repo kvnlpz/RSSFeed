@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-07 11:33:36 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Huge Options Trading Blunders: Your Back Test Proves That You’re going T... https://t.co/se7SmbmEwn via @YouTube
