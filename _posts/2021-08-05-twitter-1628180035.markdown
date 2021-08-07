@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wavepalmeth 
-date: 2021-08-05 09:13:55 
-categories: twitter 
---- 
-@nope_its_lily bullish feedback loop in software
