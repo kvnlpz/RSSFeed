@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is the cause of all Coins slowing climbing up ? 
-date: 2021-08-05 1628228253 
-categories: reddit 
---- 
-https://redd.it/oz0gp8
