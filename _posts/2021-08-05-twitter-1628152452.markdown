@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Lifeofasrr 
-date: 2021-08-05 01:34:12 
-categories: twitter 
---- 
-RT @nope_its_lily: i'm going to make a portfolio called summertime sadness and just put growth stocks in it
