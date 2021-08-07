@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @swingtrader21 
-date: 2021-08-05 09:10:42 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/Ow7CnCHmjz
