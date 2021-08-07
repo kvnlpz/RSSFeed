@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LASurfreport 
-date: 2021-08-05 06:02:11 
-categories: twitter 
---- 
-@TraderTexMex Rideshare. SPACEX. Whoa
