@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Over 2 million worth of Eth burned since the Londonh upgraded 
-date: 2021-08-05 1628222816 
-categories: reddit 
---- 
-https://redd.it/oyz6ps
