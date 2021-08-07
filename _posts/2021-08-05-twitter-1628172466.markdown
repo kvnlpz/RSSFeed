@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-05 07:07:46 
-categories: twitter 
---- 
-If by messy you mean clean - I agree.
