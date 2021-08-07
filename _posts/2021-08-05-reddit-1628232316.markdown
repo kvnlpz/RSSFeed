@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: REMINDER: Using stablecoins like USDC and USDT is no different from having a bank account. You are trusting an opaque company to keep reserves and not to freeze your accounts. USDC has frozen 1 account and USDT has frozen 500 accounts. Decentralized finance deserves decentralized currency! 
-date: 2021-08-05 1628232316 
-categories: reddit 
---- 
-https://redd.it/oz1b9x
