@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-05 08:30:21 
-categories: twitter 
---- 
-$NEGG mid morning lift HODs
