@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @baldhead_savage 
-date: 2021-08-05 05:36:02 
-categories: twitter 
---- 
-@timothysykes What is your email for the AMD investment
