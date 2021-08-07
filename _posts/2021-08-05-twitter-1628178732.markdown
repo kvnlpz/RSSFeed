@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-05 08:52:12 
-categories: twitter 
---- 
-Bitcoin taking a leg down -- $BTBT ripped when it went up so this should flush it out nicely.
