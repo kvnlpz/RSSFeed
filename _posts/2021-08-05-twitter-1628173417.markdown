@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HowieChamberla1 
-date: 2021-08-05 07:23:37 
-categories: twitter 
---- 
-RT @InvestorsLive: If by messy you mean clean - I agree.
