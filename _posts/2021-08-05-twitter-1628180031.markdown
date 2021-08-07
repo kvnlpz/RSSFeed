@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hasufl 
-date: 2021-08-05 09:13:51 
-categories: twitter 
---- 
-@nope_its_lily when UIP-1559?
