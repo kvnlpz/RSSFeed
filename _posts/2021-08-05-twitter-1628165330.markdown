@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ELONMUSKSPACEXX 
-date: 2021-08-05 05:08:50 
-categories: twitter 
---- 
-@CitronResearch https://t.co/2EGduX1HKz
