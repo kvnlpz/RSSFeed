@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to best protect a physical wallet seed phrase? 
+date: 2021-08-07 1628346895 
+categories: reddit 
+--- 
+https://redd.it/ozud9a
