@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Wallet verification failed despite having sufficient BAT (>= 15) 
+date: 2021-08-07 1628348375 
+categories: reddit 
+--- 
+https://redd.it/ozusjz
