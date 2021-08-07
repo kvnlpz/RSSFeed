@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DaveTrader88 
-date: 2021-08-05 09:13:23 
-categories: twitter 
---- 
-RT @InvestorsLive: Your trades should not be random. 
-
-Create a thorough plan BEFORE you enter a position and trade management becomes much…
