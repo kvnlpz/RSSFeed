@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @jarzt 
+date: 2021-08-06 18:12:17 
+categories: twitter 
+--- 
+@alphatrends $xbi more equally weighted.
+$ibb more weighted to top 10 holdings.
