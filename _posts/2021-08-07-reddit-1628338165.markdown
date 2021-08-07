@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Sentiment changes on a dime 
+date: 2021-08-07 1628338165 
+categories: reddit 
+--- 
+https://redd.it/ozs3dw
