@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ZedTerminal 
+date: 2021-08-06 21:09:00 
+categories: twitter 
+--- 
+@nope_its_lily imagine looking at stocks
