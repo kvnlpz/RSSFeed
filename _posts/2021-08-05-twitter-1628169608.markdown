@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Christian_T4L 
-date: 2021-08-05 06:20:08 
-categories: twitter 
---- 
-RT @timothysykes: So begins another live trading webinar for my https://t.co/occ8wKmlgm students, who else is pumped to see what plays are…
