@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-07 11:33:48 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Trading Tesla's Delivery Numbers (what to look for) https://t.co/rCLOoScqZA via @YouTube
