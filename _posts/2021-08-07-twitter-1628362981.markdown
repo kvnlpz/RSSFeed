@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @CanteringClark 
+date: 2021-08-07 12:03:01 
+categories: twitter 
+--- 
+@nope_its_lily That's actually a good name if it was not the name of a token. Though I am considering naming a horse "perpetual swap" so...
