@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BenjaminJoyce18 
-date: 2021-08-05 05:00:01 
-categories: twitter 
---- 
-@timothysykes Hell yeah!
