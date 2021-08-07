@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: May I ask why Electrum wallet is called a cold wallet when he stores things on the Internet? 
+date: 2021-08-07 1628325379 
+categories: reddit 
+--- 
+https://redd.it/ozpn8i
