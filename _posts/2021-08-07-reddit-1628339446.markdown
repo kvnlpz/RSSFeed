@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I'm working on a bot that alerts ADA performance without the use of historical data 
+date: 2021-08-07 1628339446 
+categories: reddit 
+--- 
+https://redd.it/ozsdlb
