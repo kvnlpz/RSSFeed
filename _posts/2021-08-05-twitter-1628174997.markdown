@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Go80972705 
-date: 2021-08-05 07:49:57 
-categories: twitter 
---- 
-@timothysykes I thought you didn't sleep 😴
