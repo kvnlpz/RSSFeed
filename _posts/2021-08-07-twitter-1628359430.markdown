@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @rossisbossof 
+date: 2021-08-07 11:03:50 
+categories: twitter 
+--- 
+@nope_its_lily Good call to sell hex but is there a reason you must sell with gas fees being the way they are? Also… https://t.co/7VSrI8YimG
