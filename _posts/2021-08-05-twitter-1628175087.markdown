@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-05 07:51:27 
-categories: twitter 
---- 
-RT @toocxc: @super_trades $QUBT Love the personnel from D-Wave... notable partnerships... the one with $SPLK got completely overlooked last…
