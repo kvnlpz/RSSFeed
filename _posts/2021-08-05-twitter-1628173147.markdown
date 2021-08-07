@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HowieChamberla1 
-date: 2021-08-05 07:19:07 
-categories: twitter 
---- 
-RT @InvestorsLive: $WHLR almost into the $2s
