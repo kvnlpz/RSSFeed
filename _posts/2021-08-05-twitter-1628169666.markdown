@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JerniganIke 
-date: 2021-08-05 06:21:06 
-categories: twitter 
---- 
-@nope_its_lily Ask @jack .
