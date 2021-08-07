@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Crabadi2 
-date: 2021-08-05 09:10:53 
-categories: twitter 
---- 
-@CitronResearch What’s your position size in the stock?
