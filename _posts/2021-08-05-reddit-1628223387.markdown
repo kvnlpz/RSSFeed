@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Staking Solana on Solflare and adding to your existing delegated stake account 
-date: 2021-08-05 1628223387 
-categories: reddit 
---- 
-https://redd.it/oyzbmp
