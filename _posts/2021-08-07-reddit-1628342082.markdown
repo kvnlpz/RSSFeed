@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PoW (proof of work) vs PoS (proof of stake) 
+date: 2021-08-07 1628342082 
+categories: reddit 
+--- 
+https://redd.it/ozt1ib
