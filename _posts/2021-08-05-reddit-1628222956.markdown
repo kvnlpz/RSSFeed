@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tezotopia launches NFT real estate marketplace on the Tezos blockchain 
-date: 2021-08-05 1628222956 
-categories: reddit 
---- 
-https://redd.it/oyz3u8
