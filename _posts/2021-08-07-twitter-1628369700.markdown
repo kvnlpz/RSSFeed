@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ToroTheDog 
+date: 2021-08-07 13:55:00 
+categories: twitter 
+--- 
+@nope_its_lily Who cares about Bitcoin?
