@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @_priteshdesai 
-date: 2021-08-05 09:15:29 
-categories: twitter 
---- 
-@nope_its_lily Depending on the path Ethereum takes, in future there may well be changes that cause divisions. Thin… https://t.co/htaRDB0TqF
