@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dklred3 
-date: 2021-08-05 07:08:57 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Sold $Hood. Entry 38 got out at 61.
