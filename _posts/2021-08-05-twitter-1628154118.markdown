@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kenconundrum 
-date: 2021-08-05 02:01:58 
-categories: twitter 
---- 
-RT @nope_its_lily: i'm going to make a portfolio called summertime sadness and just put growth stocks in it
