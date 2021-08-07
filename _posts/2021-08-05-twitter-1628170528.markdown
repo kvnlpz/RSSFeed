@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-05 06:35:28 
-categories: twitter 
---- 
-https://t.co/U280RPqf1G Remember https://t.co/0HhPp6CC1v terrible action
