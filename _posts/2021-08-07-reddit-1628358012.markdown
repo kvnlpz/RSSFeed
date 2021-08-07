@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Text of the latest crypto amendment - broadens exception to PoS consensus, but seemingly does not carve out exception for software developers. 
+date: 2021-08-07 1628358012 
+categories: reddit 
+--- 
+https://redd.it/ozxpny
