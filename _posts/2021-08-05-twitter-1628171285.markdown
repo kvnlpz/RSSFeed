@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @familyguy0415 
-date: 2021-08-05 06:48:05 
-categories: twitter 
---- 
-RT @CitronResearch: Learning from Mistakes.  $DOCN IS the $SHOP of Cloud Computing. Not even the first inning of SMB move to cloud.  MUST r…
