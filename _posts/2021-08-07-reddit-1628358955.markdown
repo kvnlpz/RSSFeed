@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BSCscan shows the funds going from SafeWallet into my wallet, on transaction hash, but not being visible on BSCscan when looking at my wallet?? 
+date: 2021-08-07 1628358955 
+categories: reddit 
+--- 
+https://redd.it/ozxzu3
