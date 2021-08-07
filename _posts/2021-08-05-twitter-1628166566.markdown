@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DilBradly 
-date: 2021-08-05 05:29:26 
-categories: twitter 
---- 
-@super_trades Where can this run to Paul ?
