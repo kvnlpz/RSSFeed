@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrdespicable22 
-date: 2021-08-05 07:21:25 
-categories: twitter 
---- 
-RT @nope_its_lily: Legging into spreads can be advantageous for selling options on high vol stocks. $HOOD for example, the Aug 20 contract…
