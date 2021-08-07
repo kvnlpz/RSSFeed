@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Simple Fibonacci system to trail a pullback buy limit entry or a correction sell stop entry 
+date: 2021-08-07 1628370623 
+categories: reddit 
+--- 
+https://redd.it/p01gj3
