@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SawDanielHtunL1 
-date: 2021-08-05 07:50:00 
-categories: twitter 
---- 
-RT @InvestorsLive: $AMD beauty!
