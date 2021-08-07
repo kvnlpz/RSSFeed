@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Polygon eth stuck when transferring weth to eth.. I’m stumped on this one, has anyone had any experience with this? 
-date: 2021-08-05 1628228211 
-categories: reddit 
---- 
-https://redd.it/oz0gdu
