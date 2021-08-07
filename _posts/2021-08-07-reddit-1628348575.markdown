@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to contribute to the protocol on GitHub ? 
+date: 2021-08-07 1628348575 
+categories: reddit 
+--- 
+https://redd.it/ozuuwb
