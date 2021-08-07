@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Top Tickers August 2021 
-date: 2021-08-05 1628227219 
-categories: reddit 
---- 
-https://redd.it/oz08bb
