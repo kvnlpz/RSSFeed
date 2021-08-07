@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: With EIP 1559, Has ETH Become Ultra-Sound Money? 
-date: 2021-08-05 1628226462 
-categories: reddit 
---- 
-https://redd.it/oz02cn
