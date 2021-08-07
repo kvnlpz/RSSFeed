@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ixamuel 
-date: 2021-08-05 06:23:57 
-categories: twitter 
---- 
-@nope_its_lily Need to ask Bloomberg https://t.co/Eh8BRRnTII
