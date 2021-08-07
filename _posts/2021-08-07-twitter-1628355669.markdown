@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @profitly 
+date: 2021-08-07 10:01:09 
+categories: twitter 
+--- 
+RT @TraderBryce: My parents used to tell me to work hard so I didn’t have to live out of my car. Now I work hard so I can live out of a car…
