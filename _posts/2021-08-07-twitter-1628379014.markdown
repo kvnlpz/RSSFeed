@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @semay100 
+date: 2021-08-07 16:30:14 
+categories: twitter 
+--- 
+@timothysykes Yeah, i studied about the ventricular Pressure-Volume Relationship.
