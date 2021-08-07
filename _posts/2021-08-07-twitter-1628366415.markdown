@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @KemonomichiNL 
+date: 2021-08-07 13:00:15 
+categories: twitter 
+--- 
+@nope_its_lily Solana will kill ETH. 0.1% flat fee. 50k transactions per second and going higher.
