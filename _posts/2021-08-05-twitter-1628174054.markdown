@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stevenplace 
-date: 2021-08-05 07:34:14 
-categories: twitter 
---- 
-@nope_its_lily it's that easy
