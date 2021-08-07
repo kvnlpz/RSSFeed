@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Top 50 coins by category 
-date: 2021-08-05 1628225110 
-categories: reddit 
---- 
-https://redd.it/oyzqnm
