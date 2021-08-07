@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nick_edinburgh 
-date: 2021-08-05 05:29:22 
-categories: twitter 
---- 
-@super_trades Only @Enovix3D $ENVX batteries can power these advanced next-Gen AR/VR headsets or smart glasses.
