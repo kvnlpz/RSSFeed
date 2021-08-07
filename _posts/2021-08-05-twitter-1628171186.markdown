@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-05 06:46:26 
-categories: twitter 
---- 
-https://t.co/957mxNPT4D I was late here, grrrr
