@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SharmaKanchaan 
-date: 2021-08-05 07:21:20 
-categories: twitter 
---- 
-@nope_its_lily This article led me to follow you, Lily. You're amazing.
