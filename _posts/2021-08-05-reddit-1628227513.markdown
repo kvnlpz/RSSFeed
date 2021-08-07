@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Over $9 million Ether burned following Ethereum London hard fork as network gears up to ETH 2.0 
-date: 2021-08-05 1628227513 
-categories: reddit 
---- 
-https://redd.it/oz0aly
