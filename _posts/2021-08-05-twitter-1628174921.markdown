@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Leect_8 
-date: 2021-08-05 07:48:41 
-categories: twitter 
---- 
-@modern_rock 100% agree Bao.
