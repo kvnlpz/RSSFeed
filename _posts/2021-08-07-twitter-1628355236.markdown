@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @shergar83 
+date: 2021-08-07 09:53:56 
+categories: twitter 
+--- 
+@nope_its_lily Yep. I’ve backtested this strategy and can confirm it works.
