@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BizCycles 
-date: 2021-08-05 08:20:23 
-categories: twitter 
---- 
-@RayTL_ When you use Twitter in this fashion, its actually pretty wild how much free knowledge from experienced professionals is available.
