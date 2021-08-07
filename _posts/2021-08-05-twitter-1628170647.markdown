@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stewmatic 
-date: 2021-08-05 06:37:27 
-categories: twitter 
---- 
-@InvestorsLive What’s going on?
