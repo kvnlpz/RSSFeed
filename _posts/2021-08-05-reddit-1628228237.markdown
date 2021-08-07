@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Vitalik feels even more confident following eth's hard fork 
-date: 2021-08-05 1628228237 
-categories: reddit 
---- 
-https://redd.it/oz0gjl
