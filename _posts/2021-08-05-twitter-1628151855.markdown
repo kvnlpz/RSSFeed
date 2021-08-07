@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mike_Hudie 
-date: 2021-08-05 01:24:15 
-categories: twitter 
---- 
-RT @alphatrends: If you lose money because you "followed me in a trade" it is your money, you decided to make it your trade and it is your…
