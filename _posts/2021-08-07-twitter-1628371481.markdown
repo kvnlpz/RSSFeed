@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @QuantsGambit 
+date: 2021-08-07 14:24:41 
+categories: twitter 
+--- 
+@nope_its_lily Does this mean past performance is indicative of future results?
