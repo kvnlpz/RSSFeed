@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-07 10:49:29 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Great seeing Helder in NYC visiting our desk from Providence. Loved learning how he is crunching data in real-time to h…
