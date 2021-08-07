@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RebenciucIonut 
-date: 2021-08-05 06:24:13 
-categories: twitter 
---- 
-@super_trades $EGLD = $eGold = $Elrond https://t.co/8P3aTqN7HF
