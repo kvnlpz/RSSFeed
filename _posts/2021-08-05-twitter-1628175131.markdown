@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AdamBurlingame 
-date: 2021-08-05 07:52:11 
-categories: twitter 
---- 
-@nope_its_lily "Francus built an audience on Twitter for her quantitative analysis."
-I follow for the pithy humor.
