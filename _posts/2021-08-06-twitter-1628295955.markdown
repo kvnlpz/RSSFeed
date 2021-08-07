@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @stevehouf 
+date: 2021-08-06 17:25:55 
+categories: twitter 
+--- 
+@nope_its_lily China doesn’t want to cripple US tech development, it just wants hitch along the ride by being a quiet mod inside “homebrew”
