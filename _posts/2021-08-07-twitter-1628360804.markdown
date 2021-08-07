@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Pascalglavigne 
+date: 2021-08-07 11:26:44 
+categories: twitter 
+--- 
+@nope_its_lily Eth is the future predecessor of Algorand.
