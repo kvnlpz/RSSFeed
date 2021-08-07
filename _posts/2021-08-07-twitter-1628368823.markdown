@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DiegoHisano 
+date: 2021-08-07 13:40:23 
+categories: twitter 
+--- 
+@alphatrends Great. What is your favourite setting? Volume, higuest, lower?
