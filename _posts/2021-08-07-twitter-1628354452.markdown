@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-07 09:40:52 
+categories: twitter 
+--- 
+Can't guarantee this is right but I did a brief writeup on the basics behind Latent Liquidity Theory. Will cover ne… https://t.co/xXWYSCNIjg
