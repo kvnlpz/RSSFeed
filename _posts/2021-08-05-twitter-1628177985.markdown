@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TessaLamping 
-date: 2021-08-05 08:39:45 
-categories: twitter 
---- 
-RT @timothysykes: It's been a while since I've had a "sizable" loss like this, but then again I'm still +$7k this week &amp; it's the summer af…
