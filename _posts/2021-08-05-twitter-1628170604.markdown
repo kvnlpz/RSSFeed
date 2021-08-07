@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-05 06:36:44 
-categories: twitter 
---- 
-https://t.co/78XZjsD4xt
