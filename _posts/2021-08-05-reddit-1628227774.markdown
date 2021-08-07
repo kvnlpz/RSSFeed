@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TIL: Marathon digital ($MARA) uses coal-fired electricity to mine Bitcoin. 
-date: 2021-08-05 1628227774 
-categories: reddit 
---- 
-https://redd.it/oz0cx2
