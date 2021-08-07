@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @digipatriot1 
-date: 2021-08-05 08:43:16 
-categories: twitter 
---- 
-@InvestorsLive Btc the key
