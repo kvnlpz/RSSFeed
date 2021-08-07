@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The first fully public Cardano testnet to support smart contract is now available 
+date: 2021-08-07 1628346828 
+categories: reddit 
+--- 
+https://redd.it/ozucih
