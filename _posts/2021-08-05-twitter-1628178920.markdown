@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-05 08:55:20 
-categories: twitter 
---- 
-This was a fantastic time to realize how yellow this foundation is on me, oh well
