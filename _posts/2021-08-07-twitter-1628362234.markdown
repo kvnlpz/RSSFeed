@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-07 11:50:34 
+categories: twitter 
+--- 
+RT @MikeBellafiore: An Easy (and safer) Way to Double Returns Using Options https://t.co/j9VFUN7S7L via @YouTube
