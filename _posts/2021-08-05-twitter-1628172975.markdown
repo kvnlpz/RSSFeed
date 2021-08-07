@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @r_dirusso 
-date: 2021-08-05 07:16:15 
-categories: twitter 
---- 
-@CitronResearch Thanks
