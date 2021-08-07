@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase allows users to buy crypto via Apple Pay on its platform 
-date: 2021-08-05 1628230371 
-categories: reddit 
---- 
-https://redd.it/oz0x8y
