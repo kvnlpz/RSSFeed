@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Real time EIP-1559 ETH burn 
+date: 2021-08-07 1628334001 
+categories: reddit 
+--- 
+https://redd.it/ozr83m
