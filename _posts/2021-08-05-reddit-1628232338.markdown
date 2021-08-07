@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This website is selling bitcoin for only 30 cents per coin! 
-date: 2021-08-05 1628232338 
-categories: reddit 
---- 
-https://redd.it/oz1bzt
