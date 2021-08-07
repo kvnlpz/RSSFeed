@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to connect youre tradingview script with any bot. 
+date: 2021-08-07 1628333034 
+categories: reddit 
+--- 
+https://redd.it/ozr1le
