@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rossknowsbest 
-date: 2021-08-05 08:28:13 
-categories: twitter 
---- 
-@InvestorsLive Please, the directions to Exogol look cleaner than this open.
