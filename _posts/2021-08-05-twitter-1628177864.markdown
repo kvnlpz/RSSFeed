@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stockspotify 
-date: 2021-08-05 08:37:44 
-categories: twitter 
---- 
-@InvestorsLive character didnt change, you were all over this...
