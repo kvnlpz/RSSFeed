@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @JaminSilbaugh 
+date: 2021-08-07 12:34:13 
+categories: twitter 
+--- 
+@nope_its_lily If it needs to be fixed
+It’s broken
+And it’s broken before it began
