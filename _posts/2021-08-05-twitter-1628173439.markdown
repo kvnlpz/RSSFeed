@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @gavinjewelers 
-date: 2021-08-05 07:23:59 
-categories: twitter 
---- 
-@timothysykes Tim give me a guaranteed 100%er please 🤙
