@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Isn't HBAR doing, already, everything that ADA and Eth2 promise? 
-date: 2021-08-05 1628230153 
-categories: reddit 
---- 
-https://redd.it/oz0vkl
