@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @addermonk 
-date: 2021-08-05 06:20:54 
-categories: twitter 
---- 
-RT @nope_its_lily: We could simply make Bitcoin environmentally friendly by proof-of-strength: each miner is simply the strongest person in…
