@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: POS FUD theory 
-date: 2021-08-05 1628226984 
-categories: reddit 
---- 
-https://redd.it/oz06gx
