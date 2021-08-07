@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pandastrade 
-date: 2021-08-05 04:00:59 
-categories: twitter 
---- 
-RT @RayTL_: Your best ideas should always come from your processes that you have in place. Not anyones Twitter feed. Focus on self and with…
