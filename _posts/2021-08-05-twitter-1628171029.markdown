@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DrKushTV 
-date: 2021-08-05 06:43:49 
-categories: twitter 
---- 
-RT @InvestorsLive: $FLGC feels like someone is stuck badly on wrong side.
