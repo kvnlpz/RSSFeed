@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question regarding staking ATOM 
-date: 2021-08-05 1628225053 
-categories: reddit 
---- 
-https://redd.it/oyzq7n
