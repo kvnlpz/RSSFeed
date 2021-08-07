@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @CorsicaTrader 
+date: 2021-08-07 13:57:36 
+categories: twitter 
+--- 
+@InvestorsLive Market makers laid algos in your lake
