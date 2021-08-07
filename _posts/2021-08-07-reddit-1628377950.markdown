@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why Avalanche (avax) With Arbitrary Number Of Validators Is Weirdly Fast? 
+date: 2021-08-07 1628377950 
+categories: reddit 
+--- 
+https://redd.it/p03jfh
