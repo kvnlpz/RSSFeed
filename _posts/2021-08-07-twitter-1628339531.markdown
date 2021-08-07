@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @elmasfacil 
+date: 2021-08-07 05:32:11 
+categories: twitter 
+--- 
+RT @nope_its_lily: My proprietary crypto trading bot told me to buy, mostly because the number is going up and that's usually a good time t…
