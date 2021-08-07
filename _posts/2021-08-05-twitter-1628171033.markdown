@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-05 06:43:53 
-categories: twitter 
---- 
-@DeItaHedge @business @BW Shawn please go find someone else to harangue.
