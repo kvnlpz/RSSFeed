@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-05 06:38:52 
-categories: twitter 
---- 
-@MaxGroucho1 You seem a bit angry. That said, I use my personal account mostly for funny takes and whatever else I… https://t.co/QKBdIHKl4J
