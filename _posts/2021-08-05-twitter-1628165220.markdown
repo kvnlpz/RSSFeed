@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MyInvestingClub 
-date: 2021-08-05 05:07:00 
-categories: twitter 
---- 
-RT @modern_rock: Real member, real results! 
-
-When you combine hard work with proven mentorship based on a solid winning process based on s…
