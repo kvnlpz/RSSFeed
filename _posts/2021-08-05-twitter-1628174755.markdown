@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @10Pattern_DW 
-date: 2021-08-05 07:45:55 
-categories: twitter 
---- 
-@nope_its_lily @R_DaneelSeldon I assume you buy the put first and hope for a better level to sell the other portion of the spread?
