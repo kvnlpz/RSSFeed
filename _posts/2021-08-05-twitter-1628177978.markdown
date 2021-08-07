@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-05 08:39:38 
-categories: twitter 
---- 
-Didn’t execute $SQ well this week. Wasn’t on top of it as I would’ve liked. Especially this morning.
