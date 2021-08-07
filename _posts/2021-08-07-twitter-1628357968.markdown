@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-07 10:39:28 
+categories: twitter 
+--- 
+RT @MikeBellafiore: How to use $ADD and $TICK to make effective $SPY trades (part ii)
+
+https://t.co/meDYnUYE6C
