@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CornerMint 
-date: 2021-08-05 04:11:59 
-categories: twitter 
---- 
-@markflowchatter $gogo - just crushed their quarter and raised guidance. Believe you mentioned this thing is worth… https://t.co/wfqPxgGVwI
