@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @EdselOrtiz24 
+date: 2021-08-07 07:32:26 
+categories: twitter 
+--- 
+@timothysykes It's my 20th day in the Bootcamp!
