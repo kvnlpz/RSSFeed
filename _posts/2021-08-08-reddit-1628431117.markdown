@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A few questions on the technical side of bitcoin 
+date: 2021-08-08 1628431117 
+categories: reddit 
+--- 
+https://redd.it/p0f3xy
