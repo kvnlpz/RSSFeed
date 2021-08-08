@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:32:15 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Pro tip: 
+When you are applying for an internship at our firm, be thoughtful and diligent.  Show you gave the applicati…
