@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Monero (XMR) privacy bug found 
+date: 2021-08-07 1628396507 
+categories: reddit 
+--- 
+https://redd.it/p081z2
