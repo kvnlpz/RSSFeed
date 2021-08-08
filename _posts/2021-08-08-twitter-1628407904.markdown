@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:31:44 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Developing your system for walking away and taking a break after poor trading can be the singular difference between a…
