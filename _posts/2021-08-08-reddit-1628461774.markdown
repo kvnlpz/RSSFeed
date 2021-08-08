@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Ideas for timelocking a wallet. 
+date: 2021-08-08 1628461774 
+categories: reddit 
+--- 
+https://redd.it/p0oi24
