@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-08 08:28:22 
+categories: twitter 
+--- 
+RT @JuanNiqui: AWS will offer cloud software from Quantum Computing Inc $QUBT
+
+The head of Amazon’s quantum computing product explains its…
