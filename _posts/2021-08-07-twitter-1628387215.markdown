@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-08-07 18:46:55 
+categories: twitter 
+--- 
+"When you short the front size of the move with size...."
