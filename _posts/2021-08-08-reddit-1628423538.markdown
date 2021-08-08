@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What does EIP-1559/Ethereum London Upgrade mean, in really simple terms? 
+date: 2021-08-08 1628423538 
+categories: reddit 
+--- 
+https://redd.it/p0dafr
