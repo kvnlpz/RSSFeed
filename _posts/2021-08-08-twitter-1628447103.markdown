@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @CasPiancey 
+date: 2021-08-08 11:25:03 
+categories: twitter 
+--- 
+@nope_its_lily Does anyone take issue with this?
