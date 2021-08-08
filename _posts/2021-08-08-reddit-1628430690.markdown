@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Confused over how to "read" BSC logs generated within Trust Wallet - can someone help me out? 
+date: 2021-08-08 1628430690 
+categories: reddit 
+--- 
+https://redd.it/p0ezzy
