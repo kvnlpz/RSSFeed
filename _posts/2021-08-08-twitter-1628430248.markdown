@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @profitsgreen 
+date: 2021-08-08 06:44:08 
+categories: twitter 
+--- 
+@InvestorsLive Scaling in and scaling out examples and recycling
