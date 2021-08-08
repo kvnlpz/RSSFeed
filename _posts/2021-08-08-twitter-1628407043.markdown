@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:17:23 
+categories: twitter 
+--- 
+RT @MikeBellafiore: How can you make your trading bigger than just your trading PnL? https://t.co/OdtntZ0Mra
