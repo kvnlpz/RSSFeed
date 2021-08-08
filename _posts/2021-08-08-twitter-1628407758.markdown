@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:29:18 
+categories: twitter 
+--- 
+RT @MikeBellafiore: What can you do today to build/improve your trading team? https://t.co/0PhO0yhssu
