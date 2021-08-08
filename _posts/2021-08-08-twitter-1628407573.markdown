@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:26:13 
+categories: twitter 
+--- 
+RT @MikeBellafiore: @MaxGanik of @smbcapital shares, "Find your style of trading.  For me, it was trading large caps with volume and not lo…
