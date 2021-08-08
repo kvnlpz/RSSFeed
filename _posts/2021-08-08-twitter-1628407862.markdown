@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:31:02 
+categories: twitter 
+--- 
+RT @MikeBellafiore: If you overtrade, lose too much, but then implement a rule to fix this, then that is a necessary and productive trading…
