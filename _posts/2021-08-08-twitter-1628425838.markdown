@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Suzuguy 
+date: 2021-08-08 05:30:38 
+categories: twitter 
+--- 
+@timothysykes Good Morning study guru!
