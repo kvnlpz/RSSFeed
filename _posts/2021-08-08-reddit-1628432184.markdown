@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to choose (virtual) mining difficulty in a pool 
+date: 2021-08-08 1628432184 
+categories: reddit 
+--- 
+https://redd.it/p0fevz
