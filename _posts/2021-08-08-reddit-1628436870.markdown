@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A database to track how US Senators vote regarding the "crypto provision" hidden in the proposed infrastructure bill 
+date: 2021-08-08 1628436870 
+categories: reddit 
+--- 
+https://redd.it/p0gssr
