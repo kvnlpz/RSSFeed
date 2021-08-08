@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-08 16:15:10 
+categories: twitter 
+--- 
+@doddridge_chris It should be mostly undetectable
