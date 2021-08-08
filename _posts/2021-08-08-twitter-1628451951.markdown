@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-08 12:45:51 
+categories: twitter 
+--- 
+@GrnBulls But then if it does change, it actually contacts a verifier/source of truth service to verify that NIST h… https://t.co/D717K3Zxyi
