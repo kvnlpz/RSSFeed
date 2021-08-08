@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @solovvs 
+date: 2021-08-08 04:54:08 
+categories: twitter 
+--- 
+RT @CitronResearch: Citron Research discontinues short selling research  After 20 years of publishing Citron will no longer publish “short…
