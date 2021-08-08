@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @styler_syler 
+date: 2021-08-08 16:15:31 
+categories: twitter 
+--- 
+@nope_its_lily Screenshot taken.
