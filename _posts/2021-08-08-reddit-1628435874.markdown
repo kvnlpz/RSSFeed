@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Bitcoin actually has one pretty big flaw: it's not user friendly for blind people. 
+date: 2021-08-08 1628435874 
+categories: reddit 
+--- 
+https://redd.it/p0gi7c
