@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bo_chai 
+date: 2021-08-08 11:37:27 
+categories: twitter 
+--- 
+@nope_its_lily Thank you for the warning.
