@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:22:29 
+categories: twitter 
+--- 
+RT @MikeBellafiore: This would be a *very* promising development for a trader:
+
+Controlling your risk per trade AND
+Developing a system to…
