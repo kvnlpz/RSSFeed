@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Jam_Trades 
+date: 2021-08-08 10:03:00 
+categories: twitter 
+--- 
+@alphatrends Algorithmic trading programs often turn on/off on the bottom and top of the hour. You can see this occ… https://t.co/YZPDaluwnm
