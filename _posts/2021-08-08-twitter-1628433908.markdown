@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MyYellowCake 
+date: 2021-08-08 07:45:08 
+categories: twitter 
+--- 
+RT @nope_its_lily: @JoshVegas6 My core thesis here is -- BTC/ETH price action is primarily a speculation driven asset. I noted this with Te…
