@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-08 07:07:11 
+categories: twitter 
+--- 
+@SJosephBurns great quote
