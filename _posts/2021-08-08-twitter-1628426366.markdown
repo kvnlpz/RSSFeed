@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-08 05:39:26 
+categories: twitter 
+--- 
+RT @elrondeglddoc: “The analyst is also looking at scalable blockchain network Elrond (EGLD), which he says has become the first carbon-neg…
