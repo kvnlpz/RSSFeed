@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:26:09 
+categories: twitter 
+--- 
+RT @MikeBellafiore: To succeed at the start of your career @MaxGanik of @smbcapital advises,
+"Work with a team, grow and learn from your pe…
