@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Guys, I made a video about the crypto trading bot I wrote that buys the coins that we talk about the most on Reddit 
+date: 2021-08-08 1628430723 
+categories: reddit 
+--- 
+https://redd.it/p0f0ax
