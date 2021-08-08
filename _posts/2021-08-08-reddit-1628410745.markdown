@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Vitalik in an old Bitcoin giveaway Reddit thread describing a concept similar to MOONs (a faucet distributing coins to Reddit accounts based on a number of upvotes). 
+date: 2021-08-08 1628410745 
+categories: reddit 
+--- 
+https://redd.it/p0a5aw
