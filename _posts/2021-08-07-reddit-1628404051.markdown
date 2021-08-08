@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is the derivation path `m/44'/0'/0'` different than `m/44'`? 
+date: 2021-08-07 1628404051 
+categories: reddit 
+--- 
+https://redd.it/p09la9
