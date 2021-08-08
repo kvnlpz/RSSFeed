@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BartG33 
+date: 2021-08-08 12:01:04 
+categories: twitter 
+--- 
+RT @InvestorsLive: Understanding the "stuff" move 📉 https://t.co/2f5bcGsVji
