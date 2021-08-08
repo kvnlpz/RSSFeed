@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-08 10:20:56 
+categories: twitter 
+--- 
+@Jam_Trades a 30 minute solves this
