@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:19:37 
+categories: twitter 
+--- 
+RT @MikeBellafiore: Excellent introduction to how you might use data to make better trade decisions as a discretionary trader ⬇️👊
+
+How to U…
