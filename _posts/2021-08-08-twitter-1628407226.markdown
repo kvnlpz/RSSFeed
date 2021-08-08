@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:20:26 
+categories: twitter 
+--- 
+RT @MikeBellafiore: The Incredible Effect of Falling Options Volatility After Earnings https://t.co/2zz2pPAnjb via @YouTube
