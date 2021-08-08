@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Yield percentage is low enough for most of the coins to at least avoid having a lockup period or unintuitive staking process 
+date: 2021-08-08 1628443363 
+categories: reddit 
+--- 
+https://redd.it/p0is4q
