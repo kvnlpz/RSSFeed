@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why are the profits/losses 10000 times larger with the ETHBTC than DOGEUSDT, when the Trade value number is very similar? Can someone explain the values please? (paper trading) 
+date: 2021-08-08 1628431700 
+categories: reddit 
+--- 
+https://redd.it/p0fa1f
