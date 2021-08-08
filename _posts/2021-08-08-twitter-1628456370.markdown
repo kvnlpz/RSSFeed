@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @0xDisney 
+date: 2021-08-08 13:59:30 
+categories: twitter 
+--- 
+@nope_its_lily https://t.co/T6ovhBWWeL
