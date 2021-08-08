@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:25:30 
+categories: twitter 
+--- 
+RT @MikeBellafiore: What is the best way to add a *new* trading strategy 
+to your trading business? https://t.co/CrzxCoOwlG
