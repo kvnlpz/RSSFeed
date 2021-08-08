@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ScottHackingMD 
+date: 2021-08-08 08:42:52 
+categories: twitter 
+--- 
+@InvestorsLive How can I select stocks to hold overnight, if I am under the PDT rule?
