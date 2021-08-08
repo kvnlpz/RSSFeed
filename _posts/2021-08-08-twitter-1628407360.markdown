@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:22:40 
+categories: twitter 
+--- 
+RT @MikeBellafiore: What project can you complete this weekend that will materially help your trading? https://t.co/EtWugR5bCB
