@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Understanding Nervos Networks Layer 2 Solutions: Polyjuice, GodWoken and ETH Force Bridge 
+date: 2021-08-07 1628396894 
+categories: reddit 
+--- 
+https://redd.it/p0851k
