@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to create/deploy an ERC-20 token on the Ethereum Blockchain 
+date: 2021-08-08 1628444759 
+categories: reddit 
+--- 
+https://redd.it/p0j7uc
