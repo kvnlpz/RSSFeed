@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:34:06 
+categories: twitter 
+--- 
+RT @MikeBellafiore: A Technical Analysis Trading Strategy for Cryptocurrencies https://t.co/E95NVi6twM via @YouTube
