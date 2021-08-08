@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Senator Portman just now clarified that the crypto tax provision he authored should not include miners, stakers, other transaction validators, sellers of hardware/software for digital wallets, node operators, or others who are not brokers; a much broader definition than his original amendment 
+date: 2021-08-08 1628446791 
+categories: reddit 
+--- 
+https://redd.it/p0jv3w
