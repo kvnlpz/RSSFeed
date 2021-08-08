@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-08 07:14:03 
+categories: twitter 
+--- 
+RT @InvestorsLive: @thechartwright @swedepilot This only took one "How to fly a plane" YouTube video and we made it to Nantucket. Jet can't…
