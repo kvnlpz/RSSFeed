@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How is the exchange rate is calculated in BTC <> XMR atomic swaps? 
+date: 2021-08-08 1628412040 
+categories: reddit 
+--- 
+https://redd.it/p0agc3
