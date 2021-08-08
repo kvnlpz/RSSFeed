@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @badral 
+date: 2021-08-07 17:56:58 
+categories: twitter 
+--- 
+@alphatrends Thanks. Where can we learn more?
