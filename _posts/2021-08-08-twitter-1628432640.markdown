@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Rocket_Stocks 
+date: 2021-08-08 07:24:00 
+categories: twitter 
+--- 
+RT @super_trades: $EGLD above $120 .....
