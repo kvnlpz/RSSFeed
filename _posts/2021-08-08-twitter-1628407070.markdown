@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikeBellafior 
+date: 2021-08-08 00:17:50 
+categories: twitter 
+--- 
+RT @MikeBellafiore: "A good loss is a planned loss," instructs @Steenbab during a monthly review session today to a trader working on incre…
