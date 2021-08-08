@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-08 07:06:58 
+categories: twitter 
+--- 
+RT @SJosephBurns: Discipline is cheap compared to how expensive regret can become.
