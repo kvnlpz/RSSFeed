@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @swedepilot 
+date: 2021-08-08 05:15:06 
+categories: twitter 
+--- 
+@InvestorsLive How long does the charge last?
