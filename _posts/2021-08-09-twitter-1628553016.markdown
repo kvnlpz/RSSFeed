@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @lagrangian 
+date: 2021-08-09 16:50:16 
+categories: twitter 
+--- 
+RT @nope_its_lily: Interestingly, historically the average return for earning run-ups was negative. Not so much anymore. Don't have the dat…
