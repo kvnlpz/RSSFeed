@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many of the Americans in R/cryptocurrency actually donate to politicians? 
-date: 2021-08-08 1628478461 
-categories: reddit 
---- 
-https://redd.it/p0t1j3
