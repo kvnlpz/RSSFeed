@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question on relationship between alt coins and Bitcoin. 
-date: 2021-08-08 1628457570 
-categories: reddit 
---- 
-https://redd.it/p0n8eo
