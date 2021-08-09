@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xDisney 
-date: 2021-08-08 13:59:44 
-categories: twitter 
---- 
-@nope_its_lily Welcome https://t.co/QGFnoddfsu
