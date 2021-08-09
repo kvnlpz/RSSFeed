@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-08 16:14:49 
-categories: twitter 
---- 
-RT @Blackferah: @InvestorsLive @fliteboard @IU_Tyler I came here for the Sunday scan, stayed for the fliteboard fails.
