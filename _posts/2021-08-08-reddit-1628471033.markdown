@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stacker News has a solid content, you can log in with your Lightning wallet, spend and earn sats for posts and comments 
-date: 2021-08-08 1628471033 
-categories: reddit 
---- 
-https://redd.it/p0r22v
