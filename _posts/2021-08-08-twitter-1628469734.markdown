@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 17:42:14 
-categories: twitter 
---- 
-@CanteringClark Thank you. That's all I really ever wanted.
