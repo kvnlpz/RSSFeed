@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can I convert one coin to another ? 
-date: 2021-08-08 1628464805 
-categories: reddit 
---- 
-https://redd.it/p0pcjf
