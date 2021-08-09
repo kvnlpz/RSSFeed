@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Proposal] Exclude any user from MOON distribution due a ban due to content theft or spam 
-date: 2021-08-08 1628458981 
-categories: reddit 
---- 
-https://redd.it/p0nnkr
