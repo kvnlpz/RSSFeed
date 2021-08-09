@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @meebitnews 
-date: 2021-08-08 17:14:57 
-categories: twitter 
---- 
-@nope_its_lily bye 👋
