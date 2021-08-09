@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @1cavemank 
-date: 2021-08-08 16:18:03 
-categories: twitter 
---- 
-@nope_its_lily Everyone selling shiny rock to buy digital shiny rock this weekend.
