@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @UgochukwuOgbua1 
-date: 2021-08-08 15:04:24 
-categories: twitter 
---- 
-@timothysykes Is this for a day?
