@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TWilightmist66 
-date: 2021-08-08 16:55:08 
-categories: twitter 
---- 
-@goodetrades https://t.co/fkhpbWOxb0
