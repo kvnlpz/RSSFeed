@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Peter_Eller10 
-date: 2021-08-08 17:10:28 
-categories: twitter 
---- 
-@nope_its_lily Sometimes it goes up, sometimes it goes down, and sometimes when it does its a little or a lot
