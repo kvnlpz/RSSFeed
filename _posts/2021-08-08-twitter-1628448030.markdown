@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JewSwell 
-date: 2021-08-08 11:40:30 
-categories: twitter 
---- 
-@InvestorsLive Hard to get the hang of?

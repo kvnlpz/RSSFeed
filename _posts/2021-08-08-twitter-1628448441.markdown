@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AgileInvest 
-date: 2021-08-08 11:47:21 
-categories: twitter 
---- 
-RT @nope_its_lily: I design code to be antifragile to regime shifts in case we decide the Sumerians were wrong after all

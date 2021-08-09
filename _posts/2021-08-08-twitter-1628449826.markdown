@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @satoshiheist 
-date: 2021-08-08 12:10:26 
-categories: twitter 
---- 
-@nope_its_lily Sent

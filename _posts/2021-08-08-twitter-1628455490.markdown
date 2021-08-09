@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @crypt0contador 
-date: 2021-08-08 13:44:50 
-categories: twitter 
---- 
-@nope_its_lily I'm an idiot but I think there's always a bigger idiot out there that I can eventually sell these to

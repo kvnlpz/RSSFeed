@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @prchovanec 
-date: 2021-08-08 12:32:39 
-categories: twitter 
---- 
-@muddywatersre The bad news is, you have Bubonic Plague. The good news is, if you live, you probably won’t get it again.

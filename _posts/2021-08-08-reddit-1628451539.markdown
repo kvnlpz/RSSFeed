@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Buying LEAPS on SPY. Do the standard 0.75-0.9 delta rules apply when choosing a strike? 
-date: 2021-08-08 1628451539 
-categories: reddit 
---- 
-https://redd.it/p0lcn8

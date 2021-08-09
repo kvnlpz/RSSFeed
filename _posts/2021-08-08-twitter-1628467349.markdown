@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @astr0meb 
+date: 2021-08-08 17:02:29 
+categories: twitter 
+--- 
+@nope_its_lily Um, neutrons decay.  Protons don’t (or at least their half-life is longer than the age of the universe).

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-08-08 11:35:22 
-categories: twitter 
---- 
-@winsteadscap @schaudenfraud If you’re going to run for ex-president, you have to lead by example.

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FCIllini 
-date: 2021-08-08 11:47:17 
-categories: twitter 
---- 
-@InvestorsLive @fliteboard @IU_Tyler Nice bounce off support and then they pulled the rug on you

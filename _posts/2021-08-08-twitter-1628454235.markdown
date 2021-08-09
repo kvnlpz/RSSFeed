@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dollaretteco 
-date: 2021-08-08 13:23:55 
-categories: twitter 
---- 
-RT @super_trades: OH MY $QUBT and $AMZN https://t.co/SdWtJ538fE

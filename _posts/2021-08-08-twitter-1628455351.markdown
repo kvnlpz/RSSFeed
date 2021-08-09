@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 13:42:31 
-categories: twitter 
---- 
-@SpacFry It's not art, it's derivative 10 minute clones of 'art'. Most of the popular projects are simply clones of Cryptopunks.

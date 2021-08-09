@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @slimtee 
-date: 2021-08-08 08:07:07 
-categories: twitter 
---- 
-@InvestorsLive How do you create the scans can you go through that?

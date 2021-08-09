@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @acityinohio 
-date: 2021-08-08 13:47:27 
-categories: twitter 
---- 
-@nope_its_lily @coloradotravis that said there seems to be interesting generative art projects and people really le… https://t.co/WHZlzZI19t

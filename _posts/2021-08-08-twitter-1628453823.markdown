@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BugsyMcriver 
-date: 2021-08-08 13:17:03 
-categories: twitter 
---- 
-@nope_its_lily The rest of the world is on metric time. Wth is wrong with Americans. It's 100 minutes per hour.

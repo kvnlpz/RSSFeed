@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mewn21 
-date: 2021-08-08 12:40:21 
-categories: twitter 
---- 
-@nope_its_lily wait yes

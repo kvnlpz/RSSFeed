@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chris Gonsalves: Community Gaming CEO Reveals How They Worked on Adding Layer 2 Integrations Due to High Gas Fees on Ethereum MainNet 
-date: 2021-08-08 1628455301 
-categories: reddit 
---- 
-https://redd.it/p0mj1s

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WeLivetoServe 
-date: 2021-08-08 12:11:23 
-categories: twitter 
---- 
-@nope_its_lily “Go hang a salami, I’m a lasagna hog.” #LasagnaCoin #Palindrome

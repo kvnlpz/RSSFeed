@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ada Testnet online allowing smart contracts 
-date: 2021-08-08 1628448412 
-categories: reddit 
---- 
-https://redd.it/p0kd83

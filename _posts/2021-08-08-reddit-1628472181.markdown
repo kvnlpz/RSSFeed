@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Just think of Hardware Wallets as 2FA for your wallet 
+date: 2021-08-08 1628472181 
+categories: reddit 
+--- 
+https://redd.it/p0rd7p

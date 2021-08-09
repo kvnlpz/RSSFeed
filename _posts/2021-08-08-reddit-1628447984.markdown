@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thinking about adding Tezos to my portfolio 
-date: 2021-08-08 1628447984 
-categories: reddit 
---- 
-https://redd.it/p0k88r

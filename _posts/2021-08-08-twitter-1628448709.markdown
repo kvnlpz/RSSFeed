@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Contrahour 
-date: 2021-08-08 11:51:49 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/VOPx2yKwV9

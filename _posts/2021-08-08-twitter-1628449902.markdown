@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @luxartonline 
-date: 2021-08-08 12:11:42 
-categories: twitter 
---- 
-@nope_its_lily @friedmandave https://t.co/iMlYz8k30X

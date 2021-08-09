@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoMaestro 
-date: 2021-08-08 13:40:19 
-categories: twitter 
---- 
-@nope_its_lily give me your addy, I will gift you one (plus my private key)

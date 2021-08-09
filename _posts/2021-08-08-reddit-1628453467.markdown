@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thought I'd cover Orchid in this weeks deep dive 
-date: 2021-08-08 1628453467 
-categories: reddit 
---- 
-https://redd.it/p0lyf9

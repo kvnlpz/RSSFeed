@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BottomPhishing 
-date: 2021-08-08 13:20:52 
-categories: twitter 
---- 
-@InvestorsLive Must be the hair @austinkeen https://t.co/vb5t6qdc8C

@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @nabors_wright 
+date: 2021-08-08 16:47:31 
+categories: twitter 
+--- 
+RT @RayTL_: This was our first conference and the turn out, feedback, interactions, and presenters were amazing.
+
+If you missed it, check o…

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: "Advice" for avoiding BIOS changes when switching between mining and gaming profiles (noob alert) 
-date: 2021-08-08 1628455455 
-categories: reddit 
---- 
-https://redd.it/p0mkyh

@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why do we need lightning network ? (e.g Why do bitcoin need to be scalable ?) 
+date: 2021-08-08 1628477780 
+categories: reddit 
+--- 
+https://redd.it/p0suqv

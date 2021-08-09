@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bigtitstrader 
-date: 2021-08-08 13:45:09 
-categories: twitter 
---- 
-@nope_its_lily NFTs have the same utility as baseball cards, which is providing joy to some and an investment opportunity to others

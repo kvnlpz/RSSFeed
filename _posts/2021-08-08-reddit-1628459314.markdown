@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I made a beautiful free app that has crypto news from 20+ sources and also has a coin watchlist. Any feedback is appreciated! 
+date: 2021-08-08 1628459314 
+categories: reddit 
+--- 
+https://redd.it/p0nr64

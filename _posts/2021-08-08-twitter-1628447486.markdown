@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 11:31:26 
-categories: twitter 
---- 
-RT @LarsKestner: Study that looks at mean reversion in BTC. On the Intraday Behavior of Bitcoin -&gt; https://t.co/VYdI4KVpnC https://t.co/tSK…

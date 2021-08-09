@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @frasiertrades 
+date: 2021-08-08 15:25:55 
+categories: twitter 
+--- 
+@OddStockTrader https://t.co/odGFzXvJ33

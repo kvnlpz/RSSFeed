@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PriusOmega 
-date: 2021-08-08 12:03:49 
-categories: twitter 
---- 
-@nope_its_lily Pfft. Everyone knows time before the pandemic is just a myth.

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @JeremyRubin 
+date: 2021-08-08 16:11:47 
+categories: twitter 
+--- 
+@nope_its_lily short neutrinos
+long totinos

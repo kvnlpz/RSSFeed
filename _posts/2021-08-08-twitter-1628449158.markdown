@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AnalystDC 
-date: 2021-08-08 11:59:18 
-categories: twitter 
---- 
-@nope_its_lily according to @BLS_gov the average hours per day for people 15 years of age and over is 24 
-
-not sure… https://t.co/BDdnOaf8CP

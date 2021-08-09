@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any resources on ETH2.0 that's somewhere between the highlevel overview on ethereum.org and the specs? 
-date: 2021-08-08 1628450595 
-categories: reddit 
---- 
-https://redd.it/p0l211

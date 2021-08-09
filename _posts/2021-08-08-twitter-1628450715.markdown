@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @terminalanalyst 
-date: 2021-08-08 12:25:15 
-categories: twitter 
---- 
-@nope_its_lily She looks younger than me 😔

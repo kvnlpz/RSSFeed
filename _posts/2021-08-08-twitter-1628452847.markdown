@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kidflash124 
-date: 2021-08-08 13:00:47 
-categories: twitter 
---- 
-@nope_its_lily Don't remind me

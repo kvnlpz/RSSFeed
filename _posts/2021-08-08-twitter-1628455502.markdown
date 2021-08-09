@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SchemeDream 
-date: 2021-08-08 13:45:02 
-categories: twitter 
---- 
-@nope_its_lily She's here to talk about pengus.
-
-@0xElm0 up only.

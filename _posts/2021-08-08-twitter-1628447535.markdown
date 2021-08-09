@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JReade_WGC 
-date: 2021-08-08 11:32:15 
-categories: twitter 
---- 
-@nope_its_lily Leo approves. https://t.co/2ymAAPSe1s

@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Chainlink has partnered with Marsh, the largest insurance broker in the world, to build blockchain-based parametric insurance contracts using Chainlink oracles. 
-date: 2021-08-08 1628453395 
-categories: reddit 
---- 
-https://redd.it/p0lxms
