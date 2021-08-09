@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 17:39:14 
-categories: twitter 
---- 
-@stoxdox @PeterSchiff Nah Peter knows how to meme, he's at least on IE8
