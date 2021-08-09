@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: General warning about crypto cards and the possibility of sim swaps 
-date: 2021-08-08 1628468933 
-categories: reddit 
---- 
-https://redd.it/p0qhc5
