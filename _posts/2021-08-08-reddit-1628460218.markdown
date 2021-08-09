@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about hardware wallets 
-date: 2021-08-08 1628460218 
-categories: reddit 
---- 
-https://redd.it/p0o1bk
