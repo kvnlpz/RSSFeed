@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KevinSmiith 
-date: 2021-08-08 16:04:53 
-categories: twitter 
---- 
-@nope_its_lily I really want to know what the metaverse is, but I'm too scared to ask at this point
