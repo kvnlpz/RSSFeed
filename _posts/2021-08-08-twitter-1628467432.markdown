@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Ryancerfus 
-date: 2021-08-08 17:03:52 
-categories: twitter 
---- 
-@nope_its_lily Great time to buy
