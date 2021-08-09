@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: NVDA gang, how are we feeling? 
-date: 2021-08-08 1628490747 
-categories: reddit 
---- 
-https://redd.it/p0vvlt
