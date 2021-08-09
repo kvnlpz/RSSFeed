@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Coryiam 
-date: 2021-08-08 16:53:09 
-categories: twitter 
---- 
-@RayTL_ $AER, $AAP, $DE, $MATX, $SNOW, $URBN, $AR, $SXC, $NUE, $COKE, $ABT, $JCOM, $AMAT, $LZ
