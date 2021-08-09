@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JYacek 
+date: 2021-08-08 17:26:46 
+categories: twitter 
+--- 
+RT @muddywatersre: @QTRResearch It’s probably CS having only *just* learned that Arch Egos employees’ collateral against a gold position is…
