@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LewisPyer 
-date: 2021-08-08 16:10:46 
-categories: twitter 
---- 
-@nope_its_lily See you at 1400 gold
