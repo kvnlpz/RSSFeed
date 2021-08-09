@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThiccestLuigi 
-date: 2021-08-08 15:29:24 
-categories: twitter 
---- 
-RT @nope_its_lily: no one loses money
-in the metaverse
