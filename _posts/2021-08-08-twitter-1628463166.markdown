@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LeBelleChart 
-date: 2021-08-08 15:52:46 
-categories: twitter 
---- 
-@alphatrends $FOM.V avwap YTD + tag strategy. Probably just a coincidence https://t.co/wCGrDXkhBa
