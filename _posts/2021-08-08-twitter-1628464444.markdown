@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bugs670 
-date: 2021-08-08 16:14:04 
-categories: twitter 
---- 
-@nope_its_lily US $ making major move up
