@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Website compatible brave 
-date: 2021-08-08 1628459910 
-categories: reddit 
---- 
-https://redd.it/p0nxlx
