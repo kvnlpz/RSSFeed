@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Eddypgil 
-date: 2021-08-08 15:59:44 
-categories: twitter 
---- 
-@InvestorsLive @fliteboard @IU_Tyler Loch Ness monster collision
