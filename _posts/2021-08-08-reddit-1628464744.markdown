@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Who is buying these stocks? Caveat Emptor 
-date: 2021-08-08 1628464744 
-categories: reddit 
---- 
-https://redd.it/p0pbts
