@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-08 16:47:18 
-categories: twitter 
---- 
-This was our first conference and the turn out, feedback, interactions, and presenters were amazing.
-
-If you missed… https://t.co/BK4tuS6zyC
