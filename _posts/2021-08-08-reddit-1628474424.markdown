@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Synthetic bananas? This DeFi project lets users tokenize any asset imaginable on Ethereum 
-date: 2021-08-08 1628474424 
-categories: reddit 
---- 
-https://redd.it/p0rybp
