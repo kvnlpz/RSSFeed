@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What news impacts stock futures? (Nasdaq specifically) 
-date: 2021-08-08 1628477253 
-categories: reddit 
---- 
-https://redd.it/p0spn5
