@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TC_NorthStar15 
-date: 2021-08-08 16:42:27 
-categories: twitter 
---- 
-@RayTL_ $AMAT
