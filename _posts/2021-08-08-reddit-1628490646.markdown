@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Should we standardize the naming to Cryptoasset, instead of Cryptocurrency 
-date: 2021-08-08 1628490646 
-categories: reddit 
---- 
-https://redd.it/p0vuvz
