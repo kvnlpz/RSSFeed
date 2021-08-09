@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HaiKala4 
-date: 2021-08-08 16:06:23 
-categories: twitter 
---- 
-@nope_its_lily Bank stocks should rise?
