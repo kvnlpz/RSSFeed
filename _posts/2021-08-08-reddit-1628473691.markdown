@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I cannot access all funds on monero GUI Ledger nor move any. 
-date: 2021-08-08 1628473691 
-categories: reddit 
---- 
-https://redd.it/p0rrjz
