@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rosskennedy 
-date: 2021-08-08 17:12:12 
-categories: twitter 
---- 
-@alphatrends Clear and concise synopsis.  Thank you!
