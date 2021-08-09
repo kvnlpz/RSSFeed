@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Data source for retail trade sentiment 
-date: 2021-08-08 1628476824 
-categories: reddit 
---- 
-https://redd.it/p0slk5
