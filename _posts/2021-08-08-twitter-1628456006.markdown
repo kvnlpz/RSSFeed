@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZaneKime 
-date: 2021-08-08 13:53:26 
-categories: twitter 
---- 
-@nope_its_lily What’s the long term value in things like title?  Certainly distributed verification is more valuabl… https://t.co/NPVGKdFH8A
