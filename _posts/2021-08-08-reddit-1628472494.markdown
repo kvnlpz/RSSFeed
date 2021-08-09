@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Latest Week in Ethereum News! London upgrade live with over 15k $ETH burned; Arbitrum launching in weeks; Louis Vuitton launches game with mainnet NFTs 
-date: 2021-08-08 1628472494 
-categories: reddit 
---- 
-https://redd.it/p0rg1v
