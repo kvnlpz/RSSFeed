@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Atomic_Trades1 
-date: 2021-08-08 14:11:45 
-categories: twitter 
---- 
-@timothysykes Finished your book An American Hedge Fund this weekend. It is a must read for both beginner and advanced traders. Inspiring!
