@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What do you think of NIO? might be setting up nicely for Monday 
-date: 2021-08-08 1628481528 
-categories: reddit 
---- 
-https://redd.it/p0ttj4
