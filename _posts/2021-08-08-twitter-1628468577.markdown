@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-08-08 17:22:57 
-categories: twitter 
---- 
-@QTRResearch It’s probably CS having only *just* learned that Arch Egos employees’ collateral against a gold position is gone too.
