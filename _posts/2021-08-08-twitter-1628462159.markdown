@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-08 15:35:59 
-categories: twitter 
---- 
-RT @StocksToTrade: Words can’t express how insane the markets have been for the past year and a half. 
-
-Even in the peak of summer, we’re s…
