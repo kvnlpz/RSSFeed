@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @natesjacobs 
-date: 2021-08-08 14:28:03 
-categories: twitter 
---- 
-@nope_its_lily i think it depends on if it can centralize around a single authoritative chain for most NFTs (at lea… https://t.co/Dw7zyJY83E
