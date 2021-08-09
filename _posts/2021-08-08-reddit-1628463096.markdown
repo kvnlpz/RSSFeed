@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Accumulating Moons 
-date: 2021-08-08 1628463096 
-categories: reddit 
---- 
-https://redd.it/p0ovfr
