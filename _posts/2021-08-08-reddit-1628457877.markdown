@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Dexalot: Decentralized Exchange with Central Limit Order Book 
-date: 2021-08-08 1628457877 
-categories: reddit 
---- 
-https://redd.it/p0nbs8
