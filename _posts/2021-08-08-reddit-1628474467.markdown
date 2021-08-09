@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PLL and ALB 
-date: 2021-08-08 1628474467 
-categories: reddit 
---- 
-https://redd.it/p0ryzp
