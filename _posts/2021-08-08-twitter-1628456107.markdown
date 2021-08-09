@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bashizzlecrypto 
-date: 2021-08-08 13:55:07 
-categories: twitter 
---- 
-@nope_its_lily The huddle is the way https://t.co/8cnvnqs8jH
