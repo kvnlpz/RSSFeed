@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rise of the Bots? 
-date: 2021-08-08 1628470527 
-categories: reddit 
---- 
-https://redd.it/p0qx3b
