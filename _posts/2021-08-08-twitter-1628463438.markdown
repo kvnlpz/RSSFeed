@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TimiAdetona 
-date: 2021-08-08 15:57:18 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen Ray doesn't like the camera.
