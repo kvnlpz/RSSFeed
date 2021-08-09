@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Now that Grenada is up and running, does anybody know how many transactions per second Tezos can handle? 
-date: 2021-08-08 1628465292 
-categories: reddit 
---- 
-https://redd.it/p0phak
