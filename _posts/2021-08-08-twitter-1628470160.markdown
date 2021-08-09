@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 17:49:20 
-categories: twitter 
---- 
-I'm an oracle, which means I saw ahead of time I was going to lose all the money, but did it anyway for the internet clout.
