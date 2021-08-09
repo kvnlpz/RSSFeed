@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @saanglee 
-date: 2021-08-08 16:44:09 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/GSxDxiYZD5
