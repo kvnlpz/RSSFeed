@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are there brokers that settle trades instantly? 
-date: 2021-08-08 1628469565 
-categories: reddit 
---- 
-https://redd.it/p0qnlv
