@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BITF Yolo 
-date: 2021-08-08 1628467999 
-categories: reddit 
---- 
-https://redd.it/p0q864
