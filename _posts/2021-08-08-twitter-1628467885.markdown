@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WallStChameleon 
-date: 2021-08-08 17:11:25 
-categories: twitter 
---- 
-@nope_its_lily Also collectibles seem like a natural entry point for people to be motivated to understand the value… https://t.co/ArE4jHpieS
