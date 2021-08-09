@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HonuMgmt 
-date: 2021-08-08 16:50:16 
-categories: twitter 
---- 
-RT @RayTL_: This was our first conference and the turn out, feedback, interactions, and presenters were amazing.
-
-If you missed it, check o…
