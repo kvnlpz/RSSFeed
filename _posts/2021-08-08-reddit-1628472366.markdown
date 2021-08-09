@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: 50-50 
-date: 2021-08-08 1628472366 
-categories: reddit 
---- 
-https://redd.it/p0rej2
