@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StojBoj 
-date: 2021-08-08 16:10:17 
-categories: twitter 
---- 
-@nope_its_lily Yukon Cornelius at it again. https://t.co/n7u0rdrLzB
