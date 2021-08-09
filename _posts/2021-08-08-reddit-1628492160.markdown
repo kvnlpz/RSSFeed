@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Running a Monero node 
-date: 2021-08-08 1628492160 
-categories: reddit 
---- 
-https://redd.it/p0w67m
