@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Roughly 2 ETH is being burned every minute thanks to Ethereum's new London update. 
-date: 2021-08-08 1628477057 
-categories: reddit 
---- 
-https://redd.it/p0sntj
