@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @orbital__nomad 
-date: 2021-08-08 15:23:29 
-categories: twitter 
---- 
-@nope_its_lily If the financial industry moved to tokenized/digitize shares, bonds, etc on DLT, would you consider that NFT's.
