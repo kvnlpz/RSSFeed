@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can an individual buy/sell USDC on Circle for free to/from bank account? 
-date: 2021-08-08 1628487679 
-categories: reddit 
---- 
-https://redd.it/p0v8ml
