@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 17:51:23 
-categories: twitter 
---- 
-@cluelesstrader No, but I told people I was selling last night.
