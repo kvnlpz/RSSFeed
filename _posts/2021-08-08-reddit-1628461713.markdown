@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Bitcoin lightning network needs more love and adoption 
-date: 2021-08-08 1628461713 
-categories: reddit 
---- 
-https://redd.it/p0ohec
