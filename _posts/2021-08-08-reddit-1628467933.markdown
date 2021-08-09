@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Newb question: why don't I sell a naked deep OTM call (delta ~ 20) and then buy the underlying shares if and only if it looks like the option will go ITM? 
-date: 2021-08-08 1628467933 
-categories: reddit 
---- 
-https://redd.it/p0q7kh
