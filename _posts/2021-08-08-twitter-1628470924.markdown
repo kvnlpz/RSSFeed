@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fokhoff 
-date: 2021-08-08 18:02:04 
-categories: twitter 
---- 
-RT @InvestorsLive: Understanding the "stuff" move 📉 https://t.co/2f5bcGsVji
