@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @papafost 
-date: 2021-08-08 18:05:00 
-categories: twitter 
---- 
-@nope_its_lily Gold is not valuable.
