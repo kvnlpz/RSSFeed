@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TophCoins 
-date: 2021-08-08 18:18:56 
-categories: twitter 
---- 
-@nope_its_lily Faves rn are @ParallelNFT and @OnlyOnePixel. Both have uses other than "being an nft of a cat smokin… https://t.co/lBxBaJYQLf
