@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeCandito12 
-date: 2021-08-08 21:27:13 
-categories: twitter 
---- 
-@nope_its_lily 99% loss for 99% of them
