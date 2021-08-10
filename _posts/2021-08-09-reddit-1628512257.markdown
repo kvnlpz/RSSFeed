@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: how to start bitcoin 
-date: 2021-08-09 1628512257 
-categories: reddit 
---- 
-https://redd.it/p10i57
