@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @cauchyfriend 
+date: 2021-08-09 23:05:12 
+categories: twitter 
+--- 
+@nope_its_lily Sure would be a shame if... those time indices... didn't perfectly respect the correct temporal information constraints.
