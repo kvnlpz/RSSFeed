@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 22:25:53 
-categories: twitter 
---- 
-It also supports resampling and other methods I've added so far, including a lot of calendar helpers and stuff. Sti… https://t.co/Rd5Z7wij51
