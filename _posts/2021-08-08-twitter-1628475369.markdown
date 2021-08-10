@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoeMarkus15 
-date: 2021-08-08 19:16:09 
-categories: twitter 
---- 
-@RayTL_ $UVXY
