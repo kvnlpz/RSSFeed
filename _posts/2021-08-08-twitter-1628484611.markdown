@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AllisonReichel 
-date: 2021-08-08 21:50:11 
-categories: twitter 
---- 
-@nope_its_lily @CL207 R u new here? PhDs aren’t looked upon fondly in these parts
