@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: it seems recently brave has only use coinbase for their brave initiated bat purchase, thay use to only use uphold 
-date: 2021-08-09 1628518342 
-categories: reddit 
---- 
-https://redd.it/p128iq
