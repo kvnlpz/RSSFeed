@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trouble understanding the Ethereum EIP 1559 upgrade? Here's the simplest analogy for this yet! 
-date: 2021-08-09 1628504489 
-categories: reddit 
---- 
-https://redd.it/p0yp2m
