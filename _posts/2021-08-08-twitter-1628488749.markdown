@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sujon12354 
-date: 2021-08-08 22:59:09 
-categories: twitter 
---- 
-@nope_its_lily nice
