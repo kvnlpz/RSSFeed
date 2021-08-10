@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New Crypto coin 
-date: 2021-08-09 1628504593 
-categories: reddit 
---- 
-https://redd.it/p0yprh
