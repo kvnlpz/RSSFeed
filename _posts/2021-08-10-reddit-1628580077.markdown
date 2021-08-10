@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: 2 issues: Claim button still isn't showing up and unauthorised transaction from Uphold to Brave Software International 
+date: 2021-08-10 1628580077 
+categories: reddit 
+--- 
+https://redd.it/p1kb2o
