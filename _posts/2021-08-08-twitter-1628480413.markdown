@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 20:40:13 
-categories: twitter 
---- 
-@MidwestHedgie i'm most of the best and worst you listed
