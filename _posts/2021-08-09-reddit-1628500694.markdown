@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I export my transaction history to CSV? 
-date: 2021-08-09 1628500694 
-categories: reddit 
---- 
-https://redd.it/p0xx1s
