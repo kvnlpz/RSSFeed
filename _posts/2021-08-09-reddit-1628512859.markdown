@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Free export stockscreener results and prices to csv files at dataeconomicis 
-date: 2021-08-09 1628512859 
-categories: reddit 
---- 
-https://redd.it/p10npw
