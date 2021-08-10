@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What happens to theta when you sell an OTM put that is above the current stock price? 
+date: 2021-08-10 1628606741 
+categories: reddit 
+--- 
+https://redd.it/p1qmho
