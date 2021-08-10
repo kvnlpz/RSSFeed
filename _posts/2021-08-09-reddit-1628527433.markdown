@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The history of Bitcoin: When did Bitcoin start? 
-date: 2021-08-09 1628527433 
-categories: reddit 
---- 
-https://redd.it/p157ev
