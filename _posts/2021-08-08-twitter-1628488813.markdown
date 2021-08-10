@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jeffdewy 
-date: 2021-08-08 23:00:13 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Making a 2nd watchlist to corroborate a new strategy I've been back testing all week.… https://t.co/09msD71O0o
