@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BitcoinMonke 
+date: 2021-08-09 17:24:58 
+categories: twitter 
+--- 
+@nope_its_lily What language is genetic code written in? Can I build websites with it?
