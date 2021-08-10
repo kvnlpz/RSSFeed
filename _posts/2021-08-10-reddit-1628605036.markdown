@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: We have lost more than $1B in DeFi hacks in the last two years. We have covered the reasons behind these hacks, and detailed common vulnerabilities which hackers exploited to perform these attacks. A Must read for every DeFi Investor. 
+date: 2021-08-10 1628605036 
+categories: reddit 
+--- 
+https://redd.it/p1q2pn
