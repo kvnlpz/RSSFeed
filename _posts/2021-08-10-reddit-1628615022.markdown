@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Solipay Will Launch a Chainlink Node to Provide Consumer Authorized Data to Blockchain dApps 
+date: 2021-08-10 1628615022 
+categories: reddit 
+--- 
+https://redd.it/p1tgg9
