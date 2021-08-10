@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: App that notifies when trades are made? 
-date: 2021-08-09 1628500805 
-categories: reddit 
---- 
-https://redd.it/p0xxr8
