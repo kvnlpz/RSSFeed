@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tradewithprof 
-date: 2021-08-08 20:45:01 
-categories: twitter 
---- 
-RT @alphatrends: #VWAPtips https://t.co/Nf8ajGBYFX
