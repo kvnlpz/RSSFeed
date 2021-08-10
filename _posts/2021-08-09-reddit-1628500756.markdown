@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: App that notifies when trades go through? 
-date: 2021-08-09 1628500756 
-categories: reddit 
---- 
-https://redd.it/p0xxgo
