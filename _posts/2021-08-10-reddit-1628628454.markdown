@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The Stellar network has many features that other chains do not. Claimable Balances were brought in last year so you can choose to accept or decline a payment. This article helps explain what that can mean for businesses using Stellar. 
+date: 2021-08-10 1628628454 
+categories: reddit 
+--- 
+https://redd.it/p1xy03
