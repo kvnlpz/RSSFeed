@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jasper1388 
-date: 2021-08-08 21:46:06 
-categories: twitter 
---- 
-@InvestorsLive Forgot to add on the snorkel package lol
