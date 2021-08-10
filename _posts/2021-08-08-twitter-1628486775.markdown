@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cauchyfriend 
-date: 2021-08-08 22:26:15 
-categories: twitter 
---- 
-@nope_its_lily @alpha_vantage @TiingoFinance You can tell a lot about a person by the aesthetics of their utils.
