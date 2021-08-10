@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dotarock1 
-date: 2021-08-08 18:23:28 
-categories: twitter 
---- 
-@nope_its_lily Is this genius hot take factoring in BTC was up basically 40-50 pct past month?
