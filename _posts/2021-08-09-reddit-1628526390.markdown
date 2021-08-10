@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: OriginTrail expands it's Decentralized Knowledge Graph onto Polygon 
-date: 2021-08-09 1628526390 
-categories: reddit 
---- 
-https://redd.it/p13zre
