@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I think I know why posts get less upvotes than comments. 
-date: 2021-08-09 1628511987 
-categories: reddit 
---- 
-https://redd.it/p10fqp
