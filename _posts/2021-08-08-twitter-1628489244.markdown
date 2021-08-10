@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DanielCluley 
-date: 2021-08-08 23:07:24 
-categories: twitter 
---- 
-@nope_its_lily @alpha_vantage @TiingoFinance I have used the old YahooFinance API in the past for my spreadsheets a… https://t.co/b5KI93R2O4
