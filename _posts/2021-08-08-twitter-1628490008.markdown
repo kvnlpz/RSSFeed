@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sjwbollocks 
-date: 2021-08-08 23:20:08 
-categories: twitter 
---- 
-RT @muddywatersre: Even with PCAOB inspections, these companies’ financials wouldn’t be trustworthy, in part because the US would still hav…
