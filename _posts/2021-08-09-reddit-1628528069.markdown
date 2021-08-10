@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What do you think about Etoro and their sentiment analysis? 
-date: 2021-08-09 1628528069 
-categories: reddit 
---- 
-https://redd.it/p15ezv
