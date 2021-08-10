@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trading Stablecoins with BTC or ETH 
-date: 2021-08-09 1628529633 
-categories: reddit 
---- 
-https://redd.it/p15yc8
