@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-09 21:20:54 
+categories: twitter 
+--- 
+@david_9illies @MarketSmith depends on the liquidity of the stock
