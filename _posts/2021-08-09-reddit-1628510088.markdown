@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trezor Model T or Model One? 
-date: 2021-08-09 1628510088 
-categories: reddit 
---- 
-https://redd.it/p0zy85
