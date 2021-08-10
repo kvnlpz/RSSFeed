@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Trezor Model T/OG vs COLD CARD; What Should I Be Using? 
-date: 2021-08-09 1628499396 
-categories: reddit 
---- 
-https://redd.it/p0xnkh
