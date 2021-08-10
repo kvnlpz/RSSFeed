@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FREAK0NAUT 
-date: 2021-08-08 20:49:11 
-categories: twitter 
---- 
-@nope_its_lily @sajidnizami @bennpeifert says person who built model she believes to be more correct than the market
