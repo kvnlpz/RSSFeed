@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: GUI for geth? 
-date: 2021-08-09 1628497650 
-categories: reddit 
---- 
-https://redd.it/p0xb5z
