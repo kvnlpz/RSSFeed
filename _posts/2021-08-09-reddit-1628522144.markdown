@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Catching Up With MVL And The Migration Of TADA Ride-Hailing App From Ethereum To Tezos 
-date: 2021-08-09 1628522144 
-categories: reddit 
---- 
-https://redd.it/p13glt
