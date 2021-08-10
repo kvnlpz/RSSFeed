@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In terms of security, what advantages do hardware wallets have over standard non-custodial wallets? 
-date: 2021-08-09 1628497015 
-categories: reddit 
---- 
-https://redd.it/p0x6i5
