@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How you can help support the Bitcoin network (Hint: it's not by running a node) 
-date: 2021-08-09 1628531165 
-categories: reddit 
---- 
-https://redd.it/p16gy0
