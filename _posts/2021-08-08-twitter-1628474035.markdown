@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shntzl 
-date: 2021-08-08 18:53:55 
-categories: twitter 
---- 
-RT @nope_its_lily: @friedmandave I follow Taleb's practices and insult people on Twitter too to prove how antifragile I am
