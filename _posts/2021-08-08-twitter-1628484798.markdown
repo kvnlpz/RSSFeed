@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NoX_Ra 
-date: 2021-08-08 21:53:18 
-categories: twitter 
---- 
-@nope_its_lily @AllisonReichel @CL207 This is great
