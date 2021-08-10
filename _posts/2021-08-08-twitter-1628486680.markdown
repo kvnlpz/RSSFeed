@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 22:24:40 
-categories: twitter 
---- 
-Still need to add testing and bleh, but made a neat little library to load a shit ton of data from @alpha_vantage a… https://t.co/DtBiBkeSKH
