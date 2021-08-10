@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How To Monitor The Amount Of ETH Burned And Track Ethereum EIP 1559 Effects On Regular Basis 
-date: 2021-08-09 1628513900 
-categories: reddit 
---- 
-https://redd.it/p10xr9
