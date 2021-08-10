@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $MVST go brrrrrr 
-date: 2021-08-09 1628531991 
-categories: reddit 
---- 
-https://redd.it/p16rc3
