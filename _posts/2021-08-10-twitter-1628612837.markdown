@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @friedmandave 
+date: 2021-08-10 09:27:17 
+categories: twitter 
+--- 
+@nope_its_lily Small details.
