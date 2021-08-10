@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I wrote an easy article for dummies to understand what blockchain is 
+date: 2021-08-10 1628614019 
+categories: reddit 
+--- 
+https://redd.it/p1t3mq
