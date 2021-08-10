@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin and Litecoin are the gold and silver of the crypto industry. Bitcoin is the oldest, most popular currency but has a very limited supply. Litecoin is much faster, has more supply, and is easier to mine but it’s not as popular. 
-date: 2021-08-09 1628509682 
-categories: reddit 
---- 
-https://redd.it/p0zuqy
