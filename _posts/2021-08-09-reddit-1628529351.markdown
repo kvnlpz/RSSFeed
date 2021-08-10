@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Analysis: Token Taxes vs Profit Margins 
-date: 2021-08-09 1628529351 
-categories: reddit 
---- 
-https://redd.it/p15uyj
