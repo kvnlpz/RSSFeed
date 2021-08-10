@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Project you thought was overpromised in terms of tech, but actually delivered 
-date: 2021-08-09 1628523423 
-categories: reddit 
---- 
-https://redd.it/p13vqm
