@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Whats the deal with cartesi? 50% wtf? 
-date: 2021-08-09 1628524434 
-categories: reddit 
---- 
-https://redd.it/p147l5
