@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How can I send a message via a Monero transaction? 
-date: 2021-08-09 1628523162 
-categories: reddit 
---- 
-https://redd.it/p13ovy
