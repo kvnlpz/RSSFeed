@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Solana Launches Cross-Chain ‘Wormhole’ for Shuttling Assets From Ethereum, BSC 
-date: 2021-08-09 1628523441 
-categories: reddit 
---- 
-https://redd.it/p13vy2
