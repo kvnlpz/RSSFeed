@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Some details on ERGO, a rapidly growing UTXO-based DeFi blockchain 
+date: 2021-08-10 1628604660 
+categories: reddit 
+--- 
+https://redd.it/p1pyc6
