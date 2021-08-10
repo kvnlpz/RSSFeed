@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Next Evolution in Blockchain: Decentralized Identity 
-date: 2021-08-09 1628526850 
-categories: reddit 
---- 
-https://redd.it/p150h0
