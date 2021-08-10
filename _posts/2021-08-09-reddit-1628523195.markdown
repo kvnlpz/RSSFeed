@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why do some posts get removed without any reason? 
-date: 2021-08-09 1628523195 
-categories: reddit 
---- 
-https://redd.it/p13ssv
