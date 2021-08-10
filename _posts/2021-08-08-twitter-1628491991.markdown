@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rawchartist 
-date: 2021-08-08 23:53:11 
-categories: twitter 
---- 
-RT @RayTL_: Great share by @rfehrm 👇 https://t.co/iSAlRTA4qI
