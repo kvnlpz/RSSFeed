@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Youtube Video Tutorial from Felix: Create an EOS Account with Anchor Wallet and iOS - the best EOS account creation experience so far! 
-date: 2021-08-09 1628510191 
-categories: reddit 
---- 
-https://redd.it/p0zz6q
