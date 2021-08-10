@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can you sell a put against a short position? Or is that not a thing people do. 
-date: 2021-08-09 1628505779 
-categories: reddit 
---- 
-https://redd.it/p0yyz4
