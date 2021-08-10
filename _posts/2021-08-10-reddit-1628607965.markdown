@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Pro security tip: use an email alias 
+date: 2021-08-10 1628607965 
+categories: reddit 
+--- 
+https://redd.it/p1r13g
