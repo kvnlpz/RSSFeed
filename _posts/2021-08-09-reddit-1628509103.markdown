@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It feels great 
-date: 2021-08-09 1628509103 
-categories: reddit 
---- 
-https://redd.it/p0zq0c
