@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My Youtube feed. No wonder i get confused sometimes. 
-date: 2021-08-09 1628516278 
-categories: reddit 
---- 
-https://redd.it/p11m1f
