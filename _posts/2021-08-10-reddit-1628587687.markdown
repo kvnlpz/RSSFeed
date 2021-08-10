@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Naked Puts: Does it make sense to keep rolling for a credit and not take assignment? 
+date: 2021-08-10 1628587687 
+categories: reddit 
+--- 
+https://redd.it/p1lruj
