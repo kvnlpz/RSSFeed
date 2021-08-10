@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I want an app to show me my entire portfolio, but im not bothered going back through all the prices over the last few months. 
-date: 2021-08-09 1628526783 
-categories: reddit 
---- 
-https://redd.it/p14zl8
