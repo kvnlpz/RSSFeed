@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are gas fees different depending on the ERC20 token you wish to transfer? 
-date: 2021-08-09 1628529071 
-categories: reddit 
---- 
-https://redd.it/p15rhs
