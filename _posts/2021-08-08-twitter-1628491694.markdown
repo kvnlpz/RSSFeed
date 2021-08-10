@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Quinnvestments 
-date: 2021-08-08 23:48:14 
-categories: twitter 
---- 
-@nope_its_lily R.I.P. if you'd have to type that out. Here -
-
-GET /v8/finance/chart/HWIN?symbol=HWIN&amp;period1=162817… https://t.co/SxyoJFgiLq
