@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 22:25:25 
-categories: twitter 
---- 
-Essentially this supports incremental updating of a cached 1min load for an entire crypto history, meaning in Engli… https://t.co/2pixXwGTwJ
