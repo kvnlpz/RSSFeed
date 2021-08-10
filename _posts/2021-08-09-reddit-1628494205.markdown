@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yield Farming 
-date: 2021-08-09 1628494205 
-categories: reddit 
---- 
-https://redd.it/p0wloj
