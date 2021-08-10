@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $SAVE My Portfolio 
-date: 2021-08-09 1628521769 
-categories: reddit 
---- 
-https://redd.it/p13c6r
