@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I coded and tested a crypto trading algorithm that buys the coins we talk about the most on reddit 
+date: 2021-08-10 1628629112 
+categories: reddit 
+--- 
+https://redd.it/p1y5pp
