@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @lightspringfox 
+date: 2021-08-09 22:25:20 
+categories: twitter 
+--- 
+@nope_its_lily @choffstein This is probably a useless in terms of the time series you want, but the short answer is… https://t.co/RTwlUV7qzX
