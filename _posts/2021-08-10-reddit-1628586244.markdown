@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A new PoS consensus algorithm 
+date: 2021-08-10 1628586244 
+categories: reddit 
+--- 
+https://redd.it/p1lhzf
