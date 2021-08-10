@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @R_DaneelSeldon 
-date: 2021-08-08 18:16:22 
-categories: twitter 
---- 
-@nope_its_lily Just give us the strike and expiry
