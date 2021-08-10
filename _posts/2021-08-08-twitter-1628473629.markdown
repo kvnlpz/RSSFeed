@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Ankit_Quant 
-date: 2021-08-08 18:47:09 
-categories: twitter 
---- 
-RT @nope_its_lily: Please don't harass goldbug twitter, guys. Most of them can only see one tweet load at a time on Internet Explorer 6.
