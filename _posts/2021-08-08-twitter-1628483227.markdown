@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @doplus 
-date: 2021-08-08 21:27:07 
-categories: twitter 
---- 
-@RayTL_ I ran four scans and looked at 62 charts. Lets go!
