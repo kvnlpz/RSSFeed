@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What do you prefer ETH or BTC? 
-date: 2021-08-09 1628514243 
-categories: reddit 
---- 
-https://redd.it/p111f1
