@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cauchyfriend 
-date: 2021-08-08 22:29:03 
-categories: twitter 
---- 
-@nope_its_lily @alpha_vantage @TiingoFinance I mean all the infra in general :) But it's great, thanks for sharing!… https://t.co/GSCiQ1aVV2
