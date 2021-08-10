@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SiquanZhu 
-date: 2021-08-08 18:47:23 
-categories: twitter 
---- 
-@InvestorsLive an trade setup: buy a TQQQ ($137) call expiration on January 2023, strike $120, the premium is about… https://t.co/gFg8kcLoBk
