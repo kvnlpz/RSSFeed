@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SpringsCindy 
-date: 2021-08-08 20:39:39 
-categories: twitter 
---- 
-RT @timothysykes: RETWEET THIS IF YOU'VE STUDIED AT LEAST 1-2 HOURS TODAY...IF SO, CONGRATULATIONS BECAUSE NOW YOU HAVE HIGHER ODDS OF SUCC…
