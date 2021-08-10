@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ERGO Team congratulates the ErgoDEX team on receiving funding round from the Cardano Catalyst Community 
-date: 2021-08-09 1628525072 
-categories: reddit 
---- 
-https://redd.it/p14f56
