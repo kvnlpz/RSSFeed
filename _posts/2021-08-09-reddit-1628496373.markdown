@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Charles Hoskinson On ETC, the Treasury, and Other Concerns 
-date: 2021-08-09 1628496373 
-categories: reddit 
---- 
-https://redd.it/p0x1x1
