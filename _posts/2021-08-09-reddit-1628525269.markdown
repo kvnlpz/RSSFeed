@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Respect 
-date: 2021-08-09 1628525269 
-categories: reddit 
---- 
-https://redd.it/p14hic
