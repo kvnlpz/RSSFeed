@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @somermike 
-date: 2021-08-08 22:54:10 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade People need sleep you are a cyborg
