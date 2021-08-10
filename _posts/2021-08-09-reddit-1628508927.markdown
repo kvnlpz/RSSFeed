@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does self-upvoted content count towards karma for Moon distribution? 
-date: 2021-08-09 1628508927 
-categories: reddit 
---- 
-https://redd.it/p0zokp
