@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A friendly reminder to the newbies 
-date: 2021-08-09 1628522396 
-categories: reddit 
---- 
-https://redd.it/p13jey
