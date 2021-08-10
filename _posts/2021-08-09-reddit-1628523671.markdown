@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Convergence Protocol: Wrapping Security Tokens , Can it Work? 
-date: 2021-08-09 1628523671 
-categories: reddit 
---- 
-https://redd.it/p13ym6
