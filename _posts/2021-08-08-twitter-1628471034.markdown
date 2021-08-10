@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LethargicMeteor 
-date: 2021-08-08 18:03:54 
-categories: twitter 
---- 
-@nope_its_lily @mewn21 That’s what they said about Shiba and Elongate and Babydoge
