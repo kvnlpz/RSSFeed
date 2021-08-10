@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-08-08 22:53:43 
-categories: twitter 
---- 
-RT @StocksToTrade: Words can’t express how insane the markets have been for the past year and a half. 
-
-Even in the peak of summer, we’re s…
