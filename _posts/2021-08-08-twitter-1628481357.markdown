@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jsoloff 
-date: 2021-08-08 20:55:57 
-categories: twitter 
---- 
-@nope_its_lily @bennpeifert @bankertradetips All buy and sell orders are always equally matched, so prices aren’t r… https://t.co/nX3qOdsamD
