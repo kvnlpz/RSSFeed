@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @chainyoda 
-date: 2021-08-08 21:08:51 
-categories: twitter 
---- 
-RT @nope_its_lily: no one loses money
-in the metaverse
