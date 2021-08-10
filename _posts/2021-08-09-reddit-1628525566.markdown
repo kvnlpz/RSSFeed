@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Price Resilient in the Face of Political Firestorm 
-date: 2021-08-09 1628525566 
-categories: reddit 
---- 
-https://redd.it/p14l58
