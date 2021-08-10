@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Buying with paypal? 
-date: 2021-08-09 1628492894 
-categories: reddit 
---- 
-https://redd.it/p0wbu5
