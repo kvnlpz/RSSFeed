@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin's Entire Price History Visualized in 2 Minutes 
-date: 2021-08-09 1628519172 
-categories: reddit 
---- 
-https://redd.it/p12i6c
