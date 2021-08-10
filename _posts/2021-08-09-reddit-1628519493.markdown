@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cryptomeda Integrates Chainlink VRF to Secure Randomized Attribute Generation 
-date: 2021-08-09 1628519493 
-categories: reddit 
---- 
-https://redd.it/p12lrh
