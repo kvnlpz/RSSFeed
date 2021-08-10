@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Binance overcharging btc withdrawal fee at 0.00057 btc at $25.67 when the average network fee is $0.12 
-date: 2021-08-09 1628520124 
-categories: reddit 
---- 
-https://redd.it/p12sqy
