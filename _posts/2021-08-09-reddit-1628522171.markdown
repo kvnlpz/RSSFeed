@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Teller awards $50K to whitehat hacker for disclosing critical vulnerability 
-date: 2021-08-09 1628522171 
-categories: reddit 
---- 
-https://redd.it/p13gw2
