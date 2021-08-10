@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BullFlexDaily 
-date: 2021-08-08 20:55:25 
-categories: twitter 
---- 
-@OddStockTrader Crypto is actually super traceable for 99.9% of transactions as I’m sure you know but most people seem to not get
