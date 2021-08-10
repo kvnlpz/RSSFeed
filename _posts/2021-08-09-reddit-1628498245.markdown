@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hello, guys. Please help me to understand how can I deposit +10000€ to Binance with SEPA, I only see credit card/debit but no bank transfer, do I miss something? Thanks in advance 
-date: 2021-08-09 1628498245 
-categories: reddit 
---- 
-https://redd.it/p0xfh2
