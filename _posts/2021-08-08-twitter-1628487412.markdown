@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @querungshilfe 
-date: 2021-08-08 22:36:52 
-categories: twitter 
---- 
-RT @nope_its_lily: anyone wanna buy me some socks for my birthday this year https://t.co/Zzx37cgd8p
