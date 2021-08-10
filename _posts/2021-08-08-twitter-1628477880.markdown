@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @VolatilityVIX 
-date: 2021-08-08 19:58:00 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/uUpQrL4RcA
