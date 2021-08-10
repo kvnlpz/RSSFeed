@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My opinion on investing 
-date: 2021-08-09 1628502570 
-categories: reddit 
---- 
-https://redd.it/p0yahj
