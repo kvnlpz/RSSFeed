@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Quinnvestments 
-date: 2021-08-08 23:44:33 
-categories: twitter 
---- 
-@nope_its_lily Haven't tried this. I use tiingo. Looks like it would work.
