@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: First and Last Safemoon Post 
-date: 2021-08-09 1628510881 
-categories: reddit 
---- 
-https://redd.it/p105np
