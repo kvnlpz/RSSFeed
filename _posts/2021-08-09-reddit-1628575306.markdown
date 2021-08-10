@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The first BCH to SmartBCH bridge is coming online using Coinflex later this week. (SmartBCH is Ethereum build on top of BCH and allows any Ethereum application to run on BCH) 
+date: 2021-08-09 1628575306 
+categories: reddit 
+--- 
+https://redd.it/p1jbg1
