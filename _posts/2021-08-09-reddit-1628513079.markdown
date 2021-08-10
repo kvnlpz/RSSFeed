@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Opinion: LPs are similar to spot trading bots but with added advantage of (trading returns of others). Thoughts? 
-date: 2021-08-09 1628513079 
-categories: reddit 
---- 
-https://redd.it/p10pun
