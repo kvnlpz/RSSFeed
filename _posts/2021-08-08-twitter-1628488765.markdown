@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SukhaniR 
-date: 2021-08-08 22:59:25 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Pumped and learning!
