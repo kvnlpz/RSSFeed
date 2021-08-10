@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MNST fine tuning update 
-date: 2021-08-09 1628525794 
-categories: reddit 
---- 
-https://redd.it/p14nwa
