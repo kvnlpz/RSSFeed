@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: KYC and Ada - a question 
-date: 2021-08-09 1628527190 
-categories: reddit 
---- 
-https://redd.it/p154hl
