@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-09 17:14:22 
+categories: twitter 
+--- 
+I take denormalization very seriously so I've replaced all the DNA in my body to pointers to the actual genetic code
