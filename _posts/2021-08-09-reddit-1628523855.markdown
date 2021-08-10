@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: MRNA YOLO 
-date: 2021-08-09 1628523855 
-categories: reddit 
---- 
-https://redd.it/p140q1
