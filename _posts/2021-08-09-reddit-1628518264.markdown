@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: For governance polls there should be a max number of moons added to the vote per person 
-date: 2021-08-09 1628518264 
-categories: reddit 
---- 
-https://redd.it/p127pt
