@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bokos855 
-date: 2021-08-08 23:01:43 
-categories: twitter 
---- 
-@nope_its_lily 📲 Metamask and other wallets supports MATIC Airdrop! Go to airdrop @POLYGON_BONUS
