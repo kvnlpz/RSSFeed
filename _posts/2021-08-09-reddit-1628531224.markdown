@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This small unknown company from the Netherlands just launched their own fully decentralised crypto swapper that uses unified asset technology to move on to multiple chains. It's a HUGE fee safer compared to uniswap and sushiswap. 
-date: 2021-08-09 1628531224 
-categories: reddit 
---- 
-https://redd.it/p16hnj
