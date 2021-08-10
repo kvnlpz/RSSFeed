@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made a tutorial for Zeus - an app for connecting to and managing your lightning node via your mobile device. TLDW: connect to Umbrel by scanning QR code, access your node's liquidity from anywhere, send/receive payments, and even manage channels. 
-date: 2021-08-09 1628525890 
-categories: reddit 
---- 
-https://redd.it/p14p1c
