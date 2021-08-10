@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: AMD/XLNX arbitrage trade 
-date: 2021-08-09 1628527311 
-categories: reddit 
---- 
-https://redd.it/p155zb
