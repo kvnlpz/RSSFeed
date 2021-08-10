@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jakk_pott 
-date: 2021-08-08 23:26:58 
-categories: twitter 
---- 
-RT @super_trades: $EGLD above $120 .....
