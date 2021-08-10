@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: DeFi binary options co-owning 
-date: 2021-08-09 1628514749 
-categories: reddit 
---- 
-https://redd.it/p116jl
