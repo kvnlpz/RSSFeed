@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ep_trader 
-date: 2021-08-08 18:04:38 
-categories: twitter 
---- 
-@RayTL_ $SI for r/r, $AMAT
