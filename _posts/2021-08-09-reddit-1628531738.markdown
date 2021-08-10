@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Set gas fees too low, followed up with another transaction. What now? 
-date: 2021-08-09 1628531738 
-categories: reddit 
---- 
-https://redd.it/p16o6u
