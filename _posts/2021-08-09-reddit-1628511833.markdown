@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Gold is publicly measured in ounces 
-date: 2021-08-09 1628511833 
-categories: reddit 
---- 
-https://redd.it/p10e6j
