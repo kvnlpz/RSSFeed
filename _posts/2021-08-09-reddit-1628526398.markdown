@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Attention Kiln 0.10.1 users 
-date: 2021-08-09 1628526398 
-categories: reddit 
---- 
-https://redd.it/p14ma8
