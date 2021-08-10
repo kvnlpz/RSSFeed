@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WzCkiD 
-date: 2021-08-08 18:48:54 
-categories: twitter 
---- 
-@alphatrends Would you say your Technical Analysis book is more for listed stocks rather than over-the-counter stocks?
