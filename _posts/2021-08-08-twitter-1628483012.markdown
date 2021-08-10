@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rsimons21 
-date: 2021-08-08 21:23:32 
-categories: twitter 
---- 
-@nope_its_lily Marketing anticipating massive oversupply coming to US when American athletes return from Tokyo
