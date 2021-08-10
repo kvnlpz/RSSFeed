@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $SAVA Monster Writeup Part 2: The Drug is Simufilam 
-date: 2021-08-09 1628517124 
-categories: reddit 
---- 
-https://redd.it/p11v0l
