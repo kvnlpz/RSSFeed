@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin broke $46000 resistance 
-date: 2021-08-09 1628518668 
-categories: reddit 
---- 
-https://redd.it/p12ch1
