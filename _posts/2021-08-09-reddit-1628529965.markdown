@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We did a MOON & BRICK P2P trading website 
-date: 2021-08-09 1628529965 
-categories: reddit 
---- 
-https://redd.it/p162e7
