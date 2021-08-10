@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: This is what happens when you don’t set up your vault. Don’t be like Iron Man. 
-date: 2021-08-09 1628529291 
-categories: reddit 
---- 
-https://redd.it/p15tzb
