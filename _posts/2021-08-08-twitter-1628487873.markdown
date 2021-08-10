@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mortid0 
-date: 2021-08-08 22:44:33 
-categories: twitter 
---- 
-@nope_its_lily @alpha_vantage @TiingoFinance Why does it need a Korean lunar calendar?
