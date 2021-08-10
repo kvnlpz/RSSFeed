@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SHIBA Coin Devs Announce New Burn Feature 
-date: 2021-08-09 1628506072 
-categories: reddit 
---- 
-https://redd.it/p0z1ds
