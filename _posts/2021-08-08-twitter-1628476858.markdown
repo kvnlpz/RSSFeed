@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sajidnizami 
-date: 2021-08-08 19:40:58 
-categories: twitter 
---- 
-@nope_its_lily @bennpeifert killing me here haha https://t.co/VpgOnHRQ7h
