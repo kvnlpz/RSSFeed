@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is it possible to use the same seed phrase from my hot wallet for new hot wallets I just downloaded . And if so what are the pro’s and cons to doing this 
+date: 2021-08-10 1628626313 
+categories: reddit 
+--- 
+https://redd.it/p1x8fy
