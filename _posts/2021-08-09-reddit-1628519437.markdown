@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: dTrade to Integrate Chainlink Price Feeds for Secure, High Speed Derivatives Trading 
-date: 2021-08-09 1628519437 
-categories: reddit 
---- 
-https://redd.it/p12l7q
