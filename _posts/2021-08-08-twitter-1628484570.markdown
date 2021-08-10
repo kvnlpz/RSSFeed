@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-08 21:49:30 
-categories: twitter 
---- 
-@AllisonReichel @CL207 i am doing my phd in studying CT
