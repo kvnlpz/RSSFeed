@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TitzerCraig 
-date: 2021-08-08 22:57:39 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade I am all in!  One way or another I will succeed.
