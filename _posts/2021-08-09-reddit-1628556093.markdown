@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Satoshi Nakamoto was once in favor of creating a hard fork that would create a new currency that would have a larger blocksize. If it had happened and the new currency was so popular and it replaced BTC wouldn't that have made Satoshi's allegedly mined 1M BTCs be worthless? 
+date: 2021-08-09 1628556093 
+categories: reddit 
+--- 
+https://redd.it/p1efah
