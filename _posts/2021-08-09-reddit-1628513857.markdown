@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bot trading +250% sur 10 Mois 
-date: 2021-08-09 1628513857 
-categories: reddit 
---- 
-https://redd.it/p10xc6
