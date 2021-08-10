@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Weekly Questions Thread including most frequently asked questions (FAQ CPU/NET/staking problems, unregistered tokens, ledger problems, how to get rewards?) - PLEASE! check the FAQ first, then ask your EOS questions here. Mostly all of the problems people have, can be solved reading the FAQ! 
-date: 2021-08-09 1628496037 
-categories: reddit 
---- 
-https://redd.it/p0wz6q
