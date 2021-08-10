@@ -1,0 +1,11 @@
+--- 
+layout: post 
+title: Tweet by @kptaser 
+date: 2021-08-09 20:01:25 
+categories: twitter 
+--- 
+RT @alphatrends: Twelve years after writing this article
+
+https://t.co/6HPo2VK9wM
+
+Chase the Gap or Wait for VWAP is still one of my favori…
