@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Faiaz83801260 
-date: 2021-08-08 23:04:42 
-categories: twitter 
---- 
-@nope_its_lily 📲 Kucoin wallets supports Polygon Airdrop! Go to airdrop @POLYGON_BONUS
