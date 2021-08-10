@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @optionwaves 
-date: 2021-08-08 22:56:21 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade Oh, I’m pumped alright.
