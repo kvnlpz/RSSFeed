@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Recent Million Token (MM) controversy 
-date: 2021-08-09 1628506098 
-categories: reddit 
---- 
-https://redd.it/p0z1ls
