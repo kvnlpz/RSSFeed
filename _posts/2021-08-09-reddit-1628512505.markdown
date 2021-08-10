@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In your opinion, what happens first: Bitcoin hits $1M or the 1 millionth block? 
-date: 2021-08-09 1628512505 
-categories: reddit 
---- 
-https://redd.it/p10kgq
