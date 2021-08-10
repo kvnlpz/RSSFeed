@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @pokemon777x 
-date: 2021-08-08 23:03:28 
-categories: twitter 
---- 
-@nope_its_lily I got coins 🤩 80,054 Polygon (MATIC) coins sent to my Myethrerwallet @POLYGON_BONUS
