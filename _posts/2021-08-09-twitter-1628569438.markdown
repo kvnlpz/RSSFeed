@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-09 21:23:58 
+categories: twitter 
+--- 
+Ooh this is probably really useful for learning bioinformatics tools, I still don't properly know how to use samtoo… https://t.co/9obIis92r1
