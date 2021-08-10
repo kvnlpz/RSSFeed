@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ConvexityCap 
-date: 2021-08-08 20:58:30 
-categories: twitter 
---- 
-@nope_its_lily I moved from San Diego to the Bay Area in 2016. Enjoy the no beaches, worse weather, and traffic everywhere. 😄
