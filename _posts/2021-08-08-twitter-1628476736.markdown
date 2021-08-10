@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Daniel47910007 
-date: 2021-08-08 19:38:56 
-categories: twitter 
---- 
-@super_trades
