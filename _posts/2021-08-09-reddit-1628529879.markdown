@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A Shower Thought About Bitcoin 
-date: 2021-08-09 1628529879 
-categories: reddit 
---- 
-https://redd.it/p16186
