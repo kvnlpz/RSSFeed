@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Serenity ETH 2.0 DeFi 
-date: 2021-08-09 1628526382 
-categories: reddit 
---- 
-https://redd.it/p14uo2
