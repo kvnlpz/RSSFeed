@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why Cardano? Cardano explained! 
-date: 2021-08-09 1628524848 
-categories: reddit 
---- 
-https://redd.it/p14cmr
