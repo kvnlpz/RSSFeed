@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ManyMoooons 
-date: 2021-08-08 18:18:21 
-categories: twitter 
---- 
-@nope_its_lily Can we not kill this with logic just yet... let it ride a bit longer.
