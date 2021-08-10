@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Technology Evolves, and User Adoption Lags; We are entering an Exponential Age 
-date: 2021-08-09 1628520774 
-categories: reddit 
---- 
-https://redd.it/p1309o
