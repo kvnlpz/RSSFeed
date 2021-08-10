@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just pressing some buttons, working out pretty well 
-date: 2021-08-09 1628499675 
-categories: reddit 
---- 
-https://redd.it/p0xppq
