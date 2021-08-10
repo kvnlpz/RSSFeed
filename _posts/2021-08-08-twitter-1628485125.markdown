@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ECCarolan 
-date: 2021-08-08 21:58:45 
-categories: twitter 
---- 
-@nope_its_lily @AllisonReichel @CL207 all this innuendo is driving me gaga
