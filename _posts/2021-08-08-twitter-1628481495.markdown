@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @War_Tank 
-date: 2021-08-08 20:58:15 
-categories: twitter 
---- 
-RT @iancassel: You will see skilled active investors/fund managers with 30-40-50% in one stock. The amateur investor uses this as rationali…
