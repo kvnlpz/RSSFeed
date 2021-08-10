@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: 🗳Vote on KIP-11: Fee Liquidation and Reward Distribution Framework 
+date: 2021-08-10 1628581931 
+categories: reddit 
+--- 
+https://redd.it/p1knw7
