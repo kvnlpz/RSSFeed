@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How to store mine and someone elses crypto on ledger wallet? 
-date: 2021-08-09 1628531527 
-categories: reddit 
---- 
-https://redd.it/p16lhj
