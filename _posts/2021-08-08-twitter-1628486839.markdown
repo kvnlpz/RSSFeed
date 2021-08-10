@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Quinnvestments 
-date: 2021-08-08 22:27:19 
-categories: twitter 
---- 
-@nope_its_lily nice
