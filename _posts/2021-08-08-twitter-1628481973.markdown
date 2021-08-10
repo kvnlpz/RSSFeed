@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @philatrades 
-date: 2021-08-08 21:06:13 
-categories: twitter 
---- 
-@nope_its_lily right as i move to LA 😩
