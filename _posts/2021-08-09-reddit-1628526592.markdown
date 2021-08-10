@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: HELP - Sent YFI to BSC wrong network 
-date: 2021-08-09 1628526592 
-categories: reddit 
---- 
-https://redd.it/p14x0q
