@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Layer-2 Scaling Solution Arbitrum to Launch This Month.Arbitrum, an Ethereum Layer-2 (L2) scaling solution, announced it would launch its mainnet for users this August 
-date: 2021-08-09 1628497881 
-categories: reddit 
---- 
-https://redd.it/p0xcw2
