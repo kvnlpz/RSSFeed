@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Options newb 
-date: 2021-08-09 1628536311 
-categories: reddit 
---- 
-https://redd.it/p1881j
