@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If you sell a covered call, thinking a stock will move sideways, would it be smart to just pick the lowest strike price, to pocket the largest premium? 
+date: 2021-08-11 1628699302 
+categories: reddit 
+--- 
+https://redd.it/p2gj2z
