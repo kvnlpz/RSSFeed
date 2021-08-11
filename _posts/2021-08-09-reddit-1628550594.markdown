@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ralph Nader, founder of "Public Citizen" petitions the FDIC to not insure cryptocurrency funds while the 2021 infrastructure bill adds a rule of having a "broker" file a 1099 to pay taxes on the currency(ies). 
-date: 2021-08-09 1628550594 
-categories: reddit 
---- 
-https://redd.it/p1culb
