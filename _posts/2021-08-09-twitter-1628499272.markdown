@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @trigger_shy 
-date: 2021-08-09 01:54:32 
-categories: twitter 
---- 
-@nope_its_lily IBKR API should have intraday data.
