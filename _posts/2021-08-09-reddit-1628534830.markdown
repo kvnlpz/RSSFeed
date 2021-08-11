@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Learn Bitcoin, Blockchain, Cryptocurrency. 
-date: 2021-08-09 1628534830 
-categories: reddit 
---- 
-https://redd.it/p17po2
