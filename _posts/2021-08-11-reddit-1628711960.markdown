@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Setting up a lightning node command line only 
+date: 2021-08-11 1628711960 
+categories: reddit 
+--- 
+https://redd.it/p2kt6a
