@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Layer 2 Perks, Problems, and Potential Additions 
-date: 2021-08-09 1628550082 
-categories: reddit 
---- 
-https://redd.it/p1cp4d
