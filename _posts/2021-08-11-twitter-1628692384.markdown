@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @smolprotecc 
+date: 2021-08-11 07:33:04 
+categories: twitter 
+--- 
+@nope_its_lily it's like a DNS registrar handled by a specific contract afaik https://t.co/lvSJ9fZFbi
