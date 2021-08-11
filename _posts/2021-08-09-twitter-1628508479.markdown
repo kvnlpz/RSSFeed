@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AngeloM01779215 
-date: 2021-08-09 04:27:59 
-categories: twitter 
---- 
-@timothysykes Sorry Tim $DRNG is not available in Interactive broker :(
