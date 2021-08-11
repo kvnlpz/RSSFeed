@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Great post on Tezos 
+date: 2021-08-11 1628694221 
+categories: reddit 
+--- 
+https://redd.it/p2etz8
