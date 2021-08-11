@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BuildThatWealth 
+date: 2021-08-11 13:49:20 
+categories: twitter 
+--- 
+@timothysykes This is very true
