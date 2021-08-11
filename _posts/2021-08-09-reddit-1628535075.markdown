@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How Bill Hwang and Archegos Lost $20 Billion 
-date: 2021-08-09 1628535075 
-categories: reddit 
---- 
-https://redd.it/p17sqc
