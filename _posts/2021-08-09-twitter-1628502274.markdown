@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndreyGodsonn 
-date: 2021-08-09 02:44:34 
-categories: twitter 
---- 
-@nope_its_lily @SpacFry Sorry, Art is art.
-I read few papers on the definition of artistic value. This makes it much more clear.
