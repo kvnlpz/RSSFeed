@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JacobInvesting 
-date: 2021-08-09 04:30:28 
-categories: twitter 
---- 
-RT @nope_its_lily: @GrnBulls I actually focus on creating microservices, so I have a cached constant for the MINUTES_PER_HOUR in the main p…
