@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @Le_Tart 
+date: 2021-08-11 10:58:05 
+categories: twitter 
+--- 
+@nope_its_lily Twitter activity is positively correlated to VIX level.
+
+Prove me wrong
