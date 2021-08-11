@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC Halving explained 
-date: 2021-08-09 1628543368 
-categories: reddit 
---- 
-https://redd.it/p1aknj
