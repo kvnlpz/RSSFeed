@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-11 06:12:44 
+categories: twitter 
+--- 
+RT @TiernanRayTech: Quantum Computing CEO: Finding a practical approach to a very heady field — The Technology Letter // $QUBT $AMZN https:…
