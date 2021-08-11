@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Congress vs Ethereum 
-date: 2021-08-09 1628574985 
-categories: reddit 
---- 
-https://redd.it/p1j8rj
