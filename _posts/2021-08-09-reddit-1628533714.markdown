@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What is risk ratio of coins in your portfolio? (safe coins : medium risk coins : shitcoins) 
-date: 2021-08-09 1628533714 
-categories: reddit 
---- 
-https://redd.it/p17cor
