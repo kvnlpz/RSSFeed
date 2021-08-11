@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Petertrades0 
-date: 2021-08-09 05:32:35 
-categories: twitter 
---- 
-RT @modern_rock: Want to learn the process that helped @AT09_Trader make $105k in 1 hour trading? Join us for our bootcamp on August 17. Re…
