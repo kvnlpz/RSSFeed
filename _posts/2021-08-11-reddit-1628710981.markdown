@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Lightning Network: total capacity exceeds $100 million 
+date: 2021-08-11 1628710981 
+categories: reddit 
+--- 
+https://redd.it/p2khyw
