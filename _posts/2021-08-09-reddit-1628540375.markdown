@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Blockchain Tutorial: A Beginner's Guide to Distributed Ledger Technology 
-date: 2021-08-09 1628540375 
-categories: reddit 
---- 
-https://redd.it/p19lik
