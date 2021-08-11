@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lightning Network Capacity Grows 46% In Two Months | Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides 
-date: 2021-08-09 1628541320 
-categories: reddit 
---- 
-https://redd.it/p19wi1
