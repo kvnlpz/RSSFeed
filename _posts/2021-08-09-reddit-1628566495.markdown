@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where can I find the price people bought stock at 
-date: 2021-08-09 1628566495 
-categories: reddit 
---- 
-https://redd.it/p1h8m1
