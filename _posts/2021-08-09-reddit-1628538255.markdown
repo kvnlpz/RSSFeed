@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Received an ad and got 0.001 BAT. 
-date: 2021-08-09 1628538255 
-categories: reddit 
---- 
-https://redd.it/p18vq1
