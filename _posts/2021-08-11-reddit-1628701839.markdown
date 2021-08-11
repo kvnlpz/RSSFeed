@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ETH 2.0 update - "Altair", the first hard fork for the Eth 2.0 Beacon Chain has been scheduled for activation on the Prymont testnet at epoch 6150, expected to hit on Aug. 19, 2021 
+date: 2021-08-11 1628701839 
+categories: reddit 
+--- 
+https://redd.it/p2heb5
