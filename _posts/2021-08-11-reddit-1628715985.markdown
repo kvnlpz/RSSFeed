@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Have you ever created a smart contract on any blockchain? If so, which blockchain was the easiest? 
+date: 2021-08-11 1628715985 
+categories: reddit 
+--- 
+https://redd.it/p2m4vi
