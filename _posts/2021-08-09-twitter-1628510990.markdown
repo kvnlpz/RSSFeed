@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @duskwalker07 
-date: 2021-08-09 05:09:50 
-categories: twitter 
---- 
-@InvestorsLive $AXSM lol
