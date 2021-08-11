@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How important to Bitcoin is existence of full nodes which don't just serve the interest of miners, but the whole network by validating and sharing block data to and from everyone in the network? 
-date: 2021-08-09 1628576003 
-categories: reddit 
---- 
-https://redd.it/p1jgqb
