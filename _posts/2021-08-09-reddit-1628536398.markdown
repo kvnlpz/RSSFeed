@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Market sentiment has swung from extreme fear to greed very quickly. I imagine this will likely trigger a wave of FOMO buys soon (if it has not already begun) 
-date: 2021-08-09 1628536398 
-categories: reddit 
---- 
-https://redd.it/p18950
