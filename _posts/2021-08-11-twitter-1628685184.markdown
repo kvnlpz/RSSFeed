@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @CarolSciurus 
+date: 2021-08-11 05:33:04 
+categories: twitter 
+--- 
+@InvestorsLive Do you know how they avoid getting that large bid filled?  Is it an “all or nothing” order?  Or do t… https://t.co/OT8Kcpwapm
