@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: CCMoons Website is Now Live! Includes a Tipping Leaderboard, Whale Watching, Reddit Metrics, and Graph Search! 
-date: 2021-08-09 1628537481 
-categories: reddit 
---- 
-https://redd.it/p18m9b
