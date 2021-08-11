@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @smolprotecc 
+date: 2021-08-11 07:30:11 
+categories: twitter 
+--- 
+@nope_its_lily i can just send stuff to 'lilyfrancus.eth' afaik
