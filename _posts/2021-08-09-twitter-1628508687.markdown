@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sessho_trades 
-date: 2021-08-09 04:31:27 
-categories: twitter 
---- 
-@RayTL_ @jurijt Some more details here please @RayTL_  :) or maybe a link to article/video?
