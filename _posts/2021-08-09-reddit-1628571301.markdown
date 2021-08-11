@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How reliable are analyst ratings? 
-date: 2021-08-09 1628571301 
-categories: reddit 
---- 
-https://redd.it/p1if7j
