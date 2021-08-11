@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @scottpgarrett 
+date: 2021-08-11 16:08:04 
+categories: twitter 
+--- 
+@InvestorsLive i like that
