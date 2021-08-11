@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-11 11:55:35 
+categories: twitter 
+--- 
+@anderpart For sure. This is more on the dataset and model side than forecast reports.
