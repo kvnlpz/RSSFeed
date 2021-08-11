@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: TraderMade Launches Chainlink Node to Provide DeFi With Premium Financial Index Data 
-date: 2021-08-09 1628544396 
-categories: reddit 
---- 
-https://redd.it/p1awyf
