@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Here is my attempt at a beginner friendly guide to Stellar 
+date: 2021-08-11 1628695433 
+categories: reddit 
+--- 
+https://redd.it/p2f86e
