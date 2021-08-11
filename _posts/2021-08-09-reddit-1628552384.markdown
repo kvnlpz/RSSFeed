@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A DeFi loan program in Columbia uses crypto to prove that current fiat lending and credit programs are broken and do not help those that can benefit most from it 
-date: 2021-08-09 1628552384 
-categories: reddit 
---- 
-https://redd.it/p1ddmu
