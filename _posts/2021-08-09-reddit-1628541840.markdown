@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ‘Wormhole’ protocol goes live, to connect BSC, Ethereum blockchains to Solana 
-date: 2021-08-09 1628541840 
-categories: reddit 
---- 
-https://redd.it/p1a2mh
