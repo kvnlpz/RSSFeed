@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @acityinohio 
+date: 2021-08-11 08:04:13 
+categories: twitter 
+--- 
+RT @nope_its_lily: I feel CPI is a flawed metric because it doesn't measure critical sectors of economic activity like the price of poorly…
