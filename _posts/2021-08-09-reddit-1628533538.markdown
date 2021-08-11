@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If the Daily Karma poll passes 
-date: 2021-08-09 1628533538 
-categories: reddit 
---- 
-https://redd.it/p17ant
