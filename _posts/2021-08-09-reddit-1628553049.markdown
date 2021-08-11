@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Keep getting “transaction failed” in feather wallet 
-date: 2021-08-09 1628553049 
-categories: reddit 
---- 
-https://redd.it/p1dkcn
