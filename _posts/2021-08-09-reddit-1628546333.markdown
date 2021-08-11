@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Maze Protocol: Zero Interest lending made possible. 
-date: 2021-08-09 1628546333 
-categories: reddit 
---- 
-https://redd.it/p1bjjw
