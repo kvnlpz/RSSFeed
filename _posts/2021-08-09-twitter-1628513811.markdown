@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ppearlman 
-date: 2021-08-09 05:56:51 
-categories: twitter 
---- 
-@alphatrends @OspreyFunds @MessariCrypto @StevenACohen2 👊
