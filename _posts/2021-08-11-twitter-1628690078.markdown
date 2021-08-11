@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @0xdazai 
+date: 2021-08-11 06:54:38 
+categories: twitter 
+--- 
+RT @nope_its_lily: “I am a financial influencer”
