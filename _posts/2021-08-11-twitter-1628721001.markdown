@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @lexeiluck 
+date: 2021-08-11 15:30:01 
+categories: twitter 
+--- 
+@InvestorsLive Get em!
