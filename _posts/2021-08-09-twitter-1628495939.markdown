@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @heibtc 
-date: 2021-08-09 00:58:59 
-categories: twitter 
---- 
-@nope_its_lily more important question, what’s the next penguin lily
