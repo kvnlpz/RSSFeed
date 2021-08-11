@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Early article on Bitcoin in late 2011 by The New Yorker 
-date: 2021-08-09 1628547388 
-categories: reddit 
---- 
-https://redd.it/p1bvpc
