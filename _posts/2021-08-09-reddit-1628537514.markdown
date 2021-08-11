@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Question about multisig security 
-date: 2021-08-09 1628537514 
-categories: reddit 
---- 
-https://redd.it/p18mp0
