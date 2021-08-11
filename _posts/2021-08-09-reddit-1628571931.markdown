@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Sent crypto back to the contract address by accident. 
-date: 2021-08-09 1628571931 
-categories: reddit 
---- 
-https://redd.it/p1iknc
