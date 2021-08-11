@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is it possible for a transaction to have less than 1 sat/vB fee, or even 0? 
+date: 2021-08-11 1628700486 
+categories: reddit 
+--- 
+https://redd.it/p2gxbt
