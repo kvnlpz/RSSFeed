@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Spencersecurity 
+date: 2021-08-11 15:20:27 
+categories: twitter 
+--- 
+@nope_its_lily So wait, do we still buy gold for delta hedges? I need to know the most efficient way to lose my money.
