@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I built a ton of trade-bots and let them compete. here's what ive learned. 
+date: 2021-08-11 1628698794 
+categories: reddit 
+--- 
+https://redd.it/p2gcy0
