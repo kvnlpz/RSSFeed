@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @sigh_clop 
+date: 2021-08-11 07:34:17 
+categories: twitter 
+--- 
+RT @nope_its_lily: Still need to add testing and bleh, but made a neat little library to load a shit ton of data from @alpha_vantage and @T…
