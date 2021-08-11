@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin probably doesn't fix this... 
-date: 2021-08-09 1628560941 
-categories: reddit 
---- 
-https://redd.it/p1fqx5
