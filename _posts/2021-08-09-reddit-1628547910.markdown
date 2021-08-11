@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My sats are kept in Coinbase. Is this risky? 
-date: 2021-08-09 1628547910 
-categories: reddit 
---- 
-https://redd.it/p1c1gz
