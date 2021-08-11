@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Guide: Friendly reminder to setup your vault! 
-date: 2021-08-09 1628561232 
-categories: reddit 
---- 
-https://redd.it/p1ftrd
