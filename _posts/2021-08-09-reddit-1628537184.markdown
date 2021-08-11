@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I made a quick spreadsheet to help figure out what you need to hold when trading with bots 
-date: 2021-08-09 1628537184 
-categories: reddit 
---- 
-https://redd.it/p18ipw
