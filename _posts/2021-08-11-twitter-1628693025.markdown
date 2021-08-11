@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Chowwg 
+date: 2021-08-11 07:43:45 
+categories: twitter 
+--- 
+@nope_its_lily @novogratz Its algo stable, new fx can be programmed into terra ecosystem
