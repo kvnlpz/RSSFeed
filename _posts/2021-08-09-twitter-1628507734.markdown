@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @adamszequi 
-date: 2021-08-09 04:15:34 
-categories: twitter 
---- 
-RT @nope_its_lily: I always make sure to define MINUTES_PER_HOUR as a constant to use in my code in case it changes later
