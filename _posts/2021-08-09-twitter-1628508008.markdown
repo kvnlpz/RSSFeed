@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CubbieBears 
-date: 2021-08-09 04:20:08 
-categories: twitter 
---- 
-@RayTL_ U should follow my feed :-)
