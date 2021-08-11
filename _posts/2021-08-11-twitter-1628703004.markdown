@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ChickenReaper 
+date: 2021-08-11 10:30:04 
+categories: twitter 
+--- 
+@super_trades My stocks are all green since nobody knows about them.
