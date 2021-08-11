@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: It's absolutely insane how much misinformation is spread here. The top upvoted comment in "Unpopular opinion: Bitcoin did not get rid of the middle-man" by BtcAnonymouse says this: "Miners DO NOT validate. Miners just find blocks. " which is 100% NO TRUE and now I'll let Satoshi speak: 
+date: 2021-08-11 1628701566 
+categories: reddit 
+--- 
+https://redd.it/p2hb2s
