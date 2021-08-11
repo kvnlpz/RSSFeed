@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Additional Risks and How a Treasury Turns ETC Into a Proof of Stake (POS) System 
-date: 2021-08-09 1628564459 
-categories: reddit 
---- 
-https://redd.it/p1gpne
