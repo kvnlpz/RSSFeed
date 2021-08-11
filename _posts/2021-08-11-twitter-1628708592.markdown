@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @eduardobsg 
+date: 2021-08-11 12:03:12 
+categories: twitter 
+--- 
+@nope_its_lily Life is too short for papers w/o code
