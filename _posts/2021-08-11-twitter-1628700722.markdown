@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @npaulseth 
+date: 2021-08-11 09:52:02 
+categories: twitter 
+--- 
+@modern_rock @NikLentz you retweeted your own tweet?
