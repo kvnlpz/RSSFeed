@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @itenginerd 
+date: 2021-08-11 10:04:18 
+categories: twitter 
+--- 
+@nope_its_lily @eervin1 Yup. I mean, you're just gonna pivot it. Unless you're gonna break it down and do something less Excel-y with it.
