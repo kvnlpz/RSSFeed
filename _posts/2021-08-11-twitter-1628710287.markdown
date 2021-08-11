@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @eduardobsg 
+date: 2021-08-11 12:31:27 
+categories: twitter 
+--- 
+@nope_its_lily To be clear, taking code from some paper's dataset and trying some other data is a persistent way to… https://t.co/LOB1GapnYa
