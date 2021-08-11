@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My First Collection - CryptoSwatch 
-date: 2021-08-09 1628568416 
-categories: reddit 
---- 
-https://redd.it/p1hq72
