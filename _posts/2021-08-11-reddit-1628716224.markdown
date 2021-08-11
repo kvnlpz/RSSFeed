@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to build mining system using NVIDIA RTX 3070 (not LHR) 
+date: 2021-08-11 1628716224 
+categories: reddit 
+--- 
+https://redd.it/p2m7r8
