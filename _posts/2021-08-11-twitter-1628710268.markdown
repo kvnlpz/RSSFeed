@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-11 12:31:08 
+categories: twitter 
+--- 
+RT @plustickbid: $SMFR at UBS Genomics conference today was definitely one of the more bullish presentations I've listened to in years.  Th…
