@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @smolprotecc 
+date: 2021-08-11 07:30:17 
+categories: twitter 
+--- 
+RT @nope_its_lily: Oh woah someone did give me lilyfrancus.eth a few months ago. I should probably figure out how to use it one day.
