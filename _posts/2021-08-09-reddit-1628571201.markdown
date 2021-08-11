@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Update to my tool, Now it's to help anyone (using bots or not) to know how much to hold for taxes and what not 
-date: 2021-08-09 1628571201 
-categories: reddit 
---- 
-https://redd.it/p1iecj
