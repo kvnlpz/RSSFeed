@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BitcoinSV has been destroyed with successive 51% attacks 
+date: 2021-08-11 1628704189 
+categories: reddit 
+--- 
+https://redd.it/p2i7ez
