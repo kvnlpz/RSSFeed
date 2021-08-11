@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A year long reddit reminder bot just poked me to show me this thread. Did this guy's comments age well? 
-date: 2021-08-09 1628564239 
-categories: reddit 
---- 
-https://redd.it/p1gnfy
