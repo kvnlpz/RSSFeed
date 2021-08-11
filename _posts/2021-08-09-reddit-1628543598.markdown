@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cross-chain NFT marketplace, GhostMarket, improves user experience with launch of V2 
-date: 2021-08-09 1628543598 
-categories: reddit 
---- 
-https://redd.it/p1anfi
