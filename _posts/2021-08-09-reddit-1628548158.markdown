@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Looking for advice about storage of BTC 
-date: 2021-08-09 1628548158 
-categories: reddit 
---- 
-https://redd.it/p1c45e
