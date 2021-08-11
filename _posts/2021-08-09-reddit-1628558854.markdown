@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Kings and queens 
-date: 2021-08-09 1628558854 
-categories: reddit 
---- 
-https://redd.it/p1f6sm
