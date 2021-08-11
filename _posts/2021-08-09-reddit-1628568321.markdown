@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What would happen if a major company (e.g. Tesla), set a product price irrespective of the dollar (e.g. one Model S costs 1 Bitcoin). The price would immediately jump to 70K, no? 
-date: 2021-08-09 1628568321 
-categories: reddit 
---- 
-https://redd.it/p1hpg0
