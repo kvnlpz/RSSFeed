@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-09 03:58:21 
-categories: twitter 
---- 
-So far so good $COIN 👌
