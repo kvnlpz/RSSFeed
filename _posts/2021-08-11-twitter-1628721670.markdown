@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @jsadinolfi 
+date: 2021-08-11 15:41:10 
+categories: twitter 
+--- 
+RT @nope_its_lily: This is really scary, and unfortunately really predictable.
+https://t.co/yjjMrjNc4C
