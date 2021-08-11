@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: WHOOPS 
-date: 2021-08-09 1628537547 
-categories: reddit 
---- 
-https://redd.it/p18n0b
