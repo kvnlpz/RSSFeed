@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Does the Bitcoin Network Consist Entirely of Nodes? 
-date: 2021-08-09 1628537405 
-categories: reddit 
---- 
-https://redd.it/p18lc9
