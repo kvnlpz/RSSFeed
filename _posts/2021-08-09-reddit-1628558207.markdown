@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If 0x_nodes solves multichain interoperability issues and provides simplified access to liquidity aggregation, what's it's ceiling? 
-date: 2021-08-09 1628558207 
-categories: reddit 
---- 
-https://redd.it/p1f09s
