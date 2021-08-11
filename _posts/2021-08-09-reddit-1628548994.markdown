@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Analysis: It's official: Cryptocurrency is infrastructure 
-date: 2021-08-09 1628548994 
-categories: reddit 
---- 
-https://redd.it/p1cdem
