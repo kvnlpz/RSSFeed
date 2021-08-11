@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Writing slightly OTM Calls - Explain to me why I'm retarded 
-date: 2021-08-09 1628535470 
-categories: reddit 
---- 
-https://redd.it/p17xlt
