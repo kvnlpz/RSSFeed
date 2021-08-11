@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RealZhen90 
-date: 2021-08-09 04:01:50 
-categories: twitter 
---- 
-@nope_its_lily I have a OANDA scrapper working for 2 years now… they have fx and cfd
