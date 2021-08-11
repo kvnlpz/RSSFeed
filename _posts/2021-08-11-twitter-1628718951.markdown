@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MyYellowCake 
+date: 2021-08-11 14:55:51 
+categories: twitter 
+--- 
+RT @nope_its_lily: I feel CPI is a flawed metric because it doesn't measure critical sectors of economic activity like the price of poorly…
