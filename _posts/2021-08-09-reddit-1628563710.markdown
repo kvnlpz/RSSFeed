@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BITF - Bitfarm - probably the best bitcoin mining farm. 
-date: 2021-08-09 1628563710 
-categories: reddit 
---- 
-https://redd.it/p1gigd
