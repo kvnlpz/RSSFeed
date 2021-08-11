@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @m_j_rossman 
-date: 2021-08-09 01:51:33 
-categories: twitter 
---- 
-@nope_its_lily disagree, whatever range of pricing exists can &amp; should be softcoded into DeFi. more need to be frac… https://t.co/LO3J8CGBye
