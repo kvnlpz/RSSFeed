@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: If you could get .0000001 BTC or .00001 ETH or 99999999999 ADA, which one would you choose? 
-date: 2021-08-09 1628542693 
-categories: reddit 
---- 
-https://redd.it/p1acbg
