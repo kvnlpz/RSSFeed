@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @ericdemamp 
+date: 2021-08-11 06:59:55 
+categories: twitter 
+--- 
+@nope_its_lily “They wrote about me in BLOOMBERG!”
+“What’s Bloomberg, grandma?”
