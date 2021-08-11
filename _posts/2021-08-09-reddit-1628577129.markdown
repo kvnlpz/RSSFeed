@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: There's crypto in DeFi protocols being lent and accruing interest that belong to deceased investors. 
-date: 2021-08-09 1628577129 
-categories: reddit 
---- 
-https://redd.it/p1jpb5
