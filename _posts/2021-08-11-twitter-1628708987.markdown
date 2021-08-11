@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @EthVangelist 
+date: 2021-08-11 12:09:47 
+categories: twitter 
+--- 
+@nope_its_lily Yes
