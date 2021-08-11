@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Employee asked to be paid in crypto, is it possible to set this up as an automatic payment each month tied to an amount in USD? (Small business) 
-date: 2021-08-09 1628569279 
-categories: reddit 
---- 
-https://redd.it/p1hxtl
