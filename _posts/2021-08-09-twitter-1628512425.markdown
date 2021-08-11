@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Petertrades0 
-date: 2021-08-09 05:33:45 
-categories: twitter 
---- 
-RT @modern_rock: “Life isn't just about darkness or light, rather it's about finding light within the darkness.” https://t.co/vgHLXNKqdD
