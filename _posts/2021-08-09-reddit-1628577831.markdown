@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It is happening! Lightning Network Capacity Grows 46% In Two Months 
-date: 2021-08-09 1628577831 
-categories: reddit 
---- 
-https://redd.it/p1jumg
