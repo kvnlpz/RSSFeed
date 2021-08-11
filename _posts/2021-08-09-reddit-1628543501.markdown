@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why are most of the addressed on the tether/USDT richlist, addressed on tronscan? 
-date: 2021-08-09 1628543501 
-categories: reddit 
---- 
-https://redd.it/p1am8t
