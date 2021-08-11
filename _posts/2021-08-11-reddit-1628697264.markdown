@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Diagonal spread short strike ITM: Should I close the short strike as I cant roll it anymore? Or should I close the whole trade? 
+date: 2021-08-11 1628697264 
+categories: reddit 
+--- 
+https://redd.it/p2fuds
