@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @obed_mpalang 
-date: 2021-08-09 01:53:15 
-categories: twitter 
---- 
-@timothysykes @GreenpeaceAfrik @UNEP_Francais
