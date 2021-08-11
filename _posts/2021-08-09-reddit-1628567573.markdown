@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How would someone manipulate the price of BTC? 
-date: 2021-08-09 1628567573 
-categories: reddit 
---- 
-https://redd.it/p1hijk
