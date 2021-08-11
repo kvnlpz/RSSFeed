@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-11 10:13:56 
+categories: twitter 
+--- 
+@zkschell https://t.co/0mPuSIoVwh
