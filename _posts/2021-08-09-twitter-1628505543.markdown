@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphacharts365 
-date: 2021-08-09 03:39:03 
-categories: twitter 
---- 
-@RayTL_ I started a position Friday Morning, very small because I would expect this name to be very volatile
