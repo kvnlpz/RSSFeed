@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The number of visitors on Tezos website has skyrocketed these past few months to reach 1.17M in June. Ethereum has 2.6M at the moment. Algorand has just over 400k, Cardano has 1.2M (down 75% since February) 
+date: 2021-08-11 1628719579 
+categories: reddit 
+--- 
+https://redd.it/p2nbsw
