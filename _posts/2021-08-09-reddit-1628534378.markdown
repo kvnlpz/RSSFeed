@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ELI5: why are states trying to regulate cryptocurrencies? 
-date: 2021-08-09 1628534378 
-categories: reddit 
---- 
-https://redd.it/p17kir
