@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Centrifuge, MakerDAO Reshape DeFi Lending with Real-World Assets: Here's How 
-date: 2021-08-09 1628557146 
-categories: reddit 
---- 
-https://redd.it/p1epmi
