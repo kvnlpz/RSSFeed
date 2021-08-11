@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Zilbo_Baggins 
+date: 2021-08-11 12:34:30 
+categories: twitter 
+--- 
+@timothysykes Do you actively try to be this way?
