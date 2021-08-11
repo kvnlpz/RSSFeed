@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BurbyRobin 
+date: 2021-08-11 12:48:14 
+categories: twitter 
+--- 
+@MikeBellafiore Hi Mike, with new setups, do you recommend experimenting a minimum number of times?
