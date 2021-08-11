@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Better xmr flag design 
+date: 2021-08-11 1628700811 
+categories: reddit 
+--- 
+https://redd.it/p2h1k6
