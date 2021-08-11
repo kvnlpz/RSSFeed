@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ImBobBelcher 
-date: 2021-08-09 02:40:30 
-categories: twitter 
---- 
-RT @nope_its_lily: please don't ask me to my opinion on 99.9% of market moves
-I am not qualified to give an answer (ergo I do not have a pa…
