@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Help us create the best XMR wallet possible! 
-date: 2021-08-09 1628544617 
-categories: reddit 
---- 
-https://redd.it/p1590x
