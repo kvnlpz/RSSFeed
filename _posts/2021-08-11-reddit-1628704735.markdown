@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to reactivate my ledger nano x in Daedalus when i reinstalled windows? 
+date: 2021-08-11 1628704735 
+categories: reddit 
+--- 
+https://redd.it/p2idzs
