@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jaspercty 
-date: 2021-08-09 03:49:33 
-categories: twitter 
---- 
-@timothysykes Thanks for the tip Tim
