@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How is buying fractions of a bitcoin to eventually owning a full coin reflected on the bitcoin ledger? 
-date: 2021-08-09 1628557496 
-categories: reddit 
---- 
-https://redd.it/p1etcv
