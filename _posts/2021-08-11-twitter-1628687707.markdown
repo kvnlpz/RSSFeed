@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-11 06:15:07 
+categories: twitter 
+--- 
+My tweets are not investment advice.  Do your own research and be responsible for your own trades.
