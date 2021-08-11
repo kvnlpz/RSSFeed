@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PKRTOR 
+date: 2021-08-11 06:14:23 
+categories: twitter 
+--- 
+RT @TiernanRayTech: Quantum Computing CEO: Finding a practical approach to a very heady field — The Technology Letter // $QUBT $AMZN https:…
