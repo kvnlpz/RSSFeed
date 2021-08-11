@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @cooopdetat 
+date: 2021-08-11 07:32:03 
+categories: twitter 
+--- 
+@nope_its_lily What are the odds a tx is completed using that ENS before the domain expires?
