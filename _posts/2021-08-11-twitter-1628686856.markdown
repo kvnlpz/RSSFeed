@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @movingtrader 
+date: 2021-08-11 06:00:56 
+categories: twitter 
+--- 
+@InvestorsLive Great information.
