@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Petertrades0 
-date: 2021-08-09 05:29:18 
-categories: twitter 
---- 
-RT @modern_rock: If trading is gambling then how come the same people keep winning and the same people keep losing?
