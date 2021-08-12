@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Layer-1 Platforms: A Framework for comparison. Look under the hood at seven platforms: Algorand, Avalanche, Binance Smart Chain, Cosmos, Ethereum/Ethereum 2.0, Polkadot, and Solana. 
+date: 2021-08-12 1628799133 
+categories: reddit 
+--- 
+https://redd.it/p37t6n
