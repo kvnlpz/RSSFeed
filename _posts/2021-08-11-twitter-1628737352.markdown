@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @notsofast 
+date: 2021-08-11 20:02:32 
+categories: twitter 
+--- 
+RT @nope_its_lily: Pudgy Penguins floor price right now in ETH terms higher than monthly GDP per capita income in US
