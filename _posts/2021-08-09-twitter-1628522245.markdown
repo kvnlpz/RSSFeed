@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @blakedavis50 
-date: 2021-08-09 08:17:25 
-categories: twitter 
---- 
-@RayTL_ https://t.co/nW5THStQ2t
