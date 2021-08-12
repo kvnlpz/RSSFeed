@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: TIL that the first bitcoin faucet gave 5 BTC per claim 
+date: 2021-08-11 1628739332 
+categories: reddit 
+--- 
+https://redd.it/p2ro52
