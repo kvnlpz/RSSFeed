@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @usual_whales 
-date: 2021-08-09 10:28:11 
-categories: twitter 
---- 
-@muddywatersre @BloombergTV @lisaabramowicz1 What do you think of my analysis on Chinese ADR:
-https://t.co/qLyPXrNQ10
