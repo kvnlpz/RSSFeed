@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cobysalmon 
-date: 2021-08-09 19:22:00 
-categories: twitter 
---- 
-@InvestorsLive What price we shorting at#
