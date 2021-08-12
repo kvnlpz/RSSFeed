@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lanticoast 
-date: 2021-08-09 16:01:27 
-categories: twitter 
---- 
-@nope_its_lily Or the Singular Stupidity.
