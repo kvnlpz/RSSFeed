@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-11 19:10:51 
+categories: twitter 
+--- 
+RT @crypto_div: @TheCryptoLark I think when #Elrond $EGLD releases the Maiar DEX and plows multiple areas including NFTs the speed, cost, a…
