@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @138gmi 
-date: 2021-08-09 15:56:25 
-categories: twitter 
---- 
-@nope_its_lily Number go up, brain go down.
