@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Andalorian 
+date: 2021-08-12 07:48:32 
+categories: twitter 
+--- 
+@nope_its_lily Only because it's on Ethereum?
