@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JustStocksToday 
+date: 2021-08-12 07:14:32 
+categories: twitter 
+--- 
+RT @InvestorsLive: $OPEN https://t.co/hiIMSbrwOq
