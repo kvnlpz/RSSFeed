@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fallondpicks 
-date: 2021-08-09 16:00:38 
-categories: twitter 
---- 
-#sectorbreadth Minor ranking changes. Strongest sector is Utilities ($XLU) at 83% bullishness. Weakest is Energy ($XLE) at 31% bullishness.
