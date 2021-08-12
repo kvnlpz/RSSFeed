@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GrapefruitGals 
-date: 2021-08-09 13:47:35 
-categories: twitter 
---- 
-@muddywatersre @QTRResearch @zer0estv https://t.co/Dw5LxdlS42
-
-$GOTU $GSX
