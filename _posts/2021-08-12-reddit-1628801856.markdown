@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Anyone ever try to deploy a EOS token? 
+date: 2021-08-12 1628801856 
+categories: reddit 
+--- 
+https://redd.it/p38pip
