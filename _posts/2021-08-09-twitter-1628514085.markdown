@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @morard_j 
-date: 2021-08-09 06:01:25 
-categories: twitter 
---- 
-@timothysykes 3 Fed speakers..nom nom
