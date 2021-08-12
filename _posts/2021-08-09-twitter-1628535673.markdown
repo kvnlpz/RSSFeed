@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-09 12:01:13 
-categories: twitter 
---- 
-@darjohn25 you can kind of guess the implied range pretty early in the day - it's not absolute, but you can see at… https://t.co/W8gdfDAdr4
