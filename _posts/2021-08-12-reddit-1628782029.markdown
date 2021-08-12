@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Sergey Nazarov & Jonathan Solé: Connecting Smart Contracts With SWIFT (Smart Contract Summit #1) 
+date: 2021-08-12 1628782029 
+categories: reddit 
+--- 
+https://redd.it/p324jq
