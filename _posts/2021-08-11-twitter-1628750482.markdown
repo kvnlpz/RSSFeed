@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bob__bones 
+date: 2021-08-11 23:41:22 
+categories: twitter 
+--- 
+@nope_its_lily Gotta get some crypto involved to sort out UTC vs You bugs
