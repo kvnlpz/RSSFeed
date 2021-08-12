@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @N0mad4life 
-date: 2021-08-09 10:18:03 
-categories: twitter 
---- 
-@nope_its_lily It's not a job unless you're getting paid. Employment requires compensation for services rendered.
