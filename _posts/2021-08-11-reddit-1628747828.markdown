@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: hacker steals $600 million then feels bad returns less than half - $260 million. Unless you can audit the code yourself. Never trust a exchange, period. Code is not law. Code is built by humans with failings. This is just another example of human failure to code well and protect customers. 
+date: 2021-08-11 1628747828 
+categories: reddit 
+--- 
+https://redd.it/p2ttyk
