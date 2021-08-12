@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ppearlman 
+date: 2021-08-12 05:39:32 
+categories: twitter 
+--- 
+@alphatrends She's a gamer!
