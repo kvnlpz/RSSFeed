@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-09 14:19:55 
-categories: twitter 
---- 
-I simply do not understand why R is still used for programming when we have R^2
