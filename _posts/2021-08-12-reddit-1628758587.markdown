@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: BitMEX Research on Twitter - Fixing The Privacy Gap In Proof Of Liability Protocols 
+date: 2021-08-12 1628758587 
+categories: reddit 
+--- 
+https://redd.it/p2vzhk
