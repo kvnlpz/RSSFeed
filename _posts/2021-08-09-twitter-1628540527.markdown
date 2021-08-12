@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SpringsCindy 
-date: 2021-08-09 13:22:07 
-categories: twitter 
---- 
-@goodetrades Wow!! Thanks Michael
