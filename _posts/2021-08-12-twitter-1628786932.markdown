@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Bonecondor 
+date: 2021-08-12 09:48:52 
+categories: twitter 
+--- 
+@nope_its_lily or are you using a wallet that doesn't accept eth?
