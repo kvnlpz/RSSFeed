@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @krnstonks 
-date: 2021-08-09 14:25:12 
-categories: twitter 
---- 
-@nope_its_lily R2-D2
