@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tansrow 
-date: 2021-08-09 13:38:38 
-categories: twitter 
---- 
-@timothysykes Thanks for posting.
