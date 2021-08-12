@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MernWallace 
-date: 2021-08-09 16:46:18 
-categories: twitter 
---- 
-@OddStockTrader Everyday is better than the next, since 1963, there..
