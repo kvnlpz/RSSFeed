@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mike_sb 
-date: 2021-08-09 17:15:46 
-categories: twitter 
---- 
-@nope_its_lily It could happen
