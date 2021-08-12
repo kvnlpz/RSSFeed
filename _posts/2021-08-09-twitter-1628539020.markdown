@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fadiaaltaribi 
-date: 2021-08-09 12:57:00 
-categories: twitter 
---- 
-@InvestorsLive It’s down now
