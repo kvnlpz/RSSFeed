@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @doctrader7 
-date: 2021-08-09 09:37:25 
-categories: twitter 
---- 
-@InvestorsLive 🤣
