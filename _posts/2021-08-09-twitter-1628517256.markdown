@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @WallStChameleon 
-date: 2021-08-09 06:54:16 
-categories: twitter 
---- 
-@nope_its_lily @StrizziJ Sí, molé https://t.co/y20N1rQ7XQ
