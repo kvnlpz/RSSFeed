@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Which site shows real-time after-hour gainers or after-hour losers? The one I'm using has the data lagged by 15 minutes. 
+date: 2021-08-12 1628803113 
+categories: reddit 
+--- 
+https://redd.it/p394s8
