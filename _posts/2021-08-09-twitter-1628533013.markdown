@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iLoveTheta1 
-date: 2021-08-09 11:16:53 
-categories: twitter 
---- 
-@InvestorsLive You just told me it was $7.79-1302.42!!!!
