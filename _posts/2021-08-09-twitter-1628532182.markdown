@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Moe_Hamer 
-date: 2021-08-09 11:03:02 
-categories: twitter 
---- 
-@InvestorsLive I can see $500 for sure.
