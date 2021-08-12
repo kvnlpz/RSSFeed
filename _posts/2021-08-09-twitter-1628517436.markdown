@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-09 06:57:16 
-categories: twitter 
---- 
-https://t.co/i1F0Qoifm7 Remember https://t.co/0HhPp6CC1v
