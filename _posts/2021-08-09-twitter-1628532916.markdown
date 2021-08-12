@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-09 11:15:16 
-categories: twitter 
---- 
-Yes somewhere between $300 and $12,000.
