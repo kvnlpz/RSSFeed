@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Security question: Do you have any recourse if someone takes your seed phrase by force or by fraud and transfers your coins? 
+date: 2021-08-12 1628801470 
+categories: reddit 
+--- 
+https://redd.it/p38ktb
