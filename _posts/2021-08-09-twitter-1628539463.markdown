@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Designedaudio 
-date: 2021-08-09 13:04:23 
-categories: twitter 
---- 
-@timothysykes 🤣 Yah “How to not launch a product and mislead investors.”
