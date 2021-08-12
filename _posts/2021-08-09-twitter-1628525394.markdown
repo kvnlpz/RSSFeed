@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-09 09:09:54 
-categories: twitter 
---- 
-RT @holdmytexan: @super_trades $SMFR getting that look lol
