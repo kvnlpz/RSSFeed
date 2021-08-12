@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LandonSystems 
-date: 2021-08-09 09:41:15 
-categories: twitter 
---- 
-@muddywatersre This exposes the basic flaw in international investing where you are not in the same country as your… https://t.co/oJGga7FDUA
