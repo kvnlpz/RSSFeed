@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CarvedR 
-date: 2021-08-09 11:56:23 
-categories: twitter 
---- 
-@InvestorsLive $worx going up
