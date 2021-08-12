@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @myfirstmillionf 
+date: 2021-08-12 06:58:20 
+categories: twitter 
+--- 
+@CitronResearch So about that $ROOT?
