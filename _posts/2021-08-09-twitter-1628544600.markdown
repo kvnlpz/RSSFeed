@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CryptoPlunderer 
-date: 2021-08-09 14:30:00 
-categories: twitter 
---- 
-@nope_its_lily Definitely a boomer tradition haha
