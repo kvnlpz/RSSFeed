@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GoinGreen74 
-date: 2021-08-09 08:37:56 
-categories: twitter 
---- 
-@InvestorsLive Thank u sir
