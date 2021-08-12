@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What is the state of solutions to the identity problem on blockchain? I know anonymity is a feature, but solving this could automate away the credit card companies (and maybe most other aspect of banking as well) 
+date: 2021-08-12 1628786372 
+categories: reddit 
+--- 
+https://redd.it/p33le3
