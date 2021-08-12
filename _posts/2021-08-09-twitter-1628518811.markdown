@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @swedepilot 
-date: 2021-08-09 07:20:11 
-categories: twitter 
---- 
-@OddStockTrader @splendores Cody it’s vacation time to back to the pool drinks!!
