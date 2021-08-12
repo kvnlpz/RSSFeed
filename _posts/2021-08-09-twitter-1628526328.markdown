@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @hehatemefrisbee 
-date: 2021-08-09 09:25:28 
-categories: twitter 
---- 
-@CitronResearch Hi guys just posting to remind you of this real bad take
