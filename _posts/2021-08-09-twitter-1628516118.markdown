@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MariamAlessa4 
-date: 2021-08-09 06:35:18 
-categories: twitter 
---- 
-@InvestorsLive What’s the target?
