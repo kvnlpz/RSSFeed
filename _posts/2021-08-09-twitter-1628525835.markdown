@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-09 09:17:15 
-categories: twitter 
---- 
-RT @RevShark: I like these days when the indices are struggling but good stock picking is being rewarded.
