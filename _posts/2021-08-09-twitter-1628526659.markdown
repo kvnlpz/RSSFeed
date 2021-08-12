@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeffschmef808 
-date: 2021-08-09 09:30:59 
-categories: twitter 
---- 
-@modern_rock It’s that “get rich quick” mentality.
