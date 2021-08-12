@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @maver3k_1 
+date: 2021-08-12 00:33:47 
+categories: twitter 
+--- 
+@InvestorsLive hi Nate. Could you please explain how you use VWAP. Not in the textbook course.
