@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AstroNomad99 
-date: 2021-08-09 10:10:20 
-categories: twitter 
---- 
-RT @RevShark: I like these days when the indices are struggling but good stock picking is being rewarded.
