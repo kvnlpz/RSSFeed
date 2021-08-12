@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: These are claimed Moons grouped by users; Each user is represented by a circle with area proportional to claimed Moons; Users are scattered on a grid in alphabetic order; Moons claimed prior to Round 1 were ignored; [Chart, hi-res] 
+date: 2021-08-12 1628798279 
+categories: reddit 
+--- 
+https://redd.it/p37itn
