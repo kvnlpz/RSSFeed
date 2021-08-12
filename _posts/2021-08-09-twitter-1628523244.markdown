@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-09 08:34:04 
-categories: twitter 
---- 
-You need a new broker 🤷‍♂️
