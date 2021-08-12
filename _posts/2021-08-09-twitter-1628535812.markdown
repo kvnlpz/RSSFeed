@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @447327642 
-date: 2021-08-09 12:03:32 
-categories: twitter 
---- 
-RT @muddywatersre: Financial comedy https://t.co/rs0Um6AGKG
