@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cisparella 
-date: 2021-08-09 13:22:53 
-categories: twitter 
---- 
-@modern_rock 😂
