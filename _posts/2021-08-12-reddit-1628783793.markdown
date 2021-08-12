@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can an oracle access website data, that can then be used by a smart contract? 
+date: 2021-08-12 1628783793 
+categories: reddit 
+--- 
+https://redd.it/p32pjx
