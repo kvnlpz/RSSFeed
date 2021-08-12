@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ErnestJrG 
-date: 2021-08-09 07:21:53 
-categories: twitter 
---- 
-RT @TradeHawk: $NAOV NanoVibronix gets Australian Therapeutic Goods Administration approval for its PainShield*MD system. https://t.co/oKD0…
