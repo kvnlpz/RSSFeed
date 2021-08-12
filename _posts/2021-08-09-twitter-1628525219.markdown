@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SassyB2020 
-date: 2021-08-09 09:06:59 
-categories: twitter 
---- 
-RT @super_trades: $TDAC starting to stretch out pre-game
