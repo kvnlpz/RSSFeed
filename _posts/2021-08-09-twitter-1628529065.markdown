@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fredent1x 
-date: 2021-08-09 10:11:05 
-categories: twitter 
---- 
-@InvestorsLive @elonmusk YIKES
