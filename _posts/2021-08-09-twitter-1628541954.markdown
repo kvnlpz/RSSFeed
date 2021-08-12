@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nosheals 
-date: 2021-08-09 13:45:54 
-categories: twitter 
---- 
-@nope_its_lily the absolute tomfoolery of our legislative process
