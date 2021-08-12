@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TechnicalCrypto 
-date: 2021-08-09 14:41:06 
-categories: twitter 
---- 
-@nope_its_lily not wrong
