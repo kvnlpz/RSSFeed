@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ShoshinLife 
+date: 2021-08-12 11:22:09 
+categories: twitter 
+--- 
+@nope_its_lily "Impaired sleep has been associated with Alzheimer's disease" (I'm not qualified to say if it's causal)
