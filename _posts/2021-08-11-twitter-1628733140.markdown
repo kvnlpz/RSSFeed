@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @WuffettBarken 
+date: 2021-08-11 18:52:20 
+categories: twitter 
+--- 
+@nope_its_lily It could be compliance with WCAG.
