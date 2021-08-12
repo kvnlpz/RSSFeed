@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: TIL: In 2009, 50BTC were mined per block; this was not reduced until 2012, when it was limited to 25BTC 
+date: 2021-08-12 1628778058 
+categories: reddit 
+--- 
+https://redd.it/p30t9a
