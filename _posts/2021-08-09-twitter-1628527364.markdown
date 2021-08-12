@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @doglas_lucian 
-date: 2021-08-09 09:42:44 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen solid video my friend, always bringing value.
