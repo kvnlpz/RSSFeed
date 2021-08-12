@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FaderTraderX 
-date: 2021-08-09 18:55:14 
-categories: twitter 
---- 
-RT @novogratz: It’s time we propose a bill to get all people over 80 out of Congress.  We force people out of the military at 62. Serving b…
