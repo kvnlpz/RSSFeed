@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-09 15:07:41 
-categories: twitter 
---- 
-@RevTradingLLC I prefer to do it manually
