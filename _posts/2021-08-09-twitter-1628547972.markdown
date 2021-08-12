@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @falcon_fintwit 
-date: 2021-08-09 15:26:12 
-categories: twitter 
---- 
-@nope_its_lily Banger tweet
