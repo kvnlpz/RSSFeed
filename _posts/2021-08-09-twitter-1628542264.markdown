@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChasingFractals 
-date: 2021-08-09 13:51:04 
-categories: twitter 
---- 
-@nope_its_lily @NeerajKA https://t.co/bSIRoTPkAN
