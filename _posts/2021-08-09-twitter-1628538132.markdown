@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-08-09 12:42:12 
-categories: twitter 
---- 
-@RayTL_ @TraderLion_ lmao
