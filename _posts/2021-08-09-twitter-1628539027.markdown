@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @carlosortigoza1 
-date: 2021-08-09 12:57:07 
-categories: twitter 
---- 
-RT @InvestorsLive: If it $WORX don't fix it.
