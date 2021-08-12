@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stephen_Netu 
-date: 2021-08-09 06:48:51 
-categories: twitter 
---- 
-@nope_its_lily We learn to play with crayons before we learn our numbers.
