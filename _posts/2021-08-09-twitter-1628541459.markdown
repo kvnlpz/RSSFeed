@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kokokoNFT 
-date: 2021-08-09 13:37:39 
-categories: twitter 
---- 
-@nope_its_lily Here’s his office number in DC (202) 224-5744
