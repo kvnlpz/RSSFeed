@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BallezaOscar 
-date: 2021-08-09 08:23:17 
-categories: twitter 
---- 
-@super_trades Nice
