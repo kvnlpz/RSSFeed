@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bitcoinoguyi 
-date: 2021-08-09 08:39:52 
-categories: twitter 
---- 
-RT @super_trades: $EGLD #SUPER (blockchain crypto)
