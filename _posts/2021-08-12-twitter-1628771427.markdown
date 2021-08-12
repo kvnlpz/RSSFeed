@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-12 05:30:27 
+categories: twitter 
+--- 
+$BTBT bid be gone.
