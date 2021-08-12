@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @QuantBot 
+date: 2021-08-11 19:58:17 
+categories: twitter 
+--- 
+@alphatrends Yes!
