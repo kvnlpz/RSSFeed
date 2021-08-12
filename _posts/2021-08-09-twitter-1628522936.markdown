@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @UKBULLDOG0071 
-date: 2021-08-09 08:28:56 
-categories: twitter 
---- 
-@timothysykes Vietnam, lol
