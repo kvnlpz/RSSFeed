@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @billam24r 
-date: 2021-08-09 10:11:13 
-categories: twitter 
---- 
-@InvestorsLive if #HOFV follows ethereum like it has previously, this could explode https://t.co/Q69ATI0hco
