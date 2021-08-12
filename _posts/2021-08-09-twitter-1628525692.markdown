@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-09 09:14:52 
-categories: twitter 
---- 
-You likely saw my entry if you're in room.
