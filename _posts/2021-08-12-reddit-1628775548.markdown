@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: An analysis of coin mentions across various subreddits. Who mentions which coin, and how much? 
+date: 2021-08-12 1628775548 
+categories: reddit 
+--- 
+https://redd.it/p300xi
