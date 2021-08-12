@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cardano Funds Not Showing Up After 2.4.1 Firmware Update 
+date: 2021-08-12 1628805257 
+categories: reddit 
+--- 
+https://redd.it/p39trj
