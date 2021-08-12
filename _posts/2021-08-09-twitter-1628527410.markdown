@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-09 09:43:30 
-categories: twitter 
---- 
-Yes on $ANY 
-
-You were right about the sneeze. https://t.co/g5xKWvAcmR
