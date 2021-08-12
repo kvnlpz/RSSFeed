@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-09 15:09:18 
-categories: twitter 
---- 
-@Jmill004 @MarketSmith The materials were different when I studied for the CMT so I am not sure what you are referring to
