@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ToroTheDog 
-date: 2021-08-09 06:23:07 
-categories: twitter 
---- 
-@nope_its_lily How do you know what is a  OTC trade vs just a transfer?
