@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-12 06:49:43 
+categories: twitter 
+--- 
+$NAOV swing nice launch here.
