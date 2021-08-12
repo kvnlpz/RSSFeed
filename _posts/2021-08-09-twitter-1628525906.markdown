@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Phred_Bear 
-date: 2021-08-09 09:18:26 
-categories: twitter 
---- 
-@timothysykes Good job ,, I made $65K on $opti this year
