@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is using an Hardware wallet on hardened linux safer than virus ridden windows ? 
+date: 2021-08-12 1628763070 
+categories: reddit 
+--- 
+https://redd.it/p2wv97
