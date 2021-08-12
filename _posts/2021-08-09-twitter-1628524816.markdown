@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ArchieAndrews85 
-date: 2021-08-09 09:00:16 
-categories: twitter 
---- 
-@nope_its_lily IBKR or TDA are probably your best bets
