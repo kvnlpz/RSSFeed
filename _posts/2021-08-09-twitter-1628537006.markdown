@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jpmccarthy91 
-date: 2021-08-09 12:23:26 
-categories: twitter 
---- 
-@InvestorsLive facts
