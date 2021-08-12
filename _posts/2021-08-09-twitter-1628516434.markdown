@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RiskManager16 
-date: 2021-08-09 06:40:34 
-categories: twitter 
---- 
-@InvestorsLive Big things ITM 260s
