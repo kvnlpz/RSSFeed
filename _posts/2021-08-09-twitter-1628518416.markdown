@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @k_cronin_trader 
-date: 2021-08-09 07:13:36 
-categories: twitter 
---- 
-@timothysykes Protec https://t.co/jh7eZ0jrHl
