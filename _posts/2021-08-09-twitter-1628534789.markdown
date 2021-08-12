@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jmill004 
-date: 2021-08-09 11:46:29 
-categories: twitter 
---- 
-@alphatrends @MarketSmith Do you use the Pivot Point Technique as described in the Charts, Trends and Patterns chap… https://t.co/vLhWWuEfO0
