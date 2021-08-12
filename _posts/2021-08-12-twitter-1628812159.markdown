@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Pytyser 
+date: 2021-08-12 16:49:19 
+categories: twitter 
+--- 
+RT @super_trades: If your stock strategy is based on another person’s opinions/tweets (including mine), then you should not be trading with…
