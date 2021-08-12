@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ModisChodi 
+date: 2021-08-12 16:38:34 
+categories: twitter 
+--- 
+@alphatrends Can you show us how to use VWAP for good entries?
