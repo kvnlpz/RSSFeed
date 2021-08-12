@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alcapurria_ 
-date: 2021-08-09 12:39:12 
-categories: twitter 
---- 
-RT @muddywatersre: The Dark Ages weren't an accident - they were earned through hard work.
