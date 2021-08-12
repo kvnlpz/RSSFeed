@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TadduniAnthony 
-date: 2021-08-09 15:06:28 
-categories: twitter 
---- 
-@OddStockTrader 100%
