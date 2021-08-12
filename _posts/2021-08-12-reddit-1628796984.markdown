@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How To Recover Your Temple Wallet (without the seed phrase) 
+date: 2021-08-12 1628796984 
+categories: reddit 
+--- 
+https://redd.it/p373qr
