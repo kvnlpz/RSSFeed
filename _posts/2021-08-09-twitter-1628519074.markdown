@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-09 07:24:34 
-categories: twitter 
---- 
-Gym session https://t.co/JBh3cu1zld
