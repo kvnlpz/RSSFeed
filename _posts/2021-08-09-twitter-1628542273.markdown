@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @acityinohio 
-date: 2021-08-09 13:51:13 
-categories: twitter 
---- 
-@nope_its_lily no matter who wins the Cabinet discord is gonna be lit
