@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelGKress 
-date: 2021-08-09 10:03:55 
-categories: twitter 
---- 
-RT @Khloecrypto: Did a little research on $EGLD and it's a really interesting project. A reasonable number of circulating coins, an innovat…
