@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlertCredit 
-date: 2021-08-09 17:04:42 
-categories: twitter 
---- 
-@nope_its_lily https://t.co/0B9tNSn89E
