@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThiccestLuigi 
-date: 2021-08-09 13:42:06 
-categories: twitter 
---- 
-RT @nope_its_lily: in retrospect, this was inevitable
