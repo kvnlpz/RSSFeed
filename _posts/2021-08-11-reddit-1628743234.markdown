@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is there a good place to look for how many gas an ethereum transaction will consume? In my specific case I’m looking for POAP transfer to main net from xDai. 
+date: 2021-08-11 1628743234 
+categories: reddit 
+--- 
+https://redd.it/p2sr69
