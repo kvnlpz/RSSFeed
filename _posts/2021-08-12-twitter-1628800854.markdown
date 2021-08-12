@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @nnazreenn 
+date: 2021-08-12 13:40:54 
+categories: twitter 
+--- 
+RT @nope_its_lily: Hi {insert first name},
+I think we have {insert collaboration opportunity}. I'm excited about opportunities to collabora…
