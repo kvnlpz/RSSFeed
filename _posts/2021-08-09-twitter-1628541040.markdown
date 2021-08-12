@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @acityinohio 
-date: 2021-08-09 13:30:40 
-categories: twitter 
---- 
-@nope_its_lily alabama leading the way again
