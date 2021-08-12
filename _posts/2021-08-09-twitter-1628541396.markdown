@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @thecoinsguy 
-date: 2021-08-09 13:36:36 
-categories: twitter 
---- 
-@nope_its_lily *I am on Twitter for THIS
