@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-08-09 06:30:18 
-categories: twitter 
---- 
-Doing a @BloombergTV hit in 10 mins (~9:40 EDT) to discuss China etc w/ @lisaabramowicz1
