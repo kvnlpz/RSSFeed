@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrJoeComo 
-date: 2021-08-09 12:01:35 
-categories: twitter 
---- 
-@modern_rock https://t.co/auiYibWg67
