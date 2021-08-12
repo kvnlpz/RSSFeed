@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @traderthiz 
-date: 2021-08-09 19:21:25 
-categories: twitter 
---- 
-RT @InvestorsLive: The magnitude of the $MRNA trade coming by Wednesday is absolutely epic.
