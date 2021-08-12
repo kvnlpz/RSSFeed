@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tarunchitra 
+date: 2021-08-12 16:15:15 
+categories: twitter 
+--- 
+@nope_its_lily @choffstein @MonicaTurrey Nice, wonder what websites use birthday as a password recovery hint 😅
