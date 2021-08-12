@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why do transactions fail? Help for an old guy 
+date: 2021-08-12 1628791016 
+categories: reddit 
+--- 
+https://redd.it/p35589
