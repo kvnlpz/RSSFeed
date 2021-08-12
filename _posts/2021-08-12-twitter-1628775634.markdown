@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @morphius007 
+date: 2021-08-12 06:40:34 
+categories: twitter 
+--- 
+@thehonestcroock you and @super_trades are using the same short codes to send alerts. Makes no sense.
