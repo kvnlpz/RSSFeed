@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @star_mathlete 
-date: 2021-08-09 17:07:49 
-categories: twitter 
---- 
-@nope_its_lily R^2 &lt; R for R in (0,1)
