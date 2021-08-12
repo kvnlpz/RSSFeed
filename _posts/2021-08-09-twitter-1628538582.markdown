@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-08-09 12:49:42 
-categories: twitter 
---- 
-$BYSI 
-
-#MyInvestingClub https://t.co/A2DGPqztTB
