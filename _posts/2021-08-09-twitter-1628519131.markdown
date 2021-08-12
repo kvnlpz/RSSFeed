@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @udiWertheimer 
-date: 2021-08-09 07:25:31 
-categories: twitter 
---- 
-@nope_its_lily shhh is oke
-
-digital real estate
