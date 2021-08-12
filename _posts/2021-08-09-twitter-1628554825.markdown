@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-09 17:20:25 
-categories: twitter 
---- 
-@JOEYJOYFULL Kinda hard to trade it w/ any size of conviction - light vol intraday
