@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NotMrVinnyChase 
-date: 2021-08-09 09:41:29 
-categories: twitter 
---- 
-@InvestorsLive 😂that too
