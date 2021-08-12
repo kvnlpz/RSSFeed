@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-12 08:30:19 
+categories: twitter 
+--- 
+RT @J0J0JGEORGE: You can read more about the @SaitoOfficial vision for #Web3 below. But really it is about addressing the fundamental econo…
