@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @cyeslami 
+date: 2021-08-12 11:55:12 
+categories: twitter 
+--- 
+@nope_its_lily Turned out that rejiggering things a bit and accumulating the adjustment factor while iterating over… https://t.co/pNEyhIjtC2
