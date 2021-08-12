@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @slimkrazee 
-date: 2021-08-09 08:26:27 
-categories: twitter 
---- 
-@InvestorsLive That's honestly really cool
