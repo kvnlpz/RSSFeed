@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ThiccestLuigi 
-date: 2021-08-09 19:09:20 
-categories: twitter 
---- 
-@nope_its_lily this looks like some dark web hell hole
