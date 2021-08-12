@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-09 13:51:08 
-categories: twitter 
---- 
-it'll be a glorious day in FTX: United States of America
