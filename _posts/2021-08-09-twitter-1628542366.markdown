@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @John_C_Caputo 
-date: 2021-08-09 13:52:46 
-categories: twitter 
---- 
-@timothysykes Yikes! I have been watching all your Videos and paper trading. I am finally understanding trade size,… https://t.co/KBJpA2OIbm
