@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @theKantoarbot 
-date: 2021-08-09 06:49:57 
-categories: twitter 
---- 
-@nope_its_lily Magic chart voodoo!!!
