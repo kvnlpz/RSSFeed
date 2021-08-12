@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Roshan_Krip 
-date: 2021-08-09 06:40:07 
-categories: twitter 
---- 
-@muddywatersre @BloombergTV @lisaabramowicz1 Watching here from Hong Kong. Good luck
