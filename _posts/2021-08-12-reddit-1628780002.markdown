@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The Poly hack reverse engineered: how it was done 
+date: 2021-08-12 1628780002 
+categories: reddit 
+--- 
+https://redd.it/p317eb
