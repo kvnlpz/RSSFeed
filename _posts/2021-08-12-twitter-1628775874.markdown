@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @greentweats 
+date: 2021-08-12 06:44:34 
+categories: twitter 
+--- 
+@timothysykes You’ve been spending a lot of time there lately. Are you trying your new laptop again?
