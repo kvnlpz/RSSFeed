@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoTrader4 
-date: 2021-08-09 12:33:49 
-categories: twitter 
---- 
-@RayTL_ @PatternProfits @ikigaistocks Love it. https://t.co/HoTnj5XkPI
