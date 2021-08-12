@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @unusual_whales 
-date: 2021-08-09 13:34:49 
-categories: twitter 
---- 
-@nope_its_lily no term limits either…
