@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrrPrinter 
-date: 2021-08-09 15:51:08 
-categories: twitter 
---- 
-@nope_its_lily Ready Player One
