@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-08-09 12:47:53 
-categories: twitter 
---- 
-RT @StocksToTrade: TOO MANT TRADERS fall in love with stocks that already made their move.
-
-Learn to move on and adapt. Don’t fight long on…
