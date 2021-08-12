@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: For those who want to learn blockchain development in the Flow ecosystem, there is this course: CryptoDappy. Learn by coding a NFT collectibles game! 
+date: 2021-08-12 1628781488 
+categories: reddit 
+--- 
+https://redd.it/p31y2k
