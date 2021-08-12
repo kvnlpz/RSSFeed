@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: This is the Ultimate Cold Wallet. A guide on how to easily memorize your seed phrase 
+date: 2021-08-12 1628809013 
+categories: reddit 
+--- 
+https://redd.it/p3azqb
