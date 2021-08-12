@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: [QUESTION] How is the minimum fee for a tx calculated? Is this set in stone somewhere? or is this dynamic? 
+date: 2021-08-12 1628800745 
+categories: reddit 
+--- 
+https://redd.it/p36dqm
