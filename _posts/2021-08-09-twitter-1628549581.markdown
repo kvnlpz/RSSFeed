@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlexCEvangelist 
-date: 2021-08-09 15:53:01 
-categories: twitter 
---- 
-@nope_its_lily Uh but they don’t accept doge yet
