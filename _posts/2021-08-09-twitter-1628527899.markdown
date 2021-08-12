@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SeanTheNoob 
-date: 2021-08-09 09:51:39 
-categories: twitter 
---- 
-@InvestorsLive You’re late 🤷‍♂️
