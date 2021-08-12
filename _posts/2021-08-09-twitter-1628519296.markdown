@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NotoriousPtG 
-date: 2021-08-09 07:28:16 
-categories: twitter 
---- 
-@nope_its_lily In the metaverse, traders and TA are banned.
