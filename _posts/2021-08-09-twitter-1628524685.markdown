@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @j_bacelis 
-date: 2021-08-09 08:58:05 
-categories: twitter 
---- 
-@timothysykes Goooooood morning boss
