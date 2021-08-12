@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @QuantBot 
+date: 2021-08-11 20:02:54 
+categories: twitter 
+--- 
+@alphatrends I think those birds watched "Moonraker."
