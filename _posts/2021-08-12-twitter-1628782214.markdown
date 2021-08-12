@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-12 08:30:14 
+categories: twitter 
+--- 
+RT @J0J0JGEORGE: A truly public, scalable #Web3 network needs to pay for ALL services the network needs, not just miners and stakers; it ha…
