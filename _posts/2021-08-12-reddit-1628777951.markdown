@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The role of link token in chainlink 
+date: 2021-08-12 1628777951 
+categories: reddit 
+--- 
+https://redd.it/p30s3v
