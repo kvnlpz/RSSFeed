@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @purplenotes3 
-date: 2021-08-09 08:35:10 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade RUN TOWARDS GOOD SUSHI!!
