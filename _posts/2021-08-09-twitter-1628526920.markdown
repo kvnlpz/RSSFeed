@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @i9theghost5 
-date: 2021-08-09 09:35:20 
-categories: twitter 
---- 
-@alphatrends Also 48-52k is the 61.8-65 of Fib 
-
-Nice convergence
