@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Coinbase update doesn’t show if market is up or down anymore 
+date: 2021-08-11 1628745423 
+categories: reddit 
+--- 
+https://redd.it/p2tacf
