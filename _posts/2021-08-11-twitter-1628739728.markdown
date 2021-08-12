@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @JasinJusinski 
+date: 2021-08-11 20:42:08 
+categories: twitter 
+--- 
+@nope_its_lily yes
