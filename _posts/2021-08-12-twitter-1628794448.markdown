@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @cyeslami 
+date: 2021-08-12 11:54:08 
+categories: twitter 
+--- 
+@nope_its_lily Kind of a fun one, but so obviously not O(m+n) in hindsight.
+
+I was pre-calculating the cumulative a… https://t.co/i6SW2lSCOc
