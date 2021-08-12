@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paulsam68281414 
-date: 2021-08-09 12:37:21 
-categories: twitter 
---- 
-@goodetrades good article thanks!
