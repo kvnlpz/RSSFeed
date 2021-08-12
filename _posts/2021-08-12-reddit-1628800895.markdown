@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why do USDT and USDC do attestations instead of some sort of blockchain smart contract? 
+date: 2021-08-12 1628800895 
+categories: reddit 
+--- 
+https://redd.it/p38e0n
