@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BenHemmet 
-date: 2021-08-09 07:05:20 
-categories: twitter 
---- 
-@timothysykes $NSAV
