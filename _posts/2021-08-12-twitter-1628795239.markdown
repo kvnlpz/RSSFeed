@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @demotorek 
+date: 2021-08-12 12:07:19 
+categories: twitter 
+--- 
+RT @TradeHawk: $FRLN Freeline Therapeutics Inc gets FDA Orphan Drug Designation for Recombinant Adeno-associated Viral Vector Serotype (FLT…
