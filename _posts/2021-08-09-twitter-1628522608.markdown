@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DavidGoldbergFL 
-date: 2021-08-09 08:23:28 
-categories: twitter 
---- 
-@nope_its_lily Lily is flexing
