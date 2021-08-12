@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why does Kraken take so long to show filled orders when the buy and ask are the same 
+date: 2021-08-11 1628728962 
+categories: reddit 
+--- 
+https://redd.it/p2q55j
