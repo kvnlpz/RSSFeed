@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SidneyCartwrig7 
-date: 2021-08-09 07:14:38 
-categories: twitter 
---- 
-@nope_its_lily You can get anything here https://t.co/j3g2ILGQce
