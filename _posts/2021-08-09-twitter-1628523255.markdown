@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StockMeat 
-date: 2021-08-09 08:34:15 
-categories: twitter 
---- 
-@InvestorsLive I thought it was the next WORX 🤣
