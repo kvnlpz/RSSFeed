@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @natewitmer24 
-date: 2021-08-09 08:33:33 
-categories: twitter 
---- 
-@InvestorsLive Wish there were shares available 😐
