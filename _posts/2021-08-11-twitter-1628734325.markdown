@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @speakermaniac3 
+date: 2021-08-11 19:12:05 
+categories: twitter 
+--- 
+@nope_its_lily I use Adjusted R^2. It penalizes me when I add code that doesn’t add any value.
