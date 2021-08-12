@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MightySoldiers 
-date: 2021-08-09 16:34:45 
-categories: twitter 
---- 
-RT @alphatrends: In my weekend video I mentioned 50K as the measured move objective in #Bitcoin for this leg higher, here is the math https…
