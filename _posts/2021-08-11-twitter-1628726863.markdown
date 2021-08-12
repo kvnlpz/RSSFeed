@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-11 17:07:43 
+categories: twitter 
+--- 
+@TheKendallBaker "get to, not got to"
