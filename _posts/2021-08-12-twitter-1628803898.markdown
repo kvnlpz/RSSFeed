@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @StockTwitta 
+date: 2021-08-12 14:31:38 
+categories: twitter 
+--- 
+@InvestorsLive seems like 4 portrait mode monitors is preferred over 2 ultra wide monitors one above the other
