@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Chicho93903740 
-date: 2021-08-09 16:29:30 
-categories: twitter 
---- 
-@nope_its_lily @unusual_whales https://t.co/XyhiJ6Qscg
