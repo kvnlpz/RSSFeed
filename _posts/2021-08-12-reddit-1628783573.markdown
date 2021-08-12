@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Are moons earned calculated based on karma earned in all subreddits or just r/cryptocurrency? 
+date: 2021-08-12 1628783573 
+categories: reddit 
+--- 
+https://redd.it/p32mx2
