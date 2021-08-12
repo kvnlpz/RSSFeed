@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bassdropps 
-date: 2021-08-09 12:39:04 
-categories: twitter 
---- 
-@InvestorsLive Could you explain this or point to reference I can check to educate myself on this concept?
