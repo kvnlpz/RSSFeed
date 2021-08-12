@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SunsetProof 
-date: 2021-08-09 06:14:29 
-categories: twitter 
---- 
-@super_trades I like both moves. I need to add more TDAC.
