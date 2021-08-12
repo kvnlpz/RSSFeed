@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AlertTrade 
-date: 2021-08-09 11:53:11 
-categories: twitter 
---- 
-RT @offshorehunters: $RAIL weekly chart, continues to setup a nice cup and handle pattern..... https://t.co/t6l5yAKO2R
