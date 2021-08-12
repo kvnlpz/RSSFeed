@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-11 18:50:08 
+categories: twitter 
+--- 
+I think changing the color scheme to show 'Following' as white (at least on the light color scheme) is really dumb… https://t.co/0Rho1Ymh2d
