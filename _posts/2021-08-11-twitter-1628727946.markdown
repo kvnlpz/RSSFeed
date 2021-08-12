@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @diarpie 
+date: 2021-08-11 17:25:46 
+categories: twitter 
+--- 
+@nope_its_lily Today I heard a podcast where they talked about Ethereum in terms of states of matter. 
+
+Liquid: the… https://t.co/c2YNN4cP2S
