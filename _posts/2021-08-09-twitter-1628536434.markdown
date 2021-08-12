@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jphilfrank 
-date: 2021-08-09 12:13:54 
-categories: twitter 
---- 
-@InvestorsLive Yep. .5 fibs good entry
