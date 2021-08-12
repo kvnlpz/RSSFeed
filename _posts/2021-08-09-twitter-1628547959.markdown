@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shan_arb 
-date: 2021-08-09 15:25:59 
-categories: twitter 
---- 
-@nope_its_lily R^2 is sometimes negative, R can never!!
