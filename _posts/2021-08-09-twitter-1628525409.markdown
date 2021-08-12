@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @splendores 
-date: 2021-08-09 09:10:09 
-categories: twitter 
---- 
-@InvestorsLive “He got his life vest on” she says in a relieved tone
