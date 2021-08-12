@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can a create a custom private key that could be memorized if necessary 
+date: 2021-08-12 1628791466 
+categories: reddit 
+--- 
+https://redd.it/p35avz
