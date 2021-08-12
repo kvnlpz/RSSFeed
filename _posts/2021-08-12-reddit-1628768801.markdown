@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: If I wanted to create a blockchain to monitor expenses, why would I need an accompanying currency? 
+date: 2021-08-12 1628768801 
+categories: reddit 
+--- 
+https://redd.it/p2y64s
