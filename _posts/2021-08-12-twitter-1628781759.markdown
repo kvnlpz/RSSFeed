@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @matthewjlemon 
+date: 2021-08-12 08:22:39 
+categories: twitter 
+--- 
+@InvestorsLive Fool me once...
