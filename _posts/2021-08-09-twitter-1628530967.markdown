@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Stearmano 
-date: 2021-08-09 10:42:47 
-categories: twitter 
---- 
-@CitronResearch @SECGov @NewYork_SEC You need to be investigated by the SEC.  I fully suspect you you engineered th… https://t.co/7GZQTLu7d4
