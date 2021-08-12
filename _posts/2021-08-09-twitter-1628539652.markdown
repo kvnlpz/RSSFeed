@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @necessities1989 
-date: 2021-08-09 13:07:32 
-categories: twitter 
---- 
-RT @super_trades: $TDAC starting to stretch out pre-game
