@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-09 09:31:36 
-categories: twitter 
---- 
-RT @moneysoprano: $MVST Bloomberg mention- Microvast is a stock to watch for infrastructure bill passage https://t.co/aoSrEkD6bM
