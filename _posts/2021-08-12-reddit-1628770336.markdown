@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP-1559 benefits? 
+date: 2021-08-12 1628770336 
+categories: reddit 
+--- 
+https://redd.it/p2yk4r
