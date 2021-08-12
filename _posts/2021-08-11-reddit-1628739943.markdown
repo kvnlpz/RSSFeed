@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How will the following stop loss behave Vs a stop loss set on a short, and do I need to have a market order in place for a stop loss to work or does the stop loss include this? Futures scrub here 
+date: 2021-08-11 1628739943 
+categories: reddit 
+--- 
+https://redd.it/p2ruxm
