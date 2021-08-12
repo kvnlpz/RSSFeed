@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: TIL you can stake UST stablecoins on anchor protocol and get around 20% apy. 
+date: 2021-08-12 1628772002 
+categories: reddit 
+--- 
+https://redd.it/p2z021
