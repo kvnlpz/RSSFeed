@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-09 09:45:57 
-categories: twitter 
---- 
-@stock_beast @RichardMoglen Yes very impressive!
