@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JOEYJOYFULL 
-date: 2021-08-09 18:52:36 
-categories: twitter 
---- 
-@InvestorsLive Yes sir
