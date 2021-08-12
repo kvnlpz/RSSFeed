@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LewPayne 
-date: 2021-08-09 08:59:25 
-categories: twitter 
---- 
-@nope_its_lily So what do you *want* to do now?  Curious to see if ideas line up.
