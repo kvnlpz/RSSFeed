@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Running a "private" local node? 
+date: 2021-08-12 1628766352 
+categories: reddit 
+--- 
+https://redd.it/p2xhr8
