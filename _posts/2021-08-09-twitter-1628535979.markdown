@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MrHaigs 
-date: 2021-08-09 12:06:19 
-categories: twitter 
---- 
-@muddywatersre Vaccine companies up over 10% on the day.  Release a PR as soon as we can!
