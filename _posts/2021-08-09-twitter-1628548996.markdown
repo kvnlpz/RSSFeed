@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @saska_238 
-date: 2021-08-09 15:43:16 
-categories: twitter 
---- 
-RT @InvestorsLive: There are many ways a good trade plan can go awry. Here are a few questions to ask yourself when analyzing your trades h…
