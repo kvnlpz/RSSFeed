@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bubstron 
-date: 2021-08-09 15:20:02 
-categories: twitter 
---- 
-@OddStockTrader Idk how adding 3.5T will help the economy.
