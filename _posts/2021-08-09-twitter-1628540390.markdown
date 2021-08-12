@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-09 13:19:50 
-categories: twitter 
---- 
-If you were bored today, even NOPE was bored and it's just a math equation.
