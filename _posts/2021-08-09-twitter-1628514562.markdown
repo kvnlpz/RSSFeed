@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ChadRowland11 
-date: 2021-08-09 06:09:22 
-categories: twitter 
---- 
-@timothysykes Morning!
