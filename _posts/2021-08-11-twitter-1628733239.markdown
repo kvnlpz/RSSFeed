@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-11 18:53:59 
+categories: twitter 
+--- 
+@WuffettBarken If it's a contrast issue, it's trivially fixable even maintaining colors properly. Active colors are… https://t.co/leNm0OxjwB
