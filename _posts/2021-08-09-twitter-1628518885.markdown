@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imperative_the 
-date: 2021-08-09 07:21:25 
-categories: twitter 
---- 
-RT @nope_its_lily: In the metaverse, no one can hear you pissed off for selling 30-40% at 44.9k and having it hit 46k rn
