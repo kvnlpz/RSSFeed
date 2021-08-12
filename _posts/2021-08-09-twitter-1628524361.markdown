@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-09 08:52:41 
-categories: twitter 
---- 
-Bought some of this $FET on Coinbase https://t.co/xLgtO45KRx
