@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ikigaistocks 
-date: 2021-08-09 09:41:35 
-categories: twitter 
---- 
-@RayTL_ @PatternProfits Let’s take it up a level now. Feel that burn.
