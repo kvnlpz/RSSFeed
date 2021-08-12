@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @blind_batter 
-date: 2021-08-09 17:12:56 
-categories: twitter 
---- 
-@nope_its_lily Sadly it can get so much sillier.
