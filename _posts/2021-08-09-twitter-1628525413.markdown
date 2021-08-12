@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @planet13weed 
-date: 2021-08-09 09:10:13 
-categories: twitter 
---- 
-RT @super_trades: $TDAC starting to stretch out pre-game
