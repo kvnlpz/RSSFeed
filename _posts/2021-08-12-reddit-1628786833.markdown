@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Fixing The Privacy Gap In Proof Of Liability Protocols 
+date: 2021-08-12 1628786833 
+categories: reddit 
+--- 
+https://redd.it/p33r66
