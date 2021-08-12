@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BradyDale 
+date: 2021-08-12 14:29:00 
+categories: twitter 
+--- 
+RT @nope_its_lily: surprisingly, listing your jurisdiction as 'in the metaverse' might not protect you from U.S. financial regulations
