@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheBenSchmark 
-date: 2021-08-09 12:00:39 
-categories: twitter 
---- 
-@muddywatersre Did somebody say MultiValeant?
