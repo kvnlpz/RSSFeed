@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @frostytraderman 
-date: 2021-08-09 13:52:23 
-categories: twitter 
---- 
-@nope_its_lily Let's make it happen
