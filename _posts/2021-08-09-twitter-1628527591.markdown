@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @londanner 
-date: 2021-08-09 09:46:31 
-categories: twitter 
---- 
-@InvestorsLive ..good for an in &amp; out
