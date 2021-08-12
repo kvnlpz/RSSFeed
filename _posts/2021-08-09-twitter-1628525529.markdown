@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-09 09:12:09 
-categories: twitter 
---- 
-@PatternProfits 2min away from 5min - Ben easy with the math on the tweets 🥲
