@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-08-09 07:16:24 
-categories: twitter 
---- 
-RT @RayTL_: Theme: Is it related to crypto? Swipe right :-) haha.
