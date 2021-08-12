@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @coloradotravis 
+date: 2021-08-11 19:28:23 
+categories: twitter 
+--- 
+@nope_its_lily I do still use search engines occasionally when the twitter search fails me.
