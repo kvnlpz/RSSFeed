@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @muddywatersre 
-date: 2021-08-09 10:20:20 
-categories: twitter 
---- 
-Really enjoyed my @BloombergTV interview this am with @lisaabramowicz1 - got to go into some root cause of the dysf… https://t.co/6lOFTEbHm3
