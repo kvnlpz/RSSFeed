@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DougCoffman20 
-date: 2021-08-09 06:03:56 
-categories: twitter 
---- 
-@timothysykes Good morning!!
