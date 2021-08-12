@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @brlanzhu 
-date: 2021-08-09 19:25:36 
-categories: twitter 
---- 
-@InvestorsLive ???? Lol
