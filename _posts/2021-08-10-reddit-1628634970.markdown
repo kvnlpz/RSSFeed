@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cheese for poems 
-date: 2021-08-10 1628634970 
-categories: reddit 
---- 
-https://redd.it/p200ne
