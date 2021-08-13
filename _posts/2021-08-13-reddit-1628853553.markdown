@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I wrote an article about the Alonzo Hard Fork - can you please let me know if I got everything right? 
+date: 2021-08-13 1628853553 
+categories: reddit 
+--- 
+https://redd.it/p3ldm7
