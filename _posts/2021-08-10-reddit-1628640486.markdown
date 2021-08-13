@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can you use the same wallet address forever 
-date: 2021-08-10 1628640486 
-categories: reddit 
---- 
-https://redd.it/p21nul
