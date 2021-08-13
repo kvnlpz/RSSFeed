@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-12 19:35:51 
+categories: twitter 
+--- 
+RT @iancassel: Buy and hold isn’t buy and forget. It is buy and verify (your thesis), and the smaller the company the more often you verify.
