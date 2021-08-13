@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-08-13 08:06:31 
+categories: twitter 
+--- 
+Finally got approval to turn on Tesla Solar!
+
+Time to geek out about the data.
