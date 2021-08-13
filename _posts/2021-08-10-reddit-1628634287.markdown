@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Litecoin has flatlined 
-date: 2021-08-10 1628634287 
-categories: reddit 
---- 
-https://redd.it/p1ztd8
