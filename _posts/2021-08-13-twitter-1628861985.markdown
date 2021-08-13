@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @richpark_1 
+date: 2021-08-13 06:39:45 
+categories: twitter 
+--- 
+@super_trades What does that mean?
