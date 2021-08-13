@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why do you think Kucoin and Binance require 300 confirmations for ADA deposits (2 hours)? Does the network fork often requiring so many confirmations? 
+date: 2021-08-12 1628829945 
+categories: reddit 
+--- 
+https://redd.it/p3gjxo
