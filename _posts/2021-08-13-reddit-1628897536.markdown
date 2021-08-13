@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I've made a website that lets you see what you would have earned if you invested in popular stocks a year ago. Should I add Cardano to the chart? 
+date: 2021-08-13 1628897536 
+categories: reddit 
+--- 
+https://redd.it/p3wv37
