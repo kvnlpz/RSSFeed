@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why such a big difference between buy and sell prices? 
-date: 2021-08-10 1628634564 
-categories: reddit 
---- 
-https://redd.it/p1zwet
