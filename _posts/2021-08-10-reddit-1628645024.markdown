@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I’m feeling lucky 
-date: 2021-08-10 1628645024 
-categories: reddit 
---- 
-https://redd.it/p22x28
