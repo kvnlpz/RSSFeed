@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is technical analysis BS? 
-date: 2021-08-10 1628634365 
-categories: reddit 
---- 
-https://redd.it/p1zu50
