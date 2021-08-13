@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ELI5: Why are gas/ether prices tied to a fixed amount rather than a percentage of what's being worked? 
+date: 2021-08-13 1628894400 
+categories: reddit 
+--- 
+https://redd.it/p3vxt3
