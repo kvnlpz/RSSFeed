@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question about staking with cold wallet like Trezor. 
+date: 2021-08-13 1628888886 
+categories: reddit 
+--- 
+https://redd.it/p3ti3z
