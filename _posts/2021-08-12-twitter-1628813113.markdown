@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @trader_umair 
+date: 2021-08-12 17:05:13 
+categories: twitter 
+--- 
+@timothysykes Yes!
