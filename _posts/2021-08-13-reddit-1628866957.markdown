@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Question: Why do my trailing stops keep getting filled even though the stock hasn't dropped nearly enough to trigger the sell? 
+date: 2021-08-13 1628866957 
+categories: reddit 
+--- 
+https://redd.it/p3mgay
