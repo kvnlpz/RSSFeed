@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: With major fluctuations in hashrate distribution, and RVN spiking hard this week, I thought it would be a good time to share this article to help educate people on the value of supply cap. 
-date: 2021-08-10 1628634497 
-categories: reddit 
---- 
-https://redd.it/p1zvo1
