@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: EIP-1559 Burn Address is going to be the largest longterm HODLer of ETH! 
-date: 2021-08-10 1628638464 
-categories: reddit 
---- 
-https://redd.it/p212v8
