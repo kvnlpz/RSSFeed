@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @krasnovskyi 
+date: 2021-08-12 20:39:00 
+categories: twitter 
+--- 
+@alphatrends Sorry, I forgot about it.... 
+Won't happen again
