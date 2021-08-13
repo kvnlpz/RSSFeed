@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Implementing peer-to-peer transactions question 
+date: 2021-08-13 1628873133 
+categories: reddit 
+--- 
+https://redd.it/p3oygo
