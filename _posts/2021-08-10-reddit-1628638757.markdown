@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do I disconnect a device from my Uphold wallet 
-date: 2021-08-10 1628638757 
-categories: reddit 
---- 
-https://redd.it/p215zb
