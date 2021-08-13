@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BTC slips as a result of new bill 
-date: 2021-08-10 1628635255 
-categories: reddit 
---- 
-https://redd.it/p20404
