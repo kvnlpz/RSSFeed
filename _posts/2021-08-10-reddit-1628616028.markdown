@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Lost all my BAT after uninstalling Brave Browser 
-date: 2021-08-10 1628616028 
-categories: reddit 
---- 
-https://redd.it/p1tsxt
