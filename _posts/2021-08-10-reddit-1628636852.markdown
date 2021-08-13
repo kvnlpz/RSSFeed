@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Solana bridge Wormhole begins supporting inter-blockchain message transfers, why you should consider evaluation 
-date: 2021-08-10 1628636852 
-categories: reddit 
---- 
-https://redd.it/p20lij
