@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @carlosortigoza1 
+date: 2021-08-13 16:12:21 
+categories: twitter 
+--- 
+RT @InvestorsLive: As you progress as a trader and trade more size - consider TWAP'ing your exits - saves you time and allows you more focu…
