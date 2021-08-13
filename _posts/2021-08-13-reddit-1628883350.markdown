@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How do you store ERC20 tokens (like AAVE, OMG, ENJ, etc) on a paper wallet? 
+date: 2021-08-13 1628883350 
+categories: reddit 
+--- 
+https://redd.it/p3sdxr
