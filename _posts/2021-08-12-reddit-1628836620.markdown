@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How to write a Smart contract using SmartPy? 
+date: 2021-08-12 1628836620 
+categories: reddit 
+--- 
+https://redd.it/p3i0w4
