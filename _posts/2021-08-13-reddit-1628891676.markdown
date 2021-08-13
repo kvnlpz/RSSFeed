@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: [AscenDEX] Can't swap ~4 USDT for MATIC. Saying notional amount can't be less than 5 USDT, but my balance is already lower than that. Does anyone know what this means? 
+date: 2021-08-13 1628891676 
+categories: reddit 
+--- 
+https://redd.it/p3v3b4
