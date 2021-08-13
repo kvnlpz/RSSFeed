@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @dopegraf 
+date: 2021-08-13 13:40:56 
+categories: twitter 
+--- 
+@timothysykes https://t.co/EPHRULFfTA
