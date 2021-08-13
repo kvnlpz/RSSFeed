@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tenmike 
+date: 2021-08-13 08:52:28 
+categories: twitter 
+--- 
+RT @super_trades: $MVST reversal and gamma squeeze coming ?
