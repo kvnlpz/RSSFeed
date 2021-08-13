@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: T3 Index to Launch a Chainlink Node to Bring Volatility Index Data to DeFi Developers 
+date: 2021-08-13 1628880766 
+categories: reddit 
+--- 
+https://redd.it/p3rjn3
