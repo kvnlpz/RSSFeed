@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Designing Bitcoin Contracts with Sapio 
+date: 2021-08-13 1628895573 
+categories: reddit 
+--- 
+https://redd.it/p3wa9s
