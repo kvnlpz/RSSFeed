@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PolyNetwork’s Hacker Returns All Funds on Ethereum and Refuses a $500K Bug Bounty 
+date: 2021-08-13 1628852195 
+categories: reddit 
+--- 
+https://redd.it/p3l2cl
