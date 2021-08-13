@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Turn your vault on 
-date: 2021-08-10 1628644913 
-categories: reddit 
---- 
-https://redd.it/p22w0g
