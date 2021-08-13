@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @0xbread 
+date: 2021-08-13 11:53:09 
+categories: twitter 
+--- 
+RT @nope_its_lily: I used to be rich but I accidentally sent all my money to my offline wallet and now it’s gone forever.
