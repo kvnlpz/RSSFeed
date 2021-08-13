@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto isn't going anywhere, but GPU mining should be limited. We're in a climate crisis, and a lot of that power is coming from the literal worst power source, coal 
-date: 2021-08-10 1628641393 
-categories: reddit 
---- 
-https://redd.it/p21wue
