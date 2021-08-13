@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-13 10:26:06 
+categories: twitter 
+--- 
+@bclund did you see this article?
+https://t.co/rPQrRHIq7f
