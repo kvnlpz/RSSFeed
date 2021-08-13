@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @quatz6 
+date: 2021-08-13 10:51:05 
+categories: twitter 
+--- 
+@CitronResearch remember $ROOT? Oh maybe not…
