@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Layer 2 Ecosystem. 
-date: 2021-08-10 1628638522 
-categories: reddit 
---- 
-https://redd.it/p213iu
