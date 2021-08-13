@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-13 11:55:51 
+categories: twitter 
+--- 
+@imademyday Take it or leave it. If you have questions ask me in the room.
