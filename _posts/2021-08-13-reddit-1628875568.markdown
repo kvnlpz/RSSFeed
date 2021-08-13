@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Making A Defi App On Cardano Question 
+date: 2021-08-13 1628875568 
+categories: reddit 
+--- 
+https://redd.it/p3ptvr
