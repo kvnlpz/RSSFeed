@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Breaking.. Bitcoin? 
-date: 2021-08-10 1628643223 
-categories: reddit 
---- 
-https://redd.it/p22f4s
