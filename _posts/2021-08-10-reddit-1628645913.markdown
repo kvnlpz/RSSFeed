@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How many predictions you got right? 
-date: 2021-08-10 1628645913 
-categories: reddit 
---- 
-https://redd.it/p235oz
