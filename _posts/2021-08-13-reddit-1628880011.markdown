@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How do Ethereum transaction fees work now that EIP-1559 is live? 
+date: 2021-08-13 1628880011 
+categories: reddit 
+--- 
+https://redd.it/p3rb4a
