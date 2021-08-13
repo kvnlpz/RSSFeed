@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The first of 2 MSIG's to create the new eosio.grants system contract have been approved. Next 🔑 MSIG - Set Inflation + Transfer EOS to eosio.grants 
+date: 2021-08-13 1628870922 
+categories: reddit 
+--- 
+https://redd.it/p3o5b6
