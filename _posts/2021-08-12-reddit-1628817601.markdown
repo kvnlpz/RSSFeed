@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Help...Voting don't show on my yoroi desktop app and now my catalyst voting mobile app can't scan my QR code 
+date: 2021-08-12 1628817601 
+categories: reddit 
+--- 
+https://redd.it/p3de4n
