@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Since when did Reddit start sending MOONs through their Testnet instead of Rinkeby? 
+date: 2021-08-12 1628820737 
+categories: reddit 
+--- 
+https://redd.it/p3e7t3
