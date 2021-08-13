@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How 1559 is impacting Ethereum and transaction fees 
-date: 2021-08-10 1628636206 
-categories: reddit 
---- 
-https://redd.it/p20eg1
