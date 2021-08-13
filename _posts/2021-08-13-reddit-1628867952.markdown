@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Does only the price at expiration matter for selling puts? 
+date: 2021-08-13 1628867952 
+categories: reddit 
+--- 
+https://redd.it/p3mxw9
