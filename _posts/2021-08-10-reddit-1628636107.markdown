@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Thinking about switching from VTI to SPLG. 
-date: 2021-08-10 1628636107 
-categories: reddit 
---- 
-https://redd.it/p20d9i
