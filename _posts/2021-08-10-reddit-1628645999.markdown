@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: In light of the $600m DeFi hack, ICON (ICX) recently had a 20 million bug. It's going to trial now 
-date: 2021-08-10 1628645999 
-categories: reddit 
---- 
-https://redd.it/p236ma
