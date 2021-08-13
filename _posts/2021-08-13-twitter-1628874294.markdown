@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-13 10:04:54 
+categories: twitter 
+--- 
+@Michigandolf an ivol of 0. You'd be selling for below a BSM implied value of the option price.
