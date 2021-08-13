@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-13 10:04:10 
+categories: twitter 
+--- 
+@Michigandolf The answer is no, because there's no real storage costs. A negative VIX would imply a negative IV ess… https://t.co/OqVsHdqJa2
