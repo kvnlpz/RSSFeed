@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: VOX NFT drop causes Ethereum gas prices to soar from 37.5 gwei to 1619 gwei. The highest burning block during this period burned 49.74 ETH. 
-date: 2021-08-10 1628635322 
-categories: reddit 
---- 
-https://redd.it/p204q6
