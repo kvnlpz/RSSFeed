@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Instructions for those who were unaware of Reddit's migration to Arbitrum's L2 Network, here's how to get them back into your Reddit Vault. 
+date: 2021-08-12 1628822527 
+categories: reddit 
+--- 
+https://redd.it/p3eop7
