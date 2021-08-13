@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How'd you do on the CoinTest? Did you got lots of points? What's your ranking? 
-date: 2021-08-10 1628641580 
-categories: reddit 
---- 
-https://redd.it/p21yop
