@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @quadrider44 
+date: 2021-08-13 08:39:06 
+categories: twitter 
+--- 
+RT @OddStockTrader: Finally got approval to turn on Tesla Solar!
+
+Time to geek out about the data.
