@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: EIP 3675 - Upgrade consensus to Proof-of-Stake. 
+date: 2021-08-13 1628872624 
+categories: reddit 
+--- 
+https://redd.it/p3os3j
