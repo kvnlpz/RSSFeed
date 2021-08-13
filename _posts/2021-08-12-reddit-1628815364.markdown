@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Here’s an article about some coin written by I’m not sure 
+date: 2021-08-12 1628815364 
+categories: reddit 
+--- 
+https://redd.it/p3csdk
