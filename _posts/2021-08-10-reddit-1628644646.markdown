@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why is ADA spiking? 
-date: 2021-08-10 1628644646 
-categories: reddit 
---- 
-https://redd.it/p22tda
