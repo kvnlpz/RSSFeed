@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: A look at how market sentiment on this sub correlates to Bitcoin's price. 
+date: 2021-08-12 1628813267 
+categories: reddit 
+--- 
+https://redd.it/p3c7pr
