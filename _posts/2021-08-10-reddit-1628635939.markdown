@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Instapass - a one time verification 
-date: 2021-08-10 1628635939 
-categories: reddit 
---- 
-https://redd.it/p20bjv
