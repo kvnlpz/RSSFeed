@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Adax offers censorship resistant DeFi via ADA 
-date: 2021-08-10 1628644523 
-categories: reddit 
---- 
-https://redd.it/p22s84
