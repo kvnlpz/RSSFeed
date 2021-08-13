@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @SeanLSquire 
+date: 2021-08-13 07:26:11 
+categories: twitter 
+--- 
+RT @nope_its_lily: I used to be rich but I accidentally sent all my money to my offline wallet and now it’s gone forever.
