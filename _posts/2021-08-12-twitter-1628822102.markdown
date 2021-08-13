@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @spac_fleet 
+date: 2021-08-12 19:35:02 
+categories: twitter 
+--- 
+@InvestorsLive nice!
