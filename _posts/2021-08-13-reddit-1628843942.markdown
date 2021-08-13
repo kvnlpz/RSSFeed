@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: [CCS Proposal] - xmrSale Payment Processor Development 
+date: 2021-08-13 1628843942 
+categories: reddit 
+--- 
+https://redd.it/p3ic8w
