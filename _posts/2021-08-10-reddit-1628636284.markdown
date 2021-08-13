@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: GUIDE + STORY: How to transfer MOON from Reddit to Metamask and viceversa. 
-date: 2021-08-10 1628636284 
-categories: reddit 
---- 
-https://redd.it/p20f7w
