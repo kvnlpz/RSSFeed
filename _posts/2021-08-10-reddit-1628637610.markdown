@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [RELEASE] Niftycase – Embed NFT Collection 
-date: 2021-08-10 1628637610 
-categories: reddit 
---- 
-https://redd.it/p20tv4
