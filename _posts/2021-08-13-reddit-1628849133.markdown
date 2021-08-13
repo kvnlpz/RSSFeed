@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PolyNetwork's Hacker Returns All Funds and Refuses a $500K Bug Bounty 
+date: 2021-08-13 1628849133 
+categories: reddit 
+--- 
+https://redd.it/p3kfuc
