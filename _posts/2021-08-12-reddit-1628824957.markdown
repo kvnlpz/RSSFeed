@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Why is Polygon taking care of Ethereum’s traffic but Ethereum itself isn’t ? 
+date: 2021-08-12 1628824957 
+categories: reddit 
+--- 
+https://redd.it/p3fbf7
