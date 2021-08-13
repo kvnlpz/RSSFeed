@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InterwebRando 
+date: 2021-08-12 22:52:22 
+categories: twitter 
+--- 
+@muddywatersre Because the smart people are idiots.
