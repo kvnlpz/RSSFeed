@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @timothysykes 
+date: 2021-08-13 11:26:12 
+categories: twitter 
+--- 
+RT @StocksToTrade: If you’re already over trading on a day like today, stare at this for a while instead.
+
+Don’t force trades when they are…
