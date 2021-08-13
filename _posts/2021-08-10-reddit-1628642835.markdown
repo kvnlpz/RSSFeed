@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What are some up-and-coming sharded projects? 
-date: 2021-08-10 1628642835 
-categories: reddit 
---- 
-https://redd.it/p22bcv
