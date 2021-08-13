@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: The Coin Perspective - A website to simulate coin price by using the marketcap of others. 
+date: 2021-08-13 1628876502 
+categories: reddit 
+--- 
+https://redd.it/p3q5hr
