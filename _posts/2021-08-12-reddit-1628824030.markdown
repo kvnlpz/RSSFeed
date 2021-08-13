@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Need help converting BEP2 to BEP20 on Trust Wallet 
+date: 2021-08-12 1628824030 
+categories: reddit 
+--- 
+https://redd.it/p3f2t9
