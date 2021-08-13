@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: does anyone know any defi applications that are trying to be built on top of cardano? or maybe any new layer 2 protocols ? 
+date: 2021-08-12 1628813957 
+categories: reddit 
+--- 
+https://redd.it/p3ceka
