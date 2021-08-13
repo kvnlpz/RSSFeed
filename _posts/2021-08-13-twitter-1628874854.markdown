@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @frasiertrades 
+date: 2021-08-13 10:14:14 
+categories: twitter 
+--- 
+@InvestorsLive Having to TWAP sell is goals
