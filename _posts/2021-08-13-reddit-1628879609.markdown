@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Something I put together to show moon prices if the market cap reached some of the top coins 
+date: 2021-08-13 1628879609 
+categories: reddit 
+--- 
+https://redd.it/p3r6jr
