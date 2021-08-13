@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @_log_scale_ 
+date: 2021-08-13 07:40:52 
+categories: twitter 
+--- 
+@nope_its_lily And hardware wallets just store private keys not the asset. The asset can be accessed without the ha… https://t.co/PVe9zqmiCU
