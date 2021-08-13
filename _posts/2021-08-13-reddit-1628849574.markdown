@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Getting started with new Ledger Nano X and Yoroi wallet - how to properly connect for staking? 
+date: 2021-08-13 1628849574 
+categories: reddit 
+--- 
+https://redd.it/p3kix1
