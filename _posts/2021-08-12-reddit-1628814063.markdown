@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Friendly reminder to always send a test transaction before sending a chunk of crypto 
+date: 2021-08-12 1628814063 
+categories: reddit 
+--- 
+https://redd.it/p3cfpk
