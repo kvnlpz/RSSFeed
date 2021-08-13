@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: GAINSFARM2 first DEX with 150x leverage on Polygon network leveraging Chainlink price feed oracles with no ICO 
-date: 2021-08-10 1628640801 
-categories: reddit 
---- 
-https://redd.it/p21r0s
