@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ConnorThornton 
+date: 2021-08-13 14:08:15 
+categories: twitter 
+--- 
+RT @CitronResearch: Citron Research discontinues short selling research  After 20 years of publishing Citron will no longer publish “short…
