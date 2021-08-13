@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Interesting snippet between Poly Network & the Hacker: Poly offers a $500k bounty (peanuts), and the Hacker suggests running a bounty program before redeploying—at this point, having any money on a smart contract that doesn't have a bounty program is like giving it away. 
+date: 2021-08-13 1628882911 
+categories: reddit 
+--- 
+https://redd.it/p3s8wh
