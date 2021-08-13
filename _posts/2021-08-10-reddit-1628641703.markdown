@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nervos Network joins Coinbase’s Rosetta to simplify blockchain integration 
-date: 2021-08-10 1628641703 
-categories: reddit 
---- 
-https://redd.it/p2202t
