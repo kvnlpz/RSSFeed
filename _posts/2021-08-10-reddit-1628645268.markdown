@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Stellar being used as rails for 17 BN remittance corridor between Thailand and Europe. 
-date: 2021-08-10 1628645268 
-categories: reddit 
---- 
-https://redd.it/p22zlr
