@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Once Bitcoin’s Taproot Upgrade is Implemented, How Will it Compare to Ethereum? 
+date: 2021-08-12 1628828383 
+categories: reddit 
+--- 
+https://redd.it/p3g6gi
