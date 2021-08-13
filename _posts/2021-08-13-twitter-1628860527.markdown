@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DylanJCommander 
+date: 2021-08-13 06:15:27 
+categories: twitter 
+--- 
+RT @InvestorsLive: Happy Friday the 13th 😉
