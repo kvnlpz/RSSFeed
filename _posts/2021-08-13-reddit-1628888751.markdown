@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ELI5 Hardware Wallet for the New folks here 
+date: 2021-08-13 1628888751 
+categories: reddit 
+--- 
+https://redd.it/p3u648
