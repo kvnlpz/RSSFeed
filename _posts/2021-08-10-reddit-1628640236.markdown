@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Received a two factor text verification code about "circle". Searching this pulls up a website related to crypto. Anyone know what this may be about and what I should be on the lookout for? 
-date: 2021-08-10 1628640236 
-categories: reddit 
---- 
-https://redd.it/p21l34
