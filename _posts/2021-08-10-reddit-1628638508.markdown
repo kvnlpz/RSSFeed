@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Says my email is verified when I click on the email 
-date: 2021-08-10 1628638508 
-categories: reddit 
---- 
-https://redd.it/p213by
