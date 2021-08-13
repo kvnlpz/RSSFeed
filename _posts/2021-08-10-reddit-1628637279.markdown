@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone ELI5 the infrastructure bill and what it means exactly? 
-date: 2021-08-10 1628637279 
-categories: reddit 
---- 
-https://redd.it/p20q6d
