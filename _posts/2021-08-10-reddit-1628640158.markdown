@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rules and rants 
-date: 2021-08-10 1628640158 
-categories: reddit 
---- 
-https://redd.it/p21kf8
