@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Yoroi wallet not connecting to server 
+date: 2021-08-13 1628894692 
+categories: reddit 
+--- 
+https://redd.it/p3w0vi
