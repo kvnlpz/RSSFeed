@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Reddit's testnet explorer for L2 Arbitrum 
+date: 2021-08-12 1628815526 
+categories: reddit 
+--- 
+https://redd.it/p3ctv6
