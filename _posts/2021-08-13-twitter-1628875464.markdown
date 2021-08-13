@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DSITrader 
+date: 2021-08-13 10:24:24 
+categories: twitter 
+--- 
+@MikeBellafiore Trading size is earned, not given.
