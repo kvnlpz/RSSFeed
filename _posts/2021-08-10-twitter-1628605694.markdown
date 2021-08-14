@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @206heartbeat 
-date: 2021-08-10 07:28:14 
-categories: twitter 
---- 
-RT @modern_rock: The Bad news: Nothing lasts forever. 
-The Good news: Nothing lasts forever. https://t.co/B2WPmcqRY2
