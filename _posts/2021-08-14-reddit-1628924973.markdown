@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Today a block with 5,000 transactions was mined, Segwit working as intended. 
+date: 2021-08-14 1628924973 
+categories: reddit 
+--- 
+https://redd.it/p3wz2d
