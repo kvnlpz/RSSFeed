@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @the_vee_aar 
-date: 2021-08-10 07:45:34 
-categories: twitter 
---- 
-@RayTL_ $CLF
