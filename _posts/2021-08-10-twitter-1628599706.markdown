@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nobadlyness 
-date: 2021-08-10 05:48:26 
-categories: twitter 
---- 
-@InvestorsLive $MRNA made the epic move already, from $100 to $500 this year.
