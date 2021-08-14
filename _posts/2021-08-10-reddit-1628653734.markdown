@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Palantir Has An Updated Website With A Clearer Message 
-date: 2021-08-10 1628653734 
-categories: reddit 
---- 
-https://redd.it/p259ez
