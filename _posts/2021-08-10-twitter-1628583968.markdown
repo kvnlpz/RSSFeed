@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tenmike 
-date: 2021-08-10 01:26:08 
-categories: twitter 
---- 
-@InvestorsLive everyone up at 4:00 AM buying $MVST ?
