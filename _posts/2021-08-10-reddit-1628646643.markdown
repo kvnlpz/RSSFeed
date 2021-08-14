@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The initial source of funds for Polynetwork's 600 MM USD hack was from XMR 
-date: 2021-08-10 1628646643 
-categories: reddit 
---- 
-https://redd.it/p23cwf
