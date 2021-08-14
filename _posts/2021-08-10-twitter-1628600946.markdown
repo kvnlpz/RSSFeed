@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Go80972705 
-date: 2021-08-10 06:09:06 
-categories: twitter 
---- 
-@timothysykes So bad !!!
