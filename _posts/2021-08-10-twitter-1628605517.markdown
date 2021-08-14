@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cazalex23 
-date: 2021-08-10 07:25:17 
-categories: twitter 
---- 
-@timothysykes I can’t buy it anywhere
