@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Here's a list of Twitter accounts for on-chart TA 
-date: 2021-08-10 1628655130 
-categories: reddit 
---- 
-https://redd.it/p25mc0
