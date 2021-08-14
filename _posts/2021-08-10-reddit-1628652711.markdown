@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hello everyone . . . 
-date: 2021-08-10 1628652711 
-categories: reddit 
---- 
-https://redd.it/p24zvc
