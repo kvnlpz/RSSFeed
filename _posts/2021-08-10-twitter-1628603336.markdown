@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @awells1975 
-date: 2021-08-10 06:48:56 
-categories: twitter 
---- 
-@timothysykes Holy cow!
