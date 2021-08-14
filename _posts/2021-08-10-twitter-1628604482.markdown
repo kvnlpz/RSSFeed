@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ArcaneIndie 
-date: 2021-08-10 07:08:02 
-categories: twitter 
---- 
-@InvestorsLive You're thinking it'll tank even more tomorrow?
