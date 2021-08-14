@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @AWice 
+date: 2021-08-13 19:03:11 
+categories: twitter 
+--- 
+@nope_its_lily I Prefer Penguins.
