@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Is there a Lightning wallet I can stake from? 
-date: 2021-08-10 1628661704 
-categories: reddit 
---- 
-https://redd.it/p274up
