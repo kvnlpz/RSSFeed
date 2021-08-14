@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: We're all thinking it... 
-date: 2021-08-10 1628646959 
-categories: reddit 
---- 
-https://redd.it/p23fx4
