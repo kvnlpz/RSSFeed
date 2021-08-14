@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Open Chat 
-date: 2021-08-10 1628657162 
-categories: reddit 
---- 
-https://redd.it/p263vs
