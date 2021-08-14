@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SHIB vs SHIB/BNB 
-date: 2021-08-10 1628651458 
-categories: reddit 
---- 
-https://redd.it/p24oay
