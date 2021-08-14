@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Interesting paper on The Quantum Threat to Bitcoin (courtesy of Arqit research) 
+date: 2021-08-14 1628967507 
+categories: reddit 
+--- 
+https://redd.it/p4dvz9
