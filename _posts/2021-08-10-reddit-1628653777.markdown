@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How do you know when gas fees are low? 
-date: 2021-08-10 1628653777 
-categories: reddit 
---- 
-https://redd.it/p259rc
