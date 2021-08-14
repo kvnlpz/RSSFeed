@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fuzzycapital 
-date: 2021-08-10 05:12:34 
-categories: twitter 
---- 
-RT @nope_its_lily: that's it
-this is the best tweet i've ever seen
-doing TA on GEX https://t.co/uqMMGZ5sXm
