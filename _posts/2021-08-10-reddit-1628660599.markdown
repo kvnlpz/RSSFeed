@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Do not transfer Moons to an exchange 
-date: 2021-08-10 1628660599 
-categories: reddit 
---- 
-https://redd.it/p26w0a
