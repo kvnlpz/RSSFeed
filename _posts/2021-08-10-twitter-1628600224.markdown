@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-10 05:57:04 
-categories: twitter 
---- 
-$MVST #1 stock mentioned on @wallstreetbets : https://t.co/6cYBaElU9h
