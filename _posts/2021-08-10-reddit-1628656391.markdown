@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Another cross-chain bridge contract hack, cryptos worth of millions stolen - PolyNetwork 
-date: 2021-08-10 1628656391 
-categories: reddit 
---- 
-https://redd.it/p246yf
