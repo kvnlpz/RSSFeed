@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ECCarolan 
+date: 2021-08-14 12:22:31 
+categories: twitter 
+--- 
+@nope_its_lily That, my dear, is impossible.  You would have to be an automaton.  Nice disclaimer.
