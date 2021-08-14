@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-10 06:33:46 
-categories: twitter 
---- 
-https://t.co/pYixPzIRiV Dip buy!
