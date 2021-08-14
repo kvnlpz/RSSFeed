@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @marketwizard87 
-date: 2021-08-10 03:01:53 
-categories: twitter 
---- 
-@alphatrends and you don't use #Elliottwave?
