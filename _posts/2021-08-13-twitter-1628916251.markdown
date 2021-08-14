@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @great_dix 
+date: 2021-08-13 21:44:11 
+categories: twitter 
+--- 
+@timothysykes Studying and working!  I'm happy about that!
