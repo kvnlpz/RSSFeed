@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @blowsitstacks 
+date: 2021-08-13 17:00:31 
+categories: twitter 
+--- 
+@OddStockTrader lmao
