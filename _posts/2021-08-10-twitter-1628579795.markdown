@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GoLongNotShort 
-date: 2021-08-10 00:16:35 
-categories: twitter 
---- 
-@nope_its_lily The useless info provided is universe material.
