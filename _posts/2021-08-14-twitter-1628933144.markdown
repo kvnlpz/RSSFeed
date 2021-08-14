@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @KevinVandermee1 
+date: 2021-08-14 02:25:44 
+categories: twitter 
+--- 
+RT @nope_its_lily: @Michigandolf The answer is no, because there's no real storage costs. A negative VIX would imply a negative IV essentia…
