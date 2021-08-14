@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @SockstheC 
+date: 2021-08-14 11:12:43 
+categories: twitter 
+--- 
+@nope_its_lily @kairyssdal 
+
+This is a great post.
