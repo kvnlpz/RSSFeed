@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: For all those worried about your balances on Yoroi and Daedalus, here’s a way to check without the wallet application. 
+date: 2021-08-13 1628912112 
+categories: reddit 
+--- 
+https://redd.it/p40lr3
