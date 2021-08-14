@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Sent ADA from my Bittrex wallet to trust wallet CardanoBEP2 and now it’s stuck in limbo. Did I use the wrong network? Is there any chance of recovering it? Please help! 
+date: 2021-08-14 1628935361 
+categories: reddit 
+--- 
+https://redd.it/p451nx
