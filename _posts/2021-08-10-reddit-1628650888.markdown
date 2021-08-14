@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What can I do with my portfolio/trade CSV? 
-date: 2021-08-10 1628650888 
-categories: reddit 
---- 
-https://redd.it/p24ikh
