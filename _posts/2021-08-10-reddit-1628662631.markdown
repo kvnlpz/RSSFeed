@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto Series #2 Why is it called a Blockchain 
-date: 2021-08-10 1628662631 
-categories: reddit 
---- 
-https://redd.it/p27c7w
