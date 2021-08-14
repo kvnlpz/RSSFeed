@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Vinestain 
-date: 2021-08-10 05:41:32 
-categories: twitter 
---- 
-@InvestorsLive seriously setting up for an epic move
