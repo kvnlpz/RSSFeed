@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Charles Hoskinson explaining when and how smart contracts will work on ADA Cardano. 
-date: 2021-08-10 1628653827 
-categories: reddit 
---- 
-https://redd.it/p25aa4
