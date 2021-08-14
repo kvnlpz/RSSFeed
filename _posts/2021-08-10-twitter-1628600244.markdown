@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Trader_A_Milli 
-date: 2021-08-10 05:57:24 
-categories: twitter 
---- 
-RT @timothysykes: https://t.co/WAQDXCMsl4 @holtzy haha its good t be hard on yourself, that's how you improve over time!
