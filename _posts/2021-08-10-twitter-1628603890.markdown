@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-10 06:58:10 
-categories: twitter 
---- 
-$ZEV giving shorts the "lightning" treatment
