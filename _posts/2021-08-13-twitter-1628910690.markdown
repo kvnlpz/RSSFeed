@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @PauIScoIardi 
+date: 2021-08-13 20:11:30 
+categories: twitter 
+--- 
+RT @super_trades: $MVST 89% borrow fee at IB
