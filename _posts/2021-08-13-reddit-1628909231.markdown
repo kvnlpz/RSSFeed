@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Augur will integrate it's prediction market into Twitter via Mask Network 
+date: 2021-08-13 1628909231 
+categories: reddit 
+--- 
+https://redd.it/p3zw5s
