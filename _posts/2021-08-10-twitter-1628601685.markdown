@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-10 06:21:25 
-categories: twitter 
---- 
-@Sus_trader I’ll post after market open.
