@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I created cctrending.com, a site that tracks trending coins in r/CryptoCurrency. 
+date: 2021-08-14 1628937479 
+categories: reddit 
+--- 
+https://redd.it/p45q5c
