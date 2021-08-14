@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-10 04:33:18 
-categories: twitter 
---- 
-@5against3 🤷‍♂️
