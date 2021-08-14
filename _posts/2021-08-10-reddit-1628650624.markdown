@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Fake vaccination certificates emphasize the need for blockchain-based solutions 
-date: 2021-08-10 1628650624 
-categories: reddit 
---- 
-https://redd.it/p24g2k
