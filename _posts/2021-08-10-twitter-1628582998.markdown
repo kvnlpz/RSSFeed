@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Nemesis_Alert 
-date: 2021-08-10 01:09:58 
-categories: twitter 
---- 
-RT @muddywatersre: Really enjoyed my @BloombergTV interview this am with @lisaabramowicz1 - got to go into some root cause of the dysfuncti…
