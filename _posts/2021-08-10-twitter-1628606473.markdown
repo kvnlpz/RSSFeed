@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scraffycoco3 
-date: 2021-08-10 07:41:13 
-categories: twitter 
---- 
-@RayTL_ any tips on where to track IPOs?
