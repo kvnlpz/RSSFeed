@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mikechean 
+date: 2021-08-13 19:57:16 
+categories: twitter 
+--- 
+@timothysykes Could you go over how you create a watch list
