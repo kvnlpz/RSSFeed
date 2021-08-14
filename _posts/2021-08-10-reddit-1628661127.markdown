@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can anyone explain the extra cost of buying XMR on LocalMonero? 
-date: 2021-08-10 1628661127 
-categories: reddit 
---- 
-https://redd.it/p1ztyo
