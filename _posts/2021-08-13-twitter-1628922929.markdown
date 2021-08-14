@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @MasriZura 
+date: 2021-08-13 23:35:29 
+categories: twitter 
+--- 
+RT @InvestorsLive: As you progress as a trader and trade more size - consider TWAP'ing your exits - saves you time and allows you more focu…
