@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cardano ADA - Yoroi Wallet Setup and Delegate to stake pool 
+date: 2021-08-13 1628906947 
+categories: reddit 
+--- 
+https://redd.it/p3zbrr
