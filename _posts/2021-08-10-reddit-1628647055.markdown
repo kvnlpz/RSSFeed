@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ‘Twas the night before distribution day 
-date: 2021-08-10 1628647055 
-categories: reddit 
---- 
-https://redd.it/p23got
