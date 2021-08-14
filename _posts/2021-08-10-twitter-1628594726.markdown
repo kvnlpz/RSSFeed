@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @5against3 
-date: 2021-08-10 04:25:26 
-categories: twitter 
---- 
-@InvestorsLive Wait, you're not 251,000 of the 251,899 traded as of writing?
