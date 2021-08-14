@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GlenCressman 
-date: 2021-08-10 03:04:30 
-categories: twitter 
---- 
-@InvestorsLive Let’s go
