@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can I build my own Lightning Node with little technical skills? 
+date: 2021-08-14 1628968125 
+categories: reddit 
+--- 
+https://redd.it/p4e2zf
