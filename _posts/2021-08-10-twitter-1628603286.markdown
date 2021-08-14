@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ccmayerstl 
-date: 2021-08-10 06:48:06 
-categories: twitter 
---- 
-@InvestorsLive Would have enjoyed listening
