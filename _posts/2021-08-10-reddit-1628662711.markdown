@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Any recomendations to start? 
-date: 2021-08-10 1628662711 
-categories: reddit 
---- 
-https://redd.it/p27csz
