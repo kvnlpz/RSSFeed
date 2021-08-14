@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Gringotuanis 
+date: 2021-08-13 17:19:59 
+categories: twitter 
+--- 
+@timothysykes Can you be succinct?
