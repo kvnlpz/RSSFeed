@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kirkminburner 
-date: 2021-08-10 05:37:14 
-categories: twitter 
---- 
-RT @nope_its_lily: i cannot wait for 2028 when our vote will be deciding between a blueberry guy and a cat in a hazmat suit, and the dark h…
