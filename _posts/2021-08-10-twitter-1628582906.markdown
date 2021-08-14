@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @f1r2e3e4H5K6 
-date: 2021-08-10 01:08:26 
-categories: twitter 
---- 
-RT @muddywatersre: Really enjoyed my @BloombergTV interview this am with @lisaabramowicz1 - got to go into some root cause of the dysfuncti…
