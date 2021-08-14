@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Interview with ErgoDEX, a decentralized exchange on Ergo 
+date: 2021-08-14 1628942154 
+categories: reddit 
+--- 
+https://redd.it/p46o7g
