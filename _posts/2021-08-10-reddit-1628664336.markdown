@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: With smart contracts looming, where do you recommend to discover up-and-coming projects built on Cardano? 
-date: 2021-08-10 1628664336 
-categories: reddit 
---- 
-https://redd.it/p27p2n
