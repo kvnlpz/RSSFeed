@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How the Poly Network hack actually worked - its pretty genius 
-date: 2021-08-10 1628662189 
-categories: reddit 
---- 
-https://redd.it/p26xap
