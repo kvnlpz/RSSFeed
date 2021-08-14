@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-10 06:50:11 
-categories: twitter 
---- 
-@ccmayerstl Why couldn't you? Play the replay.
