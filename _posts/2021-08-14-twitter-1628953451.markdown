@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @choffstein 
+date: 2021-08-14 08:04:11 
+categories: twitter 
+--- 
+@nope_its_lily Lily “I’m Going to Write a Post About It” Francus
