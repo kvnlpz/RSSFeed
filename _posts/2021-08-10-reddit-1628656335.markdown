@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What's Your Favorite Exchange and Why? 
-date: 2021-08-10 1628656335 
-categories: reddit 
---- 
-https://redd.it/p25wvu
