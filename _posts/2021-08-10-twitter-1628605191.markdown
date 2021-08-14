@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DBclouds99 
-date: 2021-08-10 07:19:51 
-categories: twitter 
---- 
-@markflowchatter trendforce?
