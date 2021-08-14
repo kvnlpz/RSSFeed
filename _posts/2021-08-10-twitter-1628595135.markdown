@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-10 04:32:15 
-categories: twitter 
---- 
-@5against3 Sorry not understanding your point - are you trying to suggest that's good liquidity or something?
