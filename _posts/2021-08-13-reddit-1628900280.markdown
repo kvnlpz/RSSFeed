@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: PSA: There’s been a huge uptick in reports on /r/Coinbase of frozen accounts, missing coins, and vanishing transactions. Reminder to beware where you keep your funds (whether crypto or fiat). Also a good time to double check to make sure your Coinbase account is squared away 
+date: 2021-08-13 1628900280 
+categories: reddit 
+--- 
+https://redd.it/p3xmj9
