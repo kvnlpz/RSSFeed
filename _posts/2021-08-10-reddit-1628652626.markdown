@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Honestly with implementation of EIP 1559 I expected alot more fluctuation, could we see unexpected reactionary price inflation? 
-date: 2021-08-10 1628652626 
-categories: reddit 
---- 
-https://redd.it/p24z0j
