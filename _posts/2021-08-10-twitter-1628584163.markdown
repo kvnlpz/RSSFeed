@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ravenous_baby 
-date: 2021-08-10 01:29:23 
-categories: twitter 
---- 
-@nope_its_lily This is your most degenerate tweet yet
