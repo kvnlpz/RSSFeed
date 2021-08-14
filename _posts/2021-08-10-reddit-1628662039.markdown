@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can somebody help me understand why my tx is stuck? ty :) 
-date: 2021-08-10 1628662039 
-categories: reddit 
---- 
-https://redd.it/p277h6
