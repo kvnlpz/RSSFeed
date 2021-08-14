@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Crypto for dummies 
-date: 2021-08-10 1628652139 
-categories: reddit 
---- 
-https://redd.it/p24um4
