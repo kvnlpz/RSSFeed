@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nvidia’s tiny RTX A2000 GPU can fit inside a small form factor PC 
-date: 2021-08-10 1628657240 
-categories: reddit 
---- 
-https://redd.it/p264k8
