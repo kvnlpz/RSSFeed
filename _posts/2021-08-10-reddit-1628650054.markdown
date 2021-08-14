@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: What’s up with AMP? 
-date: 2021-08-10 1628650054 
-categories: reddit 
---- 
-https://redd.it/p24ah1
