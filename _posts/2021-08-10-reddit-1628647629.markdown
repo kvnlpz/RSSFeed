@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PolyNetwork was hacked, and $600 million worth of crypto was stolen in the biggest hack in DeFi. 
-date: 2021-08-10 1628647629 
-categories: reddit 
---- 
-https://redd.it/p23mrc
