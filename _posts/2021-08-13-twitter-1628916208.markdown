@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @great_dix 
+date: 2021-08-13 21:43:28 
+categories: twitter 
+--- 
+@timothysykes Proudly paper traded!
