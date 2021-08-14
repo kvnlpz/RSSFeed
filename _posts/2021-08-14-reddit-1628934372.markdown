@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How do you know the address shown on your hardware wallet belongs to you? 
+date: 2021-08-14 1628934372 
+categories: reddit 
+--- 
+https://redd.it/p4558o
