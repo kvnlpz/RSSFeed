@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cyndi_atkinson 
-date: 2021-08-10 04:30:07 
-categories: twitter 
---- 
-RT @super_trades: $TDAC starting to stretch out pre-game
