@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jesse_lajoie 
-date: 2021-08-10 06:20:08 
-categories: twitter 
---- 
-RT @nope_its_lily: i cannot wait for 2028 when our vote will be deciding between a blueberry guy and a cat in a hazmat suit, and the dark h…
