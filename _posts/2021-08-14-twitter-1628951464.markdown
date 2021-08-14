@@ -1,0 +1,12 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-14 07:31:04 
+categories: twitter 
+--- 
+RT @Batarseh1995: I just can't wrap my head around why #Cardano is #4 by marketcap with $65 Billion.
+
+No smart-contracts, 200 TPS
+$ADA 🤔
+
+#…
