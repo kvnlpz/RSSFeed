@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: It’s Time to Fight 
-date: 2021-08-10 1628656095 
-categories: reddit 
---- 
-https://redd.it/p25uom
