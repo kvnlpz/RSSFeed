@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is anyone aware of projects trying to create decentralized password managers on smart contracts? 
+date: 2021-08-14 1628968358 
+categories: reddit 
+--- 
+https://redd.it/p4e5di
