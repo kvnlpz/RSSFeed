@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ItsAirplaneJane 
+date: 2021-08-14 11:17:51 
+categories: twitter 
+--- 
+RT @alphatrends: Earnings calendar remains busy this week https://t.co/XyecEhcDp5
