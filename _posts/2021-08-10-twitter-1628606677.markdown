@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @imbrue001 
-date: 2021-08-10 07:44:37 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/O3hANLLB1d
