@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @unusual_whales 
+date: 2021-08-14 11:20:20 
+categories: twitter 
+--- 
+@nope_its_lily Great post lily. Glad to see you writing again.
+
+Excited for the more mathematical version of regret. (Lol)
