@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH competitors 
-date: 2021-08-10 1628653278 
-categories: reddit 
---- 
-https://redd.it/p2557p
