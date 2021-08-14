@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Akram_Alashari 
+date: 2021-08-13 20:01:46 
+categories: twitter 
+--- 
+RT @InvestorsLive: How to Build a Day Trading Computer (+ A Look at My Setup) https://t.co/iVnoHpYIs5 https://t.co/ox1Y5yIS9T
