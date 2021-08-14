@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bmoney1017 
-date: 2021-08-10 07:29:26 
-categories: twitter 
---- 
-@nope_its_lily This is why you are great, lily.
