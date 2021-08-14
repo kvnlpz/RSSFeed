@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Attempting to find the tokenomics of Moons. According to MoonSwap the total supply is 68.5 million moons, is the supply fixed and is there a Moons richest wallets list? 
-date: 2021-08-10 1628663566 
-categories: reddit 
---- 
-https://redd.it/p27jax
