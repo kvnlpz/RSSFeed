@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Beautiful Monero Art 
-date: 2021-08-10 1628661083 
-categories: reddit 
---- 
-https://redd.it/p1zapj
