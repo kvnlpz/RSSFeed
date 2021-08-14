@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: After reading a post here about some dude guessing seed phrase, how can I be sure that someone wont guess mine? 
+date: 2021-08-14 1628966007 
+categories: reddit 
+--- 
+https://redd.it/p4dgac
