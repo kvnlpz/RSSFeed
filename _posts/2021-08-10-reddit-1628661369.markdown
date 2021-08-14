@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Communication between Hubs and Zones? 
-date: 2021-08-10 1628661369 
-categories: reddit 
---- 
-https://redd.it/p271z7
