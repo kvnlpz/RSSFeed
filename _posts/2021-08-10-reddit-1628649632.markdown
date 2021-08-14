@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Can someone explain to me like I’m 5? 
-date: 2021-08-10 1628649632 
-categories: reddit 
---- 
-https://redd.it/p246de
