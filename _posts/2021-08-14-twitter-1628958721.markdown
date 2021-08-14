@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-14 09:32:01 
+categories: twitter 
+--- 
+Also I was able to invoke Bayesian reasoning so that's always fun.
