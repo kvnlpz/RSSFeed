@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Yoroi Wallet Missing Mnemonic Word 
+date: 2021-08-13 1628899581 
+categories: reddit 
+--- 
+https://redd.it/p3xfl3
