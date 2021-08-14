@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Mining PC as a Bitcoin Lightning Node 
+date: 2021-08-14 1628961383 
+categories: reddit 
+--- 
+https://redd.it/p4c1tw
