@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: QR support for tipping moons inside the reddit app. 
+date: 2021-08-14 1628957505 
+categories: reddit 
+--- 
+https://redd.it/p4auyx
