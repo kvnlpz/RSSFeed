@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Twas the night before moonmas... 
-date: 2021-08-10 1628646763 
-categories: reddit 
---- 
-https://redd.it/p23dxh
