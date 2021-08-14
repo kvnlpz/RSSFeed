@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MahdiMo7ammad 
-date: 2021-08-10 01:02:57 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade This is really Motivating !
