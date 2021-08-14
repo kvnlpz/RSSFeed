@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @akatz000 
-date: 2021-08-10 07:45:23 
-categories: twitter 
---- 
-@nope_its_lily throwback
