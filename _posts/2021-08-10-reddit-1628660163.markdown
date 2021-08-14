@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Basics of ER betting 
-date: 2021-08-10 1628660163 
-categories: reddit 
---- 
-https://redd.it/p26sfp
