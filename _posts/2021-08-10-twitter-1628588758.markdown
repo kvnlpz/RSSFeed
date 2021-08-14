@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DeclanMoloney99 
-date: 2021-08-10 02:45:58 
-categories: twitter 
---- 
-@nope_its_lily Yes.
