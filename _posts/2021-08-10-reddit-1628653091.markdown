@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Poly Network loses $611 million in biggest ever DeFi hack 
-date: 2021-08-10 1628653091 
-categories: reddit 
---- 
-https://redd.it/p253ga
