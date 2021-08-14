@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Hi. Anyone can tell me why this happens? The uphold balance is 0. While it says 1.5 Bat for August I got only 0.25. 
+date: 2021-08-14 1628966163 
+categories: reddit 
+--- 
+https://redd.it/p4dhzx
