@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Starting out mining crypto 
-date: 2021-08-10 1628661474 
-categories: reddit 
---- 
-https://redd.it/p272s4
