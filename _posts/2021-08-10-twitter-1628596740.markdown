@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-10 04:59:00 
-categories: twitter 
---- 
-@david_9illies @MarketSmith no, stop market for highly liquid and limit if liquidity is "limited"
