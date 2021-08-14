@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Smart Contracts and NFTs via Federated Sidechains on the XRPL...wow! 
-date: 2021-08-10 1628647523 
-categories: reddit 
---- 
-https://redd.it/p23ls6
