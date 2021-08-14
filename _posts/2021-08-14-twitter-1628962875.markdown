@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DanielCanueto 
+date: 2021-08-14 10:41:15 
+categories: twitter 
+--- 
+RT @sosofancy: My interview in today's @FT on how ESG is becoming a smokescreen to justify maintaining the status quo, thus slowing our res…
