@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Chico Crypto basically claiming the upcoming smart contract release can only run hello world or very simple applications. This seems wrong to me. 
+date: 2021-08-14 1628946896 
+categories: reddit 
+--- 
+https://redd.it/p47t9d
