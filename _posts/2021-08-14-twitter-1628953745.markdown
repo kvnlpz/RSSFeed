@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @floriantraun 
+date: 2021-08-14 08:09:05 
+categories: twitter 
+--- 
+RT @nope_its_lily: As a brief primer - transactions in crypto currencies are mapped on the public ledger (the blockchain). A wallet is esse…
