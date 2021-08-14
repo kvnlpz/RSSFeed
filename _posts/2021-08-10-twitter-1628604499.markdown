@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wetradeaz 
-date: 2021-08-10 07:08:19 
-categories: twitter 
---- 
-@InvestorsLive Did you trade it for that $30+?
