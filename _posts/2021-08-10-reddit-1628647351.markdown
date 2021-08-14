@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My parents bought their first tokens. 
-date: 2021-08-10 1628647351 
-categories: reddit 
---- 
-https://redd.it/p23jw4
