@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: New ADA holder, can someone explain what the new hardfork will do? 
-date: 2021-08-10 1628663295 
-categories: reddit 
---- 
-https://redd.it/p27h66
