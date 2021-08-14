@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum supply flips into deflation as gas fees spike 
-date: 2021-08-10 1628658202 
-categories: reddit 
---- 
-https://redd.it/p26cnv
