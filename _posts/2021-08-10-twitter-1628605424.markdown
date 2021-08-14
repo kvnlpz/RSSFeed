@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @meirlandau10 
-date: 2021-08-10 07:23:44 
-categories: twitter 
---- 
-@RayTL_ How long would you say $SNAP failure is normal?
