@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Candlestick Charts 
-date: 2021-08-10 1628658418 
-categories: reddit 
---- 
-https://redd.it/p26eir
