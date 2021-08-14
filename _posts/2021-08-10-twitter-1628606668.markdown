@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-08-10 07:44:28 
-categories: twitter 
---- 
-RT @RayTL_: @RichardMoglen Thou shalt viciously rotate today into Retail/Steel
