@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @01stocksavage 
-date: 2021-08-10 07:00:00 
-categories: twitter 
---- 
-RT @InvestorsLive: $ZEV giving shorts the "lightning" treatment
