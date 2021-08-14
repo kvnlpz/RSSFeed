@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MilianoAnthony 
-date: 2021-08-10 06:09:23 
-categories: twitter 
---- 
-@timothysykes Good morning Tim
