@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Explain Bitcoin to me as if we're a 5 year old? 
-date: 2021-08-11 1628666599 
-categories: reddit 
---- 
-https://redd.it/p285pn
