@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @InvestorsLive 
+date: 2021-08-15 10:04:39 
+categories: twitter 
+--- 
+@FishandFungi Linear regression lines just add them on DAS
