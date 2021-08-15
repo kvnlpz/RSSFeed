@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dinohyus1 
-date: 2021-08-10 13:31:37 
-categories: twitter 
---- 
-@alphatrends There is mine!!! https://t.co/auY6l9oZDV
