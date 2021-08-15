@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PapaKUV 
-date: 2021-08-10 11:23:21 
-categories: twitter 
---- 
-@InvestorsLive Jim cramer
