@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: When Ethereum 2.0 is launched, will that make Layer 2 services like Polygon (MATIC) less useful or needed? 
+date: 2021-08-15 1629049496 
+categories: reddit 
+--- 
+https://redd.it/p4y2ru
