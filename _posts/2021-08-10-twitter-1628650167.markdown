@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @911Station 
-date: 2021-08-10 19:49:27 
-categories: twitter 
---- 
-RT @kroyrunner89: Curious if anyone has a good method they use to measure overall market activity... like if they wanted to apply some firm…
