@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RobZavertnik 
-date: 2021-08-10 19:01:00 
-categories: twitter 
---- 
-@nope_its_lily The successful ICO paradox—devs and stakeholders get rich AF too early and move on.
