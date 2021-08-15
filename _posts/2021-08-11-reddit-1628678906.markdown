@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: No, your initial "free" upvote doesn't count 
-date: 2021-08-11 1628678906 
-categories: reddit 
---- 
-https://redd.it/p29we9
