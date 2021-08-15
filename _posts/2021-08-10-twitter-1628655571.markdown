@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cliftonk 
-date: 2021-08-10 21:19:31 
-categories: twitter 
---- 
-@nope_its_lily does anyone know what NFT project did the jpegs of rocks
