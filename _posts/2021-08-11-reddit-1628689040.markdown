@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Tezos Aliens Farm development status: AMM and combo rewards 
-date: 2021-08-11 1628689040 
-categories: reddit 
---- 
-https://redd.it/p2d7ue
