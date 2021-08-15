@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @clown_honky 
-date: 2021-08-10 14:49:57 
-categories: twitter 
---- 
-@InvestorsLive Me. Promise!!!
