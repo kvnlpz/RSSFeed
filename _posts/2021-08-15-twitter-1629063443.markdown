@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @imperative_the 
+date: 2021-08-15 14:37:23 
+categories: twitter 
+--- 
+RT @nope_its_lily: @mpp75214 The liquidity value is actually the expectancy of all future buyers/sellers willing to transact at given price…
