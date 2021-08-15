@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-10 15:55:38 
-categories: twitter 
---- 
-@DanN94011656 it is "interesting info" but wouldn't treat it as a blueprint for what to expect
-thnx for sharing
