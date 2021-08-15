@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Question] Where is there such a large discrepancy (~ $800) between my Binance and CryptoPro balances? 
-date: 2021-08-11 1628689542 
-categories: reddit 
---- 
-https://redd.it/p2dd32
