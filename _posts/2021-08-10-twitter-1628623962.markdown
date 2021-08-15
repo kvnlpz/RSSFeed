@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JimseeQi 
-date: 2021-08-10 12:32:42 
-categories: twitter 
---- 
-@super_trades @wallstreetbets Still waiting for the pop
