@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Wags_Official 
-date: 2021-08-10 17:59:00 
-categories: twitter 
---- 
-@InvestorsLive Or at...no cost.
