@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Price Analysis: BTC moves to $45,000, rejects further upside? 
-date: 2021-08-11 1628679379 
-categories: reddit 
---- 
-https://redd.it/p2apxs
