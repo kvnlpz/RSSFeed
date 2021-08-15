@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Vaybor 
-date: 2021-08-10 07:54:09 
-categories: twitter 
---- 
-@InvestorsLive im so confused by these cryptic tweets
