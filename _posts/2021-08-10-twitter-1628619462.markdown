@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dancioloca 
-date: 2021-08-10 11:17:42 
-categories: twitter 
---- 
-@super_trades @GabiMartinescu @WesleyBKress Anyone who takes the time to research the Lanceria will be satisfied la… https://t.co/PpM3cM3PII
