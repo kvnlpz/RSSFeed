@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Friday_F3 
-date: 2021-08-10 13:40:24 
-categories: twitter 
---- 
-@alphatrends https://t.co/OZBEaNpjiP
