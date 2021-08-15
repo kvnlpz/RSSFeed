@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wizardfiz 
-date: 2021-08-10 23:27:19 
-categories: twitter 
---- 
-@kroyrunner89 We use COTS data to track how institutions are positioned in the markets on a week to week basis. Its… https://t.co/71ylEClieg
