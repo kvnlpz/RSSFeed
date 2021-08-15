@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @waldo_iii 
-date: 2021-08-10 17:09:46 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/4FGexlWQmX
