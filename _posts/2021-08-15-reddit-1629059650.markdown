@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Are there any realistic option strategies that will outperform the s&p500, that’s also been backtested? 
+date: 2021-08-15 1629059650 
+categories: reddit 
+--- 
+https://redd.it/p516ya
