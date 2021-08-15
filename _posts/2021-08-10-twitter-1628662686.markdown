@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @elcukui 
-date: 2021-08-10 23:18:06 
-categories: twitter 
---- 
-@timothysykes Meeee
