@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-10 17:20:22 
-categories: twitter 
---- 
-@RichardMoglen @RossHaber_ @RayTL_ @Trader_mcaruso @1charts6 @PatternProfits @PatrickWalker56 @LeifSoreide… https://t.co/AemEj2Hufh
