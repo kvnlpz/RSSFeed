@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TradeHawk 
-date: 2021-08-10 14:08:01 
-categories: twitter 
---- 
-$HOTH Positive North Carolina State University article out on Hoth Therapeutics licensed technology titled "‘Frames… https://t.co/etMzAsZ7rS
