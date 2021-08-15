@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RiskyBiscuitss 
-date: 2021-08-10 20:58:41 
-categories: twitter 
---- 
-@kroyrunner89 Yeah maybe…a coder buddy made himself a scanner in trade station that counted the number of news arti… https://t.co/eiJYM8820W
