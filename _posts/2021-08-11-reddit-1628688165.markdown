@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Safety 
-date: 2021-08-11 1628688165 
-categories: reddit 
---- 
-https://redd.it/p2cyvh
