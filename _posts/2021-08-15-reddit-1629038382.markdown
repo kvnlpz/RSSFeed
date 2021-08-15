@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Another fun analysis: why is post-London chain capacity ~9% higher than it was before? - Vitalik's tweet 
+date: 2021-08-15 1629038382 
+categories: reddit 
+--- 
+https://redd.it/p4tz6c
