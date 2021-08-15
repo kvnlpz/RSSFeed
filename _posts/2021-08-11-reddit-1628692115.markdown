@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An extremely detailed breakdown of communications in between the hacker and Poly Network team & tracking of refunds 
-date: 2021-08-11 1628692115 
-categories: reddit 
---- 
-https://redd.it/p2e5pi
