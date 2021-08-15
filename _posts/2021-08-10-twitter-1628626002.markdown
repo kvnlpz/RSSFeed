@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-10 13:06:42 
-categories: twitter 
---- 
-RT @GabiMartinescu: @CoinTrendz $eGLD @ElrondNetwork The Internet Scale Blockchain set for mass adoption through high scalability, low cost…
