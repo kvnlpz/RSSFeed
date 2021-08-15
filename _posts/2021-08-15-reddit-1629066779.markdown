@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Microsoft Argus is an Ethereum based fully transparent program, which incentivizes the anonymous reporters of piracy with bounties 
+date: 2021-08-15 1629066779 
+categories: reddit 
+--- 
+https://redd.it/p53bn8
