@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ClaudioArriazab 
-date: 2021-08-10 17:46:58 
-categories: twitter 
---- 
-@alphatrends Do you have a PT? With the shares short % it is tempting to let it run more
