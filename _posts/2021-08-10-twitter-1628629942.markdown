@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Firstname_Joel 
-date: 2021-08-10 14:12:22 
-categories: twitter 
---- 
-@nope_its_lily @RedBenTrader Also to get that true proportion we need to be sure the data from both populations do… https://t.co/wVicfGXwSj
