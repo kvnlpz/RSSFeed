@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 16:34:00 
-categories: twitter 
---- 
-Would love to hear more about what's going on with someone who is more attuned, but Mango Markets is in the Solana ecosystem.
