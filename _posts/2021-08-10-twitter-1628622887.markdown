@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mikeyisback 
-date: 2021-08-10 12:14:47 
-categories: twitter 
---- 
-@InvestorsLive Well said!!
