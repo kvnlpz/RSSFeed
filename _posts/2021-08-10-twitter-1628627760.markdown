@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rettlerb 
-date: 2021-08-10 13:36:00 
-categories: twitter 
---- 
-@nope_its_lily I for one appreciate knowing this number. If 50% of people who were fully vaccinated got a breakthro… https://t.co/c7IFH129O4
