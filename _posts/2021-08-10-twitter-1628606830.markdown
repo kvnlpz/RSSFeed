@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mikel151mini 
-date: 2021-08-10 07:47:10 
-categories: twitter 
---- 
-@CitronResearch Like when you recommended $root in the teens… https://t.co/nhfHW4kUOu
