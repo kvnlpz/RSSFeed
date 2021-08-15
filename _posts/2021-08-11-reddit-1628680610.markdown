@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Warning about coinbase wallet 
-date: 2021-08-11 1628680610 
-categories: reddit 
---- 
-https://redd.it/p2b0h8
