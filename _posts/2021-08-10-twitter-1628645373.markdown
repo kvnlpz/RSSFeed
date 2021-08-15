@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CommercialGary 
-date: 2021-08-10 18:29:33 
-categories: twitter 
---- 
-@modern_rock @rpajam @DoorDash @DoorDash_Help I too order door dash when I am a hotel
