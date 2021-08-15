@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Beginning crypto from a beginner's perspective 
-date: 2021-08-11 1628686562 
-categories: reddit 
---- 
-https://redd.it/p2ci7z
