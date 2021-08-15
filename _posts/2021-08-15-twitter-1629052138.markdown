@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ctnuha_rd 
+date: 2021-08-15 11:28:58 
+categories: twitter 
+--- 
+RT @kroyrunner89: Got a new laptop with Windows 10, Java apps such as Equityfeed loading super tiny. Anyone know the fix? TIA
