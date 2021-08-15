@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @kroyrunner89 
-date: 2021-08-10 20:31:40 
-categories: twitter 
---- 
-thanks to everyone who chimed in!
