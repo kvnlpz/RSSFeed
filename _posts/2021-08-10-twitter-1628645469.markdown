@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MichaelNasdaq 
-date: 2021-08-10 18:31:09 
-categories: twitter 
---- 
-@InvestorsLive As the Wu Tang Clan suggested, Protect ya neck
