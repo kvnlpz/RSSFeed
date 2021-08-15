@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TraderItal 
-date: 2021-08-10 10:19:16 
-categories: twitter 
---- 
-@timothysykes Buon appetito amico mio! Dove siete? Positano?
