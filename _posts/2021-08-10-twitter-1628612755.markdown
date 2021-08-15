@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 09:25:55 
-categories: twitter 
---- 
-I just wanted to let everyone know I will not be seeking re-election for governor of NY either.
