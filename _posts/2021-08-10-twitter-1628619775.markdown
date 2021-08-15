@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Jason66Thomas 
-date: 2021-08-10 11:22:55 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/c9jVnVxjBr
