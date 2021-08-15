@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-10 11:39:10 
-categories: twitter 
---- 
-$MDIA more crack
