@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GuilleAngeris 
-date: 2021-08-10 14:47:40 
-categories: twitter 
---- 
-@nope_its_lily We all have our faults
