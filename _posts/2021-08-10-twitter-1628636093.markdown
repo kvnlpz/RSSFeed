@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DanN94011656 
-date: 2021-08-10 15:54:53 
-categories: twitter 
---- 
-@alphatrends https://t.co/d5b8NimwAB
