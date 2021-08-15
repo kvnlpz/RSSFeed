@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PiLogic 
-date: 2021-08-10 09:31:53 
-categories: twitter 
---- 
-RT @modern_rock: $BYSI 
-
-#MyInvestingClub https://t.co/A2DGPqztTB
