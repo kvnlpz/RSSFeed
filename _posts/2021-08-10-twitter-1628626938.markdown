@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-10 13:22:18 
-categories: twitter 
---- 
-@rosskennedy learn and get better, lock a little in and raise the stop
