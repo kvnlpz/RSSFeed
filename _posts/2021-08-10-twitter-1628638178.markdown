@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sensitivemag 
-date: 2021-08-10 16:29:38 
-categories: twitter 
---- 
-@nope_its_lily 76.3% of all statistics are made up on the spot.
-- Steven Wright
