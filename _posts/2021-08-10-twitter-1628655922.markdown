@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @laukidh 
-date: 2021-08-10 21:25:22 
-categories: twitter 
---- 
-RT @nope_its_lily: is this praxis?
