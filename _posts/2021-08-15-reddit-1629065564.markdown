@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Is it possible to run a "partial" archive node that only records historical state for certain specified accounts? 
+date: 2021-08-15 1629065564 
+categories: reddit 
+--- 
+https://redd.it/p52ywf
