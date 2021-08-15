@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: BAT Token Analysis | GraphSense 
-date: 2021-08-11 1628670151 
-categories: reddit 
---- 
-https://redd.it/p28ul9
