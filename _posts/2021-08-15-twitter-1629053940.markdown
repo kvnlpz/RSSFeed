@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @LeePacker2 
+date: 2021-08-15 11:59:00 
+categories: twitter 
+--- 
+@timothysykes What's the best trading software? Any experts care to weigh in there?
