@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ctnuha_rd 
+date: 2021-08-15 11:14:00 
+categories: twitter 
+--- 
+RT @kroyrunner89: anyone else having this issue on desktop, or is it just me?
