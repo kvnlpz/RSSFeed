@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mrCMCguy 
-date: 2021-08-10 09:37:49 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen Headline driven market. Love it.
