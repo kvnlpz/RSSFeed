@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tips for DCAing ? 
-date: 2021-08-11 1628681988 
-categories: reddit 
---- 
-https://redd.it/p2bce9
