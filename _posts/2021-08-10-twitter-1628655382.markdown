@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shiftyf6 
-date: 2021-08-10 21:16:22 
-categories: twitter 
---- 
-@kroyrunner89 Its August. 😓
