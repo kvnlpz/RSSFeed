@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JackTerrito 
-date: 2021-08-10 09:37:59 
-categories: twitter 
---- 
-@super_trades = Winners 🏆
-Thanks for the focus list and updates videos.  Becoming a member is the best decision of… https://t.co/Ow1uNp3Qsh
