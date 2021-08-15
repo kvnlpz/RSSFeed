@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Help testing Bitcoin Core v22.0 release candidate 
+date: 2021-08-15 1629050091 
+categories: reddit 
+--- 
+https://redd.it/p4y9cz
