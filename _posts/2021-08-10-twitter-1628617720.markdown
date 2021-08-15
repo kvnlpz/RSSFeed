@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CarvedR 
-date: 2021-08-10 10:48:40 
-categories: twitter 
---- 
-@InvestorsLive Probably, Waiting for Something magical to happen?
