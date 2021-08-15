@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: YOLO on the move 
-date: 2021-08-11 1628683017 
-categories: reddit 
---- 
-https://redd.it/p2blir
