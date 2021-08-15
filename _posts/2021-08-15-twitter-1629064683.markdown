@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @RayTL_ 
+date: 2021-08-15 14:58:03 
+categories: twitter 
+--- 
+@801010athlete Social Sentiment or just sentiment at play. Works well.
