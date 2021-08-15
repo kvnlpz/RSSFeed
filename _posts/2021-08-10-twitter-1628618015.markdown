@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @HospoGrunt 
-date: 2021-08-10 10:53:35 
-categories: twitter 
---- 
-@InvestorsLive Have you seen this market? Plenty penny stocks trading over $10,$15,$20+
