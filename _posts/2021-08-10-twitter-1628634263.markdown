@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BStillwell4 
-date: 2021-08-10 15:24:23 
-categories: twitter 
---- 
-@timothysykes I’ll be right there! Save some for me!
