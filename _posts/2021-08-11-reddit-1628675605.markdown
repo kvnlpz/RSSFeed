@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Punk Protocol (not related to Larvalabs and cryptopunks) got exploited losing $4 millions, how i almost enter but decided to not. 
-date: 2021-08-11 1628675605 
-categories: reddit 
---- 
-https://redd.it/p29wu7
