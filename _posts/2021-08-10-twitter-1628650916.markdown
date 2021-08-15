@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DarylZer0 
-date: 2021-08-10 20:01:56 
-categories: twitter 
---- 
-@kroyrunner89 Yes.
