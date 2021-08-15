@@ -1,0 +1,10 @@
+--- 
+layout: post 
+title: Tweet by @PocketPivot 
+date: 2021-08-15 10:59:30 
+categories: twitter 
+--- 
+RT @RayTL_: @Jacklifelearner Hi Jack, several ways to capture them on scans.
+
+1. Run a pure volume scan. Volume &gt;6-7M
+2. Move &gt; 20% on the…
