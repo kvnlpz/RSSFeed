@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Scaling solutions are the only thing keeping Ethereum from total gridlock. 
-date: 2021-08-11 1628666335 
-categories: reddit 
---- 
-https://redd.it/p283wu
