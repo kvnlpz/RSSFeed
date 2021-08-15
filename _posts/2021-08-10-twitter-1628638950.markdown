@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Ceredor 
-date: 2021-08-10 16:42:30 
-categories: twitter 
---- 
-@InvestorsLive Treasure Trolls we’re back in the day. https://t.co/c4es7ttNyZ
