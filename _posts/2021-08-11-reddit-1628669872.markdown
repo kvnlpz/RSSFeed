@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: My portfolio has started turning green after so long! 
-date: 2021-08-11 1628669872 
-categories: reddit 
---- 
-https://redd.it/p28sjw
