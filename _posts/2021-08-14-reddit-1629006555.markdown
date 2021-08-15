@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: generate Mnemonic and create Account 
+date: 2021-08-14 1629006555 
+categories: reddit 
+--- 
+https://redd.it/p4nx3e
