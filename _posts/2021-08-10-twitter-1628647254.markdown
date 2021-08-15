@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @media_quit 
-date: 2021-08-10 19:00:54 
-categories: twitter 
---- 
-@nope_its_lily I like it when I make trades based on old news.
