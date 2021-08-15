@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FluxCapacityInv 
-date: 2021-08-10 07:51:16 
-categories: twitter 
---- 
-@nope_its_lily That’s the entire money supply in no time.
