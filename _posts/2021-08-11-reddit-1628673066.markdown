@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Are these staking calculators accurate? 
-date: 2021-08-11 1628673066 
-categories: reddit 
---- 
-https://redd.it/p1w6bh
