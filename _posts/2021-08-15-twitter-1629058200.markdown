@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @BHillTrades 
+date: 2021-08-15 13:10:00 
+categories: twitter 
+--- 
+@OddStockTrader But it’s okay not to need an id to vote? 🤔
