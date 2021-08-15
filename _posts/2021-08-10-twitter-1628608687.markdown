@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ontheslabs 
-date: 2021-08-10 08:18:07 
-categories: twitter 
---- 
-@modern_rock @TBradley90 FULC might actually end up working too. https://t.co/0Lq1HnCjz7
