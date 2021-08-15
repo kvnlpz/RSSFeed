@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StarSteins 
-date: 2021-08-10 14:53:27 
-categories: twitter 
---- 
-@modern_rock Lol funny story
