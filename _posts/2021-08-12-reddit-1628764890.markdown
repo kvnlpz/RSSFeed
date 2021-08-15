@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Nobody cares about Cardano VS Ethereum 
-date: 2021-08-12 1628764890 
-categories: reddit 
---- 
-https://redd.it/p2x8yk
