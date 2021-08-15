@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eric_m_d 
-date: 2021-08-10 07:49:46 
-categories: twitter 
---- 
-@RayTL_ Solar (e.g., SHLS, ENPH)
