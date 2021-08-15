@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zeltser22 
-date: 2021-08-10 10:55:25 
-categories: twitter 
---- 
-@InvestorsLive Same way gme is still $150+.
