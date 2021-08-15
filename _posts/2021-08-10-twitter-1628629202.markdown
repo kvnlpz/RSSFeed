@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cnzbogdan 
-date: 2021-08-10 14:00:02 
-categories: twitter 
---- 
-RT @super_trades: well deserved @WesleyBKress and a must follow !!!
