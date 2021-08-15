@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tried to transfer ADA to Daedalus from Coinbase but it said i had to verify my ID for security purposes or wait til the 14th for it to go through. i had already submitted my ID before so i dont know why it asked. I just reuploaded my id to speed up the transfer but it still says to verify id. 
-date: 2021-08-11 1628686858 
-categories: reddit 
---- 
-https://redd.it/p2cl7o
