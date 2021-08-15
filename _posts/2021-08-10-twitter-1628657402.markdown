@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @sutliff_matt 
-date: 2021-08-10 21:50:02 
-categories: twitter 
---- 
-@nope_its_lily No, because all of the avatars look like Vaush.
