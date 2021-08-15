@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-15 09:39:18 
+categories: twitter 
+--- 
+@HayekAndKeynes "the value for an asset that a buyer would pay in the absence of any future buyer"
