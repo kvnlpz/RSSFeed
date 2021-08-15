@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Recharge.Finance Will Integrate Chainlink VRF to Secure Recharge Zap Reward Contracts 
-date: 2021-08-11 1628689991 
-categories: reddit 
---- 
-https://redd.it/p2dhq0
