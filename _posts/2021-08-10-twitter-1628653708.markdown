@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 20:48:28 
-categories: twitter 
---- 
-@KemonomichiNL Depends on what you're doing and how big your team is. And where the data is from. Also I'm 25.
