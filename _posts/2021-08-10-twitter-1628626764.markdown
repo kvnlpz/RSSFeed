@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rosskennedy 
-date: 2021-08-10 13:19:24 
-categories: twitter 
---- 
-@alphatrends I admit, I have been that fool many times.
