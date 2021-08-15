@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Cybercriminals spoof Brave browser website to push malware 
-date: 2021-08-11 1628666351 
-categories: reddit 
---- 
-https://redd.it/p2841m
