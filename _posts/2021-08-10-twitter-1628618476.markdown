@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lostlehmenbro 
-date: 2021-08-10 11:01:16 
-categories: twitter 
---- 
-@InvestorsLive never give up
