@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gabylanbarros 
-date: 2021-08-10 15:07:30 
-categories: twitter 
---- 
-@InvestorsLive Thank you for sharing great read
