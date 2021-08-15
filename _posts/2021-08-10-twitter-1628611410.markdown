@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FlyHighHobbies 
-date: 2021-08-10 09:03:30 
-categories: twitter 
---- 
-@InvestorsLive What are we doing?
