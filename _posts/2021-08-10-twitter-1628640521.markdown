@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @boondockTrader 
-date: 2021-08-10 17:08:41 
-categories: twitter 
---- 
-RT @MikeBellafiore: Interesting observation by a firm intern during our recent lunch:
-
-"All the traders at the firm keep themselves in good…
