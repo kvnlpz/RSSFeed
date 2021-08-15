@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Its_MontyT 
-date: 2021-08-10 16:39:14 
-categories: twitter 
---- 
-@nope_its_lily You have the option to withdrawal your bid for the next 24 hours and 20 minutes
