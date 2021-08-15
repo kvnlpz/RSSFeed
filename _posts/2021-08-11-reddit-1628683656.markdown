@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ADA does it right! 
-date: 2021-08-11 1628683656 
-categories: reddit 
---- 
-https://redd.it/p2br7v
