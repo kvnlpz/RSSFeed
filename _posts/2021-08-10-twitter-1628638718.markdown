@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @samputnamdotcom 
-date: 2021-08-10 16:38:38 
-categories: twitter 
---- 
-@kroyrunner89 average of top 10 gappers 10 day ADRs... just an idea...
