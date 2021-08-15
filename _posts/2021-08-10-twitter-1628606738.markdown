@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Darvasboxes 
-date: 2021-08-10 07:45:38 
-categories: twitter 
---- 
-@RayTL_ $DKNG
