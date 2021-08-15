@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GlossyEyes 
-date: 2021-08-11 11:10:56 
-categories: twitter 
---- 
-@nope_its_lily Twitter will be active after Labor Day
