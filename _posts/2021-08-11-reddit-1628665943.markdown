@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Problem with Ethereum 
-date: 2021-08-11 1628665943 
-categories: reddit 
---- 
-https://redd.it/p28140
