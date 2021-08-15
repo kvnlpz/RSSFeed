@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @xogayane 
-date: 2021-08-10 13:37:19 
-categories: twitter 
---- 
-@timothysykes Thanks Tim! 🥲🥳
