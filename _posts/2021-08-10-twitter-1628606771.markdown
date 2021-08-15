@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GreatStockMark1 
-date: 2021-08-10 07:46:11 
-categories: twitter 
---- 
-@RayTL_ $TTD on upgrade
