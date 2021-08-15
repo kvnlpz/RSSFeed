@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Katslod732 
-date: 2021-08-10 20:14:22 
-categories: twitter 
---- 
-@OddStockTrader Looks like it’s on deck again
