@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TheFinanceBug 
-date: 2021-08-10 19:21:14 
-categories: twitter 
---- 
-@InvestorsLive $FSR fill gap up on daily?
