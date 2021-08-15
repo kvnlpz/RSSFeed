@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-10 12:47:26 
-categories: twitter 
---- 
-@Scarredpax @Araaa007 Monday
