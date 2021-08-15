@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 10:54:52 
-categories: twitter 
---- 
-will this be the most ratio'd tweet of the year
