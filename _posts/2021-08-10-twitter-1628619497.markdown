@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NOD008 
-date: 2021-08-10 11:18:17 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/VHrJjwqOyp
