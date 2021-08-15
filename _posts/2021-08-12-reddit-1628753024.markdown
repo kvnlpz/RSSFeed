@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Reminder: the Coin Bureau Guy has an AMA here later today 
-date: 2021-08-12 1628753024 
-categories: reddit 
---- 
-https://redd.it/p2uwxb
