@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-08-15 13:36:59 
+categories: twitter 
+--- 
+@OptionsHawk What did you convert to/from?
