@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TessaLamping 
-date: 2021-08-10 22:06:16 
-categories: twitter 
---- 
-@modern_rock wouldn't surprise me https://t.co/znT110LylU
