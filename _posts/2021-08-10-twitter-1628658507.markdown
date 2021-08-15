@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-10 22:08:27 
-categories: twitter 
---- 
-RT @SolarisEth: This is just a short summary, a video that really helps grasps the concept can be seen at https://t.co/m0sHqT0qXX
