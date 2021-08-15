@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Drewwwskiiii 
-date: 2021-08-10 14:47:09 
-categories: twitter 
---- 
-@InvestorsLive Which ticker will be higher in a year: IDEX or NKLA? Lol
