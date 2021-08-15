@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Scarredpax 
-date: 2021-08-10 10:56:50 
-categories: twitter 
---- 
-@alphatrends @Araaa007 is that rolling 7 days or starts Monday?
