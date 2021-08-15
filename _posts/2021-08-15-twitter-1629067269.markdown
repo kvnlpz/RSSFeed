@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-08-15 15:41:09 
+categories: twitter 
+--- 
+@taxninja The amount of random offers on random old projects I have received in the last 2 days.
