@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tedzhangg 
-date: 2021-08-11 06:15:02 
-categories: twitter 
---- 
-RT @super_trades: $SMFR big news
