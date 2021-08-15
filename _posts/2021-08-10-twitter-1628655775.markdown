@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xMerp 
-date: 2021-08-10 21:22:55 
-categories: twitter 
---- 
-@nope_its_lily @lightspringfox My equally weighted JPEG portfolio takes great offense to such insinuations
