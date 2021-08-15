@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ToddMSzymczak 
-date: 2021-08-10 07:50:25 
-categories: twitter 
---- 
-@CitronResearch Do you still have the same level of conviction on $JMIA?
