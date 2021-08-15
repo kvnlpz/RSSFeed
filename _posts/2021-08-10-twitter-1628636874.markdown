@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ivstocks1 
-date: 2021-08-10 16:07:54 
-categories: twitter 
---- 
-@timothysykes the carbs tho :/
