@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ForshtMike 
-date: 2021-08-10 19:27:18 
-categories: twitter 
---- 
-@OddStockTrader Be right there. Looks yummy 😋
