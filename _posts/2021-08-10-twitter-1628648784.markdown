@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MikeSeaver15 
-date: 2021-08-10 19:26:24 
-categories: twitter 
---- 
-@InvestorsLive Are you using Windows Vista?
