@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StoolPoop 
-date: 2021-08-10 22:06:47 
-categories: twitter 
---- 
-@nope_its_lily every.  time.
