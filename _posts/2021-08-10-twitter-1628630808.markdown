@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 14:26:48 
-categories: twitter 
---- 
-@Post_Market no
