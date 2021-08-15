@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @UpsideWeekly 
-date: 2021-08-10 10:16:07 
-categories: twitter 
---- 
-@nope_its_lily Have we tried jabbing it?
