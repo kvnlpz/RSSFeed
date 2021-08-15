@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-08-10 14:26:52 
-categories: twitter 
---- 
-RT @TraderMoore: Do NOT overtrade! Trade only the easiest patterns to help you profit more. Good article from @timothysykes https://t.co/Gh…
