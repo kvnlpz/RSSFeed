@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ADA all gone after Trezor update 
-date: 2021-08-11 1628687821 
-categories: reddit 
---- 
-https://redd.it/p2cvds
