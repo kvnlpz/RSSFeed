@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @theLEVerageurr 
+date: 2021-08-15 13:14:42 
+categories: twitter 
+--- 
+@alphatrends @scriptstotrade Damn that kicks the shit out of my anchored vwap code. Well done
