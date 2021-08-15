@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DeFi_Rugpull 
-date: 2021-08-10 15:54:21 
-categories: twitter 
---- 
-@nope_its_lily You’re Allison’s older sister right?
