@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @skynetcap 
-date: 2021-08-10 16:33:05 
-categories: twitter 
---- 
-RT @nope_its_lily: If you're not following the latest in the DeFi saga, apparently https://t.co/DuPXg2DEI2 has raised over $500,000,000 in…
