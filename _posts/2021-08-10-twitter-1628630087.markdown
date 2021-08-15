@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @mastermindssdg 
-date: 2021-08-10 14:14:47 
-categories: twitter 
---- 
-@RayTL_ Got it thanks. Game on
