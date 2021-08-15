@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @carlosortigoza1 
-date: 2021-08-10 19:40:41 
-categories: twitter 
---- 
-RT @InvestorsLive: $DDD hell ya @markflowchatter great alert in the room!
