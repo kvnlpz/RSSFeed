@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @themikedmedia 
-date: 2021-08-10 15:41:01 
-categories: twitter 
---- 
-@TradeHawk cool name... HOTH
