@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LauncelotDeula 
-date: 2021-08-10 15:51:14 
-categories: twitter 
---- 
-@InvestorsLive This is opening at 400 tomorrow.
