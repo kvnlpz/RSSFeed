@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Best way to manage and track your average costs? 
-date: 2021-08-11 1628733819 
-categories: reddit 
---- 
-https://redd.it/p2rdnv
