@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ballerdk22 
-date: 2021-08-10 19:37:16 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen Vicious is right
