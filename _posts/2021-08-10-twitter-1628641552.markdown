@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-10 17:25:52 
-categories: twitter 
---- 
-@RichardMoglen Makes sense
