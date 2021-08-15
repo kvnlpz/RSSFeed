@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AndrewHillman1 
-date: 2021-08-10 11:14:33 
-categories: twitter 
---- 
-@super_trades Foresight.  One of your strong suits.   Diligence as well.
