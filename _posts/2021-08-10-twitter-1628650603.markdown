@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @billbop44 
-date: 2021-08-10 19:56:43 
-categories: twitter 
---- 
-@OddStockTrader Nice push for ADA today
