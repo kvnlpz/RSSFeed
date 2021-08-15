@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sparklepumpkin1 
-date: 2021-08-10 13:00:19 
-categories: twitter 
---- 
-@nope_its_lily @unusual_whales Who's going to buy movie tickets with Bitcoin, when really all people do is invest t… https://t.co/jM5I78Mq4y
