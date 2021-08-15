@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-15 10:01:14 
+categories: twitter 
+--- 
+RT @WesleyBKress: Those Looking to understand deeper about #LiquidityPools &amp; why U can receive returns. Please see here for another dive as…
