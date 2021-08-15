@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH 2.0 who will keep block chain up? 
-date: 2021-08-11 1628675002 
-categories: reddit 
---- 
-https://redd.it/p29skt
