@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @md01984 
-date: 2021-08-10 16:00:50 
-categories: twitter 
---- 
-@modern_rock That turtle had a coke problem. His own fault.
