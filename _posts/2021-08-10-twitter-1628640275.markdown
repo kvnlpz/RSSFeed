@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JamesRobertsco5 
-date: 2021-08-10 17:04:35 
-categories: twitter 
---- 
-@kroyrunner89 My method is, watch the entire PM session every morning. I haven't found a more reliable way.
