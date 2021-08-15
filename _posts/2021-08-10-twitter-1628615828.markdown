@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @timothysykes 
-date: 2021-08-10 10:17:08 
-categories: twitter 
---- 
-Light lunch here in Italy :) https://t.co/K75SMXg0Ms
