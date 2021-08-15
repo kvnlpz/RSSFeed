@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hacker strikes! What hardware wallet should I use?! 
-date: 2021-08-11 1628680244 
-categories: reddit 
---- 
-https://redd.it/p2axe0
