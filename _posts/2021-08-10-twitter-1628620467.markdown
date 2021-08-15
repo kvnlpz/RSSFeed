@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lewissteen10 
-date: 2021-08-10 11:34:27 
-categories: twitter 
---- 
-@RayTL_ @RichardMoglen you sure do have that right! $clf working nicely for me...$docu not so much 🤷‍♂️
