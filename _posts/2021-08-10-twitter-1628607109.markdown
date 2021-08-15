@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @scraffycoco3 
-date: 2021-08-10 07:51:49 
-categories: twitter 
---- 
-@RayTL_ DKNG
