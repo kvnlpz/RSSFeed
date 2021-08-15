@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @GKurhl 
-date: 2021-08-10 16:35:04 
-categories: twitter 
---- 
-@nope_its_lily SEC gonna love this
