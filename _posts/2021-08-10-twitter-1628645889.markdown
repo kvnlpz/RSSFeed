@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JDan30 
-date: 2021-08-10 18:38:09 
-categories: twitter 
---- 
-RT @realwillmeade: Trading is the only business where a high school dropout can make as much money or more than an ivy league PhD.
