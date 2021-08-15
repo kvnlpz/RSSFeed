@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Venezuela update. 56 BTC were traded last week in Venezuela using (only) LocalBitcoin (up from 53), that is more than 10% of the total amount traded worldwide using LBTC (499 BTC). These 56 BTC were 8,814,000,000,000 Bolivares. 
+date: 2021-08-15 1629041936 
+categories: reddit 
+--- 
+https://redd.it/p4vquf
