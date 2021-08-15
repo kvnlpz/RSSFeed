@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @boudreau_ryanj 
-date: 2021-08-10 15:36:03 
-categories: twitter 
---- 
-@OddStockTrader What a shame! Guess you gotta do what you gotta do!
