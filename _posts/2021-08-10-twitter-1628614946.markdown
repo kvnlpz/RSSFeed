@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SPX_Enthusiast 
-date: 2021-08-10 10:02:26 
-categories: twitter 
---- 
-@nope_its_lily Ya think? Lol
