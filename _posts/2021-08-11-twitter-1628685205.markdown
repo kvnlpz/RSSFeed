@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NaumanVincent 
-date: 2021-08-11 05:33:25 
-categories: twitter 
---- 
-@timothysykes Got I’d morning sir!
