@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @LeoCheMingChang 
-date: 2021-08-10 18:00:25 
-categories: twitter 
---- 
-RT @RayTL_: @RichardMoglen @RossHaber_ @Trader_mcaruso @1charts6 @PatternProfits @PatrickWalker56 @alphatrends @LeifSoreide @KGD_Investor @…
