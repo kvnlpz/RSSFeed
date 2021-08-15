@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: A side effect of moons? Updated analysis on the ratio of upvotes to comments on here and on the rest of Reddit. 
-date: 2021-08-11 1628672248 
-categories: reddit 
---- 
-https://redd.it/p297i0
