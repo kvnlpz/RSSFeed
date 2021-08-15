@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fallondpicks 
-date: 2021-08-10 15:08:10 
-categories: twitter 
---- 
-Small losses in the Nasdaq ($COMPQ) didn't spread to other indices, but Russell 2000 ($IWM) continues to trade near… https://t.co/QZgm9B65CZ
