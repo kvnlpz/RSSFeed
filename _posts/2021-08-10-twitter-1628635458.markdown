@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stevenplace 
-date: 2021-08-10 15:44:18 
-categories: twitter 
---- 
-@InvestorsLive a pin of 420 into friday would be just terrible
