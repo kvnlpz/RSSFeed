@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @b05crypto 
-date: 2021-08-10 20:49:48 
-categories: twitter 
---- 
-@nope_its_lily @eervin1 WTF - I'm annoyed that we broke 100k.
