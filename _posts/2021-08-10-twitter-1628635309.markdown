@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Spartan_B8 
-date: 2021-08-10 15:41:49 
-categories: twitter 
---- 
-@InvestorsLive Amazed...lol thankyou
