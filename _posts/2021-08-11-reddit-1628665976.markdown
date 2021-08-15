@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase Sees Record Q2 Revenue of $2B, 95% from Transaction Fees 
-date: 2021-08-11 1628665976 
-categories: reddit 
---- 
-https://redd.it/p281b2
