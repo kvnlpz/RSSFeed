@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ShadowNhs 
-date: 2021-08-10 12:58:51 
-categories: twitter 
---- 
-@InvestorsLive Can someone explain to me what happend with ZEV there first thst knife and then stright back up?
