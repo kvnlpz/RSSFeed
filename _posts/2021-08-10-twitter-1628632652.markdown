@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @dgdgdm_ 
-date: 2021-08-10 14:57:32 
-categories: twitter 
---- 
-RT @modern_rock: The goal is to balance your wealth… https://t.co/4OWnd2m6IL
