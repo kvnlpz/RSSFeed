@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: I have no idea what I’m doing 
-date: 2021-08-11 1628692141 
-categories: reddit 
---- 
-https://redd.it/p2e63v
