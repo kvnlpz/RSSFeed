@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @szeszycki 
-date: 2021-08-10 13:44:01 
-categories: twitter 
---- 
-@modern_rock Dude you’re such a wimp.. lol
