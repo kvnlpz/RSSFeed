@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Cryptgo: A TUI based application to monitor crypto currency prices and track your portfolio! 
+date: 2021-08-15 1629058600 
+categories: reddit 
+--- 
+https://redd.it/p50vnu
