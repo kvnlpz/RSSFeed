@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Daily reminder, we know nothing. 
-date: 2021-08-11 1628690187 
-categories: reddit 
---- 
-https://redd.it/p2djxi
