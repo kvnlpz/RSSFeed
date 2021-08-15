@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Macropsychology 
-date: 2021-08-10 13:33:58 
-categories: twitter 
---- 
-@nope_its_lily Aren't we more concerned with virulence?
