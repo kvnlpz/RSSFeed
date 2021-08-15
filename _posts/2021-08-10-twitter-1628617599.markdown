@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-08-10 10:46:39 
-categories: twitter 
---- 
-RT @ontheslabs: @chris90980472 @modern_rock I was in MIC, and I learned a lot. There is more specific material on volume, what stocks to tr…
