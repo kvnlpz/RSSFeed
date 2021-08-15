@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jfhksar88 
-date: 2021-08-10 18:32:52 
-categories: twitter 
---- 
-RT @ianbremmer: The outrageous politics-first US approach to COVID response promotes misinformation, and it is a tax on the poor and uneduc…
