@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @figui01 
-date: 2021-08-10 12:41:21 
-categories: twitter 
---- 
-@MikeBellafiore In Latin is said it best “anima sana in corpore sano” ASICS
