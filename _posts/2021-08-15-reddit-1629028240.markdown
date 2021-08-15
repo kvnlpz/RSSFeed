@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Does anyone own a hardware wallet, specifically Trezor Model T? How do I transfer Cardano? 
+date: 2021-08-15 1629028240 
+categories: reddit 
+--- 
+https://redd.it/p4s0mr
