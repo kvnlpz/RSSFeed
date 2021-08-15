@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-10 16:37:43 
-categories: twitter 
---- 
-RT @JohnnyGotm: Let’s not forget that $EGLD beat out $ETH in a real world use case with the @human_protocol … so don’t be fooled by differe…
