@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @eervin1 
-date: 2021-08-10 20:45:57 
-categories: twitter 
---- 
-@nope_its_lily My favorite message from Lily she so casually refers to 2.7 million rows as if it is an excel spread… https://t.co/s0p3U4O96i
