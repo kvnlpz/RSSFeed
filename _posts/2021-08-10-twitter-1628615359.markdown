@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZetVladimir 
-date: 2021-08-10 10:09:19 
-categories: twitter 
---- 
-@nope_its_lily are you getting third dose there in US or what's happening? did i miss some news?
