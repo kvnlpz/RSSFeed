@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Top 3 Layer 2 scaling solutions for Ethereum: Polygon vs Optimism vs Arbitrum 
+date: 2021-08-15 1629054662 
+categories: reddit 
+--- 
+https://redd.it/p4zoks
