@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Changing exchange & transferring BTC (UK) 
-date: 2021-08-11 1628682998 
-categories: reddit 
---- 
-https://redd.it/p2bld4
