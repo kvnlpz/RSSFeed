@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 15:26:56 
-categories: twitter 
---- 
-the best feeling in the world is between the time where you first detect a potential trading signal and a few hours… https://t.co/0DD05ucs39
