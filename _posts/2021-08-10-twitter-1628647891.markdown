@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @javitradesstrat 
-date: 2021-08-10 19:11:31 
-categories: twitter 
---- 
-RT @InvestorsLive: Is there a such thing as a profitable troll?
