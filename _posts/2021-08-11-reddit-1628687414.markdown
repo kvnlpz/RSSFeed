@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Optech Newsletter #161 
-date: 2021-08-11 1628687414 
-categories: reddit 
---- 
-https://redd.it/p2cr5p
