@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @cryptoandclout 
-date: 2021-08-10 12:09:40 
-categories: twitter 
---- 
-@OddStockTrader Talk about a p&amp;d
