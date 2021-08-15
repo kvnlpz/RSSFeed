@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @KumbharNaynish 
-date: 2021-08-10 17:59:58 
-categories: twitter 
---- 
-RT @nope_its_lily: I don’t check my weight since I believe it simply to be transitory inflation
