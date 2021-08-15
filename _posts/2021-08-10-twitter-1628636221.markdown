@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Gino_Vlntino 
-date: 2021-08-10 15:57:01 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade As the great Arnold sais "i will do whatever has to be done"
