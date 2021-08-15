@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @josellr 
-date: 2021-08-11 10:22:59 
-categories: twitter 
---- 
-@timothysykes Lucky you
