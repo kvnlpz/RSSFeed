@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-10 22:08:02 
-categories: twitter 
---- 
-RT @SolarisEth: New write-up on my favourite low cap gem coming tomorrow 😉
