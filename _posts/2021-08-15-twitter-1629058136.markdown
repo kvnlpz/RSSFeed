@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @bradypomeroy 
+date: 2021-08-15 13:08:56 
+categories: twitter 
+--- 
+@alphatrends @scriptstotrade Thank you!
