@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hop Protocol Cuts Polygon Withdrawal Times to Minutes 
-date: 2021-08-11 1628689377 
-categories: reddit 
---- 
-https://redd.it/p2dbea
