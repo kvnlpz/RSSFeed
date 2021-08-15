@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rope token solana 
-date: 2021-08-11 1628691026 
-categories: reddit 
---- 
-https://redd.it/p2dta0
