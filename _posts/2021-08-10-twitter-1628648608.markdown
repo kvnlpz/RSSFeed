@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @goodetrades 
-date: 2021-08-10 19:23:28 
-categories: twitter 
---- 
-Good thing @lx21 left the swing set business otherwise this might have been him
