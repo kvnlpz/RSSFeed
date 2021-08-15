@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lostcoastsurf 
-date: 2021-08-11 10:37:25 
-categories: twitter 
---- 
-@OddStockTrader Go to the doc in Mexico, much easier.
