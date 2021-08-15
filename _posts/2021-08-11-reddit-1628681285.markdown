@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Just saw this recommended video on youtube claiming to be the ethereum foundation. It's a scam, but some people might still get tricked. Help report for it to be taken down 
-date: 2021-08-11 1628681285 
-categories: reddit 
---- 
-https://redd.it/p2b683
