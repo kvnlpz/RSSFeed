@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rpajam 
-date: 2021-08-10 16:02:26 
-categories: twitter 
---- 
-@modern_rock @DoorDash @DoorDash_Help Ok
