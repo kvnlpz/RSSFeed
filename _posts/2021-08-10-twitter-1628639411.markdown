@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AJTradess 
-date: 2021-08-10 16:50:11 
-categories: twitter 
---- 
-@kroyrunner89 Nobody here is smarter than you Tim
