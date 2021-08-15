@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @zackvoell 
-date: 2021-08-10 10:55:38 
-categories: twitter 
---- 
-@nope_its_lily poor dick
