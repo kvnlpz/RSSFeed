@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: GPU, ASIC and CPU mining is dead (At least for me) 
+date: 2021-08-15 1629019346 
+categories: reddit 
+--- 
+https://redd.it/p4qb36
