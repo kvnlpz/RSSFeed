@@ -1,0 +1,11 @@
+--- 
+layout: post 
+title: Tweet by @OddStockTrader 
+date: 2021-08-15 13:39:50 
+categories: twitter 
+--- 
+@OptionsHawk Transaction confirmed?
+
+Refresh page to update wallet?
+
+Polygon should be fast but sometimes it can take a few minutes
