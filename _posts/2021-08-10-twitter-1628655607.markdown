@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @0xMerp 
-date: 2021-08-10 21:20:07 
-categories: twitter 
---- 
-@nope_its_lily @lightspringfox I’m confused because to my knowledge it’s literally impossible for pengus to not trade with massive contango
