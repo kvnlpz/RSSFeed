@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @OptionsHawk 
+date: 2021-08-15 14:01:45 
+categories: twitter 
+--- 
+@OddStockTrader 31546 the Token ID, I see another bid came in but does not appear to be mine (diff price)
