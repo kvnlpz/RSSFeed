@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @iTrapSmallCaps 
-date: 2021-08-10 21:19:00 
-categories: twitter 
---- 
-RT @InvestorsLive: Is there a such thing as a profitable troll?
