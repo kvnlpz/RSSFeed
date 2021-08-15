@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-10 18:11:53 
-categories: twitter 
---- 
-@TradesRx Sounds like you don't watch Sunday scan
