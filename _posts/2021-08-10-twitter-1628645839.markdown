@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @23Ringer 
-date: 2021-08-10 18:37:19 
-categories: twitter 
---- 
-@kroyrunner89 Finviz - simple relative vol search… under 2bl market cap and under 300ml market cap …. Keep record o… https://t.co/W032Zq23GZ
