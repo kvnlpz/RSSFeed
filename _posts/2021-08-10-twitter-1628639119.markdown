@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 16:45:19 
-categories: twitter 
---- 
-RT @KemonomichiNL: @nope_its_lily Looked at on chain data, 4 accounts contributed $200 million total
