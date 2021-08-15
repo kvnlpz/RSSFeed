@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Shack_SI 
-date: 2021-08-10 09:27:06 
-categories: twitter 
---- 
-@nope_its_lily Good. Albany is no place for smart people.
