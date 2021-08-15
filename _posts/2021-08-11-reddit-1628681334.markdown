@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Why targeting the daily for karma is so fundamentally flawed ; a look at comments that earn high karma from popular threads 
-date: 2021-08-11 1628681334 
-categories: reddit 
---- 
-https://redd.it/p2b6l3
