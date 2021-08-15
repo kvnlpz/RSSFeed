@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Exploring collateral systems for stablecoins: From decentralized systems to centralized and/or algorithmic and underlining how important it is to ensure that your stablecoin is backed by a collateral. The solution would ultimately be decentralization of POW proving collateralisation. 
+date: 2021-08-15 1629043408 
+categories: reddit 
+--- 
+https://redd.it/p4w6y1
