@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shntzl 
-date: 2021-08-10 20:49:13 
-categories: twitter 
---- 
-@nope_its_lily "we have pretty good epidemiological models for spread" https://t.co/ZJJbBgM6Bo
