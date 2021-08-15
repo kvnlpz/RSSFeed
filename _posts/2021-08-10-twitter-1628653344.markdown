@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 20:42:24 
-categories: twitter 
---- 
-I can't believe I was complaining about cleaning data yesterday.
-Today tops it - being blocked because the data I r… https://t.co/DJkFy1bSM9
