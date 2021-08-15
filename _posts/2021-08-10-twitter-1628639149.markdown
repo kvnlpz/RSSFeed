@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @seanathanp 
-date: 2021-08-10 16:45:49 
-categories: twitter 
---- 
-@nope_its_lily its a good product but overall raising that much  money is worrysome it was half that earlier today
