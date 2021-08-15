@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @noms_nom_nom 
-date: 2021-08-10 08:06:42 
-categories: twitter 
---- 
-@nope_its_lily @FREAK0NAUT @goodalexander iff i can hit 70% this year, i will go to therapy
