@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-10 15:51:34 
-categories: twitter 
---- 
-You can't fix stupid, I've tried.
