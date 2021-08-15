@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Sarah_Katilyn 
-date: 2021-08-10 17:50:31 
-categories: twitter 
---- 
-@nope_its_lily *men and mosquitos...to clarify.
