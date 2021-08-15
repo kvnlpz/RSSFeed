@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @nope_its_lily 
+date: 2021-08-15 10:55:13 
+categories: twitter 
+--- 
+@coloradotravis @M1tchRosenthal I'm not using Ockham's to support my model. My model is probably wrong.
