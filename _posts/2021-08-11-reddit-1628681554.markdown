@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Student assignment 
-date: 2021-08-11 1628681554 
-categories: reddit 
---- 
-https://redd.it/p2b8jh
