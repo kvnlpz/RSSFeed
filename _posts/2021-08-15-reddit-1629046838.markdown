@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Future of Data Storage (Filecoin, Siacoin, Storj, Opacity and others) 
+date: 2021-08-15 1629046838 
+categories: reddit 
+--- 
+https://redd.it/p4x8tx
