@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JacksonTimothyJ 
-date: 2021-08-10 10:07:59 
-categories: twitter 
---- 
-@RayTL_ Infrastructure stocks!!
