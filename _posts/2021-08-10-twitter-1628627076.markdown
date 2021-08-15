@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @saint_trades 
-date: 2021-08-10 13:24:36 
-categories: twitter 
---- 
-RT @TraderTexMex: $FULC offering
