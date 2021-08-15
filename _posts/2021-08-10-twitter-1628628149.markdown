@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 13:42:29 
-categories: twitter 
---- 
-To clarify on CNN article - number is useless bcuz it is of *all people vaccinated*. Akin to measuring the death/ho… https://t.co/esMJFlccyA
