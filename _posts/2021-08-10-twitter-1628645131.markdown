@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CoryToTheMOON1 
-date: 2021-08-10 18:25:31 
-categories: twitter 
---- 
-@nope_its_lily Lol. https://t.co/WLYd669BDE
