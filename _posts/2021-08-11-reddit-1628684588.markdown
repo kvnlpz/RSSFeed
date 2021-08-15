@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Yieldly on Algorand 
-date: 2021-08-11 1628684588 
-categories: reddit 
---- 
-https://redd.it/p2bzi5
