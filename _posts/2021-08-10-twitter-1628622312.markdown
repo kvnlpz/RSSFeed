@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-10 12:05:12 
-categories: twitter 
---- 
-Trash is trash 🗑️ https://t.co/SlVPW3NkP5
