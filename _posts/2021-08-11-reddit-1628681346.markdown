@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase just removed the "backed by USD" claim in reference to USDC. 
-date: 2021-08-11 1628681346 
-categories: reddit 
---- 
-https://redd.it/p2b6q6
