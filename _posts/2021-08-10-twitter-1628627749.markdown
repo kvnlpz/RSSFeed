@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Chaukevi 
-date: 2021-08-10 13:35:49 
-categories: twitter 
---- 
-@nope_its_lily And I thought ur smart.
