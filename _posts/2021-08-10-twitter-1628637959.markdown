@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SofiaMaria1986 
-date: 2021-08-10 16:25:59 
-categories: twitter 
---- 
-@timothysykes Pompei bloody predictive text
