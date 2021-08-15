@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @alphatrends 
-date: 2021-08-10 17:47:47 
-categories: twitter 
---- 
-@ClaudioArriazab I dont believe in price targets, my focus is to manage risk and let the stock tell me when to get out
