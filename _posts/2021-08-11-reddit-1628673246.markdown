@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Ethereum Has Burnt $67.3 Million in Transaction Fees Since the London Hard Fork 
-date: 2021-08-11 1628673246 
-categories: reddit 
---- 
-https://redd.it/p29gaq
