@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @tradingfitgirl 
-date: 2021-08-10 14:48:09 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/edUwdldiOv
