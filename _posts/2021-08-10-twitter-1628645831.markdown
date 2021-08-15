@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ryancounty 
-date: 2021-08-10 18:37:11 
-categories: twitter 
---- 
-@InvestorsLive $mdia ripping
