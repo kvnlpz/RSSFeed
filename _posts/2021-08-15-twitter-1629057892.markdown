@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @alphatrends 
+date: 2021-08-15 13:04:52 
+categories: twitter 
+--- 
+Big news for TOS users
+
+Alphatrends Anchored VWAP script from @scriptstotrade just launched!… https://t.co/gkBn9BFKPF
