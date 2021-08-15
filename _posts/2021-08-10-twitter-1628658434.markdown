@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-10 22:07:14 
-categories: twitter 
---- 
-RT @GreenWeenCrypto: If you’re bullish on @Polkadot you should be bullish on @SaitoOfficial. 
-If you’re bullish on @ElrondNetwork you shoul…
