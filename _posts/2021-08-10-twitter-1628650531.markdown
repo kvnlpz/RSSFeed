@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SpartaTek9 
-date: 2021-08-10 19:55:31 
-categories: twitter 
---- 
-RT @kroyrunner89: I've experimented with tracking # of gappers a bit so that I could have a hard number right at market open, there seems t…
