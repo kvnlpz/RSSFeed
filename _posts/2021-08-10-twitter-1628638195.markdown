@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @beansim84 
-date: 2021-08-10 16:29:55 
-categories: twitter 
---- 
-@nope_its_lily @SoccerMomTrades Same
