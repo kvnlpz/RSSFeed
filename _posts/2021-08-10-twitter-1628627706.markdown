@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Friday_F3 
-date: 2021-08-10 13:35:06 
-categories: twitter 
---- 
-@alphatrends Will we see a day 2...
