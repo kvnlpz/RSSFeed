@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Manny5Alive 
-date: 2021-08-10 15:16:31 
-categories: twitter 
---- 
-@InvestorsLive Elon Musk
