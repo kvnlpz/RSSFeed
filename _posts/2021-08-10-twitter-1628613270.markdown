@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ma2k 
-date: 2021-08-10 09:34:30 
-categories: twitter 
---- 
-@InvestorsLive Perfect call Nate. Glad I bought that 500 call
