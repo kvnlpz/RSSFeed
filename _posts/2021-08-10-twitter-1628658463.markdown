@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-10 22:07:43 
-categories: twitter 
---- 
-RT @SolarisEth: $SAITO - $10M market cap.
-Saito is an extremely interesting project that has flown under a lot of people's radar. Saito is…
