@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How should I go about closing this Credit spread while I’m slightly up. I’m not able to get filled on my bid for buying it back because the spread is too wide. 
-date: 2021-08-11 1628689322 
-categories: reddit 
---- 
-https://redd.it/p2dasr
