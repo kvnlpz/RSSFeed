@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The Hash Ribbon Indicator, a little known market metric, shows that the price of Bitcoin has more upside to come 
-date: 2021-08-11 1628692044 
-categories: reddit 
---- 
-https://redd.it/p2e51h
