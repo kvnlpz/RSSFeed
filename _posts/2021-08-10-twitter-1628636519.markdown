@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @modern_rock 
-date: 2021-08-10 16:01:59 
-categories: twitter 
---- 
-@md01984 I got similar issues with trading https://t.co/C2LFFSLK6k
