@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Did someone ever got just one prediction on BitCoin? 
-date: 2021-08-11 1628670063 
-categories: reddit 
---- 
-https://redd.it/p28u0c
