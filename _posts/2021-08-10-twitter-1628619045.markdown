@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Chano26148630 
-date: 2021-08-10 11:10:45 
-categories: twitter 
---- 
-@InvestorsLive good topic to discuss in the Sunday video!
