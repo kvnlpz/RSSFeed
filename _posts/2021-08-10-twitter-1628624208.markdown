@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @myinfo123 
-date: 2021-08-10 12:36:48 
-categories: twitter 
---- 
-@InvestorsLive Hell yeah 😄🤣
