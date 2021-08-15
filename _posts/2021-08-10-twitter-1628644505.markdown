@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @NeoClause 
-date: 2021-08-10 18:15:05 
-categories: twitter 
---- 
-@super_trades @_super_trade Yes
