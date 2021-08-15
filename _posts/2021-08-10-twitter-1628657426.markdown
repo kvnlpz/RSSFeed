@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @stonkstotrade 
-date: 2021-08-10 21:50:26 
-categories: twitter 
---- 
-@kroyrunner89 I’ve coded many programs that track the statistical success rate of my specific setups, so for me it’… https://t.co/sHyCTyGLQX
