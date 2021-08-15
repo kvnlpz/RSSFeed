@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PepePoBoi 
-date: 2021-08-10 13:55:29 
-categories: twitter 
---- 
-@nope_its_lily CDC data says 99.8% survival, so lets take out obese, elderly (&gt;70yo) and individuals with 2-3 comor… https://t.co/f4xLZ5p428
