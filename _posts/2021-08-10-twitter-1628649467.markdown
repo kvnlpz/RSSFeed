@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @carlosortigoza1 
-date: 2021-08-10 19:37:47 
-categories: twitter 
---- 
-RT @InvestorsLive: Trash is trash 🗑️ https://t.co/SlVPW3NkP5
