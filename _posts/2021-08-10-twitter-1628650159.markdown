@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ZaharievZahariM 
-date: 2021-08-10 19:49:19 
-categories: twitter 
---- 
-RT @ianbremmer: The outrageous politics-first US approach to COVID response promotes misinformation, and it is a tax on the poor and uneduc…
