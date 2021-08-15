@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Fish_1000 
-date: 2021-08-10 18:33:54 
-categories: twitter 
---- 
-@InvestorsLive Can Canadians sign up for this?
