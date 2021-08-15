@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @boondockTrader 
-date: 2021-08-10 17:10:14 
-categories: twitter 
---- 
-RT @modern_rock: The goal is to balance your wealth… https://t.co/4OWnd2m6IL
