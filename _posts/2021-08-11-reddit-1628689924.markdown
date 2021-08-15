@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: ETH Gas notifier app 
-date: 2021-08-11 1628689924 
-categories: reddit 
---- 
-https://redd.it/p2dh4p
