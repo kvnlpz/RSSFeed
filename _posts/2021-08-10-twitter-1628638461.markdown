@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CamTuff_ 
-date: 2021-08-10 16:34:21 
-categories: twitter 
---- 
-@nope_its_lily pretty sure they can only withdraw for 25ish more minutes.
