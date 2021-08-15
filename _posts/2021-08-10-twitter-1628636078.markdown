@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @profitly 
-date: 2021-08-10 15:54:38 
-categories: twitter 
---- 
-RT @timothysykes: How bad do you want success? YOU tell me! Will you study videos, blog posts, books, DVDs &amp; webinars when the markets are…
