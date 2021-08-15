@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JourneyTrade 
-date: 2021-08-10 13:21:35 
-categories: twitter 
---- 
-@alphatrends @MarketSmith Nice call.😎
