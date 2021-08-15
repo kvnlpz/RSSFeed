@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nomorenoise3 
-date: 2021-08-10 20:40:14 
-categories: twitter 
---- 
-@kroyrunner89 I usually just scroll the internet
