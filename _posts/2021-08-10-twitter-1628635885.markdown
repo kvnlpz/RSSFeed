@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @AyindeOlukayod2 
-date: 2021-08-10 15:51:25 
-categories: twitter 
---- 
-@timothysykes delizioso
