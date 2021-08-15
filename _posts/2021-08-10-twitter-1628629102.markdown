@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Bobthecarp1 
-date: 2021-08-10 13:58:22 
-categories: twitter 
---- 
-@nope_its_lily You’re confusing the hell out of us. Back to the dungeon of 20x derivative leveraged puts.
