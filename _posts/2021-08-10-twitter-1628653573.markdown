@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Crypto_Rookie_ 
-date: 2021-08-10 20:46:13 
-categories: twitter 
---- 
-@nope_its_lily All deadlines are arbitrary set by high ups who are disconnected with the daily work
