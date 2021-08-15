@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @offshorehunters 
-date: 2021-08-10 12:55:35 
-categories: twitter 
---- 
-@glitter_n_dirt Many thanks 😊
