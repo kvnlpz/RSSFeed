@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Mikeyisback 
-date: 2021-08-10 09:28:32 
-categories: twitter 
---- 
-@InvestorsLive Great call wow!
