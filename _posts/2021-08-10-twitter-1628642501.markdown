@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 17:41:41 
-categories: twitter 
---- 
-@TweetN4ABeatN @theemilyaccount you're not my therapist
