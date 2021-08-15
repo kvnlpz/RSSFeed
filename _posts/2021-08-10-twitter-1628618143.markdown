@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @T4Aphenux 
-date: 2021-08-10 10:55:43 
-categories: twitter 
---- 
-@InvestorsLive Shows how people buy “stories” even if it’s a tall tale
