@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 16:34:54 
-categories: twitter 
---- 
-To my understanding, Mango interfaces heavily with Serum DEX, which makes it a bit more hilarious, since they've no… https://t.co/X8CJCuWnrJ
