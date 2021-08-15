@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 21:20:33 
-categories: twitter 
---- 
-@0xMerp @lightspringfox *looks at notes*
-Let's talk in 2 weeks if you still feel that way
