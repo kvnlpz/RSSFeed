@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How would an electoral voting system work within a Blockchain? 
+date: 2021-08-15 1629042612 
+categories: reddit 
+--- 
+https://redd.it/p4vy7e
