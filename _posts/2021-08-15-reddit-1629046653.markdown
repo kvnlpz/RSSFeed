@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Mining with super old, low power GPU's 
+date: 2021-08-15 1629046653 
+categories: reddit 
+--- 
+https://redd.it/p4x6nq
