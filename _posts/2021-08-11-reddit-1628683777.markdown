@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: How easy/hard is it to replicate/translate code to haskell? 
-date: 2021-08-11 1628683777 
-categories: reddit 
---- 
-https://redd.it/p2brbe
