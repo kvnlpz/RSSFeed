@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JbxTrader 
-date: 2021-08-10 11:13:47 
-categories: twitter 
---- 
-@InvestorsLive It worked! 👏
