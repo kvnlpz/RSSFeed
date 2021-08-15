@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Where can I follow cardano news? 
-date: 2021-08-11 1628682790 
-categories: reddit 
---- 
-https://redd.it/p2bjhw
