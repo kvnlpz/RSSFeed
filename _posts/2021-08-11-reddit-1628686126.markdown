@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Rhyme with me: "2FA... saves the day" 
-date: 2021-08-11 1628686126 
-categories: reddit 
---- 
-https://redd.it/p2cdvh
