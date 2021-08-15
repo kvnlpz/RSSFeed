@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin Price Evolution Analysis 08.11.2021 
-date: 2021-08-11 1628690234 
-categories: reddit 
---- 
-https://redd.it/p2dkel
