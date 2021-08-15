@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @charles46599516 
-date: 2021-08-10 15:55:33 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade https://t.co/KaNwKj6FMM
