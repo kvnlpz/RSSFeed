@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @DontPanic956 
-date: 2021-08-10 21:41:16 
-categories: twitter 
---- 
-@timothysykes Mama Mia!
