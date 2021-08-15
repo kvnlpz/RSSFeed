@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Calculating Option Leverage (🚀): How to make sure you don't buy something too safe 
-date: 2021-08-11 1628689023 
-categories: reddit 
---- 
-https://redd.it/p2d7o7
