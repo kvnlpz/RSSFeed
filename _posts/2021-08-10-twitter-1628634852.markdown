@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @OddStockTrader 
-date: 2021-08-10 15:34:12 
-categories: twitter 
---- 
-Apparently I can only make profitable trades while on vacation...
-
-Strange
