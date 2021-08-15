@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Firstname_Joel 
-date: 2021-08-10 14:19:59 
-categories: twitter 
---- 
-@nope_its_lily @RedBenTrader comparing deaths/excess mortality/hosp./cases (unfortunately cases include asymptomati… https://t.co/QqXhKvEq8b
