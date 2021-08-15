@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RayTL_ 
-date: 2021-08-10 13:18:29 
-categories: twitter 
---- 
-@lewissteen10 @RichardMoglen Yup! Rotational day today Lewis.
