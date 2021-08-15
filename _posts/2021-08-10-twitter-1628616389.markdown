@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @fokhoff 
-date: 2021-08-10 10:26:29 
-categories: twitter 
---- 
-@InvestorsLive @elonmusk They’ve been like that for at least the last week now.
