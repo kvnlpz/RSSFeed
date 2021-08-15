@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: [Question] Why is there such a large balance (~ $800) between my Binance and CryptoPro balances? 
-date: 2021-08-11 1628689880 
-categories: reddit 
---- 
-https://redd.it/p2dglm
