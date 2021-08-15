@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JbxTrader 
-date: 2021-08-10 16:39:01 
-categories: twitter 
---- 
-@InvestorsLive ?
