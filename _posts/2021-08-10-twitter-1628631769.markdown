@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @River_Skywalker 
-date: 2021-08-10 14:42:49 
-categories: twitter 
---- 
-@InvestorsLive 🙋🏻‍♂️
