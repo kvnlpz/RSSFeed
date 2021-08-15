@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @shntzl 
-date: 2021-08-10 20:50:40 
-categories: twitter 
---- 
-@nope_its_lily @RedBenTrader do vaxxed status gets tested?
