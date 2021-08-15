@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Yield Farming and Impermanent Loss explained 
+date: 2021-08-15 1629036467 
+categories: reddit 
+--- 
+https://redd.it/p4u3h1
