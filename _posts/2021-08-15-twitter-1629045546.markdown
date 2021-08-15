@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Chris67589579 
+date: 2021-08-15 09:39:06 
+categories: twitter 
+--- 
+@InvestorsLive What is a full position size based upon? Total amount of shares or total cost?
