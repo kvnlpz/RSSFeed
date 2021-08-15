@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: SPPI is ready to move 
-date: 2021-08-11 1628693213 
-categories: reddit 
---- 
-https://redd.it/p2eicl
