@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @PeteyPie666 
-date: 2021-08-10 18:18:20 
-categories: twitter 
---- 
-@modern_rock rofl well maybe a little haha
