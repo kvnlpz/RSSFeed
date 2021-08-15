@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ramonng_ 
-date: 2021-08-10 07:45:53 
-categories: twitter 
---- 
-@RayTL_ $TTD
