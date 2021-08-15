@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @bookman009 
-date: 2021-08-10 19:34:21 
-categories: twitter 
---- 
-@OddStockTrader https://t.co/dF5JIf5zRa
