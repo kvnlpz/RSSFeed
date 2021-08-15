@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @rattlesnakey2 
-date: 2021-08-10 12:46:23 
-categories: twitter 
---- 
-@InvestorsLive How is it even a stock lol
