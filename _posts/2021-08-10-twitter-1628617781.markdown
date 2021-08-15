@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshTreetop 
-date: 2021-08-10 10:49:41 
-categories: twitter 
---- 
-@InvestorsLive And how do they have a dealer network??? Do they even produce anything yet?
