@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nope_its_lily 
-date: 2021-08-10 18:34:26 
-categories: twitter 
---- 
-@bennpeifert probs going to New York in early Oct, COVID be damned*
-
-*unless the conference is cancelled
