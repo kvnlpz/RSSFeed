@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: An updated analysis on the upvote to comment ratio in here and on the rest of Reddit 
-date: 2021-08-11 1628683913 
-categories: reddit 
---- 
-https://redd.it/p2b0lk
