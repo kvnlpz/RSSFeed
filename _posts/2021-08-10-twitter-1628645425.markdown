@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BenCasley1 
-date: 2021-08-10 18:30:25 
-categories: twitter 
---- 
-@nope_its_lily Here is one from last year
-https://t.co/dSXPrPOGY8
