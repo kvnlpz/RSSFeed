@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: I thought EIP-1559 was supposed to make gas prices more predictable and reduce huge spikes in gas fees. Yet my rigs just got the worst spike they've ever had, and I'm still paying like $50-60 for a swap on Uniswap. 
+date: 2021-08-15 1629055225 
+categories: reddit 
+--- 
+https://redd.it/p4zujx
