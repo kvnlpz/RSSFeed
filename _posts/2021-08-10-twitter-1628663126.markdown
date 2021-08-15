@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @asif_ghafori 
-date: 2021-08-10 23:25:26 
-categories: twitter 
---- 
-@timothysykes #Afghan_lives_matter
