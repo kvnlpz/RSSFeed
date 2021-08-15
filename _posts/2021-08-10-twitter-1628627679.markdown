@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Cdsfrog 
-date: 2021-08-10 13:34:39 
-categories: twitter 
---- 
-@nope_its_lily Why is it useless? Vaccine protects against transmission to a lesser degree but near 100% against hospitalization or death
