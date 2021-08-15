@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nuchkiti 
-date: 2021-08-10 12:46:27 
-categories: twitter 
---- 
-@timothysykes Panda
