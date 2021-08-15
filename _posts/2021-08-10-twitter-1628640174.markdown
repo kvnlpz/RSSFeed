@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @born2rock4life 
-date: 2021-08-10 17:02:54 
-categories: twitter 
---- 
-@kroyrunner89 Could make a fancy excel spreadsheet to pull data via the web, which may be the easiest way if you on… https://t.co/PW7Lt11cx7
