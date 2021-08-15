@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @frodgefinancial 
-date: 2021-08-10 13:33:54 
-categories: twitter 
---- 
-@nope_its_lily Not useless. Get vaccinated.
