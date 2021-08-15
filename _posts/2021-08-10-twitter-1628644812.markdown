@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @MaryAnnrey16 
-date: 2021-08-10 18:20:12 
-categories: twitter 
---- 
-RT @modern_rock: This is why we do what we do here at @MyInvestingClub !! Seeing how we are helping to change the futures and fortunes of o…
