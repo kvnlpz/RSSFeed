@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @CruCap_Finance 
-date: 2021-08-10 18:29:37 
-categories: twitter 
---- 
-@InvestorsLive AOC is doing ok
