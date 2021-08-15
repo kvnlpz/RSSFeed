@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @super_trades 
-date: 2021-08-10 13:52:05 
-categories: twitter 
---- 
-RT @Trapo___: If Elrond had Ethereum's market cap, 1 $EGLD would be worth $18.6k - a potential upside of 135x https://t.co/NW1FaoiVYP #Elro…
