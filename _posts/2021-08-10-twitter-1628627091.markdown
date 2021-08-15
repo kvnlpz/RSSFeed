@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @lilnickysmith 
-date: 2021-08-10 13:24:51 
-categories: twitter 
---- 
-RT @TraderTexMex: $FULC offering
