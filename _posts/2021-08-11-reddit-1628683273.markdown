@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: $APPS seems to be going nowhere. 
-date: 2021-08-11 1628683273 
-categories: reddit 
---- 
-https://redd.it/p2bnpo
