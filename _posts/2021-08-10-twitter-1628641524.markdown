@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @RichardMoglen 
-date: 2021-08-10 17:25:24 
-categories: twitter 
---- 
-@RayTL_ I have to define risk less than 5% is more what I meant.
-
-I want to enter within 1% of some type of pivot
