@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Coinbase Drops Promise of Token’s Cash Backing That Wasn’t True 
-date: 2021-08-11 1628680520 
-categories: reddit 
---- 
-https://redd.it/p2azpl
