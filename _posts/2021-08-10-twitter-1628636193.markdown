@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wjruss84 
-date: 2021-08-10 15:56:33 
-categories: twitter 
---- 
-@nope_its_lily n0 == bug
