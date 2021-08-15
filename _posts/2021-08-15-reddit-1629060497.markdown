@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Sending ETH with a tiny fee 
+date: 2021-08-15 1629060497 
+categories: reddit 
+--- 
+https://redd.it/p51g7t
