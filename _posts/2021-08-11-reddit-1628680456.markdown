@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hacker Behind PolyNetwork's $600M Exploit Started to Refund the Money 
-date: 2021-08-11 1628680456 
-categories: reddit 
---- 
-https://redd.it/p2az4w
