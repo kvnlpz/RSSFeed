@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @TweetTrade1 
-date: 2021-08-10 14:43:06 
-categories: twitter 
---- 
-@InvestorsLive I assume that person was referring to your tweets when you don't add a ticker symbol lol.
