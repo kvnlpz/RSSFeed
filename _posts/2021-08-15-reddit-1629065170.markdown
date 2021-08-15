@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Help with building windows exe for compiled executables 
+date: 2021-08-15 1629065170 
+categories: reddit 
+--- 
+https://redd.it/p52uuo
