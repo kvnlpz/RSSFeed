@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Tweet by @YuZhu4 
-date: 2021-08-10 22:23:40 
-categories: twitter 
---- 
-RT @markflowchatter: Micron $MU hit on comments from Trendforce for those asking.  
-
-"Contract Prices of PC DRAM Expected to Decline by 0-5…
