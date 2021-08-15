@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @k_cronin_trader 
-date: 2021-08-10 17:59:48 
-categories: twitter 
---- 
-@timothysykes @Marshmadness28 https://t.co/6wOswWumwp
