@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @StoopTalkStonks 
-date: 2021-08-10 15:24:54 
-categories: twitter 
---- 
-@InvestorsLive https://t.co/Vlct9KIUab
