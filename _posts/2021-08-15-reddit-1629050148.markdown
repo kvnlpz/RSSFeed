@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Set up 2FA 
+date: 2021-08-15 1629050148 
+categories: reddit 
+--- 
+https://redd.it/p4ya1r
