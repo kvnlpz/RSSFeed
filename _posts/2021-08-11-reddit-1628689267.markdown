@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Hackers steal $600m in major cryptocurrency heist 
-date: 2021-08-11 1628689267 
-categories: reddit 
---- 
-https://redd.it/p2da6h
