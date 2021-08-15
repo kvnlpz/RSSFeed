@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Taproot addresses 
-date: 2021-08-11 1628688046 
-categories: reddit 
---- 
-https://redd.it/p2cxmt
