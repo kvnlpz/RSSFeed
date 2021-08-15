@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @JoshVegas6 
-date: 2021-08-10 09:26:49 
-categories: twitter 
---- 
-@nope_its_lily but you really should https://t.co/jI9vw6dtPN
