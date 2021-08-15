@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @SublimeTrades 
-date: 2021-08-10 18:34:19 
-categories: twitter 
---- 
-@kroyrunner89 I’m approaching this problem the same way I’ve approached all of my automated trading software. What… https://t.co/ACQs4OvzMo
