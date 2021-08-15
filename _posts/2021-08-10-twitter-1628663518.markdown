@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @wizardfiz 
-date: 2021-08-10 23:31:58 
-categories: twitter 
---- 
-@kroyrunner89 Essentially the indicator tells you when lots of money is moving in or out of a market, based on thei… https://t.co/iuKAsQC2gn
