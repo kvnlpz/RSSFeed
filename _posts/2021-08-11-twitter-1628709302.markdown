@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @p_aggarwaI 
-date: 2021-08-11 12:15:02 
-categories: twitter 
---- 
-@nope_its_lily Yes
