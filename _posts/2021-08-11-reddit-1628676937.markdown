@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Always be sure to back-up your seed phrase 
-date: 2021-08-11 1628676937 
-categories: reddit 
---- 
-https://redd.it/p2a6xs
