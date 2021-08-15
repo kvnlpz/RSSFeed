@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: The polynetwork hack has taught us one thing … 
-date: 2021-08-11 1628682005 
-categories: reddit 
---- 
-https://redd.it/p2bckf
