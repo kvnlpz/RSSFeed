@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: PSA - If you have SMS 2 factor authentication enabled, hackers can steal your coins from Coinbase! 
-date: 2021-08-11 1628683752 
-categories: reddit 
---- 
-https://redd.it/p2bryu
