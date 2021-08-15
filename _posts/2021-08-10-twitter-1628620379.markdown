@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @annak5588 
-date: 2021-08-10 11:32:59 
-categories: twitter 
---- 
-@MikeBellafiore 😂
