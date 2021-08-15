@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @carlosortigoza1 
-date: 2021-08-10 19:49:23 
-categories: twitter 
---- 
-RT @InvestorsLive: Here it is $MRNA 💪
