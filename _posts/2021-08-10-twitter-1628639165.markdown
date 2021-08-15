@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @FridayOrange 
-date: 2021-08-10 16:46:05 
-categories: twitter 
---- 
-@kroyrunner89 Probably just look at a Russell 2000 Index ETF like $IWM
