@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @BrianLeeTrades 
-date: 2021-08-10 20:40:30 
-categories: twitter 
---- 
-@InvestorsLive Thank you Nate!
