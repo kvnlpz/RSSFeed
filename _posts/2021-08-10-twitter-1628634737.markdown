@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @howardlindzon 
-date: 2021-08-10 15:32:17 
-categories: twitter 
---- 
-@RayTL_ Hiiii
