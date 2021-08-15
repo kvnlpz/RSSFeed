@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: US Local Government Crypto Adoption 
-date: 2021-08-11 1628674923 
-categories: reddit 
---- 
-https://redd.it/p29s22
