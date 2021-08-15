@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: Tweet by @astroethefuture 
-date: 2021-08-10 16:00:18 
-categories: twitter 
---- 
-@timothysykes @StocksToTrade All focus, no distractions.
-#disciplined #challengestudent 🎯
