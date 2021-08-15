@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @nabsirr 
-date: 2021-08-10 22:01:48 
-categories: twitter 
---- 
-@modern_rock @Jonk87 They had Shelf @ 11.55
