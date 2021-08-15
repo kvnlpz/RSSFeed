@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @jeffel25 
-date: 2021-08-10 11:22:51 
-categories: twitter 
---- 
-RT @InvestorsLive: $DDD hell ya @markflowchatter great alert in the room!
