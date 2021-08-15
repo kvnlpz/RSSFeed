@@ -1,0 +1,11 @@
+--- 
+layout: post 
+title: Tweet by @leandrosalama 
+date: 2021-08-15 13:30:49 
+categories: twitter 
+--- 
+RT @alphatrends: Big news for TOS users
+
+Alphatrends Anchored VWAP script from @scriptstotrade just launched!
+
+https://t.co/xhITfi0lub 3 mi…
