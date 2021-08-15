@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Bitcoin logarithmic Chart + Fibonacci Channel (created in 2018) 
-date: 2021-08-11 1628683612 
-categories: reddit 
---- 
-https://redd.it/p2bqsr
