@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @Atlastrades1 
-date: 2021-08-10 10:48:28 
-categories: twitter 
---- 
-@InvestorsLive I don’t get how it’s still listed honestly. This should be an OTC pink sheet
