@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @ScrappyTrades 
-date: 2021-08-10 12:08:35 
-categories: twitter 
---- 
-RT @InvestorsLive: Trash is trash 🗑️ https://t.co/SlVPW3NkP5
