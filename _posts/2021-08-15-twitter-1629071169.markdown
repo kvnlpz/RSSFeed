@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @germz74 
+date: 2021-08-15 16:46:09 
+categories: twitter 
+--- 
+@alphatrends @scriptstotrade What are good short, mid and long term MA for a 15min TF?
