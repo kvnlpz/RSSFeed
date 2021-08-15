@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @unusual_whales 
-date: 2021-08-10 10:01:23 
-categories: twitter 
---- 
-@nope_its_lily All they need is a little delta to change things up.
