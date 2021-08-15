@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @paktrades 
-date: 2021-08-10 19:43:11 
-categories: twitter 
---- 
-@OddStockTrader How dare you post this while I’m hungry. Looks good
