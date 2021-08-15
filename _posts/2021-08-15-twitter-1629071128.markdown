@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @profitly 
+date: 2021-08-15 16:45:28 
+categories: twitter 
+--- 
+RT @timothysykes: How was your weekend, did you manage to get in some studying too? Have you reviewed your @StocksToTrade scans for tomorro…
