@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @coloradotravis 
+date: 2021-08-15 10:49:06 
+categories: twitter 
+--- 
+@nope_its_lily @M1tchRosenthal My model does not need to account for non-fundamental price deltas.
+
+If you pay 8 mi… https://t.co/6pV2gLgP2k
