@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @awells1975 
+date: 2021-08-16 06:23:01 
+categories: twitter 
+--- 
+@timothysykes What’s up with GMER?  Closed at 432 but after close showed it drop to 368?
