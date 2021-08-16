@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: White paper published by Microsoft, Alibaba and Carnegie Mellon describes how an Ethereum-based tool to combat pirated content is superior to existing solutions 
+date: 2021-08-16 1629149907 
+categories: reddit 
+--- 
+https://redd.it/p5psc9
