@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: "Coinbase [..] recently added native support for the Polygon chain as well, meaning it's no longer necessary to spend dozens of dollars of ETH and MATIC to move tokens between chains." 
+date: 2021-08-16 1629115663 
+categories: reddit 
+--- 
+https://redd.it/p5equ6
