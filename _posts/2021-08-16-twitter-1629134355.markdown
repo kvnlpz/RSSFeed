@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tenmike 
+date: 2021-08-16 10:19:15 
+categories: twitter 
+--- 
+@InvestorsLive @MrZackMorris watching this ?
