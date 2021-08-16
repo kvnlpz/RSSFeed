@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Software Restores Ethereum Mining on Nvidia's LHR Graphics Cards to 70% 
+date: 2021-08-16 1629129159 
+categories: reddit 
+--- 
+https://redd.it/p5iub8
