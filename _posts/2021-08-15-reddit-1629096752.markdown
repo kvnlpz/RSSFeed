@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How do I change from Abra to a hardware wallet? Also, are there any recommendations for a wallet? 
+date: 2021-08-15 1629096752 
+categories: reddit 
+--- 
+https://redd.it/p5atha
