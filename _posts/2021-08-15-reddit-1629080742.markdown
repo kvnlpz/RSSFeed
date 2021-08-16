@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Does Ada work like ERC 20 tokens? As in is there a way to paste a contact address to an Ada wallet like with Etherscan? 
+date: 2021-08-15 1629080742 
+categories: reddit 
+--- 
+https://redd.it/p5731k
