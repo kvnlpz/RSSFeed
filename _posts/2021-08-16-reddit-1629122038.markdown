@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: After the release of Granada, read our blogpost about working process and special features being developed by Marigold team: https://marigold.dev/blog/processandfeatures/ #tezos #blockchain #sidechain #layer2 
+date: 2021-08-16 1629122038 
+categories: reddit 
+--- 
+https://redd.it/p5gidb
