@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How can a blockchain be truely decetralized if validator machine reqs are this high? How come they boast of 50k tps but not mention at what compromise that's achieved? 
+date: 2021-08-15 1629093428 
+categories: reddit 
+--- 
+https://redd.it/p5a46y
