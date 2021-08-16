@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Noob_Stock 
+date: 2021-08-15 17:22:50 
+categories: twitter 
+--- 
+@OddStockTrader @MLBChampions Is there a way to see sold items?
