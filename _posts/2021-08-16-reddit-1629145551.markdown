@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: An interesting discussion on tokenization. Thought I’d share. 
+date: 2021-08-16 1629145551 
+categories: reddit 
+--- 
+https://redd.it/p5oc6h
