@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @NickDollar 
+date: 2021-08-15 19:30:58 
+categories: twitter 
+--- 
+@InvestorsLive SESN
