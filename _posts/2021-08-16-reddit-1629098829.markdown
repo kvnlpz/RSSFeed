@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Price prediction (Today ) 
+date: 2021-08-16 1629098829 
+categories: reddit 
+--- 
+https://redd.it/p5b8qp
