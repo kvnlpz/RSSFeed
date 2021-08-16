@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Tweet by @matteo_nyc 
+date: 2021-08-16 12:54:29 
+categories: twitter 
+--- 
+@alphatrends Oh ok I imagined :)
+Thank you for your reply and for creating this amazing indicator !
