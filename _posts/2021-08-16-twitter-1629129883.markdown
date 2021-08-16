@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @DorkReview 
+date: 2021-08-16 09:04:43 
+categories: twitter 
+--- 
+RT @TradeHawk: $HOTH Here is background on the Hoth Therapeutics and NC State technology license agreement. https://t.co/9LEJCWeqWi
