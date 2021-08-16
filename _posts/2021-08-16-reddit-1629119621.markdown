@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Explained: How Ethereum update will boot out miners, cut power use by 99.9% 
+date: 2021-08-16 1629119621 
+categories: reddit 
+--- 
+https://redd.it/p5fszo
