@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @WBInvesting 
+date: 2021-08-16 07:24:50 
+categories: twitter 
+--- 
+@alphatrends pvwap, 2dwap worked well.
