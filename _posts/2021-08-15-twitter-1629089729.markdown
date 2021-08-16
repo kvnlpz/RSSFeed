@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @snootypigeon 
+date: 2021-08-15 21:55:29 
+categories: twitter 
+--- 
+RT @nope_its_lily: I'm not sure my ideas on value have any fundamental value, but at least I don't believe true value is solely proportiona…
