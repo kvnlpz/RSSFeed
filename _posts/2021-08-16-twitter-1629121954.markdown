@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @tenmike 
+date: 2021-08-16 06:52:34 
+categories: twitter 
+--- 
+RT @super_trades: $MVST 104% borrow rate at IB
