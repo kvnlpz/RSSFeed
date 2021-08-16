@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: CIP 721 Introduced NFTA : How we minted the NFTAs, and why we went for this standard 
+date: 2021-08-16 1629146446 
+categories: reddit 
+--- 
+https://redd.it/p5on0v
