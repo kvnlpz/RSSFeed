@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: What does smart contracts for Cardano actually means? 
+date: 2021-08-16 1629143864 
+categories: reddit 
+--- 
+https://redd.it/p5nrth
