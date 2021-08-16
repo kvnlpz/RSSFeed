@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @super_trades 
+date: 2021-08-15 17:16:14 
+categories: twitter 
+--- 
+RT @WesleyBKress: If U missed groundbreaking post @luciantodea discussing a #DeFi FIRST. Unlike other #DEX exchanges these LP tokens R #Tra…
