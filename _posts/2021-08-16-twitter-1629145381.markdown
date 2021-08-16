@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @Tolga_Inv 
+date: 2021-08-16 13:23:01 
+categories: twitter 
+--- 
+@RayTL_ Could you explain the launchpad criteria of your KMA script?
