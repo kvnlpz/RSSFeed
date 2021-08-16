@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Popular opinion: all opinions are popular. 
-date: 2021-08-12 1628807936 
-categories: reddit 
---- 
-https://redd.it/p3aoh0
