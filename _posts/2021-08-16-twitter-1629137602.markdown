@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @scriptstotrade 
+date: 2021-08-16 11:13:22 
+categories: twitter 
+--- 
+@super_trades Looking great!
