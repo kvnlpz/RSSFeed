@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ShawnWilsonBTC 
+date: 2021-08-15 21:58:34 
+categories: twitter 
+--- 
+@nope_its_lily * true value is SOLely
