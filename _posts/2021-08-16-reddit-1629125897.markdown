@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Adding a Tezos emoji for twitter 
+date: 2021-08-16 1629125897 
+categories: reddit 
+--- 
+https://redd.it/p5hqdv
