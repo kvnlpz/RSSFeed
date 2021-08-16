@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @ChappySinclair2 
+date: 2021-08-16 12:00:24 
+categories: twitter 
+--- 
+@alphatrends This should hit 30 bucks a share by the end of the year.
