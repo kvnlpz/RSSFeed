@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tweet by @QuantStratTradR 
+date: 2021-08-16 12:34:11 
+categories: twitter 
+--- 
+@nope_its_lily The most useful: ones with a working, explained example that can be replicated and/or falsified. 
+
+"… https://t.co/8EZgA9AsWE
