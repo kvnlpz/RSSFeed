@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Unpopular opinion - Getting too creative with your seed phrase will increase the chances of you losing it 
+date: 2021-08-16 1629103490 
+categories: reddit 
+--- 
+https://redd.it/p5c4hi
