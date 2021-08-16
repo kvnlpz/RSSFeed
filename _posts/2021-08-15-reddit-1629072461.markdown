@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: TIL if you want to see how many karma points you have earned in a current month and the estimated moons-to-upvote ratio, simply use this short-cut (works only in browser) 
+date: 2021-08-15 1629072461 
+categories: reddit 
+--- 
+https://redd.it/p53o4k
