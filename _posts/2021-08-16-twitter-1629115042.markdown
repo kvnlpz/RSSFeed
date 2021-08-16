@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @markbau 
+date: 2021-08-16 04:57:22 
+categories: twitter 
+--- 
+@timothysykes @karmagawa Right on!
