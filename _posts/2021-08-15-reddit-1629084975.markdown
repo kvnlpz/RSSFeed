@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: My apologies for the noob question. Once smart contracts are complete, does that mean other projects/tokens will be built on the cardano network? 
+date: 2021-08-15 1629084975 
+categories: reddit 
+--- 
+https://redd.it/p586p3
