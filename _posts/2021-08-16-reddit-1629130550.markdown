@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: HEX, an ERC-20 Token 
+date: 2021-08-16 1629130550 
+categories: reddit 
+--- 
+https://redd.it/p5jbdp
