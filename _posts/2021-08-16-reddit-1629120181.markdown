@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Probability Analysis and (E)xpected (V)alue (EV) Revisited 
+date: 2021-08-16 1629120181 
+categories: reddit 
+--- 
+https://redd.it/p5fyu8
