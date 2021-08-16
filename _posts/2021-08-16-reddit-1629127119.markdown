@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ELI5: EIP 1559 is in effect. Gas prices are still... 
+date: 2021-08-16 1629127119 
+categories: reddit 
+--- 
+https://redd.it/p5i5e8
