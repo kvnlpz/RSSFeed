@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Back to the Basics: Blockchains - An intuitive and visual Explanation of a PoW Blockchain 
+date: 2021-08-16 1629141423 
+categories: reddit 
+--- 
+https://redd.it/p5my83
