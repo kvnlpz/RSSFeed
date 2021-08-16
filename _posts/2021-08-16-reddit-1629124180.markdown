@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Can anyone explain to me, why crypto transactions take seconds, but unstaking a couple of coins takes hours/days ? 
+date: 2021-08-16 1629124180 
+categories: reddit 
+--- 
+https://redd.it/p5h67z
