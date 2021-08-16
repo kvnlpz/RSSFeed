@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Does anyone own a hardware wallet, specifically Trezor Model T? How do I transfer Monero? 
+date: 2021-08-16 1629109156 
+categories: reddit 
+--- 
+https://redd.it/p4s0f4
