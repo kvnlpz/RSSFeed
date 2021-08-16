@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @fuzzycapital 
+date: 2021-08-15 17:59:45 
+categories: twitter 
+--- 
+RT @nope_its_lily: I feel if I was to go into designing financial products over the next ten years I would simply focus on inventing new ty…
