@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @_Chiplis_ 
+date: 2021-08-15 17:29:07 
+categories: twitter 
+--- 
+@nope_its_lily So… smart contracts? Wouldn’t decentralized leverage with recourse be strictly better?
