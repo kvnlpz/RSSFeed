@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @unusual_whales 
+date: 2021-08-16 12:31:52 
+categories: twitter 
+--- 
+@nope_its_lily My current favorite financial blog: https://t.co/BsVzyENLWV
