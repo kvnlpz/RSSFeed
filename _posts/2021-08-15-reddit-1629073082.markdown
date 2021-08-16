@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Don't share your seed with 3rd party services!! Obligatory post after the guy who sent his PK/seed to his future self. 
+date: 2021-08-15 1629073082 
+categories: reddit 
+--- 
+https://redd.it/p55357
