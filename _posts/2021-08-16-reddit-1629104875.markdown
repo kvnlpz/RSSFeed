@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: bitrequest.io now supports XMR integrated addresses. Enter one address and send / track multiple requests! 
+date: 2021-08-16 1629104875 
+categories: reddit 
+--- 
+https://redd.it/p5cdzx
