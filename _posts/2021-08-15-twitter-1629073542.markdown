@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @SpringsCindy 
+date: 2021-08-15 17:25:42 
+categories: twitter 
+--- 
+@timothysykes I promise to study it!!!!!!
