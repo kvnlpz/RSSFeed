@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @procat1 
+date: 2021-08-16 08:54:49 
+categories: twitter 
+--- 
+@OddStockTrader the smarter the phones, the dumber the users !
