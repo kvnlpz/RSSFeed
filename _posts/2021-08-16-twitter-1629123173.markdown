@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @mjfork 
+date: 2021-08-16 07:12:53 
+categories: twitter 
+--- 
+@RayTL_ @RayTL_ do you publish change dates / change logs for the scripts so we know when to update?  Thanks for sharing the good work!
