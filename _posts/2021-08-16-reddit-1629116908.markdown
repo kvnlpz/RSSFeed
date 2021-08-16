@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: How can total supply be greater than max supply? 
+date: 2021-08-16 1629116908 
+categories: reddit 
+--- 
+https://redd.it/p5f29y
