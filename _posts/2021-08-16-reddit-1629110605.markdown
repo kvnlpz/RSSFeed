@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: ETH staking is now available directly from your Ledger hardware wallet 
+date: 2021-08-16 1629110605 
+categories: reddit 
+--- 
+https://redd.it/p5djzd
