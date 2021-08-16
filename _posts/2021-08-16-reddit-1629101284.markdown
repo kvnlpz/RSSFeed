@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Post karma 
+date: 2021-08-16 1629101284 
+categories: reddit 
+--- 
+https://redd.it/p5bpvd
