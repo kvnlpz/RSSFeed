@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: Tweet by @matteo_nyc 
+date: 2021-08-16 12:12:47 
+categories: twitter 
+--- 
+@alphatrends Hi Brian, how can we plot the aVWAP in MarketSmith ?
