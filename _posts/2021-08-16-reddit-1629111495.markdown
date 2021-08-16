@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: This is yet another post complaining about Ethereum gas fees, It's absolutely bananas. Even with the release of Eth 2.0 It's still going to need commit-chains 
+date: 2021-08-16 1629111495 
+categories: reddit 
+--- 
+https://redd.it/p5dqq5
