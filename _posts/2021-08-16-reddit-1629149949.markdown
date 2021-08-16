@@ -1,0 +1,7 @@
+--- 
+layout: post 
+title: By The Numbers: How EIP-1559 Has Impacted Ethereum Thus Far 
+date: 2021-08-16 1629149949 
+categories: reddit 
+--- 
+https://redd.it/p5pt2u
