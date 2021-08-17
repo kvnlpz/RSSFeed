@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @vin007USMC 
-date: 2021-08-12 00:58:33 
-categories: twitter 
---- 
-@timothysykes @TessaLamping @StocksToTrade Still and always studying
