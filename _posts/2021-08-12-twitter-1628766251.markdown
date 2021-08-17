@@ -1,7 +1,0 @@
---- 
-layout: post 
-title: Tweet by @InvestorsLive 
-date: 2021-08-12 04:04:11 
-categories: twitter 
---- 
-✅ Let's go! #LFG
